@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Epistemic Reasoning Annotator</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<!-- ── TOP BAR ─────────────────────────────────────────────── -->
+<header id="topbar">
+  <div id="topbar-left">
+    <label>Case:
+      <select id="case-select"><option value="">-- select --</option></select>
+    </label>
+    <label>Annotator:
+      <input id="annotator-input" type="text" placeholder="your name" autocomplete="off">
+    </label>
+  </div>
+  <div id="topbar-right">
+    <button id="btn-export">⬇ Export JSON</button>
+    <label id="btn-import-label">⬆ Import JSON
+      <input id="import-file" type="file" accept=".json" style="display:none">
+    </label>
+    <button id="btn-clear-compare" style="display:none">✕ Clear comparison</button>
+  </div>
+</header>
+
+<!-- ── LABEL PALETTE ──────────────────────────────────────── -->
+<div id="palette">
+  <div class="palette-group">
+    <span class="group-label">ABD</span>
+    <button class="label-btn" data-label="1"  data-name="ABD_SELECTIVE">1 SEL</button>
+    <button class="label-btn" data-label="2"  data-name="ABD_CREATIVE">2 CRE</button>
+    <button class="label-btn" data-label="3"  data-name="ABD_CAUSAL">3 CAU</button>
+    <button class="label-btn" data-label="4"  data-name="ABD_VISUAL">4 VIS</button>
+  </div>
+  <div class="palette-group">
+    <span class="group-label">IND</span>
+    <button class="label-btn" data-label="5"  data-name="IND_PATTERN">5 PAT</button>
+    <button class="label-btn" data-label="6"  data-name="IND_INTUITION">6 INT</button>
+    <button class="label-btn" data-label="7"  data-name="IND_BAYESIAN">7 BAY</button>
+    <button class="label-btn" data-label="8"  data-name="IND_CASEBASED">8 CAS</button>
+  </div>
+  <div class="palette-group">
+    <span class="group-label">DED</span>
+    <button class="label-btn" data-label="9"  data-name="DED_HYPOTHETICO">9 HYP</button>
+    <button class="label-btn" data-label="10" data-name="DED_ALGORITHMIC">10 ALG</button>
+    <button class="label-btn" data-label="11" data-name="DED_HIERARCHICAL">11 HIE</button>
+    <button class="label-btn" data-label="12" data-name="DED_VALIDATION">12 VAL</button>
+  </div>
+  <div id="active-label-display">No label selected</div>
+</div>
+
+<!-- ── WARNING BAR ──────────────────────────────────────────── -->
+<div id="warning-bar" style="display:none"></div>
+
+<!-- ── MAIN PANELS ─────────────────────────────────────────── -->
+<div id="main">
+
+  <!-- LEFT: document -->
+  <div id="doc-panel">
+    <div id="doc-placeholder">Select a case and enter your annotator name to begin.</div>
+    <div id="doc" tabindex="0"></div>
+  </div>
+
+  <!-- RIGHT: annotations -->
+  <div id="annotation-panel">
+    <div id="stats-bar"></div>
+    <div id="annotation-list"></div>
+    <details id="json-preview-details">
+      <summary>JSON preview</summary>
+      <pre id="json-preview"></pre>
+    </details>
+  </div>
+
+</div>
+
+<!-- ── SPAN POPUP ───────────────────────────────────────────── -->
+<div id="span-popup" style="display:none">
+  <span id="popup-label-name"></span>
+  <button id="popup-delete">Delete ✕</button>
+</div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

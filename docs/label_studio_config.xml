@@ -1,0 +1,57 @@
+<View>
+  <!-- Case metadata header -->
+  <Header value="Case: $case_id | Year: $year | Category: $lda_category" />
+  <Header value="Word count: $ddx_word_count" />
+
+  <!-- DDx text with span labeling -->
+  <Text name="ddx_text" value="$ddx_text" />
+
+  <!-- Primary label: 14-way exclusive -->
+  <Labels name="primary_label" toName="ddx_text" choice="single">
+    <!-- Abduction -->
+<Label value="ABD_SELECTIVE" background="#e57373" title="Best-fitting diagnosis from known candidates" />
+<Label value="ABD_CREATIVE" background="#c62828" title="Novel hypothesis not previously in the clinician's repertoire" />
+<Label value="ABD_CAUSAL" background="#ef9a9a" title="Backward reasoning from symptoms to underlying pathomechanism" />
+<Label value="ABD_VISUAL" background="#ff8a80" title="Hypothesis triggered by direct sensory perception or epistemic action" />
+<Label value="DED_HYPOTHETICO" background="#64b5f6" title="If hypothesis H is true, finding F should be present; test F" />
+<Label value="DED_ALGORITHMIC" background="#1565c0" title="Applying a codified clinical guideline or protocol mechanically" />
+<Label value="DED_HIERARCHICAL" background="#90caf9" title="Priority-ordered exclusion: life-threatening first" />
+<Label value="DED_VALIDATION" background="#42a5f5" title="Retrospective coherence check of working diagnosis against all data" />
+<Label value="IND_PATTERN" background="#81c784" title="Rapid illness-script matching from a symptom constellation" />
+<Label value="IND_INTUITION" background="#2e7d32" title="Pre-analytic affective signal of concern or urgency before formal reasoning" />
+<Label value="IND_BAYESIAN" background="#a5d6a7" title="Probabilistic updating of hypothesis probability given new evidence" />
+<Label value="IND_CASEBASED" background="#4caf50" title="Retrieval and adaptation of an analogous prior clinical case" />
+<Label value="PRE_MUSEMENT" background="#ffb74d" title="Speculative exploratory phase before any formal hypothesis" />
+<Label value="PRE_PROBLEMREP" background="#ff8f00" title="Translation of raw case data into a diagnostic semantic frame" />
+  </Labels>
+
+  <!-- Secondary label (Smith 2014 discourse function) — multi-select -->
+  <Choices name="secondary_label" toName="ddx_text" choice="multiple"
+           showInline="true" header="Secondary label (discourse function)">
+<Choice value="STORY" hint="Personal narrative of an analogous patient encounter" />
+<Choice value="DISCONFIRMING_CUE" hint="Reasoning about absent or negating evidence" />
+<Choice value="RULE_BASED" hint="Application of a protocol, guideline, or algorithm" />
+<Choice value="LOGIC" hint="Formal if-then diagnostic argument" />
+<Choice value="EXPERIENCE" hint="Reference to accumulated clinical experience (no specific story)" />
+<Choice value="TESTS_DISCRIMINATIVE" hint="Test selection explicitly tied to hypothesis discrimination" />
+<Choice value="TESTS_NONDISCRIMINATIVE" hint="Test listed without epistemic justification" />
+  </Choices>
+
+  <!-- Binary flags — any combination -->
+  <Choices name="flags" toName="ddx_text" choice="multiple"
+           showInline="false" header="Flags (apply any that fit)">
+<Choice value="NONMONOTONIC" hint="Explicit reversal: 'however this would not explain...', 'upon reconsideration...'" />
+<Choice value="NEGATIVE_FACT" hint="Absent finding cited as evidence: 'notably absent was X', 'lack of X argues against Y'" />
+<Choice value="BIAS_ANCHORING" hint="Anchoring bias: sticking to initial hypothesis despite contradictory new evidence" />
+<Choice value="BIAS_CONFIRMATORY" hint="Confirmatory bias: only seeking evidence supporting the current hypothesis" />
+<Choice value="BIAS_AVAILABLE" hint="Availability bias: over-weighting a recently seen or memorable diagnosis" />
+<Choice value="BIAS_REPRESENTATIVE" hint="Representativeness bias: over-relying on prototype match, ignoring base rates" />
+<Choice value="BIAS_PREMATURE" hint="Premature closure: accepting a diagnosis without adequately excluding alternatives" />
+<Choice value="FACTUAL_ERROR" hint="Tentative flag for verifiably incorrect medical claim — requires expert review" />
+  </Choices>
+
+  <!-- Annotator notes -->
+  <TextArea name="notes" toName="ddx_text"
+            placeholder="Optional: explain boundary cases or uncertainty"
+            rows="3" editable="true" />
+</View>
