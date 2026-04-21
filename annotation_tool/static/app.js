@@ -4,16 +4,16 @@
 const LABELS = {
   1:  { name: 'ABD_SELECTIVE',   color: '#FF4D4D', lightText: false },
   2:  { name: 'ABD_CREATIVE',    color: '#FF7043', lightText: false },
-  3:  { name: 'ABD_CAUSAL',      color: '#FF9800', lightText: true  },
-  4:  { name: 'ABD_VISUAL',      color: '#FFC107', lightText: true  },
-  5:  { name: 'IND_PATTERN',     color: '#66BB6A', lightText: false },
-  6:  { name: 'IND_INTUITION',   color: '#26A69A', lightText: false },
-  7:  { name: 'IND_BAYESIAN',    color: '#29B6F6', lightText: true  },
-  8:  { name: 'IND_CASEBASED',   color: '#42A5F5', lightText: false },
-  9:  { name: 'DED_HYPOTHETICO', color: '#AB47BC', lightText: false },
-  10: { name: 'DED_ALGORITHMIC', color: '#7E57C2', lightText: false },
-  11: { name: 'DED_HIERARCHICAL',color: '#5C6BC0', lightText: false },
-  12: { name: 'DED_VALIDATION',  color: '#3F51B5', lightText: false },
+  3:  { name: 'ABD_VISUAL',      color: '#FF9800', lightText: true  },
+  4:  { name: 'ABD_CAUSAL',      color: '#FFC107', lightText: true  },
+  5:  { name: 'DED_HYPOTHETICO', color: '#AB47BC', lightText: false },
+  6:  { name: 'DED_ALGORITHMIC', color: '#7E57C2', lightText: false },
+  7:  { name: 'DED_HIERARCHICAL',color: '#5C6BC0', lightText: false },
+  8:  { name: 'DED_VALIDATION',  color: '#3F51B5', lightText: false },
+  9:  { name: 'IND_PATTERN',     color: '#66BB6A', lightText: false },
+  10: { name: 'IND_INTUITION',   color: '#26A69A', lightText: false },
+  11: { name: 'IND_BAYESIAN',    color: '#29B6F6', lightText: true  },
+  12: { name: 'IND_CASEBASED',   color: '#42A5F5', lightText: false },
 };
 
 // ── localStorage keys ─────────────────────────────────────────

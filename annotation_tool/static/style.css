@@ -7,8 +7,8 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 14px;
 /* ── Label colors ──────────────────────────────────────────── */
 :root {
   --c1:  #FF4D4D; --c2:  #FF7043; --c3:  #FF9800; --c4:  #FFC107;
-  --c5:  #66BB6A; --c6:  #26A69A; --c7:  #29B6F6; --c8:  #42A5F5;
-  --c9:  #AB47BC; --c10: #7E57C2; --c11: #5C6BC0; --c12: #3F51B5;
+  --c5:  #AB47BC; --c6:  #7E57C2; --c7:  #5C6BC0; --c8:  #3F51B5;
+  --c9:  #66BB6A; --c10: #26A69A; --c11: #29B6F6; --c12: #42A5F5;
 }
 
 /* ── Top bar ───────────────────────────────────────────────── */
@@ -54,6 +54,31 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 14px;
 }
 .label-btn:hover { transform: translateY(-1px); box-shadow: 0 2px 6px rgba(0,0,0,.2); }
 .label-btn.active { border-color: #000; box-shadow: 0 0 0 3px rgba(0,0,0,.3); }
+
+.label-btn[data-tooltip] { position: relative; }
+.label-btn[data-tooltip]::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: calc(100% + 10px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: #1e2a3a;
+  color: #e8edf3;
+  font-size: 11.5px;
+  font-weight: 400;
+  line-height: 1.45;
+  padding: 7px 11px;
+  border-radius: 6px;
+  width: 250px;
+  white-space: normal;
+  text-align: left;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  z-index: 3000;
+  box-shadow: 0 4px 14px rgba(0,0,0,.35);
+}
+.label-btn[data-tooltip]:hover::after { opacity: 1; }
 
 .label-btn[data-label="1"]  { background: var(--c1); }
 .label-btn[data-label="2"]  { background: var(--c2); }

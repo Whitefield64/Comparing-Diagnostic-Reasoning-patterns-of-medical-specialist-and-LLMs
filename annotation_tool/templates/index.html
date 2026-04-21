@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Epistemic Reasoning Annotator</title>
-  <link rel="stylesheet" href="/static/style.css?v=4">
+  <link rel="stylesheet" href="/static/style.css?v=5">
 </head>
 <body>
 
@@ -33,24 +33,24 @@
 <div id="palette">
   <div class="palette-group">
     <span class="group-label">ABD</span>
-    <button class="label-btn" data-label="1"  data-name="ABD_SELECTIVE">1 SEL</button>
-    <button class="label-btn" data-label="2"  data-name="ABD_CREATIVE">2 CRE</button>
-    <button class="label-btn" data-label="3"  data-name="ABD_CAUSAL">3 CAU</button>
-    <button class="label-btn" data-label="4"  data-name="ABD_VISUAL">4 VIS</button>
-  </div>
-  <div class="palette-group">
-    <span class="group-label">IND</span>
-    <button class="label-btn" data-label="5"  data-name="IND_PATTERN">5 PAT</button>
-    <button class="label-btn" data-label="6"  data-name="IND_INTUITION">6 INT</button>
-    <button class="label-btn" data-label="7"  data-name="IND_BAYESIAN">7 BAY</button>
-    <button class="label-btn" data-label="8"  data-name="IND_CASEBASED">8 CAS</button>
+    <button class="label-btn" data-label="1"  data-name="ABD_SELECTIVE"   data-tooltip="Identifying the best-fitting diagnosis from a pre-existing set of known disease candidates.">1 SEL</button>
+    <button class="label-btn" data-label="2"  data-name="ABD_CREATIVE"    data-tooltip="Generating a genuinely novel hypothesis not previously in the clinician's repertoire, essential for rare or atypical presentations.">2 CRE</button>
+    <button class="label-btn" data-label="3"  data-name="ABD_VISUAL"      data-tooltip="A perceptually driven form where direct sensory engagement with the patient — sight, touch, sound — triggers a hypothesis before any formal analytical step.">3 VIS</button>
+    <button class="label-btn" data-label="4"  data-name="ABD_CAUSAL"      data-tooltip="Reasoning backward from an observed outcome or symptom cluster to identify the underlying pathophysiological mechanism that could produce it.">4 CAU</button>
   </div>
   <div class="palette-group">
     <span class="group-label">DED</span>
-    <button class="label-btn" data-label="9"  data-name="DED_HYPOTHETICO">9 HYP</button>
-    <button class="label-btn" data-label="10" data-name="DED_ALGORITHMIC">10 ALG</button>
-    <button class="label-btn" data-label="11" data-name="DED_HIERARCHICAL">11 HIE</button>
-    <button class="label-btn" data-label="12" data-name="DED_VALIDATION">12 VAL</button>
+    <button class="label-btn" data-label="5"  data-name="DED_HYPOTHETICO" data-tooltip="The classical model: generate a hypothesis, deduce what findings must be present if true, then test that prediction against the patient's actual data.">5 HYP</button>
+    <button class="label-btn" data-label="6"  data-name="DED_ALGORITHMIC"  data-tooltip="Applying a pre-determined, codified clinical decision rule or evidence-based guideline mechanically to patient data to yield a structured conclusion.">6 ALG</button>
+    <button class="label-btn" data-label="7"  data-name="DED_HIERARCHICAL" data-tooltip="Organizing competing diagnoses by clinical priority — life-threatening first, then most common — and systematically excluding them in order of urgency.">7 HIE</button>
+    <button class="label-btn" data-label="8"  data-name="DED_VALIDATION"   data-tooltip="A structured retrospective check in which the clinician re-examines whether the tentative diagnosis remains coherent with all gathered data, including any previously overlooked findings.">8 VAL</button>
+  </div>
+  <div class="palette-group">
+    <span class="group-label">IND</span>
+    <button class="label-btn" data-label="9"  data-name="IND_PATTERN"     data-tooltip="Rapid, automatic retrieval of a stored illness script or clinical prototype triggered by a matching symptom constellation; dominant in expert, familiar cases.">9 PAT</button>
+    <button class="label-btn" data-label="10" data-name="IND_INTUITION"   data-tooltip="An affective, pre-analytic signal of concern or urgency that arises before formal reasoning; more prognostic than diagnostic, often prompting deeper investigation despite reassuring data.">10 INT</button>
+    <button class="label-btn" data-label="11" data-name="IND_BAYESIAN"    data-tooltip="Formal probabilistic reasoning that quantitatively updates the prior probability of a disease using new evidence — test results, signs, or epidemiological data.">11 BAY</button>
+    <button class="label-btn" data-label="12" data-name="IND_CASEBASED"   data-tooltip="Retrieval of one or more prior clinical cases analogous to the current patient, followed by adaptation of that case's resolution to the new context; used by both human experts and AI systems.">12 CAS</button>
   </div>
   <div id="active-label-display">No label selected</div>
 </div>
@@ -85,6 +85,6 @@
   <button id="popup-delete">Delete &#10005;</button>
 </div>
 
-<script src="/static/app.js?v=4"></script>
+<script src="/static/app.js?v=5"></script>
 </body>
 </html>
