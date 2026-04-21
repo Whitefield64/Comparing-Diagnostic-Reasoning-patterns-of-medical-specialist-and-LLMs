@@ -2,54 +2,133 @@
 
 // ── Label definitions ─────────────────────────────────────────
 const LABELS = {
-  1:  { name: 'ABD_SELECTIVE',  color: '#FF4D4D', lightText: false },
-  2:  { name: 'ABD_CREATIVE',   color: '#FF7043', lightText: false },
-  3:  { name: 'ABD_CAUSAL',     color: '#FF9800', lightText: true  },
-  4:  { name: 'ABD_VISUAL',     color: '#FFC107', lightText: true  },
-  5:  { name: 'IND_PATTERN',    color: '#66BB6A', lightText: false },
-  6:  { name: 'IND_INTUITION',  color: '#26A69A', lightText: false },
-  7:  { name: 'IND_BAYESIAN',   color: '#29B6F6', lightText: true  },
-  8:  { name: 'IND_CASEBASED',  color: '#42A5F5', lightText: false },
-  9:  { name: 'DED_HYPOTHETICO',color: '#AB47BC', lightText: false },
-  10: { name: 'DED_ALGORITHMIC',color: '#7E57C2', lightText: false },
-  11: { name: 'DED_HIERARCHICAL',color:'#5C6BC0', lightText: false },
-  12: { name: 'DED_VALIDATION', color: '#3F51B5', lightText: false },
+  1:  { name: 'ABD_SELECTIVE',   color: '#FF4D4D', lightText: false },
+  2:  { name: 'ABD_CREATIVE',    color: '#FF7043', lightText: false },
+  3:  { name: 'ABD_CAUSAL',      color: '#FF9800', lightText: true  },
+  4:  { name: 'ABD_VISUAL',      color: '#FFC107', lightText: true  },
+  5:  { name: 'IND_PATTERN',     color: '#66BB6A', lightText: false },
+  6:  { name: 'IND_INTUITION',   color: '#26A69A', lightText: false },
+  7:  { name: 'IND_BAYESIAN',    color: '#29B6F6', lightText: true  },
+  8:  { name: 'IND_CASEBASED',   color: '#42A5F5', lightText: false },
+  9:  { name: 'DED_HYPOTHETICO', color: '#AB47BC', lightText: false },
+  10: { name: 'DED_ALGORITHMIC', color: '#7E57C2', lightText: false },
+  11: { name: 'DED_HIERARCHICAL',color: '#5C6BC0', lightText: false },
+  12: { name: 'DED_VALIDATION',  color: '#3F51B5', lightText: false },
 };
 
+// ── localStorage keys ─────────────────────────────────────────
+const LS_LAST_CASE      = 'ann_last_case';
+const LS_LAST_ANNOTATOR = 'ann_last_annotator';
+const lsContentKey  = (fname) => `ann_content_${fname}`;
+const lsAnnsKey     = (fname, ann) => `ann_annotations_${fname}_${ann}`;
+
 // ── State ─────────────────────────────────────────────────────
-let rawText       = '';
-let activeLabel   = null;
-let annotations   = [];       // own annotations
-let compareAnnotations = [];  // imported (read-only)
-let currentCase   = '';
-let annotatorName = '';
-let pocRange      = null;     // {start, end} char range of PoC section
-let popupAnnId    = null;
+let rawText           = '';
+let activeLabel       = null;
+let annotations       = [];
+let compareAnnotations= [];
+let currentCase       = '';
+let annotatorName     = '';
+let pocRange          = null;
+let popupAnnId        = null;
+let mergeSelection    = [];   // up to 2 annotation IDs queued for merge
 
 // ── DOM refs ──────────────────────────────────────────────────
-const caseSelect    = document.getElementById('case-select');
-const annotatorInput= document.getElementById('annotator-input');
-const doc           = document.getElementById('doc');
-const docPlaceholder= document.getElementById('doc-placeholder');
-const annList       = document.getElementById('annotation-list');
-const statsBar      = document.getElementById('stats-bar');
-const jsonPreview   = document.getElementById('json-preview');
-const warningBar    = document.getElementById('warning-bar');
-const spanPopup     = document.getElementById('span-popup');
-const popupLabelName= document.getElementById('popup-label-name');
-const popupDelete   = document.getElementById('popup-delete');
-const btnClearCmp   = document.getElementById('btn-clear-compare');
+const annotatorInput  = document.getElementById('annotator-input');
+const caseNameDisplay = document.getElementById('case-name-display');
+const doc             = document.getElementById('doc');
+const docPlaceholder  = document.getElementById('doc-placeholder');
+const annList         = document.getElementById('annotation-list');
+const statsBar        = document.getElementById('stats-bar');
+const jsonPreview     = document.getElementById('json-preview');
+const warningBar      = document.getElementById('warning-bar');
+const spanPopup       = document.getElementById('span-popup');
+const popupLabelName  = document.getElementById('popup-label-name');
+const popupDelete     = document.getElementById('popup-delete');
+const btnClearCmp     = document.getElementById('btn-clear-compare');
 
-// ── Boot ──────────────────────────────────────────────────────
-(async () => {
-  const res  = await fetch('/api/cases');
-  const list = await res.json();
-  list.forEach(f => {
-    const opt = document.createElement('option');
-    opt.value = f; opt.textContent = f;
-    caseSelect.appendChild(opt);
-  });
+// ── Boot: restore last session ────────────────────────────────
+(function restoreSession() {
+  const lastCase = localStorage.getItem(LS_LAST_CASE);
+  const lastAnnotator = localStorage.getItem(LS_LAST_ANNOTATOR);
+  if (!lastCase || !lastAnnotator) return;
+
+  const content = localStorage.getItem(lsContentKey(lastCase));
+  if (!content) return;
+
+  annotatorName = lastAnnotator;
+  annotatorInput.value = lastAnnotator;
+  openCase(lastCase, content, /* silent */ true);
 })();
+
+// ── Load case file from PC ────────────────────────────────────
+document.getElementById('load-case-file').addEventListener('change', async (e) => {
+  const file = e.target.files[0];
+  if (!file) return;
+  try {
+    const raw = await file.text();
+    // Normalise line endings so char offsets are consistent
+    const text = raw.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
+    localStorage.setItem(lsContentKey(file.name), text);
+    openCase(file.name, text, false);
+  } catch (err) {
+    alert('Could not read file: ' + err.message);
+  }
+  e.target.value = '';
+});
+
+function migrateLegacyAnnotation(a) {
+  // Convert old merged format {ranges, text, merged:true} → {parts, merged:true}
+  if (a.merged && a.ranges && !a.parts) {
+    const texts = a.text ? a.text.split('...') : [];
+    return {
+      ...a,
+      parts: a.ranges.map(([start, end], i) => ({ start, end, text: texts[i] ?? '' })),
+      ranges: undefined,
+      text: undefined,
+    };
+  }
+  return a;
+}
+
+function openCase(fname, content, silent) {
+  currentCase = fname;
+  rawText = content;
+  pocRange = detectPocRange(rawText);
+  caseNameDisplay.textContent = fname;
+  localStorage.setItem(LS_LAST_CASE, fname);
+
+  const savedAnns = localStorage.getItem(lsAnnsKey(fname, annotatorName));
+  if (savedAnns) {
+    const parsed = JSON.parse(savedAnns).map(migrateLegacyAnnotation);
+    if (parsed.length > 0 && !silent) {
+      annotations = confirm(`Resume previous session? (${parsed.length} annotation(s) found)`)
+        ? parsed : [];
+    } else {
+      annotations = parsed;
+    }
+  } else {
+    annotations = [];
+  }
+
+  compareAnnotations = [];
+  btnClearCmp.style.display = 'none';
+  docPlaceholder.style.display = 'none';
+  doc.style.display = 'block';
+  render();
+}
+
+// ── Annotator input ───────────────────────────────────────────
+annotatorInput.addEventListener('input', () => {
+  annotatorName = annotatorInput.value.trim();
+  localStorage.setItem(LS_LAST_ANNOTATOR, annotatorName);
+  if (currentCase && annotatorName) {
+    // Reload annotations for this annotator
+    const saved = localStorage.getItem(lsAnnsKey(currentCase, annotatorName));
+    annotations = saved ? JSON.parse(saved) : [];
+    render();
+  }
+});
 
 // ── Palette wiring ────────────────────────────────────────────
 document.querySelectorAll('.label-btn').forEach(btn => {
@@ -64,80 +143,36 @@ document.querySelectorAll('.label-btn').forEach(btn => {
       document.querySelectorAll('.label-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       document.getElementById('active-label-display').textContent =
-        `Active: ${n} · ${LABELS[n].name}`;
+        `Active: ${n} \u00b7 ${LABELS[n].name}`;
     }
   });
 });
 
-// ── Case / annotator change ───────────────────────────────────
-caseSelect.addEventListener('change', () => {
-  currentCase = caseSelect.value;
-  if (currentCase && annotatorName) loadCase();
-});
-annotatorInput.addEventListener('input', () => {
-  annotatorName = annotatorInput.value.trim();
-  if (currentCase && annotatorName) loadCase();
-});
-
-async function loadCase() {
-  const res = await fetch(`/api/cases/${encodeURIComponent(currentCase)}`);
-  rawText = await res.text();
-  pocRange = detectPocRange(rawText);
-
-  // Try to restore from localStorage
-  const saved = localStorage.getItem(lsKey());
-  if (saved) {
-    const parsed = JSON.parse(saved);
-    if (parsed.length > 0) {
-      const resume = confirm(`Resume previous session? (${parsed.length} annotation(s) found)`);
-      annotations = resume ? parsed : [];
-    } else {
-      annotations = [];
-    }
-  } else {
-    annotations = [];
-  }
-  compareAnnotations = [];
-  btnClearCmp.style.display = 'none';
-
-  docPlaceholder.style.display = 'none';
-  doc.style.display = 'block';
-  render();
-}
-
-function lsKey() {
-  return `annotations_${currentCase}_${annotatorName}`;
-}
-
 // ── PoC range detection ───────────────────────────────────────
-// Returns {start, end} char positions of the PoC section in rawText
 function detectPocRange(text) {
-  const pocRe = /^##\s+Presentation of Case/im;
-  const nextSecRe = /^##\s+/gm;
-
+  const pocRe    = /^##\s+Presentation of Case/im;
+  const nextSecRe= /^##\s+/gm;
   const pocMatch = pocRe.exec(text);
   if (!pocMatch) return null;
-
   const start = pocMatch.index;
   nextSecRe.lastIndex = start + pocMatch[0].length;
   const nextMatch = nextSecRe.exec(text);
-  const end = nextMatch ? nextMatch.index : text.length;
-  return { start, end };
+  return { start, end: nextMatch ? nextMatch.index : text.length };
 }
 
 // ── Render document ───────────────────────────────────────────
 function render() {
-  // Merge own + compare annotations to build highlight map
   const allAnns = [
     ...annotations.map(a => ({ ...a, isCompare: false })),
     ...compareAnnotations.map(a => ({ ...a, isCompare: true })),
   ];
 
-  // Build sorted boundary events
   const events = [];
   allAnns.forEach(a => {
-    events.push({ pos: a.start, type: 'open',  ann: a });
-    events.push({ pos: a.end,   type: 'close', ann: a });
+    getRanges(a).forEach(([s, e]) => {
+      events.push({ pos: s, type: 'open',  ann: a });
+      events.push({ pos: e, type: 'close', ann: a });
+    });
   });
   events.sort((a, b) => a.pos - b.pos || (a.type === 'close' ? -1 : 1));
 
@@ -147,14 +182,10 @@ function render() {
   const open = new Set();
 
   while (i < rawText.length || eIdx < events.length) {
-    // Flush any events at position i
     while (eIdx < events.length && events[eIdx].pos <= i) {
       const ev = events[eIdx++];
       if (ev.type === 'close') {
-        if (open.has(ev.ann.id)) {
-          open.delete(ev.ann.id);
-          html += '</span>';
-        }
+        if (open.has(ev.ann.id)) { open.delete(ev.ann.id); html += '</span>'; }
       } else {
         open.add(ev.ann.id);
         const cls = ev.ann.isCompare ? 'hl compare' : 'hl';
@@ -162,20 +193,11 @@ function render() {
       }
     }
     if (i >= rawText.length) break;
-
     const nextEvent = eIdx < events.length ? events[eIdx].pos : rawText.length;
-    const chunk = rawText.slice(i, nextEvent);
-    html += encodeChunk(chunk, i);
+    html += encodeChunk(rawText.slice(i, nextEvent), i);
     i = nextEvent;
   }
-  // Close any still-open spans
   open.forEach(() => { html += '</span>'; });
-
-  // Wrap PoC zone
-  if (pocRange) {
-    // We inject a wrapper around the PoC region; do this post-hoc on the HTML string
-    // by marking it at render time — simpler: we handle it in encodeChunk by tracking position
-  }
 
   doc.innerHTML = html;
   wrapPocZone();
@@ -183,17 +205,10 @@ function render() {
   renderPanel();
 }
 
-// Encode a text chunk into HTML, handling headers and PoC zone
 function encodeChunk(chunk, startPos) {
-  // Split into lines, process each
   const parts = chunk.split('\n');
   let out = '';
-  let localPos = startPos;
-
   parts.forEach((line, idx) => {
-    // Determine if this line is in PoC zone
-    const inPoc = pocRange && localPos >= pocRange.start && localPos < pocRange.end;
-
     if (line.startsWith('### ')) {
       out += `<span class="md-h3"><span class="md-pfx" aria-hidden="true">### </span>${escHtml(line.slice(4))}</span>`;
     } else if (line.startsWith('## ')) {
@@ -204,7 +219,6 @@ function encodeChunk(chunk, startPos) {
       out += escHtml(line);
     }
     if (idx < parts.length - 1) out += '\n';
-    localPos += line.length + 1; // +1 for the \n
   });
   return out;
 }
@@ -213,59 +227,41 @@ function escHtml(s) {
   return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }
 
-// Post-process: wrap the PoC region's DOM nodes in a .poc-zone div
 function wrapPocZone() {
   if (!pocRange) return;
-
-  // Walk text nodes and mark which ones fall inside pocRange
-  const walker = document.createTreeWalker(doc, NodeFilter.SHOW_TEXT | NodeFilter.SHOW_ELEMENT);
-  let charPos = 0;
-  const toWrap = []; // collect elements that are headers inside PoC range
-  // Simpler approach: wrap the whole PoC block by inserting a div after render.
-  // We find the md-h2 spans for "Presentation of Case" and wrap until the next md-h2.
-
   const spans = Array.from(doc.querySelectorAll('.md-h2, .md-h3'));
-  let pocStart = null;
-  let pocEnd   = null;
+  let pocStart = null, pocEnd = null;
   for (let i = 0; i < spans.length; i++) {
     if (spans[i].textContent.match(/Presentation of Case/i)) {
       pocStart = spans[i];
-      pocEnd   = spans[i + 1] || null; // next section header
+      pocEnd   = spans[i + 1] || null;
       break;
     }
   }
   if (!pocStart) return;
-
-  // Collect all nodes between pocStart (inclusive) and pocEnd (exclusive)
   const wrapDiv = document.createElement('div');
   wrapDiv.className = 'poc-zone';
-
   const parent = pocStart.parentNode;
   let node = pocStart;
   const nodesToMove = [];
-
-  while (node && node !== pocEnd) {
-    nodesToMove.push(node);
-    node = node.nextSibling;
-  }
-  // Insert wrapDiv before pocStart
+  while (node && node !== pocEnd) { nodesToMove.push(node); node = node.nextSibling; }
   parent.insertBefore(wrapDiv, pocStart);
   nodesToMove.forEach(n => wrapDiv.appendChild(n));
 }
 
 // ── Char offset computation ───────────────────────────────────
-// Given a DOM node and offset within that node, return
-// the absolute character position in rawText.
+// Uses Range.toString() so the measurement matches the browser's selection
+// model exactly — including user-select:none regions that the TreeWalker
+// would count but the browser skips when reporting selection boundaries.
 function getAbsoluteOffset(node, nodeOffset) {
-  const walker = document.createTreeWalker(doc, NodeFilter.SHOW_TEXT);
-  let pos = 0;
-  let cur = walker.nextNode();
-  while (cur) {
-    if (cur === node) return pos + nodeOffset;
-    pos += cur.textContent.length;
-    cur = walker.nextNode();
+  try {
+    const range = document.createRange();
+    range.setStart(doc, 0);
+    range.setEnd(node, nodeOffset);
+    return range.toString().length;
+  } catch (_) {
+    return 0;
   }
-  return pos + nodeOffset;
 }
 
 // ── Mouse selection → annotation ─────────────────────────────
@@ -275,39 +271,32 @@ doc.addEventListener('mouseup', () => {
 
   if (!activeLabel) {
     showWarning('Select a label from the palette first.');
-    sel.removeAllRanges();
-    return;
+    sel.removeAllRanges(); return;
   }
   if (!annotatorName) {
     showWarning('Enter your annotator name first.');
-    sel.removeAllRanges();
-    return;
+    sel.removeAllRanges(); return;
   }
 
   const range = sel.getRangeAt(0);
   const start = getAbsoluteOffset(range.startContainer, range.startOffset);
   const end   = getAbsoluteOffset(range.endContainer,   range.endOffset);
-
   if (start >= end) { sel.removeAllRanges(); return; }
 
-  // Check PoC zone
   if (pocRange && start < pocRange.end && end > pocRange.start) {
-    showWarning('⚠ The Presentation of Case section cannot be annotated.');
-    sel.removeAllRanges();
-    return;
+    showWarning('\u26a0 The Presentation of Case section cannot be annotated.');
+    sel.removeAllRanges(); return;
   }
 
-  // Check overlap with own annotations
-  const overlap = annotations.find(a => start < a.end && end > a.start);
+  const overlap = annotations.find(a => getRanges(a).some(([rs, re]) => start < re && end > rs));
   if (overlap) {
-    showWarning('⚠ This selection overlaps an existing annotation — delete it first.');
-    sel.removeAllRanges();
-    return;
+    showWarning('\u26a0 This selection overlaps an existing annotation \u2014 delete it first.');
+    sel.removeAllRanges(); return;
   }
 
   hideWarning();
   const text = rawText.slice(start, end);
-  const id = 'a' + Date.now() + Math.random().toString(36).slice(2,6);
+  const id   = 'a' + Date.now() + Math.random().toString(36).slice(2, 6);
   annotations.push({ id, start, end, label: activeLabel,
                      label_name: LABELS[activeLabel].name, text, annotator: annotatorName });
   sel.removeAllRanges();
@@ -320,11 +309,11 @@ function attachHighlightListeners() {
   document.querySelectorAll('.hl:not(.compare)').forEach(el => {
     el.addEventListener('click', e => {
       e.stopPropagation();
-      const id = el.dataset.id;
+      const id  = el.dataset.id;
       popupAnnId = id;
       const ann = annotations.find(a => a.id === id);
       if (!ann) return;
-      popupLabelName.textContent = `${ann.label} · ${ann.label_name}`;
+      popupLabelName.textContent = `${ann.label} \u00b7 ${ann.label_name}`;
       spanPopup.style.display = 'flex';
       const rect = el.getBoundingClientRect();
       spanPopup.style.left = `${rect.left}px`;
@@ -334,10 +323,7 @@ function attachHighlightListeners() {
 }
 
 document.addEventListener('click', e => {
-  if (!spanPopup.contains(e.target)) {
-    spanPopup.style.display = 'none';
-    popupAnnId = null;
-  }
+  if (!spanPopup.contains(e.target)) { spanPopup.style.display = 'none'; popupAnnId = null; }
 });
 
 popupDelete.addEventListener('click', () => {
@@ -346,36 +332,111 @@ popupDelete.addEventListener('click', () => {
   popupAnnId = null;
 });
 
-// ── Remove annotation ─────────────────────────────────────────
 function removeAnnotation(id) {
   annotations = annotations.filter(a => a.id !== id);
+  mergeSelection = mergeSelection.filter(x => x !== id);
+  autosave();
+  render();
+}
+
+function getRanges(ann) {
+  if (ann.parts)  return ann.parts.map(p => [p.start, p.end]);
+  if (ann.ranges) return ann.ranges;
+  return [[ann.start, ann.end]];
+}
+
+function getFirstStart(ann) {
+  if (ann.parts)  return ann.parts[0].start;
+  if (ann.ranges) return ann.ranges[0][0];
+  return ann.start;
+}
+
+function mergeAnnotations(...ids) {
+  const anns = ids.map(id => annotations.find(x => x.id === id)).filter(Boolean);
+  if (anns.length < 2) return;
+
+  const firstLabel = anns[0].label;
+  const mismatch = anns.find(a => a.label !== firstLabel);
+  if (mismatch) {
+    showWarning(`\u26a0 Cannot merge: labels differ (${anns[0].label_name} vs ${mismatch.label_name})`);
+    mergeSelection = [];
+    renderPanel();
+    return;
+  }
+
+  // Flatten parts from all selected in positional order (handles already-merged)
+  const allParts = anns
+    .flatMap(a => a.parts ? a.parts : [{ start: a.start, end: a.end, text: a.text }])
+    .sort((a, b) => a.start - b.start);
+
+  const id = 'a' + Date.now() + Math.random().toString(36).slice(2, 6);
+  annotations = annotations.filter(x => !ids.includes(x.id));
+  annotations.push({
+    id,
+    parts: allParts,
+    label: firstLabel,
+    label_name: anns[0].label_name,
+    annotator: annotatorName,
+    merged: true,
+  });
+  mergeSelection = [];
+  autosave();
+  render();
+}
+
+function removePart(annId, partIdx) {
+  const ann = annotations.find(x => x.id === annId);
+  if (!ann || !ann.parts) return;
+  const remaining = ann.parts.filter((_, i) => i !== partIdx);
+  if (remaining.length === 0) {
+    annotations = annotations.filter(x => x.id !== annId);
+  } else if (remaining.length === 1) {
+    const p = remaining[0];
+    annotations = annotations.map(x => x.id !== annId ? x : {
+      id: x.id, start: p.start, end: p.end,
+      label: x.label, label_name: x.label_name, text: p.text, annotator: x.annotator,
+    });
+  } else {
+    annotations = annotations.map(x => x.id !== annId ? x : { ...x, parts: remaining });
+  }
   autosave();
   render();
 }
 
 // ── Right panel ───────────────────────────────────────────────
 function renderPanel() {
-  // Stats
-  const ownCount = annotations.length;
   const cmpCount = compareAnnotations.length;
   if (cmpCount > 0) {
     const other = compareAnnotations[0]?.annotator || 'other';
-    statsBar.textContent = `You: ${ownCount} span(s)  ·  ${other}: ${cmpCount} span(s)`;
+    statsBar.textContent = `You: ${annotations.length} span(s)  \u00b7  ${other}: ${cmpCount} span(s)`;
   } else {
-    statsBar.textContent = `${ownCount} annotation(s)`;
+    statsBar.textContent = `${annotations.length} annotation(s)`;
   }
 
-  // Cards — own first, then compare
   const allCards = [
     ...annotations.map(a => ({ ...a, isCompare: false })),
     ...compareAnnotations.map(a => ({ ...a, isCompare: true })),
-  ].sort((a, b) => a.start - b.start);
+  ].sort((a, b) => getFirstStart(a) - getFirstStart(b));
+
+  // Merge commit bar
+  const existingMergeBar = document.getElementById('merge-commit-bar');
+  if (existingMergeBar) existingMergeBar.remove();
+  if (mergeSelection.length >= 2) {
+    const bar = document.createElement('div');
+    bar.id = 'merge-commit-bar';
+    const btn = document.createElement('button');
+    btn.className = 'merge-commit-btn';
+    btn.textContent = `Merge ${mergeSelection.length} selected spans`;
+    btn.addEventListener('click', () => mergeAnnotations(...mergeSelection));
+    bar.appendChild(btn);
+    annList.parentNode.insertBefore(bar, annList);
+  }
 
   annList.innerHTML = '';
   allCards.forEach(ann => {
-    const lbl = LABELS[ann.label];
+    const lbl  = LABELS[ann.label];
     const card = document.createElement('div');
-    card.className = 'ann-card';
+    card.className = 'ann-card' + (mergeSelection.includes(ann.id) ? ' merge-selected' : '');
     card.style.borderLeftColor = lbl.color;
 
     const header = document.createElement('div');
@@ -384,13 +445,26 @@ function renderPanel() {
     const badge = document.createElement('span');
     badge.className = 'ann-badge' + (lbl.lightText ? ' light-text' : '');
     badge.style.background = lbl.color;
-    badge.textContent = `${ann.label} · ${lbl.name}`;
+    badge.textContent = `${ann.label} \u00b7 ${lbl.name}`;
     header.appendChild(badge);
 
     if (!ann.isCompare) {
+      const mergeBtn = document.createElement('button');
+      mergeBtn.className = 'ann-merge-btn' + (mergeSelection.includes(ann.id) ? ' selected' : '');
+      mergeBtn.textContent = '\u229e';
+      mergeBtn.title = 'Select for merge';
+      mergeBtn.addEventListener('click', () => {
+        if (mergeSelection.includes(ann.id)) {
+          mergeSelection = mergeSelection.filter(x => x !== ann.id);
+        } else {
+          mergeSelection.push(ann.id);
+        }
+        renderPanel();
+      });
+      header.appendChild(mergeBtn);
       const del = document.createElement('button');
       del.className = 'ann-delete-btn';
-      del.textContent = '✕';
+      del.textContent = '\u2715';
       del.title = 'Delete annotation';
       del.addEventListener('click', () => removeAnnotation(ann.id));
       header.appendChild(del);
@@ -402,22 +476,51 @@ function renderPanel() {
     }
     card.appendChild(header);
 
-    const excerpt = document.createElement('div');
-    excerpt.className = 'ann-excerpt';
-    excerpt.textContent = '"' + ann.text.replace(/\n/g,' ').slice(0, 90) + (ann.text.length > 90 ? '…' : '') + '"';
-    card.appendChild(excerpt);
+    if (ann.parts) {
+      const partsList = document.createElement('div');
+      partsList.className = 'ann-parts-list';
+      ann.parts.forEach((part, idx) => {
+        const row = document.createElement('div');
+        row.className = 'ann-part-row';
 
-    const range = document.createElement('div');
-    range.className = 'ann-range';
-    range.textContent = `chars ${ann.start}–${ann.end}`;
-    card.appendChild(range);
+        const txt = document.createElement('span');
+        txt.className = 'ann-part-text';
+        txt.textContent = '\u201c' + part.text.replace(/\n/g,' ').slice(0, 55) + (part.text.length > 55 ? '\u2026' : '') + '\u201d';
+
+        const rng = document.createElement('span');
+        rng.className = 'ann-part-range';
+        rng.textContent = `${part.start}\u2013${part.end}`;
+
+        if (!ann.isCompare) {
+          const pdel = document.createElement('button');
+          pdel.className = 'ann-part-delete-btn';
+          pdel.textContent = '\u2715';
+          pdel.title = 'Remove this part';
+          pdel.addEventListener('click', () => removePart(ann.id, idx));
+          row.appendChild(txt); row.appendChild(rng); row.appendChild(pdel);
+        } else {
+          row.appendChild(txt); row.appendChild(rng);
+        }
+        partsList.appendChild(row);
+      });
+      card.appendChild(partsList);
+    } else {
+      const excerpt = document.createElement('div');
+      excerpt.className = 'ann-excerpt';
+      const displayText = ann.text || '';
+      excerpt.textContent = '\u201c' + displayText.replace(/\n/g,' ').slice(0, 90) + (displayText.length > 90 ? '\u2026' : '') + '\u201d';
+      card.appendChild(excerpt);
+
+      const rangeEl = document.createElement('div');
+      rangeEl.className = 'ann-range';
+      rangeEl.textContent = 'chars ' + getRanges(ann).map(([s, e]) => `${s}\u2013${e}`).join(' \u00b7 ');
+      card.appendChild(rangeEl);
+    }
 
     annList.appendChild(card);
   });
 
-  // JSON preview
-  const payload = buildExportPayload();
-  jsonPreview.textContent = JSON.stringify(payload.annotations, null, 2);
+  jsonPreview.textContent = JSON.stringify(buildExportPayload().annotations, null, 2);
 }
 
 // ── Export ────────────────────────────────────────────────────
@@ -428,19 +531,21 @@ function buildExportPayload() {
     case: currentCase,
     annotator: annotatorName,
     exported_at: new Date().toISOString(),
-    annotations: annotations.map(({ id, start, end, label, label_name, text }) =>
-      ({ id, start, end, label, label_name, text })),
+    annotations: annotations.map(a => ({
+      ranges: getRanges(a),
+      label: a.label,
+      label_name: a.label_name,
+      text: a.parts ? a.parts.map(p => p.text).join('...') : a.text,
+    })),
   };
 }
 
 function exportJSON() {
   if (!currentCase) { alert('Load a case first.'); return; }
-  const payload = buildExportPayload();
-  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+  const blob = new Blob([JSON.stringify(buildExportPayload(), null, 2)], { type: 'application/json' });
   const a = document.createElement('a');
   a.href = URL.createObjectURL(blob);
-  const safeName = currentCase.replace(/\.md$/, '').replace(/\s+/g, '_');
-  a.download = `${safeName}_${annotatorName || 'anon'}.json`;
+  a.download = `${currentCase.replace(/\.md$/, '').replace(/\s+/g,'_')}_${annotatorName || 'anon'}.json`;
   a.click();
 }
 
@@ -449,12 +554,9 @@ document.getElementById('import-file').addEventListener('change', async (e) => {
   const file = e.target.files[0];
   if (!file) return;
   try {
-    const text = await file.text();
-    const data = JSON.parse(text);
+    const data = JSON.parse(await file.text());
     compareAnnotations = (data.annotations || []).map(a => ({
-      ...a,
-      annotator: data.annotator || 'other',
-      isCompare: true,
+      ...a, annotator: data.annotator || 'other', isCompare: true,
     }));
     btnClearCmp.style.display = 'inline-block';
     render();
@@ -473,7 +575,7 @@ btnClearCmp.addEventListener('click', () => {
 // ── Auto-save ─────────────────────────────────────────────────
 function autosave() {
   if (!currentCase || !annotatorName) return;
-  localStorage.setItem(lsKey(), JSON.stringify(annotations));
+  localStorage.setItem(lsAnnsKey(currentCase, annotatorName), JSON.stringify(annotations));
 }
 
 // ── Warning helpers ───────────────────────────────────────────
@@ -483,6 +585,4 @@ function showWarning(msg) {
   clearTimeout(warningBar._timeout);
   warningBar._timeout = setTimeout(hideWarning, 4000);
 }
-function hideWarning() {
-  warningBar.style.display = 'none';
-}
+function hideWarning() { warningBar.style.display = 'none'; }

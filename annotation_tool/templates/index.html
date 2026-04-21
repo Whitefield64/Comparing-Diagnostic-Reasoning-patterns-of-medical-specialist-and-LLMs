@@ -4,26 +4,28 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Epistemic Reasoning Annotator</title>
-  <link rel="stylesheet" href="/static/style.css">
+  <link rel="stylesheet" href="/static/style.css?v=4">
 </head>
 <body>
 
 <!-- ── TOP BAR ─────────────────────────────────────────────── -->
 <header id="topbar">
   <div id="topbar-left">
-    <label>Case:
-      <select id="case-select"><option value="">-- select --</option></select>
+    <label id="btn-load-label" title="Load a .md case file from your computer">
+      Load Case
+      <input id="load-case-file" type="file" accept=".md,.txt" style="display:none">
     </label>
+    <span id="case-name-display" class="case-name-display">No case loaded</span>
     <label>Annotator:
       <input id="annotator-input" type="text" placeholder="your name" autocomplete="off">
     </label>
   </div>
   <div id="topbar-right">
-    <button id="btn-export">⬇ Export JSON</button>
-    <label id="btn-import-label">⬆ Import JSON
+    <button id="btn-export">&#8595; Export JSON</button>
+    <label id="btn-import-label">&#8593; Import JSON
       <input id="import-file" type="file" accept=".json" style="display:none">
     </label>
-    <button id="btn-clear-compare" style="display:none">✕ Clear comparison</button>
+    <button id="btn-clear-compare" style="display:none">&#10005; Clear comparison</button>
   </div>
 </header>
 
@@ -61,7 +63,7 @@
 
   <!-- LEFT: document -->
   <div id="doc-panel">
-    <div id="doc-placeholder">Select a case and enter your annotator name to begin.</div>
+    <div id="doc-placeholder">Load a case file and enter your annotator name to begin.</div>
     <div id="doc" tabindex="0"></div>
   </div>
 
@@ -80,9 +82,9 @@
 <!-- ── SPAN POPUP ───────────────────────────────────────────── -->
 <div id="span-popup" style="display:none">
   <span id="popup-label-name"></span>
-  <button id="popup-delete">Delete ✕</button>
+  <button id="popup-delete">Delete &#10005;</button>
 </div>
 
-<script src="/static/app.js"></script>
+<script src="/static/app.js?v=4"></script>
 </body>
 </html>

@@ -18,19 +18,24 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 14px;
   gap: 12px;
 }
 #topbar label { display: flex; align-items: center; gap: 6px; font-size: 13px; }
-#topbar select, #topbar input[type="text"] {
+#topbar input[type="text"] {
   background: #2e3f55; border: 1px solid #4a6080; color: #eee;
-  padding: 4px 8px; border-radius: 4px; font-size: 13px;
+  padding: 4px 8px; border-radius: 4px; font-size: 13px; width: 140px;
 }
-#topbar input[type="text"] { width: 140px; }
 #topbar-right { display: flex; gap: 8px; }
-#topbar-right button, #btn-import-label {
+
+#topbar-right button, #btn-import-label, #btn-load-label {
   background: #2e6da4; color: #fff; border: none; padding: 5px 12px;
   border-radius: 4px; cursor: pointer; font-size: 12px; white-space: nowrap;
 }
-#topbar-right button:hover, #btn-import-label:hover { background: #3a87c8; }
+#topbar-right button:hover, #btn-import-label:hover, #btn-load-label:hover { background: #3a87c8; }
 #btn-clear-compare { background: #8b3030 !important; }
 #btn-clear-compare:hover { background: #b03030 !important; }
+
+.case-name-display {
+  font-size: 12px; color: #a0b8d0; font-style: italic;
+  max-width: 260px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
 
 /* ── Label palette ─────────────────────────────────────────── */
 #palette {
@@ -74,9 +79,7 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 14px;
 }
 
 /* ── Main two-panel layout ─────────────────────────────────── */
-#main {
-  display: flex; flex: 1; overflow: hidden;
-}
+#main { display: flex; flex: 1; overflow: hidden; }
 
 /* ── Left: document panel ──────────────────────────────────── */
 #doc-panel {
@@ -99,18 +102,13 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 14px;
 .md-h3 { font-size: 1em; font-weight: 700; color: #444;
           display: block; margin: .8em 0 .2em; font-style: italic; }
 
-/* PoC zone: grey and unselectable */
 /* Header prefix: invisible but present in DOM (preserves char offsets) */
 .md-pfx { font-size: 0; line-height: 0; color: transparent; user-select: none;
           pointer-events: none; display: inline; }
 
 /* PoC zone: grey and unselectable */
-.poc-zone {
-  color: #bbb !important;
-  pointer-events: none;
-  user-select: none;
-  -webkit-user-select: none;
-}
+.poc-zone { color: #bbb !important; pointer-events: none;
+            user-select: none; -webkit-user-select: none; }
 .poc-zone .md-h1, .poc-zone .md-h2, .poc-zone .md-h3 { color: #ccc !important; }
 
 /* Highlight spans */
@@ -132,10 +130,7 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 14px;
 .hl[data-label="12"] { background: color-mix(in srgb, var(--c12) 35%, transparent); }
 
 /* Dashed underline for comparison (other annotator) */
-.hl.compare {
-  background: transparent !important;
-  border-bottom: 3px dashed;
-}
+.hl.compare { background: transparent !important; border-bottom: 3px dashed; }
 .hl.compare[data-label="1"]  { border-color: var(--c1); }
 .hl.compare[data-label="2"]  { border-color: var(--c2); }
 .hl.compare[data-label="3"]  { border-color: var(--c3); }
@@ -154,12 +149,7 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 14px;
   flex: 1; overflow-y: auto; padding: 14px; background: #f9f9fb;
   display: flex; flex-direction: column; gap: 10px;
 }
-
-#stats-bar {
-  font-size: 12px; color: #666; padding: 4px 0 8px;
-  border-bottom: 1px solid #e0e0e0;
-}
-
+#stats-bar { font-size: 12px; color: #666; padding: 4px 0 8px; border-bottom: 1px solid #e0e0e0; }
 #annotation-list { display: flex; flex-direction: column; gap: 8px; }
 
 .ann-card {
@@ -168,47 +158,60 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 14px;
   display: flex; flex-direction: column; gap: 4px;
 }
 .ann-card:hover { box-shadow: 0 2px 8px rgba(0,0,0,.12); }
-
 .ann-card-header { display: flex; justify-content: space-between; align-items: center; }
-.ann-badge {
-  display: inline-block; padding: 2px 8px; border-radius: 12px;
-  font-size: 11px; font-weight: 700; color: #fff;
-}
+.ann-badge { display: inline-block; padding: 2px 8px; border-radius: 12px;
+             font-size: 11px; font-weight: 700; color: #fff; }
 .ann-badge.light-text { color: #333; }
-.ann-delete-btn {
-  background: none; border: none; cursor: pointer; color: #aaa;
-  font-size: 16px; line-height: 1; padding: 0 2px;
-}
+.ann-delete-btn { background: none; border: none; cursor: pointer; color: #aaa;
+                  font-size: 16px; line-height: 1; padding: 0 2px; }
 .ann-delete-btn:hover { color: #e53935; }
-.ann-excerpt {
-  font-size: 12px; color: #555; font-style: italic;
-  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
-}
+.ann-excerpt { font-size: 12px; color: #555; font-style: italic;
+               white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .ann-range { font-size: 11px; color: #aaa; }
 .ann-compare-tag { font-size: 11px; color: #888; font-style: italic; }
 
+/* Merge selection */
+.ann-card.merge-selected { outline: 2px dashed #2e6da4; outline-offset: 2px; }
+.ann-merge-btn {
+  background: none; border: 1px solid #ccc; border-radius: 3px; cursor: pointer;
+  color: #aaa; font-size: 14px; line-height: 1; padding: 0 3px; margin-right: 2px;
+}
+.ann-merge-btn:hover { color: #2e6da4; border-color: #2e6da4; }
+.ann-merge-btn.selected { color: #2e6da4; border-color: #2e6da4; background: #e8f0fa; }
+/* Per-part rows inside merged annotation cards */
+.ann-parts-list { display: flex; flex-direction: column; gap: 3px; margin-top: 2px; }
+.ann-part-row {
+  display: flex; align-items: center; gap: 6px;
+  background: #f4f6fb; border-radius: 3px; padding: 3px 6px; font-size: 11px;
+}
+.ann-part-text { flex: 1; color: #555; font-style: italic;
+                 white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.ann-part-range { color: #aaa; white-space: nowrap; flex-shrink: 0; }
+.ann-part-delete-btn { background: none; border: none; cursor: pointer; color: #ccc;
+                       font-size: 12px; line-height: 1; padding: 0 1px; flex-shrink: 0; }
+.ann-part-delete-btn:hover { color: #e53935; }
+
+#merge-commit-bar { padding: 6px 0 4px; }
+.merge-commit-btn {
+  width: 100%; background: #2e6da4; color: #fff; border: none;
+  border-radius: 4px; padding: 6px 0; cursor: pointer; font-size: 12px; font-weight: 600;
+}
+.merge-commit-btn:hover { background: #3a87c8; }
+
 /* JSON preview */
 #json-preview-details { margin-top: 8px; }
-#json-preview-details summary {
-  cursor: pointer; font-size: 12px; color: #888; padding: 4px 0;
-}
-#json-preview {
-  background: #1e2a3a; color: #90caf9; font-size: 11px;
-  padding: 12px; border-radius: 4px; overflow-x: auto;
-  margin-top: 6px; max-height: 320px; overflow-y: auto;
-}
+#json-preview-details summary { cursor: pointer; font-size: 12px; color: #888; padding: 4px 0; }
+#json-preview { background: #1e2a3a; color: #90caf9; font-size: 11px;
+                padding: 12px; border-radius: 4px; overflow-x: auto;
+                margin-top: 6px; max-height: 320px; overflow-y: auto; }
 
 /* ── Span popup ─────────────────────────────────────────────── */
 #span-popup {
-  position: fixed; z-index: 1000;
-  background: #1e2a3a; color: #fff; border-radius: 6px;
-  padding: 6px 10px; display: flex; align-items: center; gap: 8px;
-  font-size: 12px; box-shadow: 0 4px 16px rgba(0,0,0,.3);
-  pointer-events: auto;
+  position: fixed; z-index: 1000; background: #1e2a3a; color: #fff;
+  border-radius: 6px; padding: 6px 10px; display: flex; align-items: center;
+  gap: 8px; font-size: 12px; box-shadow: 0 4px 16px rgba(0,0,0,.3);
 }
 #popup-label-name { font-weight: 600; }
-#popup-delete {
-  background: #c62828; border: none; color: #fff; border-radius: 4px;
-  padding: 3px 8px; cursor: pointer; font-size: 11px;
-}
+#popup-delete { background: #c62828; border: none; color: #fff; border-radius: 4px;
+                padding: 3px 8px; cursor: pointer; font-size: 11px; }
 #popup-delete:hover { background: #e53935; }
