@@ -44,3 +44,5 @@ logs/
 # Project-specific
 appendix_ref8/
 cases/
+annotated_cases/
+jury_output/

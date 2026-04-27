@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Annotation Viewer</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<header>
+  <div id="loaders">
+    <label class="file-btn" id="load-jsons-label">
+      <input id="json-files-input" type="file" accept=".json" multiple>
+      <span class="swatch"></span><span class="btn-label">Load JSONs</span>
+    </label>
+    <div id="loaded-files"></div>
+  </div>
+  <div id="status">Load annotation files to begin</div>
+</header>
+
+<div id="main">
+  <div id="text-scroll">
+    <div id="text-content">–</div>
+  </div>
+
+  <div id="detail" style="display:none">
+    <div id="detail-resize-handle"></div>
+    <button id="detail-close">✕ close</button>
+    <div id="detail-body"></div>
+  </div>
+</div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

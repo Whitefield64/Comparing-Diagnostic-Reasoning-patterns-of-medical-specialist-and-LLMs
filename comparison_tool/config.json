@@ -1,0 +1,4 @@
+{
+  "consensus_min_votes": 5,
+  "consensus_min_agreement": 0.5
+}
