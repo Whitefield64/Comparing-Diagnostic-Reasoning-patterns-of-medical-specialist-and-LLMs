@@ -9,6 +9,7 @@ import asyncio
 import json
 import logging
 import time
+import random
 
 import aiohttp
 
@@ -70,6 +71,7 @@ async def chat_completion(
 
     for attempt in range(1, max_retries + 1):
         await _bucket.acquire()
+        logger.debug("Voter %d: attempt %d - payload size=%d bytes", voter_id, attempt, len(json.dumps(payload)))
         try:
             async with session.post(
                 _CHAT_ENDPOINT,
@@ -77,20 +79,42 @@ async def chat_completion(
                 json=payload,
                 timeout=aiohttp.ClientTimeout(total=120),
             ) as resp:
+                # Log headers for debugging rate-limit behavior
+                logger.debug("Voter %d: HTTP %d headers=%s", voter_id, resp.status, dict(resp.headers))
                 if resp.status == 200:
                     data = await resp.json()
                     return data["choices"][0]["message"]["content"]
 
                 body = await resp.text()
                 if resp.status == 429 or resp.status >= 500:
-                    wait = 2**attempt
-                    logger.warning(
-                        "Voter %d attempt %d: HTTP %d — retrying in %ds",
-                        voter_id,
-                        attempt,
-                        resp.status,
-                        wait,
-                    )
+                    # Prefer server-provided Retry-After when available
+                    ra = resp.headers.get("Retry-After")
+                    try:
+                        retry_after = float(ra) if ra is not None else None
+                    except ValueError:
+                        retry_after = None
+
+                    if retry_after is not None:
+                        wait = retry_after
+                        logger.warning(
+                            "Voter %d attempt %d: HTTP %d — Retry-After=%s, waiting %.1fs",
+                            voter_id,
+                            attempt,
+                            resp.status,
+                            ra,
+                            wait,
+                        )
+                    else:
+                        # exponential backoff + small random jitter
+                        wait = 2 ** attempt + random.random()
+                        logger.warning(
+                            "Voter %d attempt %d: HTTP %d — retrying in %.1fs",
+                            voter_id,
+                            attempt,
+                            resp.status,
+                            wait,
+                        )
+
                     await asyncio.sleep(wait)
                 else:
                     logger.error(
@@ -100,11 +124,21 @@ async def chat_completion(
                         body[:200],
                     )
                     return None
-
-        except (aiohttp.ClientError, asyncio.TimeoutError) as exc:
-            wait = 2**attempt
+        except aiohttp.ServerDisconnectedError as exc:
+            # Server disconnected unexpectedly — log and retry with backoff
+            wait = 2 ** attempt + random.random()
             logger.warning(
-                "Voter %d attempt %d: %s — retrying in %ds",
+                "Voter %d attempt %d: server disconnected (%s) — retrying in %.1fs",
+                voter_id,
+                attempt,
+                exc,
+                wait,
+            )
+            await asyncio.sleep(wait)
+        except (aiohttp.ClientError, asyncio.TimeoutError) as exc:
+            wait = 2 ** attempt + random.random()
+            logger.warning(
+                "Voter %d attempt %d: %s — retrying in %.1fs",
                 voter_id,
                 attempt,
                 exc,

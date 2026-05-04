@@ -18,6 +18,10 @@ MAX_TOKENS = 8192
 RATE_LIMIT_PER_MINUTE = 40
 CONCURRENCY_LIMIT = 40
 
+# Batch stagger to reduce burst load on NVIDIA API
+VOTER_BATCH_SIZE = int(os.environ.get("VOTER_BATCH_SIZE", "2"))  # voters per batch
+VOTER_BATCH_DELAY = int(os.environ.get("VOTER_BATCH_DELAY", "15"))  # seconds between batches
+
 # Offset resolver
 FUZZY_MATCH_THRESHOLD = 90  # minimum rapidfuzz score (0-100)
 

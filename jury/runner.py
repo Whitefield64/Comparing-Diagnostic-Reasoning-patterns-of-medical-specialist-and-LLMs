@@ -11,7 +11,7 @@ from dataclasses import dataclass, field
 
 import aiohttp
 
-from jury.config import CONCURRENCY_LIMIT, N_VOTERS
+from jury.config import CONCURRENCY_LIMIT, N_VOTERS, VOTER_BATCH_SIZE, VOTER_BATCH_DELAY
 from jury.nvidia_client import chat_completion, parse_response
 from jury.offset_resolver import resolve
 
@@ -70,17 +70,33 @@ async def run_jury(
     n_voters: int = N_VOTERS,
 ) -> list[VoterResult]:
     """
-    Launch n_voters concurrent requests and return their results.
+    Launch n_voters concurrent requests, staggered in batches to reduce burst load.
     """
     semaphore = asyncio.Semaphore(CONCURRENCY_LIMIT)
     connector = aiohttp.TCPConnector(limit=CONCURRENCY_LIMIT)
+    results: list[VoterResult] = []
 
     async with aiohttp.ClientSession(connector=connector) as session:
-        tasks = [
-            _run_voter(voter_id, messages, full_text, semaphore, session)
-            for voter_id in range(1, n_voters + 1)
-        ]
-        results = await asyncio.gather(*tasks)
+        # Batch voters to avoid thundering herd on remote API
+        for batch_idx in range(0, n_voters, VOTER_BATCH_SIZE):
+            batch_ids = range(batch_idx + 1, min(batch_idx + VOTER_BATCH_SIZE + 1, n_voters + 1))
+            
+            if batch_idx > 0:
+                logger.info(
+                    "Batch delay: waiting %ds before spawning voters %d-%d",
+                    VOTER_BATCH_DELAY,
+                    batch_ids.start,
+                    batch_ids.stop - 1,
+                )
+                await asyncio.sleep(VOTER_BATCH_DELAY)
+            
+            logger.info("Spawning batch: voters %d-%d", batch_ids.start, batch_ids.stop - 1)
+            tasks = [
+                _run_voter(voter_id, messages, full_text, semaphore, session)
+                for voter_id in batch_ids
+            ]
+            batch_results = await asyncio.gather(*tasks)
+            results.extend(batch_results)
 
     successful = sum(1 for r in results if not r.failed)
     logger.info("Jury complete: %d/%d voters succeeded.", successful, n_voters)

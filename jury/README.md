@@ -147,6 +147,9 @@ uv run python -m jury.run_jury cases/*.md
 
 # Override voter count
 uv run python -m jury.run_jury --voters 5 "cases/2003 Case 21.md"
+
+# set voter batch size and delay (to avoid NVIDIA limitations)
+VOTER_BATCH_SIZE=3 VOTER_BATCH_DELAY=5 python -m jury.run_jury cases/*.md
 ```
 
 ---
