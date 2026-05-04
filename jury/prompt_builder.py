@@ -65,10 +65,52 @@ Example output:
 
 _FEW_SHOT_EXAMPLES = [
     {
+        "ranges": [[17268,17366]],
+        "label": 1,
+        "label_name": "ABD_SELECTIVE",
+        "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis."
+    },
+    {
+        "ranges": [[7600,7775]],
+        "label": 1,
+        "label_name": "ABD_SELECTIVE",
+        "text": "Several features of this patient’s presentation are suggestive of Crohn’s disease, which is relatively common, with an incidence of approximately 10 cases per 100,000 persons."
+    },
+    {
+        "ranges": [[16602,16717]],
+        "label": 2,
+        "label_name": "ABD_CREATIVE",
+        "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
+    },
+    {
+      "ranges": [[21689,21791]],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor"
+    },
+    {
+        "ranges": [[12962,13072]],
+        "label": 3,
+        "label_name": "ABD_VISUAL",
+        "text": "Since the lesions are seen on both the diffusion-weighted and fluid-attenuated inversion-recovery images, we know that the age of the lesions is greater than about 12 hours. The lesions vary in signal intensity, indicating that the time of onset of individual lesions probably varied."
+    },
+    {
+        "ranges": [[15338,15450]],
+        "label": 3,
+        "label_name": "ABD_VISUAL",
+        "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+    },
+    {
         "ranges": [[11969, 12052]],
         "label": 4,
         "label_name": "ABD_CAUSAL",
         "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction.",
+    },
+    {
+        "ranges": [[36745, 36917]],
+        "label": 4,
+        "label_name": "ABD_CAUSAL",
+        "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
     },
     {
         "ranges": [[13961, 14103]],
@@ -77,10 +119,70 @@ _FEW_SHOT_EXAMPLES = [
         "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun.",
     },
     {
+        "ranges": [[22136, 22335]],
+        "label": 5,
+        "label_name": "DED_HYPOTHETICO",
+        "text": "Aortic- or subclavian-wall abnormalities without obvious occlusion from clotting make it unlikely that the patient had antiphospholipid-antibody syndrome, but we must explain the laboratory findings."
+    },
+    {
+        "ranges": [[17961,18061]],
+        "label": 6,
+        "label_name": "DED_ALGORITHMIC",
+        "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+    },
+    {
+        "ranges": [[6168,6353]],
+        "label": 6,
+        "label_name": "DED_ALGORITHMIC",
+        "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+    },
+    {
+        "ranges": [[12582,12851]],
+        "label": 7,
+        "label_name": "DED_HIERARCHICAL",
+        "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+    },
+    {
+        "ranges": [[22898,23133]],
+        "label": 7,
+        "label_name": "DED_HIERARCHICAL",
+        "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
+    },
+    {
+        "ranges": [[36257, 36442]],
+        "label": 8,
+        "label_name": "DED_VALIDATION",
+        "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+    },
+    {
+        "ranges": [[3487,3700]],
+        "label": 8,
+        "label_name": "DED_VALIDATION",
+        "text": "In the absence of other findings, hemorrhoids are common and not necessarily worrisome. However, the presence of other anorectal abnormalities in this patient raises doubts about whether he really had hemorrhoids."
+    },
+    {
         "ranges": [[22881, 22990]],
         "label": 9,
         "label_name": "IND_PATTERN",
         "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis.",
+    },
+    {
+        "ranges": [[18601, 18756]],
+        "label": 9,
+        "label_name": "IND_PATTERN",
+        "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+    },
+    {
+        "ranges": [[22642,22834]],
+        "label": 10,
+        "label_name": "IND_INTUITION",
+        "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+    },
+    {
+        "ranges": [[12931,13054]],
+        "label": 10,
+        "label_name": "IND_INTUITION",
+        "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
     },
     {
         "ranges": [[23460, 23657]],
@@ -88,6 +190,24 @@ _FEW_SHOT_EXAMPLES = [
         "label_name": "IND_BAYESIAN",
         "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients.",
     },
+    {
+        "ranges": [[23890, 24123]],
+        "label": 11,
+        "label_name": "IND_BAYESIAN",
+        "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
+    },
+    {
+        "ranges": [[42157, 42299]],
+        "label": 12,
+        "label_name": "IND_CASEBASED",
+        "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+    },
+    {
+        "ranges": [[18579, 18708]],
+        "label": 12,
+        "label_name": "IND_CASEBASED",
+        "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+    }
 ]
 
 

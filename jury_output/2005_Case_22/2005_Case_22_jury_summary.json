@@ -1,6 +1,6 @@
 {
   "case": "2005 Case 22.md",
-  "exported_at": "2026-05-01T21:58:26.071948+00:00",
+  "exported_at": "2026-05-04T15:13:40.451010+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -79,25 +79,8 @@
       "voter_id": 11,
       "failed": false,
       "n_resolved": 15,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of meningoencephalitis, with the most substantial damage in the anterior horns of the spinal cord and motor nuclei of the brain stem, is consistent with West Nile virus encephalomyelitis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The negative cerebrospinal fluid study in this patient provided important evidence against enteroviral infection."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The thalamic abnormality revealed on MRI of this patient adds weight to the diagnosis of West Nile virus encephalomyelitis, because an increasing number of flaviviruses have been associated with basal-ganglion involvement."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall similar patients with community-acquired infections, such as pneumonia or urinary tract infection, who developed progressive confusion and weakness, prompting a lumbar puncture that revealed a lymphocytic pleocytosis, suggesting meningoencephalitis or lymphomatous meningitis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,

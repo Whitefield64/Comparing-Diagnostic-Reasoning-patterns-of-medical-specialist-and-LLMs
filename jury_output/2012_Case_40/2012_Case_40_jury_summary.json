@@ -1,6 +1,6 @@
 {
   "case": "2012 Case 40.md",
-  "exported_at": "2026-05-01T21:58:54.908859+00:00",
+  "exported_at": "2026-05-04T15:13:40.492569+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -51,13 +51,8 @@
       "voter_id": 7,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,

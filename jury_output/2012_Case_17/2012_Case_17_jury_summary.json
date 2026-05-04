@@ -1,6 +1,6 @@
 {
   "case": "2012 Case 17.md",
-  "exported_at": "2026-05-01T21:58:43.003874+00:00",
+  "exported_at": "2026-05-04T15:13:40.487403+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -86,13 +86,8 @@
       "voter_id": 12,
       "failed": false,
       "n_resolved": 14,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
