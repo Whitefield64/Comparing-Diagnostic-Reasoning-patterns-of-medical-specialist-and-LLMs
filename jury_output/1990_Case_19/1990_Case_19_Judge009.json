@@ -1,73 +1,172 @@
 {
   "case": "1990 Case 19.md",
-  "annotator": "Judge009",
-  "exported_at": "2026-05-01T09:47:30.737084+00:00",
+  "annotator": "Judge009-gemma",
+  "exported_at": "2026-05-04T19:14:38.321127+00:00",
   "annotations": [
     {
       "ranges": [
         [
-          10995,
-          11206
-        ]
-      ],
-      "label": 1,
-      "label_name": "ABD_SELECTIVE",
-      "text": "The differential diagnosis of hepatic masses in children is broad. My task is to try to correlate the radiographic picture with the findings from the history, physical examination, and laboratory investigations."
-    },
-    {
-      "ranges": [
-        [
-          15980,
-          16126
+          10013,
+          10189
         ]
       ],
       "label": 4,
       "label_name": "ABD_CAUSAL",
-      "text": "The symptoms of a hydatid cyst are caused principally by the pressure of the expanding cyst, which is estimated to grow between 1 and 5 cm a year."
+      "text": "This patient's acute presentation with fever, chills, an elevated white-cell count of 15,500, and a sedimentation rate of 81 mm per hour certainly suggests an infectious cause."
     },
     {
       "ranges": [
         [
-          20585,
-          20801
+          10888,
+          10991
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "There was compression of the inferior vena cava, which was undoubtedly responsible for the ankle edema."
+    },
+    {
+      "ranges": [
+        [
+          11427,
+          11689
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The radiographic appearance of the lesion in this case is not inconsistent with a malignant hepatic tumor, since hepatoblastomas may be partially cystic, hepatocellular carcinomas can have central necrosis, and septa may be seen within biliary rhabdomyosarcomas."
+    },
+    {
+      "ranges": [
+        [
+          11690,
+          11970
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "None of these diagnoses, however, are likely. Hepatoblastoma is found mainly in the first two years of life. Hepatocellular carcinoma does occur in this age group, although often in the setting of underlying hepatic disease. Biliary rhabdomyosarcomas are associated with jaundice."
+    },
+    {
+      "ranges": [
+        [
+          12033,
+          12228
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Benign hepatic lesions, such as choledochal cysts, cystadenomas, hamartomas, focal nodular hyperplasia, and congenital hepatic cysts, would be less likely to produce this radiographic appearance."
+    },
+    {
+      "ranges": [
+        [
+          12422,
+          12581
         ]
       ],
       "label": 5,
       "label_name": "DED_HYPOTHETICO",
-      "text": "If the serologic test for amebae had been positive, further medical treatment would have been appropriate, since 72 hours are often required to observe a clinical response after the initiation of anti-amebic therapy."
+      "text": "A vascular malformation or a highly vascular hepatic tumor is improbable in this case in view of the lack of enhancement on the studies with contrast material."
     },
     {
       "ranges": [
         [
-          18523,
-          18756
+          12582,
+          12851
         ]
       ],
-      "label": 9,
-      "label_name": "IND_PATTERN",
-      "text": "The radiographic features of this case are also suggestive of this diagnosis. The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
     },
     {
       "ranges": [
         [
-          22729,
-          22897
+          12998,
+          13070
         ]
       ],
-      "label": 11,
-      "label_name": "IND_BAYESIAN",
-      "text": "Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence. This diagnosis seems to fit the overall clinical picture best."
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Pyogenic liver abscesses must be included in the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          13423,
+          13784
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "None of these associated disorders appear to pertain to the case under discussion. Furthermore, there is little evidence in this case to suggest other intraabdominal disorders, such as biliary-tract disease, peptic-ulcer disease, pancreatitis, appendicitis, omphalitis, inflammatory bowel disease, or trauma, that might result in bacterial seeding of the liver."
+    },
+    {
+      "ranges": [
+        [
+          14209,
+          14338
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I cannot exclude the possibility of a large pyogenic abscess, but there is no good explanation for its development in this child."
+    },
+    {
+      "ranges": [
+        [
+          14342,
+          14447
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The history of Mediterranean travel forces me to consider strongly a parasitic cause of the hepatic mass."
+    },
+    {
+      "ranges": [
+        [
+          17040,
+          17240
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "To make a simple hepatic hydatid cyst fit with the clinical scenario in this case, however, it would be necessary to invoke a secondary bacterial infection, which makes this diagnosis less attractive."
     },
     {
       "ranges": [
         [
           17244,
-          17446
+          17315
         ]
       ],
       "label": 1,
       "label_name": "ABD_SELECTIVE",
-      "text": "The most probable clinical diagnosis in this case is an amebic abscess. Amebiasis is estimated to occur in nearly 10 percent of the world's population and is certainly present in the Mediterranean area."
+      "text": "The most probable clinical diagnosis in this case is an amebic abscess."
+    },
+    {
+      "ranges": [
+        [
+          18402,
+          18522
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "such an interval fits with this boy's trip to Turkey just four months earlier, when we are told that he drank tap water."
+    },
+    {
+      "ranges": [
+        [
+          18601,
+          18756
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
     },
     {
       "ranges": [
@@ -83,24 +182,46 @@
     {
       "ranges": [
         [
-          22642,
-          22728
+          18899,
+          19139
         ]
       ],
-      "label": 10,
-      "label_name": "IND_INTUITION",
-      "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The finding on the MRI scan of a sharply circumscribed, heterogeneous mass of low intensity on the T    –weighted images but of increased intensity on the T    –weighted images has been reported in MRI scans of known amebic liver abscesses."
     },
     {
       "ranges": [
         [
-          17853,
-          17941
+          19321,
+          19471
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The major problem with this diagnosis is the negative enzyme-linked immunosorbent assay (ELISA) for anti-amebic antibodies on the fourth hospital day."
+    },
+    {
+      "ranges": [
+        [
+          20003,
+          20142
         ]
       ],
       "label": 4,
       "label_name": "ABD_CAUSAL",
-      "text": "Fever, right-upper-quadrant abdominal pain, and malaise are the most prominent symptoms."
+      "text": "This finding may have reflected inability to respond antigenically, although we have no other evidence of an immune deficiency in this boy."
+    },
+    {
+      "ranges": [
+        [
+          22630,
+          22897
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "In summary, I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence. This diagnosis seems to fit the overall clinical picture best."
     },
     {
       "ranges": [
@@ -116,24 +237,46 @@
     {
       "ranges": [
         [
-          31907,
-          32081
+          23643,
+          23898
         ]
       ],
-      "label": 12,
-      "label_name": "IND_CASEBASED",
-      "text": "His experience was corroborated by a recent report by Ware et al., whose two patients with this type of tumor have survived for six years and seven years after the diagnosis."
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "We also considered echinococcal disease, although we thought that it was much less likely not only on an epidemiologic basis but also on the basis of the absence of a thick-walled capsule demonstrable in the various radiologic studies that were performed."
     },
     {
       "ranges": [
         [
-          14448,
-          14595
+          23899,
+          24125
         ]
       ],
-      "label": 2,
-      "label_name": "ABD_CREATIVE",
-      "text": "Hydatid disease is common in the Mediterranean region. It is usually caused by  *Echinococcus granulosus* , which is endemic in sheep-raising areas"
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "With the results of these studies we became very concerned by the predominantly solid nature of the mass, which would not be expected in amebic or echinococcal disease and made the possibility of a malignant tumor more likely."
+    },
+    {
+      "ranges": [
+        [
+          24493,
+          24710
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "when we reviewed the diagnostic images we believed that the ultrasound finding of a predominantly solid mass with cystic components indicated a tumor, either a benign mesenchymal hamartoma or a malignant mesenchymoma."
+    },
+    {
+      "ranges": [
+        [
+          27943,
+          28115
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The gross and histologic features of the case under discussion are typical, with round, spindle-shaped, and stellate cells in a myxoid background with admixed larger cells."
     }
   ]
 }

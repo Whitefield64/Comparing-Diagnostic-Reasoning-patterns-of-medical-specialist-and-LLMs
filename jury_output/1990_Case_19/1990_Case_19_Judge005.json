@@ -1,18 +1,18 @@
 {
   "case": "1990 Case 19.md",
-  "annotator": "Judge005",
-  "exported_at": "2026-05-01T09:47:30.736327+00:00",
+  "annotator": "Judge005-llama",
+  "exported_at": "2026-05-04T18:24:49.983757+00:00",
   "annotations": [
     {
       "ranges": [
         [
-          15980,
-          16126
+          10995,
+          11206
         ]
       ],
-      "label": 4,
-      "label_name": "ABD_CAUSAL",
-      "text": "The symptoms of a hydatid cyst are caused principally by the pressure of the expanding cyst, which is estimated to grow between 1 and 5 cm a year."
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis of hepatic masses in children is broad. My task is to try to correlate the radiographic picture with the findings from the history, physical examination, and laboratory investigations."
     },
     {
       "ranges": [
@@ -28,57 +28,46 @@
     {
       "ranges": [
         [
-          20585,
-          20801
-        ]
-      ],
-      "label": 5,
-      "label_name": "DED_HYPOTHETICO",
-      "text": "If the serologic test for amebae had been positive, further medical treatment would have been appropriate, since 72 hours are often required to observe a clinical response after the initiation of anti-amebic therapy."
-    },
-    {
-      "ranges": [
-        [
-          18523,
-          18600
-        ]
-      ],
-      "label": 9,
-      "label_name": "IND_PATTERN",
-      "text": "The radiographic features of this case are also suggestive of this diagnosis."
-    },
-    {
-      "ranges": [
-        [
-          22729,
-          22834
-        ]
-      ],
-      "label": 11,
-      "label_name": "IND_BAYESIAN",
-      "text": "Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-    },
-    {
-      "ranges": [
-        [
-          10013,
-          10188
-        ]
-      ],
-      "label": 4,
-      "label_name": "ABD_CAUSAL",
-      "text": "This patient's acute presentation with fever, chills, an elevated white-cell count of 15,500, and a sedimentation rate of 81 mm per hour certainly suggests an infectious cause"
-    },
-    {
-      "ranges": [
-        [
-          10995,
-          11061
+          11427,
+          11689
         ]
       ],
       "label": 1,
       "label_name": "ABD_SELECTIVE",
-      "text": "The differential diagnosis of hepatic masses in children is broad."
+      "text": "The radiographic appearance of the lesion in this case is not inconsistent with a malignant hepatic tumor, since hepatoblastomas may be partially cystic, hepatocellular carcinomas can have central necrosis, and septa may be seen within biliary rhabdomyosarcomas."
+    },
+    {
+      "ranges": [
+        [
+          12582,
+          12851
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+    },
+    {
+      "ranges": [
+        [
+          12998,
+          13143
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Pyogenic liver abscesses must be included in the differential diagnosis. Such abscesses are very rare, particularly in otherwise normal children."
+    },
+    {
+      "ranges": [
+        [
+          13789,
+          14208
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": " called cryptogenic hepatic abscesses can arise in otherwise normal children, presumably as a result of systemic bacteremia. Although  *Staphylococcus aureus* has been the most common pathogen historically, increasingly often we are seeing anaerobic infection, infection due to various intestinal pathogens such as  *Escherichia coli* , yersinia, and salmonella, and even tuberculosis as the cause of hepatic abscesses."
     },
     {
       "ranges": [
@@ -87,53 +76,64 @@
           18756
         ]
       ],
-      "label": 8,
-      "label_name": "DED_VALIDATION",
+      "label": 9,
+      "label_name": "IND_PATTERN",
       "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
     },
     {
       "ranges": [
         [
           22642,
-          22728
+          22834
         ]
       ],
       "label": 10,
       "label_name": "IND_INTUITION",
-      "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
+      "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
     },
     {
       "ranges": [
         [
-          17853,
-          17941
+          20585,
+          20801
         ]
       ],
-      "label": 4,
-      "label_name": "ABD_CAUSAL",
-      "text": "Fever, right-upper-quadrant abdominal pain, and malaise are the most prominent symptoms."
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "If the serologic test for amebae had been positive, further medical treatment would have been appropriate, since 72 hours are often required to observe a clinical response after the initiation of anti-amebic therapy."
     },
     {
       "ranges": [
         [
-          12582,
-          12670
-        ]
-      ],
-      "label": 7,
-      "label_name": "DED_HIERARCHICAL",
-      "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
-    },
-    {
-      "ranges": [
-        [
-          31726,
-          31906
+          20158,
+          20245
         ]
       ],
       "label": 12,
       "label_name": "IND_CASEBASED",
-      "text": "His physician in London has told us of his experience with two other patients treated with a similar protocol who are alive eight years and three months after the end of treatment."
+      "text": "there are cases of documented amebic hepatic abscesses with negative serologic testing."
+    },
+    {
+      "ranges": [
+        [
+          18523,
+          18756
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The radiographic features of this case are also suggestive of this diagnosis. The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+    },
+    {
+      "ranges": [
+        [
+          14342,
+          14502
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The history of Mediterranean travel forces me to consider strongly a parasitic cause of the hepatic mass. Hydatid disease is common in the Mediterranean region."
     }
   ]
 }

@@ -34,11 +34,12 @@ async def _run_voter(
     full_text: str,
     semaphore: asyncio.Semaphore,
     session: aiohttp.ClientSession,
+    model: str | None = None,
 ) -> VoterResult:
     result = VoterResult(voter_id=voter_id)
     async with semaphore:
         logger.info("Voter %03d starting…", voter_id)
-        raw = await chat_completion(messages, voter_id, session)
+        raw = await chat_completion(messages, voter_id, session, model=model)
 
     if raw is None:
         result.failed = True

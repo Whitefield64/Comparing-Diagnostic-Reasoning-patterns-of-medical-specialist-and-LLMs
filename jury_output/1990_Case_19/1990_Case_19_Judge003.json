@@ -1,30 +1,8 @@
 {
   "case": "1990 Case 19.md",
-  "annotator": "Judge003",
-  "exported_at": "2026-05-01T09:47:30.735345+00:00",
+  "annotator": "Judge003-llama",
+  "exported_at": "2026-05-04T18:24:49.983473+00:00",
   "annotations": [
-    {
-      "ranges": [
-        [
-          15980,
-          16126
-        ]
-      ],
-      "label": 4,
-      "label_name": "ABD_CAUSAL",
-      "text": "The symptoms of a hydatid cyst are caused principally by the pressure of the expanding cyst, which is estimated to grow between 1 and 5 cm a year."
-    },
-    {
-      "ranges": [
-        [
-          17853,
-          17941
-        ]
-      ],
-      "label": 4,
-      "label_name": "ABD_CAUSAL",
-      "text": "Fever, right-upper-quadrant abdominal pain, and malaise are the most prominent symptoms."
-    },
     {
       "ranges": [
         [
@@ -39,24 +17,13 @@
     {
       "ranges": [
         [
-          20585,
-          20801
+          11210,
+          11426
         ]
       ],
-      "label": 5,
-      "label_name": "DED_HYPOTHETICO",
-      "text": "If the serologic test for amebae had been positive, further medical treatment would have been appropriate, since 72 hours are often required to observe a clinical response after the initiation of anti-amebic therapy."
-    },
-    {
-      "ranges": [
-        [
-          18523,
-          18756
-        ]
-      ],
-      "label": 9,
-      "label_name": "IND_PATTERN",
-      "text": "The radiographic features of this case are also suggestive of this diagnosis. The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Primary hepatic tumors are rare, but unfortunately nearly two thirds of them are malignant, representing the third most common abdominal cancer encountered in pediatric practice, after Wilms' tumor and neuroblastoma."
     },
     {
       "ranges": [
@@ -72,68 +39,79 @@
     {
       "ranges": [
         [
-          22729,
-          22897
+          12998,
+          13143
         ]
       ],
-      "label": 11,
-      "label_name": "IND_BAYESIAN",
-      "text": "Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence. This diagnosis seems to fit the overall clinical picture best."
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Pyogenic liver abscesses must be included in the differential diagnosis. Such abscesses are very rare, particularly in otherwise normal children."
     },
     {
       "ranges": [
         [
-          14342,
-          14502
+          10995,
+          11061
         ]
       ],
-      "label": 8,
-      "label_name": "DED_VALIDATION",
-      "text": "The history of Mediterranean travel forces me to consider strongly a parasitic cause of the hepatic mass. Hydatid disease is common in the Mediterranean region."
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The differential diagnosis of hepatic masses in children is broad."
     },
     {
       "ranges": [
         [
-          12852,
-          12994
-        ]
-      ],
-      "label": 10,
-      "label_name": "IND_INTUITION",
-      "text": "One would have to invoke a superinfection to explain the clinical picture. That is clearly a possibility, but it is not a very attractive one."
-    },
-    {
-      "ranges": [
-        [
-          17244,
-          17446
-        ]
-      ],
-      "label": 1,
-      "label_name": "ABD_SELECTIVE",
-      "text": "The most probable clinical diagnosis in this case is an amebic abscess. Amebiasis is estimated to occur in nearly 10 percent of the world's population and is certainly present in the Mediterranean area."
-    },
-    {
-      "ranges": [
-        [
-          23265,
-          23390
+          22898,
+          23133
         ]
       ],
       "label": 7,
       "label_name": "DED_HIERARCHICAL",
-      "text": "We had the same differential diagnosis and opinion that Dr. Lillehei had, with an amebic abscess high on our diagnostic list."
+      "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
     },
     {
       "ranges": [
         [
-          31907,
-          32081
+          18601,
+          18756
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+    },
+    {
+      "ranges": [
+        [
+          22642,
+          22834
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+    },
+    {
+      "ranges": [
+        [
+          19566,
+          19812
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, no single laboratory test is definitive, particularly if it is contrary to the clinical evidence. If the test is negative it should be repeated, and a specimen should be sent to the Centers for Disease Control for serologic confirmation."
+    },
+    {
+      "ranges": [
+        [
+          20158,
+          20245
         ]
       ],
       "label": 12,
       "label_name": "IND_CASEBASED",
-      "text": "His experience was corroborated by a recent report by Ware et al., whose two patients with this type of tumor have survived for six years and seven years after the diagnosis."
+      "text": "there are cases of documented amebic hepatic abscesses with negative serologic testing."
     }
   ]
 }

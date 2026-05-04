@@ -1,85 +1,8 @@
 {
   "case": "1991 Case 14.md",
-  "annotator": "Judge005",
-  "exported_at": "2026-05-01T09:48:21.593561+00:00",
+  "annotator": "Judge005-llama",
+  "exported_at": "2026-05-04T18:34:23.232319+00:00",
   "annotations": [
-    {
-      "ranges": [
-        [
-          5868,
-          5992
-        ]
-      ],
-      "label": 1,
-      "label_name": "ABD_SELECTIVE",
-      "text": "I suspect that transient tachypnea of the newborn prompted the initial x-ray film of the chest, which demonstrated the mass."
-    },
-    {
-      "ranges": [
-        [
-          7785,
-          7971
-        ]
-      ],
-      "label": 4,
-      "label_name": "ABD_CAUSAL",
-      "text": "The discovery at birth of a mass that proved to be relatively quiescent for the first 17 weeks of life leads me to consider a differential diagnosis of neoplastic and congenital lesions."
-    },
-    {
-      "ranges": [
-        [
-          8104,
-          8190
-        ]
-      ],
-      "label": 5,
-      "label_name": "DED_HYPOTHETICO",
-      "text": "Neuroblastomas, sarcomas, teratomas, and leukemia are those most frequently described."
-    },
-    {
-      "ranges": [
-        [
-          12311,
-          12501
-        ]
-      ],
-      "label": 11,
-      "label_name": "IND_BAYESIAN",
-      "text": "About 90 percent of patients with thoracic neural-crest tumors have elevated levels of dopa, dopamine, norepinephrine, normetanephrine, vanilmandelic acid (VMA), and homovanillic acid (HVA)."
-    },
-    {
-      "ranges": [
-        [
-          10135,
-          10253
-        ]
-      ],
-      "label": 4,
-      "label_name": "ABD_CAUSAL",
-      "text": "The presence of calcific densities within a posterior mediastinal lesion is highly suggestive of a neural-crest tumor."
-    },
-    {
-      "ranges": [
-        [
-          10644,
-          10976
-        ]
-      ],
-      "label": 8,
-      "label_name": "DED_VALIDATION",
-      "text": "the cleavage plane between the paraspinal tissues and the mass, the absence of spinal involvement, the absence of calcification, and the lack of evidence of distortion of adjacent structures such as the ribs, blood vessels, and airways make the diagnosis of a neural-crest tumor unlikely in this case from a radiographic standpoint."
-    },
-    {
-      "ranges": [
-        [
-          14689,
-          14790
-        ]
-      ],
-      "label": 9,
-      "label_name": "IND_PATTERN",
-      "text": "The CT and MRI studies make this diagnosis highly unlikely, however, in the patient under discussion."
-    },
     {
       "ranges": [
         [
@@ -90,50 +13,6 @@
       "label": 1,
       "label_name": "ABD_SELECTIVE",
       "text": "I shall therefore focus on neurogenic tumors of the posterior mediastinum as the primary neoplastic consideration in this infant."
-    },
-    {
-      "ranges": [
-        [
-          12959,
-          13054
-        ]
-      ],
-      "label": 11,
-      "label_name": "IND_BAYESIAN",
-      "text": "I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-    },
-    {
-      "ranges": [
-        [
-          13058,
-          13154
-        ]
-      ],
-      "label": 4,
-      "label_name": "ABD_CAUSAL",
-      "text": "Multiple developmental abnormalities can produce mass lesions in the lower portion of the chest."
-    },
-    {
-      "ranges": [
-        [
-          13155,
-          13278
-        ]
-      ],
-      "label": 5,
-      "label_name": "DED_HYPOTHETICO",
-      "text": "Esophageal duplications and neurenteric cysts are largely eliminated in this case on the basis of the radiographic studies."
-    },
-    {
-      "ranges": [
-        [
-          16896,
-          17138
-        ]
-      ],
-      "label": 9,
-      "label_name": "IND_PATTERN",
-      "text": "the lack of reported polyhydramnios during gestation, the fact that the patient was a full-term infant, and the slight and rapidly resolving respiratory distress lead me away from the diagnosis of a congenital cystic adenomatoid malformation."
     },
     {
       "ranges": [
@@ -153,9 +32,42 @@
           21433
         ]
       ],
-      "label": 11,
-      "label_name": "IND_BAYESIAN",
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
       "text": "I propose that a thoracotomy was performed and that an extralobar sequestration was detected."
+    },
+    {
+      "ranges": [
+        [
+          21689,
+          21792
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor."
+    },
+    {
+      "ranges": [
+        [
+          25485,
+          25559
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If there had been air it would have been easy to detect it on the CT scan."
+    },
+    {
+      "ranges": [
+        [
+          7638,
+          7684
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The limit of resolution is approximately 5 mm."
     },
     {
       "ranges": [
@@ -164,31 +76,86 @@
           26484
         ]
       ],
-      "label": 4,
-      "label_name": "ABD_CAUSAL",
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
       "text": "The combination of diagnostic information, prevention of future infections, prevention of spontaneous bleeding, and allowance for unimpeded lung growth produces a compelling argument for removal."
     },
     {
       "ranges": [
         [
-          27202,
-          27288
-        ]
-      ],
-      "label": 9,
-      "label_name": "IND_PATTERN",
-      "text": "Sequestered lobes tend to become infected and may be complicated by abscess formation."
-    },
-    {
-      "ranges": [
-        [
-          27306,
-          27465
+          16896,
+          17138
         ]
       ],
       "label": 8,
       "label_name": "DED_VALIDATION",
-      "text": "Infection is common in intralobar sequestered segments and uncommon in extralobar sequestered segments unless they communicate with the gastrointestinal tract."
+      "text": "the lack of reported polyhydramnios during gestation, the fact that the patient was a full-term infant, and the slight and rapidly resolving respiratory distress lead me away from the diagnosis of a congenital cystic adenomatoid malformation."
+    },
+    {
+      "ranges": [
+        [
+          8030,
+          8103
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presentation of a benign or a malignant neoplasm at birth is unusual."
+    },
+    {
+      "ranges": [
+        [
+          12931,
+          13054
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
+    },
+    {
+      "ranges": [
+        [
+          12311,
+          12501
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "About 90 percent of patients with thoracic neural-crest tumors have elevated levels of dopa, dopamine, norepinephrine, normetanephrine, vanilmandelic acid (VMA), and homovanillic acid (HVA)."
+    },
+    {
+      "ranges": [
+        [
+          25663,
+          25860
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Approximately 50 percent of patients with extralobar sequestration have a variety of other congenital anomalies, particularly diaphragmatic defects, but none have been demonstrated in this patient."
+    },
+    {
+      "ranges": [
+        [
+          23784,
+          23938
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The disorganized architecture in this case is typical of extralobar sequestrations and resembles that seen in one type of cystic adenomatoid malformation."
+    },
+    {
+      "ranges": [
+        [
+          24417,
+          24536
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Lymphangiectasia is seen regularly in extrapulmonary sequestration and may simulate congenital cystic lymphangiectasis."
     }
   ]
 }

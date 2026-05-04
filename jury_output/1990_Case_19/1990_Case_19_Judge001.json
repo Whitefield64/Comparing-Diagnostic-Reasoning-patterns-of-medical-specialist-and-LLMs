@@ -1,29 +1,40 @@
 {
   "case": "1990 Case 19.md",
-  "annotator": "Judge001",
-  "exported_at": "2026-05-01T09:47:30.734183+00:00",
+  "annotator": "Judge001-llama",
+  "exported_at": "2026-05-04T18:24:49.982859+00:00",
   "annotations": [
     {
       "ranges": [
         [
-          15980,
-          16126
+          10995,
+          11206
         ]
       ],
-      "label": 4,
-      "label_name": "ABD_CAUSAL",
-      "text": "The symptoms of a hydatid cyst are caused principally by the pressure of the expanding cyst, which is estimated to grow between 1 and 5 cm a year."
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis of hepatic masses in children is broad. My task is to try to correlate the radiographic picture with the findings from the history, physical examination, and laboratory investigations."
     },
     {
       "ranges": [
         [
-          12582,
-          12851
+          11210,
+          11426
         ]
       ],
-      "label": 4,
-      "label_name": "ABD_CAUSAL",
-      "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Primary hepatic tumors are rare, but unfortunately nearly two thirds of them are malignant, representing the third most common abdominal cancer encountered in pediatric practice, after Wilms' tumor and neuroblastoma."
+    },
+    {
+      "ranges": [
+        [
+          11427,
+          11689
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The radiographic appearance of the lesion in this case is not inconsistent with a malignant hepatic tumor, since hepatoblastomas may be partially cystic, hepatocellular carcinomas can have central necrosis, and septa may be seen within biliary rhabdomyosarcomas."
     },
     {
       "ranges": [
@@ -39,6 +50,28 @@
     {
       "ranges": [
         [
+          22729,
+          22834
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+    },
+    {
+      "ranges": [
+        [
+          15980,
+          16126
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The symptoms of a hydatid cyst are caused principally by the pressure of the expanding cyst, which is estimated to grow between 1 and 5 cm a year."
+    },
+    {
+      "ranges": [
+        [
           18601,
           18756
         ]
@@ -46,39 +79,6 @@
       "label": 9,
       "label_name": "IND_PATTERN",
       "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-    },
-    {
-      "ranges": [
-        [
-          22729,
-          22897
-        ]
-      ],
-      "label": 11,
-      "label_name": "IND_BAYESIAN",
-      "text": "Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence. This diagnosis seems to fit the overall clinical picture best."
-    },
-    {
-      "ranges": [
-        [
-          10995,
-          11206
-        ]
-      ],
-      "label": 1,
-      "label_name": "ABD_SELECTIVE",
-      "text": "The differential diagnosis of hepatic masses in children is broad. My task is to try to correlate the radiographic picture with the findings from the history, physical examination, and laboratory investigations."
-    },
-    {
-      "ranges": [
-        [
-          18523,
-          18756
-        ]
-      ],
-      "label": 8,
-      "label_name": "DED_VALIDATION",
-      "text": "The radiographic features of this case are also suggestive of this diagnosis. The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
     },
     {
       "ranges": [
@@ -94,24 +94,46 @@
     {
       "ranges": [
         [
-          17853,
-          17941
+          18523,
+          18600
         ]
       ],
-      "label": 4,
-      "label_name": "ABD_CAUSAL",
-      "text": "Fever, right-upper-quadrant abdominal pain, and malaise are the most prominent symptoms."
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The radiographic features of this case are also suggestive of this diagnosis."
     },
     {
       "ranges": [
         [
-          31726,
-          31906
+          12582,
+          12851
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+    },
+    {
+      "ranges": [
+        [
+          20158,
+          20245
         ]
       ],
       "label": 12,
       "label_name": "IND_CASEBASED",
-      "text": "His physician in London has told us of his experience with two other patients treated with a similar protocol who are alive eight years and three months after the end of treatment."
+      "text": "there are cases of documented amebic hepatic abscesses with negative serologic testing."
+    },
+    {
+      "ranges": [
+        [
+          22898,
+          23133
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
     }
   ]
 }

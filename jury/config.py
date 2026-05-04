@@ -9,6 +9,36 @@ NVIDIA_API_KEY = os.environ.get("NVIDIA_API_KEY", "")
 NVIDIA_BASE_URL = "https://integrate.api.nvidia.com/v1"
 NVIDIA_MODEL = os.environ.get("NVIDIA_MODEL", "meta/llama-3.3-70b-instruct")
 
+# Multi-model jury: 5 voters per model
+MODEL_LLAMA = "meta/llama-3.3-70b-instruct"
+MODEL_GEMMA = "google/gemma-4-31b-it"
+MODEL_MISTRAL = "mistralai/mistral-medium-3-5-128b"
+
+def get_model_for_voter(voter_id: int) -> str:
+    """
+    Map voter ID to model:
+    - voters 1-5: Llama
+    - voters 6-10: Gemma
+    - voters 11-15: Mistral
+    """
+    if 1 <= voter_id <= 5:
+        return MODEL_LLAMA
+    elif 6 <= voter_id <= 10:
+        return MODEL_GEMMA
+    else:  # 11-15
+        return MODEL_MISTRAL
+
+def get_model_short_name(voter_id: int) -> str:
+    """
+    Get short model name for annotator field (llama, gemma, mistral).
+    """
+    if 1 <= voter_id <= 5:
+        return "llama"
+    elif 6 <= voter_id <= 10:
+        return "gemma"
+    else:  # 11-15
+        return "mistral"
+
 # Jury parameters
 N_VOTERS = int(os.environ.get("N_VOTERS", "15"))
 TEMPERATURE = 0.7

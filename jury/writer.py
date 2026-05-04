@@ -15,6 +15,7 @@ import logging
 from datetime import datetime, timezone
 from pathlib import Path
 
+from jury.config import get_model_short_name
 from jury.runner import VoterResult
 
 logger = logging.getLogger(__name__)
@@ -32,9 +33,10 @@ def write_voter(
     if result.failed:
         return None
 
+    model_name = get_model_short_name(result.voter_id)
     payload = {
         "case": case_name,
-        "annotator": f"Judge{result.voter_id:03d}",
+        "annotator": f"Judge{result.voter_id:03d}-{model_name}",
         "exported_at": datetime.now(timezone.utc).isoformat(),
         "annotations": result.resolved,
     }

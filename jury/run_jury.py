@@ -26,7 +26,7 @@ from pathlib import Path
 
 import aiohttp
 
-from jury.config import N_VOTERS, NVIDIA_API_KEY, CONCURRENCY_LIMIT, VOTER_BATCH_SIZE, VOTER_BATCH_DELAY
+from jury.config import N_VOTERS, NVIDIA_API_KEY, CONCURRENCY_LIMIT, VOTER_BATCH_SIZE, VOTER_BATCH_DELAY, get_model_for_voter
 from jury.preprocessor import load_case
 from jury.prompt_builder import build_messages
 from jury.runner import _run_voter, VoterResult
@@ -119,7 +119,7 @@ async def process_case(case_path: Path, n_voters: int) -> None:
             
             logger.info("Spawning batch %d: %d voters", batch_idx + 1, len(batch_ids))
             tasks = [
-                _run_voter(voter_id, messages, full_text, semaphore, session)
+                _run_voter(voter_id, messages, full_text, semaphore, session, model=get_model_for_voter(voter_id))
                 for voter_id in batch_ids
             ]
             batch_results = await asyncio.gather(*tasks)

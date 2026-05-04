@@ -52,14 +52,18 @@ async def chat_completion(
     messages: list[dict],
     voter_id: int,
     session: aiohttp.ClientSession,
+    model: str | None = None,
     max_retries: int = 3,
 ) -> str | None:
     """
     Call the NVIDIA chat completions endpoint and return the assistant message content.
     Returns None if all retries are exhausted.
     """
+    if model is None:
+        model = NVIDIA_MODEL
+    
     payload = {
-        "model": NVIDIA_MODEL,
+        "model": model,
         "messages": messages,
         "temperature": TEMPERATURE,
         "max_tokens": MAX_TOKENS,
