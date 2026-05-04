@@ -1,0 +1,84 @@
+{
+  "case": "2016 Case 15.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-01T21:42:04.108206+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3956,
+          4030
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The olfactory hallucinations suggest a focal seizure arising in the uncus."
+    },
+    {
+      "ranges": [
+        [
+          4031,
+          4098
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The mass in the brain may be neoplastic or nonneoplastic in origin."
+    },
+    {
+      "ranges": [
+        [
+          9398,
+          9668
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Tumefactive, enhancing nonneoplastic brain lesions can be caused by inflammatory diseases, such as multiple sclerosis, acute disseminated encephalomyelitis, sarcoidosis, Behçet’s disease with neurologic involvement, tuberculosis, fungal infections, and syphilitic gumma."
+    },
+    {
+      "ranges": [
+        [
+          10361,
+          10507
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the presence of calcification and the prepontine lesion, which suggests meningeal involvement, a unifying diagnosis could be cerebral sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          9747,
+          9850
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the mass is associated with noncontiguous meningeal disease, which suggests a diagnosis of a granuloma."
+    },
+    {
+      "ranges": [
+        [
+          17227,
+          17489
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Lymphocytic meningitis, mononeuropathies of the facial nerves, multiple cranial neuropathies, and polyradiculoneuropathies respond to relatively short courses of glucocorticoids, are associated with a good long-term prognosis, and are generally not debilitating."
+    },
+    {
+      "ranges": [
+        [
+          17152,
+          17226
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the response to therapy and the prognosis depend on the clinical syndrome."
+    }
+  ]
+}

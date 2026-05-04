@@ -1,0 +1,128 @@
+{
+  "case": "2016 Case 03.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-01T21:39:42.701327+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7866,
+          7953
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "several notable features of her presentation initially influenced my working diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8961,
+          9093
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the severity, quality, increasing frequency, and epigastric location of the pain prompted the consideration of alternative diagnoses"
+    },
+    {
+      "ranges": [
+        [
+          12597,
+          12814
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the suspicion for inflammatory bowel disease had been higher, screening for fecal occult blood and potentially for inflammatory markers (e.g., calprotectin or lactoferrin) might have been helpful in the evaluation."
+    },
+    {
+      "ranges": [
+        [
+          11082,
+          11223
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the absence of evidence of esophagitis on upper endoscopy does not rule out the possibility of uncomplicated gastroesophageal reflux disease."
+    },
+    {
+      "ranges": [
+        [
+          18078,
+          18312
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The escalating frequency and severity of this patient’s episodic, acute-onset abdominal pain and vomiting raise the possibility of an intermittent process originating from a congenital disorder that might require surgical intervention"
+    },
+    {
+      "ranges": [
+        [
+          20945,
+          21148
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The appearance of the mass was unlike that of a lymph-node mass, a primary intraabdominal cancer, or metastatic disease; rather, the findings were most consistent with a relatively large accessory spleen"
+    },
+    {
+      "ranges": [
+        [
+          22337,
+          22484
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Most persons with accessory spleens are asymptomatic, but abdominal pain can occur with torsion, which was the suspected diagnosis in this patient."
+    },
+    {
+      "ranges": [
+        [
+          22485,
+          22583
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Torsion of an accessory spleen is most commonly reported in children but can also occur in adults."
+    },
+    {
+      "ranges": [
+        [
+          23807,
+          23958
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The tissue was predominantly unremarkable red and white pulp with an overlying capsule; the appearance was consistent with that of an accessory spleen."
+    },
+    {
+      "ranges": [
+        [
+          20157,
+          20300
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I thought this was a reasonable request and ordered an abdominal computed tomographic (CT) scan, which in fact ultimately led to the diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          19675,
+          19852
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Some evidence suggests that mind–body therapies (e.g., biofeedback and relaxation techniques) are effective for the management of chronic abdominal pain and headache in children"
+    }
+  ]
+}

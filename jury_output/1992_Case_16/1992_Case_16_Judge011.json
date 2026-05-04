@@ -1,0 +1,315 @@
+{
+  "case": "1992 Case 16.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-01T09:51:30.621006+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5928,
+          6110
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The motor weakness restricted to the intrinsic muscles of the left hand could indicate compression of the C8 root or a problem at a higher level in the spinal cord or even the brain."
+    },
+    {
+      "ranges": [
+        [
+          6111,
+          6287
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Presumably, the strength of the muscles innervated by the C5 root, including the deltoid, rhomboid, and biceps muscles, was normal, and no reflexes were noted to be diminished."
+    },
+    {
+      "ranges": [
+        [
+          6288,
+          6500
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "That combination of findings is against root involvement at the site of the lesion described on radiographic examination and favors spinal-cord compromise at the C4–5 level as an explanation of the hand weakness."
+    },
+    {
+      "ranges": [
+        [
+          9847,
+          9990
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Fractures of vertebral bodies, subluxations of joints, or acute herniations of disk material can all impinge on nerve roots or the spinal cord."
+    },
+    {
+      "ranges": [
+        [
+          9991,
+          10057
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The neurologic presentation can be identical to that in this case."
+    },
+    {
+      "ranges": [
+        [
+          10058,
+          10215
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Fractures and subluxations should have been ruled out by the plain x-ray films, and the MRI scan was probably ordered in search of a herniated cervical disk."
+    },
+    {
+      "ranges": [
+        [
+          12001,
+          12117
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the pattern of involvement of the disk space and adjoining vertebral end plates and the elevated sedimentation rate."
+    },
+    {
+      "ranges": [
+        [
+          12121,
+          12320
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The demonstration of erosion of two adjacent vertebral-body end plates with narrowing of the intervening disk space has been considered the radiographic hallmark of infection for over half a century."
+    },
+    {
+      "ranges": [
+        [
+          10582,
+          10725
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although trauma cannot be the whole answer, it is very likely that the mechanical blow to the neck aggravated a preexisting pathologic process."
+    },
+    {
+      "ranges": [
+        [
+          23840,
+          23938
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The weight of the evidence favors pyogenic infection, and the most likely organism is  *S. aureus*"
+    },
+    {
+      "ranges": [
+        [
+          9468,
+          9699
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Several pathological categories, including traumatic, metabolic, congenital, neoplastic, and inflammatory lesions, deserve mention in the differential diagnosis of spinal-cord dysfunction associated with cervical vertebral lesions."
+    },
+    {
+      "ranges": [
+        [
+          9703,
+          9846
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The first question raised in the differential diagnosis of post-traumatic pain is whether the trauma itself explains the symptoms and findings."
+    },
+    {
+      "ranges": [
+        [
+          12892,
+          13046
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The nature of the spread of infection through a disk space from one end plate to the next has been well studied with the use of microangiographic methods."
+    },
+    {
+      "ranges": [
+        [
+          13272,
+          13453
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Small septic thrombi are capable of lodging in these end arteries and causing a wedge of septic infarction, which is virtually a prerequisite for the establishment of osteomyelitis."
+    },
+    {
+      "ranges": [
+        [
+          12422,
+          12518
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I was initially surprised by the normal signal characteristics in the anterior part of the disk."
+    },
+    {
+      "ranges": [
+        [
+          12647,
+          12888
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, this disk certainly did have a decrease in height, which is the typical radiographic abnormality associated with infection, and the MRI scan does show evidence of a pathologic process involving the disk material itself in this case."
+    },
+    {
+      "ranges": [
+        [
+          18894,
+          19078
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "A review of series of patients with vertebral osteomyelitis as well as a subgroup of patients with epidural abscesses as a result of osteomyelitis shows that this case is not atypical."
+    },
+    {
+      "ranges": [
+        [
+          19079,
+          19190
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Absence of fever is common; nearly half the patients with vertebral osteomyelitis are afebrile at presentation."
+    },
+    {
+      "ranges": [
+        [
+          19604,
+          19760
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The leukocyte count is normal in cases of vertebral osteomyelitis more often than not, with an elevated sedimentation rate the only hematologic abnormality."
+    },
+    {
+      "ranges": [
+        [
+          19761,
+          19914
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although osteomyelitis can complicate bacterial endocarditis, intravenous drug abuse, or diabetes, those associations are more often absent than present."
+    },
+    {
+      "ranges": [
+        [
+          20114,
+          20242
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Factors favoring a pyogenic infection include a short history, as in this case, and the early appearance of neurologic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          20243,
+          20424
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Fever may be present or absent regardless of the causative organism, and a normal white-cell count with an elevated sedimentation rate is characteristic of both groups of infection."
+    },
+    {
+      "ranges": [
+        [
+          21050,
+          21123
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The only identifiable source of infection in this case is the paronychia."
+    },
+    {
+      "ranges": [
+        [
+          21124,
+          21238
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "If the digital infection was the source of sepsis of the spine, pyogenic infection would be the obvious diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          21450,
+          21754
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, there is a case report of a health care worker who had a paronychia as a result of a direct inoculation of the finger with tubercle bacilli, and without further details about this patient's occupational exposures as a surgical assistant, tuberculosis remains a theoretical if remote possibility."
+    },
+    {
+      "ranges": [
+        [
+          24174,
+          24397
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Rapid cervical flexion perhaps resulted in protrusion of an infected mass against the anterior surface of the spinal cord, with spread of purulent material around the posterior longitudinal ligament into the epidural space."
+    },
+    {
+      "ranges": [
+        [
+          24650,
+          24838
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The diagnostic and urgent therapeutic procedure was probably a C4–5 anterior cervical diskectomy with débridement and fusion, probably done as soon as the surgical team could be assembled."
+    },
+    {
+      "ranges": [
+        [
+          24839,
+          25050
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Specimens of blood should have been drawn for culture as an additional diagnostic test, since blood cultures sometimes give a bacteriologic diagnosis when no organisms can be recovered from the tissue at biopsy."
+    }
+  ]
+}

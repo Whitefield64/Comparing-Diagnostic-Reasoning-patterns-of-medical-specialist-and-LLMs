@@ -1,0 +1,161 @@
+{
+  "case": "1999 Case 06.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-01T21:01:35.629700+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          22102,
+          22387
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The best unifying diagnosis for the spectrum of symptoms and findings in this patient is Cogan's syndrome, with aortitis resulting in aortic valvular disease, aneurysm of the ascending thoracic and descending thoracoabdominal aorta, and arteritis of the renal artery, causing stenosis."
+    },
+    {
+      "ranges": [
+        [
+          22626,
+          22740
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "These phenomena are not associated with Takayasu's arteritis or other causes of aortic insufficiency and aortitis."
+    },
+    {
+      "ranges": [
+        [
+          20662,
+          20758
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the patient received a diuretic for hypertension, it could have caused the potassium wasting."
+    },
+    {
+      "ranges": [
+        [
+          20759,
+          20869
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Similarly, use of corticosteroids and renal-artery stenosis may together have contributed to the hypertension."
+    },
+    {
+      "ranges": [
+        [
+          6967,
+          7096
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although syphilis can cause aortitis that results in aortic insufficiency and aortic aneurysm, syphilis is unlikely in this case."
+    },
+    {
+      "ranges": [
+        [
+          7158,
+          7402
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Because false negative results occur in 10 to 20 percent of patients with late congenital syphilis, however, a negative result of a nontreponemal serologic screening test should be confirmed by the performance of a specific antitreponemal test."
+    },
+    {
+      "ranges": [
+        [
+          25500,
+          25687
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The aortic insufficiency in this patient was probably due to aortic-root dilatation or inflammation of the valve itself, each of which has been reported in patients with Cogan's syndrome."
+    },
+    {
+      "ranges": [
+        [
+          25247,
+          25499
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The features of this patient's aortitis, although not specific, have been described in cases of Cogan's syndrome with aortic involvement, including a panaortitis, which was probably modified by treatment, accompanied by prominent aneurysmal dilatation."
+    },
+    {
+      "ranges": [
+        [
+          22388,
+          22625
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The simultaneous development of interstitial keratitis and hearing loss, with improvement in the ocular symptoms but not the audiovestibular symptoms while the patient was receiving corticosteroid therapy, is typical of Cogan's syndrome."
+    },
+    {
+      "ranges": [
+        [
+          22626,
+          22740
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "These phenomena are not associated with Takayasu's arteritis or other causes of aortic insufficiency and aortitis."
+    },
+    {
+      "ranges": [
+        [
+          24567,
+          24620
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The findings in the other two specimens were similar."
+    },
+    {
+      "ranges": [
+        [
+          24621,
+          24855
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "There was marked destruction and fragmentation of medial elastic tissue and intimal thickening, accompanied by a marked chronic inflammatory infiltrate containing lymphocytes, macrophages, and plasma cells in the media and adventitia."
+    },
+    {
+      "ranges": [
+        [
+          24903,
+          25001
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Giant-cell aortitis is highly unlikely on the basis of the clinical history and the patient's age."
+    },
+    {
+      "ranges": [
+        [
+          25002,
+          25246
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Takayasu's arteritis may be associated with some of the features seen in this patient, including aortic insufficiency and aneurysmal dilatation, but large areas of necrosis of the aortic wall are not usually found in patients with that disease."
+    }
+  ]
+}

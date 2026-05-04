@@ -1,0 +1,117 @@
+{
+  "case": "2020 Case 35.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-01T21:49:07.561840+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          20384,
+          20568
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Our differential diagnosis was focused on this patient’s acute change in mental status in the context of a several-year history of gradual cognitive decline, diabetes, and retinopathy."
+    },
+    {
+      "ranges": [
+        [
+          22055,
+          22258
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of functional ceruloplasmin leads to derangements in iron efflux and transport, thereby leading to a high ferritin level with paradoxically low levels of iron and total iron-binding capacity."
+    },
+    {
+      "ranges": [
+        [
+          20569,
+          20724
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "On the basis of the MRI findings and the triad of diabetes, retinal degeneration, and neurologic dysfunction, our leading diagnosis was aceruloplasminemia."
+    },
+    {
+      "ranges": [
+        [
+          15574,
+          15715
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The combination of hypertensive vasculopathy and cerebral amyloid angiopathy would not be expected to occur in such a symmetric distribution."
+    },
+    {
+      "ranges": [
+        [
+          18914,
+          19112
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The classic clinical triad of aceruloplasminemia includes neurologic dysfunction, retinal degeneration, and diabetes mellitus due to iron deposition in the brain, retina, and pancreas, respectively."
+    },
+    {
+      "ranges": [
+        [
+          22259,
+          22351
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A diagnosis of hereditary aceruloplasminemia is consistent with all these laboratory values."
+    },
+    {
+      "ranges": [
+        [
+          24522,
+          24730
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "We initially aimed for a normal posttransfusion ceruloplasmin level of more than 20 mg per deciliter, but we were limited by the vast number of transfusions she received, including the use of plasma exchange."
+    },
+    {
+      "ranges": [
+        [
+          24017,
+          24253
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": " Although the efficacy of iron chelation therapy in patients with brain iron accumulation and neurologic manifestations is controversial, we initially treated this patient with 5 days of deferoxamine and then transitioned to deferiprone"
+    },
+    {
+      "ranges": [
+        [
+          21526,
+          21744
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Low serum ceruloplasmin and copper levels are also seen in rare genetic diseases, including diseases of copper metabolism such as Wilson’s disease or Menkes disease, as well as in primary hereditary aceruloplasminemia."
+    },
+    {
+      "ranges": [
+        [
+          22376,
+          22465
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "A genetic testing panel for neurodegeneration with brain iron accumulation was performed."
+    }
+  ]
+}

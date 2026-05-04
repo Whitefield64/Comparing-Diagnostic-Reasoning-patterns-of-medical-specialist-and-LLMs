@@ -1,0 +1,139 @@
+{
+  "case": "2005 Case 34.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-01T20:38:27.166134+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8435,
+          8571
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The fact that therapy with carbamazepine had been recently initiated focuses the differential diagnosis on cutaneous reactions to drugs."
+    },
+    {
+      "ranges": [
+        [
+          11571,
+          11794
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Toxic epidermal necrolysis is thought to be a cell-mediated immunologic reaction to drug metabolites, which may accumulate because of abnormal metabolism of the drug, resulting in the persistence of immunogenic metabolites."
+    },
+    {
+      "ranges": [
+        [
+          10207,
+          10316
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The extent of involvement and the clinical history in this patient are virtually diagnostic of this disorder."
+    },
+    {
+      "ranges": [
+        [
+          20252,
+          20353
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Most deaths in patients with toxic epidermal necrolysis are a result of sepsis-induced organ failure."
+    },
+    {
+      "ranges": [
+        [
+          12566,
+          12744
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The syndrome generally begins, as it did in this child, with a diffuse macular rash that spreads and becomes confluent, with separation of the epidermis, fluid loss, and bleeding"
+    },
+    {
+      "ranges": [
+        [
+          10457,
+          10580
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The diagnosis of toxic epidermal necrolysis can be confirmed by a skin biopsy, although one was not performed in this case."
+    },
+    {
+      "ranges": [
+        [
+          15640,
+          15742
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "This condition affects most children with this illness to a variable degree and is often quite severe."
+    },
+    {
+      "ranges": [
+        [
+          11986,
+          12071
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The necrosis appears to be mediated by CD8+ T cells by way of Fas-mediated apoptosis."
+    },
+    {
+      "ranges": [
+        [
+          21924,
+          22111
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In this child, as in most survivors, cutaneous reepithelialization became evident four to eight weeks after admission and was followed by healing of the mucous membranes and conjunctivae."
+    },
+    {
+      "ranges": [
+        [
+          13851,
+          13948
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Management of this condition requires strategies for wound care and for control of organ failure."
+    },
+    {
+      "ranges": [
+        [
+          9723,
+          9890
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "Generalized tender erythematous macules that progress to blisters and denudation are often preceded by photophobia, symptoms of upper respiratory infection, and fever."
+    },
+    {
+      "ranges": [
+        [
+          21806,
+          21923
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Published mortality rates for patients with toxic epidermal necrolysis vary widely and are between 40 and 70 percent."
+    }
+  ]
+}

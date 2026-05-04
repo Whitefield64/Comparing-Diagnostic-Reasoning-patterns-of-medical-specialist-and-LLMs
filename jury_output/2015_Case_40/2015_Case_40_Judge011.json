@@ -1,0 +1,128 @@
+{
+  "case": "2015 Case 40.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-01T20:52:02.877048+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8420,
+          8583
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Severe hypertension can cause mental-status changes with psychosis, but I would expect encephalopathy with confusion and other end-organ involvement to be present."
+    },
+    {
+      "ranges": [
+        [
+          6382,
+          6498
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The initial goal is to identify potential causes of the patient’s mental state without making a premature diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8015,
+          8218
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Delirium, which is accompanied by psychosis in about 50% of cases, is unlikely in this case, because the patient’s psychiatric symptoms were neither acute nor characterized by a waxing and waning course."
+    },
+    {
+      "ranges": [
+        [
+          9432,
+          9539
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The absence of clinically significant mood symptoms argues against a diagnosis of psychotic mood disorders."
+    },
+    {
+      "ranges": [
+        [
+          10472,
+          10604
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although schizophrenia is a diagnosis of exclusion, the diagnosis is nevertheless based on observable clinical features and history."
+    },
+    {
+      "ranges": [
+        [
+          5809,
+          5969
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In constructing a differential diagnosis for possible causes of psychosis in this patient, it is helpful to distinguish between primary and secondary psychosis."
+    },
+    {
+      "ranges": [
+        [
+          7137,
+          7443
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The following studies are indicated in all patients: measurement of vital signs, a physical examination, a test of the blood glucose level, a complete blood count, a differential count, and a comprehensive metabolic panel that includes testing for electrolytes (plus calcium) and liver and kidney function."
+    },
+    {
+      "ranges": [
+        [
+          12394,
+          12532
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "My primary goal during the first encounter was to earn her trust and not to turn her visit to the shelter into a formal medical encounter."
+    },
+    {
+      "ranges": [
+        [
+          9981,
+          10125
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The patient’s lack of insight into the nature of her illness is common in schizophrenia and often points toward higher-order cognitive problems."
+    },
+    {
+      "ranges": [
+        [
+          23478,
+          23643
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "With appropriate treatment and support, the majority of previously homeless people with schizophrenia can live stably in the community, as this patient is now doing."
+    },
+    {
+      "ranges": [
+        [
+          6499,
+          6779
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "To keep this task manageable, the selection of laboratory tests should be tailored to the clinical situation and should be focused on ruling out life-threatening causes of psychosis (e.g., delirium) and identifying treatable causes (e.g., hyperthyroidism or vitamin B    deficienc"
+    }
+  ]
+}

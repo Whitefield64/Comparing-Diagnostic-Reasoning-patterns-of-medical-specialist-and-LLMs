@@ -1,0 +1,73 @@
+{
+  "case": "1999 Case 06.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-01T09:57:33.775430+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5194,
+          5331
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Syphilis is also associated with aortitis, which was relatively common in the United States in the era before antibiotics were available."
+    },
+    {
+      "ranges": [
+        [
+          7097,
+          7157
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The results of serologic testing for syphilis were negative."
+    },
+    {
+      "ranges": [
+        [
+          7158,
+          7402
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Because false negative results occur in 10 to 20 percent of patients with late congenital syphilis, however, a negative result of a nontreponemal serologic screening test should be confirmed by the performance of a specific antitreponemal test."
+    },
+    {
+      "ranges": [
+        [
+          22388,
+          22625
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The simultaneous development of interstitial keratitis and hearing loss, with improvement in the ocular symptoms but not the audiovestibular symptoms while the patient was receiving corticosteroid therapy, is typical of Cogan's syndrome."
+    },
+    {
+      "ranges": [
+        [
+          6634,
+          6862
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "According to the criteria proposed by investigators at the National Institutes of Health, this patient's disorder could be classified as atypical Cogan's syndrome, because of the absence of symptoms typical of Meniere's disease."
+    },
+    {
+      "ranges": [
+        [
+          11842,
+          11938
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of aortic insufficiency in patients with Cogan's syndrome has been well documented."
+    }
+  ]
+}

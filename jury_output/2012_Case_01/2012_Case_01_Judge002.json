@@ -1,0 +1,216 @@
+{
+  "case": "2012 Case 01.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-01T20:12:31.441089+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7340,
+          7726
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis that I would consider for these ulcerative, bullous, necrotic hand lesions includes infection (bacterial, mycobacterial, protozoal, fungal, or viral); a vasculitis (e.g., vasculitis associated with antineutrophil cytoplasmic antibodies [ANCA] or vasculitis of medium-size vessels); and neutrophilic dermatoses (e.g., pyoderma gangrenosum or Sweet's syndrome)."
+    },
+    {
+      "ranges": [
+        [
+          7934,
+          8096
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "An infectious cause of the initial ulceration should be considered in view of the history of a dog bite, which can transmit several types of infectious organisms."
+    },
+    {
+      "ranges": [
+        [
+          8548,
+          8693
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The main bacterial infections to consider in association with dog bites are from staphylococci, streptococci, anaerobes, and pasteurella species."
+    },
+    {
+      "ranges": [
+        [
+          8978,
+          9184
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Despite the pathological diagnosis of necrotizing cellulitis, there was no crepitus on examination of the patient or gas on imaging, although this finding is not seen in all forms of necrotizing cellulitis."
+    },
+    {
+      "ranges": [
+        [
+          9185,
+          9486
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "He had no other signs of infection (e.g., fever or leukocytosis), he had no response to broad-spectrum antibiotics, cultures of the lesion were sterile, and his lesions worsened with débridement; in addition, lesions developed in nontraumatized areas in the absence of signs of systematized infection."
+    },
+    {
+      "ranges": [
+        [
+          9554,
+          9709
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Certain forms of vasculitis can cause deep, painful ulceration, particularly vasculitis of medium-size vessels and the ANCA-associated forms of vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          9710,
+          10049
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "These were less likely diagnoses in this patient because of the previous biopsy specimen that lacked evidence of vasculitis, the absence of respiratory symptoms that would suggest necrotizing granulomatous inflammation of the upper and lower respiratory tracts, and the glomerulonephritis that would be present in Wegener's granulomatosis."
+    },
+    {
+      "ranges": [
+        [
+          10824,
+          11006
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's original lesion appeared to arise after minor skin trauma, and during the hospital stay, he had evidence of new skin lesions arising at sites of iatrogenic skin trauma."
+    },
+    {
+      "ranges": [
+        [
+          11007,
+          11226
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "This phenomenon, known as pathergy, is an inflammatory response that develops after intradermal trauma and is manifested as erythematous-to-violaceous papules, plaques, and pustules, sometimes with secondary ulceration."
+    },
+    {
+      "ranges": [
+        [
+          12796,
+          13074
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Up to 70% of cases of pyoderma gangrenosum are associated with an underlying condition, such as inflammatory bowel disease, rheumatoid arthritis, and hematologic diseases (e.g., acute myeloid leukemia or myelodysplastic syndromes, hairy-cell leukemia, or monoclonal gammopathy)."
+    },
+    {
+      "ranges": [
+        [
+          13075,
+          13267
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This patient reported a recent history of diarrhea and weight loss, which raises the possibility of an underlying inflammatory bowel disease, although presentation at his age would be unusual."
+    },
+    {
+      "ranges": [
+        [
+          13268,
+          13456
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Chronic, atypical cases of pyoderma gangrenosum, like the one in this patient, are often associated with acute myeloid leukemia, myelodysplastic syndromes, and IgA monoclonal gammopathies."
+    },
+    {
+      "ranges": [
+        [
+          14197,
+          14291
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "This patient meets both major criteria and three of the four minor criteria for this diagnosis"
+    },
+    {
+      "ranges": [
+        [
+          17043,
+          17200
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Lesions characterized by ulceration are often associated with a systemic disease, including arthritis, inflammatory bowel disease, and monoclonal gammopathy."
+    },
+    {
+      "ranges": [
+        [
+          19337,
+          19406
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of a complex karyotype is an adverse prognostic feature."
+    },
+    {
+      "ranges": [
+        [
+          20071,
+          20313
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The two neutrophilic dermatoses — pyoderma gangrenosum and Sweet's syndrome — are seen most often in association with myeloid neoplasms, including myelodysplastic syndromes (as in this case), myeloproliferative neoplasms, and acute leukemias."
+    },
+    {
+      "ranges": [
+        [
+          20314,
+          20492
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Dermatomyositis, characterized by necrotic keratinocytes at the dermal–epidermal junction and marked dermal mucin deposition, is associated with lymphomas and ovarian carcinomas."
+    },
+    {
+      "ranges": [
+        [
+          20493,
+          20663
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Necrobiotic xanthogranuloma, characterized by granulomatous inflammation, cholesterol clefts, and striking multinucleated giant cells, is associated with paraproteinemia."
+    },
+    {
+      "ranges": [
+        [
+          22282,
+          22372
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Infliximab is preferred over other TNF-  *α* blockers because of its rapid onset of action"
+    }
+  ]
+}

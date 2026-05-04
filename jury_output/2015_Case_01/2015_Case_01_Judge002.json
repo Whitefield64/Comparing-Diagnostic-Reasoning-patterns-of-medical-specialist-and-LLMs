@@ -1,0 +1,117 @@
+{
+  "case": "2015 Case 01.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-01T21:35:46.475001+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          19630,
+          19745
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Resistance to endocrine therapies is associated with a shift in tumorigenic signaling through alternative pathways."
+    },
+    {
+      "ranges": [
+        [
+          18436,
+          18725
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Several studies have now shown that patients who received endocrine therapy (with either tamoxifen or an aromatase inhibitor) for 10 years had significantly decreased rates of late recurrence and overall mortality, as compared with patients who received tamoxifen therapy for only 5 years."
+    },
+    {
+      "ranges": [
+        [
+          22079,
+          22157
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Late recurrence of HR-positive breast cancer is an important clinical problem."
+    },
+    {
+      "ranges": [
+        [
+          20803,
+          21098
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the treatment options for this patient in whom metastatic disease developed soon after she completed adjuvant therapy with a nonsteroidal aromatase inhibitor are either the steroidal aromatase inhibitor exemestane (with or without the mTOR inhibitor everolimus) or the ER antagonist fulvestrant."
+    },
+    {
+      "ranges": [
+        [
+          16055,
+          16371
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The ASCO issued a clinical practice guideline that was based on a systematic review of the best available evidence to date. This guideline states that postmenopausal women with HR-positive breast cancer should receive therapy with an aromatase inhibitor, either as adjuvant therapy or as sequential treatment after t"
+    },
+    {
+      "ranges": [
+        [
+          24000,
+          24057
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "We really do not know, but it is an interesting question."
+    },
+    {
+      "ranges": [
+        [
+          20138,
+          20254
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The PI3K–AKT–mTOR pathway has been associated with resistance to endocrine therapies in patients with breast cancer."
+    },
+    {
+      "ranges": [
+        [
+          21554,
+          21813
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the Breast Cancer Trials of Oral Everolimus-2 (BOLERO-2) showed an increase in progression-free survival from 4.1 months to 11 months among patients receiving exemestane plus the mTOR inhibitor everolimus (as compared with patients receiving exemestane alone)"
+    },
+    {
+      "ranges": [
+        [
+          11693,
+          11859
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The main purpose of performing metastasectomy in cases such as this one is to confirm the diagnosis and HR status and to rule out other primary or metastatic cancers."
+    },
+    {
+      "ranges": [
+        [
+          24198,
+          24273
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Analogous studies involving patients with colorectal cancer have been done."
+    }
+  ]
+}

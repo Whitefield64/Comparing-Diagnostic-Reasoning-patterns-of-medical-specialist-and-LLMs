@@ -1,0 +1,150 @@
+{
+  "case": "2015 Case 40.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-01T21:37:02.105363+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8420,
+          8583
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Severe hypertension can cause mental-status changes with psychosis, but I would expect encephalopathy with confusion and other end-organ involvement to be present."
+    },
+    {
+      "ranges": [
+        [
+          6382,
+          6498
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The initial goal is to identify potential causes of the patient’s mental state without making a premature diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9432,
+          9539
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The absence of clinically significant mood symptoms argues against a diagnosis of psychotic mood disorders."
+    },
+    {
+      "ranges": [
+        [
+          6947,
+          7133
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although many tests are not needed in an emergency situation, all tests should be considered when acute care is being provided, especially if subsequent outpatient follow-up is unlikely."
+    },
+    {
+      "ranges": [
+        [
+          5970,
+          6118
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Primary psychoses are the result of psychiatric illness, whereas secondary psychoses are the result of medical or surgical illness or substance use."
+    },
+    {
+      "ranges": [
+        [
+          9981,
+          10125
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient’s lack of insight into the nature of her illness is common in schizophrenia and often points toward higher-order cognitive problems."
+    },
+    {
+      "ranges": [
+        [
+          18087,
+          18184
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Sixty years ago, a patient such as this one would probably have been cared for in an institution."
+    },
+    {
+      "ranges": [
+        [
+          17633,
+          17819
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The core symptoms — hallucinations, delusions, paranoia, diminished curiosity and motivation, and impaired executive functioning — create challenges in meeting the demands of adult life."
+    },
+    {
+      "ranges": [
+        [
+          18755,
+          18844
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "We do not know why she stopped taking antipsychotic medication, but this commonly occurs."
+    },
+    {
+      "ranges": [
+        [
+          19549,
+          19680
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Assertive community treatment by a non–office-based multidisciplinary outreach team is an established approach for doing just that."
+    },
+    {
+      "ranges": [
+        [
+          23478,
+          23643
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "With appropriate treatment and support, the majority of previously homeless people with schizophrenia can live stably in the community, as this patient is now doing."
+    },
+    {
+      "ranges": [
+        [
+          13060,
+          13240
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "Her feet were macerated and foul-smelling and had extensive changes consistent with tinea infection, indicating that she had infrequent opportunities to remove her shoes and socks."
+    },
+    {
+      "ranges": [
+        [
+          18377,
+          18569
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "the threshold for admission to acute psychiatric hospitals is now related to level of danger rather than severity of illness, and the focus of hospitalization is often on crisis stabilization."
+    }
+  ]
+}

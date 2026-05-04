@@ -1,0 +1,139 @@
+{
+  "case": "2020 Case 35.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-01T21:50:24.521229+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          15751,
+          15907
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most likely explanation of this patient’s abnormalities on CT and MRI is excessive mineralization, most commonly of calcium, copper, manganese, or iron."
+    },
+    {
+      "ranges": [
+        [
+          22055,
+          22258
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of functional ceruloplasmin leads to derangements in iron efflux and transport, thereby leading to a high ferritin level with paradoxically low levels of iron and total iron-binding capacity."
+    },
+    {
+      "ranges": [
+        [
+          14174,
+          14419
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient’s neurologic findings (Babinski signs, increased tone, and absence of reflexes in the lower legs) are insufficient to make a diagnosis; however, the neuroimaging studies are striking and may point us toward several uncommon diseases."
+    },
+    {
+      "ranges": [
+        [
+          19713,
+          20022
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "On the basis of this patient’s clinical presentation, history of gradual cognitive decline, imaging findings consistent with excessive mineralization, and low serum levels of iron and total iron-binding capacity with a high ferritin level, I think aceruloplasminemia is the most likely diagnosis in this case."
+    },
+    {
+      "ranges": [
+        [
+          18522,
+          18643
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Aceruloplasminemia is an autosomal recessive disease that is caused by a mutation in the gene that encodes ceruloplasmin."
+    },
+    {
+      "ranges": [
+        [
+          18914,
+          19112
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The classic clinical triad of aceruloplasminemia includes neurologic dysfunction, retinal degeneration, and diabetes mellitus due to iron deposition in the brain, retina, and pancreas, respectively."
+    },
+    {
+      "ranges": [
+        [
+          24522,
+          24730
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "We initially aimed for a normal posttransfusion ceruloplasmin level of more than 20 mg per deciliter, but we were limited by the vast number of transfusions she received, including the use of plasma exchange."
+    },
+    {
+      "ranges": [
+        [
+          24018,
+          24333
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although the efficacy of iron chelation therapy in patients with brain iron accumulation and neurologic manifestations is controversial, we initially treated this patient with 5 days of deferoxamine and then transitioned to deferiprone, which is the only iron chelator that is able to cross the blood–brain barrier."
+    },
+    {
+      "ranges": [
+        [
+          15574,
+          15715
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The combination of hypertensive vasculopathy and cerebral amyloid angiopathy would not be expected to occur in such a symmetric distribution."
+    },
+    {
+      "ranges": [
+        [
+          20272,
+          20347
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Dr. Roy, what was your clinical impression when you evaluated this patient?"
+    },
+    {
+      "ranges": [
+        [
+          11242,
+          11523
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Several categories of disorders remain, including psychiatric diseases, medical diseases with central nervous system (CNS) involvement, and neurologic diseases, such as degenerative disease, cerebral microvascular disease, and immunologic disease or cancer with neurologic effects."
+    },
+    {
+      "ranges": [
+        [
+          21875,
+          22018
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": " patient’s laboratory values were also remarkable for a high ferritin level and low levels of iron and total iron-binding capacity in serum. Th"
+    }
+  ]
+}

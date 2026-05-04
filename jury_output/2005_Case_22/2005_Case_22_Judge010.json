@@ -1,0 +1,139 @@
+{
+  "case": "2005 Case 22.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-01T21:19:15.012644+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8080,
+          8409
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Perturbations of cognition and level of consciousness are often seen in patients with meningitis. However, altered mental status that precedes the onset of meningeal findings and worsens in the setting of relatively mild, stable abnormalities of the cerebrospinal fluid suggests that encephalitis is actually the primary process."
+    },
+    {
+      "ranges": [
+        [
+          8413,
+          8604
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The profound peripheral weakness that was observed in this patient cannot be explained on the basis of meningoencephalitis alone and suggests involvement of additional levels of the neuraxis."
+    },
+    {
+      "ranges": [
+        [
+          8793,
+          8905
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "A lesion in the cervical spinal cord would probably be accompanied by sensory changes and sphincter dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          13323,
+          13584
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Herpes simplex virus 1 (HSV-1) is probably not the cause of this man's encephalitis because there were no temporal-lobe abnormalities on imaging studies, and the negative results of the polymerase-chain-reaction (PCR) assay for HSV-1 in the cerebrospinal fluid."
+    },
+    {
+      "ranges": [
+        [
+          14744,
+          14894
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "PCR analysis of cerebrospinal fluid for enteroviruses has a sensitivity of more than 98 percent for detecting infection of the central nervous system."
+    },
+    {
+      "ranges": [
+        [
+          12939,
+          13144
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of a poliomyelitis-like syndrome with flaccid paralysis should focus attention on viruses, which are the only pathogens likely to cause this syndrome, with or without concomitant encephalitis."
+    },
+    {
+      "ranges": [
+        [
+          12188,
+          12374
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the absence of a typical mass lesion and the predominance of T cells in the central nervous system both strongly suggest that the neurologic syndrome is not a direct complication of CLL."
+    },
+    {
+      "ranges": [
+        [
+          15944,
+          16130
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The thalamic abnormality revealed on MRI of this patient adds weight to this diagnosis, because an increasing number of flaviviruses have been associated with basal-ganglion involvement."
+    },
+    {
+      "ranges": [
+        [
+          16306,
+          16471
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "A respiratory prodrome is atypical of West Nile virus infection, however, and its presence makes me wonder whether it was due to an unrelated infection in this case."
+    },
+    {
+      "ranges": [
+        [
+          7373,
+          7659
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis for the left thalamic lesion includes viral encephalitis and bartonella infection, among other infectious and inflammatory processes, low-grade glioma, subacute arterial or venous infarction, paraneoplastic syndromes, and acute disseminated encephalomyelitis."
+    },
+    {
+      "ranges": [
+        [
+          17483,
+          17667
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The history of fever, cough, and a rapidly progressive encephalopathy, along with the results of the cerebrospinal fluid studies, raised the possibility of a viral meningoencephalitis."
+    },
+    {
+      "ranges": [
+        [
+          22843,
+          23095
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Twenty-three of 44 consecutive autopsy samples of the central nervous system submitted to the Centers for Disease Control and Prevention with a diagnosis of encephalitis between August and December 2002 tested positive for West Nile virus encephalitis."
+    }
+  ]
+}

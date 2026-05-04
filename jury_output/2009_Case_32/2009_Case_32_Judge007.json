@@ -1,0 +1,139 @@
+{
+  "case": "2009 Case 32.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-01T20:42:21.795072+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          10331,
+          10598
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Pulmonary hypertension may complicate many parenchymal lung diseases, resulting secondarily from obliteration of alveolar capillary membranes or hypoxic vasoconstriction or directly from the biochemical mediators involved in the pathogenesis of fibrotic lung disease."
+    },
+    {
+      "ranges": [
+        [
+          10599,
+          10779
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "I consequently believe that there is one diagnosis in this case leading directly to the pulmonary fibrosis and ground-glass opacities and secondarily to the pulmonary hypertension."
+    },
+    {
+      "ranges": [
+        [
+          11853,
+          12004
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Some features of this case are suggestive of idiopathic pulmonary fibrosis, nonspecific interstitial pneumonia, or desquamative interstitial pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          9463,
+          9676
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The radiographic appearance of extensive ground-glass opacities superimposed on underlying fibrotic changes can indicate the development of a new disease process, such as pulmonary hemorrhage, edema, or infection."
+    },
+    {
+      "ranges": [
+        [
+          9677,
+          9911
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The development of pneumocystis pneumonia in patients who are undergoing immunosuppressive therapies for fibrotic lung diseases or the development of acute exacerbations of idiopathic pulmonary fibrosis are examples of such scenarios."
+    },
+    {
+      "ranges": [
+        [
+          12005,
+          12173
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Architectural distortion, traction bronchiectasis, and honeycombing, as seen on the CT scans, are characteristic radiographic features of idiopathic pulmonary fibrosis."
+    },
+    {
+      "ranges": [
+        [
+          18609,
+          18901
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Lamellar bodies in type 2 pneumocytes synthesize, store, and release surfactant, and their dysfunction can cause deposition of ceroid (a lipid–protein complex of unknown composition) and degeneration and death of type 2 cells, occurrences that are thought to contribute to pulmonary fibrosis."
+    },
+    {
+      "ranges": [
+        [
+          16285,
+          16419
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "This patient has several clinical features consistent with HPS: oculocutaneous albinism, a bleeding diathesis, and pulmonary fibrosis."
+    },
+    {
+      "ranges": [
+        [
+          17828,
+          17958
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient had a bleeding diathesis, consistent with abnormalities in platelet-dense granules that regulate platelet aggregation."
+    },
+    {
+      "ranges": [
+        [
+          18917,
+          19013
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "pulmonary symptoms developed in 61% of patients with HPS1, with onset at a mean age of 35 years."
+    },
+    {
+      "ranges": [
+        [
+          21213,
+          21327
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The diagnostic procedure was actually a lung transplantation, with pathological examination of the explanted lung."
+    },
+    {
+      "ranges": [
+        [
+          22927,
+          23185
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fibrosis is characteristically uneven in distribution, as in this case, without the localization seen in usual interstitial pneumonitis (subpleural honeycomb fibrosis) and other fibrosing diseases, such as primary bronchiectasis (peribronchial fibrosis)."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "case": "1990 Case 19.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-01T09:47:30.736486+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          10995,
+          11206
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis of hepatic masses in children is broad. My task is to try to correlate the radiographic picture with the findings from the history, physical examination, and laboratory investigations."
+    },
+    {
+      "ranges": [
+        [
+          15980,
+          16126
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The symptoms of a hydatid cyst are caused principally by the pressure of the expanding cyst, which is estimated to grow between 1 and 5 cm a year."
+    },
+    {
+      "ranges": [
+        [
+          20585,
+          20801
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the serologic test for amebae had been positive, further medical treatment would have been appropriate, since 72 hours are often required to observe a clinical response after the initiation of anti-amebic therapy."
+    },
+    {
+      "ranges": [
+        [
+          18523,
+          18756
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The radiographic features of this case are also suggestive of this diagnosis. The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+    },
+    {
+      "ranges": [
+        [
+          22729,
+          22897
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence. This diagnosis seems to fit the overall clinical picture best."
+    },
+    {
+      "ranges": [
+        [
+          17244,
+          17446
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most probable clinical diagnosis in this case is an amebic abscess. Amebiasis is estimated to occur in nearly 10 percent of the world's population and is certainly present in the Mediterranean area."
+    },
+    {
+      "ranges": [
+        [
+          18899,
+          19133
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The finding on the MRI scan of a sharply circumscribed, heterogeneous mass of low intensity on the T    –weighted images but of increased intensity on the T    –weighted images has been reported in MRI scans of known amebic liver absc"
+    },
+    {
+      "ranges": [
+        [
+          22642,
+          22728
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
+    },
+    {
+      "ranges": [
+        [
+          17853,
+          17941
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Fever, right-upper-quadrant abdominal pain, and malaise are the most prominent symptoms."
+    },
+    {
+      "ranges": [
+        [
+          20802,
+          21038
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Needle aspiration of the abscess was certainly an option. It has been performed safely in children as well as adults. Bacterial pathogens can certainly be identified by aspiration, although parasites can be found somewhat less reliably."
+    },
+    {
+      "ranges": [
+        [
+          19140,
+          19317
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Caval compression by an amebic abscess has been described, even to the point of producing intraluminal thrombosis in the superior vena cava with extension into the right atrium."
+    },
+    {
+      "ranges": [
+        [
+          22898,
+          23133
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
+    },
+    {
+      "ranges": [
+        [
+          19566,
+          19812
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, no single laboratory test is definitive, particularly if it is contrary to the clinical evidence. If the test is negative it should be repeated, and a specimen should be sent to the Centers for Disease Control for serologic confirmation."
+    }
+  ]
+}

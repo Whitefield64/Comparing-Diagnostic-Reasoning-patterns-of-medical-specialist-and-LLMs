@@ -1,0 +1,139 @@
+{
+  "case": "2009 Case 32.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-01T21:25:55.877677+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          10331,
+          10598
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Pulmonary hypertension may complicate many parenchymal lung diseases, resulting secondarily from obliteration of alveolar capillary membranes or hypoxic vasoconstriction or directly from the biochemical mediators involved in the pathogenesis of fibrotic lung disease."
+    },
+    {
+      "ranges": [
+        [
+          10106,
+          10222
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I believe that this patient's extensive ground-glass opacities are intrinsic to his underlying fibrotic lung disease"
+    },
+    {
+      "ranges": [
+        [
+          10599,
+          10779
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I consequently believe that there is one diagnosis in this case leading directly to the pulmonary fibrosis and ground-glass opacities and secondarily to the pulmonary hypertension."
+    },
+    {
+      "ranges": [
+        [
+          9463,
+          9676
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The radiographic appearance of extensive ground-glass opacities superimposed on underlying fibrotic changes can indicate the development of a new disease process, such as pulmonary hemorrhage, edema, or infection."
+    },
+    {
+      "ranges": [
+        [
+          12005,
+          12173
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Architectural distortion, traction bronchiectasis, and honeycombing, as seen on the CT scans, are characteristic radiographic features of idiopathic pulmonary fibrosis."
+    },
+    {
+      "ranges": [
+        [
+          20709,
+          20860
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "I had the advantage of having the referring physician suspect this diagnosis when the patient was sent to see me for an evaluation for transplantation."
+    },
+    {
+      "ranges": [
+        [
+          16285,
+          16419
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "This patient has several clinical features consistent with HPS: oculocutaneous albinism, a bleeding diathesis, and pulmonary fibrosis."
+    },
+    {
+      "ranges": [
+        [
+          17443,
+          17508
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "This patient had decreased visual acuity and horizontal nystagmus"
+    },
+    {
+      "ranges": [
+        [
+          19305,
+          19354
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the clinical triad that is characteristic of HPS."
+    },
+    {
+      "ranges": [
+        [
+          21213,
+          21327
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The diagnostic procedure was actually a lung transplantation, with pathological examination of the explanted lung."
+    },
+    {
+      "ranges": [
+        [
+          21328,
+          21423
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although we anticipated bleeding problems, no excessive bleeding occurred during the procedure."
+    },
+    {
+      "ranges": [
+        [
+          19014,
+          19232
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Pulmonary-function tests showed severe functional impairments (forced vital capacity [FVC], ≤40% of the predicted value) in 11%, as in this case, and moderate impairments (FVC, 41 to 60% of the predicted value) in 21%."
+    }
+  ]
+}

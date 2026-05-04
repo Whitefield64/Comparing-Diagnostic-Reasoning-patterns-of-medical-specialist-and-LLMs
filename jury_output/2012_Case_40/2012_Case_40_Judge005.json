@@ -1,0 +1,139 @@
+{
+  "case": "2012 Case 40.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-01T20:14:51.052425+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3205,
+          3331
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Such situations require clinicians to focus promptly on a most-likely diagnosis in order to direct problem-specific therapies."
+    },
+    {
+      "ranges": [
+        [
+          5434,
+          5605
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Amniotic-fluid embolism is thought to result from maternal reaction to fetal material entering the pulmonary circulation and can cause apnea, hypotension, and bradycardia."
+    },
+    {
+      "ranges": [
+        [
+          3395,
+          3496
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Primary cardiac events need to be considered as a cause of intraoperative cardiorespiratory collapse."
+    },
+    {
+      "ranges": [
+        [
+          3497,
+          3728
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Myocardial ischemia and infarction can cause profound alteration in vital signs, yet this patient was relatively young and had no history of heart disease, and the intraoperative cardiac monitoring did not suggest ischemic changes."
+    },
+    {
+      "ranges": [
+        [
+          4494,
+          4567
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Embolic events can produce sudden collapse of the sort seen in this case."
+    },
+    {
+      "ranges": [
+        [
+          6724,
+          6932
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The clinical presentation of amniotic-fluid embolism includes cardiovascular collapse (bradycardia or hypotension or both), apnea, bleeding, or evidence of fetal compromise (if delivery has not yet occurred)."
+    },
+    {
+      "ranges": [
+        [
+          5606,
+          5845
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Amniotic-fluid embolism, although rare, is well known and feared by obstetricians, and because it seemed the most likely explanation for this patient's condition, this diagnosis will be the focus of the discussion here, as it was that day."
+    },
+    {
+      "ranges": [
+        [
+          7061,
+          7184
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Pathophysiologically, amniotic-fluid embolism is thought to be a maternal anaphylactic reaction that unfolds in two phases."
+    },
+    {
+      "ranges": [
+        [
+          13628,
+          13992
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "In this patient with the sudden onset of bradycardia, chest pain, loss of consciousness, and apnea during cesarean delivery, performed because of bleeding placenta previa, the finding of 100% pulmonary dead space in the context of cardiac arrest presenting as pulseless electrical activity rapidly led us to the preliminary diagnosis of an amniotic-fluid embolism."
+    },
+    {
+      "ranges": [
+        [
+          13800,
+          13992
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the finding of 100% pulmonary dead space in the context of cardiac arrest presenting as pulseless electrical activity rapidly led us to the preliminary diagnosis of an amniotic-fluid embolism."
+    },
+    {
+      "ranges": [
+        [
+          19551,
+          19686
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the likely diagnosis of an amniotic-fluid embolism, we predicted that the patient's cardiopulmonary system would recover quickly."
+    },
+    {
+      "ranges": [
+        [
+          22769,
+          22898
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The profound right ventricular dysfunction seems to be caused by more than just a mechanical obstruction of the pulmonary artery."
+    }
+  ]
+}

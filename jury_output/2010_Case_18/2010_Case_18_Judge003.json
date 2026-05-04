@@ -1,0 +1,227 @@
+{
+  "case": "2010 Case 18.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-01T20:09:41.668082+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          13866,
+          14015
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Several factors are likely to have contributed: difficulties with adherence, an interaction between rifampin and ritonavir, and problems with dosing."
+    },
+    {
+      "ranges": [
+        [
+          14016,
+          14184
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Mutations associated with resistance to protease inhibitors and NRTIs, such as lamivudine (M184V) and thymidine analogues, are likely to have developed in this patient."
+    },
+    {
+      "ranges": [
+        [
+          16920,
+          17067
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "When it is determined that antiretroviral therapy has failed in a child, a full assessment of the possible reasons for failure should be conducted."
+    },
+    {
+      "ranges": [
+        [
+          17161,
+          17269
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A change in the drug regimen should be guided by the patient's drug history and genotyping (when available)."
+    },
+    {
+      "ranges": [
+        [
+          16660,
+          16916
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although we know of no randomized, controlled trials to guide decisions about the optimal viral load at which to switch to second-line therapy, there are some principles of switching antiretroviral therapy after treatment failure that may provide guidance."
+    },
+    {
+      "ranges": [
+        [
+          18843,
+          18998
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In patients with multiple mutations associated with resistance to older protease-inhibitors, ritonavir-boosted darunavir or tipranavir may still be useful."
+    },
+    {
+      "ranges": [
+        [
+          17569,
+          17686
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Since the child had not previously received an NNRTI, a simple switch to two NRTIs and an NNRTI might be appropriate."
+    },
+    {
+      "ranges": [
+        [
+          17687,
+          17791
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Alternatively, a regimen that includes an NNRTI plus a newer protease inhibitor might also be effective."
+    },
+    {
+      "ranges": [
+        [
+          20875,
+          21004
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This case illustrates the problems that can occur when HIV infection in pediatric patients is not diagnosed and treated properly."
+    },
+    {
+      "ranges": [
+        [
+          22705,
+          22762
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Families may initially be resistant to telling the child."
+    },
+    {
+      "ranges": [
+        [
+          22763,
+          22918
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "They may feel guilty about having transmitted the infection to the child, and they are often worried that the child might disclose the diagnosis to others."
+    },
+    {
+      "ranges": [
+        [
+          7279,
+          7456
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "International guidelines for the management of pediatric HIV infection now recommend that all children under 1 year of age in high-prevalence areas start antiretroviral therapy."
+    },
+    {
+      "ranges": [
+        [
+          7457,
+          7527
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "South African guidelines have recently been updated to recommend this."
+    },
+    {
+      "ranges": [
+        [
+          15906,
+          16011
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient had HIV subtype C; the viral sequences showed mutations associated with multidrug resistance."
+    },
+    {
+      "ranges": [
+        [
+          12010,
+          12107
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "BCG-associated IRIS was the most common IRIS event in the Neverest (nevirapine resistance) study."
+    },
+    {
+      "ranges": [
+        [
+          12108,
+          12218
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "BCG-associated lymphadenitis has been described in a 9-year-old child from Thailand who received BCG at birth."
+    },
+    {
+      "ranges": [
+        [
+          11484,
+          11590
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "a supraclavicular abscess developed in the patient, with granulomatous inflammation and negative cultures."
+    },
+    {
+      "ranges": [
+        [
+          18999,
+          19101
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The mutations seen in this patient's virus confer intermediate resistance to darunavir and tipranavir."
+    },
+    {
+      "ranges": [
+        [
+          8231,
+          8320
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Poor adherence to antiretroviral therapy is the most common reason for virologic failure."
+    },
+    {
+      "ranges": [
+        [
+          8321,
+          8525
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Therefore, caregivers should receive training in how to administer antiretroviral therapy to children and should understand the importance of adherence in preventing the development of drug-resistant HIV."
+    }
+  ]
+}

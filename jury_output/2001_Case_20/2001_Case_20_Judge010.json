@@ -1,0 +1,150 @@
+{
+  "case": "2001 Case 20.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-01T21:06:09.214535+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5209,
+          5420
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A traveler returning from the Middle East who presents with a nonspecific, protracted febrile illness may have any one of a variety of bacterial, parasitic, rickettsial, fungal, viral, or noninfectious diseases."
+    },
+    {
+      "ranges": [
+        [
+          5746,
+          5896
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The ineffectiveness of ciprofloxacin in this patient, however, is evidence against infection with various salmonella species that cause enteric fever."
+    },
+    {
+      "ranges": [
+        [
+          11671,
+          11732
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If this patient had brucellosis, why did his disease relapse?"
+    },
+    {
+      "ranges": [
+        [
+          9084,
+          9202
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The distinctive constellation of findings in this case suggests the diagnosis of infection with  *Brucella melitensis*"
+    },
+    {
+      "ranges": [
+        [
+          11733,
+          11856
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The most likely explanation is inappropriate monotherapy with a quinolone (ciprofloxacin) and a cephalosporin (cefuroxime)."
+    },
+    {
+      "ranges": [
+        [
+          12029,
+          12403
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Two prospective studies in Spain identified several independent risk factors for a relapse of brucellosis: suboptimal antibiotic therapy, male sex, and various clinical markers indicative of severe infection (positive blood cultures during the initial infection, illness for less than 10 days before the start of treatment, thrombocytopenia, and a high initial temperature)."
+    },
+    {
+      "ranges": [
+        [
+          9934,
+          10038
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The clinical findings are compatible with the presence of  *B. melitensis* infection for several reasons"
+    },
+    {
+      "ranges": [
+        [
+          13424,
+          13530
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fever and anemia in combination with sclerotic leaflets may account for the patient's systolic murmur."
+    },
+    {
+      "ranges": [
+        [
+          11279,
+          11622
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The description of the gram-negative bacterium as a bacillus (in the first positive blood culture) and as a rod (in the second positive blood culture), the absence of β-lactamase production, and the susceptibility profile of the organism are all consistent with infection by a brucella species, which can have a coccoid or rod-like appearance."
+    },
+    {
+      "ranges": [
+        [
+          14589,
+          14720
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The possibility of early spondylitis due to brucella merits consideration in this patient because it is very common in brucellosis."
+    },
+    {
+      "ranges": [
+        [
+          15447,
+          15623
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Paraspinal abscesses and vertebral collapse are more common in the former disorder, whereas a combination of reactive sclerosis and lytic changes are more likely in the latter."
+    },
+    {
+      "ranges": [
+        [
+          15932,
+          16052
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "In summary, the most likely diagnosis in this case is subacute, partially treated brucellosis caused by  *B. melitensis*"
+    },
+    {
+      "ranges": [
+        [
+          16055,
+          16219
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Confirmatory studies could include a serologic test for brucella species and identification of the gram-negative bacillus in the patient's blood as  *B. melitensis*"
+    }
+  ]
+}

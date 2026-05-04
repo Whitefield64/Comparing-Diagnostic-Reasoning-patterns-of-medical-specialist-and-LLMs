@@ -1,0 +1,139 @@
+{
+  "case": "2008 Case 29.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-01T20:06:56.245756+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9494,
+          9749
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Superior mesenteric artery syndrome may occur in patients with anorexia nervosa, when loss of the fat that normally surrounds the neurovascular pedicle results in compression of the third portion of the duodenum between the aorta and the vertebral column."
+    },
+    {
+      "ranges": [
+        [
+          9138,
+          9389
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The diagnostic considerations on admission included an abdominal emergency that was unrelated to anorexia nervosa, one that was related to anorexia, and chronic gastrointestinal complications of anorexia nervosa with rapidly increasing abdominal pain."
+    },
+    {
+      "ranges": [
+        [
+          20790,
+          21035
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This patient consistently maintained an exceptionally low body weight, engaged in excessive physical activity despite his state of nutrition, and manifested extreme denial of the severity of the illness — all typical features of anorexia nervosa"
+    },
+    {
+      "ranges": [
+        [
+          24084,
+          24297
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Factors associated with poor outcome include preadolescent age at onset, very low weight at presentation, poor state of functioning before the development of signs and symptoms of the disease, and substance abuse."
+    },
+    {
+      "ranges": [
+        [
+          10888,
+          11127
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other causes of weight loss, such as inflammatory bowel disease, cancer, endocrinopathies, drug abuse, pregnancy, celiac disease, and depression, must be ruled out, as they were in this case, before a diagnosis of anorexia nervosa is made."
+    },
+    {
+      "ranges": [
+        [
+          10185,
+          10348
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The  *Diagnostic and Statistical Manual of Mental Disorders* , fourth edition, lists four diagnostic criteria for anorexia nervosa: two medical and two psychiatric"
+    },
+    {
+      "ranges": [
+        [
+          18528,
+          18628
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's short stature and endocrine abnormalities were thus a consequence of anorexia nervosa."
+    },
+    {
+      "ranges": [
+        [
+          24602,
+          24813
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, future successes at school or jobs may improve his self-esteem, he may tire of the constraints of his illness, or he may begin to fear death; such factors could lead him to accept appropriate treatment."
+    },
+    {
+      "ranges": [
+        [
+          24298,
+          24471
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Patients with an onset in their early teens and early exposure to treatment, such as this patient, have the best outcome, with a recovery rate of nearly 70% in some studies."
+    },
+    {
+      "ranges": [
+        [
+          7642,
+          7891
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The abdominal radiograph and CT scan obtained on admission show abundant stool throughout the colon and small bowel, a distended stomach, and dilatation of loops of small bowel, with no point of transition, a finding consistent with fecal impaction."
+    },
+    {
+      "ranges": [
+        [
+          9393,
+          9493
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Superior mesenteric artery syndrome and perforation of the bowel needed to be ruled out immediately."
+    },
+    {
+      "ranges": [
+        [
+          21037,
+          21260
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The psychological diagnostic criteria include disturbance of body image (the perception of being normal in weight or overweight when extremely underweight) and an intense fear of weight gain, both of which this patient had."
+    }
+  ]
+}

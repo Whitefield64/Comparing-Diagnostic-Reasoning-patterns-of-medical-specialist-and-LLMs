@@ -1,0 +1,161 @@
+{
+  "case": "1991 Case 14.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-01T09:48:21.594816+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5868,
+          5992
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I suspect that transient tachypnea of the newborn prompted the initial x-ray film of the chest, which demonstrated the mass."
+    },
+    {
+      "ranges": [
+        [
+          7785,
+          7971
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The discovery at birth of a mass that proved to be relatively quiescent for the first 17 weeks of life leads me to consider a differential diagnosis of neoplastic and congenital lesions."
+    },
+    {
+      "ranges": [
+        [
+          8104,
+          8190
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Neuroblastomas, sarcomas, teratomas, and leukemia are those most frequently described."
+    },
+    {
+      "ranges": [
+        [
+          12311,
+          12501
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "About 90 percent of patients with thoracic neural-crest tumors have elevated levels of dopa, dopamine, norepinephrine, normetanephrine, vanilmandelic acid (VMA), and homovanillic acid (HVA)."
+    },
+    {
+      "ranges": [
+        [
+          10135,
+          10253
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of calcific densities within a posterior mediastinal lesion is highly suggestive of a neural-crest tumor."
+    },
+    {
+      "ranges": [
+        [
+          10644,
+          10976
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the cleavage plane between the paraspinal tissues and the mass, the absence of spinal involvement, the absence of calcification, and the lack of evidence of distortion of adjacent structures such as the ribs, blood vessels, and airways make the diagnosis of a neural-crest tumor unlikely in this case from a radiographic standpoint."
+    },
+    {
+      "ranges": [
+        [
+          14689,
+          14790
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The CT and MRI studies make this diagnosis highly unlikely, however, in the patient under discussion."
+    },
+    {
+      "ranges": [
+        [
+          20618,
+          20829
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "For a diagnosis in this case I would have obtained an assay for urinary catecholamine values and additional imaging to delineate the vascular features, and I would have proceeded with an exploratory thoracotomy."
+    },
+    {
+      "ranges": [
+        [
+          21340,
+          21433
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "I propose that a thoracotomy was performed and that an extralobar sequestration was detected."
+    },
+    {
+      "ranges": [
+        [
+          21464,
+          21688
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I believed that statistically the diagnosis was most likely to be a left-lower-lobe pulmonary sequestration, but I was troubled by the observations of agitation and bradycardia (80 beats per minute) — an unusual combination."
+    },
+    {
+      "ranges": [
+        [
+          21689,
+          21792
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor."
+    },
+    {
+      "ranges": [
+        [
+          26289,
+          26484
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The combination of diagnostic information, prevention of future infections, prevention of spontaneous bleeding, and allowance for unimpeded lung growth produces a compelling argument for removal."
+    },
+    {
+      "ranges": [
+        [
+          27306,
+          27465
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Infection is common in intralobar sequestered segments and uncommon in extralobar sequestered segments unless they communicate with the gastrointestinal tract."
+    },
+    {
+      "ranges": [
+        [
+          27623,
+          27766
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "It is more likely that sequestered segments become contaminated through the airways and become infected because of impaired lymphatic drainage."
+    }
+  ]
+}

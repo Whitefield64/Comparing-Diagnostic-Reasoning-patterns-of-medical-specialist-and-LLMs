@@ -1,0 +1,161 @@
+{
+  "case": "2016 Case 25.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-04-27T20:59:08.712361+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          21142,
+          21217
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Hemorrhoids do not typically cause pain unless they are acutely thrombosed."
+    },
+    {
+      "ranges": [
+        [
+          21218,
+          21363
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Acute anal pain is almost always due to one of three things: an acutely thrombosed external hemorrhoid, a perirectal abscess, or an anal fissure."
+    },
+    {
+      "ranges": [
+        [
+          7437,
+          7573
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If we rule out all these entities from our differential diagnosis, we are left with Crohn’s disease and a number of infectious diseases."
+    },
+    {
+      "ranges": [
+        [
+          7600,
+          7775
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Several features of this patient’s presentation are suggestive of Crohn’s disease, which is relatively common, with an incidence of approximately 10 cases per 100,000 persons."
+    },
+    {
+      "ranges": [
+        [
+          8472,
+          8630
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "When considering a diagnosis of infection, a timeline from the exposure to the onset of symptoms can be a useful tool in formulating a differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10879,
+          11037
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The onset of secondary syphilis typically occurs 4 to 12 weeks after exposure; although symptoms typically resolve in 3 to 12 weeks, they may last for months."
+    },
+    {
+      "ranges": [
+        [
+          12593,
+          12695
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "On the basis of the patient’s sexual history, syphilis is more likely than inflammatory bowel disease."
+    },
+    {
+      "ranges": [
+        [
+          12696,
+          12842
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In a review of cases in which MSM presented to a surgery clinic for treatment of proctitis, syphilis was a more common cause than Crohn’s disease."
+    },
+    {
+      "ranges": [
+        [
+          11684,
+          11752
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the features and timeline in this case are consistent with syphilis."
+    },
+    {
+      "ranges": [
+        [
+          11135,
+          11275
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Rash is a nearly universal feature of secondary syphilis, affecting 93% of MSM with secondary syphilis, so its absence should give us pause."
+    },
+    {
+      "ranges": [
+        [
+          24102,
+          24170
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The symptoms in this patient most likely reflect secondary syphilis."
+    },
+    {
+      "ranges": [
+        [
+          12843,
+          13039
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Between January 2013 and January 2014, the number of reported cases of syphilis increased by 15%, and in 2014, a total of 83% of men with primary and secondary syphilis were in the MSM population."
+    },
+    {
+      "ranges": [
+        [
+          25296,
+          25400
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "In this patient, the appearance of the anus and rectum to an experienced endoscopist was not diagnostic."
+    },
+    {
+      "ranges": [
+        [
+          26073,
+          26236
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The two most common reasons for missing a treatable cause of anal symptoms are that patients attribute their symptoms to hemorrhoids and that doctors believe them."
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "case": "2012 Case 01.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-01T21:29:41.077047+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7340,
+          7726
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis that I would consider for these ulcerative, bullous, necrotic hand lesions includes infection (bacterial, mycobacterial, protozoal, fungal, or viral); a vasculitis (e.g., vasculitis associated with antineutrophil cytoplasmic antibodies [ANCA] or vasculitis of medium-size vessels); and neutrophilic dermatoses (e.g., pyoderma gangrenosum or Sweet's syndrome)."
+    },
+    {
+      "ranges": [
+        [
+          7934,
+          8096
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "An infectious cause of the initial ulceration should be considered in view of the history of a dog bite, which can transmit several types of infectious organisms."
+    },
+    {
+      "ranges": [
+        [
+          8978,
+          9184
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Despite the pathological diagnosis of necrotizing cellulitis, there was no crepitus on examination of the patient or gas on imaging, although this finding is not seen in all forms of necrotizing cellulitis."
+    },
+    {
+      "ranges": [
+        [
+          9185,
+          9486
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "He had no other signs of infection (e.g., fever or leukocytosis), he had no response to broad-spectrum antibiotics, cultures of the lesion were sterile, and his lesions worsened with débridement; in addition, lesions developed in nontraumatized areas in the absence of signs of systematized infection."
+    },
+    {
+      "ranges": [
+        [
+          8694,
+          8827
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The aggressive nature of this patient's initial lesion also requires consideration of more aggressive organisms, such as clostridium."
+    },
+    {
+      "ranges": [
+        [
+          9554,
+          9709
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Certain forms of vasculitis can cause deep, painful ulceration, particularly vasculitis of medium-size vessels and the ANCA-associated forms of vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          9710,
+          10049
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "These were less likely diagnoses in this patient because of the previous biopsy specimen that lacked evidence of vasculitis, the absence of respiratory symptoms that would suggest necrotizing granulomatous inflammation of the upper and lower respiratory tracts, and the glomerulonephritis that would be present in Wegener's granulomatosis."
+    },
+    {
+      "ranges": [
+        [
+          11989,
+          12237
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The finding of pathergy should halt any further débridement or surgery, since these procedures would extend the process and would most likely result in an ongoing cycle of expansion and further débridement that could have catastrophic consequences."
+    },
+    {
+      "ranges": [
+        [
+          12270,
+          12462
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Pyoderma gangrenosum is a neutrophilic dermatosis that presents as a rapidly advancing painful ulcer, most often on the legs, with an irregular, violaceous or gunmetal gray, undermined border."
+    },
+    {
+      "ranges": [
+        [
+          14197,
+          14292
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "This patient meets both major criteria and three of the four minor criteria for this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11687,
+          11988
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "I most often see pathergy associated with these conditions as an incidental finding on physical examination, manifesting as lesions arising at sites of intravenous catheter placement, venous sticks, skin biopsies, and other routine procedures that result in piercing of the dermis, as in this patient."
+    },
+    {
+      "ranges": [
+        [
+          14321,
+          14772
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The diagnosis of acute febrile neutrophilic dermatosis (Sweet's syndrome) requires two major criteria (the abrupt occurrence of edematous erythematous-to-violaceous cutaneous lesions and a biopsy specimen that shows superficial edema and a deep, dense neutrophilic infiltrate without vasculitis) and at least two minor criteria (an associated underlying condition or exposure, fever, leukocytosis, and a rapid response to systemic glucocorticoid use)."
+    },
+    {
+      "ranges": [
+        [
+          14773,
+          14868
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Like pyoderma gangrenosum, Sweet's syndrome is characterized by pathergy, as seen in this case."
+    },
+    {
+      "ranges": [
+        [
+          15610,
+          15709
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient did not have fever or leukocytosis, although he did have a response to glucocorticoids."
+    },
+    {
+      "ranges": [
+        [
+          15728,
+          16035
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In this patient who had violaceous, bullous, and necrotic ulcers of the hands and arms; pathergy; a biopsy specimen that revealed a dense neutrophilic infiltrate; and an absence of systemic symptoms, my diagnosis is atypical chronic pyoderma gangrenosum, probably in association with a hematologic neoplasm."
+    },
+    {
+      "ranges": [
+        [
+          19876,
+          20070
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "A variety of cutaneous manifestations have been reported in association with malignant tumors, including pyoderma gangrenosum, Sweet's syndrome, dermatomyositis, and necrobiotic xanthogranuloma."
+    },
+    {
+      "ranges": [
+        [
+          20071,
+          20313
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The two neutrophilic dermatoses — pyoderma gangrenosum and Sweet's syndrome — are seen most often in association with myeloid neoplasms, including myelodysplastic syndromes (as in this case), myeloproliferative neoplasms, and acute leukemias."
+    },
+    {
+      "ranges": [
+        [
+          19337,
+          19406
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of a complex karyotype is an adverse prognostic feature."
+    },
+    {
+      "ranges": [
+        [
+          19723,
+          19856
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "This patient's disease would fall in the intermediate-2 group; patients in this group have a median survival of approximately 1 year."
+    },
+    {
+      "ranges": [
+        [
+          20886,
+          21057
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Treatment of pyoderma gangrenosum involves wound care, including avoidance of trauma and débridement; treatment of any underlying condition; and immunosuppressive therapy."
+    },
+    {
+      "ranges": [
+        [
+          22282,
+          22372
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Infliximab is preferred over other TNF-  *α* blockers because of its rapid onset of action"
+    }
+  ]
+}

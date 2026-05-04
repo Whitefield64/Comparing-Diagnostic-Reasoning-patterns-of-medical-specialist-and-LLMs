@@ -1,0 +1,117 @@
+{
+  "case": "1999 Case 10.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-01T21:03:52.088068+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8363,
+          8589
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The first consideration in this case is disseminated intravascular coagulation. Thrombotic thrombocytopenic purpura comes to mind when purpura and anemia coexist, but the absence of thrombocytopenia rules out that possibility."
+    },
+    {
+      "ranges": [
+        [
+          8590,
+          8919
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Hepatic failure can mimic disseminated intravascular coagulation, with prolongation of clotting times and an elevated level of fibrin-split products, but in this case most of the liver-function tests were normal, and the coagulation abnormality consisted of excessive clotting, not prolongation of coagulation times and bleeding."
+    },
+    {
+      "ranges": [
+        [
+          8920,
+          9110
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the adequate fibrinogen levels in this case, I would view the disseminated intravascular coagulation as chronic and would search for underlying cancer as one of many possible triggers."
+    },
+    {
+      "ranges": [
+        [
+          9924,
+          10172
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "A positive test for either c-ANCA or p-ANCA indicates a 96 percent probability that a patient has some form of vasculitis, whereas negative results of both tests indicate more than a 90 percent probability that the patient does not have vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          9220,
+          9345
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Palpable purpura almost always points to a systemic vasculitis, which could account for almost all the findings in this case."
+    },
+    {
+      "ranges": [
+        [
+          13503,
+          13587
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The cause of vasculitis is usually unknown, but some cases are related to infection."
+    },
+    {
+      "ranges": [
+        [
+          18645,
+          18862
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Vasculitis and disseminated intravascular coagulation are known complications of lymphomas, which are often associated with pneumonia, and retroperitoneal lymph nodes involved by lymphoma frequently block the ureters."
+    },
+    {
+      "ranges": [
+        [
+          20853,
+          21124
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "he most likely diagnosis is gastric cancer complicating  *H. pylori* infection and causing abdominal pain and blood loss, with disseminated intravascular coagulation resulting in cortical infarcts and peritoneal carcinomatosis resulting in bilateral ureteral obstruction."
+    },
+    {
+      "ranges": [
+        [
+          21686,
+          21832
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the patient's pulmonary status were sufficiently stable, an endoscopic biopsy would be the best way to confirm the diagnosis of gastric cancer."
+    },
+    {
+      "ranges": [
+        [
+          24636,
+          24864
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the constellation of morphologic and laboratory findings reflects the presence of intravascular coagulation in the skin, lungs, and brain as a result of the release of clotting factors from widely disseminated gastric carcinoma."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "case": "2010 Case 18.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-01T20:09:41.675216+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7849,
+          8088
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Lack of adherence to the therapeutic regimen, the specific choice and dosing of antiretroviral drugs, and possible interactions with the antimycobacterial agents may all have contributed to the lack of therapeutic response in this patient."
+    },
+    {
+      "ranges": [
+        [
+          20583,
+          20871
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If resistance to multiple protease inhibitors occurs, options might be to switch to a less durable regimen, such as efavirenz, didanosine, and lamivudine, or to try a holding regimen such as lamivudine monotherapy, which has shown some promising results in a small study involving adults."
+    },
+    {
+      "ranges": [
+        [
+          16660,
+          16916
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although we know of no randomized, controlled trials to guide decisions about the optimal viral load at which to switch to second-line therapy, there are some principles of switching antiretroviral therapy after treatment failure that may provide guidance."
+    },
+    {
+      "ranges": [
+        [
+          17499,
+          17791
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In this patient, multiple protease-inhibitor mutations were detected. Since the child had not previously received an NNRTI, a simple switch to two NRTIs and an NNRTI might be appropriate. Alternatively, a regimen that includes an NNRTI plus a newer protease inhibitor might also be effective."
+    },
+    {
+      "ranges": [
+        [
+          20875,
+          21004
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This case illustrates the problems that can occur when HIV infection in pediatric patients is not diagnosed and treated properly."
+    },
+    {
+      "ranges": [
+        [
+          21005,
+          21268
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Viral resistance in children may be prevented by early identification of HIV-infected children and the initiation of treatment. Clinicians must be familiar with drug interactions and prescribe accordingly. Doses must be adjusted to account for growth in children."
+    },
+    {
+      "ranges": [
+        [
+          17978,
+          18284
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Darunavir is a nonpeptide protease inhibitor that binds rapidly to protease at a unique site and dissociates slowly, resulting in a binding strength that is two times as high as that of other protease inhibitors. Darunavir may be potent even against strains that are resistant to older protease inhibitors."
+    },
+    {
+      "ranges": [
+        [
+          18999,
+          19101
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The mutations seen in this patient's virus confer intermediate resistance to darunavir and tipranavir."
+    },
+    {
+      "ranges": [
+        [
+          22919,
+          23170
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Especially with young children, one may not need to use the term HIV but could instead tell them that they have an infection in their blood for which they need to take medication, and that if they get a cut, they need to clean up the blood themselves."
+    },
+    {
+      "ranges": [
+        [
+          15620,
+          15905
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "HIV-1 drug-resistance genotyping was performed with the use of the ViroSeq HIV-1 Genotyping System, version 2.0 (Abbott Laboratories). Sequences were submitted to the Stanford University HIV Drug Resistance database (hivdb.stanford.edu) for interpretation of drug-resistance mutations."
+    },
+    {
+      "ranges": [
+        [
+          12108,
+          12218
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "BCG-associated lymphadenitis has been described in a 9-year-old child from Thailand who received BCG at birth."
+    },
+    {
+      "ranges": [
+        [
+          7279,
+          7527
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "International guidelines for the management of pediatric HIV infection now recommend that all children under 1 year of age in high-prevalence areas start antiretroviral therapy. South African guidelines have recently been updated to recommend this."
+    },
+    {
+      "ranges": [
+        [
+          15906,
+          16011
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient had HIV subtype C; the viral sequences showed mutations associated with multidrug resistance."
+    }
+  ]
+}

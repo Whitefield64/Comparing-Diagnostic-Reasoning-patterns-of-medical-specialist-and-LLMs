@@ -1,0 +1,150 @@
+{
+  "case": "2008 Case 29.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-01T20:41:32.468233+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9494,
+          9749
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Superior mesenteric artery syndrome may occur in patients with anorexia nervosa, when loss of the fat that normally surrounds the neurovascular pedicle results in compression of the third portion of the duodenum between the aorta and the vertebral column."
+    },
+    {
+      "ranges": [
+        [
+          9750,
+          9876
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Patients may present with weight loss, abdominal pain, abdominal distention, nausea, or vomiting that may be acute or chronic."
+    },
+    {
+      "ranges": [
+        [
+          14630,
+          14862
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In most cases, the patient's medical condition is stabilized within 7 to 10 days after hospitalization, and the patient can then be voluntarily transferred to residential or inpatient psychiatric care for management of the anorexia."
+    },
+    {
+      "ranges": [
+        [
+          12123,
+          12283
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Severe weight loss can also cause shrinkage of cardiac muscle mass, decreased left ventricular forces, diminished ejection fractions, and mitral-valve prolapse."
+    },
+    {
+      "ranges": [
+        [
+          21549,
+          21706
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Anorexia nervosa commonly begins in early adolescence, as it did in this patient, and can be associated with a fear of growing up and separating from family."
+    },
+    {
+      "ranges": [
+        [
+          9138,
+          9389
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The diagnostic considerations on admission included an abdominal emergency that was unrelated to anorexia nervosa, one that was related to anorexia, and chronic gastrointestinal complications of anorexia nervosa with rapidly increasing abdominal pain."
+    },
+    {
+      "ranges": [
+        [
+          24084,
+          24297
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Factors associated with poor outcome include preadolescent age at onset, very low weight at presentation, poor state of functioning before the development of signs and symptoms of the disease, and substance abuse."
+    },
+    {
+      "ranges": [
+        [
+          19367,
+          19533
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Low bone density is characteristic of anorexia nervosa, and studies show z scores below −1 at the spine and hip in 35 to 60% of adolescent boys with anorexia nervosa."
+    },
+    {
+      "ranges": [
+        [
+          18528,
+          18628
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's short stature and endocrine abnormalities were thus a consequence of anorexia nervosa."
+    },
+    {
+      "ranges": [
+        [
+          24602,
+          24813
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, future successes at school or jobs may improve his self-esteem, he may tire of the constraints of his illness, or he may begin to fear death; such factors could lead him to accept appropriate treatment."
+    },
+    {
+      "ranges": [
+        [
+          16074,
+          16295
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's height trajectory, however, suggested that he would not attain his predicted adult height, and the flattening of growth velocity during the previous 3 years suggested a pathologic cause of his short stature."
+    },
+    {
+      "ranges": [
+        [
+          24298,
+          24471
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Patients with an onset in their early teens and early exposure to treatment, such as this patient, have the best outcome, with a recovery rate of nearly 70% in some studies."
+    },
+    {
+      "ranges": [
+        [
+          26319,
+          26429
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient received individual psychotherapy several times each week in addition to group and family therapy."
+    }
+  ]
+}

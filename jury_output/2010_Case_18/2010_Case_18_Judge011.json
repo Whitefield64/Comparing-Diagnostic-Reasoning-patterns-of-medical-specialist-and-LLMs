@@ -1,0 +1,150 @@
+{
+  "case": "2010 Case 18.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-01T21:28:12.472886+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          13866,
+          14015
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Several factors are likely to have contributed: difficulties with adherence, an interaction between rifampin and ritonavir, and problems with dosing."
+    },
+    {
+      "ranges": [
+        [
+          14016,
+          14184
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Mutations associated with resistance to protease inhibitors and NRTIs, such as lamivudine (M184V) and thymidine analogues, are likely to have developed in this patient."
+    },
+    {
+      "ranges": [
+        [
+          16920,
+          17067
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "When it is determined that antiretroviral therapy has failed in a child, a full assessment of the possible reasons for failure should be conducted."
+    },
+    {
+      "ranges": [
+        [
+          17161,
+          17269
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A change in the drug regimen should be guided by the patient's drug history and genotyping (when available)."
+    },
+    {
+      "ranges": [
+        [
+          16660,
+          16916
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although we know of no randomized, controlled trials to guide decisions about the optimal viral load at which to switch to second-line therapy, there are some principles of switching antiretroviral therapy after treatment failure that may provide guidance."
+    },
+    {
+      "ranges": [
+        [
+          20875,
+          21004
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This case illustrates the problems that can occur when HIV infection in pediatric patients is not diagnosed and treated properly."
+    },
+    {
+      "ranges": [
+        [
+          17569,
+          17686
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Since the child had not previously received an NNRTI, a simple switch to two NRTIs and an NNRTI might be appropriate."
+    },
+    {
+      "ranges": [
+        [
+          17687,
+          17791
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Alternatively, a regimen that includes an NNRTI plus a newer protease inhibitor might also be effective."
+    },
+    {
+      "ranges": [
+        [
+          15620,
+          15754
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "HIV-1 drug-resistance genotyping was performed with the use of the ViroSeq HIV-1 Genotyping System, version 2.0 (Abbott Laboratories)."
+    },
+    {
+      "ranges": [
+        [
+          18191,
+          18284
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Darunavir may be potent even against strains that are resistant to older protease inhibitors."
+    },
+    {
+      "ranges": [
+        [
+          18999,
+          19101
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The mutations seen in this patient's virus confer intermediate resistance to darunavir and tipranavir."
+    },
+    {
+      "ranges": [
+        [
+          22919,
+          23170
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Especially with young children, one may not need to use the term HIV but could instead tell them that they have an infection in their blood for which they need to take medication, and that if they get a cut, they need to clean up the blood themselves."
+    },
+    {
+      "ranges": [
+        [
+          12108,
+          12218
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "BCG-associated lymphadenitis has been described in a 9-year-old child from Thailand who received BCG at birth."
+    }
+  ]
+}

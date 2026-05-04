@@ -1,0 +1,139 @@
+{
+  "case": "2012 Case 40.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-01T21:58:54.903627+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5434,
+          5605
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Amniotic-fluid embolism is thought to result from maternal reaction to fetal material entering the pulmonary circulation and can cause apnea, hypotension, and bradycardia."
+    },
+    {
+      "ranges": [
+        [
+          7061,
+          7184
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Pathophysiologically, amniotic-fluid embolism is thought to be a maternal anaphylactic reaction that unfolds in two phases."
+    },
+    {
+      "ranges": [
+        [
+          22461,
+          22673
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If initial severe vasoconstriction in the pulmonary vasculature is a trigger for the other events, are there other agents, such as prostaglandins or sildenafil, that might address this pathophysiological feature?"
+    },
+    {
+      "ranges": [
+        [
+          3205,
+          3331
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Such situations require clinicians to focus promptly on a most-likely diagnosis in order to direct problem-specific therapies."
+    },
+    {
+      "ranges": [
+        [
+          6724,
+          6932
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The clinical presentation of amniotic-fluid embolism includes cardiovascular collapse (bradycardia or hypotension or both), apnea, bleeding, or evidence of fetal compromise (if delivery has not yet occurred)."
+    },
+    {
+      "ranges": [
+        [
+          7185,
+          7351
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "A first phase, often lasting less than 30 minutes, is marked by sudden pulmonary vasoconstriction with resulting pulmonary hypertension and right-sided heart failure."
+    },
+    {
+      "ranges": [
+        [
+          13800,
+          13992
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the finding of 100% pulmonary dead space in the context of cardiac arrest presenting as pulseless electrical activity rapidly led us to the preliminary diagnosis of an amniotic-fluid embolism."
+    },
+    {
+      "ranges": [
+        [
+          5851,
+          5979
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Two analyses of administrative data report amniotic-fluid embolism as a complication in 1 in 10,000 and 1 in 100,000 deliveries."
+    },
+    {
+      "ranges": [
+        [
+          7352,
+          7612
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This is followed by a second phase, involving left-sided heart failure, endothelial activation and subsequent leakage, and bleeding, all probably caused in part by either the hypoxemia of the first phase or the release of injury-associated agents in the serum."
+    },
+    {
+      "ranges": [
+        [
+          22769,
+          22898
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The profound right ventricular dysfunction seems to be caused by more than just a mechanical obstruction of the pulmonary artery."
+    },
+    {
+      "ranges": [
+        [
+          8367,
+          8477
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "More recent series from both the United States and United Kingdom report mortality rates of approximately 20%."
+    },
+    {
+      "ranges": [
+        [
+          15909,
+          16266
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The utility of TEE in acute cardiopulmonary collapse associated with labor and delivery is not limited to diagnosis but may also include management, the evaluation of the placement of venous and arterial cannulae for extracorporeal membranous oxygenation, the placement and effect of intraaortic balloon counterpulsation, or the effects of inotropic agents."
+    }
+  ]
+}

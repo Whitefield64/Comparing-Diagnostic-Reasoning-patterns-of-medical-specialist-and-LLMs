@@ -1,0 +1,128 @@
+{
+  "case": "1992 Case 16.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-01T09:51:30.620068+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5928,
+          6110
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The motor weakness restricted to the intrinsic muscles of the left hand could indicate compression of the C8 root or a problem at a higher level in the spinal cord or even the brain."
+    },
+    {
+      "ranges": [
+        [
+          6288,
+          6500
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "That combination of findings is against root involvement at the site of the lesion described on radiographic examination and favors spinal-cord compromise at the C4–5 level as an explanation of the hand weakness."
+    },
+    {
+      "ranges": [
+        [
+          10058,
+          10215
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Fractures and subluxations should have been ruled out by the plain x-ray films, and the MRI scan was probably ordered in search of a herniated cervical disk."
+    },
+    {
+      "ranges": [
+        [
+          10335,
+          10436
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Cervical-disk herniations are clearly demonstrated on MRI scanning and do not cause bone destruction."
+    },
+    {
+      "ranges": [
+        [
+          12892,
+          13046
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The nature of the spread of infection through a disk space from one end plate to the next has been well studied with the use of microangiographic methods."
+    },
+    {
+      "ranges": [
+        [
+          13606,
+          13786
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Tumor cells typically enter the marrow space of the vertebral body and proliferate there, sometimes destroying bone and at other times causing the production of new sclerotic bone."
+    },
+    {
+      "ranges": [
+        [
+          12121,
+          12320
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The demonstration of erosion of two adjacent vertebral-body end plates with narrowing of the intervening disk space has been considered the radiographic hallmark of infection for over half a century."
+    },
+    {
+      "ranges": [
+        [
+          23840,
+          23938
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The weight of the evidence favors pyogenic infection, and the most likely organism is  *S. aureus*"
+    },
+    {
+      "ranges": [
+        [
+          24174,
+          24397
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Rapid cervical flexion perhaps resulted in protrusion of an infected mass against the anterior surface of the spinal cord, with spread of purulent material around the posterior longitudinal ligament into the epidural space."
+    },
+    {
+      "ranges": [
+        [
+          28173,
+          28287
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Approximately 38 percent of patients in whom an epidural abscess develops have underlying vertebral osteomyelitis."
+    },
+    {
+      "ranges": [
+        [
+          28376,
+          28519
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The danger of an epidural abscess is that it can produce neurologic deficits through a combination of cord compression and vascular thrombosis."
+    }
+  ]
+}

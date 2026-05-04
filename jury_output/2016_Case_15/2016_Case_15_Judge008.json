@@ -1,0 +1,95 @@
+{
+  "case": "2016 Case 15.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-01T21:43:14.179595+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3956,
+          4030
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The olfactory hallucinations suggest a focal seizure arising in the uncus."
+    },
+    {
+      "ranges": [
+        [
+          4031,
+          4098
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The mass in the brain may be neoplastic or nonneoplastic in origin."
+    },
+    {
+      "ranges": [
+        [
+          10361,
+          10507
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the presence of calcification and the prepontine lesion, which suggests meningeal involvement, a unifying diagnosis could be cerebral sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          10060,
+          10129
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The 1-year history of symptoms suggests that the process is indolent."
+    },
+    {
+      "ranges": [
+        [
+          9398,
+          9668
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Tumefactive, enhancing nonneoplastic brain lesions can be caused by inflammatory diseases, such as multiple sclerosis, acute disseminated encephalomyelitis, sarcoidosis, Behçet’s disease with neurologic involvement, tuberculosis, fungal infections, and syphilitic gumma."
+    },
+    {
+      "ranges": [
+        [
+          6793,
+          6892
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The findings on diffusion-weighted images and the apparent diffusion coefficient are complementary."
+    },
+    {
+      "ranges": [
+        [
+          7983,
+          8188
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the results of magnetic resonance spectroscopy were mostly unhelpful, although they indicated that the nonspecific findings are not consistent with a diagnosis of neoplasia but do not entirely rule it out."
+    },
+    {
+      "ranges": [
+        [
+          8930,
+          8974
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Nonneoplastic mass lesions can also calcify."
+    }
+  ]
+}

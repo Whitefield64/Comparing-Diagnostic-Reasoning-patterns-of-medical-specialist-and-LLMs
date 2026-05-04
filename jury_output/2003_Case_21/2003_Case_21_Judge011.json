@@ -1,0 +1,150 @@
+{
+  "case": "2003 Case 21.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-04-27T20:57:59.333664+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          11969,
+          12052
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          13961,
+          14103
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
+    },
+    {
+      "ranges": [
+        [
+          22881,
+          22990
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+    },
+    {
+      "ranges": [
+        [
+          24929,
+          25104
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although this elderly, hypertensive man probably did have some atheromatous disease, the vessels involved and the laboratory evidence suggest that he had giant-cell arteritis."
+    },
+    {
+      "ranges": [
+        [
+          17268,
+          17366
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis."
+    },
+    {
+      "ranges": [
+        [
+          23890,
+          24123
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
+    },
+    {
+      "ranges": [
+        [
+          38720,
+          38788
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I do not know why the treatment with anticoagulants was ineffective."
+    },
+    {
+      "ranges": [
+        [
+          36745,
+          36917
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
+    },
+    {
+      "ranges": [
+        [
+          16184,
+          16251
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "We must seek clues to another explanation from the medical history."
+    },
+    {
+      "ranges": [
+        [
+          18579,
+          18708
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+    },
+    {
+      "ranges": [
+        [
+          19424,
+          19592
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another disease that should be considered in a discussion of the differential diagnosis of cerebral vasculitis is intravascular lymphomatosis, a non-Hodgkin's lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          17961,
+          18061
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          21234,
+          21354
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Increased titers of IgG and other anticardiolipin antibodies are associated with an increased risk of thrombotic events."
+    }
+  ]
+}

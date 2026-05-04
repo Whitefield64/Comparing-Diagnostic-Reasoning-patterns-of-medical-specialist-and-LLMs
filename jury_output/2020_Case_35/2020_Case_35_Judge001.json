@@ -1,0 +1,128 @@
+{
+  "case": "2020 Case 35.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-01T20:56:32.299402+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9221,
+          9343
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The localizing value of this patient’s cognitive symptoms and signs depends on the aspects of cognition that are affected."
+    },
+    {
+      "ranges": [
+        [
+          10201,
+          10489
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Integrative cognitive functions are not narrowly localized. Disturbances of these functions may result from lesions involving the frontal lobes, but they can also be manifestations of multifocal cortical disease or of lesions involving the white-matter tracts, deep nuclei, or cerebellum."
+    },
+    {
+      "ranges": [
+        [
+          10879,
+          11241
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "This patient’s cognitive disturbances were chronic and progressive with a gradual course. This makes many diagnoses unlikely, including conditions that have a rapid time course (e.g., Creutzfeldt–Jakob disease, Hashimoto’s encephalopathy, and many neoplastic diseases) and conditions that cause recurrent or discrete events (e.g., stroke and multiple sclerosis)."
+    },
+    {
+      "ranges": [
+        [
+          11242,
+          11523
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Several categories of disorders remain, including psychiatric diseases, medical diseases with central nervous system (CNS) involvement, and neurologic diseases, such as degenerative disease, cerebral microvascular disease, and immunologic disease or cancer with neurologic effects."
+    },
+    {
+      "ranges": [
+        [
+          11524,
+          11651
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Because there was no mention of psychiatric disease in the patient’s history, a psychiatric diagnosis is unlikely in this case."
+    },
+    {
+      "ranges": [
+        [
+          11740,
+          11997
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "A manifestation of diabetes that commonly causes cognitive problems is cerebral microvascular disease. Although diabetes-associated microvascular disease is a diagnostic consideration in this case, the findings on MRI are not consistent with this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          13799,
+          14173
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The neurologic diseases that are most likely to be the cause of this patient’s gradual cognitive decline include cerebral microvascular disease, degenerative disease (e.g., early-onset Alzheimer’s disease, various forms of frontotemporal dementia, Parkinson’s disease, and Lewy body disease), normal-pressure hydrocephalus, slow-growing cancer, and some infectious diseases."
+    },
+    {
+      "ranges": [
+        [
+          17084,
+          17170
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This patient’s MRI findings are consistent with excessive iron deposition in the brain"
+    },
+    {
+      "ranges": [
+        [
+          19713,
+          20022
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "On the basis of this patient’s clinical presentation, history of gradual cognitive decline, imaging findings consistent with excessive mineralization, and low serum levels of iron and total iron-binding capacity with a high ferritin level, I think aceruloplasminemia is the most likely diagnosis in this case."
+    },
+    {
+      "ranges": [
+        [
+          22055,
+          22351
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of functional ceruloplasmin leads to derangements in iron efflux and transport, thereby leading to a high ferritin level with paradoxically low levels of iron and total iron-binding capacity. A diagnosis of hereditary aceruloplasminemia is consistent with all these laboratory values."
+    },
+    {
+      "ranges": [
+        [
+          24018,
+          24333
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although the efficacy of iron chelation therapy in patients with brain iron accumulation and neurologic manifestations is controversial, we initially treated this patient with 5 days of deferoxamine and then transitioned to deferiprone, which is the only iron chelator that is able to cross the blood–brain barrier."
+    }
+  ]
+}

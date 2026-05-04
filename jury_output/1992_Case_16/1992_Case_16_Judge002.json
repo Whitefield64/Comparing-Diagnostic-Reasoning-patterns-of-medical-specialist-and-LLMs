@@ -1,0 +1,161 @@
+{
+  "case": "1992 Case 16.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-01T19:51:25.121037+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4426,
+          4477
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "What makes this case different from so many others?"
+    },
+    {
+      "ranges": [
+        [
+          9468,
+          9699
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Several pathological categories, including traumatic, metabolic, congenital, neoplastic, and inflammatory lesions, deserve mention in the differential diagnosis of spinal-cord dysfunction associated with cervical vertebral lesions."
+    },
+    {
+      "ranges": [
+        [
+          9703,
+          9846
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The first question raised in the differential diagnosis of post-traumatic pain is whether the trauma itself explains the symptoms and findings."
+    },
+    {
+      "ranges": [
+        [
+          9847,
+          9990
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Fractures of vertebral bodies, subluxations of joints, or acute herniations of disk material can all impinge on nerve roots or the spinal cord."
+    },
+    {
+      "ranges": [
+        [
+          10216,
+          10334
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The radiographs show that this woman's problem could not have been the result of trauma to a previously healthy spine."
+    },
+    {
+      "ranges": [
+        [
+          10582,
+          10725
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Although trauma cannot be the whole answer, it is very likely that the mechanical blow to the neck aggravated a preexisting pathologic process."
+    },
+    {
+      "ranges": [
+        [
+          12121,
+          12320
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The demonstration of erosion of two adjacent vertebral-body end plates with narrowing of the intervening disk space has been considered the radiographic hallmark of infection for over half a century."
+    },
+    {
+      "ranges": [
+        [
+          12892,
+          13046
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The nature of the spread of infection through a disk space from one end plate to the next has been well studied with the use of microangiographic methods."
+    },
+    {
+      "ranges": [
+        [
+          13606,
+          13786
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Tumor cells typically enter the marrow space of the vertebral body and proliferate there, sometimes destroying bone and at other times causing the production of new sclerotic bone."
+    },
+    {
+      "ranges": [
+        [
+          11246,
+          11347
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Among focal spine lesions, congenital anomalies rarely present with neurologic symptoms in the adult."
+    },
+    {
+      "ranges": [
+        [
+          17856,
+          18156
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The authors of a prospective study of solitary bone lesions assessed the value of this blood test and concluded, with a degree of confidence approaching 90 percent, that patients with sedimentation rates above 30 mm per hour had metastatic tumors of unknown origin, marrow-cell tumors, or infections."
+    },
+    {
+      "ranges": [
+        [
+          23840,
+          23938
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The weight of the evidence favors pyogenic infection, and the most likely organism is  *S. aureus*"
+    },
+    {
+      "ranges": [
+        [
+          24174,
+          24397
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Rapid cervical flexion perhaps resulted in protrusion of an infected mass against the anterior surface of the spinal cord, with spread of purulent material around the posterior longitudinal ligament into the epidural space."
+    },
+    {
+      "ranges": [
+        [
+          26314,
+          26487
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of both bone destruction and bone formation suggests that the infection involved this site for two to six weeks and did not begin several days before admission."
+    }
+  ]
+}

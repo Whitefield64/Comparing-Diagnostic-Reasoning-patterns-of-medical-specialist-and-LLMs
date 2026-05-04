@@ -1,0 +1,117 @@
+{
+  "case": "2003 Case 21.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-04-27T20:57:59.330479+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          11969,
+          12052
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          13961,
+          14103
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
+    },
+    {
+      "ranges": [
+        [
+          22881,
+          22990
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+    },
+    {
+      "ranges": [
+        [
+          24929,
+          25104
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although this elderly, hypertensive man probably did have some atheromatous disease, the vessels involved and the laboratory evidence suggest that he had giant-cell arteritis."
+    },
+    {
+      "ranges": [
+        [
+          15988,
+          16078
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "One possible explanation for multiple brain infarctions is multiple emboli from the heart."
+    },
+    {
+      "ranges": [
+        [
+          16184,
+          16251
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "We must seek clues to another explanation from the medical history."
+    },
+    {
+      "ranges": [
+        [
+          16865,
+          16950
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Tuberculosis could account for dilatation of the aorta, but it explains nothing else."
+    },
+    {
+      "ranges": [
+        [
+          23890,
+          24123
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
+    },
+    {
+      "ranges": [
+        [
+          15338,
+          15450
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+    },
+    {
+      "ranges": [
+        [
+          25445,
+          25550
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The pathological findings may be patchy, so the surgeon should be asked to obtain a fairly long specimen."
+    }
+  ]
+}

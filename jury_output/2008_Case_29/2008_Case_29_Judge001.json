@@ -1,0 +1,40 @@
+{
+  "case": "2008 Case 29.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-01T20:41:32.465018+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9494,
+          9749
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Superior mesenteric artery syndrome may occur in patients with anorexia nervosa, when loss of the fat that normally surrounds the neurovascular pedicle results in compression of the third portion of the duodenum between the aorta and the vertebral column."
+    },
+    {
+      "ranges": [
+        [
+          9138,
+          9389
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The diagnostic considerations on admission included an abdominal emergency that was unrelated to anorexia nervosa, one that was related to anorexia, and chronic gastrointestinal complications of anorexia nervosa with rapidly increasing abdominal pain."
+    },
+    {
+      "ranges": [
+        [
+          10185,
+          10348
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The  *Diagnostic and Statistical Manual of Mental Disorders* , fourth edition, lists four diagnostic criteria for anorexia nervosa: two medical and two psychiatric"
+    }
+  ]
+}

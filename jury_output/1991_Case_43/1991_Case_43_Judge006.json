@@ -1,0 +1,128 @@
+{
+  "case": "1991 Case 43.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-01T19:40:40.601771+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17181,
+          17315
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The lung is affected by one of these processes as the initial manifestation of AIDS in about 65 percent of patients infected with HIV."
+    },
+    {
+      "ranges": [
+        [
+          42090,
+          42328
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": " and this is a case of histoplasmosis, however, it is possible that the two episodes were related since the latency period between the onset of infection and the time of the diagnosis can be as long as six to eight months in this disease."
+    },
+    {
+      "ranges": [
+        [
+          24581,
+          24840
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The diseases with which an association of lung infiltrates and intrathoracic lymphadenopathy can be seen with any frequency in the AIDS population include mainly mycobacterial infections, fungal infections, Kaposi's sarcoma, and lymphoproliferative disorders."
+    },
+    {
+      "ranges": [
+        [
+          33184,
+          33367
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the finding of positive cultures of candida species from respiratory tract secretions as a mere indicator of AIDS and acknowledge that it could have been a copathogen in this patient."
+    },
+    {
+      "ranges": [
+        [
+          36441,
+          36587
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Fever and weight loss are the most frequent presenting manifestations, occurring in about 80 percent and 50 percent of the patients, respectively."
+    },
+    {
+      "ranges": [
+        [
+          32646,
+          32868
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I shall now discuss fungal infections that are frequently encountered in patients with AIDS and that usually present with diffuse interstitial infiltrates and occasionally present with hilar or mediastinal lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          21338,
+          21536
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although the patient under discussion had fever, diffuse interstitial lung infiltrates, and hypoxemia, all compatible with a diagnosis of cytomegalovirus pneumonitis, I shall discard this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          35880,
+          36038
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "ne series of 18 cases of histoplasmosis seen in two New York hospitals, 16 patients were born in areas of endemic disease; 13 of them were from Puerto Rico. I"
+    },
+    {
+      "ranges": [
+        [
+          14469,
+          14603
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "A film of the chest taken 19 days before admission shows numerous irregular, small interstitial densities throughout both lung fields."
+    },
+    {
+      "ranges": [
+        [
+          20828,
+          20971
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another opportunistic pathogen frequently encountered in association with  *P. carinii* in lung tissue of patients with AIDS is cytomegalovirus"
+    },
+    {
+      "ranges": [
+        [
+          20479,
+          20657
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The diagnostic yield of an induced specimen of sputum varies among centers according to the technique used but has been reported to be above 50 percent and as high as 92 percent."
+    }
+  ]
+}

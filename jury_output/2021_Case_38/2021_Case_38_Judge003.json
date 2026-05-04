@@ -1,0 +1,139 @@
+{
+  "case": "2021 Case 38.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-01T20:23:14.556745+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7145,
+          7218
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The constellation of her symptoms prompts evaluation for acute porphyria."
+    },
+    {
+      "ranges": [
+        [
+          7951,
+          8044
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Disruptions in the pathway resulting from enzyme deficiencies cause precursors to accumulate."
+    },
+    {
+      "ranges": [
+        [
+          8048,
+          8262
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The accumulation of porphyrin precursors (delta-aminolevulinic acid [ALA] or porphobilinogen [PBG]) or porphyrins (i.e., uroporphyrin, coproporphyrin, or protoporphyrin) leads to the clinical features of porphyria."
+    },
+    {
+      "ranges": [
+        [
+          9028,
+          9076
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "acute intermittent porphyria must be considered."
+    },
+    {
+      "ranges": [
+        [
+          9449,
+          9618
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The classic presentation of acute intermittent porphyria occurs in young women, with symptoms of fatigue, difficulty concentrating, abdominal pain, nausea, and vomiting."
+    },
+    {
+      "ranges": [
+        [
+          13290,
+          13365
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of basophilic stippling is probably a major clue in this case."
+    },
+    {
+      "ranges": [
+        [
+          13112,
+          13289
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Basophilic stippling occurs when hemoglobin synthesis is impaired, usually in the context of thalassemia (impaired globin synthesis) or lead poisoning (impaired heme synthesis)."
+    },
+    {
+      "ranges": [
+        [
+          16053,
+          16242
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Lead poisoning could explain the patient’s chronic gastrointestinal and neurologic symptoms, the absence of focal examination findings, and the presence of anemia with basophilic stippling."
+    },
+    {
+      "ranges": [
+        [
+          19049,
+          19306
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "An elevation in the ALA level but not the PBG level, as was the case in this patient, suggests ALA dehydratase deficiency, which is associated with ALA dehydratase–deficiency porphyria (an extremely rare disease), lead poisoning, and hereditary tyrosinemia."
+    },
+    {
+      "ranges": [
+        [
+          19444,
+          19631
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "ALA dehydratase inhibition can fully explain the elevations in the levels of urinary ALA, coproporphyrin, and erythrocyte zinc protoporphyrin that are seen in persons with lead poisoning."
+    },
+    {
+      "ranges": [
+        [
+          19635,
+          19785
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "This patient’s blood lead level was markedly increased, at 104 μg per deciliter (reference value, <4.9), which confirmed a diagnosis of lead poisoning"
+    },
+    {
+      "ranges": [
+        [
+          23656,
+          24037
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Possible explanations for the patient’s persistently elevated blood lead level included continued exposure (which neither she nor her daughter reported), high bone stores in equilibrium with blood (although there had been no known exposures before her use of Ayurvedic medicines), or more likely, mild chronic renal insufficiency with potentially decreased renal excretion of lead."
+    }
+  ]
+}

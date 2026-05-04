@@ -1,0 +1,161 @@
+{
+  "case": "2010 Case 18.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-01T20:09:41.672989+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          13866,
+          14015
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Several factors are likely to have contributed: difficulties with adherence, an interaction between rifampin and ritonavir, and problems with dosing."
+    },
+    {
+      "ranges": [
+        [
+          16920,
+          17067
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "When it is determined that antiretroviral therapy has failed in a child, a full assessment of the possible reasons for failure should be conducted."
+    },
+    {
+      "ranges": [
+        [
+          17499,
+          17686
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In this patient, multiple protease-inhibitor mutations were detected. Since the child had not previously received an NNRTI, a simple switch to two NRTIs and an NNRTI might be appropriate."
+    },
+    {
+      "ranges": [
+        [
+          17687,
+          17791
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Alternatively, a regimen that includes an NNRTI plus a newer protease inhibitor might also be effective."
+    },
+    {
+      "ranges": [
+        [
+          17792,
+          17974
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "HIV that is resistant to older protease inhibitors, such as lopinavir boosted with ritonavir, may still be susceptible to newer protease inhibitors, such as darunavir and tipranavir."
+    },
+    {
+      "ranges": [
+        [
+          17978,
+          18190
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Darunavir is a nonpeptide protease inhibitor that binds rapidly to protease at a unique site and dissociates slowly, resulting in a binding strength that is two times as high as that of other protease inhibitors."
+    },
+    {
+      "ranges": [
+        [
+          18999,
+          19101
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The mutations seen in this patient's virus confer intermediate resistance to darunavir and tipranavir."
+    },
+    {
+      "ranges": [
+        [
+          19105,
+          19195
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In this patient, the choice of the backbone NRTI treatment should be guided by genotyping."
+    },
+    {
+      "ranges": [
+        [
+          19196,
+          19393
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Treatment regimens that fail and that include lamivudine, such as the regimen in this child, select for the M184V mutation, which is one of the first mutations to occur and is present in this case."
+    },
+    {
+      "ranges": [
+        [
+          19721,
+          19866
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Didanosine may be used in combination with lamivudine or emtricitabine when thymidine-analogue mutations are present and abacavir cannot be used."
+    },
+    {
+      "ranges": [
+        [
+          19394,
+          19475
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The M184V mutation reduces the fitness of viruses and their ability to replicate."
+    },
+    {
+      "ranges": [
+        [
+          19870,
+          20144
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Ideally, after counseling this patient and his family, and if it is affordable, special permission should be sought — through local pharmaceutical regulatory authorities or direct application on compassionate grounds to the drug company — to use ritonavir-boosted darunavir."
+    },
+    {
+      "ranges": [
+        [
+          20454,
+          20582
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "In situations in which resources are limited, however, ritonavir-boosted darunavir might not be readily available or affordable."
+    },
+    {
+      "ranges": [
+        [
+          20583,
+          20871
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "If resistance to multiple protease inhibitors occurs, options might be to switch to a less durable regimen, such as efavirenz, didanosine, and lamivudine, or to try a holding regimen such as lamivudine monotherapy, which has shown some promising results in a small study involving adults."
+    }
+  ]
+}

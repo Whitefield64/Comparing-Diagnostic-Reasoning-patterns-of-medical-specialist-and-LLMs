@@ -1,0 +1,139 @@
+{
+  "case": "2008 Case 29.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-01T21:24:41.009990+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9494,
+          9749
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Superior mesenteric artery syndrome may occur in patients with anorexia nervosa, when loss of the fat that normally surrounds the neurovascular pedicle results in compression of the third portion of the duodenum between the aorta and the vertebral column."
+    },
+    {
+      "ranges": [
+        [
+          9138,
+          9389
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The diagnostic considerations on admission included an abdominal emergency that was unrelated to anorexia nervosa, one that was related to anorexia, and chronic gastrointestinal complications of anorexia nervosa with rapidly increasing abdominal pain."
+    },
+    {
+      "ranges": [
+        [
+          12123,
+          12283
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Severe weight loss can also cause shrinkage of cardiac muscle mass, decreased left ventricular forces, diminished ejection fractions, and mitral-valve prolapse."
+    },
+    {
+      "ranges": [
+        [
+          18528,
+          18628
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's short stature and endocrine abnormalities were thus a consequence of anorexia nervosa."
+    },
+    {
+      "ranges": [
+        [
+          19367,
+          19533
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Low bone density is characteristic of anorexia nervosa, and studies show z scores below −1 at the spine and hip in 35 to 60% of adolescent boys with anorexia nervosa."
+    },
+    {
+      "ranges": [
+        [
+          19698,
+          19830
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Weight restoration is associated with an increase in bone density in anorexia nervosa and was strongly recommended for this patient."
+    },
+    {
+      "ranges": [
+        [
+          24084,
+          24297
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Factors associated with poor outcome include preadolescent age at onset, very low weight at presentation, poor state of functioning before the development of signs and symptoms of the disease, and substance abuse."
+    },
+    {
+      "ranges": [
+        [
+          24298,
+          24471
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Patients with an onset in their early teens and early exposure to treatment, such as this patient, have the best outcome, with a recovery rate of nearly 70% in some studies."
+    },
+    {
+      "ranges": [
+        [
+          21549,
+          21706
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Anorexia nervosa commonly begins in early adolescence, as it did in this patient, and can be associated with a fear of growing up and separating from family."
+    },
+    {
+      "ranges": [
+        [
+          16074,
+          16295
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's height trajectory, however, suggested that he would not attain his predicted adult height, and the flattening of growth velocity during the previous 3 years suggested a pathologic cause of his short stature."
+    },
+    {
+      "ranges": [
+        [
+          25118,
+          25186
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's daily weight was checked, and exercise was prohibited."
+    },
+    {
+      "ranges": [
+        [
+          26938,
+          27162
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "He was discharged home after 36 days, and he enrolled in a partial-hospitalization (day-treatment) program at another facility, with close pediatric and nutritional follow-up and a referral for individual and family therapy."
+    }
+  ]
+}

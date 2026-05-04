@@ -1,0 +1,150 @@
+{
+  "case": "2001 Case 20.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-01T19:59:11.520285+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9934,
+          10038
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The clinical findings are compatible with the presence of  *B. melitensis* infection for several reasons"
+    },
+    {
+      "ranges": [
+        [
+          5209,
+          5420
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A traveler returning from the Middle East who presents with a nonspecific, protracted febrile illness may have any one of a variety of bacterial, parasitic, rickettsial, fungal, viral, or noninfectious diseases."
+    },
+    {
+      "ranges": [
+        [
+          11671,
+          11732
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If this patient had brucellosis, why did his disease relapse?"
+    },
+    {
+      "ranges": [
+        [
+          11733,
+          11856
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The most likely explanation is inappropriate monotherapy with a quinolone (ciprofloxacin) and a cephalosporin (cefuroxime)."
+    },
+    {
+      "ranges": [
+        [
+          10047,
+          10230
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the protean, frequently elusive, nonspecific manifestations of this disease, including a nonspecific febrile syndrome without localizing signs and symptoms, have long been recognized."
+    },
+    {
+      "ranges": [
+        [
+          9084,
+          9202
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The distinctive constellation of findings in this case suggests the diagnosis of infection with  *Brucella melitensis*"
+    },
+    {
+      "ranges": [
+        [
+          9934,
+          10038
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The clinical findings are compatible with the presence of  *B. melitensis* infection for several reasons"
+    },
+    {
+      "ranges": [
+        [
+          14004,
+          14276
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Renal abnormalities in cases of brucella infection are rare, and the absence of any associated symptoms, the negative urine cultures, and the nonspecific appearance of the renal cysts in the present case make the possibility of renal involvement by brucella very unlikely."
+    },
+    {
+      "ranges": [
+        [
+          14589,
+          14720
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The possibility of early spondylitis due to brucella merits consideration in this patient because it is very common in brucellosis."
+    },
+    {
+      "ranges": [
+        [
+          14897,
+          14989
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Extrapulmonary tuberculosis can simulate brucellosis, especially when the spine is involved."
+    },
+    {
+      "ranges": [
+        [
+          12029,
+          12236
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Two prospective studies in Spain identified several independent risk factors for a relapse of brucellosis: suboptimal antibiotic therapy, male sex, and various clinical markers indicative of severe infection"
+    },
+    {
+      "ranges": [
+        [
+          9259,
+          9376
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "he patient's recent travel to the Middle East, an area where  *B. melitensis,* an enzootic disease, is highly endemic"
+    },
+    {
+      "ranges": [
+        [
+          12691,
+          12813
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Brucella endocarditis, a rare but potentially lethal complication of brucellosis, has a predilection for the aortic valve."
+    }
+  ]
+}

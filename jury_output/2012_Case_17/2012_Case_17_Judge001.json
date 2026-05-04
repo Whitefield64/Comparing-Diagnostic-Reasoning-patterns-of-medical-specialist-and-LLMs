@@ -1,0 +1,128 @@
+{
+  "case": "2012 Case 17.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-01T21:30:34.329305+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6304,
+          6464
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although infarcts may be contrast enhancing, the appearance of two discrete, contrast-enhancing mass lesions is more typical of tumor than of cerebral infarcts."
+    },
+    {
+      "ranges": [
+        [
+          5593,
+          5707
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A tumor was the leading diagnostic possibility, and a primary brain tumor was more likely than a metastatic tumor."
+    },
+    {
+      "ranges": [
+        [
+          6673,
+          6765
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The appearance on imaging and the patient's age make glioblastoma the most likely diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9861,
+          10184
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In one study, patients with glioblastoma whose tumors were positive for  *MGMT* methylation, as this patient's was, had a median survival of 21.7 months and 2-year survival of 46%, as compared with patients whose tumors were negative for  *MGMT* methylation, who had a median survival of 12.7 months and 2-year survival of "
+    },
+    {
+      "ranges": [
+        [
+          12808,
+          12873
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The pathological findings were consistent with pseudoprogression."
+    },
+    {
+      "ranges": [
+        [
+          13483,
+          13660
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Pseudoprogression may be associated with cerebral edema and increased intracranial pressure and can result in neurologic symptoms and signs,  although it did not in this patient"
+    },
+    {
+      "ranges": [
+        [
+          13332,
+          13477
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "patients with tumors that showed pseudoprogression had improved survival relative to patients with tumors that did not develop pseudoprogression."
+    },
+    {
+      "ranges": [
+        [
+          16955,
+          17079
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "he timing and location are characteristic of  *MGMT* -methylated tumors that have been treated with temozolomide and radiati"
+    },
+    {
+      "ranges": [
+        [
+          17313,
+          17508
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "In a randomized, noncomparative trial of bevacizumab with and without irinotecan (an inhibitor of topoisomerase II), radiographic responses were observed in 28% and 37% of patients, respectively."
+    },
+    {
+      "ranges": [
+        [
+          18624,
+          18853
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "It is possible that the reduction in contrast enhancement represented pseudoresponse (i.e., reduction of vessel permeability) and that the expanding regions of restricted diffusion were representative of progressive glioblastoma."
+    },
+    {
+      "ranges": [
+        [
+          18557,
+          18623
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient had progressive neurologic decline while on treatment."
+    }
+  ]
+}

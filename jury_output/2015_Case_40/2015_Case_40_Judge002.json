@@ -1,0 +1,139 @@
+{
+  "case": "2015 Case 40.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-01T20:52:02.875592+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8420,
+          8583
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Severe hypertension can cause mental-status changes with psychosis, but I would expect encephalopathy with confusion and other end-organ involvement to be present."
+    },
+    {
+      "ranges": [
+        [
+          6382,
+          6498
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The initial goal is to identify potential causes of the patient’s mental state without making a premature diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9432,
+          9539
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The absence of clinically significant mood symptoms argues against a diagnosis of psychotic mood disorders."
+    },
+    {
+      "ranges": [
+        [
+          6947,
+          7133
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although many tests are not needed in an emergency situation, all tests should be considered when acute care is being provided, especially if subsequent outpatient follow-up is unlikely."
+    },
+    {
+      "ranges": [
+        [
+          5809,
+          5969
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In constructing a differential diagnosis for possible causes of psychosis in this patient, it is helpful to distinguish between primary and secondary psychosis."
+    },
+    {
+      "ranges": [
+        [
+          6530,
+          6780
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "he selection of laboratory tests should be tailored to the clinical situation and should be focused on ruling out life-threatening causes of psychosis (e.g., delirium) and identifying treatable causes (e.g., hyperthyroidism or vitamin B    deficiency"
+    },
+    {
+      "ranges": [
+        [
+          15672,
+          15796
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I devoted most of our encounters to simply listening to her talk in an effort to build rapport and understand her narrative."
+    },
+    {
+      "ranges": [
+        [
+          13060,
+          13240
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "Her feet were macerated and foul-smelling and had extensive changes consistent with tinea infection, indicating that she had infrequent opportunities to remove her shoes and socks."
+    },
+    {
+      "ranges": [
+        [
+          20555,
+          20671
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Available evidence also suggests that permanent supported housing should be a core component of this patient’s care."
+    },
+    {
+      "ranges": [
+        [
+          7444,
+          7647
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Lumbar puncture, imaging studies of the head, and electroencephalography should be performed on the basis of clinical concerns for encephalitis, structural brain abnormalities, or seizures, respectively."
+    },
+    {
+      "ranges": [
+        [
+          22317,
+          22463
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "We tolerated medical and psychiatric uncertainty, striking a balance between our sense of urgency and the patient’s pacing and hierarchy of needs."
+    },
+    {
+      "ranges": [
+        [
+          9981,
+          10125
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The patient’s lack of insight into the nature of her illness is common in schizophrenia and often points toward higher-order cognitive problems."
+    }
+  ]
+}

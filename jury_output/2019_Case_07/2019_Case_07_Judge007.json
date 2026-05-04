@@ -1,0 +1,216 @@
+{
+  "case": "2019 Case 07.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-01T21:47:00.924251+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8793,
+          8942
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Her current symptoms suggest a marked deviation from her established pattern of disease and are unlikely to be explained by progression of CLL alone."
+    },
+    {
+      "ranges": [
+        [
+          8943,
+          9074
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "In addition, the prominent systemic symptoms, rapid progression, and asymmetric lymphadenopathy would all be highly unusual in CLL."
+    },
+    {
+      "ranges": [
+        [
+          8402,
+          8467
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I will construct my differential diagnosis around these features."
+    },
+    {
+      "ranges": [
+        [
+          9849,
+          10087
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if this patient had a high-risk genetic lesion, even the most biologically aggressive type, I would expect her to have symmetric lymphadenopathy, rather than predominantly right inguinal lymphadenopathy, because CLL is a systemic disease."
+    },
+    {
+      "ranges": [
+        [
+          10136,
+          10441
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This patient’s rapidly growing and asymmetric lymphadenopathy, unexplained fever, drenching night sweats, and weight loss raise the possibility of Richter’s transformation, a syndrome in which diffuse large B-cell lymphoma (DLBCL), or in rare cases classic Hodgkin’s lymphoma, arises in a patient with CLL"
+    },
+    {
+      "ranges": [
+        [
+          10435,
+          10692
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "th CLL. Most cases of DLBCL are directly clonally related to the underlying CLL and share the same immunoglobulin heavy-chain gene (  *IGH* ) rearrangement, but some cases are clonally unrelated to the underlying CLL and have a distinct  *IGH* rearrangement"
+    },
+    {
+      "ranges": [
+        [
+          11316,
+          11556
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Lesions associated with CLL often have a level of FDG avidity that is at or slightly above the level in the liver, with some heterogeneity, whereas lesions associated with Richter’s transformation typically have a high level of FDG avidity."
+    },
+    {
+      "ranges": [
+        [
+          11557,
+          11699
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "This patient’s right inguinal lymph nodes had high FDG avidity, which would be unusual in CLL but is consistent with Richter’s transformation."
+    },
+    {
+      "ranges": [
+        [
+          12191,
+          12401
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Because the patient’s clinical and imaging findings are not consistent with CLL alone, it is possible that a sampling error resulted in failure to identify the disease process that was driving her presentation."
+    },
+    {
+      "ranges": [
+        [
+          16108,
+          16184
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I was most concerned about Richter’s transformation, most likely with DLBCL."
+    },
+    {
+      "ranges": [
+        [
+          16185,
+          16318
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Other possibilities were infectious lymphadenitis and infiltration of lymph nodes by melanoma from an unknown primary cutaneous site."
+    },
+    {
+      "ranges": [
+        [
+          13299,
+          13409
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Impaired cell-mediated immune function in CLL leads to an increased risk of infection and of secondary cancer."
+    },
+    {
+      "ranges": [
+        [
+          17322,
+          17513
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The appearance of the necrosis ranged from “burned out,” with an absence of associated inflammatory cells, to intensely suppurative, with an abundance of neutrophils and karyorrhectic debris."
+    },
+    {
+      "ranges": [
+        [
+          17514,
+          17626
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Palisading histiocytes and aggregates of kappa-restricted plasmacytic cells surrounded the areas of suppuration."
+    },
+    {
+      "ranges": [
+        [
+          21424,
+          21647
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "given the potential consequences of not treating this serious infection in an immunocompromised host, it would be reasonable to initiate a course of intravenous acyclovir followed by a prolonged course of oral valacyclovir."
+    },
+    {
+      "ranges": [
+        [
+          21648,
+          21864
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Because of the persistent immunocompromise seen in patients with CLL, lifelong antiviral suppression may be indicated, although partial viral suppression in an immunocompromised host may lead to acyclovir resistance."
+    },
+    {
+      "ranges": [
+        [
+          21865,
+          22082
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Should acyclovir resistance occur, it usually involves the emergence of mutations with thymidine kinase deficiency that generally remain susceptible to treatment with alternative agents such as foscarnet or cidofovir."
+    },
+    {
+      "ranges": [
+        [
+          22096,
+          22290
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "agents that are currently being studied for the treatment of HSV infection (e.g., helicase–primase inhibitors) may be useful but have not yet been studied for the treatment of HSV lymphadenitis."
+    },
+    {
+      "ranges": [
+        [
+          23493,
+          23578
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "I recommend that patients with CLL receive the recombinant adjuvanted zoster vaccine."
+    }
+  ]
+}

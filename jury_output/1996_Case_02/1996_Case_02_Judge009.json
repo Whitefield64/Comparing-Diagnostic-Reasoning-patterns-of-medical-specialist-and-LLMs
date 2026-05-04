@@ -1,0 +1,150 @@
+{
+  "case": "1996 Case 02.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-01T19:55:00.191277+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6579,
+          6691
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis of the hepatic lesion is long, because the imaging characteristics are not clear-cut."
+    },
+    {
+      "ranges": [
+        [
+          6826,
+          6918
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the loss of weight makes me consider the lesion a cancer until it has been proved otherwise."
+    },
+    {
+      "ranges": [
+        [
+          6397,
+          6575
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the lesion proved to be a locally advanced gastric lesion, the radiologic findings suggest that it could have been resected en bloc with the left lateral segment of the liver."
+    },
+    {
+      "ranges": [
+        [
+          5695,
+          5911
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The stomach is not well defined on the CT scan, but the absence of a history of nausea, vomiting, or early satiety makes it unlikely that the mass was a gastric cancer involving the left lateral segment of the liver."
+    },
+    {
+      "ranges": [
+        [
+          7335,
+          7419
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "These characteristics are reminiscent of a hemangioma, perhaps a cavernous hemangiom"
+    },
+    {
+      "ranges": [
+        [
+          9794,
+          9864
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I therefore suspect that the lesion was not focal nodular hyperplasia."
+    },
+    {
+      "ranges": [
+        [
+          13624,
+          13783
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although metastases may be heterogeneous, they are not associated with rashes, except in the case of glucagonomas, which produce necrolytic migratory erythema."
+    },
+    {
+      "ranges": [
+        [
+          7422,
+          7552
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "As McFarland et al. have reported, hemangiomas and cystic lesions of the liver have a longer relaxation time than hepatic cancers."
+    },
+    {
+      "ranges": [
+        [
+          7771,
+          7881
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Other benign lesions that should be considered in this case are focal nodular hyperplasia and hepatic adenoma."
+    },
+    {
+      "ranges": [
+        [
+          9865,
+          9994
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The appearance is also not consistent with a pyogenic abscess, which may be multicentric or have a large central cavitating area."
+    },
+    {
+      "ranges": [
+        [
+          6919,
+          7081
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The CT scan suggests the presence of a heterogeneous mass with a central area of necrosis or scarring and shows that the mass filled slowly in the arterial phase."
+    },
+    {
+      "ranges": [
+        [
+          13474,
+          13623
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The lesion in this case could have been metastatic from another tumor, but if so, it should have been more hyperechoic on the ultrasonographic study."
+    },
+    {
+      "ranges": [
+        [
+          16418,
+          16575
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Since the patient under discussion had no history of taking home remedies for her skin lesions, however, it is unlikely that she had been exposed to arsenic."
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "case": "1992 Case 16.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-01T09:51:30.622175+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5928,
+          6110
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The motor weakness restricted to the intrinsic muscles of the left hand could indicate compression of the C8 root or a problem at a higher level in the spinal cord or even the brain."
+    },
+    {
+      "ranges": [
+        [
+          6288,
+          6500
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "That combination of findings is against root involvement at the site of the lesion described on radiographic examination and favors spinal-cord compromise at the C4–5 level as an explanation of the hand weakness."
+    },
+    {
+      "ranges": [
+        [
+          6501,
+          6660
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Distal spread of the biceps reflex (that is, curling of the fingers during testing of the biceps tendon jerk) indicates pathologic exaggeration of this reflex."
+    },
+    {
+      "ranges": [
+        [
+          6661,
+          6743
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This sign also suggests a problem of the pyramidal system above the C6 root level."
+    },
+    {
+      "ranges": [
+        [
+          9847,
+          9990
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Fractures of vertebral bodies, subluxations of joints, or acute herniations of disk material can all impinge on nerve roots or the spinal cord."
+    },
+    {
+      "ranges": [
+        [
+          10216,
+          10334
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The radiographs show that this woman's problem could not have been the result of trauma to a previously healthy spine."
+    },
+    {
+      "ranges": [
+        [
+          10335,
+          10436
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Cervical-disk herniations are clearly demonstrated on MRI scanning and do not cause bone destruction."
+    },
+    {
+      "ranges": [
+        [
+          10437,
+          10581
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A fracture with a hematoma can cause a mass compressing the cord, but one would expect to see bone fragments, which were not shown in this case."
+    },
+    {
+      "ranges": [
+        [
+          9468,
+          9699
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Several pathological categories, including traumatic, metabolic, congenital, neoplastic, and inflammatory lesions, deserve mention in the differential diagnosis of spinal-cord dysfunction associated with cervical vertebral lesions."
+    },
+    {
+      "ranges": [
+        [
+          9703,
+          9846
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The first question raised in the differential diagnosis of post-traumatic pain is whether the trauma itself explains the symptoms and findings."
+    },
+    {
+      "ranges": [
+        [
+          10582,
+          10725
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although trauma cannot be the whole answer, it is very likely that the mechanical blow to the neck aggravated a preexisting pathologic process."
+    },
+    {
+      "ranges": [
+        [
+          15070,
+          15199
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Without a source of metastatic tumor and with this radiographic appearance, a secondary tumor appears very unlikely in this case."
+    },
+    {
+      "ranges": [
+        [
+          15756,
+          15902
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "This patient's young age, however, makes this diagnosis extremely unlikely, since plasmacytomas are seen generally between 45 and 70 years of age."
+    },
+    {
+      "ranges": [
+        [
+          23840,
+          23938
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The weight of the evidence favors pyogenic infection, and the most likely organism is  *S. aureus*"
+    },
+    {
+      "ranges": [
+        [
+          24174,
+          24397
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Rapid cervical flexion perhaps resulted in protrusion of an infected mass against the anterior surface of the spinal cord, with spread of purulent material around the posterior longitudinal ligament into the epidural space."
+    }
+  ]
+}

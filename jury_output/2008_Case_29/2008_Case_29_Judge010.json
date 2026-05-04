@@ -1,0 +1,117 @@
+{
+  "case": "2008 Case 29.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-01T20:41:32.471008+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9494,
+          9749
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Superior mesenteric artery syndrome may occur in patients with anorexia nervosa, when loss of the fat that normally surrounds the neurovascular pedicle results in compression of the third portion of the duodenum between the aorta and the vertebral column."
+    },
+    {
+      "ranges": [
+        [
+          9138,
+          9389
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The diagnostic considerations on admission included an abdominal emergency that was unrelated to anorexia nervosa, one that was related to anorexia, and chronic gastrointestinal complications of anorexia nervosa with rapidly increasing abdominal pain."
+    },
+    {
+      "ranges": [
+        [
+          10185,
+          10348
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The  *Diagnostic and Statistical Manual of Mental Disorders* , fourth edition, lists four diagnostic criteria for anorexia nervosa: two medical and two psychiatric"
+    },
+    {
+      "ranges": [
+        [
+          20790,
+          21035
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This patient consistently maintained an exceptionally low body weight, engaged in excessive physical activity despite his state of nutrition, and manifested extreme denial of the severity of the illness — all typical features of anorexia nervosa"
+    },
+    {
+      "ranges": [
+        [
+          17133,
+          17271
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "This patient thus had gone through early puberty normally, but his progression had subsequently stalled, suggesting acquired hypogonadism."
+    },
+    {
+      "ranges": [
+        [
+          19367,
+          19533
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Low bone density is characteristic of anorexia nervosa, and studies show z scores below −1 at the spine and hip in 35 to 60% of adolescent boys with anorexia nervosa."
+    },
+    {
+      "ranges": [
+        [
+          24084,
+          24297
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Factors associated with poor outcome include preadolescent age at onset, very low weight at presentation, poor state of functioning before the development of signs and symptoms of the disease, and substance abuse."
+    },
+    {
+      "ranges": [
+        [
+          18528,
+          18628
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's short stature and endocrine abnormalities were thus a consequence of anorexia nervosa."
+    },
+    {
+      "ranges": [
+        [
+          24602,
+          24813
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, future successes at school or jobs may improve his self-esteem, he may tire of the constraints of his illness, or he may begin to fear death; such factors could lead him to accept appropriate treatment."
+    },
+    {
+      "ranges": [
+        [
+          25015,
+          25117
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Our eating protocol requires all meals and snacks to be supervised and consumed within allotted times."
+    }
+  ]
+}

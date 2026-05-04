@@ -1,0 +1,139 @@
+{
+  "case": "2015 Case 40.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-01T20:52:02.877215+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8420,
+          8583
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Severe hypertension can cause mental-status changes with psychosis, but I would expect encephalopathy with confusion and other end-organ involvement to be present."
+    },
+    {
+      "ranges": [
+        [
+          8015,
+          8218
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Delirium, which is accompanied by psychosis in about 50% of cases, is unlikely in this case, because the patient’s psychiatric symptoms were neither acute nor characterized by a waxing and waning course."
+    },
+    {
+      "ranges": [
+        [
+          8219,
+          8419
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The onset of her illness and her history argue against a neurodegenerative disorder, but her previous traumatic brain injury is relevant because it could suggest that her presentation includes apathy."
+    },
+    {
+      "ranges": [
+        [
+          9616,
+          9717
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Her positive symptoms include delusions, auditory hallucinations, and a disorganized thought process."
+    },
+    {
+      "ranges": [
+        [
+          10472,
+          10604
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although schizophrenia is a diagnosis of exclusion, the diagnosis is nevertheless based on observable clinical features and history."
+    },
+    {
+      "ranges": [
+        [
+          5809,
+          5969
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In constructing a differential diagnosis for possible causes of psychosis in this patient, it is helpful to distinguish between primary and secondary psychosis."
+    },
+    {
+      "ranges": [
+        [
+          9981,
+          10125
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient’s lack of insight into the nature of her illness is common in schizophrenia and often points toward higher-order cognitive problems."
+    },
+    {
+      "ranges": [
+        [
+          10605,
+          10854
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "On the basis of the information available at the time of this patient’s presentation, the probable diagnosis is schizophrenia that is most likely associated with cognitive impairment and is perhaps exacerbated by her previous traumatic brain injury."
+    },
+    {
+      "ranges": [
+        [
+          17633,
+          17819
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The core symptoms — hallucinations, delusions, paranoia, diminished curiosity and motivation, and impaired executive functioning — create challenges in meeting the demands of adult life."
+    },
+    {
+      "ranges": [
+        [
+          18087,
+          18184
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Sixty years ago, a patient such as this one would probably have been cared for in an institution."
+    },
+    {
+      "ranges": [
+        [
+          22047,
+          22079
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Why did this patient get better?"
+    },
+    {
+      "ranges": [
+        [
+          23478,
+          23643
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "With appropriate treatment and support, the majority of previously homeless people with schizophrenia can live stably in the community, as this patient is now doing."
+    }
+  ]
+}

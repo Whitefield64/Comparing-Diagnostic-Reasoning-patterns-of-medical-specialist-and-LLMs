@@ -1,0 +1,128 @@
+{
+  "case": "1992 Case 41.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-01T20:25:08.633066+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4641,
+          4733
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Could this genitourinary tract abnormality have been related to the child's cardiac problem?"
+    },
+    {
+      "ranges": [
+        [
+          4734,
+          4937
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Two possibilities come to mind. Either the congenital urinary tract abnormality was associated with a congenital cardiac defect or the urinary anomaly or its treatment caused an abnormality in the heart."
+    },
+    {
+      "ranges": [
+        [
+          10743,
+          10904
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "If I assume that this child's murmur was organic, he was one of the 2 to 3 percent of children of mothers with a patent ductus arteriosus who have heart disease."
+    },
+    {
+      "ranges": [
+        [
+          10905,
+          11080
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Usually the heart disease is concordant, so that there was about a 50 percent chance that his heart disease was the same as his mother's — that is, a patent ductus arteriosus."
+    },
+    {
+      "ranges": [
+        [
+          4938,
+          5062
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The association between congenital malformations in the cardiovascular system and various other malformations is well known."
+    },
+    {
+      "ranges": [
+        [
+          11951,
+          12131
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The information that the child's mother had a patent ductus increases the possibility that the murmur was organic rather than functional but does not point to a specific diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          12135,
+          12424
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The next clue is the child's hypertension. The clinicians caring for him presumably thought that it was secondary to the renal disease, but it would be somewhat unusual for a child with obstructive uropathy to have this degree of hypertension with normal renal function and no proteinuria."
+    },
+    {
+      "ranges": [
+        [
+          12630,
+          12825
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Coarctation of the aorta is excluded by the presence of femoral pulses that were equal in volume and intensity to the pulses in the arms and by the equal blood pressures in the right arm and leg."
+    },
+    {
+      "ranges": [
+        [
+          19323,
+          19584
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Obstruction on the left side can be above, at, or below the aortic valve. Supravalvar aortic obstruction is frequently seen, as I mentioned previously, in Williams' syndrome but may be seen in a sporadic form or a non-Williams'-syndrome autosomal dominant form."
+    },
+    {
+      "ranges": [
+        [
+          21172,
+          21345
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The findings in this case are most consistent with discrete membranous subaortic stenosis, which accounts for approximately 10 percent of cases of childhood aortic stenosis."
+    },
+    {
+      "ranges": [
+        [
+          28827,
+          28945
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "With a gradient of 38 mm Hg, it is unlikely that any decrease in exercise tolerance could be demonstrated objectively."
+    }
+  ]
+}

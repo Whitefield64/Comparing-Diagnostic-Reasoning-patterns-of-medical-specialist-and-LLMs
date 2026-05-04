@@ -1,0 +1,150 @@
+{
+  "case": "2016 Case 03.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-01T20:53:05.268619+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8010,
+          8249
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The intermittent nature of this child’s symptoms and the history of hard infrequent stools, a low-fiber diet, and relief after the administration of osmotic laxatives made constipation the working diagnosis for much of her clinical course."
+    },
+    {
+      "ranges": [
+        [
+          7784,
+          7953
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Although the differential diagnosis of abdominal pain in children is quite broad, several notable features of her presentation initially influenced my working diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          12597,
+          12814
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the suspicion for inflammatory bowel disease had been higher, screening for fecal occult blood and potentially for inflammatory markers (e.g., calprotectin or lactoferrin) might have been helpful in the evaluation."
+    },
+    {
+      "ranges": [
+        [
+          9232,
+          9389
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "When evaluating a pediatric patient with chronic abdominal pain in the outpatient setting, several important “alarm” symptoms and signs should be considered."
+    },
+    {
+      "ranges": [
+        [
+          8387,
+          8571
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s episodes of pain were more frequent at school; this factor is suggestive of functional abdominal pain, a diagnosis that is commonly seen in a general pediatrics practice."
+    },
+    {
+      "ranges": [
+        [
+          9828,
+          9965
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although many cases of constipation require a self-limited course of osmotic laxative therapy, some cases require long-term laxative use."
+    },
+    {
+      "ranges": [
+        [
+          8961,
+          9161
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the severity, quality, increasing frequency, and epigastric location of the pain prompted the consideration of alternative diagnoses, and consultation with a pediatric gastroenterologist was required."
+    },
+    {
+      "ranges": [
+        [
+          17150,
+          17413
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The likelihood that a migraine headache will occur in 1 year in a patient with abdominal migraine is only 24%, so the absence of headaches in this patient did not preclude this diagnosis, and she was appropriately referred to a neurologist for further evaluation."
+    },
+    {
+      "ranges": [
+        [
+          12331,
+          12582
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The normal complete blood count, serum albumin level, and erythrocyte sedimentation rate are also inconsistent with this diagnosis; however, 9 to 19% of children with inflammatory bowel disease have similar results at the time of initial presentation."
+    },
+    {
+      "ranges": [
+        [
+          19457,
+          19674
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Neither of these is a particularly satisfying or easily treatable diagnosis, and parents and medical providers understandably feel a great degree of frustration when they are unable to relieve chronic pain in a child."
+    },
+    {
+      "ranges": [
+        [
+          19675,
+          19927
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Some evidence suggests that mind–body therapies (e.g., biofeedback and relaxation techniques) are effective for the management of chronic abdominal pain and headache in children, and a trial of such therapies was the planned next step for this patient."
+    },
+    {
+      "ranges": [
+        [
+          20301,
+          20408
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient–doctor relationship in longitudinal primary care was what led to the diagnosis in this patient."
+    },
+    {
+      "ranges": [
+        [
+          25027,
+          25100
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In retrospect, can the accessory spleen be seen on the ultrasound images?"
+    }
+  ]
+}

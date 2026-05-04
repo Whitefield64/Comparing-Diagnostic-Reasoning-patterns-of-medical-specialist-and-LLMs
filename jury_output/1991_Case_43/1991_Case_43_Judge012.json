@@ -1,0 +1,326 @@
+{
+  "case": "1991 Case 43.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-01T19:40:40.603103+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17684,
+          17737
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Did this patient have a community-acquired pneumonia?"
+    },
+    {
+      "ranges": [
+        [
+          18291,
+          18462
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Although these infections often present with atypical features, such as diffuse multilobar infiltration, the response to conventional antibiotic therapy is usually prompt."
+    },
+    {
+      "ranges": [
+        [
+          17412,
+          17602
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The diseases affecting the lungs fall into three general categories — infections, including those due to common pathogens and opportunistic infections, neoplasms, and inflammatory disorders."
+    },
+    {
+      "ranges": [
+        [
+          42075,
+          42328
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If I am correct and this is a case of histoplasmosis, however, it is possible that the two episodes were related since the latency period between the onset of infection and the time of the diagnosis can be as long as six to eight months in this disease."
+    },
+    {
+      "ranges": [
+        [
+          19439,
+          19655
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The nonproductive cough, dyspnea, and fever, the widened arterialalveolar gradient, and the radiographic pattern of diffuse interstitial pulmonary infiltrates are all consistent with pneumonia caused by  *P. carinii."
+    },
+    {
+      "ranges": [
+        [
+          24319,
+          24425
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The syndrome of \"generalized lymphadenopathy\" does not appear to involve hilar or mediastinal lymph nodes."
+    },
+    {
+      "ranges": [
+        [
+          19184,
+          19436
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": " *Pneumocystis carinii* is the most common single pathogen causing pneumonia in patients with AIDS, occurring in 80 percent of such patients during the course of their illness, I have to include it in the differential diagnosis of this patient's diseas"
+    },
+    {
+      "ranges": [
+        [
+          17181,
+          17315
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The lung is affected by one of these processes as the initial manifestation of AIDS in about 65 percent of patients infected with HIV."
+    },
+    {
+      "ranges": [
+        [
+          24437,
+          24580
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "intrathoracic lymphadenopathy in patients infected with HIV should suggest the presence of an associated opportunistic infection or a neoplasm."
+    },
+    {
+      "ranges": [
+        [
+          30125,
+          30390
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": ". Since tuberculosis in patients with AIDS is often disseminated at the time of presentation, acid-fast smears and cultures should be obtained from all specimens available, including urine, sputum, blood, bronchoalveolar-lavage, and transbronchial-biopsy specimens."
+    },
+    {
+      "ranges": [
+        [
+          30878,
+          31013
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Disease due to  *Mycobacterium avium–intracellulare* (also called  *M. avium* complex) is known to be prevalent among patients with AID"
+    },
+    {
+      "ranges": [
+        [
+          36978,
+          37130
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The radiographs of the chest reveal reticulonodular, diffuse infiltrates in 41 percent of the cases and alveolar infiltrates in 17 percent of the cases."
+    },
+    {
+      "ranges": [
+        [
+          38280,
+          38456
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "ents. Cultures of pulmonary specimens obtained from all sources combined (i.e., sputum, bronchoscopic examination, and lung biopsy) were positive in 50 percent of the cases.\n\n\n"
+    },
+    {
+      "ranges": [
+        [
+          39549,
+          39639
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Anemia is the most common hematologic disturbance in cases of disseminated histoplasmosis."
+    },
+    {
+      "ranges": [
+        [
+          38598,
+          38870
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "I favor progressive disseminated histoplasmosis as the principal diagnosis in this case because of the history of recent previous residence in an area where the infection is endemic and the relatively slow evolution of the disease, with minimal respiratory tract symptoms."
+    },
+    {
+      "ranges": [
+        [
+          42099,
+          42328
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": " is a case of histoplasmosis, however, it is possible that the two episodes were related since the latency period between the onset of infection and the time of the diagnosis can be as long as six to eight months in this disease."
+    },
+    {
+      "ranges": [
+        [
+          39936,
+          40119
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This patient's serum ferritin level was elevated, and such an elevation has been reported in patients with various inflammatory diseases and malignant tumors and in patients with AIDS"
+    },
+    {
+      "ranges": [
+        [
+          32646,
+          32868
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I shall now discuss fungal infections that are frequently encountered in patients with AIDS and that usually present with diffuse interstitial infiltrates and occasionally present with hilar or mediastinal lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          40538,
+          40755
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The most likely explanation for the elevated prothrombin and partial thromboplastin times is the presence of a lupus anticoagulant, which has been associated with active opportunistic infections in patients with AIDS."
+    },
+    {
+      "ranges": [
+        [
+          32299,
+          32640
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Before leaving the category of infections caused by nontuberculous mycobacteria, I should note that  *M. avium–intracellulare* accounts for 96 percent of these infections, and other organisms, such as  *M. kansasii, M. gordonae, M. fortuitum, and M. chelonae* , account for less than 4 percent of cases of nontuberculous mycobacterial diseas"
+    },
+    {
+      "ranges": [
+        [
+          26530,
+          26691
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of skin lesions and of the typical cherry-red, raised lesions in the tracheobronchial tree, however, would be unusual for a case of Kaposi's sarcoma."
+    },
+    {
+      "ranges": [
+        [
+          44106,
+          44365
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "at pneumocystis infection was possible because the serum LDH level was greater than 450 IU per liter and because the aerosolized pentamidine that he received would have decreased the yield of induction of sputum and bronchoscopic examination for that organism"
+    },
+    {
+      "ranges": [
+        [
+          35880,
+          36038
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "ne series of 18 cases of histoplasmosis seen in two New York hospitals, 16 patients were born in areas of endemic disease; 13 of them were from Puerto Rico. I"
+    },
+    {
+      "ranges": [
+        [
+          24144,
+          24318
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In trying to narrow the differential diagnosis I shall now focus on the radiographic finding of pulmonary reticulonodular infiltrates with questionable hilar lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          43036,
+          43124
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the findings on clinical examination remained unimpressive throughout the hospital stay."
+    },
+    {
+      "ranges": [
+        [
+          36187,
+          36440
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "lthough histoplasmosis is often disseminated at the time of presentation and symptoms can be severe, mimicking a gram-negative septicemia, subacute illness with a high fever, substantial weight loss, and minor respiratory tract symptoms is not uncommon."
+    },
+    {
+      "ranges": [
+        [
+          36441,
+          36587
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Fever and weight loss are the most frequent presenting manifestations, occurring in about 80 percent and 50 percent of the patients, respectively."
+    },
+    {
+      "ranges": [
+        [
+          42159,
+          42347
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "he two episodes were related since the latency period between the onset of infection and the time of the diagnosis can be as long as six to eight months in this disease.\n\n\n\n  Dr. Eugene J."
+    },
+    {
+      "ranges": [
+        [
+          45590,
+          45712
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The size and shape of the yeasts suggested  *H. capsulatum* , and its identity was confirmed by culture of the lung tissue"
+    }
+  ]
+}

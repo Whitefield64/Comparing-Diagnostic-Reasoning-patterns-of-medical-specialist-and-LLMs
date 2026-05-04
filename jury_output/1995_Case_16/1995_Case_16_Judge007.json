@@ -1,0 +1,249 @@
+{
+  "case": "1995 Case 16.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-01T19:53:42.567660+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          10099,
+          10307
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "One syndrome that deserves mention in this case is arrhythmogenic right ventricular dysplasia, which is primarily a right ventricular cardiomyopathy, frequently with little or no left ventricular involvement."
+    },
+    {
+      "ranges": [
+        [
+          10308,
+          10437
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Sustained monomorphic ventricular tachycardia is a frequent finding in this uncommon disorder and can be refractory to treatment."
+    },
+    {
+      "ranges": [
+        [
+          10438,
+          10502
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The tachycardia usually has a left-bundle type of configuration."
+    },
+    {
+      "ranges": [
+        [
+          10662,
+          10815
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although this patient seems to have had disproportionate right ventricular involvement, other clinical findings would not be explained by this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10819,
+          10927
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "In this case ventricular tachycardia was occurring in the setting of a global cardiomyopathy or myocarditis."
+    },
+    {
+      "ranges": [
+        [
+          10928,
+          10999
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Cardiomyopathies comprise dilated, hypertrophic, and restrictive types."
+    },
+    {
+      "ranges": [
+        [
+          11238,
+          11424
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The characteristic echocardiographic findings include increased wall thickness without chamber enlargement and evidence of abnormal diastolic function with ultimate systolic dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          11428,
+          11608
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Neoplasms can involve the heart directly or, more commonly, through metastasis, although less than 10 percent of patients with cardiac tumors have clinically overt cardiac disease."
+    },
+    {
+      "ranges": [
+        [
+          11864,
+          11990
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "In view of the presence of thoracic lymphadenopathy in this young nonsmoker, the possibility of lymphoma should be considered."
+    },
+    {
+      "ranges": [
+        [
+          11991,
+          12183
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cardiac involvement, which is found at autopsy in up to 24 percent of patients with lymphoma, is typically seen in the form of extension to the parietal pericardium, with or without effusions."
+    },
+    {
+      "ranges": [
+        [
+          12184,
+          12286
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Diffuse myocardial involvement is uncommon and is usually not associated with clinical manifestations."
+    },
+    {
+      "ranges": [
+        [
+          12287,
+          12430
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "A presentation with overt heart disease is rare and generally followed by a fulminant course because of the association with high-grade tumors."
+    },
+    {
+      "ranges": [
+        [
+          19979,
+          20136
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Sarcoidosis is a systemic granulomatous disorder of unknown cause characterized by noncaseating epithelioid-cell granulomas involving multiple organ systems."
+    },
+    {
+      "ranges": [
+        [
+          22346,
+          22491
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although 20 to 25 percent of patients with sarcoidosis have cardiac involvement at autopsy, only 5 percent of them have clinically overt disease."
+    },
+    {
+      "ranges": [
+        [
+          22492,
+          22561
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Most of the patients with confirmed cardiac involvement die suddenly."
+    },
+    {
+      "ranges": [
+        [
+          22562,
+          22692
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Autopsies demonstrated a propensity for involvement of the left ventricular free wall and the base of the interventricular septum."
+    },
+    {
+      "ranges": [
+        [
+          22693,
+          22810
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This distribution of granulomas may explain the conduction-system disturbances that occur in up to half the patients."
+    },
+    {
+      "ranges": [
+        [
+          23746,
+          24031
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presentation may also include myocarditis with congestive heart failure, sudden cardiac death, supraventricular tachyarrhythmia, mitral-valve insufficiency due to papillary-muscle dysfunction, formation of a left ventricular aneurysm, acute myocardial infarction, and pericarditis."
+    },
+    {
+      "ranges": [
+        [
+          25035,
+          25118
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I believe that this patient had systemic sarcoidosis involving the heart and lungs."
+    },
+    {
+      "ranges": [
+        [
+          25119,
+          25174
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Generalized cutaneous anergy is typical of sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          25175,
+          25268
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pattern of lung involvement, although atypical, is consistent with pulmonary sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          25269,
+          25416
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Finally, the cardiomyopathy, conduction-system dysfunction, and sustained ventricular tachycardia are common manifestations of cardiac sarcoidosis."
+    }
+  ]
+}

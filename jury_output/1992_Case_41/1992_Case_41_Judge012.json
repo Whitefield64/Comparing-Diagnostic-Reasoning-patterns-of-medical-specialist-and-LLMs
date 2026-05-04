@@ -1,0 +1,139 @@
+{
+  "case": "1992 Case 41.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-01T09:52:16.314882+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4187,
+          4408
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The obstruction leads to a high bladder pressure with progressive thickening and fibrosis of the bladder wall, which may result in distortion of the ureterovesical junction, causing further obstruction or reflux, or both."
+    },
+    {
+      "ranges": [
+        [
+          4408,
+          4637
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": " These abnormalities in the lower urinary tractcan lead to dilatation of the ureters and kidney, and when they occur in utero during the development of the kidneys they may result in renal dysplasia with decreased renal function."
+    },
+    {
+      "ranges": [
+        [
+          4734,
+          4937
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Two possibilities come to mind. Either the congenital urinary tract abnormality was associated with a congenital cardiac defect or the urinary anomaly or its treatment caused an abnormality in the heart."
+    },
+    {
+      "ranges": [
+        [
+          10743,
+          10904
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If I assume that this child's murmur was organic, he was one of the 2 to 3 percent of children of mothers with a patent ductus arteriosus who have heart disease."
+    },
+    {
+      "ranges": [
+        [
+          10905,
+          11080
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Usually the heart disease is concordant, so that there was about a 50 percent chance that his heart disease was the same as his mother's — that is, a patent ductus arteriosus."
+    },
+    {
+      "ranges": [
+        [
+          26260,
+          26447
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Rosenquist et al. have postulated that an increased separation between the mitral and aortic valves results in abnormal flow patterns that might lead to a proliferation of fibrous tissue."
+    },
+    {
+      "ranges": [
+        [
+          17552,
+          17854
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "With atrial-level shunts, however, the increased cardiac impulse is over the right ventricle, the pulmonic component of the second heart sound is widely split without respiratory variation, and the right ventricular dilatation causes an rsR' pattern over the right chest leads on the electrocardiogram."
+    },
+    {
+      "ranges": [
+        [
+          21172,
+          21342
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The findings in this case are most consistent with discrete membranous subaortic stenosis, which accounts for approximately 10 percent of cases of childhood aortic stenos"
+    },
+    {
+      "ranges": [
+        [
+          21172,
+          21345
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The findings in this case are most consistent with discrete membranous subaortic stenosis, which accounts for approximately 10 percent of cases of childhood aortic stenosis."
+    },
+    {
+      "ranges": [
+        [
+          28827,
+          28945
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "With a gradient of 38 mm Hg, it is unlikely that any decrease in exercise tolerance could be demonstrated objectively."
+    },
+    {
+      "ranges": [
+        [
+          26448,
+          26546
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Other observers have suspected a proliferation of persistent embryonic endocardial-cushion tissue."
+    },
+    {
+      "ranges": [
+        [
+          15715,
+          16046
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The first question is whether the child was cyanotic. In this case there is no evidence of cyanosis in the history or physical examination, and the normal second heart sound, the relatively normal x-ray films of the chest and electrocardiogram, and the absence of polycythemia exclude virtually all forms of cyanotic heart disease."
+    }
+  ]
+}

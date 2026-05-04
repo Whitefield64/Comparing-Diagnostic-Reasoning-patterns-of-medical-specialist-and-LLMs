@@ -1,0 +1,348 @@
+{
+  "case": "2012 Case 40.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-01T20:49:35.374463+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5434,
+          5605
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Amniotic-fluid embolism is thought to result from maternal reaction to fetal material entering the pulmonary circulation and can cause apnea, hypotension, and bradycardia."
+    },
+    {
+      "ranges": [
+        [
+          7061,
+          7184
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Pathophysiologically, amniotic-fluid embolism is thought to be a maternal anaphylactic reaction that unfolds in two phases."
+    },
+    {
+      "ranges": [
+        [
+          3395,
+          3496
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Primary cardiac events need to be considered as a cause of intraoperative cardiorespiratory collapse."
+    },
+    {
+      "ranges": [
+        [
+          3497,
+          3728
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Myocardial ischemia and infarction can cause profound alteration in vital signs, yet this patient was relatively young and had no history of heart disease, and the intraoperative cardiac monitoring did not suggest ischemic changes."
+    },
+    {
+      "ranges": [
+        [
+          3729,
+          3931
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Arrhythmias may also produce dramatic alterations in physiology, but the only dysrhythmia seen in this case was a bradycardia, a finding associated with what we soon determined was the likely diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          3935,
+          4003
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Complications associated with anesthesia also need to be considered."
+    },
+    {
+      "ranges": [
+        [
+          4004,
+          4188
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Regional anesthesia affecting a higher spinal level than expected can cause apnea but would be unlikely to lead immediately and concomitantly to loss of respiration and cardiac output."
+    },
+    {
+      "ranges": [
+        [
+          4189,
+          4490
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Inadvertent intravascular injection of anesthetic agents has been associated with cardiovascular collapse; in this case, however, so much time had passed since the successful initiation of anesthesia that it seems unlikely that the subsequent events were directly linked to an anesthetic complication."
+    },
+    {
+      "ranges": [
+        [
+          4494,
+          4567
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Embolic events can produce sudden collapse of the sort seen in this case."
+    },
+    {
+      "ranges": [
+        [
+          4605,
+          4674
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A thrombotic pulmonary embolus belongs in the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          4675,
+          4947
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, formation (and migration) of a clot of the necessary size after less than 30 minutes of immobilization seems unlikely, especially since the patient was wearing intermittent pneumatic-compression stockings, as we use in all patients undergoing cesarean deliveries."
+    },
+    {
+      "ranges": [
+        [
+          4948,
+          5013
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Air emboli have been reported at the time of cesarean deliveries."
+    },
+    {
+      "ranges": [
+        [
+          5014,
+          5297
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although this patient had received no intravenous injections close to the time of collapse, the uterus had been exteriorized for repair of the hysterotomy; since it had been raised slightly above the level of the heart, the possibility of an air embolus cannot be entirely ruled out."
+    },
+    {
+      "ranges": [
+        [
+          5298,
+          5397
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Embolization of amniotic fluid and fetal material is the third type of embolic event we considered."
+    },
+    {
+      "ranges": [
+        [
+          5606,
+          5845
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Amniotic-fluid embolism, although rare, is well known and feared by obstetricians, and because it seemed the most likely explanation for this patient's condition, this diagnosis will be the focus of the discussion here, as it was that day."
+    },
+    {
+      "ranges": [
+        [
+          5851,
+          5979
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Two analyses of administrative data report amniotic-fluid embolism as a complication in 1 in 10,000 and 1 in 100,000 deliveries."
+    },
+    {
+      "ranges": [
+        [
+          6334,
+          6441
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "This patient was of older maternal age, with placenta previa, and she had just undergone cesarean delivery."
+    },
+    {
+      "ranges": [
+        [
+          6442,
+          6720
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, regardless of how many risk factors one patient has, each individual risk factor is relatively common, although amniotic-fluid embolism itself is quite rare; therefore, the conclusion of many observers is that amniotic-fluid embolism is unpredictable and unpreventable."
+    },
+    {
+      "ranges": [
+        [
+          13800,
+          13992
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the finding of 100% pulmonary dead space in the context of cardiac arrest presenting as pulseless electrical activity rapidly led us to the preliminary diagnosis of an amniotic-fluid embolism."
+    },
+    {
+      "ranges": [
+        [
+          15022,
+          15181
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Amniotic-fluid embolism causes intense pulmonary vasoconstriction and an acute pressure overload on the right ventricle, leading to dilatation and hypokinesis."
+    },
+    {
+      "ranges": [
+        [
+          15182,
+          15300
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Tricuspid regurgitation leads to dilatation of the right atrium and a shift of the interatrial septum toward the left."
+    },
+    {
+      "ranges": [
+        [
+          15301,
+          15529
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Hypotension results from impaired filling of the left ventricle associated with pulmonary vasoconstriction and a shift of the interventricular septum toward the left, resulting in the classic D shape seen in transgastric images."
+    },
+    {
+      "ranges": [
+        [
+          6724,
+          6932
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The clinical presentation of amniotic-fluid embolism includes cardiovascular collapse (bradycardia or hypotension or both), apnea, bleeding, or evidence of fetal compromise (if delivery has not yet occurred)."
+    },
+    {
+      "ranges": [
+        [
+          6933,
+          7057
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Often, as in this patient, there is a period of anxiety or agitation preceding the alteration in vital signs and physiology."
+    },
+    {
+      "ranges": [
+        [
+          20962,
+          21111
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's ICU course was complicated by medical events that were a consequence of her initial cardiac arrest, subsequent surgeries, and bleeding."
+    },
+    {
+      "ranges": [
+        [
+          21112,
+          21207
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Acute nonoliguric renal failure developed, which required continuous venovenous hemofiltration."
+    },
+    {
+      "ranges": [
+        [
+          21208,
+          21425
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The causes of this complication are multifactorial and include renal hypoperfusion and administration of an aminoglycoside antibiotic, which was exchanged for another antibiotic early in the patient's stay in the ICU."
+    },
+    {
+      "ranges": [
+        [
+          21553,
+          21757
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient awoke with an encephalopathy characterized by lack of speech, intact language comprehension, intact nonverbal expression, normal cranial-nerve function, and normal motor and sensory functions."
+    },
+    {
+      "ranges": [
+        [
+          21758,
+          21853
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The symptoms could not be attributed to an infarct in the territory of a major cerebral artery."
+    },
+    {
+      "ranges": [
+        [
+          21854,
+          21897
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Brain CT revealed no hemorrhage or infarct."
+    },
+    {
+      "ranges": [
+        [
+          23146,
+          23257
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Perhaps rapid initiation of a selective pulmonary arterial relaxant, such as nitric oxide, might be beneficial."
+    }
+  ]
+}

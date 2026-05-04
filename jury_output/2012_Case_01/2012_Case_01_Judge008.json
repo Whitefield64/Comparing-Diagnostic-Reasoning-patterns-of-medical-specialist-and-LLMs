@@ -1,0 +1,161 @@
+{
+  "case": "2012 Case 01.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-01T20:46:30.888219+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7340,
+          7726
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis that I would consider for these ulcerative, bullous, necrotic hand lesions includes infection (bacterial, mycobacterial, protozoal, fungal, or viral); a vasculitis (e.g., vasculitis associated with antineutrophil cytoplasmic antibodies [ANCA] or vasculitis of medium-size vessels); and neutrophilic dermatoses (e.g., pyoderma gangrenosum or Sweet's syndrome)."
+    },
+    {
+      "ranges": [
+        [
+          7934,
+          8096
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "An infectious cause of the initial ulceration should be considered in view of the history of a dog bite, which can transmit several types of infectious organisms."
+    },
+    {
+      "ranges": [
+        [
+          8548,
+          8693
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The main bacterial infections to consider in association with dog bites are from staphylococci, streptococci, anaerobes, and pasteurella species."
+    },
+    {
+      "ranges": [
+        [
+          8694,
+          8827
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The aggressive nature of this patient's initial lesion also requires consideration of more aggressive organisms, such as clostridium."
+    },
+    {
+      "ranges": [
+        [
+          8978,
+          9184
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Despite the pathological diagnosis of necrotizing cellulitis, there was no crepitus on examination of the patient or gas on imaging, although this finding is not seen in all forms of necrotizing cellulitis."
+    },
+    {
+      "ranges": [
+        [
+          12270,
+          12462
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Pyoderma gangrenosum is a neutrophilic dermatosis that presents as a rapidly advancing painful ulcer, most often on the legs, with an irregular, violaceous or gunmetal gray, undermined border."
+    },
+    {
+      "ranges": [
+        [
+          12724,
+          12792
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the patient's clinical presentation is consistent with this variant."
+    },
+    {
+      "ranges": [
+        [
+          12796,
+          13074
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Up to 70% of cases of pyoderma gangrenosum are associated with an underlying condition, such as inflammatory bowel disease, rheumatoid arthritis, and hematologic diseases (e.g., acute myeloid leukemia or myelodysplastic syndromes, hairy-cell leukemia, or monoclonal gammopathy)."
+    },
+    {
+      "ranges": [
+        [
+          11687,
+          11988
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "I most often see pathergy associated with these conditions as an incidental finding on physical examination, manifesting as lesions arising at sites of intravenous catheter placement, venous sticks, skin biopsies, and other routine procedures that result in piercing of the dermis, as in this patient."
+    },
+    {
+      "ranges": [
+        [
+          11989,
+          12237
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The finding of pathergy should halt any further débridement or surgery, since these procedures would extend the process and would most likely result in an ongoing cycle of expansion and further débridement that could have catastrophic consequences."
+    },
+    {
+      "ranges": [
+        [
+          17739,
+          17842
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This case would fit best with the bullous variant, and thus a hematologic neoplasm should be suspected."
+    },
+    {
+      "ranges": [
+        [
+          19337,
+          19406
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of a complex karyotype is an adverse prognostic feature."
+    },
+    {
+      "ranges": [
+        [
+          20886,
+          21057
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Treatment of pyoderma gangrenosum involves wound care, including avoidance of trauma and débridement; treatment of any underlying condition; and immunosuppressive therapy."
+    },
+    {
+      "ranges": [
+        [
+          21515,
+          21748
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In consultation with the clinical team, and because prednisone and cyclosporine had been effective before the attempt to taper them, we initially continued prednisone at 40 mg per day and increased the cyclosporine to 300 mg per day."
+    }
+  ]
+}

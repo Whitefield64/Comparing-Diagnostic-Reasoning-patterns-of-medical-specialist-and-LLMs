@@ -1,0 +1,205 @@
+{
+  "case": "1992 Case 16.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-01T19:51:25.121806+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5928,
+          6110
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The motor weakness restricted to the intrinsic muscles of the left hand could indicate compression of the C8 root or a problem at a higher level in the spinal cord or even the brain."
+    },
+    {
+      "ranges": [
+        [
+          6288,
+          6500
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "That combination of findings is against root involvement at the site of the lesion described on radiographic examination and favors spinal-cord compromise at the C4–5 level as an explanation of the hand weakness."
+    },
+    {
+      "ranges": [
+        [
+          6501,
+          6660
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Distal spread of the biceps reflex (that is, curling of the fingers during testing of the biceps tendon jerk) indicates pathologic exaggeration of this reflex."
+    },
+    {
+      "ranges": [
+        [
+          6661,
+          6743
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This sign also suggests a problem of the pyramidal system above the C6 root level."
+    },
+    {
+      "ranges": [
+        [
+          9847,
+          9990
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Fractures of vertebral bodies, subluxations of joints, or acute herniations of disk material can all impinge on nerve roots or the spinal cord."
+    },
+    {
+      "ranges": [
+        [
+          10216,
+          10334
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The radiographs show that this woman's problem could not have been the result of trauma to a previously healthy spine."
+    },
+    {
+      "ranges": [
+        [
+          10335,
+          10436
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Cervical-disk herniations are clearly demonstrated on MRI scanning and do not cause bone destruction."
+    },
+    {
+      "ranges": [
+        [
+          10437,
+          10581
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "A fracture with a hematoma can cause a mass compressing the cord, but one would expect to see bone fragments, which were not shown in this case."
+    },
+    {
+      "ranges": [
+        [
+          12121,
+          12320
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The demonstration of erosion of two adjacent vertebral-body end plates with narrowing of the intervening disk space has been considered the radiographic hallmark of infection for over half a century."
+    },
+    {
+      "ranges": [
+        [
+          10582,
+          10725
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although trauma cannot be the whole answer, it is very likely that the mechanical blow to the neck aggravated a preexisting pathologic process."
+    },
+    {
+      "ranges": [
+        [
+          23840,
+          23938
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The weight of the evidence favors pyogenic infection, and the most likely organism is  *S. aureus*"
+    },
+    {
+      "ranges": [
+        [
+          9468,
+          9699
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Several pathological categories, including traumatic, metabolic, congenital, neoplastic, and inflammatory lesions, deserve mention in the differential diagnosis of spinal-cord dysfunction associated with cervical vertebral lesions."
+    },
+    {
+      "ranges": [
+        [
+          11828,
+          11928
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most common lesions of the spine associated with neurologic compromise are tumors and infection."
+    },
+    {
+      "ranges": [
+        [
+          11929,
+          12117
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Two major clues help to distinguish them in the case under discussion — the pattern of involvement of the disk space and adjoining vertebral end plates and the elevated sedimentation rate."
+    },
+    {
+      "ranges": [
+        [
+          22609,
+          22740
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Lifeso, reporting a four-year experience in Riyadh, Saudi Arabia, evaluated approximately 250 cases of suspected spinal infections."
+    },
+    {
+      "ranges": [
+        [
+          21755,
+          21863
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I have no way of being sure that the paronychia had any causal relation to the presumptive spinal infection."
+    },
+    {
+      "ranges": [
+        [
+          24174,
+          24397
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Rapid cervical flexion perhaps resulted in protrusion of an infected mass against the anterior surface of the spinal cord, with spread of purulent material around the posterior longitudinal ligament into the epidural space."
+    },
+    {
+      "ranges": [
+        [
+          26314,
+          26487
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of both bone destruction and bone formation suggests that the infection involved this site for two to six weeks and did not begin several days before admission."
+    }
+  ]
+}

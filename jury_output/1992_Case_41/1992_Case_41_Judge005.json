@@ -1,0 +1,172 @@
+{
+  "case": "1992 Case 41.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-01T09:52:16.314327+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4641,
+          4733
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Could this genitourinary tract abnormality have been related to the child's cardiac problem?"
+    },
+    {
+      "ranges": [
+        [
+          4734,
+          4937
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Two possibilities come to mind. Either the congenital urinary tract abnormality was associated with a congenital cardiac defect or the urinary anomaly or its treatment caused an abnormality in the heart."
+    },
+    {
+      "ranges": [
+        [
+          10743,
+          10904
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "If I assume that this child's murmur was organic, he was one of the 2 to 3 percent of children of mothers with a patent ductus arteriosus who have heart disease."
+    },
+    {
+      "ranges": [
+        [
+          11090,
+          11356
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "unless children with a small patent ductus arteriosus have pulmonary-artery hypertension, they have a characteristic machinery murmur, best heard under the left clavicle with radiation into the left axilla and back, unlike the ejection murmur described in this case."
+    },
+    {
+      "ranges": [
+        [
+          4938,
+          5062
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The association between congenital malformations in the cardiovascular system and various other malformations is well known."
+    },
+    {
+      "ranges": [
+        [
+          6593,
+          6697
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The second possibility is that a complication of this boy's disease or its treatment affected the heart."
+    },
+    {
+      "ranges": [
+        [
+          15715,
+          16046
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The first question is whether the child was cyanotic. In this case there is no evidence of cyanosis in the history or physical examination, and the normal second heart sound, the relatively normal x-ray films of the chest and electrocardiogram, and the absence of polycythemia exclude virtually all forms of cyanotic heart disease."
+    },
+    {
+      "ranges": [
+        [
+          18403,
+          18470
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The obstructive lesion could have been on either side of the heart."
+    },
+    {
+      "ranges": [
+        [
+          19913,
+          20081
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Valvar aortic stenosis cannot be excluded, but a constant early systolic ejection click is almost always present in children when the obstruction is at the valve level."
+    },
+    {
+      "ranges": [
+        [
+          20810,
+          21006
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "he absence of a family history and of deep septal Q waves in Leads V    and V    and left ventricular hypertrophy and strain on the electrocardiogram reduces the probability of a hypertrophic myop"
+    },
+    {
+      "ranges": [
+        [
+          20310,
+          20536
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Several types of subaortic obstruction have been described. The most common in children is a discrete membranous diaphragm or fibrous ring encircling the left-ventricular-outflow tract a few millimeters below the aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          21172,
+          21345
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The findings in this case are most consistent with discrete membranous subaortic stenosis, which accounts for approximately 10 percent of cases of childhood aortic stenosis."
+    },
+    {
+      "ranges": [
+        [
+          23950,
+          24193
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The echocardiographic view of the long axis of the left ventricle confirms Dr. Freed's diagnosis. Just beneath the aortic valve a discrete linear structure protrudes from the interventricular septum, representing a discrete subaortic membrane."
+    },
+    {
+      "ranges": [
+        [
+          26260,
+          26447
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Rosenquist et al. have postulated that an increased separation between the mitral and aortic valves results in abnormal flow patterns that might lead to a proliferation of fibrous tissue."
+    },
+    {
+      "ranges": [
+        [
+          27310,
+          27427
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In one series 76 percent of the patients had an increase in the gradient of 20 mm Hg or more over a five-year period."
+    }
+  ]
+}

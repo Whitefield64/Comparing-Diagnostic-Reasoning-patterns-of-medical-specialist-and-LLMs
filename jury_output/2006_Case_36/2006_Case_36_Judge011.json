@@ -1,0 +1,216 @@
+{
+  "case": "2006 Case 36.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-01T20:40:07.934595+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3902,
+          4091
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Although this patient had proteinuria, it was not severe enough to warrant a diagnosis of preeclampsia; in addition, the onset of preeclampsia would be unlikely this early in the pregnancy."
+    },
+    {
+      "ranges": [
+        [
+          4092,
+          4164
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Gestational hypertension would also be unlikely this early in pregnancy."
+    },
+    {
+      "ranges": [
+        [
+          4165,
+          4232
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Thus, I was left with a probable diagnosis of chronic hypertension."
+    },
+    {
+      "ranges": [
+        [
+          4835,
+          4930
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of hypokalemia increased my suspicion that the problem was secondary hypertension."
+    },
+    {
+      "ranges": [
+        [
+          10237,
+          10301
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hypokalemia reflected the magnitude of this excess cortisol."
+    },
+    {
+      "ranges": [
+        [
+          12995,
+          13205
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if a marked amount of fat had been present, the signals from the fat and water protons in the mass would have been added on the in-phase sequences and would have been canceled out on the out-of-phase sequences."
+    },
+    {
+      "ranges": [
+        [
+          13206,
+          13303
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "More than 70% of adenomas are lipid-rich and show marked signal decrease on out-of-phase imaging."
+    },
+    {
+      "ranges": [
+        [
+          13353,
+          13430
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "More than 70% of pheochromocytomas show a bright signal on T    -weighted ima"
+    },
+    {
+      "ranges": [
+        [
+          13619,
+          13769
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although a pituitary tumor is the most common cause of Cushing's syndrome, an adrenal source accounts for 40 to 50% of the cases in pregnant patients."
+    },
+    {
+      "ranges": [
+        [
+          7716,
+          7844
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The single finding that appropriately prompted an evaluation of this patient for Cushing's syndrome was unexplained hypokalemia."
+    },
+    {
+      "ranges": [
+        [
+          12334,
+          12514
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": " the corticotropin level of 3 pg per milliliter (0.6 nmol per liter) in the setting of profound hypercortisolemia was strongly suggestive of an adrenal source of Cushing's syndrome"
+    },
+    {
+      "ranges": [
+        [
+          13770,
+          14046
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Two explanations for this difference have been proposed. First, corticotropin-dependent Cushing's syndrome is typically associated with elevated androgen production, which may cause infertility and thus makes women with this form of the disease less likely to become pregnant."
+    },
+    {
+      "ranges": [
+        [
+          14198,
+          14487
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Second, endocrine tumors may express aberrant receptors for peptide hormones, including human chorionic gonadotropin receptors, and the high circulatory levels of human chorionic gonadotropin during pregnancy may stimulate production of cortisol in a tumor with aberrant hormone receptors."
+    },
+    {
+      "ranges": [
+        [
+          14895,
+          15065
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The use of metyrapone during pregnancy has been reported in a few cases ; however, definitive surgery usually should not be delayed until the cortisol level is normalized"
+    },
+    {
+      "ranges": [
+        [
+          15904,
+          16094
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "prompt adrenalectomy, as compared with postponement of the surgery until after delivery, reduces the risk of maternal complications, fetal death, premature birth, and neonatal complications."
+    },
+    {
+      "ranges": [
+        [
+          5864,
+          6011
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The results of additional laboratory tests led me to suspect that she had Cushing's syndrome and to request a consultation with an endocrinologist."
+    },
+    {
+      "ranges": [
+        [
+          21449,
+          21642
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Although it is clinically important to distinguish functioning from nonfunctioning adrenal tumors, it is usually not possible to make this distinction on the basis of the pathological findings."
+    },
+    {
+      "ranges": [
+        [
+          23275,
+          23471
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Five months after delivery, a morning cortisol level was 7.2 μg per deciliter (198.6 nmol per liter). Two months later, the morning cortisol level was 22.2 μg per deciliter (612.5 nmol per liter)."
+    },
+    {
+      "ranges": [
+        [
+          23922,
+          24003
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of a tumor in the liver is diagnostic of adrenal cortical carcinoma."
+    }
+  ]
+}

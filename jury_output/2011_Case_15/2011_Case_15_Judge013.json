@@ -1,0 +1,282 @@
+{
+  "case": "2011 Case 15.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-01T20:45:48.601946+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4261,
+          4434
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "A large study involving South African adolescents suggests that 13.8% of 19-year-old women tested positive for HIV, and more than 30% tested positive by the age of 21 years."
+    },
+    {
+      "ranges": [
+        [
+          4158,
+          4260
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's geographic and social demographic profile makes HIV infection a major issue to consider."
+    },
+    {
+      "ranges": [
+        [
+          3959,
+          4157
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The first question a local clinician would ask may seem startling to an outsider in view of this patient's relatively young age: Does this 19-year-old woman already have established HIV-1 infection?"
+    },
+    {
+      "ranges": [
+        [
+          4758,
+          4853
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of a genital ulcer means that this patient has a high likelihood of HIV infection."
+    },
+    {
+      "ranges": [
+        [
+          7620,
+          7676
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Ruling out acute HIV infection should be the first step."
+    },
+    {
+      "ranges": [
+        [
+          7677,
+          7948
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Testing for HIV-1 RNA (viral load), testing for p24 antigen or HIV antibodies with the use of enzyme immunoassay (EIA), or simply repeating antibody testing over a period of a few weeks should establish a diagnosis of HIV infection and allow for further management steps."
+    },
+    {
+      "ranges": [
+        [
+          7054,
+          7236
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "This diagnosis would fit, since she is at high risk for newly acquired HIV infection, her antibody tests are negative, and she has a syndrome that is consistent with acute infection."
+    },
+    {
+      "ranges": [
+        [
+          5000,
+          5083
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The cause of the ulcer may be predicted on the basis of local epidemiologic trends."
+    },
+    {
+      "ranges": [
+        [
+          7471,
+          7619
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "An astute clinician could rapidly limit the differential diagnosis with the use of available tools, including a good history taking and examination."
+    },
+    {
+      "ranges": [
+        [
+          8524,
+          8728
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The diagnostic hallmarks of acute HIV infection are a negative test for HIV-1 antibodies on EIA, an indeterminate or negative test for HIV-1 on Western blot analysis, and detection of HIV-1 RNA in plasma."
+    },
+    {
+      "ranges": [
+        [
+          8928,
+          9147
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Early detection of acute HIV infection is important because patients in the early phase are highly infectious, owing to the extremely high viral loads in body fluids before the development of antiviral immune responses."
+    },
+    {
+      "ranges": [
+        [
+          14597,
+          14749
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "this patient illustrates a feature of the South African epidemic: paradoxically high rates of HIV transmission in young women with low coital frequency."
+    },
+    {
+      "ranges": [
+        [
+          13585,
+          13804
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "A distinctive characteristic of HIV epidemics in which heterosexual spread is dominant is the difference in infection rates with respect to age and sex, with women acquiring HIV infection at a much earlier age than men."
+    },
+    {
+      "ranges": [
+        [
+          13416,
+          13584
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although it may seem surprising that our patient, with a total of only four sexual encounters, has acute HIV infection, her situation is all too common in South Africa."
+    },
+    {
+      "ranges": [
+        [
+          14935,
+          15044
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "During the asymptomatic period of infection, the viral load is lowest and the risk of transmission is lowest."
+    },
+    {
+      "ranges": [
+        [
+          14815,
+          14934
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "the higher the partner's viral load, the greater the probability of male-to-female and female-to-male HIV transmission."
+    },
+    {
+      "ranges": [
+        [
+          15328,
+          15467
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This patient and possibly her partner had an ulcerative sexually transmitted infection that probably facilitated transmission of the virus."
+    },
+    {
+      "ranges": [
+        [
+          14750,
+          14934
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although we do not have information about the patient's partner, the higher the partner's viral load, the greater the probability of male-to-female and female-to-male HIV transmission."
+    },
+    {
+      "ranges": [
+        [
+          19673,
+          19830
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the symptoms do not resolve, a more focused investigation should be performed after it is determined whether the patient adhered to her treatment regimen."
+    },
+    {
+      "ranges": [
+        [
+          19831,
+          19952
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Treatment of the sexually transmitted disease may decrease the plasma viral load, which may slow the progression to AIDS."
+    },
+    {
+      "ranges": [
+        [
+          20031,
+          20140
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "It is clear that a large amount of immunologic damage is wrought during the first few months after infection."
+    },
+    {
+      "ranges": [
+        [
+          21812,
+          21882
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Retaining this teenage woman in care is going to be a major challenge."
+    },
+    {
+      "ranges": [
+        [
+          21883,
+          22058
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Before the patient leaves the clinic, the attending clinician should carefully explain to her the immediate and long-term care plan and the importance of consistent follow-up."
+    },
+    {
+      "ranges": [
+        [
+          22768,
+          22839
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the patient requires intensive counseling regarding safe-sex practices."
+    },
+    {
+      "ranges": [
+        [
+          23110,
+          23181
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Her partner should be encouraged to receive HIV counseling and testing."
+    }
+  ]
+}

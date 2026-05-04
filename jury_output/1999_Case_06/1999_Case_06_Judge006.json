@@ -1,0 +1,150 @@
+{
+  "case": "1999 Case 06.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-01T20:33:03.010184+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          22388,
+          22625
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The simultaneous development of interstitial keratitis and hearing loss, with improvement in the ocular symptoms but not the audiovestibular symptoms while the patient was receiving corticosteroid therapy, is typical of Cogan's syndrome."
+    },
+    {
+      "ranges": [
+        [
+          22626,
+          22740
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "These phenomena are not associated with Takayasu's arteritis or other causes of aortic insufficiency and aortitis."
+    },
+    {
+      "ranges": [
+        [
+          6967,
+          7096
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although syphilis can cause aortitis that results in aortic insufficiency and aortic aneurysm, syphilis is unlikely in this case."
+    },
+    {
+      "ranges": [
+        [
+          7097,
+          7157
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The results of serologic testing for syphilis were negative."
+    },
+    {
+      "ranges": [
+        [
+          7158,
+          7402
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Because false negative results occur in 10 to 20 percent of patients with late congenital syphilis, however, a negative result of a nontreponemal serologic screening test should be confirmed by the performance of a specific antitreponemal test."
+    },
+    {
+      "ranges": [
+        [
+          22102,
+          22387
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The best unifying diagnosis for the spectrum of symptoms and findings in this patient is Cogan's syndrome, with aortitis resulting in aortic valvular disease, aneurysm of the ascending thoracic and descending thoracoabdominal aorta, and arteritis of the renal artery, causing stenosis."
+    },
+    {
+      "ranges": [
+        [
+          13547,
+          13639
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The differential diagnosis of inflammatory diseases of large arteries is relatively limited."
+    },
+    {
+      "ranges": [
+        [
+          25500,
+          25687
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The aortic insufficiency in this patient was probably due to aortic-root dilatation or inflammation of the valve itself, each of which has been reported in patients with Cogan's syndrome."
+    },
+    {
+      "ranges": [
+        [
+          25247,
+          25499
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The features of this patient's aortitis, although not specific, have been described in cases of Cogan's syndrome with aortic involvement, including a panaortitis, which was probably modified by treatment, accompanied by prominent aneurysmal dilatation."
+    },
+    {
+      "ranges": [
+        [
+          15380,
+          15552
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The criteria for Takayasu's arteritis proposed by the American College of Rheumatology have a specificity exceeding 97 percent if three or more of the six criteria are met."
+    },
+    {
+      "ranges": [
+        [
+          15553,
+          15721
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Two criteria met in this case were the patient's age at the onset of symptoms (40 years or younger) and a bruit audible over the subclavian arteries or abdominal aorta."
+    },
+    {
+      "ranges": [
+        [
+          24903,
+          25001
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Giant-cell aortitis is highly unlikely on the basis of the clinical history and the patient's age."
+    },
+    {
+      "ranges": [
+        [
+          25002,
+          25246
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Takayasu's arteritis may be associated with some of the features seen in this patient, including aortic insufficiency and aneurysmal dilatation, but large areas of necrosis of the aortic wall are not usually found in patients with that disease."
+    }
+  ]
+}

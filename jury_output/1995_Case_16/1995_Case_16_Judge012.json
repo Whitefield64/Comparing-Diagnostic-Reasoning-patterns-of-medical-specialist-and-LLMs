@@ -1,0 +1,150 @@
+{
+  "case": "1995 Case 16.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-01T20:26:44.826401+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          10099,
+          10307
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "One syndrome that deserves mention in this case is arrhythmogenic right ventricular dysplasia, which is primarily a right ventricular cardiomyopathy, frequently with little or no left ventricular involvement."
+    },
+    {
+      "ranges": [
+        [
+          10928,
+          10999
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Cardiomyopathies comprise dilated, hypertrophic, and restrictive types."
+    },
+    {
+      "ranges": [
+        [
+          15209,
+          15268
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The coxsackie group B viruses are most commonly implicated."
+    },
+    {
+      "ranges": [
+        [
+          15009,
+          15208
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Viral myocarditis is probably a common cause of dilated cardiomyopathy, which can result in decreased systolic function, chamber dilatation, and ventricular tachyarrhythmias, as seen in this patient."
+    },
+    {
+      "ranges": [
+        [
+          19839,
+          19978
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The diagnosis of sarcoidosis should be strongly considered in any young patient with conduction-system disease and ventricular tachycardia."
+    },
+    {
+      "ranges": [
+        [
+          19072,
+          19187
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "gh tuberculous myocarditis is a possibility in this case, several findings provide evidence against this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          19758,
+          19835
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "berculin. Generalized anergy is more consistent with lymphoma or sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          19066,
+          19187
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although tuberculous myocarditis is a possibility in this case, several findings provide evidence against this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          25175,
+          25268
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The pattern of lung involvement, although atypical, is consistent with pulmonary sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          25278,
+          25416
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the cardiomyopathy, conduction-system dysfunction, and sustained ventricular tachycardia are common manifestations of cardiac sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          20578,
+          20676
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Granulomatous involvement of the heart can cause either a restrictive or a dilated cardiomyopathy."
+    },
+    {
+      "ranges": [
+        [
+          22203,
+          22342
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The predominant right-upper-lobe reticulonodular infiltrate and lymphadenopathy in this patient were consistent with pulmonary sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          25035,
+          25118
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "I believe that this patient had systemic sarcoidosis involving the heart and lungs."
+    }
+  ]
+}

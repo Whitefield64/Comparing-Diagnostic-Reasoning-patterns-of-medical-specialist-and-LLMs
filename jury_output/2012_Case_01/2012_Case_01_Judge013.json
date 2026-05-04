@@ -1,0 +1,128 @@
+{
+  "case": "2012 Case 01.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-01T20:12:31.442330+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7340,
+          7726
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis that I would consider for these ulcerative, bullous, necrotic hand lesions includes infection (bacterial, mycobacterial, protozoal, fungal, or viral); a vasculitis (e.g., vasculitis associated with antineutrophil cytoplasmic antibodies [ANCA] or vasculitis of medium-size vessels); and neutrophilic dermatoses (e.g., pyoderma gangrenosum or Sweet's syndrome)."
+    },
+    {
+      "ranges": [
+        [
+          8694,
+          8827
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The aggressive nature of this patient's initial lesion also requires consideration of more aggressive organisms, such as clostridium."
+    },
+    {
+      "ranges": [
+        [
+          8828,
+          8977
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Many cases of necrotizing cellulitis result from local trauma and are more often seen in patients with a history of diabetes, which this patient has."
+    },
+    {
+      "ranges": [
+        [
+          9185,
+          9486
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "He had no other signs of infection (e.g., fever or leukocytosis), he had no response to broad-spectrum antibiotics, cultures of the lesion were sterile, and his lesions worsened with débridement; in addition, lesions developed in nontraumatized areas in the absence of signs of systematized infection."
+    },
+    {
+      "ranges": [
+        [
+          12724,
+          12792
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the patient's clinical presentation is consistent with this variant."
+    },
+    {
+      "ranges": [
+        [
+          11989,
+          12237
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The finding of pathergy should halt any further débridement or surgery, since these procedures would extend the process and would most likely result in an ongoing cycle of expansion and further débridement that could have catastrophic consequences."
+    },
+    {
+      "ranges": [
+        [
+          11687,
+          11988
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "I most often see pathergy associated with these conditions as an incidental finding on physical examination, manifesting as lesions arising at sites of intravenous catheter placement, venous sticks, skin biopsies, and other routine procedures that result in piercing of the dermis, as in this patient."
+    },
+    {
+      "ranges": [
+        [
+          17739,
+          17842
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "This case would fit best with the bullous variant, and thus a hematologic neoplasm should be suspected."
+    },
+    {
+      "ranges": [
+        [
+          19337,
+          19406
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of a complex karyotype is an adverse prognostic feature."
+    },
+    {
+      "ranges": [
+        [
+          22282,
+          22369
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Infliximab is preferred over other TNF-  *α* blockers because of its rapid onset of act"
+    },
+    {
+      "ranges": [
+        [
+          20071,
+          20313
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The two neutrophilic dermatoses — pyoderma gangrenosum and Sweet's syndrome — are seen most often in association with myeloid neoplasms, including myelodysplastic syndromes (as in this case), myeloproliferative neoplasms, and acute leukemias."
+    }
+  ]
+}

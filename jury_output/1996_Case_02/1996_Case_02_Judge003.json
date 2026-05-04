@@ -1,0 +1,161 @@
+{
+  "case": "1996 Case 02.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-01T19:55:00.187081+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6826,
+          6918
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the loss of weight makes me consider the lesion a cancer until it has been proved otherwise."
+    },
+    {
+      "ranges": [
+        [
+          6397,
+          6575
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the lesion proved to be a locally advanced gastric lesion, the radiologic findings suggest that it could have been resected en bloc with the left lateral segment of the liver."
+    },
+    {
+      "ranges": [
+        [
+          7335,
+          7421
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "These characteristics are reminiscent of a hemangioma, perhaps a cavernous hemangioma."
+    },
+    {
+      "ranges": [
+        [
+          13624,
+          13783
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although metastases may be heterogeneous, they are not associated with rashes, except in the case of glucagonomas, which produce necrolytic migratory erythema."
+    },
+    {
+      "ranges": [
+        [
+          6579,
+          6691
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis of the hepatic lesion is long, because the imaging characteristics are not clear-cut."
+    },
+    {
+      "ranges": [
+        [
+          9865,
+          9994
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The appearance is also not consistent with a pyogenic abscess, which may be multicentric or have a large central cavitating area."
+    },
+    {
+      "ranges": [
+        [
+          18312,
+          18498
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The tumor cells were large, with pleomorphic nuclei, prominent nucleoli, and abundant granular eosinophilic cytoplasm, and were embedded in dense, paucicellular, lamellar fibrous tissue."
+    },
+    {
+      "ranges": [
+        [
+          19965,
+          20197
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The high resectability rate, the well-differentiated nature of the tumor, the young age of the patients, and the absence of both liver disease and systemic disease all contribute to a better prognosis for patients with these tumors."
+    },
+    {
+      "ranges": [
+        [
+          22563,
+          22773
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "e a clinical distinction is difficult to make preoperatively and resection is the treatment of choice for both focal nodular hyperplasia and fibrolamellar carcinoma, the diagnosis is often made microscopically."
+    },
+    {
+      "ranges": [
+        [
+          20198,
+          20326
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Unresectable tumors without evidence of metastasis have been treated by total hepatectomy with orthotopic liver transplantation."
+    },
+    {
+      "ranges": [
+        [
+          15860,
+          16004
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The description of the skin lesions suggests psoriasis, which is often confined to the hands and elbows and is characterized by scaling plaques."
+    },
+    {
+      "ranges": [
+        [
+          16210,
+          16417
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "One of the common treatments for psoriasis, however, was Fowler's solution, which is potassium arsenite, and long-term ingestion of arsenic may be associated with the development of hepatocellular carcinoma."
+    },
+    {
+      "ranges": [
+        [
+          19605,
+          19798
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Fibrolamellar carcinomas also occur at a younger age (mean, approximately 26 years) and account for 43 percent of hepatocellular carcinomas in patients under 35 years who do not have cirrhosis."
+    },
+    {
+      "ranges": [
+        [
+          19147,
+          19213
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The diagnosis was hepatocellular carcinoma, fibrolamellar variant."
+    }
+  ]
+}

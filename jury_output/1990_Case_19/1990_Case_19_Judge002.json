@@ -1,0 +1,370 @@
+{
+  "case": "1990 Case 19.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-01T09:47:30.734892+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          15980,
+          16126
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The symptoms of a hydatid cyst are caused principally by the pressure of the expanding cyst, which is estimated to grow between 1 and 5 cm a year."
+    },
+    {
+      "ranges": [
+        [
+          11210,
+          11426
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Primary hepatic tumors are rare, but unfortunately nearly two thirds of them are malignant, representing the third most common abdominal cancer encountered in pediatric practice, after Wilms' tumor and neuroblastoma."
+    },
+    {
+      "ranges": [
+        [
+          11427,
+          11689
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The radiographic appearance of the lesion in this case is not inconsistent with a malignant hepatic tumor, since hepatoblastomas may be partially cystic, hepatocellular carcinomas can have central necrosis, and septa may be seen within biliary rhabdomyosarcomas."
+    },
+    {
+      "ranges": [
+        [
+          20585,
+          20801
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the serologic test for amebae had been positive, further medical treatment would have been appropriate, since 72 hours are often required to observe a clinical response after the initiation of anti-amebic therapy."
+    },
+    {
+      "ranges": [
+        [
+          18078,
+          18126
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the finding of a large, tender liver is typical."
+    },
+    {
+      "ranges": [
+        [
+          17853,
+          17941
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Fever, right-upper-quadrant abdominal pain, and malaise are the most prominent symptoms."
+    },
+    {
+      "ranges": [
+        [
+          18523,
+          18600
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The radiographic features of this case are also suggestive of this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          17244,
+          17315
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most probable clinical diagnosis in this case is an amebic abscess."
+    },
+    {
+      "ranges": [
+        [
+          22835,
+          22897
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "This diagnosis seems to fit the overall clinical picture best."
+    },
+    {
+      "ranges": [
+        [
+          20802,
+          20859
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Needle aspiration of the abscess was certainly an option."
+    },
+    {
+      "ranges": [
+        [
+          12582,
+          12670
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
+    },
+    {
+      "ranges": [
+        [
+          18324,
+          18522
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Amebic liver abscesses develop most often within five months of exposure, and such an interval fits with this boy's trip to Turkey just four months earlier, when we are told that he drank tap water."
+    },
+    {
+      "ranges": [
+        [
+          12998,
+          13070
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Pyogenic liver abscesses must be included in the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          22729,
+          22834
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+    },
+    {
+      "ranges": [
+        [
+          19673,
+          19812
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the test is negative it should be repeated, and a specimen should be sent to the Centers for Disease Control for serologic confirmation."
+    },
+    {
+      "ranges": [
+        [
+          14342,
+          14447
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The history of Mediterranean travel forces me to consider strongly a parasitic cause of the hepatic mass."
+    },
+    {
+      "ranges": [
+        [
+          18757,
+          18898
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The demonstration of a nonhomogeneous mass with septa by ultrasound and CT scans is nonspecific but certainly consistent with this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          12033,
+          12228
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Benign hepatic lesions, such as choledochal cysts, cystadenomas, hamartomas, focal nodular hyperplasia, and congenital hepatic cysts, would be less likely to produce this radiographic appearance."
+    },
+    {
+      "ranges": [
+        [
+          21183,
+          21240
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Preoperative preparation with metronidazole is essential."
+    },
+    {
+      "ranges": [
+        [
+          21595,
+          21668
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The surgical procedure must be performed carefully in cases of this type."
+    },
+    {
+      "ranges": [
+        [
+          19140,
+          19317
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Caval compression by an amebic abscess has been described, even to the point of producing intraluminal thrombosis in the superior vena cava with extension into the right atrium."
+    },
+    {
+      "ranges": [
+        [
+          13785,
+          13911
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "So-0 called cryptogenic hepatic abscesses can arise in otherwise normal children, presumably as a result of systemic bacteremi"
+    },
+    {
+      "ranges": [
+        [
+          13914,
+          14206
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although  *Staphylococcus aureus* has been the most common pathogen historically, increasingly often we are seeing anaerobic infection, infection due to various intestinal pathogens such as  *Escherichia coli* , yersinia, and salmonella, and even tuberculosis as the cause of hepatic abscesse"
+    },
+    {
+      "ranges": [
+        [
+          21241,
+          21415
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Patients with amebic abscesses of the liver who receive anti-amebic therapy preoperatively survive, whereas most of those who do not receive such preoperative therapy do not."
+    },
+    {
+      "ranges": [
+        [
+          14448,
+          14502
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Hydatid disease is common in the Mediterranean region."
+    },
+    {
+      "ranges": [
+        [
+          18899,
+          19133
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The finding on the MRI scan of a sharply circumscribed, heterogeneous mass of low intensity on the T    –weighted images but of increased intensity on the T    –weighted images has been reported in MRI scans of known amebic liver absc"
+    },
+    {
+      "ranges": [
+        [
+          12422,
+          12581
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A vascular malformation or a highly vascular hepatic tumor is improbable in this case in view of the lack of enhancement on the studies with contrast material."
+    },
+    {
+      "ranges": [
+        [
+          19321,
+          19471
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The major problem with this diagnosis is the negative enzyme-linked immunosorbent assay (ELISA) for anti-amebic antibodies on the fourth hospital day."
+    },
+    {
+      "ranges": [
+        [
+          20258,
+          20522
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "equential serologic testing and surgical intervention to obtain material for microscopical examination, Gram stain, and bacteriologic culture are warranted in patients with a hepatic abscess and nonreactive serologic tests for antibodies to  *Echin. histolytica* ."
+    },
+    {
+      "ranges": [
+        [
+          10013,
+          10188
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This patient's acute presentation with fever, chills, an elevated white-cell count of 15,500, and a sedimentation rate of 81 mm per hour certainly suggests an infectious cause"
+    },
+    {
+      "ranges": [
+        [
+          17316,
+          17446
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Amebiasis is estimated to occur in nearly 10 percent of the world's population and is certainly present in the Mediterranean area."
+    },
+    {
+      "ranges": [
+        [
+          11690,
+          11735
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "None of these diagnoses, however, are likely."
+    },
+    {
+      "ranges": [
+        [
+          22898,
+          23133
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
+    }
+  ]
+}

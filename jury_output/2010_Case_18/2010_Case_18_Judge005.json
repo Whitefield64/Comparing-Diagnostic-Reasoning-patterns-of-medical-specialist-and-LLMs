@@ -1,0 +1,194 @@
+{
+  "case": "2010 Case 18.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-01T20:09:41.669914+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7607,
+          7848
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "HIV infection was first diagnosed when this child was admitted to the hospital with pneumonia at 5 years 10 months of age. Although antiretroviral therapy was initiated, there are several possible reasons why it was only partially effective."
+    },
+    {
+      "ranges": [
+        [
+          7849,
+          8088
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Lack of adherence to the therapeutic regimen, the specific choice and dosing of antiretroviral drugs, and possible interactions with the antimycobacterial agents may all have contributed to the lack of therapeutic response in this patient."
+    },
+    {
+      "ranges": [
+        [
+          8231,
+          8320
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Poor adherence to antiretroviral therapy is the most common reason for virologic failure."
+    },
+    {
+      "ranges": [
+        [
+          9010,
+          9254
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "A combination of three drugs from these classes, usually consisting of two NRTIs combined with either a protease inhibitor or an NNRTI, provides optimal suppression of viral replication and lowers the risk of the acquisition of drug resistance."
+    },
+    {
+      "ranges": [
+        [
+          9258,
+          9383
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The antiretroviral regimen begun in this child was different from regimens recommended in South African treatment guidelines."
+    },
+    {
+      "ranges": [
+        [
+          9718,
+          10005
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Ritonavir alone, as compared with a boosted regimen of protease inhibitors (in which a low dose of ritonavir is added to another protease inhibitor, such as lopinavir, boosting its activity), has been shown to be associated with the development of major mutations in protease inhibitors."
+    },
+    {
+      "ranges": [
+        [
+          10006,
+          10119
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The risk of mutations depends on both the duration of exposure to the drug and the duration of treatment failure."
+    },
+    {
+      "ranges": [
+        [
+          11591,
+          11844
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This event may have been due to the immune reconstitution inflammatory syndrome (IRIS), which is associated with tuberculosis, since the abscess occurred shortly after antiretroviral therapy was started and responded to continued tuberculosis treatment."
+    },
+    {
+      "ranges": [
+        [
+          12266,
+          12425
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "When this patient did not achieve full virologic suppression after initiation of antiretroviral therapy, it became clear that the regimen needed to be changed."
+    },
+    {
+      "ranges": [
+        [
+          16660,
+          16916
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although we know of no randomized, controlled trials to guide decisions about the optimal viral load at which to switch to second-line therapy, there are some principles of switching antiretroviral therapy after treatment failure that may provide guidance."
+    },
+    {
+      "ranges": [
+        [
+          17499,
+          17568
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "In this patient, multiple protease-inhibitor mutations were detected."
+    },
+    {
+      "ranges": [
+        [
+          17569,
+          17686
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Since the child had not previously received an NNRTI, a simple switch to two NRTIs and an NNRTI might be appropriate."
+    },
+    {
+      "ranges": [
+        [
+          17978,
+          18190
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Darunavir is a nonpeptide protease inhibitor that binds rapidly to protease at a unique site and dissociates slowly, resulting in a binding strength that is two times as high as that of other protease inhibitors."
+    },
+    {
+      "ranges": [
+        [
+          18999,
+          19101
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The mutations seen in this patient's virus confer intermediate resistance to darunavir and tipranavir."
+    },
+    {
+      "ranges": [
+        [
+          20454,
+          20582
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "In situations in which resources are limited, however, ritonavir-boosted darunavir might not be readily available or affordable."
+    },
+    {
+      "ranges": [
+        [
+          22658,
+          22704
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "It is important to work with the family first."
+    },
+    {
+      "ranges": [
+        [
+          23350,
+          23438
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Peer support groups are often helpful, particularly with older children and adolescents."
+    }
+  ]
+}

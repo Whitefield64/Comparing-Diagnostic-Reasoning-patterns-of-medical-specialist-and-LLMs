@@ -1,0 +1,139 @@
+{
+  "case": "1995 Case 16.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-01T19:53:42.564695+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          10099,
+          10307
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "One syndrome that deserves mention in this case is arrhythmogenic right ventricular dysplasia, which is primarily a right ventricular cardiomyopathy, frequently with little or no left ventricular involvement."
+    },
+    {
+      "ranges": [
+        [
+          10308,
+          10437
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Sustained monomorphic ventricular tachycardia is a frequent finding in this uncommon disorder and can be refractory to treatment."
+    },
+    {
+      "ranges": [
+        [
+          10662,
+          10815
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Although this patient seems to have had disproportionate right ventricular involvement, other clinical findings would not be explained by this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10819,
+          10927
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In this case ventricular tachycardia was occurring in the setting of a global cardiomyopathy or myocarditis."
+    },
+    {
+      "ranges": [
+        [
+          15209,
+          15268
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The coxsackie group B viruses are most commonly implicated."
+    },
+    {
+      "ranges": [
+        [
+          25175,
+          25268
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The pattern of lung involvement, although atypical, is consistent with pulmonary sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          22346,
+          22491
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although 20 to 25 percent of patients with sarcoidosis have cardiac involvement at autopsy, only 5 percent of them have clinically overt disease."
+    },
+    {
+      "ranges": [
+        [
+          11875,
+          11990
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of thoracic lymphadenopathy in this young nonsmoker, the possibility of lymphoma should be considered."
+    },
+    {
+      "ranges": [
+        [
+          25035,
+          25118
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I believe that this patient had systemic sarcoidosis involving the heart and lungs."
+    },
+    {
+      "ranges": [
+        [
+          25119,
+          25174
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Generalized cutaneous anergy is typical of sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          25417,
+          25520
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The diagnostic procedure was probably a transbronchial biopsy at the time of bronchoscopic examination."
+    },
+    {
+      "ranges": [
+        [
+          25521,
+          25713
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Since previous myocardial biopsies had been nondiagnostic, a repeated myocardial biopsy, even in the light of the progressive left ventricular dysfunction, would not have been my first choice."
+    }
+  ]
+}

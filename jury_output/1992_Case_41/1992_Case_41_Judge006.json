@@ -1,0 +1,139 @@
+{
+  "case": "1992 Case 41.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-01T19:52:00.078283+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4734,
+          4937
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Two possibilities come to mind. Either the congenital urinary tract abnormality was associated with a congenital cardiac defect or the urinary anomaly or its treatment caused an abnormality in the heart."
+    },
+    {
+      "ranges": [
+        [
+          4187,
+          4408
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The obstruction leads to a high bladder pressure with progressive thickening and fibrosis of the bladder wall, which may result in distortion of the ureterovesical junction, causing further obstruction or reflux, or both."
+    },
+    {
+      "ranges": [
+        [
+          10743,
+          10904
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "If I assume that this child's murmur was organic, he was one of the 2 to 3 percent of children of mothers with a patent ductus arteriosus who have heart disease."
+    },
+    {
+      "ranges": [
+        [
+          6593,
+          6697
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The second possibility is that a complication of this boy's disease or its treatment affected the heart."
+    },
+    {
+      "ranges": [
+        [
+          6698,
+          6991
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Complications of posterior urethral valves usually involve the genitourinary tract. Urinary extravasation leading to a urinoma or ascites, vesicourethral reflux, hydronephrosis, deteriorating renal function, and azotemia are the most common complications, but they should not affect the heart."
+    },
+    {
+      "ranges": [
+        [
+          13857,
+          14083
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "ptom was a slight decrease in exercise tolerance, which might suggest limitation in the ability of the heart to deliver sufficient oxygen to the periphery, as seen with either a limited cardiac output or right-to-left shunting"
+    },
+    {
+      "ranges": [
+        [
+          15715,
+          16046
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The first question is whether the child was cyanotic. In this case there is no evidence of cyanosis in the history or physical examination, and the normal second heart sound, the relatively normal x-ray films of the chest and electrocardiogram, and the absence of polycythemia exclude virtually all forms of cyanotic heart disease."
+    },
+    {
+      "ranges": [
+        [
+          18783,
+          19085
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Valvar pulmonary stenosis would be distinctly unusual in the absence of a variable ejection click, and supravalvar pulmonary stenosis, usually at the takeoff of the right or left pulmonary artery, results in a murmur that is very loud in the axilla and along the distribution of the pulmonary arteries."
+    },
+    {
+      "ranges": [
+        [
+          21172,
+          21345
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The findings in this case are most consistent with discrete membranous subaortic stenosis, which accounts for approximately 10 percent of cases of childhood aortic stenosis."
+    },
+    {
+      "ranges": [
+        [
+          10905,
+          11080
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Usually the heart disease is concordant, so that there was about a 50 percent chance that his heart disease was the same as his mother's — that is, a patent ductus arteriosus."
+    },
+    {
+      "ranges": [
+        [
+          19323,
+          19396
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Obstruction on the left side can be above, at, or below the aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          17552,
+          17854
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "With atrial-level shunts, however, the increased cardiac impulse is over the right ventricle, the pulmonic component of the second heart sound is widely split without respiratory variation, and the right ventricular dilatation causes an rsR' pattern over the right chest leads on the electrocardiogram."
+    }
+  ]
+}

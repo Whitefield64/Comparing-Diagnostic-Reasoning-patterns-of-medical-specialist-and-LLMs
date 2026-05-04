@@ -1,0 +1,106 @@
+{
+  "case": "2016 Case 15.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-01T21:44:43.953614+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3956,
+          4030
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The olfactory hallucinations suggest a focal seizure arising in the uncus."
+    },
+    {
+      "ranges": [
+        [
+          4031,
+          4098
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The mass in the brain may be neoplastic or nonneoplastic in origin."
+    },
+    {
+      "ranges": [
+        [
+          9398,
+          9668
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Tumefactive, enhancing nonneoplastic brain lesions can be caused by inflammatory diseases, such as multiple sclerosis, acute disseminated encephalomyelitis, sarcoidosis, Behçet’s disease with neurologic involvement, tuberculosis, fungal infections, and syphilitic gumma."
+    },
+    {
+      "ranges": [
+        [
+          10355,
+          10507
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the presence of calcification and the prepontine lesion, which suggests meningeal involvement, a unifying diagnosis could be cerebral sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          10221,
+          10354
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the absence of the sicca syndrome. The patient is black, and sarcoidosis is more common among black persons than among white persons."
+    },
+    {
+      "ranges": [
+        [
+          9209,
+          9397
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": " tumor? Findings on imaging studies of the mass are nonspecific. The prepontine meningeal enhancing lesion is indicative of an inflammatory process and very much argues against a neoplasm."
+    },
+    {
+      "ranges": [
+        [
+          10804,
+          11002
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "This patient did not have the classic clinical clues to support a diagnosis of sarcoidosis, such as skin lesions, uveitis, arthritis, parotid- and lacrimal-gland enlargement, and the sicca syndrome."
+    },
+    {
+      "ranges": [
+        [
+          11208,
+          11405
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "high-resolution PET-CT of the chest, abdomen, and neck should be performed because it is sensitive in detecting extraneural lesions, most often in the mediastinal or hilar lymph nodes or the lungs."
+    },
+    {
+      "ranges": [
+        [
+          7983,
+          8188
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the results of magnetic resonance spectroscopy were mostly unhelpful, although they indicated that the nonspecific findings are not consistent with a diagnosis of neoplasia but do not entirely rule it out."
+    }
+  ]
+}

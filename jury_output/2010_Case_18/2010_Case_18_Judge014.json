@@ -1,0 +1,139 @@
+{
+  "case": "2010 Case 18.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-01T20:09:41.676004+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          13866,
+          14015
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Several factors are likely to have contributed: difficulties with adherence, an interaction between rifampin and ritonavir, and problems with dosing."
+    },
+    {
+      "ranges": [
+        [
+          16920,
+          17067
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "When it is determined that antiretroviral therapy has failed in a child, a full assessment of the possible reasons for failure should be conducted."
+    },
+    {
+      "ranges": [
+        [
+          18999,
+          19101
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The mutations seen in this patient's virus confer intermediate resistance to darunavir and tipranavir."
+    },
+    {
+      "ranges": [
+        [
+          17161,
+          17269
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A change in the drug regimen should be guided by the patient's drug history and genotyping (when available)."
+    },
+    {
+      "ranges": [
+        [
+          20875,
+          21004
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This case illustrates the problems that can occur when HIV infection in pediatric patients is not diagnosed and treated properly."
+    },
+    {
+      "ranges": [
+        [
+          21005,
+          21132
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Viral resistance in children may be prevented by early identification of HIV-infected children and the initiation of treatment."
+    },
+    {
+      "ranges": [
+        [
+          17270,
+          17336
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "It is preferable to switch to three or at least two active agents."
+    },
+    {
+      "ranges": [
+        [
+          22919,
+          23170
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Especially with young children, one may not need to use the term HIV but could instead tell them that they have an infection in their blood for which they need to take medication, and that if they get a cut, they need to clean up the blood themselves."
+    },
+    {
+      "ranges": [
+        [
+          15114,
+          15194
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Efficient viral suppression requires continuous exposure to optimal drug levels."
+    },
+    {
+      "ranges": [
+        [
+          21269,
+          21330
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Regular monitoring of treatment responses should be in place."
+    },
+    {
+      "ranges": [
+        [
+          18191,
+          18284
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Darunavir may be potent even against strains that are resistant to older protease inhibitors."
+    },
+    {
+      "ranges": [
+        [
+          17337,
+          17495
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Whether the failed regimen was an NNRTI-based regimen or a protease-inhibitor–based regimen will determine which active agents should make up the new regimen."
+    }
+  ]
+}

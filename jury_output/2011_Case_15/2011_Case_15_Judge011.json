@@ -1,0 +1,150 @@
+{
+  "case": "2011 Case 15.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-01T20:45:48.601566+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3629,
+          3830
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A travel history might add to an already long differential diagnosis, as would a history of medication use or visits to a traditional health worker, which commonly precede a visit to a nurse or doctor."
+    },
+    {
+      "ranges": [
+        [
+          4158,
+          4260
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's geographic and social demographic profile makes HIV infection a major issue to consider."
+    },
+    {
+      "ranges": [
+        [
+          4261,
+          4434
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "A large study involving South African adolescents suggests that 13.8% of 19-year-old women tested positive for HIV, and more than 30% tested positive by the age of 21 years."
+    },
+    {
+      "ranges": [
+        [
+          4758,
+          4853
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of a genital ulcer means that this patient has a high likelihood of HIV infection."
+    },
+    {
+      "ranges": [
+        [
+          4854,
+          4999
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "In some South African provinces, more than 75% of patients who have genital ulcers and attend a primary care clinic are found to be HIV-positive."
+    },
+    {
+      "ranges": [
+        [
+          9892,
+          10040
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If a specimen contains HIV antibodies, the antibodies will bind to the test antigens and trigger the detection system to generate a positive result."
+    },
+    {
+      "ranges": [
+        [
+          14750,
+          14934
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although we do not have information about the patient's partner, the higher the partner's viral load, the greater the probability of male-to-female and female-to-male HIV transmission."
+    },
+    {
+      "ranges": [
+        [
+          15328,
+          15467
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This patient and possibly her partner had an ulcerative sexually transmitted infection that probably facilitated transmission of the virus."
+    },
+    {
+      "ranges": [
+        [
+          18018,
+          18124
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "atient was aware of HIV and its sexual transmission but remained at risk for acquiring HIV infection. The "
+    },
+    {
+      "ranges": [
+        [
+          19831,
+          19952
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Treatment of the sexually transmitted disease may decrease the plasma viral load, which may slow the progression to AIDS."
+    },
+    {
+      "ranges": [
+        [
+          20141,
+          20316
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, antiretroviral treatment of acute HIV infection is controversial, with no firm evidence of clinical benefit, although at least one study suggests immunologic benefit."
+    },
+    {
+      "ranges": [
+        [
+          20822,
+          21035
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "World Health Organization guidelines take a more conservative approach, suggesting treatment at the threshold CD4+ T-cell count of 350 cells per cubic millimeter for asymptomatic patients unless they are pregnant."
+    },
+    {
+      "ranges": [
+        [
+          21628,
+          21811
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In South Africa's program, the average age at the initiation of antiretroviral treatment in women is the early 30s, and usually the CD4+ count is below 100 cells per cubic millimeter."
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "case": "1999 Case 10.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-01T19:58:20.450198+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8363,
+          8442
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The first consideration in this case is disseminated intravascular coagulation."
+    },
+    {
+      "ranges": [
+        [
+          8443,
+          8589
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Thrombotic thrombocytopenic purpura comes to mind when purpura and anemia coexist, but the absence of thrombocytopenia rules out that possibility."
+    },
+    {
+      "ranges": [
+        [
+          8590,
+          8919
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Hepatic failure can mimic disseminated intravascular coagulation, with prolongation of clotting times and an elevated level of fibrin-split products, but in this case most of the liver-function tests were normal, and the coagulation abnormality consisted of excessive clotting, not prolongation of coagulation times and bleeding."
+    },
+    {
+      "ranges": [
+        [
+          8920,
+          9110
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the adequate fibrinogen levels in this case, I would view the disseminated intravascular coagulation as chronic and would search for underlying cancer as one of many possible triggers."
+    },
+    {
+      "ranges": [
+        [
+          9220,
+          9345
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Palpable purpura almost always points to a systemic vasculitis, which could account for almost all the findings in this case."
+    },
+    {
+      "ranges": [
+        [
+          9501,
+          9698
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A positive test for c-ANCA, which is directed against a neutrophil-granule serine protease and is manifested by cytoplasmic immunofluorescence, is 85 percent sensitive for Wegener's granulomatosis."
+    },
+    {
+      "ranges": [
+        [
+          9699,
+          9923
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A positive test for p-ANCA, which is directed against myeloperoxidase and is characterized by perinuclear staining, is associated with microscopical polyarteritis nodosa, polyarteritis nodosa, and the Churg–Strauss syndrome."
+    },
+    {
+      "ranges": [
+        [
+          9924,
+          10172
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "A positive test for either c-ANCA or p-ANCA indicates a 96 percent probability that a patient has some form of vasculitis, whereas negative results of both tests indicate more than a 90 percent probability that the patient does not have vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          10610,
+          10760
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Thrombosis can mimic vasculitis and vice versa, however, and both processes can occur in the same disease, as they do in systemic lupus erythematosus."
+    },
+    {
+      "ranges": [
+        [
+          11823,
+          11933
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The Churg–Strauss syndrome is a systemic vasculitis that occurs in patients with asthma and allergic rhinitis."
+    },
+    {
+      "ranges": [
+        [
+          12130,
+          12209
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cryoglobulinemia may be associated with vasculitis, purpura, and renal disease."
+    },
+    {
+      "ranges": [
+        [
+          12524,
+          12645
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Wegener's granulomatosis is characterized by the formation of necrotizing granulomas in the vicinity of affected vessels."
+    },
+    {
+      "ranges": [
+        [
+          16347,
+          16445
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "A history of a drug reaction and characteristic features on biopsy could establish this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          20853,
+          21124
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "he most likely diagnosis is gastric cancer complicating  *H. pylori* infection and causing abdominal pain and blood loss, with disseminated intravascular coagulation resulting in cortical infarcts and peritoneal carcinomatosis resulting in bilateral ureteral obstruction."
+    },
+    {
+      "ranges": [
+        [
+          18241,
+          18397
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Since fever was never part of the clinical picture, however, I shall not devote more time to the extensive differential diagnosis of bacterial endocarditis."
+    },
+    {
+      "ranges": [
+        [
+          18645,
+          18862
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Vasculitis and disseminated intravascular coagulation are known complications of lymphomas, which are often associated with pneumonia, and retroperitoneal lymph nodes involved by lymphoma frequently block the ureters."
+    },
+    {
+      "ranges": [
+        [
+          19519,
+          19699
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The slight thickening of the gastric wall is an important clue, since  *H. pylori* infection can lead to gastric lymphoma, which could easily be mistaken for gastritis on endoscopy"
+    },
+    {
+      "ranges": [
+        [
+          20115,
+          20299
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Gastric cancer may result in nonbacterial thrombotic endocarditis or disseminated intravascular coagulation, either of which would account for the patient's cerebral cortical infarcts."
+    },
+    {
+      "ranges": [
+        [
+          20300,
+          20408
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Chronic disseminated intravascular coagulation could have resulted in lung infarcts and respiratory failure."
+    },
+    {
+      "ranges": [
+        [
+          24245,
+          24394
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Diffuse alveolar damage, characterized by hyaline membranes lining alveolar ducts, was evident, along with acute thrombotic occlusion of capillaries."
+    },
+    {
+      "ranges": [
+        [
+          24636,
+          24864
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the constellation of morphologic and laboratory findings reflects the presence of intravascular coagulation in the skin, lungs, and brain as a result of the release of clotting factors from widely disseminated gastric carcinoma."
+    }
+  ]
+}

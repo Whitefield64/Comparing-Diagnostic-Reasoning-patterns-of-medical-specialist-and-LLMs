@@ -1,0 +1,139 @@
+{
+  "case": "1991 Case 43.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-01T19:40:40.597766+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17684,
+          18132
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Did this patient have a community-acquired pneumonia? The increased frequency of community-acquired pneumonias is well recognized in patients infected with HIV. The most common pathogens are  *Streptococcus pneumoniae* and  *Haemophilus influenzae* , but other pathogens, such as  *Mycoplasma pneumoniae, Staphylococcus aureus, Branhamella catarrhalis, Rhodococcus equi* , and group B streptococcus, have also been identified with increased frequen"
+    },
+    {
+      "ranges": [
+        [
+          19184,
+          19653
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": " *Pneumocystis carinii* is the most common single pathogen causing pneumonia in patients with AIDS, occurring in 80 percent of such patients during the course of their illness, I have to include it in the differential diagnosis of this patient's disease. The nonproductive cough, dyspnea, and fever, the widened arterialalveolar gradient, and the radiographic pattern of diffuse interstitial pulmonary infiltrates are all consistent with pneumonia caused by  *P. carini"
+    },
+    {
+      "ranges": [
+        [
+          19657,
+          20214
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Several features of the case, however, are inconsistent with this diagnosis. Crackles and wheezing are rarely heard on examination of the chest in patients with pneumocystis pneumonia. Of more importance, the failure to recover the organisms by either induction of sputum or bronchoalveolar lavage and transbronchial biopsy, the progression of the interstitial infiltrates over a period of several months despite prophylaxis with aerosolized pentamidine, and finally the appearance of hilar lymphadenopathy are against a diagnosis of pneumocystis pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          20215,
+          20657
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Both transbronchial biopsy and bronchoalveolar lavage have a diagnostic sensitivity of at least 85 percent when used separately and 100 percent when used together. The yield of these techniques, however, may be lower in patients receiving aerosolized pentamidine. The diagnostic yield of an induced specimen of sputum varies among centers according to the technique used but has been reported to be above 50 percent and as high as 92 percent."
+    },
+    {
+      "ranges": [
+        [
+          32646,
+          32868
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I shall now discuss fungal infections that are frequently encountered in patients with AIDS and that usually present with diffuse interstitial infiltrates and occasionally present with hilar or mediastinal lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          32869,
+          33155
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although disseminated candidiasis was found at autopsy in 12 of 56 patients, 10 of whom had pulmonary involvement, it is generally agreed that pulmonary candidiasis is a late or terminal manifestation of HIV infection and often coexists with other AIDS-related opportunistic infections."
+    },
+    {
+      "ranges": [
+        [
+          26530,
+          26803
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of skin lesions and of the typical cherry-red, raised lesions in the tracheobronchial tree, however, would be unusual for a case of Kaposi's sarcoma. In one autopsy series of cases of pulmonary Kaposi's sarcoma, all 11 patients had evidence of skin involvement."
+    },
+    {
+      "ranges": [
+        [
+          30127,
+          30390
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Since tuberculosis in patients with AIDS is often disseminated at the time of presentation, acid-fast smears and cultures should be obtained from all specimens available, including urine, sputum, blood, bronchoalveolar-lavage, and transbronchial-biopsy specimens."
+    },
+    {
+      "ranges": [
+        [
+          38042,
+          38285
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In a series of 48 patients with AIDS the diagnosis of progressive disseminated histoplasmosis was established by bone marrow biopsy or culture in 69 percent of them. Lung biopsy or culture alone was positive in only 25 percent of the patients."
+    },
+    {
+      "ranges": [
+        [
+          39248,
+          39548
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Before concluding, however, I must account for some of the clinical and laboratory features noted in the case history. The patient was found to have a normochromic, normocytic anemia with low levels of serum iron and total iron-binding capacity, features consistent with an anemia of chronic disease."
+    },
+    {
+      "ranges": [
+        [
+          31665,
+          32056
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "A miliary pattern, however, is very unusual. The use of specimens from several sources, including the lung, gastrointestinal tract, urine, bone marrow, and blood, can lead to a safe and rapid diagnosis. Special blood-culture techniques for isolating mycobacteria, such as the Bactec system or Dupont Isolator system, are the most reliable methods, with a sensitivity approaching 100 percent."
+    },
+    {
+      "ranges": [
+        [
+          35188,
+          35403
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "I am finally led to consider infection with  *Histoplasma capsulatum* in this patient. Histoplasmosis has been reported in patients with AIDS from areas where this infection is endemic and from areas where it is not"
+    }
+  ]
+}

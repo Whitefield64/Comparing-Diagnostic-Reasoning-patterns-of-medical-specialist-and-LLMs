@@ -1,0 +1,161 @@
+{
+  "case": "2005 Case 22.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-01T21:15:55.790691+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8080,
+          8409
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Perturbations of cognition and level of consciousness are often seen in patients with meningitis. However, altered mental status that precedes the onset of meningeal findings and worsens in the setting of relatively mild, stable abnormalities of the cerebrospinal fluid suggests that encephalitis is actually the primary process."
+    },
+    {
+      "ranges": [
+        [
+          8413,
+          8604
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The profound peripheral weakness that was observed in this patient cannot be explained on the basis of meningoencephalitis alone and suggests involvement of additional levels of the neuraxis."
+    },
+    {
+      "ranges": [
+        [
+          8793,
+          8905
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "A lesion in the cervical spinal cord would probably be accompanied by sensory changes and sphincter dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          9272,
+          9442
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely site of neuropathology that explains this degree of weakness is diffuse involvement of anterior horn cells, the ventral roots of the spinal cord, or both."
+    },
+    {
+      "ranges": [
+        [
+          13323,
+          13584
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Herpes simplex virus 1 (HSV-1) is probably not the cause of this man's encephalitis because there were no temporal-lobe abnormalities on imaging studies, and the negative results of the polymerase-chain-reaction (PCR) assay for HSV-1 in the cerebrospinal fluid."
+    },
+    {
+      "ranges": [
+        [
+          13652,
+          13802
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Varicella zoster may cause acute strokes or a chronic leukoencephalitis in immunocompromised patients, but neither pattern fits this clinical picture."
+    },
+    {
+      "ranges": [
+        [
+          13803,
+          13933
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Cytomegalovirus disease of the central nervous system is largely confined to patients with human immunodeficiency virus infection."
+    },
+    {
+      "ranges": [
+        [
+          13934,
+          14052
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Human herpesvirus 6 and human herpesvirus 7 most commonly cause encephalitis in recipients of transplanted stem cells."
+    },
+    {
+      "ranges": [
+        [
+          12939,
+          13144
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of a poliomyelitis-like syndrome with flaccid paralysis should focus attention on viruses, which are the only pathogens likely to cause this syndrome, with or without concomitant encephalitis."
+    },
+    {
+      "ranges": [
+        [
+          15801,
+          15943
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Lower motor-neuron weakness is reported in 20 to 60 percent of patients infected with West Nile virus that affects the central nervous system."
+    },
+    {
+      "ranges": [
+        [
+          15944,
+          16130
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The thalamic abnormality revealed on MRI of this patient adds weight to this diagnosis, because an increasing number of flaviviruses have been associated with basal-ganglion involvement."
+    },
+    {
+      "ranges": [
+        [
+          16475,
+          16670
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The best diagnostic test for West Nile encephalitis is generally a measurement of IgM antibody in the cerebrospinal fluid, which has a sensitivity of approximately 80 percent on the first sample."
+    },
+    {
+      "ranges": [
+        [
+          16671,
+          16730
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "PCR-based assays of cerebrospinal fluid are less sensitive."
+    },
+    {
+      "ranges": [
+        [
+          16731,
+          16889
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The IgM measurement in the cerebrospinal fluid was negative in this patient, but I believe it was a false negative result caused by his hypogammaglobulinemia."
+    }
+  ]
+}

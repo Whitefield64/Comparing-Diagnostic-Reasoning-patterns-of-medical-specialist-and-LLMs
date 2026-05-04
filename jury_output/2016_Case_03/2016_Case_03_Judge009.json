@@ -1,0 +1,194 @@
+{
+  "case": "2016 Case 03.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-01T20:18:21.159482+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7866,
+          7953
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "several notable features of her presentation initially influenced my working diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9653,
+          9827
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "constipation seemed to be the most likely cause of these symptoms, and this impression is strengthened by the improvement seen with the administration of polyethylene glycol."
+    },
+    {
+      "ranges": [
+        [
+          12597,
+          12814
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the suspicion for inflammatory bowel disease had been higher, screening for fecal occult blood and potentially for inflammatory markers (e.g., calprotectin or lactoferrin) might have been helpful in the evaluation."
+    },
+    {
+      "ranges": [
+        [
+          17150,
+          17413
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The likelihood that a migraine headache will occur in 1 year in a patient with abdominal migraine is only 24%, so the absence of headaches in this patient did not preclude this diagnosis, and she was appropriately referred to a neurologist for further evaluation."
+    },
+    {
+      "ranges": [
+        [
+          10586,
+          10748
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Gastroesophageal reflux disease is typically thought to cause heartburn, but vomiting and abdominal pain may be more prevalent among children with this condition."
+    },
+    {
+      "ranges": [
+        [
+          11706,
+          11950
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Current guidelines for screening pediatric patients for  *H. pylori* –associated disease focus on patients with recalcitrant iron-deficiency anemia, a family history of gastric cancer, or the presence of a peptic ulcer on endoscopic examination"
+    },
+    {
+      "ranges": [
+        [
+          16789,
+          16922
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Abdominal migraine is a cause of recurrent abdominal pain that is often periumbilical and can be associated with nausea and vomiting."
+    },
+    {
+      "ranges": [
+        [
+          18078,
+          18359
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The escalating frequency and severity of this patient’s episodic, acute-onset abdominal pain and vomiting raise the possibility of an intermittent process originating from a congenital disorder that might require surgical intervention, such as intestinal malrotation with volvulus."
+    },
+    {
+      "ranges": [
+        [
+          19675,
+          19927
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Some evidence suggests that mind–body therapies (e.g., biofeedback and relaxation techniques) are effective for the management of chronic abdominal pain and headache in children, and a trial of such therapies was the planned next step for this patient."
+    },
+    {
+      "ranges": [
+        [
+          19173,
+          19456
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Because most of the other diagnoses under consideration in this patient were ruled out through the evaluations performed by her primary care and gastroenterology physicians, it seemed likely that the diagnosis in this patient would be functional abdominal pain or abdominal migraine."
+    },
+    {
+      "ranges": [
+        [
+          20945,
+          21215
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The appearance of the mass was unlike that of a lymph-node mass, a primary intraabdominal cancer, or metastatic disease; rather, the findings were most consistent with a relatively large accessory spleen, without evidence of complications such as necrosis or infarction."
+    },
+    {
+      "ranges": [
+        [
+          22485,
+          22583
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Torsion of an accessory spleen is most commonly reported in children but can also occur in adults."
+    },
+    {
+      "ranges": [
+        [
+          22584,
+          22777
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Patients with torsion may present with acute abdominal pain, but intermittent or chronic pain has also been described, and infarction or rupture leading to acute abdominal hemorrhage can occur."
+    },
+    {
+      "ranges": [
+        [
+          22778,
+          22907
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Removal of the accessory spleen results in rapid resolution of the pain; however, more conservative management can be successful."
+    },
+    {
+      "ranges": [
+        [
+          23807,
+          23958
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The tissue was predominantly unremarkable red and white pulp with an overlying capsule; the appearance was consistent with that of an accessory spleen."
+    },
+    {
+      "ranges": [
+        [
+          23959,
+          24070
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "In one focus, there was a subcapsular, triangle-shaped area of fibrosis, hemorrhage, and increased vascularity."
+    },
+    {
+      "ranges": [
+        [
+          24456,
+          24602
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Taken together, these findings are consistent with a reparative process consisting of organizing hemorrhage and fibrosis, with neovascularization."
+    }
+  ]
+}

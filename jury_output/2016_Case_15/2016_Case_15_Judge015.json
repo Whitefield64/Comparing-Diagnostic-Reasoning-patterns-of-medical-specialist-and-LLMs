@@ -1,0 +1,29 @@
+{
+  "case": "2016 Case 15.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-01T21:46:02.601125+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3956,
+          4030
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The olfactory hallucinations suggest a focal seizure arising in the uncus."
+    },
+    {
+      "ranges": [
+        [
+          4031,
+          4098
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The mass in the brain may be neoplastic or nonneoplastic in origin."
+    }
+  ]
+}

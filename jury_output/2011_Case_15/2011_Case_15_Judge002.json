@@ -1,0 +1,227 @@
+{
+  "case": "2011 Case 15.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-01T20:45:48.599130+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3629,
+          3830
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "A travel history might add to an already long differential diagnosis, as would a history of medication use or visits to a traditional health worker, which commonly precede a visit to a nurse or doctor."
+    },
+    {
+      "ranges": [
+        [
+          3959,
+          4157
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The first question a local clinician would ask may seem startling to an outsider in view of this patient's relatively young age: Does this 19-year-old woman already have established HIV-1 infection?"
+    },
+    {
+      "ranges": [
+        [
+          4261,
+          4434
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "A large study involving South African adolescents suggests that 13.8% of 19-year-old women tested positive for HIV, and more than 30% tested positive by the age of 21 years."
+    },
+    {
+      "ranges": [
+        [
+          4758,
+          4853
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of a genital ulcer means that this patient has a high likelihood of HIV infection."
+    },
+    {
+      "ranges": [
+        [
+          9892,
+          10040
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If a specimen contains HIV antibodies, the antibodies will bind to the test antigens and trigger the detection system to generate a positive result."
+    },
+    {
+      "ranges": [
+        [
+          8524,
+          8728
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The diagnostic hallmarks of acute HIV infection are a negative test for HIV-1 antibodies on EIA, an indeterminate or negative test for HIV-1 on Western blot analysis, and detection of HIV-1 RNA in plasma."
+    },
+    {
+      "ranges": [
+        [
+          9151,
+          9257
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "This patient was tested for HIV-1 infection at the first clinic with the use of rapid tests on whole blood"
+    },
+    {
+      "ranges": [
+        [
+          4158,
+          4260
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's geographic and social demographic profile makes HIV infection a major issue to consider."
+    },
+    {
+      "ranges": [
+        [
+          12811,
+          12903
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": " She epitomizes the challenges facing young women in a country where HIV is endemic. With le"
+    },
+    {
+      "ranges": [
+        [
+          15962,
+          16101
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A systematic review of 37 randomized, controlled trials involving HIV prevention has revealed that only 5 showed successful HIV prevention."
+    },
+    {
+      "ranges": [
+        [
+          13416,
+          13584
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although it may seem surprising that our patient, with a total of only four sexual encounters, has acute HIV infection, her situation is all too common in South Africa."
+    },
+    {
+      "ranges": [
+        [
+          14174,
+          14323
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The difference in sexual coupling patterns, in terms of age and sex, and the high prevalence of HIV, continue to drive the southern African epidemic."
+    },
+    {
+      "ranges": [
+        [
+          13805,
+          14060
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Girls from 15 through 19 years of age have a higher rate of HIV infection, by a factor of 3 to 6, than their male counterparts, even though first sexual contact occurs at similar ages; nearly peak HIV prevalence in women is reached by the age of 20 years."
+    },
+    {
+      "ranges": [
+        [
+          16813,
+          17131
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The Centre for the AIDS Programme of Research in South Africa (CAPRISA) recently announced the results from the CAPRISA 004 study, a phase 2B, randomized, controlled trial of 1% tenofovir gel that showed a 39% reduction in HIV acquisition in women and a 51% reduction in the acquisition of herpes simplex virus type 2."
+    },
+    {
+      "ranges": [
+        [
+          17660,
+          17837
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Although interventions regarding prevention have consistently shown a significant effect, these efforts in care and treatment programs unfortunately remain small or nonexistent."
+    },
+    {
+      "ranges": [
+        [
+          18120,
+          18269
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The South African government recently launched a substantive campaign to promote knowledge of HIV status and a program for medical male circumcision."
+    },
+    {
+      "ranges": [
+        [
+          19831,
+          19952
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Treatment of the sexually transmitted disease may decrease the plasma viral load, which may slow the progression to AIDS."
+    },
+    {
+      "ranges": [
+        [
+          20150,
+          20316
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "antiretroviral treatment of acute HIV infection is controversial, with no firm evidence of clinical benefit, although at least one study suggests immunologic benefit."
+    },
+    {
+      "ranges": [
+        [
+          22768,
+          22839
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the patient requires intensive counseling regarding safe-sex practices."
+    },
+    {
+      "ranges": [
+        [
+          23498,
+          23688
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "At the time of her last visit, 1 year after the onset of her illness, her CD4+ T-cell count was 514 cells per cubic millimeter and her plasma HIV-1 RNA load was 30,644 copies per milliliter."
+    }
+  ]
+}

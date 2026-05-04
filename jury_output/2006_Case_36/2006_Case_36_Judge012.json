@@ -1,0 +1,249 @@
+{
+  "case": "2006 Case 36.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-01T20:05:46.082693+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4835,
+          4930
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of hypokalemia increased my suspicion that the problem was secondary hypertension."
+    },
+    {
+      "ranges": [
+        [
+          10237,
+          10301
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hypokalemia reflected the magnitude of this excess cortisol."
+    },
+    {
+      "ranges": [
+        [
+          3902,
+          4091
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although this patient had proteinuria, it was not severe enough to warrant a diagnosis of preeclampsia; in addition, the onset of preeclampsia would be unlikely this early in the pregnancy."
+    },
+    {
+      "ranges": [
+        [
+          4092,
+          4164
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Gestational hypertension would also be unlikely this early in pregnancy."
+    },
+    {
+      "ranges": [
+        [
+          10302,
+          10466
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The normal aldosterone level and elevated plasma renin activity were consistent with pregnancy, ruling out an aldosterone-secreting tumor as a cause of hypokalemia."
+    },
+    {
+      "ranges": [
+        [
+          3622,
+          3901
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The four hypertensive disorders that are recognized during pregnancy are preeclampsia or eclampsia, chronic hypertension (including “essential” hypertension and secondary hypertension), preeclampsia or eclampsia superimposed on chronic hypertension, and gestational hypertension."
+    },
+    {
+      "ranges": [
+        [
+          5375,
+          5544
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The broad definition of gestational diabetes includes the coincidental development of type 1 during pregnancy as well as the presence of preexisting, undiagnosed type 2."
+    },
+    {
+      "ranges": [
+        [
+          6396,
+          6736
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The diagnosis of Cushing's syndrome in pregnancy is confounded by the normal hormonal and biochemical changes of pregnancy; the management is confounded by the profoundly deleterious effect of hypercortisolemia on both mother and fetus, the side effects of medications, and the technical problems involved in undertaking surgical resection."
+    },
+    {
+      "ranges": [
+        [
+          12335,
+          12602
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the corticotropin level of 3 pg per milliliter (0.6 nmol per liter) in the setting of profound hypercortisolemia was strongly suggestive of an adrenal source of Cushing's syndrome, and it led us to order an adrenal MRI without the administration of contrast material."
+    },
+    {
+      "ranges": [
+        [
+          13770,
+          14046
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Two explanations for this difference have been proposed. First, corticotropin-dependent Cushing's syndrome is typically associated with elevated androgen production, which may cause infertility and thus makes women with this form of the disease less likely to become pregnant."
+    },
+    {
+      "ranges": [
+        [
+          15858,
+          16094
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In pregnant patients with Cushing's syndrome, prompt adrenalectomy, as compared with postponement of the surgery until after delivery, reduces the risk of maternal complications, fetal death, premature birth, and neonatal complications."
+    },
+    {
+      "ranges": [
+        [
+          6737,
+          6862
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The complications of pregnancy for women with Cushing's syndrome include hypertension, diabetes, preeclampsia, and infection."
+    },
+    {
+      "ranges": [
+        [
+          17057,
+          17361
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Because pregnant patients have hypercoagulability and pneumoperitoneum during laparoscopy increases lower-extremity venous stasis, we used compression boots during surgery and subcutaneous heparin postoperatively; before discharge we ordered noninvasive venous studies to rule out deep venous thrombosis."
+    },
+    {
+      "ranges": [
+        [
+          7716,
+          7844
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The single finding that appropriately prompted an evaluation of this patient for Cushing's syndrome was unexplained hypokalemia."
+    },
+    {
+      "ranges": [
+        [
+          5864,
+          6011
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The results of additional laboratory tests led me to suspect that she had Cushing's syndrome and to request a consultation with an endocrinologist."
+    },
+    {
+      "ranges": [
+        [
+          14508,
+          14608
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "rapidly escalating hypertension and insulin-requiring diabetes made surgical cure an immediate goal."
+    },
+    {
+      "ranges": [
+        [
+          14895,
+          15065
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The use of metyrapone during pregnancy has been reported in a few cases ; however, definitive surgery usually should not be delayed until the cortisol level is normalized"
+    },
+    {
+      "ranges": [
+        [
+          15067,
+          15260
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Other drugs more commonly used to treat hypercortisolemia, such as ketoconazole, cross the placenta, inhibit progesterone production, and may be both teratogenic and associated with fetal loss."
+    },
+    {
+      "ranges": [
+        [
+          23685,
+          24003
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Fine-needle aspiration and core biopsies of the liver performed with ultrasound guidance showed an adrenal cortical tumor involving liver parenchyma; although the histologic features that are diagnostic of cancer were still not present, the presence of a tumor in the liver is diagnostic of adrenal cortical carcinoma."
+    },
+    {
+      "ranges": [
+        [
+          24199,
+          24338
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "A recent gene expression profile study identified 91 genes, including the  *IGF2* gene, that are associated with adrenal cortical carcinoma"
+    },
+    {
+      "ranges": [
+        [
+          24869,
+          25069
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient was referred to an oncologist. While she was receiving high-dose mitotane, the tumor progression slowed; however, the high doses caused severe neurologic and gastrointestinal side effects."
+    },
+    {
+      "ranges": [
+        [
+          25070,
+          25311
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Because of progressive enlargement of hepatic metastases and elevated urinary cortisol levels, chemotherapy with low-dose mitotane, etoposide, doxorubicin, and cisplatin was recently begun, 9 months after the diagnosis of metastatic disease."
+    }
+  ]
+}

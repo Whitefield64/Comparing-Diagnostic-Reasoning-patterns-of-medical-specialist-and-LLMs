@@ -1,0 +1,95 @@
+{
+  "case": "2009 Case 32.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-01T21:26:48.352857+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          10331,
+          10598
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Pulmonary hypertension may complicate many parenchymal lung diseases, resulting secondarily from obliteration of alveolar capillary membranes or hypoxic vasoconstriction or directly from the biochemical mediators involved in the pathogenesis of fibrotic lung disease."
+    },
+    {
+      "ranges": [
+        [
+          10599,
+          10779
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "I consequently believe that there is one diagnosis in this case leading directly to the pulmonary fibrosis and ground-glass opacities and secondarily to the pulmonary hypertension."
+    },
+    {
+      "ranges": [
+        [
+          12005,
+          12173
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Architectural distortion, traction bronchiectasis, and honeycombing, as seen on the CT scans, are characteristic radiographic features of idiopathic pulmonary fibrosis."
+    },
+    {
+      "ranges": [
+        [
+          16285,
+          16419
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "This patient has several clinical features consistent with HPS: oculocutaneous albinism, a bleeding diathesis, and pulmonary fibrosis."
+    },
+    {
+      "ranges": [
+        [
+          17102,
+          17164
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The dysfunction of melanosomes causes oculocutaneous albinism."
+    },
+    {
+      "ranges": [
+        [
+          18902,
+          19013
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In one series, pulmonary symptoms developed in 61% of patients with HPS1, with onset at a mean age of 35 years."
+    },
+    {
+      "ranges": [
+        [
+          20709,
+          20860
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "I had the advantage of having the referring physician suspect this diagnosis when the patient was sent to see me for an evaluation for transplantation."
+    },
+    {
+      "ranges": [
+        [
+          19716,
+          19918
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The efficacy of the antifibrotic agent pirfenidone, which is being evaluated for idiopathic pulmonary fibrosis, has been investigated for pulmonary fibrosis in patients with HPS, with promising results."
+    }
+  ]
+}

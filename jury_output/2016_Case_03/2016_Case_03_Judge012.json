@@ -1,0 +1,139 @@
+{
+  "case": "2016 Case 03.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-01T21:40:19.782059+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          18078,
+          18359
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The escalating frequency and severity of this patient’s episodic, acute-onset abdominal pain and vomiting raise the possibility of an intermittent process originating from a congenital disorder that might require surgical intervention, such as intestinal malrotation with volvulus."
+    },
+    {
+      "ranges": [
+        [
+          18598,
+          18915
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "abdominal pain and vomiting can be caused either by volvulus around a thin mesenteric pedicle containing the intestinal blood supply or by obstruction due to Ladd’s bands, which are peritoneal attachments of the abnormally positioned cecum that extrinsically compress the duodenum as they cross to the abdominal wall."
+    },
+    {
+      "ranges": [
+        [
+          12597,
+          12814
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the suspicion for inflammatory bowel disease had been higher, screening for fecal occult blood and potentially for inflammatory markers (e.g., calprotectin or lactoferrin) might have been helpful in the evaluation."
+    },
+    {
+      "ranges": [
+        [
+          11082,
+          11223
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the absence of evidence of esophagitis on upper endoscopy does not rule out the possibility of uncomplicated gastroesophageal reflux disease."
+    },
+    {
+      "ranges": [
+        [
+          20742,
+          20944
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "all pattern of enhancement was similar to that seen in the spleen, and the mass did not have calcifications, fatty components, or any areas of decreased enhancement that would be suggestive of necrosis."
+    },
+    {
+      "ranges": [
+        [
+          20945,
+          21215
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The appearance of the mass was unlike that of a lymph-node mass, a primary intraabdominal cancer, or metastatic disease; rather, the findings were most consistent with a relatively large accessory spleen, without evidence of complications such as necrosis or infarction."
+    },
+    {
+      "ranges": [
+        [
+          21762,
+          21880
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although most accessory spleens are smaller than 2 cm in greatest dimension, this patient had a mass measuring 4.4 cm."
+    },
+    {
+      "ranges": [
+        [
+          22071,
+          22333
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis for ectopic splenic tissue also includes splenosis, which generally occurs after trauma to the spleen, and polysplenia, a rare syndrome in which patients have multiple small spleens and often also have congenital cardiac abnormalities."
+    },
+    {
+      "ranges": [
+        [
+          7866,
+          7953
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "several notable features of her presentation initially influenced my working diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11706,
+          11949
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Current guidelines for screening pediatric patients for  *H. pylori* –associated disease focus on patients with recalcitrant iron-deficiency anemia, a family history of gastric cancer, or the presence of a peptic ulcer on endoscopic examinatio"
+    },
+    {
+      "ranges": [
+        [
+          19457,
+          19674
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Neither of these is a particularly satisfying or easily treatable diagnosis, and parents and medical providers understandably feel a great degree of frustration when they are unable to relieve chronic pain in a child."
+    },
+    {
+      "ranges": [
+        [
+          12331,
+          12582
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The normal complete blood count, serum albumin level, and erythrocyte sedimentation rate are also inconsistent with this diagnosis; however, 9 to 19% of children with inflammatory bowel disease have similar results at the time of initial presentation."
+    }
+  ]
+}

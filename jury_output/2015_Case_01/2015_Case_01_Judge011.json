@@ -1,0 +1,117 @@
+{
+  "case": "2015 Case 01.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-01T20:16:00.887728+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          19630,
+          19745
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Resistance to endocrine therapies is associated with a shift in tumorigenic signaling through alternative pathways."
+    },
+    {
+      "ranges": [
+        [
+          17143,
+          17361
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The BIG 1-98 study also showed that 5 years of adjuvant therapy with an aromatase inhibitor was equivalent in terms of efficacy to 2 to 3 years of therapy with tamoxifen followed by therapy with an aromatase inhibitor."
+    },
+    {
+      "ranges": [
+        [
+          20138,
+          20254
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The PI3K–AKT–mTOR pathway has been associated with resistance to endocrine therapies in patients with breast cancer."
+    },
+    {
+      "ranges": [
+        [
+          22079,
+          22157
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Late recurrence of HR-positive breast cancer is an important clinical problem."
+    },
+    {
+      "ranges": [
+        [
+          20803,
+          21098
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the treatment options for this patient in whom metastatic disease developed soon after she completed adjuvant therapy with a nonsteroidal aromatase inhibitor are either the steroidal aromatase inhibitor exemestane (with or without the mTOR inhibitor everolimus) or the ER antagonist fulvestrant."
+    },
+    {
+      "ranges": [
+        [
+          21099,
+          21374
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The use of exemestane or fulvestrant alone in the treatment of this patient is supported by the Evaluation of Faslodex versus Exemestane Clinical Trial (EFECT), which showed equivalent but modest efficacy of the drugs, with a median time to disease progression of 3.7 months."
+    },
+    {
+      "ranges": [
+        [
+          19746,
+          19922
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Genetic profiling of this patient’s recurrent cancer revealed a mutation in  *PIK3CA* , the gene that encodes the PI3K catalytic subunit alpha, which plays a key role in cancer"
+    },
+    {
+      "ranges": [
+        [
+          24000,
+          24057
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "We really do not know, but it is an interesting question."
+    },
+    {
+      "ranges": [
+        [
+          24291,
+          24485
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The Nurses’ Health Study looked at aspirin use in women who had previously had breast cancer, and it appeared that women who used aspirin actually had a reduced risk of breast-cancer recurrence."
+    },
+    {
+      "ranges": [
+        [
+          25350,
+          25399
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The role of the PR is an area of active research."
+    }
+  ]
+}

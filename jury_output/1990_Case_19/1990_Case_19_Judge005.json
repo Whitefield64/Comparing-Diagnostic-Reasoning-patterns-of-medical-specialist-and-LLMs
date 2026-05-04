@@ -1,0 +1,139 @@
+{
+  "case": "1990 Case 19.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-01T09:47:30.736327+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          15980,
+          16126
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The symptoms of a hydatid cyst are caused principally by the pressure of the expanding cyst, which is estimated to grow between 1 and 5 cm a year."
+    },
+    {
+      "ranges": [
+        [
+          11210,
+          11426
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Primary hepatic tumors are rare, but unfortunately nearly two thirds of them are malignant, representing the third most common abdominal cancer encountered in pediatric practice, after Wilms' tumor and neuroblastoma."
+    },
+    {
+      "ranges": [
+        [
+          20585,
+          20801
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the serologic test for amebae had been positive, further medical treatment would have been appropriate, since 72 hours are often required to observe a clinical response after the initiation of anti-amebic therapy."
+    },
+    {
+      "ranges": [
+        [
+          18523,
+          18600
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The radiographic features of this case are also suggestive of this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          22729,
+          22834
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+    },
+    {
+      "ranges": [
+        [
+          10013,
+          10188
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This patient's acute presentation with fever, chills, an elevated white-cell count of 15,500, and a sedimentation rate of 81 mm per hour certainly suggests an infectious cause"
+    },
+    {
+      "ranges": [
+        [
+          10995,
+          11061
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis of hepatic masses in children is broad."
+    },
+    {
+      "ranges": [
+        [
+          18601,
+          18756
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+    },
+    {
+      "ranges": [
+        [
+          22642,
+          22728
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
+    },
+    {
+      "ranges": [
+        [
+          17853,
+          17941
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Fever, right-upper-quadrant abdominal pain, and malaise are the most prominent symptoms."
+    },
+    {
+      "ranges": [
+        [
+          12582,
+          12670
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
+    },
+    {
+      "ranges": [
+        [
+          31726,
+          31906
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "His physician in London has told us of his experience with two other patients treated with a similar protocol who are alive eight years and three months after the end of treatment."
+    }
+  ]
+}

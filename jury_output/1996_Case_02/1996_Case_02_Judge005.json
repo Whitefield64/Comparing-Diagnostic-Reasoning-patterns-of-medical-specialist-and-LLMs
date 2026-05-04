@@ -1,0 +1,139 @@
+{
+  "case": "1996 Case 02.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-01T19:55:00.189583+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6579,
+          6691
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis of the hepatic lesion is long, because the imaging characteristics are not clear-cut."
+    },
+    {
+      "ranges": [
+        [
+          6826,
+          6918
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the loss of weight makes me consider the lesion a cancer until it has been proved otherwise."
+    },
+    {
+      "ranges": [
+        [
+          6397,
+          6575
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the lesion proved to be a locally advanced gastric lesion, the radiologic findings suggest that it could have been resected en bloc with the left lateral segment of the liver."
+    },
+    {
+      "ranges": [
+        [
+          6311,
+          6391
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "the absence of such symptoms I shall assume that this lesion arose in the liver."
+    },
+    {
+      "ranges": [
+        [
+          7335,
+          7421
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "These characteristics are reminiscent of a hemangioma, perhaps a cavernous hemangioma."
+    },
+    {
+      "ranges": [
+        [
+          11930,
+          12208
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Since the CT and MRI scans did not show any decrease in the volume of the right hepatic lobe or change in the intensity of the hepatic parenchyma, as compared with the kidney, and the results of liver-function tests were normal, it is improbable that this patient had cirrhosis."
+    },
+    {
+      "ranges": [
+        [
+          11654,
+          11929
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Hepatocellular carcinoma of the usual type may be focal, like the lesion in the patient under discussion, but it typically develops in older persons who have cirrhosis resulting from alcohol abuse, hemochromatosis, viral hepatitis, Wilson's disease, or mucopolysaccharidosis."
+    },
+    {
+      "ranges": [
+        [
+          12975,
+          13058
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "fibrolamellar carcinoma occurs most often in young patients, predominantly females."
+    },
+    {
+      "ranges": [
+        [
+          16902,
+          16966
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I favor the diagnosis of fibrolamellar hepatocellular carcinoma."
+    },
+    {
+      "ranges": [
+        [
+          13142,
+          13244
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The tumor may become secondarily infected, giving rise to episodic fever, as occurred in this patient."
+    },
+    {
+      "ranges": [
+        [
+          16967,
+          17172
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Complete resection is possible in 48 to 75 percent of patients with this type of hepatocellular carcinoma, as compared with a resectability rate of approximately 20 percent among patients with other types."
+    },
+    {
+      "ranges": [
+        [
+          16210,
+          16417
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "One of the common treatments for psoriasis, however, was Fowler's solution, which is potassium arsenite, and long-term ingestion of arsenic may be associated with the development of hepatocellular carcinoma."
+    }
+  ]
+}

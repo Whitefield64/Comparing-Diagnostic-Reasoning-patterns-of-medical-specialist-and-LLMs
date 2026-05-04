@@ -1,0 +1,128 @@
+{
+  "case": "1999 Case 06.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-01T20:33:03.009883+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          22388,
+          22625
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The simultaneous development of interstitial keratitis and hearing loss, with improvement in the ocular symptoms but not the audiovestibular symptoms while the patient was receiving corticosteroid therapy, is typical of Cogan's syndrome."
+    },
+    {
+      "ranges": [
+        [
+          6967,
+          7096
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although syphilis can cause aortitis that results in aortic insufficiency and aortic aneurysm, syphilis is unlikely in this case."
+    },
+    {
+      "ranges": [
+        [
+          15126,
+          15376
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the features of her disease meet the criteria proposed by Ishikawa, including an age under 40 years, a high erythrocyte sedimentation rate, hypertension, aortic regurgitation, a lesion in the descending thoracic aorta, and an abdominal aortic lesion."
+    },
+    {
+      "ranges": [
+        [
+          7097,
+          7398
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The results of serologic testing for syphilis were negative. Because false negative results occur in 10 to 20 percent of patients with late congenital syphilis, however, a negative result of a nontreponemal serologic screening test should be confirmed by the performance of a specific antitreponemal t"
+    },
+    {
+      "ranges": [
+        [
+          22102,
+          22387
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The best unifying diagnosis for the spectrum of symptoms and findings in this patient is Cogan's syndrome, with aortitis resulting in aortic valvular disease, aneurysm of the ascending thoracic and descending thoracoabdominal aorta, and arteritis of the renal artery, causing stenosis."
+    },
+    {
+      "ranges": [
+        [
+          12739,
+          12860
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Systemic necrotizing vasculitis was seen only in atypical Cogan's syndrome, except when a pyogenic infection was present."
+    },
+    {
+      "ranges": [
+        [
+          25500,
+          25687
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The aortic insufficiency in this patient was probably due to aortic-root dilatation or inflammation of the valve itself, each of which has been reported in patients with Cogan's syndrome."
+    },
+    {
+      "ranges": [
+        [
+          15380,
+          15552
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The criteria for Takayasu's arteritis proposed by the American College of Rheumatology have a specificity exceeding 97 percent if three or more of the six criteria are met."
+    },
+    {
+      "ranges": [
+        [
+          11939,
+          12141
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In a series of 18 patients with Cogan's syndrome seen at the Mayo Clinic and an additional 60 identified by a review of the literature, 11 patients had aortic insufficiency and 13 had a systolic murmur."
+    },
+    {
+      "ranges": [
+        [
+          19701,
+          19969
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The blue sclerae in this patient may be explained by her long-term use of corticosteroids, microcytic anemia (most likely due in part to the thalassemia trait, in view of the mean corpuscular volume of 62 μm ), the primary condition, or a combination of these factors."
+    },
+    {
+      "ranges": [
+        [
+          21790,
+          21862
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I suspect that the patient underwent more than one diagnostic procedure."
+    }
+  ]
+}

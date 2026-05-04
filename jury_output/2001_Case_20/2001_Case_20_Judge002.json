@@ -1,0 +1,161 @@
+{
+  "case": "2001 Case 20.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-01T19:59:11.518867+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5209,
+          5420
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A traveler returning from the Middle East who presents with a nonspecific, protracted febrile illness may have any one of a variety of bacterial, parasitic, rickettsial, fungal, viral, or noninfectious diseases."
+    },
+    {
+      "ranges": [
+        [
+          5746,
+          5896
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The ineffectiveness of ciprofloxacin in this patient, however, is evidence against infection with various salmonella species that cause enteric fever."
+    },
+    {
+      "ranges": [
+        [
+          11671,
+          11856
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If this patient had brucellosis, why did his disease relapse? The most likely explanation is inappropriate monotherapy with a quinolone (ciprofloxacin) and a cephalosporin (cefuroxime)."
+    },
+    {
+      "ranges": [
+        [
+          12029,
+          12403
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Two prospective studies in Spain identified several independent risk factors for a relapse of brucellosis: suboptimal antibiotic therapy, male sex, and various clinical markers indicative of severe infection (positive blood cultures during the initial infection, illness for less than 10 days before the start of treatment, thrombocytopenia, and a high initial temperature)."
+    },
+    {
+      "ranges": [
+        [
+          12404,
+          12451
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This patient had almost all these risk factors."
+    },
+    {
+      "ranges": [
+        [
+          9934,
+          10038
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The clinical findings are compatible with the presence of  *B. melitensis* infection for several reasons"
+    },
+    {
+      "ranges": [
+        [
+          9084,
+          9202
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The distinctive constellation of findings in this case suggests the diagnosis of infection with  *Brucella melitensis*"
+    },
+    {
+      "ranges": [
+        [
+          11279,
+          11622
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The description of the gram-negative bacterium as a bacillus (in the first positive blood culture) and as a rod (in the second positive blood culture), the absence of β-lactamase production, and the susceptibility profile of the organism are all consistent with infection by a brucella species, which can have a coccoid or rod-like appearance."
+    },
+    {
+      "ranges": [
+        [
+          11857,
+          12028
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Drug-resistant brucellosis is very unlikely, since resistant brucella strains are rarely found in patients who remain infected after they have received antibiotic therapy."
+    },
+    {
+      "ranges": [
+        [
+          14004,
+          14276
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Renal abnormalities in cases of brucella infection are rare, and the absence of any associated symptoms, the negative urine cultures, and the nonspecific appearance of the renal cysts in the present case make the possibility of renal involvement by brucella very unlikely."
+    },
+    {
+      "ranges": [
+        [
+          14589,
+          14720
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The possibility of early spondylitis due to brucella merits consideration in this patient because it is very common in brucellosis."
+    },
+    {
+      "ranges": [
+        [
+          14897,
+          14989
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Extrapulmonary tuberculosis can simulate brucellosis, especially when the spine is involved."
+    },
+    {
+      "ranges": [
+        [
+          15624,
+          15770
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the spinal findings in this case suggest the presence of spondylitis or diskitis, a fine-needle aspiration biopsy of the lesion may be helpful."
+    },
+    {
+      "ranges": [
+        [
+          15932,
+          16052
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In summary, the most likely diagnosis in this case is subacute, partially treated brucellosis caused by  *B. melitensis*"
+    }
+  ]
+}

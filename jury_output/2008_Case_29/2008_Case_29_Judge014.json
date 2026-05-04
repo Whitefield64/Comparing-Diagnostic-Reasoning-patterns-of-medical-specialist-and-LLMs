@@ -1,0 +1,172 @@
+{
+  "case": "2008 Case 29.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-01T21:25:12.139995+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9494,
+          9749
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Superior mesenteric artery syndrome may occur in patients with anorexia nervosa, when loss of the fat that normally surrounds the neurovascular pedicle results in compression of the third portion of the duodenum between the aorta and the vertebral column."
+    },
+    {
+      "ranges": [
+        [
+          9877,
+          10144
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "In this patient, imaging studies did not show intestinal obstruction, perforation, or superior mesenteric artery compromise; thus, surgical intervention was not required, and a fecal disimpaction was the first step in medical stabilization of the patient's condition."
+    },
+    {
+      "ranges": [
+        [
+          14863,
+          15074
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, because of this patient's unstable medical condition and lack of insight and cooperation, he was involuntarily transferred to the inpatient psychiatric service at this hospital on the 15th hospital day."
+    },
+    {
+      "ranges": [
+        [
+          12123,
+          12283
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Severe weight loss can also cause shrinkage of cardiac muscle mass, decreased left ventricular forces, diminished ejection fractions, and mitral-valve prolapse."
+    },
+    {
+      "ranges": [
+        [
+          18528,
+          18628
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's short stature and endocrine abnormalities were thus a consequence of anorexia nervosa."
+    },
+    {
+      "ranges": [
+        [
+          19367,
+          19533
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Low bone density is characteristic of anorexia nervosa, and studies show z scores below −1 at the spine and hip in 35 to 60% of adolescent boys with anorexia nervosa."
+    },
+    {
+      "ranges": [
+        [
+          19698,
+          19830
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Weight restoration is associated with an increase in bone density in anorexia nervosa and was strongly recommended for this patient."
+    },
+    {
+      "ranges": [
+        [
+          16074,
+          16295
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's height trajectory, however, suggested that he would not attain his predicted adult height, and the flattening of growth velocity during the previous 3 years suggested a pathologic cause of his short stature."
+    },
+    {
+      "ranges": [
+        [
+          17911,
+          18107
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Concentrations of growth hormone and its response to provocative testing can distinguish between low levels of IGF-I due to undernutrition and low levels of IGF-I due to growth hormone deficiency."
+    },
+    {
+      "ranges": [
+        [
+          18632,
+          18759
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "An increase in height occurs with weight restoration in patients with anorexia nervosa, although residual deficits may persist."
+    },
+    {
+      "ranges": [
+        [
+          16437,
+          16627
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Nutritional causes of short stature typically result in greater deficits in weight than in height, whereas endocrine causes are associated with more marked deficits in height than in weight."
+    },
+    {
+      "ranges": [
+        [
+          21549,
+          21706
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Anorexia nervosa commonly begins in early adolescence, as it did in this patient, and can be associated with a fear of growing up and separating from family."
+    },
+    {
+      "ranges": [
+        [
+          22100,
+          22208
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The most frequent concurrent psychiatric disorders are mood and anxiety disorders, especially social phobia."
+    },
+    {
+      "ranges": [
+        [
+          24084,
+          24297
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Factors associated with poor outcome include preadolescent age at onset, very low weight at presentation, poor state of functioning before the development of signs and symptoms of the disease, and substance abuse."
+    },
+    {
+      "ranges": [
+        [
+          24298,
+          24471
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Patients with an onset in their early teens and early exposure to treatment, such as this patient, have the best outcome, with a recovery rate of nearly 70% in some studies."
+    }
+  ]
+}

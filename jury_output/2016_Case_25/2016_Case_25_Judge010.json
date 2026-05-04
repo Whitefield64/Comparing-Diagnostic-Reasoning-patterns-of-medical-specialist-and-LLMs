@@ -1,0 +1,117 @@
+{
+  "case": "2016 Case 25.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-04-27T20:59:08.715534+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3701,
+          3926
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Conditions that have a similar appearance to hemorrhoids include skin tags (which may be tender if they are associated with Crohn’s disease or chronic fissures), condylomata acuminata, condylomata lata, and anal tuberculosis."
+    },
+    {
+      "ranges": [
+        [
+          7437,
+          7573
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "If we rule out all these entities from our differential diagnosis, we are left with Crohn’s disease and a number of infectious diseases."
+    },
+    {
+      "ranges": [
+        [
+          11276,
+          11342
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, rash may go unnoticed by either a patient or a physician."
+    },
+    {
+      "ranges": [
+        [
+          10879,
+          11037
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The onset of secondary syphilis typically occurs 4 to 12 weeks after exposure; although symptoms typically resolve in 3 to 12 weeks, they may last for months."
+    },
+    {
+      "ranges": [
+        [
+          12593,
+          12695
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "On the basis of the patient’s sexual history, syphilis is more likely than inflammatory bowel disease."
+    },
+    {
+      "ranges": [
+        [
+          11675,
+          11752
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Overall, the features and timeline in this case are consistent with syphilis."
+    },
+    {
+      "ranges": [
+        [
+          12696,
+          12842
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In a review of cases in which MSM presented to a surgery clinic for treatment of proctitis, syphilis was a more common cause than Crohn’s disease."
+    },
+    {
+      "ranges": [
+        [
+          9693,
+          9944
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "lymphogranuloma venereum causes an isolated proctitis without lymphadenitis in 83% of cases that are acquired by anogenital contact, and the secondary stage can mimic Crohn’s disease, with features including perianal fissures, fistulae, and abscesses."
+    },
+    {
+      "ranges": [
+        [
+          6853,
+          7035
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "A diagnosis of cancer, particularly lymphoma, seems unlikely, because it would cause focal mucosal lesions rather than the diffuse inflammation seen on sigmoidoscopy in this patient."
+    },
+    {
+      "ranges": [
+        [
+          24102,
+          24170
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The symptoms in this patient most likely reflect secondary syphilis."
+    }
+  ]
+}

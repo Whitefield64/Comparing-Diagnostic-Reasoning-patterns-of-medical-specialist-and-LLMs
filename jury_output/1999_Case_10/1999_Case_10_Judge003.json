@@ -1,0 +1,194 @@
+{
+  "case": "1999 Case 10.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-01T19:58:20.448005+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8363,
+          8442
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The first consideration in this case is disseminated intravascular coagulation."
+    },
+    {
+      "ranges": [
+        [
+          8443,
+          8589
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Thrombotic thrombocytopenic purpura comes to mind when purpura and anemia coexist, but the absence of thrombocytopenia rules out that possibility."
+    },
+    {
+      "ranges": [
+        [
+          8590,
+          8919
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Hepatic failure can mimic disseminated intravascular coagulation, with prolongation of clotting times and an elevated level of fibrin-split products, but in this case most of the liver-function tests were normal, and the coagulation abnormality consisted of excessive clotting, not prolongation of coagulation times and bleeding."
+    },
+    {
+      "ranges": [
+        [
+          8920,
+          9110
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Given the adequate fibrinogen levels in this case, I would view the disseminated intravascular coagulation as chronic and would search for underlying cancer as one of many possible triggers."
+    },
+    {
+      "ranges": [
+        [
+          9220,
+          9345
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Palpable purpura almost always points to a systemic vasculitis, which could account for almost all the findings in this case."
+    },
+    {
+      "ranges": [
+        [
+          9501,
+          9698
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A positive test for c-ANCA, which is directed against a neutrophil-granule serine protease and is manifested by cytoplasmic immunofluorescence, is 85 percent sensitive for Wegener's granulomatosis."
+    },
+    {
+      "ranges": [
+        [
+          9924,
+          10172
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "A positive test for either c-ANCA or p-ANCA indicates a 96 percent probability that a patient has some form of vasculitis, whereas negative results of both tests indicate more than a 90 percent probability that the patient does not have vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          10610,
+          10760
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Thrombosis can mimic vasculitis and vice versa, however, and both processes can occur in the same disease, as they do in systemic lupus erythematosus."
+    },
+    {
+      "ranges": [
+        [
+          10882,
+          11170
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Antiphospholipid syndromes can masquerade as vasculitis and cause deep venous thrombosis, stroke and transient ischemic attacks, livedo reticularis, hypertension, renal-vein thrombosis, migraine, epilepsy, transverse myelopathy, thrombocytopenia, heart-valve disease, and ocular ischemia."
+    },
+    {
+      "ranges": [
+        [
+          13503,
+          13587
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The cause of vasculitis is usually unknown, but some cases are related to infection."
+    },
+    {
+      "ranges": [
+        [
+          21689,
+          21832
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the patient's pulmonary status were sufficiently stable, an endoscopic biopsy would be the best way to confirm the diagnosis of gastric cancer."
+    },
+    {
+      "ranges": [
+        [
+          20115,
+          20299
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Gastric cancer may result in nonbacterial thrombotic endocarditis or disseminated intravascular coagulation, either of which would account for the patient's cerebral cortical infarcts."
+    },
+    {
+      "ranges": [
+        [
+          20300,
+          20408
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Chronic disseminated intravascular coagulation could have resulted in lung infarcts and respiratory failure."
+    },
+    {
+      "ranges": [
+        [
+          20840,
+          21123
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In the end, the most likely diagnosis is gastric cancer complicating  *H. pylori* infection and causing abdominal pain and blood loss, with disseminated intravascular coagulation resulting in cortical infarcts and peritoneal carcinomatosis resulting in bilateral ureteral obstruction"
+    },
+    {
+      "ranges": [
+        [
+          21125,
+          21290
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Since vasculitis can complicate any type of cancer, I cannot rule it out as an additional finding that explains the palpable purpura and the rapid pulmonary decline."
+    },
+    {
+      "ranges": [
+        [
+          24636,
+          24864
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the constellation of morphologic and laboratory findings reflects the presence of intravascular coagulation in the skin, lungs, and brain as a result of the release of clotting factors from widely disseminated gastric carcinoma."
+    },
+    {
+      "ranges": [
+        [
+          24395,
+          24621
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Diffuse alveolar damage, the pathological process present in most cases of the acute respiratory distress syndrome, can be caused by disseminated intravascular coagulation or by intravascular coagulation confined to the lungs."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "case": "2015 Case 01.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-01T20:51:05.950957+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          19630,
+          19745
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Resistance to endocrine therapies is associated with a shift in tumorigenic signaling through alternative pathways."
+    },
+    {
+      "ranges": [
+        [
+          22079,
+          22157
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Late recurrence of HR-positive breast cancer is an important clinical problem."
+    },
+    {
+      "ranges": [
+        [
+          18744,
+          18922
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "ent received adjuvant therapy with an aromatase inhibitor rather than with tamoxifen, there are no data directly supporting the extension of her endocrine therapy to 10 years. Ho"
+    },
+    {
+      "ranges": [
+        [
+          21099,
+          21374
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The use of exemestane or fulvestrant alone in the treatment of this patient is supported by the Evaluation of Faslodex versus Exemestane Clinical Trial (EFECT), which showed equivalent but modest efficacy of the drugs, with a median time to disease progression of 3.7 months."
+    },
+    {
+      "ranges": [
+        [
+          16055,
+          16178
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The ASCO issued a clinical practice guideline that was based on a systematic review of the best available evidence to date."
+    },
+    {
+      "ranges": [
+        [
+          24700,
+          24778
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Our practice has been to perform tumor genotyping on the most recent specimen."
+    },
+    {
+      "ranges": [
+        [
+          7871,
+          8110
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The 2012 National Comprehensive Cancer Network guidelines conclude that preoperative breast MRI may be helpful in defining the extent of a known cancer and in detecting multifocal disease or a contralateral, mammographically occult cancer."
+    },
+    {
+      "ranges": [
+        [
+          24291,
+          24485
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The Nurses’ Health Study looked at aspirin use in women who had previously had breast cancer, and it appeared that women who used aspirin actually had a reduced risk of breast-cancer recurrence."
+    },
+    {
+      "ranges": [
+        [
+          12458,
+          12601
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "Histologic examination of the nodule revealed irregular nests of malignant cells infiltrating the lung parenchyma and within lymphatic vessels."
+    },
+    {
+      "ranges": [
+        [
+          12909,
+          13055
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The metastatic tumor was ER-positive, PR-positive, and HER2-negative; this HR status is similar to that of the patient’s primary breast carcinoma."
+    },
+    {
+      "ranges": [
+        [
+          18436,
+          18725
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Several studies have now shown that patients who received endocrine therapy (with either tamoxifen or an aromatase inhibitor) for 10 years had significantly decreased rates of late recurrence and overall mortality, as compared with patients who received tamoxifen therapy for only 5 years."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "case": "2020 Case 35.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-01T21:49:45.087498+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          18522,
+          18643
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Aceruloplasminemia is an autosomal recessive disease that is caused by a mutation in the gene that encodes ceruloplasmin."
+    },
+    {
+      "ranges": [
+        [
+          22055,
+          22258
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of functional ceruloplasmin leads to derangements in iron efflux and transport, thereby leading to a high ferritin level with paradoxically low levels of iron and total iron-binding capacity."
+    },
+    {
+      "ranges": [
+        [
+          19713,
+          20022
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "On the basis of this patient’s clinical presentation, history of gradual cognitive decline, imaging findings consistent with excessive mineralization, and low serum levels of iron and total iron-binding capacity with a high ferritin level, I think aceruloplasminemia is the most likely diagnosis in this case."
+    },
+    {
+      "ranges": [
+        [
+          11242,
+          11523
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Several categories of disorders remain, including psychiatric diseases, medical diseases with central nervous system (CNS) involvement, and neurologic diseases, such as degenerative disease, cerebral microvascular disease, and immunologic disease or cancer with neurologic effects."
+    },
+    {
+      "ranges": [
+        [
+          18914,
+          19112
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The classic clinical triad of aceruloplasminemia includes neurologic dysfunction, retinal degeneration, and diabetes mellitus due to iron deposition in the brain, retina, and pancreas, respectively."
+    },
+    {
+      "ranges": [
+        [
+          18777,
+          18913
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "In the absence of ceruloplasmin, ferroxidase does not convert ferrous iron to ferric iron, and iron deposition occurs in various organs."
+    }
+  ]
+}

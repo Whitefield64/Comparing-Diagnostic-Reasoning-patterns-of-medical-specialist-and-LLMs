@@ -1,0 +1,139 @@
+{
+  "case": "2019 Case 07.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-01T20:20:46.057704+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8402,
+          8467
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I will construct my differential diagnosis around these features."
+    },
+    {
+      "ranges": [
+        [
+          8793,
+          8942
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Her current symptoms suggest a marked deviation from her established pattern of disease and are unlikely to be explained by progression of CLL alone."
+    },
+    {
+      "ranges": [
+        [
+          9758,
+          9839
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Acquisition of a high-risk mutation could result in an aggressive disease course."
+    },
+    {
+      "ranges": [
+        [
+          9840,
+          10087
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, if this patient had a high-risk genetic lesion, even the most biologically aggressive type, I would expect her to have symmetric lymphadenopathy, rather than predominantly right inguinal lymphadenopathy, because CLL is a systemic disease."
+    },
+    {
+      "ranges": [
+        [
+          10136,
+          10442
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This patient’s rapidly growing and asymmetric lymphadenopathy, unexplained fever, drenching night sweats, and weight loss raise the possibility of Richter’s transformation, a syndrome in which diffuse large B-cell lymphoma (DLBCL), or in rare cases classic Hodgkin’s lymphoma, arises in a patient with CLL."
+    },
+    {
+      "ranges": [
+        [
+          11316,
+          11556
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Lesions associated with CLL often have a level of FDG avidity that is at or slightly above the level in the liver, with some heterogeneity, whereas lesions associated with Richter’s transformation typically have a high level of FDG avidity."
+    },
+    {
+      "ranges": [
+        [
+          11700,
+          11984
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If Richter’s transformation is suspected in a patient with CLL, an FDG-PET scan is the preferred imaging study to visualize the most appropriate lymph node to target during an excisional or core biopsy, which is then performed to determine whether Richter’s transformation is present."
+    },
+    {
+      "ranges": [
+        [
+          15988,
+          16107
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "When I performed a clinical evaluation of the patient, I thought that her presentation was inconsistent with CLL alone."
+    },
+    {
+      "ranges": [
+        [
+          16108,
+          16184
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "I was most concerned about Richter’s transformation, most likely with DLBCL."
+    },
+    {
+      "ranges": [
+        [
+          20337,
+          20459
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Although it usually results in localized skin ulcerations, it may be associated with more severe and widespread infection."
+    },
+    {
+      "ranges": [
+        [
+          21424,
+          21647
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "given the potential consequences of not treating this serious infection in an immunocompromised host, it would be reasonable to initiate a course of intravenous acyclovir followed by a prolonged course of oral valacyclovir."
+    },
+    {
+      "ranges": [
+        [
+          21648,
+          21864
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Because of the persistent immunocompromise seen in patients with CLL, lifelong antiviral suppression may be indicated, although partial viral suppression in an immunocompromised host may lead to acyclovir resistance."
+    }
+  ]
+}

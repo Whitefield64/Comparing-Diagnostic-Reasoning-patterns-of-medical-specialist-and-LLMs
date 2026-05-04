@@ -1,0 +1,128 @@
+{
+  "case": "2012 Case 17.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-01T20:13:45.246793+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5593,
+          5707
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A tumor was the leading diagnostic possibility, and a primary brain tumor was more likely than a metastatic tumor."
+    },
+    {
+      "ranges": [
+        [
+          6304,
+          6464
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Although infarcts may be contrast enhancing, the appearance of two discrete, contrast-enhancing mass lesions is more typical of tumor than of cerebral infarcts."
+    },
+    {
+      "ranges": [
+        [
+          6673,
+          6765
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The appearance on imaging and the patient's age make glioblastoma the most likely diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          6573,
+          6671
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The leading diagnosis in this case was therefore a primary malignant tumor of the brain parenchyma"
+    },
+    {
+      "ranges": [
+        [
+          9861,
+          10184
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In one study, patients with glioblastoma whose tumors were positive for  *MGMT* methylation, as this patient's was, had a median survival of 21.7 months and 2-year survival of 46%, as compared with patients whose tumors were negative for  *MGMT* methylation, who had a median survival of 12.7 months and 2-year survival of "
+    },
+    {
+      "ranges": [
+        [
+          12897,
+          13030
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Pseudoprogression, as observed in this patient, occurs in approximately 20 to 40% of patients with glioblastoma after chemoradiation."
+    },
+    {
+      "ranges": [
+        [
+          13031,
+          13283
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Patients with tumors that have methylation of the  *MGMT* promoter may be at a higher risk for this complication — in one series, pseudoprogression was observed in 21 of 23 patients with  *MGMT* -methylated glioblastomas that were treated with chemorad"
+    },
+    {
+      "ranges": [
+        [
+          17086,
+          17161
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Treatment options for this patient with recurrent glioblastoma are limited."
+    },
+    {
+      "ranges": [
+        [
+          17313,
+          17508
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In a randomized, noncomparative trial of bevacizumab with and without irinotecan (an inhibitor of topoisomerase II), radiographic responses were observed in 28% and 37% of patients, respectively."
+    },
+    {
+      "ranges": [
+        [
+          18523,
+          18623
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Despite radiographic improvement, the patient had progressive neurologic decline while on treatment."
+    },
+    {
+      "ranges": [
+        [
+          18624,
+          18853
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "It is possible that the reduction in contrast enhancement represented pseudoresponse (i.e., reduction of vessel permeability) and that the expanding regions of restricted diffusion were representative of progressive glioblastoma."
+    }
+  ]
+}

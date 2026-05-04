@@ -1,0 +1,150 @@
+{
+  "case": "2001 Case 36.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-01T21:09:43.471260+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5401,
+          5718
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "To explain the acute respiratory tract illness that precipitated the current admission, I shall consider three broad categories of disease: an exacerbation of a chronic pulmonary process, an opportunistic infection after immunosuppressive treatment, and respiratory tract infection with a community-acquired pathogen."
+    },
+    {
+      "ranges": [
+        [
+          5773,
+          5936
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Chronic pulmonary processes have been associated with connective-tissue disorders, including rheumatoid arthritis and polymyositis, both of which this patient had."
+    },
+    {
+      "ranges": [
+        [
+          7449,
+          7684
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Assuming that he had adhered to the prophylactic regimen of trimethoprim–sulfamethoxazole, which is highly effective, the acute illness that precipitated the current admission was probably not a third episode of  *P. carinii* pneumonia"
+    },
+    {
+      "ranges": [
+        [
+          6669,
+          6913
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The results of this patient's pulmonary-function tests are consistent with the presence of bronchiolitis obliterans with organizing pneumonia, interstitial lung disease, or both, although the chest radiograph shows remarkably few abnormalities."
+    },
+    {
+      "ranges": [
+        [
+          8720,
+          9012
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This patient's illness is consistent with the “atypical pneumonia syndrome” — that is, a febrile respiratory illness characterized by a nonproductive cough, relatively few findings on physical examination of the chest, and unilateral or bilateral patchy or streaky infiltrates on chest films."
+    },
+    {
+      "ranges": [
+        [
+          10014,
+          10212
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In the setting of a community-wide outbreak of influenza A, the specificity of a clinical diagnosis of influenza A based on the presence of a febrile influenza-like illness is as high as 85 percent."
+    },
+    {
+      "ranges": [
+        [
+          11261,
+          11448
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The frequency of complications of influenza increases with an age of more than 55 years and with the presence of certain chronic conditions, several of which were present in this patient."
+    },
+    {
+      "ranges": [
+        [
+          9327,
+          9516
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Clinically and epidemiologically, however, this patient's acute illness with fever, malaise, and cough is highly characteristic of a viral respiratory tract infection, especially influenza."
+    },
+    {
+      "ranges": [
+        [
+          11612,
+          11790
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although this patient received influenza vaccine 11 weeks before the current admission, his immunosuppressed state may have prevented a sufficient immune response to the vaccine."
+    },
+    {
+      "ranges": [
+        [
+          14098,
+          14414
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Although I cannot rule out the possibility that this patient was infected by another respiratory tract virus, such as influenza B virus, respiratory syncytial virus, parainfluenza virus, or adenovirus, an influenza A virus infection is most likely on the basis of epidemiologic information and the clinical findings."
+    },
+    {
+      "ranges": [
+        [
+          14622,
+          14833
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the results were negative, I would request a direct immunofluorescence assay on the swab specimen for influenza A and B viruses; respiratory syncytial virus; parainfluenza viruses 1, 2, and 3; and adenovirus."
+    },
+    {
+      "ranges": [
+        [
+          13062,
+          13304
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the clinical and radiographic findings in adults with respiratory syncytial virus infection are not sufficiently distinctive to allow their differentiation from influenzavirus infection or from infections with other respiratory tract viruses."
+    },
+    {
+      "ranges": [
+        [
+          17359,
+          17668
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The benefits of antiviral medication, such as amantadine, rimantadine, or the newer neuraminidase inhibitors, zanamivir and oseltamivir, have been documented in otherwise healthy young adults with uncomplicated disease, although the last two drugs have also been studied in patients at risk for complications."
+    }
+  ]
+}

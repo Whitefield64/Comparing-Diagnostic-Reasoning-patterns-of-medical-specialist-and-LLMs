@@ -1,0 +1,139 @@
+{
+  "case": "2010 Case 18.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-01T21:27:43.799382+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          13866,
+          14015
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Several factors are likely to have contributed: difficulties with adherence, an interaction between rifampin and ritonavir, and problems with dosing."
+    },
+    {
+      "ranges": [
+        [
+          16920,
+          17067
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "When it is determined that antiretroviral therapy has failed in a child, a full assessment of the possible reasons for failure should be conducted."
+    },
+    {
+      "ranges": [
+        [
+          17499,
+          17686
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In this patient, multiple protease-inhibitor mutations were detected. Since the child had not previously received an NNRTI, a simple switch to two NRTIs and an NNRTI might be appropriate."
+    },
+    {
+      "ranges": [
+        [
+          17687,
+          17791
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Alternatively, a regimen that includes an NNRTI plus a newer protease inhibitor might also be effective."
+    },
+    {
+      "ranges": [
+        [
+          17792,
+          17974
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "HIV that is resistant to older protease inhibitors, such as lopinavir boosted with ritonavir, may still be susceptible to newer protease inhibitors, such as darunavir and tipranavir."
+    },
+    {
+      "ranges": [
+        [
+          17978,
+          18190
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Darunavir is a nonpeptide protease inhibitor that binds rapidly to protease at a unique site and dissociates slowly, resulting in a binding strength that is two times as high as that of other protease inhibitors."
+    },
+    {
+      "ranges": [
+        [
+          18999,
+          19101
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The mutations seen in this patient's virus confer intermediate resistance to darunavir and tipranavir."
+    },
+    {
+      "ranges": [
+        [
+          19196,
+          19393
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Treatment regimens that fail and that include lamivudine, such as the regimen in this child, select for the M184V mutation, which is one of the first mutations to occur and is present in this case."
+    },
+    {
+      "ranges": [
+        [
+          20454,
+          20582
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "In situations in which resources are limited, however, ritonavir-boosted darunavir might not be readily available or affordable."
+    },
+    {
+      "ranges": [
+        [
+          20583,
+          20871
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "If resistance to multiple protease inhibitors occurs, options might be to switch to a less durable regimen, such as efavirenz, didanosine, and lamivudine, or to try a holding regimen such as lamivudine monotherapy, which has shown some promising results in a small study involving adults."
+    },
+    {
+      "ranges": [
+        [
+          20875,
+          21004
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case illustrates the problems that can occur when HIV infection in pediatric patients is not diagnosed and treated properly."
+    },
+    {
+      "ranges": [
+        [
+          21005,
+          21132
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Viral resistance in children may be prevented by early identification of HIV-infected children and the initiation of treatment."
+    }
+  ]
+}

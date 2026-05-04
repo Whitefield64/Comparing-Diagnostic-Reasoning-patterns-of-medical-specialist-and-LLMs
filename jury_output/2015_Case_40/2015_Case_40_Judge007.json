@@ -1,0 +1,117 @@
+{
+  "case": "2015 Case 40.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-01T21:37:29.598398+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8420,
+          8583
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Severe hypertension can cause mental-status changes with psychosis, but I would expect encephalopathy with confusion and other end-organ involvement to be present."
+    },
+    {
+      "ranges": [
+        [
+          6382,
+          6498
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The initial goal is to identify potential causes of the patient’s mental state without making a premature diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          6499,
+          6779
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "To keep this task manageable, the selection of laboratory tests should be tailored to the clinical situation and should be focused on ruling out life-threatening causes of psychosis (e.g., delirium) and identifying treatable causes (e.g., hyperthyroidism or vitamin B    deficienc"
+    },
+    {
+      "ranges": [
+        [
+          9432,
+          9615
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The absence of clinically significant mood symptoms argues against a diagnosis of psychotic mood disorders. In contrast, this patient has the characteristic symptoms of schizophrenia."
+    },
+    {
+      "ranges": [
+        [
+          5970,
+          6118
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Primary psychoses are the result of psychiatric illness, whereas secondary psychoses are the result of medical or surgical illness or substance use."
+    },
+    {
+      "ranges": [
+        [
+          9981,
+          10125
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient’s lack of insight into the nature of her illness is common in schizophrenia and often points toward higher-order cognitive problems."
+    },
+    {
+      "ranges": [
+        [
+          12917,
+          13059
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "This patient had elongated toenails that wrapped underneath her toes, suggesting a chronic course of psychiatric illness with limited insight."
+    },
+    {
+      "ranges": [
+        [
+          17633,
+          17819
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The core symptoms — hallucinations, delusions, paranoia, diminished curiosity and motivation, and impaired executive functioning — create challenges in meeting the demands of adult life."
+    },
+    {
+      "ranges": [
+        [
+          18087,
+          18184
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Sixty years ago, a patient such as this one would probably have been cared for in an institution."
+    },
+    {
+      "ranges": [
+        [
+          23478,
+          23643
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "With appropriate treatment and support, the majority of previously homeless people with schizophrenia can live stably in the community, as this patient is now doing."
+    }
+  ]
+}

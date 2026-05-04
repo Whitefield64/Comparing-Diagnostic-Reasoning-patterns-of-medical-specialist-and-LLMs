@@ -1,0 +1,95 @@
+{
+  "case": "2005 Case 34.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-01T20:04:33.156235+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8435,
+          8571
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The fact that therapy with carbamazepine had been recently initiated focuses the differential diagnosis on cutaneous reactions to drugs."
+    },
+    {
+      "ranges": [
+        [
+          11571,
+          11794
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Toxic epidermal necrolysis is thought to be a cell-mediated immunologic reaction to drug metabolites, which may accumulate because of abnormal metabolism of the drug, resulting in the persistence of immunogenic metabolites."
+    },
+    {
+      "ranges": [
+        [
+          10207,
+          10316
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The extent of involvement and the clinical history in this patient are virtually diagnostic of this disorder."
+    },
+    {
+      "ranges": [
+        [
+          8572,
+          8829
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most important consideration is the staphylococcal scalded skin syndrome, which is mediated by the exotoxin (phage group II, type 71) produced by  *S. aureus* ; it produces diffuse ill-defined erythema and flaccid bullae, with a positive Nikolsky's sign"
+    },
+    {
+      "ranges": [
+        [
+          17980,
+          18035
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the pattern of the acute respiratory distress syndrome."
+    },
+    {
+      "ranges": [
+        [
+          20716,
+          20849
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "ce sulfa drugs have a known potential for causing toxic epidermal necrolysis, this risk was discussed with the family before therapy."
+    },
+    {
+      "ranges": [
+        [
+          21806,
+          21923
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Published mortality rates for patients with toxic epidermal necrolysis vary widely and are between 40 and 70 percent."
+    },
+    {
+      "ranges": [
+        [
+          11986,
+          12071
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The necrosis appears to be mediated by CD8+ T cells by way of Fas-mediated apoptosis."
+    }
+  ]
+}

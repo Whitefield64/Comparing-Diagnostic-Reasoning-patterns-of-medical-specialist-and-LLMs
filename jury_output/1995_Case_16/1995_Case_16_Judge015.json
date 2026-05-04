@@ -1,0 +1,216 @@
+{
+  "case": "1995 Case 16.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-01T20:31:42.478193+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9202,
+          9407
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Sustained monomorphic ventricular tachycardia can be seen in patients with virtually any disease affecting the myocardium and can even be seen infrequently in the absence of overt structural heart disease."
+    },
+    {
+      "ranges": [
+        [
+          10099,
+          10307
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "One syndrome that deserves mention in this case is arrhythmogenic right ventricular dysplasia, which is primarily a right ventricular cardiomyopathy, frequently with little or no left ventricular involvement."
+    },
+    {
+      "ranges": [
+        [
+          9931,
+          10095
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the initiation, termination, and morphologic pattern of the tachycardia, as well as its response to therapy, may provide clues to the underlying myocardial disease."
+    },
+    {
+      "ranges": [
+        [
+          10662,
+          10815
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although this patient seems to have had disproportionate right ventricular involvement, other clinical findings would not be explained by this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10819,
+          10927
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "In this case ventricular tachycardia was occurring in the setting of a global cardiomyopathy or myocarditis."
+    },
+    {
+      "ranges": [
+        [
+          10928,
+          10999
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Cardiomyopathies comprise dilated, hypertrophic, and restrictive types."
+    },
+    {
+      "ranges": [
+        [
+          11238,
+          11424
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The characteristic echocardiographic findings include increased wall thickness without chamber enlargement and evidence of abnormal diastolic function with ultimate systolic dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          11428,
+          11608
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Neoplasms can involve the heart directly or, more commonly, through metastasis, although less than 10 percent of patients with cardiac tumors have clinically overt cardiac disease."
+    },
+    {
+      "ranges": [
+        [
+          11864,
+          11990
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "In view of the presence of thoracic lymphadenopathy in this young nonsmoker, the possibility of lymphoma should be considered."
+    },
+    {
+      "ranges": [
+        [
+          11991,
+          12183
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Cardiac involvement, which is found at autopsy in up to 24 percent of patients with lymphoma, is typically seen in the form of extension to the parietal pericardium, with or without effusions."
+    },
+    {
+      "ranges": [
+        [
+          19839,
+          19978
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The diagnosis of sarcoidosis should be strongly considered in any young patient with conduction-system disease and ventricular tachycardia."
+    },
+    {
+      "ranges": [
+        [
+          22203,
+          22342
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The predominant right-upper-lobe reticulonodular infiltrate and lymphadenopathy in this patient were consistent with pulmonary sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          22346,
+          22491
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although 20 to 25 percent of patients with sarcoidosis have cardiac involvement at autopsy, only 5 percent of them have clinically overt disease."
+    },
+    {
+      "ranges": [
+        [
+          22492,
+          22561
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Most of the patients with confirmed cardiac involvement die suddenly."
+    },
+    {
+      "ranges": [
+        [
+          23746,
+          24031
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presentation may also include myocarditis with congestive heart failure, sudden cardiac death, supraventricular tachyarrhythmia, mitral-valve insufficiency due to papillary-muscle dysfunction, formation of a left ventricular aneurysm, acute myocardial infarction, and pericarditis."
+    },
+    {
+      "ranges": [
+        [
+          25035,
+          25118
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "I believe that this patient had systemic sarcoidosis involving the heart and lungs."
+    },
+    {
+      "ranges": [
+        [
+          25119,
+          25174
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Generalized cutaneous anergy is typical of sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          25278,
+          25416
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the cardiomyopathy, conduction-system dysfunction, and sustained ventricular tachycardia are common manifestations of cardiac sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          25417,
+          25520
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The diagnostic procedure was probably a transbronchial biopsy at the time of bronchoscopic examination."
+    }
+  ]
+}

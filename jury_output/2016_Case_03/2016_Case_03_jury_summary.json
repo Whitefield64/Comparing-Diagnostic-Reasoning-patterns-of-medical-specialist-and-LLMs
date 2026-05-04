@@ -1,0 +1,132 @@
+{
+  "case": "2016 Case 03.md",
+  "exported_at": "2026-05-01T21:59:28.569262+00:00",
+  "n_voters": 15,
+  "n_successful": 15,
+  "n_failed": 0,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Intestinal malrotation with volvulus, which is due to incomplete rotation of the intestine in utero, is estimated to have a prevalence of between 1 in 200 and 1 in 6000 live births, with 75% of cases occurring during the first year of life, and the escalating frequency and severity of this patient’s episodic, acute-onset abdominal pain and vomiting raise the possibility of an intermittent process originating from a congenital disorder that might require surgical intervention."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of intermittent, recurrent episodes of upper abdominal pain and vomiting in this patient is similar to that seen in abdominal migraine."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Intestinal malrotation with volvulus is a rare congenital disorder that can cause abdominal pain and vomiting, and the escalating frequency and severity of this patient’s episodic, acute-onset abdominal pain and vomiting raise the possibility of an intermittent process originating from a congenital disorder that might require surgical intervention."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall similar cases of abdominal pain in children, where the diagnosis was not immediately apparent, and a thorough evaluation, including imaging studies and surgical consultation, was necessary to determine the underlying cause."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 17,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 18,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 0,
+      "unresolved": []
+    }
+  ]
+}

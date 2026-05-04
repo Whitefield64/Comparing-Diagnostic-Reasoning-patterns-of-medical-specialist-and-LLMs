@@ -1,0 +1,139 @@
+{
+  "case": "2015 Case 40.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-01T20:52:02.876893+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8420,
+          8583
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Severe hypertension can cause mental-status changes with psychosis, but I would expect encephalopathy with confusion and other end-organ involvement to be present."
+    },
+    {
+      "ranges": [
+        [
+          6382,
+          6498
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The initial goal is to identify potential causes of the patient’s mental state without making a premature diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9432,
+          9539
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The absence of clinically significant mood symptoms argues against a diagnosis of psychotic mood disorders."
+    },
+    {
+      "ranges": [
+        [
+          6947,
+          7133
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although many tests are not needed in an emergency situation, all tests should be considered when acute care is being provided, especially if subsequent outpatient follow-up is unlikely."
+    },
+    {
+      "ranges": [
+        [
+          5809,
+          5969
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In constructing a differential diagnosis for possible causes of psychosis in this patient, it is helpful to distinguish between primary and secondary psychosis."
+    },
+    {
+      "ranges": [
+        [
+          9981,
+          10125
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient’s lack of insight into the nature of her illness is common in schizophrenia and often points toward higher-order cognitive problems."
+    },
+    {
+      "ranges": [
+        [
+          15672,
+          15796
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I devoted most of our encounters to simply listening to her talk in an effort to build rapport and understand her narrative."
+    },
+    {
+      "ranges": [
+        [
+          17633,
+          17819
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The core symptoms — hallucinations, delusions, paranoia, diminished curiosity and motivation, and impaired executive functioning — create challenges in meeting the demands of adult life."
+    },
+    {
+      "ranges": [
+        [
+          18087,
+          18184
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Sixty years ago, a patient such as this one would probably have been cared for in an institution."
+    },
+    {
+      "ranges": [
+        [
+          19549,
+          19680
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Assertive community treatment by a non–office-based multidisciplinary outreach team is an established approach for doing just that."
+    },
+    {
+      "ranges": [
+        [
+          23478,
+          23643
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "With appropriate treatment and support, the majority of previously homeless people with schizophrenia can live stably in the community, as this patient is now doing."
+    },
+    {
+      "ranges": [
+        [
+          21978,
+          22043
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "his patient (and not her providers) set the priorities and goals."
+    }
+  ]
+}

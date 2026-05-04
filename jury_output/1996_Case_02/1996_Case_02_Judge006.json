@@ -1,0 +1,161 @@
+{
+  "case": "1996 Case 02.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-01T20:27:33.177513+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6826,
+          6918
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the loss of weight makes me consider the lesion a cancer until it has been proved otherwise."
+    },
+    {
+      "ranges": [
+        [
+          6579,
+          6691
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis of the hepatic lesion is long, because the imaging characteristics are not clear-cut."
+    },
+    {
+      "ranges": [
+        [
+          7771,
+          7881
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other benign lesions that should be considered in this case are focal nodular hyperplasia and hepatic adenoma."
+    },
+    {
+      "ranges": [
+        [
+          6397,
+          6575
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the lesion proved to be a locally advanced gastric lesion, the radiologic findings suggest that it could have been resected en bloc with the left lateral segment of the liver."
+    },
+    {
+      "ranges": [
+        [
+          9865,
+          9994
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The appearance is also not consistent with a pyogenic abscess, which may be multicentric or have a large central cavitating area."
+    },
+    {
+      "ranges": [
+        [
+          7335,
+          7421
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "These characteristics are reminiscent of a hemangioma, perhaps a cavernous hemangioma."
+    },
+    {
+      "ranges": [
+        [
+          11930,
+          12208
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Since the CT and MRI scans did not show any decrease in the volume of the right hepatic lobe or change in the intensity of the hepatic parenchyma, as compared with the kidney, and the results of liver-function tests were normal, it is improbable that this patient had cirrhosis."
+    },
+    {
+      "ranges": [
+        [
+          16902,
+          16966
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I favor the diagnosis of fibrolamellar hepatocellular carcinoma."
+    },
+    {
+      "ranges": [
+        [
+          13142,
+          13244
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The tumor may become secondarily infected, giving rise to episodic fever, as occurred in this patient."
+    },
+    {
+      "ranges": [
+        [
+          9998,
+          10183
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Among malignant tumors, hepatocellular carcinoma, its fibrolamellar variant, peripheral cholangiocarcinoma, angiosarcoma, and primary hepatic lymphoma are the most likely possibilities."
+    },
+    {
+      "ranges": [
+        [
+          13914,
+          13982
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Were the skin lesions associated with the liver lesion in this case?"
+    },
+    {
+      "ranges": [
+        [
+          14266,
+          14409
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": " Pityriasis rotunda is associated with malignant tumors, especially hepatocellular carcinoma, and is found mostly in blacks and Japanese people"
+    },
+    {
+      "ranges": [
+        [
+          10477,
+          10589
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Since this patient's lesion was enhanced, albeit slowly, and was isodense later, it was probably not a lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          19965,
+          20197
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The high resectability rate, the well-differentiated nature of the tumor, the young age of the patients, and the absence of both liver disease and systemic disease all contribute to a better prognosis for patients with these tumors."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "case": "2016 Case 03.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-01T21:38:13.823011+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          19173,
+          19456
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Because most of the other diagnoses under consideration in this patient were ruled out through the evaluations performed by her primary care and gastroenterology physicians, it seemed likely that the diagnosis in this patient would be functional abdominal pain or abdominal migraine."
+    },
+    {
+      "ranges": [
+        [
+          8387,
+          8571
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient’s episodes of pain were more frequent at school; this factor is suggestive of functional abdominal pain, a diagnosis that is commonly seen in a general pediatrics practice."
+    },
+    {
+      "ranges": [
+        [
+          18078,
+          18359
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The escalating frequency and severity of this patient’s episodic, acute-onset abdominal pain and vomiting raise the possibility of an intermittent process originating from a congenital disorder that might require surgical intervention, such as intestinal malrotation with volvulus."
+    },
+    {
+      "ranges": [
+        [
+          16789,
+          16922
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Abdominal migraine is a cause of recurrent abdominal pain that is often periumbilical and can be associated with nausea and vomiting."
+    },
+    {
+      "ranges": [
+        [
+          9679,
+          9827
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely cause of these symptoms, and this impression is strengthened by the improvement seen with the administration of polyethylene glycol."
+    },
+    {
+      "ranges": [
+        [
+          11706,
+          11949
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Current guidelines for screening pediatric patients for  *H. pylori* –associated disease focus on patients with recalcitrant iron-deficiency anemia, a family history of gastric cancer, or the presence of a peptic ulcer on endoscopic examinatio"
+    },
+    {
+      "ranges": [
+        [
+          9828,
+          9965
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although many cases of constipation require a self-limited course of osmotic laxative therapy, some cases require long-term laxative use."
+    },
+    {
+      "ranges": [
+        [
+          10495,
+          10585
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Peptic injury could cause these symptoms and could be exacerbated by a large stool burden."
+    },
+    {
+      "ranges": [
+        [
+          16923,
+          17054
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The cyclic vomiting syndrome is a condition that is similar to abdominal migraine, except the vomiting is a more prominent finding."
+    },
+    {
+      "ranges": [
+        [
+          9232,
+          9389
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "When evaluating a pediatric patient with chronic abdominal pain in the outpatient setting, several important “alarm” symptoms and signs should be considered."
+    },
+    {
+      "ranges": [
+        [
+          19675,
+          19927
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Some evidence suggests that mind–body therapies (e.g., biofeedback and relaxation techniques) are effective for the management of chronic abdominal pain and headache in children, and a trial of such therapies was the planned next step for this patient."
+    },
+    {
+      "ranges": [
+        [
+          22911,
+          22987
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In this patient, laparoscopic removal of the accessory spleen was performed."
+    }
+  ]
+}

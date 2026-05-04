@@ -1,0 +1,128 @@
+{
+  "case": "2001 Case 36.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-01T20:35:20.889274+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5401,
+          5718
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "To explain the acute respiratory tract illness that precipitated the current admission, I shall consider three broad categories of disease: an exacerbation of a chronic pulmonary process, an opportunistic infection after immunosuppressive treatment, and respiratory tract infection with a community-acquired pathogen."
+    },
+    {
+      "ranges": [
+        [
+          5937,
+          6150
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pulmonary lesions in rheumatoid arthritis, which are more common in seropositive cases than in seronegative cases, include pleuritis, pneumonitis, interstitial fibrosis, pleuropulmonary nodules, and arteritis."
+    },
+    {
+      "ranges": [
+        [
+          7449,
+          7684
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Assuming that he had adhered to the prophylactic regimen of trimethoprim–sulfamethoxazole, which is highly effective, the acute illness that precipitated the current admission was probably not a third episode of  *P. carinii* pneumonia"
+    },
+    {
+      "ranges": [
+        [
+          8720,
+          9012
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This patient's illness is consistent with the “atypical pneumonia syndrome” — that is, a febrile respiratory illness characterized by a nonproductive cough, relatively few findings on physical examination of the chest, and unilateral or bilateral patchy or streaky infiltrates on chest films."
+    },
+    {
+      "ranges": [
+        [
+          10014,
+          10212
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In the setting of a community-wide outbreak of influenza A, the specificity of a clinical diagnosis of influenza A based on the presence of a febrile influenza-like illness is as high as 85 percent."
+    },
+    {
+      "ranges": [
+        [
+          14098,
+          14414
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Although I cannot rule out the possibility that this patient was infected by another respiratory tract virus, such as influenza B virus, respiratory syncytial virus, parainfluenza virus, or adenovirus, an influenza A virus infection is most likely on the basis of epidemiologic information and the clinical findings."
+    },
+    {
+      "ranges": [
+        [
+          13062,
+          13304
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the clinical and radiographic findings in adults with respiratory syncytial virus infection are not sufficiently distinctive to allow their differentiation from influenzavirus infection or from infections with other respiratory tract viruses."
+    },
+    {
+      "ranges": [
+        [
+          15693,
+          15825
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "We thought that the current illness was probably influenza A pneumonia or possibly pneumonia due to another respiratory tract virus."
+    },
+    {
+      "ranges": [
+        [
+          16596,
+          16767
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Since this condition may be associated with influenzavirus infection, it is possible that the patient had influenza at the time that the pneumonia was diagnosed by biopsy."
+    },
+    {
+      "ranges": [
+        [
+          16346,
+          16437
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pathologic processes associated with pulmonary influenzavirus infection are listed in ."
+    },
+    {
+      "ranges": [
+        [
+          17669,
+          17849
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The duration of uncomplicated illness can be reduced by approximately 30 percent, but there is no evidence that complicated disease can be treated effectively with antiviral drugs."
+    }
+  ]
+}

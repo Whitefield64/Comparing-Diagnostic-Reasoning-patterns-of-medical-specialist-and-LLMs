@@ -1,0 +1,161 @@
+{
+  "case": "1991 Case 14.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-01T09:48:21.595613+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9185,
+          9314
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I shall therefore focus on neurogenic tumors of the posterior mediastinum as the primary neoplastic consideration in this infant."
+    },
+    {
+      "ranges": [
+        [
+          10441,
+          10533
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Since they arise in the paravertebral sulci, the posterior margin is rarely outlined by air."
+    },
+    {
+      "ranges": [
+        [
+          12311,
+          12501
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "About 90 percent of patients with thoracic neural-crest tumors have elevated levels of dopa, dopamine, norepinephrine, normetanephrine, vanilmandelic acid (VMA), and homovanillic acid (HVA)."
+    },
+    {
+      "ranges": [
+        [
+          11820,
+          12014
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": " The finding of a normal white-cell count and an elevated platelet count in the presence of anemia that was less severe at 17 weeks than initially indicates that the bone marrow was functioning."
+    },
+    {
+      "ranges": [
+        [
+          16788,
+          16886
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the solid, or Type III, form of congenital cystic adenomatoid malformation needs to be considered."
+    },
+    {
+      "ranges": [
+        [
+          20618,
+          20829
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "For a diagnosis in this case I would have obtained an assay for urinary catecholamine values and additional imaging to delineate the vascular features, and I would have proceeded with an exploratory thoracotomy."
+    },
+    {
+      "ranges": [
+        [
+          21464,
+          21688
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "I believed that statistically the diagnosis was most likely to be a left-lower-lobe pulmonary sequestration, but I was troubled by the observations of agitation and bradycardia (80 beats per minute) — an unusual combination."
+    },
+    {
+      "ranges": [
+        [
+          24834,
+          24943
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The arteries that supplied the sequestered segment had thick walls and had fine elastic laminae in the media."
+    },
+    {
+      "ranges": [
+        [
+          24087,
+          24236
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Extralobar sequestration and cystic adenomatoid malformation may coexist and may be related histogenetically to each other and to bronchogenic cysts."
+    },
+    {
+      "ranges": [
+        [
+          25201,
+          25407
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Theoretically, the pleural investment should have prevented collateral ventilation to the sequestered segment, but I cannot determine on histologic grounds whether the air spaces had contained air or water."
+    },
+    {
+      "ranges": [
+        [
+          25663,
+          25860
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Approximately 50 percent of patients with extralobar sequestration have a variety of other congenital anomalies, particularly diaphragmatic defects, but none have been demonstrated in this patient."
+    },
+    {
+      "ranges": [
+        [
+          26289,
+          26484
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The combination of diagnostic information, prevention of future infections, prevention of spontaneous bleeding, and allowance for unimpeded lung growth produces a compelling argument for removal."
+    },
+    {
+      "ranges": [
+        [
+          27202,
+          27288
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Sequestered lobes tend to become infected and may be complicated by abscess formation."
+    },
+    {
+      "ranges": [
+        [
+          27623,
+          27766
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "It is more likely that sequestered segments become contaminated through the airways and become infected because of impaired lymphatic drainage."
+    }
+  ]
+}

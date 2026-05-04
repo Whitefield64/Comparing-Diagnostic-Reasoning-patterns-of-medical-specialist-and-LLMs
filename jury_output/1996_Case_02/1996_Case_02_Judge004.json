@@ -1,0 +1,139 @@
+{
+  "case": "1996 Case 02.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-01T20:27:33.177379+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6579,
+          6691
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis of the hepatic lesion is long, because the imaging characteristics are not clear-cut."
+    },
+    {
+      "ranges": [
+        [
+          6826,
+          6918
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the loss of weight makes me consider the lesion a cancer until it has been proved otherwise."
+    },
+    {
+      "ranges": [
+        [
+          6397,
+          6575
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the lesion proved to be a locally advanced gastric lesion, the radiologic findings suggest that it could have been resected en bloc with the left lateral segment of the liver."
+    },
+    {
+      "ranges": [
+        [
+          7335,
+          7419
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "These characteristics are reminiscent of a hemangioma, perhaps a cavernous hemangiom"
+    },
+    {
+      "ranges": [
+        [
+          9865,
+          9994
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The appearance is also not consistent with a pyogenic abscess, which may be multicentric or have a large central cavitating area."
+    },
+    {
+      "ranges": [
+        [
+          16902,
+          16966
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I favor the diagnosis of fibrolamellar hepatocellular carcinoma."
+    },
+    {
+      "ranges": [
+        [
+          9998,
+          10183
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Among malignant tumors, hepatocellular carcinoma, its fibrolamellar variant, peripheral cholangiocarcinoma, angiosarcoma, and primary hepatic lymphoma are the most likely possibilities."
+    },
+    {
+      "ranges": [
+        [
+          8372,
+          8526
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of an appropriate history and the presence of a scar or necrosis on images of this patient's lesion suggest that it was not a hepatic adenoma."
+    },
+    {
+      "ranges": [
+        [
+          12975,
+          13058
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "fibrolamellar carcinoma occurs most often in young patients, predominantly females."
+    },
+    {
+      "ranges": [
+        [
+          13142,
+          13244
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The tumor may become secondarily infected, giving rise to episodic fever, as occurred in this patient."
+    },
+    {
+      "ranges": [
+        [
+          23116,
+          23343
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The microscopical features described in this case clearly distinguish the tumor from focal nodular hyperplasia, in which bile ducts are often prominent, the hepatocytes are small and regular, and mitotic figures are infrequent."
+    },
+    {
+      "ranges": [
+        [
+          16967,
+          17172
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Complete resection is possible in 48 to 75 percent of patients with this type of hepatocellular carcinoma, as compared with a resectability rate of approximately 20 percent among patients with other types."
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "case": "2021 Case 38.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-01T21:51:37.407167+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7145,
+          7218
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The constellation of her symptoms prompts evaluation for acute porphyria."
+    },
+    {
+      "ranges": [
+        [
+          8262,
+          8448
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": " Accumulation of the porphyrin precursors causes damage to neurons in the gut, brain, and peripheral nervous system; accumulation of porphyrins causes photosensitivity and damage to skin"
+    },
+    {
+      "ranges": [
+        [
+          8958,
+          9076
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "This patient had gastrointestinal and neurologic symptoms; therefore, acute intermittent porphyria must be considered."
+    },
+    {
+      "ranges": [
+        [
+          10489,
+          10632
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Attacks of acute intermittent porphyria can be precipitated by progesterone surges associated with menses, caloric deprivation, or medications."
+    },
+    {
+      "ranges": [
+        [
+          10901,
+          11145
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Although she had some features of acute intermittent porphyria, her older age, the chronicity of the abdominal pain, and the presence of anemia are not consistent with acute intermittent porphyria and prompt me to seek an alternative diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11181,
+          11371
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "After learning about the patient’s diet, I can expand the differential diagnosis beyond porphyria and consider nutritional deficiencies and side effects of macronutrients and micronutrients."
+    },
+    {
+      "ranges": [
+        [
+          13290,
+          13365
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of basophilic stippling is probably a major clue in this case."
+    },
+    {
+      "ranges": [
+        [
+          13009,
+          13111
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Basophilic stippling is caused by abnormal aggregates of ribosomes and polyribosomes in reticulocytes."
+    },
+    {
+      "ranges": [
+        [
+          16053,
+          16242
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Lead poisoning could explain the patient’s chronic gastrointestinal and neurologic symptoms, the absence of focal examination findings, and the presence of anemia with basophilic stippling."
+    },
+    {
+      "ranges": [
+        [
+          19444,
+          19631
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "ALA dehydratase inhibition can fully explain the elevations in the levels of urinary ALA, coproporphyrin, and erythrocyte zinc protoporphyrin that are seen in persons with lead poisoning."
+    },
+    {
+      "ranges": [
+        [
+          19635,
+          19786
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "This patient’s blood lead level was markedly increased, at 104 μg per deciliter (reference value, <4.9), which confirmed a diagnosis of lead poisoning."
+    },
+    {
+      "ranges": [
+        [
+          16478,
+          16619
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I suspect that this patient had lead poisoning from ingestion of Ayurvedic medicines and that the diagnostic test was for a blood lead level."
+    },
+    {
+      "ranges": [
+        [
+          14586,
+          14716
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Patients may be reluctant to disclose that they are taking these medicines or may not realize that it is relevant medical history."
+    },
+    {
+      "ranges": [
+        [
+          23656,
+          24037
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Possible explanations for the patient’s persistently elevated blood lead level included continued exposure (which neither she nor her daughter reported), high bone stores in equilibrium with blood (although there had been no known exposures before her use of Ayurvedic medicines), or more likely, mild chronic renal insufficiency with potentially decreased renal excretion of lead."
+    }
+  ]
+}

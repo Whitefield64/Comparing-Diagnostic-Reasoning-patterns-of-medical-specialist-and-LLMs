@@ -1,0 +1,139 @@
+{
+  "case": "2012 Case 40.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-01T21:35:27.948499+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3728,
+          3931
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": " Arrhythmias may also produce dramatic alterations in physiology, but the only dysrhythmia seen in this case was a bradycardia, a finding associated with what we soon determined was the likely diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          3205,
+          3331
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Such situations require clinicians to focus promptly on a most-likely diagnosis in order to direct problem-specific therapies."
+    },
+    {
+      "ranges": [
+        [
+          9468,
+          9655
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If these measures are ineffective, hysterectomy may be considered, but performing an operation on women who have this condition and have ongoing coagulopathy is itself fraught with peril."
+    },
+    {
+      "ranges": [
+        [
+          3395,
+          3496
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Primary cardiac events need to be considered as a cause of intraoperative cardiorespiratory collapse."
+    },
+    {
+      "ranges": [
+        [
+          6724,
+          6932
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The clinical presentation of amniotic-fluid embolism includes cardiovascular collapse (bradycardia or hypotension or both), apnea, bleeding, or evidence of fetal compromise (if delivery has not yet occurred)."
+    },
+    {
+      "ranges": [
+        [
+          5434,
+          5605
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Amniotic-fluid embolism is thought to result from maternal reaction to fetal material entering the pulmonary circulation and can cause apnea, hypotension, and bradycardia."
+    },
+    {
+      "ranges": [
+        [
+          5606,
+          5845
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Amniotic-fluid embolism, although rare, is well known and feared by obstetricians, and because it seemed the most likely explanation for this patient's condition, this diagnosis will be the focus of the discussion here, as it was that day."
+    },
+    {
+      "ranges": [
+        [
+          13800,
+          13992
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the finding of 100% pulmonary dead space in the context of cardiac arrest presenting as pulseless electrical activity rapidly led us to the preliminary diagnosis of an amniotic-fluid embolism."
+    },
+    {
+      "ranges": [
+        [
+          19551,
+          19686
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the likely diagnosis of an amniotic-fluid embolism, we predicted that the patient's cardiopulmonary system would recover quickly."
+    },
+    {
+      "ranges": [
+        [
+          23146,
+          23257
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Perhaps rapid initiation of a selective pulmonary arterial relaxant, such as nitric oxide, might be beneficial."
+    },
+    {
+      "ranges": [
+        [
+          22700,
+          22768
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The pathophysiological features of pulmonary emboli are fascinating."
+    },
+    {
+      "ranges": [
+        [
+          22769,
+          22898
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The profound right ventricular dysfunction seems to be caused by more than just a mechanical obstruction of the pulmonary artery."
+    }
+  ]
+}

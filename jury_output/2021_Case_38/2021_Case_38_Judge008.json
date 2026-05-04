@@ -1,0 +1,172 @@
+{
+  "case": "2021 Case 38.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-01T20:23:14.590639+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8048,
+          8262
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The accumulation of porphyrin precursors (delta-aminolevulinic acid [ALA] or porphobilinogen [PBG]) or porphyrins (i.e., uroporphyrin, coproporphyrin, or protoporphyrin) leads to the clinical features of porphyria."
+    },
+    {
+      "ranges": [
+        [
+          8263,
+          8449
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Accumulation of the porphyrin precursors causes damage to neurons in the gut, brain, and peripheral nervous system; accumulation of porphyrins causes photosensitivity and damage to skin."
+    },
+    {
+      "ranges": [
+        [
+          9028,
+          9076
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "acute intermittent porphyria must be considered."
+    },
+    {
+      "ranges": [
+        [
+          10489,
+          10632
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Attacks of acute intermittent porphyria can be precipitated by progesterone surges associated with menses, caloric deprivation, or medications."
+    },
+    {
+      "ranges": [
+        [
+          10965,
+          11145
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "her older age, the chronicity of the abdominal pain, and the presence of anemia are not consistent with acute intermittent porphyria and prompt me to seek an alternative diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          13290,
+          13365
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of basophilic stippling is probably a major clue in this case."
+    },
+    {
+      "ranges": [
+        [
+          13009,
+          13111
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Basophilic stippling is caused by abnormal aggregates of ribosomes and polyribosomes in reticulocytes."
+    },
+    {
+      "ranges": [
+        [
+          13112,
+          13289
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Basophilic stippling occurs when hemoglobin synthesis is impaired, usually in the context of thalassemia (impaired globin synthesis) or lead poisoning (impaired heme synthesis)."
+    },
+    {
+      "ranges": [
+        [
+          16053,
+          16242
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Lead poisoning could explain the patient’s chronic gastrointestinal and neurologic symptoms, the absence of focal examination findings, and the presence of anemia with basophilic stippling."
+    },
+    {
+      "ranges": [
+        [
+          10636,
+          10782
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "This patient had reduced oral intake (initially related to dieting and later to anorexia and nausea), which could have led to caloric deprivation."
+    },
+    {
+      "ranges": [
+        [
+          19444,
+          19631
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "ALA dehydratase inhibition can fully explain the elevations in the levels of urinary ALA, coproporphyrin, and erythrocyte zinc protoporphyrin that are seen in persons with lead poisoning."
+    },
+    {
+      "ranges": [
+        [
+          19049,
+          19306
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "An elevation in the ALA level but not the PBG level, as was the case in this patient, suggests ALA dehydratase deficiency, which is associated with ALA dehydratase–deficiency porphyria (an extremely rare disease), lead poisoning, and hereditary tyrosinemia."
+    },
+    {
+      "ranges": [
+        [
+          23656,
+          24037
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Possible explanations for the patient’s persistently elevated blood lead level included continued exposure (which neither she nor her daughter reported), high bone stores in equilibrium with blood (although there had been no known exposures before her use of Ayurvedic medicines), or more likely, mild chronic renal insufficiency with potentially decreased renal excretion of lead."
+    },
+    {
+      "ranges": [
+        [
+          24171,
+          24247
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Lead poisoning can result in permanent effects on cognition, even in adults."
+    },
+    {
+      "ranges": [
+        [
+          24248,
+          24490
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The contribution of lead to this patient’s cognitive problems is difficult to determine with certainty, given her initial presentation with severe hyponatremia and emotional distress and later, the presence of stress, anxiety, and depression."
+    }
+  ]
+}

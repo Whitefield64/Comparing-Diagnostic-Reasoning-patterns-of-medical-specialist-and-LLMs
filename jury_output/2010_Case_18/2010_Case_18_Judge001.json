@@ -1,0 +1,161 @@
+{
+  "case": "2010 Case 18.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-01T20:43:58.356313+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          13866,
+          14015
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Several factors are likely to have contributed: difficulties with adherence, an interaction between rifampin and ritonavir, and problems with dosing."
+    },
+    {
+      "ranges": [
+        [
+          14016,
+          14184
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Mutations associated with resistance to protease inhibitors and NRTIs, such as lamivudine (M184V) and thymidine analogues, are likely to have developed in this patient."
+    },
+    {
+      "ranges": [
+        [
+          16920,
+          17067
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "When it is determined that antiretroviral therapy has failed in a child, a full assessment of the possible reasons for failure should be conducted."
+    },
+    {
+      "ranges": [
+        [
+          17161,
+          17269
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A change in the drug regimen should be guided by the patient's drug history and genotyping (when available)."
+    },
+    {
+      "ranges": [
+        [
+          16660,
+          16916
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although we know of no randomized, controlled trials to guide decisions about the optimal viral load at which to switch to second-line therapy, there are some principles of switching antiretroviral therapy after treatment failure that may provide guidance."
+    },
+    {
+      "ranges": [
+        [
+          20875,
+          21004
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This case illustrates the problems that can occur when HIV infection in pediatric patients is not diagnosed and treated properly."
+    },
+    {
+      "ranges": [
+        [
+          17499,
+          17686
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In this patient, multiple protease-inhibitor mutations were detected. Since the child had not previously received an NNRTI, a simple switch to two NRTIs and an NNRTI might be appropriate."
+    },
+    {
+      "ranges": [
+        [
+          17687,
+          17791
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Alternatively, a regimen that includes an NNRTI plus a newer protease inhibitor might also be effective."
+    },
+    {
+      "ranges": [
+        [
+          17792,
+          17974
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "HIV that is resistant to older protease inhibitors, such as lopinavir boosted with ritonavir, may still be susceptible to newer protease inhibitors, such as darunavir and tipranavir."
+    },
+    {
+      "ranges": [
+        [
+          19122,
+          19195
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "the choice of the backbone NRTI treatment should be guided by genotyping."
+    },
+    {
+      "ranges": [
+        [
+          18999,
+          19101
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The mutations seen in this patient's virus confer intermediate resistance to darunavir and tipranavir."
+    },
+    {
+      "ranges": [
+        [
+          19394,
+          19475
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The M184V mutation reduces the fitness of viruses and their ability to replicate."
+    },
+    {
+      "ranges": [
+        [
+          20454,
+          20582
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "In situations in which resources are limited, however, ritonavir-boosted darunavir might not be readily available or affordable."
+    },
+    {
+      "ranges": [
+        [
+          20583,
+          20871
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "If resistance to multiple protease inhibitors occurs, options might be to switch to a less durable regimen, such as efavirenz, didanosine, and lamivudine, or to try a holding regimen such as lamivudine monotherapy, which has shown some promising results in a small study involving adults."
+    }
+  ]
+}

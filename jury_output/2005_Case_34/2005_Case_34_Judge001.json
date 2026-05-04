@@ -1,0 +1,95 @@
+{
+  "case": "2005 Case 34.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-01T20:04:33.152922+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8435,
+          8571
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The fact that therapy with carbamazepine had been recently initiated focuses the differential diagnosis on cutaneous reactions to drugs."
+    },
+    {
+      "ranges": [
+        [
+          11571,
+          11794
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Toxic epidermal necrolysis is thought to be a cell-mediated immunologic reaction to drug metabolites, which may accumulate because of abnormal metabolism of the drug, resulting in the persistence of immunogenic metabolites."
+    },
+    {
+      "ranges": [
+        [
+          10207,
+          10316
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The extent of involvement and the clinical history in this patient are virtually diagnostic of this disorder."
+    },
+    {
+      "ranges": [
+        [
+          11986,
+          12071
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The necrosis appears to be mediated by CD8+ T cells by way of Fas-mediated apoptosis."
+    },
+    {
+      "ranges": [
+        [
+          17980,
+          18035
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the pattern of the acute respiratory distress syndrome."
+    },
+    {
+      "ranges": [
+        [
+          20252,
+          20353
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Most deaths in patients with toxic epidermal necrolysis are a result of sepsis-induced organ failure."
+    },
+    {
+      "ranges": [
+        [
+          17788,
+          18035
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis of the alveolar opacities includes pulmonary hemorrhage, pneumonia, or pulmonary edema; in this clinical setting, the progressive changes seen on the films best fit the pattern of the acute respiratory distress syndrome."
+    },
+    {
+      "ranges": [
+        [
+          21047,
+          21204
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "It has been theorized that intravenous immune globulin may improve outcomes, given its salutary effect in another inflammatory condition, Kawasaki's disease."
+    }
+  ]
+}

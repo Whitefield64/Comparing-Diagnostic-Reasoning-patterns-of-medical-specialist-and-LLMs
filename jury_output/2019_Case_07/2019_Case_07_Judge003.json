@@ -1,0 +1,183 @@
+{
+  "case": "2019 Case 07.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-01T20:20:46.057279+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8793,
+          8942
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Her current symptoms suggest a marked deviation from her established pattern of disease and are unlikely to be explained by progression of CLL alone."
+    },
+    {
+      "ranges": [
+        [
+          8943,
+          9074
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "In addition, the prominent systemic symptoms, rapid progression, and asymmetric lymphadenopathy would all be highly unusual in CLL."
+    },
+    {
+      "ranges": [
+        [
+          8402,
+          8467
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I will construct my differential diagnosis around these features."
+    },
+    {
+      "ranges": [
+        [
+          9758,
+          9839
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Acquisition of a high-risk mutation could result in an aggressive disease course."
+    },
+    {
+      "ranges": [
+        [
+          9840,
+          10087
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "However, if this patient had a high-risk genetic lesion, even the most biologically aggressive type, I would expect her to have symmetric lymphadenopathy, rather than predominantly right inguinal lymphadenopathy, because CLL is a systemic disease."
+    },
+    {
+      "ranges": [
+        [
+          10136,
+          10442
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "This patient’s rapidly growing and asymmetric lymphadenopathy, unexplained fever, drenching night sweats, and weight loss raise the possibility of Richter’s transformation, a syndrome in which diffuse large B-cell lymphoma (DLBCL), or in rare cases classic Hodgkin’s lymphoma, arises in a patient with CLL."
+    },
+    {
+      "ranges": [
+        [
+          11316,
+          11556
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Lesions associated with CLL often have a level of FDG avidity that is at or slightly above the level in the liver, with some heterogeneity, whereas lesions associated with Richter’s transformation typically have a high level of FDG avidity."
+    },
+    {
+      "ranges": [
+        [
+          11557,
+          11699
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "This patient’s right inguinal lymph nodes had high FDG avidity, which would be unusual in CLL but is consistent with Richter’s transformation."
+    },
+    {
+      "ranges": [
+        [
+          12200,
+          12402
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "he patient’s clinical and imaging findings are not consistent with CLL alone, it is possible that a sampling error resulted in failure to identify the disease process that was driving her presentation. "
+    },
+    {
+      "ranges": [
+        [
+          16185,
+          16318
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other possibilities were infectious lymphadenitis and infiltration of lymph nodes by melanoma from an unknown primary cutaneous site."
+    },
+    {
+      "ranges": [
+        [
+          15611,
+          15702
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Because the patient has spent a lot of time outdoors, glandular tularemia is a possibility."
+    },
+    {
+      "ranges": [
+        [
+          15988,
+          16107
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "When I performed a clinical evaluation of the patient, I thought that her presentation was inconsistent with CLL alone."
+    },
+    {
+      "ranges": [
+        [
+          16108,
+          16184
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I was most concerned about Richter’s transformation, most likely with DLBCL."
+    },
+    {
+      "ranges": [
+        [
+          20709,
+          20834
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The onset of HSV lymphadenitis in CLL occurs between 50 and 86 years of age, and the incidence does not differ between sexes."
+    },
+    {
+      "ranges": [
+        [
+          21424,
+          21647
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "given the potential consequences of not treating this serious infection in an immunocompromised host, it would be reasonable to initiate a course of intravenous acyclovir followed by a prolonged course of oral valacyclovir."
+    },
+    {
+      "ranges": [
+        [
+          21648,
+          21864
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Because of the persistent immunocompromise seen in patients with CLL, lifelong antiviral suppression may be indicated, although partial viral suppression in an immunocompromised host may lead to acyclovir resistance."
+    }
+  ]
+}

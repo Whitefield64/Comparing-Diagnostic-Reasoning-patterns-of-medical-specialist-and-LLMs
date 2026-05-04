@@ -1,0 +1,150 @@
+{
+  "case": "1996 Case 14.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-01T09:56:22.596552+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          11085,
+          11287
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's presentation with leukopenia, thrombocytopenia, and mucosal ulceration may reflect the unexpected toxic effects of the relatively low doses of methotrexate she was receiving for arthritis."
+    },
+    {
+      "ranges": [
+        [
+          21513,
+          21630
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The best explanation for the patient's fatal illness is infection with aspergillus or a morphologically similar mold."
+    },
+    {
+      "ranges": [
+        [
+          25816,
+          26001
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Alternative diagnoses include superinfections with other fungi, in particular  *P. boydii,* or possibly with  *Nocardia asteroides,* but these diagnoses are less likely epidemiologicall"
+    },
+    {
+      "ranges": [
+        [
+          24316,
+          24553
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "In the light of the last finding and because of the overwhelming risk of fungal infection, I believe that pseudomembranous, necrotizing tracheobronchial aspergillosis developed, complicated by dissemination to the central nervous system."
+    },
+    {
+      "ranges": [
+        [
+          9554,
+          9731
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If this patient's illness had been limited to erythema multiforme minor, herpes simplex virus infection followed by erythema multiforme could have explained much of her illness."
+    },
+    {
+      "ranges": [
+        [
+          22925,
+          22988
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "he spectrum of disease caused by the two fungi is very similar."
+    },
+    {
+      "ranges": [
+        [
+          18705,
+          18920
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The consumption of complement proteins during acute flares of autoimmune diseases leads to impaired opsonization of candida species and bacteria, and corticosteroids impair virtually all the functions of phagocytes."
+    },
+    {
+      "ranges": [
+        [
+          18448,
+          18516
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Several clues in this patient's history point to a fungal infection."
+    },
+    {
+      "ranges": [
+        [
+          23077,
+          23181
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "On epidemiologic grounds, however, aspergillus must be considered the most likely organism in this case."
+    },
+    {
+      "ranges": [
+        [
+          28074,
+          28185
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "An immune response due to preexisting disease and its treatment predisposes the host to invasive aspergillosis."
+    },
+    {
+      "ranges": [
+        [
+          27783,
+          27846
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Negative cultures are common in cases of aspergillus infection."
+    },
+    {
+      "ranges": [
+        [
+          28400,
+          28621
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Toxic epidermal necrolysis, or Lyell's syndrome, named after Lyell, who first described the disease in 1956, is an uncommon idiosyncratic drug reaction involving epidermal necrosis that may be massive, as in this patient."
+    },
+    {
+      "ranges": [
+        [
+          28767,
+          28972
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Sepsis, usually due to  *Staphylococcus aureus* or  *Pseudomonas aeruginosa,* has been reported in 40 percent of patients with toxic epidermal necrolysis and was the primary cause of death in these patient"
+    }
+  ]
+}

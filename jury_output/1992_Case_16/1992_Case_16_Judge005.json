@@ -1,0 +1,139 @@
+{
+  "case": "1992 Case 16.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-01T09:51:30.618805+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5928,
+          6110
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The motor weakness restricted to the intrinsic muscles of the left hand could indicate compression of the C8 root or a problem at a higher level in the spinal cord or even the brain."
+    },
+    {
+      "ranges": [
+        [
+          6501,
+          6660
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Distal spread of the biceps reflex (that is, curling of the fingers during testing of the biceps tendon jerk) indicates pathologic exaggeration of this reflex."
+    },
+    {
+      "ranges": [
+        [
+          6661,
+          6743
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This sign also suggests a problem of the pyramidal system above the C6 root level."
+    },
+    {
+      "ranges": [
+        [
+          10058,
+          10215
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Fractures and subluxations should have been ruled out by the plain x-ray films, and the MRI scan was probably ordered in search of a herniated cervical disk."
+    },
+    {
+      "ranges": [
+        [
+          10335,
+          10436
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Cervical-disk herniations are clearly demonstrated on MRI scanning and do not cause bone destruction."
+    },
+    {
+      "ranges": [
+        [
+          10437,
+          10581
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A fracture with a hematoma can cause a mass compressing the cord, but one would expect to see bone fragments, which were not shown in this case."
+    },
+    {
+      "ranges": [
+        [
+          9468,
+          9699
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Several pathological categories, including traumatic, metabolic, congenital, neoplastic, and inflammatory lesions, deserve mention in the differential diagnosis of spinal-cord dysfunction associated with cervical vertebral lesions."
+    },
+    {
+      "ranges": [
+        [
+          12121,
+          12320
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The demonstration of erosion of two adjacent vertebral-body end plates with narrowing of the intervening disk space has been considered the radiographic hallmark of infection for over half a century."
+    },
+    {
+      "ranges": [
+        [
+          23840,
+          23938
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The weight of the evidence favors pyogenic infection, and the most likely organism is  *S. aureus*"
+    },
+    {
+      "ranges": [
+        [
+          12001,
+          12117
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the pattern of involvement of the disk space and adjoining vertebral end plates and the elevated sedimentation rate."
+    },
+    {
+      "ranges": [
+        [
+          20425,
+          20689
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Tuberculosis tends to differ from pyogenic infection on radiographic examination, because it usually begins in the anterior-inferior part of a vertebral body and typically produces a large anterior soft-tissue mass, unlike the process in the case under discussion."
+    },
+    {
+      "ranges": [
+        [
+          24174,
+          24397
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Rapid cervical flexion perhaps resulted in protrusion of an infected mass against the anterior surface of the spinal cord, with spread of purulent material around the posterior longitudinal ligament into the epidural space."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "case": "2016 Case 03.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-01T21:59:28.563462+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          19173,
+          19456
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Because most of the other diagnoses under consideration in this patient were ruled out through the evaluations performed by her primary care and gastroenterology physicians, it seemed likely that the diagnosis in this patient would be functional abdominal pain or abdominal migraine."
+    },
+    {
+      "ranges": [
+        [
+          12597,
+          12814
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the suspicion for inflammatory bowel disease had been higher, screening for fecal occult blood and potentially for inflammatory markers (e.g., calprotectin or lactoferrin) might have been helpful in the evaluation."
+    },
+    {
+      "ranges": [
+        [
+          20742,
+          20944
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "all pattern of enhancement was similar to that seen in the spleen, and the mass did not have calcifications, fatty components, or any areas of decreased enhancement that would be suggestive of necrosis."
+    },
+    {
+      "ranges": [
+        [
+          22481,
+          22777
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "nt. Torsion of an accessory spleen is most commonly reported in children but can also occur in adults. Patients with torsion may present with acute abdominal pain, but intermittent or chronic pain has also been described, and infarction or rupture leading to acute abdominal hemorrhage can occur."
+    },
+    {
+      "ranges": [
+        [
+          9841,
+          10178
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": " cases of constipation require a self-limited course of osmotic laxative therapy, some cases require long-term laxative use. When abdominal symptoms recur (as they did in this patient), possible causes include poor adherence to therapy, as well as the possibility that constipation might coexist with an additional underlying cause of ab"
+    },
+    {
+      "ranges": [
+        [
+          11706,
+          11949
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Current guidelines for screening pediatric patients for  *H. pylori* –associated disease focus on patients with recalcitrant iron-deficiency anemia, a family history of gastric cancer, or the presence of a peptic ulcer on endoscopic examinatio"
+    },
+    {
+      "ranges": [
+        [
+          19675,
+          19927
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Some evidence suggests that mind–body therapies (e.g., biofeedback and relaxation techniques) are effective for the management of chronic abdominal pain and headache in children, and a trial of such therapies was the planned next step for this patient."
+    },
+    {
+      "ranges": [
+        [
+          20945,
+          21215
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The appearance of the mass was unlike that of a lymph-node mass, a primary intraabdominal cancer, or metastatic disease; rather, the findings were most consistent with a relatively large accessory spleen, without evidence of complications such as necrosis or infarction."
+    },
+    {
+      "ranges": [
+        [
+          25199,
+          25502
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": " explanations: the accessory spleen may have been obscured by overlying bowel gas, or it was not visible because of its location, since our routine protocol for abdominal ultrasonography focuses primarily on evaluating the solid intraabdominal organs and does not include imaging of the lower quadrants."
+    },
+    {
+      "ranges": [
+        [
+          23807,
+          23958
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The tissue was predominantly unremarkable red and white pulp with an overlying capsule; the appearance was consistent with that of an accessory spleen."
+    }
+  ]
+}

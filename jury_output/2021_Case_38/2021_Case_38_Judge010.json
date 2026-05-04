@@ -1,0 +1,161 @@
+{
+  "case": "2021 Case 38.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-01T20:23:14.590963+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          13290,
+          13365
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of basophilic stippling is probably a major clue in this case."
+    },
+    {
+      "ranges": [
+        [
+          13112,
+          13289
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Basophilic stippling occurs when hemoglobin synthesis is impaired, usually in the context of thalassemia (impaired globin synthesis) or lead poisoning (impaired heme synthesis)."
+    },
+    {
+      "ranges": [
+        [
+          10901,
+          11145
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Although she had some features of acute intermittent porphyria, her older age, the chronicity of the abdominal pain, and the presence of anemia are not consistent with acute intermittent porphyria and prompt me to seek an alternative diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          16053,
+          16242
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Lead poisoning could explain the patient’s chronic gastrointestinal and neurologic symptoms, the absence of focal examination findings, and the presence of anemia with basophilic stippling."
+    },
+    {
+      "ranges": [
+        [
+          12239,
+          12419
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The constellation of this patient’s signs and symptoms would not be explained by a ketogenic diet, and I am reassured that a nutritional deficiency is not the cause of her illness."
+    },
+    {
+      "ranges": [
+        [
+          16243,
+          16344
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The dilated loops of small bowel were later explained by adhesions resulting from previous surgeries."
+    },
+    {
+      "ranges": [
+        [
+          19049,
+          19306
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "An elevation in the ALA level but not the PBG level, as was the case in this patient, suggests ALA dehydratase deficiency, which is associated with ALA dehydratase–deficiency porphyria (an extremely rare disease), lead poisoning, and hereditary tyrosinemia."
+    },
+    {
+      "ranges": [
+        [
+          14870,
+          14959
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Lead poisoning causes a range of nonspecific symptoms, depending on the blood lead level."
+    },
+    {
+      "ranges": [
+        [
+          19635,
+          19785
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "This patient’s blood lead level was markedly increased, at 104 μg per deciliter (reference value, <4.9), which confirmed a diagnosis of lead poisoning"
+    },
+    {
+      "ranges": [
+        [
+          17099,
+          17246
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "For many of these causes, the specific porphyrins that are elevated and the degree and mechanism of elevation have not been systematically studied."
+    },
+    {
+      "ranges": [
+        [
+          16478,
+          16619
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I suspect that this patient had lead poisoning from ingestion of Ayurvedic medicines and that the diagnostic test was for a blood lead level."
+    },
+    {
+      "ranges": [
+        [
+          14586,
+          14716
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Patients may be reluctant to disclose that they are taking these medicines or may not realize that it is relevant medical history."
+    },
+    {
+      "ranges": [
+        [
+          10636,
+          10781
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "This patient had reduced oral intake (initially related to dieting and later to anorexia and nausea), which could have led to caloric deprivation"
+    },
+    {
+      "ranges": [
+        [
+          23656,
+          24037
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Possible explanations for the patient’s persistently elevated blood lead level included continued exposure (which neither she nor her daughter reported), high bone stores in equilibrium with blood (although there had been no known exposures before her use of Ayurvedic medicines), or more likely, mild chronic renal insufficiency with potentially decreased renal excretion of lead."
+    }
+  ]
+}

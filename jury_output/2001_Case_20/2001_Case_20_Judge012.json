@@ -1,0 +1,128 @@
+{
+  "case": "2001 Case 20.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-01T09:59:59.532433+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9258,
+          9709
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient's recent travel to the Middle East, an area where  *B. melitensis,* an enzootic disease, is highly endemic ; a clinical picture that is very suggestive of brucellosis ; the initial identification of the gram-negative bacillus as  *M. phenylpyruvica,* which is often confused with  *B. melitensis* by laboratories using rapid, automated commercial methods ; and the fact that moraxella species other than  *M. catarrhalis* rarely infect hum"
+    },
+    {
+      "ranges": [
+        [
+          11671,
+          11856
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If this patient had brucellosis, why did his disease relapse? The most likely explanation is inappropriate monotherapy with a quinolone (ciprofloxacin) and a cephalosporin (cefuroxime)."
+    },
+    {
+      "ranges": [
+        [
+          12029,
+          12451
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Two prospective studies in Spain identified several independent risk factors for a relapse of brucellosis: suboptimal antibiotic therapy, male sex, and various clinical markers indicative of severe infection (positive blood cultures during the initial infection, illness for less than 10 days before the start of treatment, thrombocytopenia, and a high initial temperature). This patient had almost all these risk factors."
+    },
+    {
+      "ranges": [
+        [
+          14990,
+          15305
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A diagnosis of brucellosis does not exclude the possibility of associated tuberculosis, and a partial response to treatment for brucellosis with drugs that have activity against mycobacteria, such as rifampin, streptomycin, and quinolones, may make it difficult to establish a diagnosis of concomitant tuberculosis."
+    },
+    {
+      "ranges": [
+        [
+          9934,
+          10229
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The clinical findings are compatible with the presence of  *B. melitensis* infection for several reasons. First, the protean, frequently elusive, nonspecific manifestations of this disease, including a nonspecific febrile syndrome without localizing signs and symptoms, have long been recognized"
+    },
+    {
+      "ranges": [
+        [
+          11279,
+          11622
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The description of the gram-negative bacterium as a bacillus (in the first positive blood culture) and as a rod (in the second positive blood culture), the absence of β-lactamase production, and the susceptibility profile of the organism are all consistent with infection by a brucella species, which can have a coccoid or rod-like appearance."
+    },
+    {
+      "ranges": [
+        [
+          14004,
+          14276
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Renal abnormalities in cases of brucella infection are rare, and the absence of any associated symptoms, the negative urine cultures, and the nonspecific appearance of the renal cysts in the present case make the possibility of renal involvement by brucella very unlikely."
+    },
+    {
+      "ranges": [
+        [
+          14589,
+          14720
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The possibility of early spondylitis due to brucella merits consideration in this patient because it is very common in brucellosis."
+    },
+    {
+      "ranges": [
+        [
+          14897,
+          14989
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Extrapulmonary tuberculosis can simulate brucellosis, especially when the spine is involved."
+    },
+    {
+      "ranges": [
+        [
+          15932,
+          16053
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In summary, the most likely diagnosis in this case is subacute, partially treated brucellosis caused by  *B. melitensis* "
+    },
+    {
+      "ranges": [
+        [
+          18387,
+          18503
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "during his travels in Lebanon, he had handled raw sheep and goat meat and had regularly consumed unprocessed cheese."
+    }
+  ]
+}

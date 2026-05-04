@@ -1,0 +1,183 @@
+{
+  "case": "2006 Case 36.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-01T20:40:07.934337+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4835,
+          4930
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of hypokalemia increased my suspicion that the problem was secondary hypertension."
+    },
+    {
+      "ranges": [
+        [
+          10237,
+          10301
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hypokalemia reflected the magnitude of this excess cortisol."
+    },
+    {
+      "ranges": [
+        [
+          3902,
+          4091
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although this patient had proteinuria, it was not severe enough to warrant a diagnosis of preeclampsia; in addition, the onset of preeclampsia would be unlikely this early in the pregnancy."
+    },
+    {
+      "ranges": [
+        [
+          4092,
+          4164
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Gestational hypertension would also be unlikely this early in pregnancy."
+    },
+    {
+      "ranges": [
+        [
+          10302,
+          10466
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The normal aldosterone level and elevated plasma renin activity were consistent with pregnancy, ruling out an aldosterone-secreting tumor as a cause of hypokalemia."
+    },
+    {
+      "ranges": [
+        [
+          13619,
+          13769
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although a pituitary tumor is the most common cause of Cushing's syndrome, an adrenal source accounts for 40 to 50% of the cases in pregnant patients."
+    },
+    {
+      "ranges": [
+        [
+          4165,
+          4232
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Thus, I was left with a probable diagnosis of chronic hypertension."
+    },
+    {
+      "ranges": [
+        [
+          5773,
+          5863
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "It seemed fairly clear to me that this woman had preexisting, undiagnosed type 2 diabetes."
+    },
+    {
+      "ranges": [
+        [
+          9383,
+          9518
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Low-dose dexamethasone suppression testing can be used to diagnose Cushing's syndrome despite the occurrence of false negative results."
+    },
+    {
+      "ranges": [
+        [
+          14895,
+          15066
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The use of metyrapone during pregnancy has been reported in a few cases ; however, definitive surgery usually should not be delayed until the cortisol level is normalized."
+    },
+    {
+      "ranges": [
+        [
+          5375,
+          5544
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The broad definition of gestational diabetes includes the coincidental development of type 1 during pregnancy as well as the presence of preexisting, undiagnosed type 2."
+    },
+    {
+      "ranges": [
+        [
+          12335,
+          12602
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the corticotropin level of 3 pg per milliliter (0.6 nmol per liter) in the setting of profound hypercortisolemia was strongly suggestive of an adrenal source of Cushing's syndrome, and it led us to order an adrenal MRI without the administration of contrast material."
+    },
+    {
+      "ranges": [
+        [
+          15904,
+          16094
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "prompt adrenalectomy, as compared with postponement of the surgery until after delivery, reduces the risk of maternal complications, fetal death, premature birth, and neonatal complications."
+    },
+    {
+      "ranges": [
+        [
+          14508,
+          14608
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "rapidly escalating hypertension and insulin-requiring diabetes made surgical cure an immediate goal."
+    },
+    {
+      "ranges": [
+        [
+          5212,
+          5374
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The glycated hemoglobin value of 8.2% at 16 weeks and 6 days' gestation led me to suspect that she had had hyperglycemia for some time before her pregnancy began."
+    },
+    {
+      "ranges": [
+        [
+          7716,
+          7844
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The single finding that appropriately prompted an evaluation of this patient for Cushing's syndrome was unexplained hypokalemia."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "case": "2016 Case 03.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-01T21:39:42.700746+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7866,
+          7953
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "several notable features of her presentation initially influenced my working diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8182,
+          8249
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "constipation the working diagnosis for much of her clinical course."
+    },
+    {
+      "ranges": [
+        [
+          8961,
+          9093
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the severity, quality, increasing frequency, and epigastric location of the pain prompted the consideration of alternative diagnoses"
+    },
+    {
+      "ranges": [
+        [
+          17150,
+          17259
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The likelihood that a migraine headache will occur in 1 year in a patient with abdominal migraine is only 24%"
+    },
+    {
+      "ranges": [
+        [
+          18078,
+          18271
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The escalating frequency and severity of this patient’s episodic, acute-onset abdominal pain and vomiting raise the possibility of an intermittent process originating from a congenital disorder"
+    },
+    {
+      "ranges": [
+        [
+          17725,
+          17894
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "the most likely type of gallstone is cholesterol-based, and ultrasonography of the right upper quadrant has greater than 90% sensitivity for the diagnosis of this entity"
+    },
+    {
+      "ranges": [
+        [
+          21064,
+          21214
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "; rather, the findings were most consistent with a relatively large accessory spleen, without evidence of complications such as necrosis or infarction"
+    },
+    {
+      "ranges": [
+        [
+          22071,
+          22332
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The differential diagnosis for ectopic splenic tissue also includes splenosis, which generally occurs after trauma to the spleen, and polysplenia, a rare syndrome in which patients have multiple small spleens and often also have congenital cardiac abnormalities"
+    }
+  ]
+}

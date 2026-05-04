@@ -1,0 +1,106 @@
+{
+  "case": "2012 Case 17.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-01T20:13:45.248517+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5593,
+          5707
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A tumor was the leading diagnostic possibility, and a primary brain tumor was more likely than a metastatic tumor."
+    },
+    {
+      "ranges": [
+        [
+          6304,
+          6464
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Although infarcts may be contrast enhancing, the appearance of two discrete, contrast-enhancing mass lesions is more typical of tumor than of cerebral infarcts."
+    },
+    {
+      "ranges": [
+        [
+          9861,
+          10184
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In one study, patients with glioblastoma whose tumors were positive for  *MGMT* methylation, as this patient's was, had a median survival of 21.7 months and 2-year survival of 46%, as compared with patients whose tumors were negative for  *MGMT* methylation, who had a median survival of 12.7 months and 2-year survival of "
+    },
+    {
+      "ranges": [
+        [
+          12897,
+          13030
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Pseudoprogression, as observed in this patient, occurs in approximately 20 to 40% of patients with glioblastoma after chemoradiation."
+    },
+    {
+      "ranges": [
+        [
+          13332,
+          13477
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "patients with tumors that showed pseudoprogression had improved survival relative to patients with tumors that did not develop pseudoprogression."
+    },
+    {
+      "ranges": [
+        [
+          16354,
+          16617
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "In patients treated with radiation alone, CT-based investigations of the patterns of glioblastoma recurrence revealed that 90% of patients had tumor progression within 2 cm of the original tumor site and within the region of the brain that had received radiation."
+    },
+    {
+      "ranges": [
+        [
+          16884,
+          17078
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "This patient had a relapse at 19 months, outside the radiation field; the timing and location are characteristic of  *MGMT* -methylated tumors that have been treated with temozolomide and radiat"
+    },
+    {
+      "ranges": [
+        [
+          18523,
+          18623
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Despite radiographic improvement, the patient had progressive neurologic decline while on treatment."
+    },
+    {
+      "ranges": [
+        [
+          18624,
+          18853
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "It is possible that the reduction in contrast enhancement represented pseudoresponse (i.e., reduction of vessel permeability) and that the expanding regions of restricted diffusion were representative of progressive glioblastoma."
+    }
+  ]
+}
