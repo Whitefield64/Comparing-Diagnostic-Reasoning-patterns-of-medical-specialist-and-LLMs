@@ -1,0 +1,117 @@
+{
+  "case": "1992 Case 16.md",
+  "annotator": "Judge005-llama",
+  "exported_at": "2026-05-05T07:30:20.739961+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9468,
+          9699
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Several pathological categories, including traumatic, metabolic, congenital, neoplastic, and inflammatory lesions, deserve mention in the differential diagnosis of spinal-cord dysfunction associated with cervical vertebral lesions."
+    },
+    {
+      "ranges": [
+        [
+          12121,
+          12320
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The demonstration of erosion of two adjacent vertebral-body end plates with narrowing of the intervening disk space has been considered the radiographic hallmark of infection for over half a century."
+    },
+    {
+      "ranges": [
+        [
+          21124,
+          21238
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the digital infection was the source of sepsis of the spine, pyogenic infection would be the obvious diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          17856,
+          18156
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The authors of a prospective study of solitary bone lesions assessed the value of this blood test and concluded, with a degree of confidence approaching 90 percent, that patients with sedimentation rates above 30 mm per hour had metastatic tumors of unknown origin, marrow-cell tumors, or infections."
+    },
+    {
+      "ranges": [
+        [
+          23840,
+          23938
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The weight of the evidence favors pyogenic infection, and the most likely organism is  *S. aureus*"
+    },
+    {
+      "ranges": [
+        [
+          21755,
+          21863
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I have no way of being sure that the paronychia had any causal relation to the presumptive spinal infection."
+    },
+    {
+      "ranges": [
+        [
+          22483,
+          22608
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although rare in this country, vertebral osteomyelitis remains a common cause of spinal abnormalities elsewhere in the world."
+    },
+    {
+      "ranges": [
+        [
+          21459,
+          21754
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "there is a case report of a health care worker who had a paronychia as a result of a direct inoculation of the finger with tubercle bacilli, and without further details about this patient's occupational exposures as a surgical assistant, tuberculosis remains a theoretical if remote possibility."
+    },
+    {
+      "ranges": [
+        [
+          11348,
+          11532
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "One lesion that causes clefts in vertebral bodies and sometimes results in late-onset neurologic deterioration is a congenital neurenteric cyst, lined by epithelium of intestinal type."
+    },
+    {
+      "ranges": [
+        [
+          9703,
+          9846
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The first question raised in the differential diagnosis of post-traumatic pain is whether the trauma itself explains the symptoms and findings."
+    }
+  ]
+}

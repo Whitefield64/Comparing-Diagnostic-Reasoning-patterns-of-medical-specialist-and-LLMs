@@ -1,0 +1,249 @@
+{
+  "case": "1991 Case 14.md",
+  "annotator": "Judge009-gemma",
+  "exported_at": "2026-05-05T06:40:42.395932+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5759,
+          5838
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This condition is believed to be due to delayed resorption of fetal lung fluid."
+    },
+    {
+      "ranges": [
+        [
+          5868,
+          6055
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I suspect that transient tachypnea of the newborn prompted the initial x-ray film of the chest, which demonstrated the mass. Therefore, we are probably dealing with an incidental finding."
+    },
+    {
+      "ranges": [
+        [
+          7785,
+          7971
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The discovery at birth of a mass that proved to be relatively quiescent for the first 17 weeks of life leads me to consider a differential diagnosis of neoplastic and congenital lesions."
+    },
+    {
+      "ranges": [
+        [
+          7972,
+          8026
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "It is improbable that infection had an important role."
+    },
+    {
+      "ranges": [
+        [
+          9185,
+          9314
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I shall therefore focus on neurogenic tumors of the posterior mediastinum as the primary neoplastic consideration in this infant."
+    },
+    {
+      "ranges": [
+        [
+          10623,
+          10976
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "On balance, however, the cleavage plane between the paraspinal tissues and the mass, the absence of spinal involvement, the absence of calcification, and the lack of evidence of distortion of adjacent structures such as the ribs, blood vessels, and airways make the diagnosis of a neural-crest tumor unlikely in this case from a radiographic standpoint."
+    },
+    {
+      "ranges": [
+        [
+          11821,
+          12089
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The finding of a normal white-cell count and an elevated platelet count in the presence of anemia that was less severe at 17 weeks than initially indicates that the bone marrow was functioning. Therefore, the process was either not progressive or was well compensated."
+    },
+    {
+      "ranges": [
+        [
+          12311,
+          12501
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "About 90 percent of patients with thoracic neural-crest tumors have elevated levels of dopa, dopamine, norepinephrine, normetanephrine, vanilmandelic acid (VMA), and homovanillic acid (HVA)."
+    },
+    {
+      "ranges": [
+        [
+          12931,
+          13054
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
+    },
+    {
+      "ranges": [
+        [
+          13155,
+          13278
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Esophageal duplications and neurenteric cysts are largely eliminated in this case on the basis of the radiographic studies."
+    },
+    {
+      "ranges": [
+        [
+          13870,
+          14019
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "In this case we are assured that the abdominal contents were in their normal locations, thus eliminating this possibility from further consideration."
+    },
+    {
+      "ranges": [
+        [
+          14689,
+          14790
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The CT and MRI studies make this diagnosis highly unlikely, however, in the patient under discussion."
+    },
+    {
+      "ranges": [
+        [
+          16887,
+          17138
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the lack of reported polyhydramnios during gestation, the fact that the patient was a full-term infant, and the slight and rapidly resolving respiratory distress lead me away from the diagnosis of a congenital cystic adenomatoid malformation."
+    },
+    {
+      "ranges": [
+        [
+          18726,
+          18797
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "I shall therefore eliminate it from further consideration in this case."
+    },
+    {
+      "ranges": [
+        [
+          21340,
+          21433
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I propose that a thoracotomy was performed and that an extralobar sequestration was detected."
+    },
+    {
+      "ranges": [
+        [
+          21464,
+          21571
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "I believed that statistically the diagnosis was most likely to be a left-lower-lobe pulmonary sequestration"
+    },
+    {
+      "ranges": [
+        [
+          21689,
+          21792
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor."
+    },
+    {
+      "ranges": [
+        [
+          21925,
+          21972
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I suspect that they were errors in measurement."
+    },
+    {
+      "ranges": [
+        [
+          23784,
+          23866
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The disorganized architecture in this case is typical of extralobar sequestrations"
+    },
+    {
+      "ranges": [
+        [
+          24537,
+          24671
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The lymphangiectasis presumably results from interruption of the normal egress of lymph along the hilar structures to the mediastinum."
+    },
+    {
+      "ranges": [
+        [
+          27048,
+          27181
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The rapid resolution of the grunting and its lack of return caused me to discount it as being related to the lesion under discussion."
+    },
+    {
+      "ranges": [
+        [
+          27767,
+          27842
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The observation of lymphangiectasia in this case suggests such a mechanism."
+    }
+  ]
+}

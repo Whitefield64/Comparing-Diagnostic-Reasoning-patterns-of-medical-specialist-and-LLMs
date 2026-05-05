@@ -1,0 +1,95 @@
+{
+  "case": "1992 Case 16.md",
+  "annotator": "Judge001-llama",
+  "exported_at": "2026-05-05T07:23:04.403367+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9468,
+          9699
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Several pathological categories, including traumatic, metabolic, congenital, neoplastic, and inflammatory lesions, deserve mention in the differential diagnosis of spinal-cord dysfunction associated with cervical vertebral lesions."
+    },
+    {
+      "ranges": [
+        [
+          12121,
+          12320
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The demonstration of erosion of two adjacent vertebral-body end plates with narrowing of the intervening disk space has been considered the radiographic hallmark of infection for over half a century."
+    },
+    {
+      "ranges": [
+        [
+          9790,
+          9990
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "er the trauma itself explains the symptoms and findings. Fractures of vertebral bodies, subluxations of joints, or acute herniations of disk material can all impinge on nerve roots or the spinal cord."
+    },
+    {
+      "ranges": [
+        [
+          11828,
+          11928
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The most common lesions of the spine associated with neurologic compromise are tumors and infection."
+    },
+    {
+      "ranges": [
+        [
+          9703,
+          9846
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The first question raised in the differential diagnosis of post-traumatic pain is whether the trauma itself explains the symptoms and findings."
+    },
+    {
+      "ranges": [
+        [
+          23840,
+          23938
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The weight of the evidence favors pyogenic infection, and the most likely organism is  *S. aureus*"
+    },
+    {
+      "ranges": [
+        [
+          17856,
+          18156
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The authors of a prospective study of solitary bone lesions assessed the value of this blood test and concluded, with a degree of confidence approaching 90 percent, that patients with sedimentation rates above 30 mm per hour had metastatic tumors of unknown origin, marrow-cell tumors, or infections."
+    },
+    {
+      "ranges": [
+        [
+          21459,
+          21754
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "there is a case report of a health care worker who had a paronychia as a result of a direct inoculation of the finger with tubercle bacilli, and without further details about this patient's occupational exposures as a surgical assistant, tuberculosis remains a theoretical if remote possibility."
+    }
+  ]
+}

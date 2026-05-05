@@ -1,0 +1,425 @@
+{
+  "case": "1991 Case 43.md",
+  "annotator": "Judge005-llama",
+  "exported_at": "2026-05-05T06:52:39.778986+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17684,
+          17844
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Did this patient have a community-acquired pneumonia? The increased frequency of community-acquired pneumonias is well recognized in patients infected with HIV."
+    },
+    {
+      "ranges": [
+        [
+          19178,
+          19437
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Since  *Pneumocystis carinii* is the most common single pathogen causing pneumonia in patients with AIDS, occurring in 80 percent of such patients during the course of their illness, I have to include it in the differential diagnosis of this patient's disease"
+    },
+    {
+      "ranges": [
+        [
+          20828,
+          20971
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another opportunistic pathogen frequently encountered in association with  *P. carinii* in lung tissue of patients with AIDS is cytomegalovirus"
+    },
+    {
+      "ranges": [
+        [
+          21773,
+          22020
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "There are well-documented cases of pneumonia in the AIDS population that has been attributed to  *Toxoplasma gondii* and lung involvement with this unicellular protozoan parasite has frequently been found in patients who have died of toxoplasmosis"
+    },
+    {
+      "ranges": [
+        [
+          22856,
+          22917
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "*Strongyloides stercoralis* is another interesting protozoan."
+    },
+    {
+      "ranges": [
+        [
+          24144,
+          24318
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In trying to narrow the differential diagnosis I shall now focus on the radiographic finding of pulmonary reticulonodular infiltrates with questionable hilar lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          24581,
+          24840
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The diseases with which an association of lung infiltrates and intrathoracic lymphadenopathy can be seen with any frequency in the AIDS population include mainly mycobacterial infections, fungal infections, Kaposi's sarcoma, and lymphoproliferative disorders."
+    },
+    {
+      "ranges": [
+        [
+          25361,
+          25482
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Kaposi's sarcoma is the most frequently encountered tumor in persons with AIDS, affecting about 35 to 48 percent of them."
+    },
+    {
+      "ranges": [
+        [
+          27428,
+          27573
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another neoplasm process that is associated with pulmonary infiltrates and hilar lymphadenopathy in patients with AIDS is non-Hodgkin's lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          32646,
+          32868
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I shall now discuss fungal infections that are frequently encountered in patients with AIDS and that usually present with diffuse interstitial infiltrates and occasionally present with hilar or mediastinal lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          32869,
+          33155
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Although disseminated candidiasis was found at autopsy in 12 of 56 patients, 10 of whom had pulmonary involvement, it is generally agreed that pulmonary candidiasis is a late or terminal manifestation of HIV infection and often coexists with other AIDS-related opportunistic infections."
+    },
+    {
+      "ranges": [
+        [
+          33368,
+          33535
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I shall also exclude aspergillus as a potential pathogen, mainly because of the absence of appreciable predisposing factors, aside from HIV infection, in this patient."
+    },
+    {
+      "ranges": [
+        [
+          33941,
+          34021
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I shall also exclude infection with  *Cryptococcus neqformans* from my diagnosis"
+    },
+    {
+      "ranges": [
+        [
+          34834,
+          35025
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other fungal infections reported in patients with AIDS that tend to produce diffuse reticulonodular infiltrates include infections with  *Coccidioides immitis* and  *Blastomyces dermatitidis*"
+    },
+    {
+      "ranges": [
+        [
+          35188,
+          35273
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I am finally led to consider infection with  *Histoplasma capsulatum* in this patient"
+    },
+    {
+      "ranges": [
+        [
+          18291,
+          18462
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although these infections often present with atypical features, such as diffuse multilobar infiltration, the response to conventional antibiotic therapy is usually prompt."
+    },
+    {
+      "ranges": [
+        [
+          19439,
+          19655
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The nonproductive cough, dyspnea, and fever, the widened arterialalveolar gradient, and the radiographic pattern of diffuse interstitial pulmonary infiltrates are all consistent with pneumonia caused by  *P. carinii."
+    },
+    {
+      "ranges": [
+        [
+          19734,
+          19841
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Crackles and wheezing are rarely heard on examination of the chest in patients with pneumocystis pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          19842,
+          20214
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Of more importance, the failure to recover the organisms by either induction of sputum or bronchoalveolar lavage and transbronchial biopsy, the progression of the interstitial infiltrates over a period of several months despite prophylaxis with aerosolized pentamidine, and finally the appearance of hilar lymphadenopathy are against a diagnosis of pneumocystis pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          20973,
+          21074
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The pathogenic importance of cytomegalovirus in pneumonitis in the AIDS population remains uncertain."
+    },
+    {
+      "ranges": [
+        [
+          21075,
+          21337
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although cytomegalovirus is frequently recovered from respiratory tract secretions or on histologic examination of lung specimens of patients with AIDS, there have been only a few reports of cytomegalovirus pneumonitis without evidence of a concomitant pathogen."
+    },
+    {
+      "ranges": [
+        [
+          22112,
+          22236
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Fever and dyspnea are frequent in patients with pulmonary toxoplasmosis, but cough and sputum production are usually absent."
+    },
+    {
+      "ranges": [
+        [
+          22410,
+          22493
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The organism may be recovered from bronchoalveolar-lavage or lung-biopsy specimens."
+    },
+    {
+      "ranges": [
+        [
+          22494,
+          22646
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Since toxoplasmosis is thought to be a reactivation of a latent earlier infection, nearly all the patients have positive serologic tests for toxoplasma."
+    },
+    {
+      "ranges": [
+        [
+          23475,
+          23643
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The symptoms include fever, with rise of the temperature as high as 40°C, headache, general malaise with weight loss, nausea and vomiting, dyspnea, cough, and wheezing."
+    },
+    {
+      "ranges": [
+        [
+          23644,
+          23753
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Infiltrates demonstrable on radiographs of the chest may be either diffuse or involve mainly the lower lobes."
+    },
+    {
+      "ranges": [
+        [
+          23754,
+          23862
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Larvae may be seen on wet preparations or on Gram stain of the sputum or in transbronchial-biopsy specimens."
+    },
+    {
+      "ranges": [
+        [
+          31665,
+          31709
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A miliary pattern, however, is very unusual."
+    },
+    {
+      "ranges": [
+        [
+          31710,
+          31867
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The use of specimens from several sources, including the lung, gastrointestinal tract, urine, bone marrow, and blood, can lead to a safe and rapid diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          31868,
+          32056
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Special blood-culture techniques for isolating mycobacteria, such as the Bactec system or Dupont Isolator system, are the most reliable methods, with a sensitivity approaching 100 percent."
+    },
+    {
+      "ranges": [
+        [
+          32057,
+          32098
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Cultures become positive in 7 to 51 days."
+    },
+    {
+      "ranges": [
+        [
+          32099,
+          32297
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Because this patient remained relatively well and had no evidence of a gastrointestinal disturbance, I doubt very much that his pulmonary disease was caused by the  *M. avium–intracellulare* complex"
+    },
+    {
+      "ranges": [
+        [
+          32299,
+          32640
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Before leaving the category of infections caused by nontuberculous mycobacteria, I should note that  *M. avium–intracellulare* accounts for 96 percent of these infections, and other organisms, such as  *M. kansasii, M. gordonae, M. fortuitum, and M. chelonae* , account for less than 4 percent of cases of nontuberculous mycobacterial diseas"
+    },
+    {
+      "ranges": [
+        [
+          29340,
+          29547
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A diffuse reticulonodular or miliary pattern, for example, has been noted in 60 percent of patients with both tuberculosis and AIDS, in contrast to only 32 percent of patients with tuberculosis without AIDS."
+    },
+    {
+      "ranges": [
+        [
+          29680,
+          29900
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Tuberculosis presenting concomitantly with another infectious complication of AIDS, such as infection with  *P. carinii* , and appearing as diffuse interstitial infiltrates on the radiographs of the chest is not uncommon"
+    },
+    {
+      "ranges": [
+        [
+          30391,
+          30520
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Smears of respiratory tract specimens are reported to be positive in as many as 75 percent of patients with advanced HIV disease."
+    },
+    {
+      "ranges": [
+        [
+          20479,
+          20657
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The diagnostic yield of an induced specimen of sputum varies among centers according to the technique used but has been reported to be above 50 percent and as high as 92 percent."
+    },
+    {
+      "ranges": [
+        [
+          20659,
+          20770
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "*P. carinii* was never recovered from this patient, and I shall exclude it from the list of potential culprits."
+    }
+  ]
+}

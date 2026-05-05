@@ -1,0 +1,172 @@
+{
+  "case": "1991 Case 43.md",
+  "annotator": "Judge001-llama",
+  "exported_at": "2026-05-05T06:46:06.117655+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17684,
+          17737
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Did this patient have a community-acquired pneumonia?"
+    },
+    {
+      "ranges": [
+        [
+          19178,
+          19437
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Since  *Pneumocystis carinii* is the most common single pathogen causing pneumonia in patients with AIDS, occurring in 80 percent of such patients during the course of their illness, I have to include it in the differential diagnosis of this patient's disease"
+    },
+    {
+      "ranges": [
+        [
+          20828,
+          20971
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another opportunistic pathogen frequently encountered in association with  *P. carinii* in lung tissue of patients with AIDS is cytomegalovirus"
+    },
+    {
+      "ranges": [
+        [
+          21773,
+          22020
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "There are well-documented cases of pneumonia in the AIDS population that has been attributed to  *Toxoplasma gondii* and lung involvement with this unicellular protozoan parasite has frequently been found in patients who have died of toxoplasmosis"
+    },
+    {
+      "ranges": [
+        [
+          22856,
+          22917
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "*Strongyloides stercoralis* is another interesting protozoan."
+    },
+    {
+      "ranges": [
+        [
+          24144,
+          24318
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In trying to narrow the differential diagnosis I shall now focus on the radiographic finding of pulmonary reticulonodular infiltrates with questionable hilar lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          24581,
+          24840
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The diseases with which an association of lung infiltrates and intrathoracic lymphadenopathy can be seen with any frequency in the AIDS population include mainly mycobacterial infections, fungal infections, Kaposi's sarcoma, and lymphoproliferative disorders."
+    },
+    {
+      "ranges": [
+        [
+          25361,
+          25482
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Kaposi's sarcoma is the most frequently encountered tumor in persons with AIDS, affecting about 35 to 48 percent of them."
+    },
+    {
+      "ranges": [
+        [
+          27428,
+          27573
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another neoplasm process that is associated with pulmonary infiltrates and hilar lymphadenopathy in patients with AIDS is non-Hodgkin's lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          35188,
+          35273
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I am finally led to consider infection with  *Histoplasma capsulatum* in this patient"
+    },
+    {
+      "ranges": [
+        [
+          19439,
+          19655
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The nonproductive cough, dyspnea, and fever, the widened arterialalveolar gradient, and the radiographic pattern of diffuse interstitial pulmonary infiltrates are all consistent with pneumonia caused by  *P. carinii."
+    },
+    {
+      "ranges": [
+        [
+          26530,
+          26691
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of skin lesions and of the typical cherry-red, raised lesions in the tracheobronchial tree, however, would be unusual for a case of Kaposi's sarcoma."
+    },
+    {
+      "ranges": [
+        [
+          18136,
+          18290
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The annual rate of pneumococcal pneumonia in the population with AIDS, for example, is at least five times higher than the rate in the general population."
+    },
+    {
+      "ranges": [
+        [
+          24319,
+          24425
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The syndrome of \"generalized lymphadenopathy\" does not appear to involve hilar or mediastinal lymph nodes."
+    },
+    {
+      "ranges": [
+        [
+          26692,
+          26803
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In one autopsy series of cases of pulmonary Kaposi's sarcoma, all 11 patients had evidence of skin involvement."
+    }
+  ]
+}

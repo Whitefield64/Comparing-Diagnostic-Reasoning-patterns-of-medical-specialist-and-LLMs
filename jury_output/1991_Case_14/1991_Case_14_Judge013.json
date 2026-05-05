@@ -1,0 +1,260 @@
+{
+  "case": "1991 Case 14.md",
+  "annotator": "Judge013-mistral",
+  "exported_at": "2026-05-05T08:24:07.606339+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5582,
+          5758
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Respiratory distress observed shortly after birth in large full-term infants who are delivered by cesarean section is frequently a result of transient tachypnea of the newborn."
+    },
+    {
+      "ranges": [
+        [
+          5759,
+          5867
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "This condition is believed to be due to delayed resorption of fetal lung fluid. It usually resolves quickly."
+    },
+    {
+      "ranges": [
+        [
+          5868,
+          5992
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I suspect that transient tachypnea of the newborn prompted the initial x-ray film of the chest, which demonstrated the mass."
+    },
+    {
+      "ranges": [
+        [
+          5993,
+          6055
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Therefore, we are probably dealing with an incidental finding."
+    },
+    {
+      "ranges": [
+        [
+          7785,
+          7971
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The discovery at birth of a mass that proved to be relatively quiescent for the first 17 weeks of life leads me to consider a differential diagnosis of neoplastic and congenital lesions."
+    },
+    {
+      "ranges": [
+        [
+          8104,
+          8190
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Neuroblastomas, sarcomas, teratomas, and leukemia are those most frequently described."
+    },
+    {
+      "ranges": [
+        [
+          9185,
+          9314
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I shall therefore focus on neurogenic tumors of the posterior mediastinum as the primary neoplastic consideration in this infant."
+    },
+    {
+      "ranges": [
+        [
+          9315,
+          9382
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Between 10 and 20 percent of these tumors occur in the mediastinum."
+    },
+    {
+      "ranges": [
+        [
+          13058,
+          13154
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Multiple developmental abnormalities can produce mass lesions in the lower portion of the chest."
+    },
+    {
+      "ranges": [
+        [
+          13155,
+          13278
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Esophageal duplications and neurenteric cysts are largely eliminated in this case on the basis of the radiographic studies."
+    },
+    {
+      "ranges": [
+        [
+          13279,
+          13441
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other considerations include herniated abdominal contents, bronchogenic cysts, cystic adenomatoid malformations of the lungs, and bronchopulmonary sequestrations."
+    },
+    {
+      "ranges": [
+        [
+          16788,
+          16886
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the solid, or Type III, form of congenital cystic adenomatoid malformation needs to be considered."
+    },
+    {
+      "ranges": [
+        [
+          17139,
+          17279
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Occasional reports of a systemic blood supply to this malformation can cause confusion with the next consideration, pulmonary sequestration."
+    },
+    {
+      "ranges": [
+        [
+          18801,
+          18941
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The extralobar form of pulmonary sequestration is invested in its own pleura and has been considered an accessory lung or a Rokitansky lobe."
+    },
+    {
+      "ranges": [
+        [
+          20647,
+          20829
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I would have obtained an assay for urinary catecholamine values and additional imaging to delineate the vascular features, and I would have proceeded with an exploratory thoracotomy."
+    },
+    {
+      "ranges": [
+        [
+          21689,
+          21792
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor."
+    },
+    {
+      "ranges": [
+        [
+          7785,
+          7971
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The discovery at birth of a mass that proved to be relatively quiescent for the first 17 weeks of life leads me to consider a differential diagnosis of neoplastic and congenital lesions."
+    },
+    {
+      "ranges": [
+        [
+          11512,
+          11635
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Thrombocytosis has been reported in association with neural-crest tumors as well as a variety of other childhood neoplasms."
+    },
+    {
+      "ranges": [
+        [
+          11636,
+          11820
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Secondary or reactive thrombocytosis, however, is also associated with inflammatory diseases, drugs, immune disorders, hematologic disorders, asplenia, and stressful states in general."
+    },
+    {
+      "ranges": [
+        [
+          12090,
+          12206
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Beyond these observations the laboratory data available from the case record are of little help regarding neoplasms."
+    },
+    {
+      "ranges": [
+        [
+          12210,
+          12310
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "In my judgment a study that should be performed in this setting is a urine assay for catecholamines."
+    },
+    {
+      "ranges": [
+        [
+          21464,
+          21688
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I believed that statistically the diagnosis was most likely to be a left-lower-lobe pulmonary sequestration, but I was troubled by the observations of agitation and bradycardia (80 beats per minute) — an unusual combination."
+    },
+    {
+      "ranges": [
+        [
+          22020,
+          22095
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I therefore largely discarded that information in my analysis of this case."
+    }
+  ]
+}

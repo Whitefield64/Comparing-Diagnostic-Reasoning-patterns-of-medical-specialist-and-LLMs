@@ -1,0 +1,62 @@
+{
+  "case": "1991 Case 14.md",
+  "annotator": "Judge014-mistral",
+  "exported_at": "2026-05-05T08:25:00.318187+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7785,
+          7971
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The discovery at birth of a mass that proved to be relatively quiescent for the first 17 weeks of life leads me to consider a differential diagnosis of neoplastic and congenital lesions."
+    },
+    {
+      "ranges": [
+        [
+          9185,
+          9314
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I shall therefore focus on neurogenic tumors of the posterior mediastinum as the primary neoplastic consideration in this infant."
+    },
+    {
+      "ranges": [
+        [
+          11821,
+          12014
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The finding of a normal white-cell count and an elevated platelet count in the presence of anemia that was less severe at 17 weeks than initially indicates that the bone marrow was functioning."
+    },
+    {
+      "ranges": [
+        [
+          21464,
+          21688
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I believed that statistically the diagnosis was most likely to be a left-lower-lobe pulmonary sequestration, but I was troubled by the observations of agitation and bradycardia (80 beats per minute) — an unusual combination."
+    },
+    {
+      "ranges": [
+        [
+          21689,
+          21792
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor."
+    }
+  ]
+}

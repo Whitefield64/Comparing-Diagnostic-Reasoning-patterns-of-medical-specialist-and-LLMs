@@ -1,0 +1,128 @@
+{
+  "case": "1990 Case 19.md",
+  "annotator": "Judge011-mistral",
+  "exported_at": "2026-05-05T07:46:10.568647+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          10023,
+          10189
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "nt's acute presentation with fever, chills, an elevated white-cell count of 15,500, and a sedimentation rate of 81 mm per hour certainly suggests an infectious cause."
+    },
+    {
+      "ranges": [
+        [
+          11690,
+          11735
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "None of these diagnoses, however, are likely."
+    },
+    {
+      "ranges": [
+        [
+          12582,
+          12670
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
+    },
+    {
+      "ranges": [
+        [
+          13785,
+          13913
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "So-0 called cryptogenic hepatic abscesses can arise in otherwise normal children, presumably as a result of systemic bacteremia."
+    },
+    {
+      "ranges": [
+        [
+          14209,
+          14338
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I cannot exclude the possibility of a large pyogenic abscess, but there is no good explanation for its development in this child."
+    },
+    {
+      "ranges": [
+        [
+          17244,
+          17315
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most probable clinical diagnosis in this case is an amebic abscess."
+    },
+    {
+      "ranges": [
+        [
+          18601,
+          18756
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+    },
+    {
+      "ranges": [
+        [
+          22642,
+          22834
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+    },
+    {
+      "ranges": [
+        [
+          22898,
+          23133
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
+    },
+    {
+      "ranges": [
+        [
+          23643,
+          23898
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "We also considered echinococcal disease, although we thought that it was much less likely not only on an epidemiologic basis but also on the basis of the absence of a thick-walled capsule demonstrable in the various radiologic studies that were performed."
+    },
+    {
+      "ranges": [
+        [
+          23899,
+          24125
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "With the results of these studies we became very concerned by the predominantly solid nature of the mass, which would not be expected in amebic or echinococcal disease and made the possibility of a malignant tumor more likely."
+    }
+  ]
+}

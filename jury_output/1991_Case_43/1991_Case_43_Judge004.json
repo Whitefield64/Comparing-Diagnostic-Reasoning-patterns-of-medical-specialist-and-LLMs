@@ -1,0 +1,62 @@
+{
+  "case": "1991 Case 43.md",
+  "annotator": "Judge004-llama",
+  "exported_at": "2026-05-05T06:46:57.332037+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          32646,
+          32868
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I shall now discuss fungal infections that are frequently encountered in patients with AIDS and that usually present with diffuse interstitial infiltrates and occasionally present with hilar or mediastinal lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          24581,
+          24840
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The diseases with which an association of lung infiltrates and intrathoracic lymphadenopathy can be seen with any frequency in the AIDS population include mainly mycobacterial infections, fungal infections, Kaposi's sarcoma, and lymphoproliferative disorders."
+    },
+    {
+      "ranges": [
+        [
+          22919,
+          23092
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "nfection with  *S. stercoralis* is among the opportunistic infections considered indicative of an underlying cell-mediated immunodeficiency in patients with AIDS. The infect"
+    },
+    {
+      "ranges": [
+        [
+          14469,
+          14603
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "A film of the chest taken 19 days before admission shows numerous irregular, small interstitial densities throughout both lung fields."
+    },
+    {
+      "ranges": [
+        [
+          39936,
+          40119
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This patient's serum ferritin level was elevated, and such an elevation has been reported in patients with various inflammatory diseases and malignant tumors and in patients with AIDS"
+    }
+  ]
+}

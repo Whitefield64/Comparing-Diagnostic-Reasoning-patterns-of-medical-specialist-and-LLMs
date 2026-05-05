@@ -1,0 +1,117 @@
+{
+  "case": "1991 Case 14.md",
+  "annotator": "Judge012-mistral",
+  "exported_at": "2026-05-05T08:24:07.605856+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5582,
+          5758
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Respiratory distress observed shortly after birth in large full-term infants who are delivered by cesarean section is frequently a result of transient tachypnea of the newborn."
+    },
+    {
+      "ranges": [
+        [
+          5993,
+          6055
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Therefore, we are probably dealing with an incidental finding."
+    },
+    {
+      "ranges": [
+        [
+          21689,
+          21792
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor."
+    },
+    {
+      "ranges": [
+        [
+          10980,
+          11051
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hematologic information provided in the case record is provocative."
+    },
+    {
+      "ranges": [
+        [
+          11512,
+          11635
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Thrombocytosis has been reported in association with neural-crest tumors as well as a variety of other childhood neoplasms."
+    },
+    {
+      "ranges": [
+        [
+          12584,
+          12743
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The urine assay for catecholamines is simple and noninvasive and should be performed in any case in which a neurogenic tumor enters the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          12959,
+          13054
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "I would have needed the added comfort provided by a negative assay of urine for catecholamines."
+    },
+    {
+      "ranges": [
+        [
+          21463,
+          21571
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": " I believed that statistically the diagnosis was most likely to be a left-lower-lobe pulmonary sequestration"
+    },
+    {
+      "ranges": [
+        [
+          21577,
+          21688
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I was troubled by the observations of agitation and bradycardia (80 beats per minute) — an unusual combination."
+    },
+    {
+      "ranges": [
+        [
+          21573,
+          21688
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "but I was troubled by the observations of agitation and bradycardia (80 beats per minute) — an unusual combination."
+    }
+  ]
+}

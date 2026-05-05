@@ -12,7 +12,7 @@ NVIDIA_MODEL = os.environ.get("NVIDIA_MODEL", "meta/llama-3.3-70b-instruct")
 # Multi-model jury: 5 voters per model
 MODEL_LLAMA = "meta/llama-3.3-70b-instruct"
 MODEL_GEMMA = "google/gemma-4-31b-it"
-MODEL_MISTRAL = "mistralai/mistral-medium-3-5-128b"
+MODEL_MISTRAL = "mistralai/mistral-small-4-119b-2603"
 
 def get_model_for_voter(voter_id: int) -> str:
     """

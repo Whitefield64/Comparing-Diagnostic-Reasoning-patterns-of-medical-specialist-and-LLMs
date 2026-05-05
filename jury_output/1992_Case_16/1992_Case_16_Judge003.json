@@ -1,0 +1,117 @@
+{
+  "case": "1992 Case 16.md",
+  "annotator": "Judge003-llama",
+  "exported_at": "2026-05-05T07:23:47.353162+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9468,
+          9699
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Several pathological categories, including traumatic, metabolic, congenital, neoplastic, and inflammatory lesions, deserve mention in the differential diagnosis of spinal-cord dysfunction associated with cervical vertebral lesions."
+    },
+    {
+      "ranges": [
+        [
+          12121,
+          12320
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The demonstration of erosion of two adjacent vertebral-body end plates with narrowing of the intervening disk space has been considered the radiographic hallmark of infection for over half a century."
+    },
+    {
+      "ranges": [
+        [
+          21124,
+          21238
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the digital infection was the source of sepsis of the spine, pyogenic infection would be the obvious diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          17856,
+          18156
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The authors of a prospective study of solitary bone lesions assessed the value of this blood test and concluded, with a degree of confidence approaching 90 percent, that patients with sedimentation rates above 30 mm per hour had metastatic tumors of unknown origin, marrow-cell tumors, or infections."
+    },
+    {
+      "ranges": [
+        [
+          23840,
+          23938
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The weight of the evidence favors pyogenic infection, and the most likely organism is  *S. aureus*"
+    },
+    {
+      "ranges": [
+        [
+          20114,
+          20242
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Factors favoring a pyogenic infection include a short history, as in this case, and the early appearance of neurologic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          12001,
+          12116
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the pattern of involvement of the disk space and adjoining vertebral end plates and the elevated sedimentation rate"
+    },
+    {
+      "ranges": [
+        [
+          21755,
+          21863
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I have no way of being sure that the paronychia had any causal relation to the presumptive spinal infection."
+    },
+    {
+      "ranges": [
+        [
+          18894,
+          19078
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "A review of series of patients with vertebral osteomyelitis as well as a subgroup of patients with epidural abscesses as a result of osteomyelitis shows that this case is not atypical."
+    },
+    {
+      "ranges": [
+        [
+          22609,
+          22740
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Lifeso, reporting a four-year experience in Riyadh, Saudi Arabia, evaluated approximately 250 cases of suspected spinal infections."
+    }
+  ]
+}

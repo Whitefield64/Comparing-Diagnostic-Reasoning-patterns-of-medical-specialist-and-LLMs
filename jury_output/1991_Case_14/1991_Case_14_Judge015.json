@@ -1,0 +1,810 @@
+{
+  "case": "1991 Case 14.md",
+  "annotator": "Judge015-mistral",
+  "exported_at": "2026-05-05T08:25:00.319070+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5582,
+          5758
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Respiratory distress observed shortly after birth in large full-term infants who are delivered by cesarean section is frequently a result of transient tachypnea of the newborn."
+    },
+    {
+      "ranges": [
+        [
+          5868,
+          5992
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I suspect that transient tachypnea of the newborn prompted the initial x-ray film of the chest, which demonstrated the mass."
+    },
+    {
+      "ranges": [
+        [
+          5993,
+          6055
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Therefore, we are probably dealing with an incidental finding."
+    },
+    {
+      "ranges": [
+        [
+          6056,
+          6178
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Since so much of this case rests on the imaging, I shall ask Dr. Jaramillo to review the radiologic studies at this point."
+    },
+    {
+      "ranges": [
+        [
+          7785,
+          7971
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The discovery at birth of a mass that proved to be relatively quiescent for the first 17 weeks of life leads me to consider a differential diagnosis of neoplastic and congenital lesions."
+    },
+    {
+      "ranges": [
+        [
+          7972,
+          8026
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "It is improbable that infection had an important role."
+    },
+    {
+      "ranges": [
+        [
+          8104,
+          8190
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Neuroblastomas, sarcomas, teratomas, and leukemia are those most frequently described."
+    },
+    {
+      "ranges": [
+        [
+          8191,
+          8448
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Only 2.5 percent of all malignant tumors seen at the Children's Hospital of Los Angeles during a 28-year period presented in the first month of life according to a review of over 5000 surgical and autopsy specimens encompassing all types of malignant tumor."
+    },
+    {
+      "ranges": [
+        [
+          8449,
+          8523
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Intrathoracic tumors accounted for only a small minority of these lesions."
+    },
+    {
+      "ranges": [
+        [
+          8524,
+          8591
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Primary intrapulmonary neoplasms in childhood are even less common."
+    },
+    {
+      "ranges": [
+        [
+          8592,
+          8747
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "An exhaustive review of the English-language literature to 1983 identified only 230 cases of primary pulmonary neoplasms in patients under 17 years of age."
+    },
+    {
+      "ranges": [
+        [
+          8748,
+          8964
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "There are anecdotal reports of pulmonary hamartomas diagnosed in the neonatal period, although in most of these cases the lesion might have been a solid form of congenital cystic adenomatoid malformation of the lung."
+    },
+    {
+      "ranges": [
+        [
+          8965,
+          9078
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Intrathoracic teratomas are also unusual in this age group and are generally located in the anterior mediastinum."
+    },
+    {
+      "ranges": [
+        [
+          9079,
+          9181
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Pulmonary blastomas are usually small peripheral masses with a predilection for the upper lung fields."
+    },
+    {
+      "ranges": [
+        [
+          9185,
+          9314
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I shall therefore focus on neurogenic tumors of the posterior mediastinum as the primary neoplastic consideration in this infant."
+    },
+    {
+      "ranges": [
+        [
+          9315,
+          9382
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Between 10 and 20 percent of these tumors occur in the mediastinum."
+    },
+    {
+      "ranges": [
+        [
+          9383,
+          9532
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "They originate from the nerve sheath and sympathetic nervous system and commonly present as a neuroblastoma, ganglioneuroma, or ganglioneuroblastoma."
+    },
+    {
+      "ranges": [
+        [
+          9533,
+          9643
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "There are multiple documented reports of either spontaneous regression or maturation of each of these lesions."
+    },
+    {
+      "ranges": [
+        [
+          9644,
+          9900
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In addition, there is considerable evidence that rests of neuroblastoma cells are relatively common in the newborn but that most of these rests either regress or mature, since their frequency in later childhood is much lower than that seen earlier in life."
+    },
+    {
+      "ranges": [
+        [
+          9904,
+          9998
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Neuroblastomas tend to appear as smooth paraspinal masses with single or multiple lobulations."
+    },
+    {
+      "ranges": [
+        [
+          9999,
+          10134
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Particular radiographic clues are demonstrable osseous changes, extension into the spinal canal, and distortion of adjacent structures."
+    },
+    {
+      "ranges": [
+        [
+          10135,
+          10253
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of calcific densities within a posterior mediastinal lesion is highly suggestive of a neural-crest tumor."
+    },
+    {
+      "ranges": [
+        [
+          10623,
+          10976
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "On balance, however, the cleavage plane between the paraspinal tissues and the mass, the absence of spinal involvement, the absence of calcification, and the lack of evidence of distortion of adjacent structures such as the ribs, blood vessels, and airways make the diagnosis of a neural-crest tumor unlikely in this case from a radiographic standpoint."
+    },
+    {
+      "ranges": [
+        [
+          13058,
+          13154
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Multiple developmental abnormalities can produce mass lesions in the lower portion of the chest."
+    },
+    {
+      "ranges": [
+        [
+          13155,
+          13278
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Esophageal duplications and neurenteric cysts are largely eliminated in this case on the basis of the radiographic studies."
+    },
+    {
+      "ranges": [
+        [
+          13279,
+          13441
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other considerations include herniated abdominal contents, bronchogenic cysts, cystic adenomatoid malformations of the lungs, and bronchopulmonary sequestrations."
+    },
+    {
+      "ranges": [
+        [
+          13445,
+          13553
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Diaphragmatic defects associated with herniation of intestinal contents into the thorax are well recognized."
+    },
+    {
+      "ranges": [
+        [
+          13686,
+          13790
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Solid viscera, especially the liver, can present as an intrathoracic mass, most often on the right side."
+    },
+    {
+      "ranges": [
+        [
+          13791,
+          13869
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "An eventration of the diaphragm is occasionally confused with a thoracic mass."
+    },
+    {
+      "ranges": [
+        [
+          13870,
+          14019
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In this case we are assured that the abdominal contents were in their normal locations, thus eliminating this possibility from further consideration."
+    },
+    {
+      "ranges": [
+        [
+          14023,
+          14129
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Bronchogenic cysts result from abnormal budding of the respiratory tract at any point before the alveolus."
+    },
+    {
+      "ranges": [
+        [
+          14290,
+          14365
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The cysts may be fluid-filled or air-filled and frequently become infected."
+    },
+    {
+      "ranges": [
+        [
+          14366,
+          14485
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "When they are symptomatic, the infant usually presents with respiratory distress secondary to compression of an airway."
+    },
+    {
+      "ranges": [
+        [
+          14486,
+          14593
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In the neonate, compression on a bronchus generally results in an opaque lung secondary to fluid retention."
+    },
+    {
+      "ranges": [
+        [
+          14594,
+          14688
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "As an ovoid mass in the paraspinal region a bronchogenic cyst may simulate a neurogenic tumor."
+    },
+    {
+      "ranges": [
+        [
+          14689,
+          14790
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The CT and MRI studies make this diagnosis highly unlikely, however, in the patient under discussion."
+    },
+    {
+      "ranges": [
+        [
+          15995,
+          16097
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A widely used classification is that proposed by Stocker et al. and is based on the size of the cysts."
+    },
+    {
+      "ranges": [
+        [
+          16098,
+          16321
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A Type I lesion consists of relatively few large cysts that may reach 10 cm in diameter, a Type II lesion consists of numerous small cysts generally under 1 cm in diameter, and in a Type III lesion the entire lobe is solid."
+    },
+    {
+      "ranges": [
+        [
+          16322,
+          16438
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In general, the solid, or Type III, lesion is associated with anasarca, stillbirth, and severe respiratory distress."
+    },
+    {
+      "ranges": [
+        [
+          16439,
+          16577
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Prospective antenatal ultrasound studies have confirmed that the solid lesions are associated with the most severe respiratory compromise."
+    },
+    {
+      "ranges": [
+        [
+          16578,
+          16722
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "It is of interest that these solid lesions have many of the same histologic elements as hamartomas, leading early authors to lump them together."
+    },
+    {
+      "ranges": [
+        [
+          16723,
+          16886
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "On the basis of the imaging studies available in this case, only the solid, or Type III, form of congenital cystic adenomatoid malformation needs to be considered."
+    },
+    {
+      "ranges": [
+        [
+          16887,
+          17138
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the lack of reported polyhydramnios during gestation, the fact that the patient was a full-term infant, and the slight and rapidly resolving respiratory distress lead me away from the diagnosis of a congenital cystic adenomatoid malformation."
+    },
+    {
+      "ranges": [
+        [
+          17139,
+          17279
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Occasional reports of a systemic blood supply to this malformation can cause confusion with the next consideration, pulmonary sequestration."
+    },
+    {
+      "ranges": [
+        [
+          17283,
+          17508
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Pulmonary sequestration is classified as a mass of abnormal lung tissue that does not communicate with the tracheobronchial tree through a normally connected bronchus and that receives its blood supply from a systemic artery."
+    },
+    {
+      "ranges": [
+        [
+          17509,
+          17621
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Sequestration is further subdivided into intralobar and extralobar forms, with rare examples of overlap lesions."
+    },
+    {
+      "ranges": [
+        [
+          17625,
+          17769
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The intralobar form of sequestration is invested within the visceral pleura and is usually found in the posterior basal segment of a lower lobe."
+    },
+    {
+      "ranges": [
+        [
+          17770,
+          17809
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Males and females are affected equally."
+    },
+    {
+      "ranges": [
+        [
+          17810,
+          17925
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "There is a slight left-sided predominance, and the lesion is rarely associated with other congenital abnormalities."
+    },
+    {
+      "ranges": [
+        [
+          17926,
+          18216
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The arterial supply is by way of one or more relatively large systemic vessels that arise from the thoracic or abdominal aorta in about 75 percent of the cases; a variety of other thoracic and abdominal arteries are reported as the source of the arterial supply in the remaining 25 percent."
+    },
+    {
+      "ranges": [
+        [
+          18217,
+          18265
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The venous drainage is into the pulmonary veins."
+    },
+    {
+      "ranges": [
+        [
+          18266,
+          18459
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Recurrent pulmonary infections usually lead to the diagnosis, which has rarely, if ever, been made in the neonate, and only a third of the affected patients present in the first decade of life."
+    },
+    {
+      "ranges": [
+        [
+          18460,
+          18589
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Many of these lesions may be secondarily infected cystic adenomatoid malformations that have received a systemic arterial supply."
+    },
+    {
+      "ranges": [
+        [
+          18590,
+          18725
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "As a result there is considerable question as to the existence of the intralobar form of sequestration as a distinct congenital entity."
+    },
+    {
+      "ranges": [
+        [
+          18726,
+          18797
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I shall therefore eliminate it from further consideration in this case."
+    },
+    {
+      "ranges": [
+        [
+          18801,
+          18941
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The extralobar form of pulmonary sequestration is invested in its own pleura and has been considered an accessory lung or a Rokitansky lobe."
+    },
+    {
+      "ranges": [
+        [
+          18942,
+          19007
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Most examples are found between the diaphragm and the lower lobe."
+    },
+    {
+      "ranges": [
+        [
+          19008,
+          19044
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "There is a 4-to-1 male predominance."
+    },
+    {
+      "ranges": [
+        [
+          19045,
+          19100
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Over 90 percent of these sequestrations are left-sided."
+    },
+    {
+      "ranges": [
+        [
+          19101,
+          19186
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The blood supply is usually by way of an artery or arteries emanating from the aorta."
+    },
+    {
+      "ranges": [
+        [
+          19187,
+          19377
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Occasionally, venous blood is provided from a branch of the pulmonary artery, but the caliber of the supplying vessels is considerably smaller than that of those seen in the intralobar form."
+    },
+    {
+      "ranges": [
+        [
+          19378,
+          19441
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The venous drainage is through the azygos and hemiazygos veins."
+    },
+    {
+      "ranges": [
+        [
+          19442,
+          19498
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A diaphragmatic hernia is a commonly associated anomaly."
+    },
+    {
+      "ranges": [
+        [
+          19499,
+          19580
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In most cases the diagnosis is made early in life, including the neonatal period."
+    },
+    {
+      "ranges": [
+        [
+          19581,
+          19685
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "On radiographic examination the lesions appear as triangular-shaped densities in the costophrenic angle."
+    },
+    {
+      "ranges": [
+        [
+          20618,
+          20829
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "For a diagnosis in this case I would have obtained an assay for urinary catecholamine values and additional imaging to delineate the vascular features, and I would have proceeded with an exploratory thoracotomy."
+    },
+    {
+      "ranges": [
+        [
+          21340,
+          21433
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I propose that a thoracotomy was performed and that an extralobar sequestration was detected."
+    },
+    {
+      "ranges": [
+        [
+          21689,
+          21792
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor."
+    },
+    {
+      "ranges": [
+        [
+          21464,
+          21688
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "I believed that statistically the diagnosis was most likely to be a left-lower-lobe pulmonary sequestration, but I was troubled by the observations of agitation and bradycardia (80 beats per minute) — an unusual combination."
+    },
+    {
+      "ranges": [
+        [
+          12931,
+          13054
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
+    },
+    {
+      "ranges": [
+        [
+          21815,
+          21972
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Since both the heart and the respiratory rates were well below those expected in an awake 17-week-old infant, I suspect that they were errors in measurement."
+    },
+    {
+      "ranges": [
+        [
+          21973,
+          22019
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Infants of this age may resent being put down."
+    },
+    {
+      "ranges": [
+        [
+          22020,
+          22095
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "I therefore largely discarded that information in my analysis of this case."
+    }
+  ]
+}

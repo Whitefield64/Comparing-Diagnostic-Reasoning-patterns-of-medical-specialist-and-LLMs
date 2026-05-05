@@ -1,0 +1,106 @@
+{
+  "case": "1992 Case 16.md",
+  "annotator": "Judge004-llama",
+  "exported_at": "2026-05-05T07:23:47.353623+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9468,
+          9699
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Several pathological categories, including traumatic, metabolic, congenital, neoplastic, and inflammatory lesions, deserve mention in the differential diagnosis of spinal-cord dysfunction associated with cervical vertebral lesions."
+    },
+    {
+      "ranges": [
+        [
+          10437,
+          10581
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A fracture with a hematoma can cause a mass compressing the cord, but one would expect to see bone fragments, which were not shown in this case."
+    },
+    {
+      "ranges": [
+        [
+          11828,
+          11928
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The most common lesions of the spine associated with neurologic compromise are tumors and infection."
+    },
+    {
+      "ranges": [
+        [
+          9703,
+          9846
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The first question raised in the differential diagnosis of post-traumatic pain is whether the trauma itself explains the symptoms and findings."
+    },
+    {
+      "ranges": [
+        [
+          12121,
+          12320
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The demonstration of erosion of two adjacent vertebral-body end plates with narrowing of the intervening disk space has been considered the radiographic hallmark of infection for over half a century."
+    },
+    {
+      "ranges": [
+        [
+          12001,
+          12117
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the pattern of involvement of the disk space and adjoining vertebral end plates and the elevated sedimentation rate."
+    },
+    {
+      "ranges": [
+        [
+          21755,
+          21863
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I have no way of being sure that the paronychia had any causal relation to the presumptive spinal infection."
+    },
+    {
+      "ranges": [
+        [
+          20114,
+          20242
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Factors favoring a pyogenic infection include a short history, as in this case, and the early appearance of neurologic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          21459,
+          21754
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "there is a case report of a health care worker who had a paronychia as a result of a direct inoculation of the finger with tubercle bacilli, and without further details about this patient's occupational exposures as a surgical assistant, tuberculosis remains a theoretical if remote possibility."
+    }
+  ]
+}

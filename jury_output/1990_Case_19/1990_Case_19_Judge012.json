@@ -1,0 +1,172 @@
+{
+  "case": "1990 Case 19.md",
+  "annotator": "Judge012-mistral",
+  "exported_at": "2026-05-05T07:46:10.569634+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          10013,
+          10189
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "This patient's acute presentation with fever, chills, an elevated white-cell count of 15,500, and a sedimentation rate of 81 mm per hour certainly suggests an infectious cause."
+    },
+    {
+      "ranges": [
+        [
+          11690,
+          11735
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "None of these diagnoses, however, are likely."
+    },
+    {
+      "ranges": [
+        [
+          17244,
+          17315
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most probable clinical diagnosis in this case is an amebic abscess."
+    },
+    {
+      "ranges": [
+        [
+          21971,
+          22079
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "If the mass appears to be hydatid disease at operation, a scolecidal agent should be applied to the abscess."
+    },
+    {
+      "ranges": [
+        [
+          18601,
+          18756
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+    },
+    {
+      "ranges": [
+        [
+          15980,
+          16126
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The symptoms of a hydatid cyst are caused principally by the pressure of the expanding cyst, which is estimated to grow between 1 and 5 cm a year."
+    },
+    {
+      "ranges": [
+        [
+          18324,
+          18522
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Amebic liver abscesses develop most often within five months of exposure, and such an interval fits with this boy's trip to Turkey just four months earlier, when we are told that he drank tap water."
+    },
+    {
+      "ranges": [
+        [
+          12582,
+          12670
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
+    },
+    {
+      "ranges": [
+        [
+          12671,
+          12851
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+    },
+    {
+      "ranges": [
+        [
+          12852,
+          12926
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "One would have to invoke a superinfection to explain the clinical picture."
+    },
+    {
+      "ranges": [
+        [
+          19321,
+          19471
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The major problem with this diagnosis is the negative enzyme-linked immunosorbent assay (ELISA) for anti-amebic antibodies on the fourth hospital day."
+    },
+    {
+      "ranges": [
+        [
+          22835,
+          22897
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "This diagnosis seems to fit the overall clinical picture best."
+    },
+    {
+      "ranges": [
+        [
+          18601,
+          18756
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+    },
+    {
+      "ranges": [
+        [
+          22642,
+          22728
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
+    },
+    {
+      "ranges": [
+        [
+          22729,
+          22834
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+    }
+  ]
+}

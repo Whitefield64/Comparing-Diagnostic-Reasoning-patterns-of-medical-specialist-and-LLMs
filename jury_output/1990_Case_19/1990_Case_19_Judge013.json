@@ -1,0 +1,348 @@
+{
+  "case": "1990 Case 19.md",
+  "annotator": "Judge013-mistral",
+  "exported_at": "2026-05-05T07:46:35.990568+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          10995,
+          11206
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis of hepatic masses in children is broad. My task is to try to correlate the radiographic picture with the findings from the history, physical examination, and laboratory investigations."
+    },
+    {
+      "ranges": [
+        [
+          11210,
+          11426
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Primary hepatic tumors are rare, but unfortunately nearly two thirds of them are malignant, representing the third most common abdominal cancer encountered in pediatric practice, after Wilms' tumor and neuroblastoma."
+    },
+    {
+      "ranges": [
+        [
+          11427,
+          11689
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The radiographic appearance of the lesion in this case is not inconsistent with a malignant hepatic tumor, since hepatoblastomas may be partially cystic, hepatocellular carcinomas can have central necrosis, and septa may be seen within biliary rhabdomyosarcomas."
+    },
+    {
+      "ranges": [
+        [
+          11690,
+          11735
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "None of these diagnoses, however, are likely."
+    },
+    {
+      "ranges": [
+        [
+          11736,
+          11970
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Hepatoblastoma is found mainly in the first two years of life. Hepatocellular carcinoma does occur in this age group, although often in the setting of underlying hepatic disease. Biliary rhabdomyosarcomas are associated with jaundice."
+    },
+    {
+      "ranges": [
+        [
+          11971,
+          12032
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "There is no evidence to suggest metastasis from another site."
+    },
+    {
+      "ranges": [
+        [
+          12033,
+          12228
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Benign hepatic lesions, such as choledochal cysts, cystadenomas, hamartomas, focal nodular hyperplasia, and congenital hepatic cysts, would be less likely to produce this radiographic appearance."
+    },
+    {
+      "ranges": [
+        [
+          12229,
+          12421
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Large hamartomas can have central necrosis, although it is usually accompanied by peripheral hypervascularity. Infected choledochal or congenital hepatic cysts can contain considerable debris."
+    },
+    {
+      "ranges": [
+        [
+          12422,
+          12581
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A vascular malformation or a highly vascular hepatic tumor is improbable in this case in view of the lack of enhancement on the studies with contrast material."
+    },
+    {
+      "ranges": [
+        [
+          12582,
+          12851
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+    },
+    {
+      "ranges": [
+        [
+          12852,
+          12994
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "One would have to invoke a superinfection to explain the clinical picture. That is clearly a possibility, but it is not a very attractive one."
+    },
+    {
+      "ranges": [
+        [
+          12998,
+          13143
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Pyogenic liver abscesses must be included in the differential diagnosis. Such abscesses are very rare, particularly in otherwise normal children."
+    },
+    {
+      "ranges": [
+        [
+          13144,
+          13422
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Over a third of the patients in the first two decades who have pyogenic liver abscesses have chronic granulomatous disease, and approximately another third have evidence of altered host defenses secondary to disorders such as leukemia, sickle cell anemia, and immunosuppression."
+    },
+    {
+      "ranges": [
+        [
+          13423,
+          13505
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "None of these associated disorders appear to pertain to the case under discussion."
+    },
+    {
+      "ranges": [
+        [
+          13506,
+          13784
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Furthermore, there is little evidence in this case to suggest other intraabdominal disorders, such as biliary-tract disease, peptic-ulcer disease, pancreatitis, appendicitis, omphalitis, inflammatory bowel disease, or trauma, that might result in bacterial seeding of the liver."
+    },
+    {
+      "ranges": [
+        [
+          13785,
+          13911
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "So-0 called cryptogenic hepatic abscesses can arise in otherwise normal children, presumably as a result of systemic bacteremi"
+    },
+    {
+      "ranges": [
+        [
+          13914,
+          14206
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Although  *Staphylococcus aureus* has been the most common pathogen historically, increasingly often we are seeing anaerobic infection, infection due to various intestinal pathogens such as  *Escherichia coli* , yersinia, and salmonella, and even tuberculosis as the cause of hepatic abscesse"
+    },
+    {
+      "ranges": [
+        [
+          14209,
+          14338
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "I cannot exclude the possibility of a large pyogenic abscess, but there is no good explanation for its development in this child."
+    },
+    {
+      "ranges": [
+        [
+          14342,
+          14447
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The history of Mediterranean travel forces me to consider strongly a parasitic cause of the hepatic mass."
+    },
+    {
+      "ranges": [
+        [
+          14448,
+          14595
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Hydatid disease is common in the Mediterranean region. It is usually caused by  *Echinococcus granulosus* , which is endemic in sheep-raising areas"
+    },
+    {
+      "ranges": [
+        [
+          15029,
+          15161
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Once within the human intestine the eggs hatch, and the embryos burrow through the intestinal wall and enter the portal circulation."
+    },
+    {
+      "ranges": [
+        [
+          15560,
+          15665
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Most infections occur during childhood, but years may elapse before the cysts become manifest clinically."
+    },
+    {
+      "ranges": [
+        [
+          15666,
+          15849
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Although most patients with  *Echin. granulosus* infections, those typically seen in the Mediterranean area, have single unilocular cysts, up to a third have multiple unilocular cysts"
+    },
+    {
+      "ranges": [
+        [
+          15980,
+          16126
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The symptoms of a hydatid cyst are caused principally by the pressure of the expanding cyst, which is estimated to grow between 1 and 5 cm a year."
+    },
+    {
+      "ranges": [
+        [
+          18601,
+          18756
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+    },
+    {
+      "ranges": [
+        [
+          18523,
+          18600
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The radiographic features of this case are also suggestive of this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          22642,
+          22834
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+    },
+    {
+      "ranges": [
+        [
+          22898,
+          23133
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
+    },
+    {
+      "ranges": [
+        [
+          23265,
+          23390
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "We had the same differential diagnosis and opinion that Dr. Lillehei had, with an amebic abscess high on our diagnostic list."
+    },
+    {
+      "ranges": [
+        [
+          23421,
+          23642
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient was seen by the Infectious Disease Service. We were impressed by his extensive travel history, and the history and findings on physical examination placed an amebic abscess at the top of our list of diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          23643,
+          23898
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "We also considered echinococcal disease, although we thought that it was much less likely not only on an epidemiologic basis but also on the basis of the absence of a thick-walled capsule demonstrable in the various radiologic studies that were performed."
+    }
+  ]
+}
