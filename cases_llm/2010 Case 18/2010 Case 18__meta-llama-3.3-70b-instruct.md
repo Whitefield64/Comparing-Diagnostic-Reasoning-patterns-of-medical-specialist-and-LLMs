@@ -1,0 +1,87 @@
+---
+source_case: "2010 Case 18.md"
+source_case_id: "2010_Case_18"
+generation_model: "meta/llama-3.3-70b-instruct"
+generated_at: "2026-05-17T13:27:51.113576+00:00"
+input_section: "Presentation of Case"
+generated_section: "Differential Diagnosis"
+---
+
+# Case 18-2010 —A 7-Year-Old Boy with Elevated HIV RNA Levels despite Antiretroviral Medications
+
+## Presentation of Case
+
+
+
+   *Dr. Brian C. Zanoni* (the Ragon Institute of the MGH, MIT, and Harvard, Charlestown, MA, and McCord Hospital, Durban, South Africa): A 7-year-old boy with human immunodeficiency virus type 1 (HIV-1) infection was seen in the outpatient pediatric HIV clinic of a hospital in Durban, South Africa, that is affiliated with Massachusetts General Hospital.
+
+
+
+The patient had been born by normal vaginal delivery, without complications, after a full-term gestation. His mother had received prenatal care, without testing for HIV infection. At birth, the patient's weight was 3.4 kg. He was breast-fed for the first 3 months, and then he was fed formula. At the age of 3 years, he was admitted to another hospital because of pneumonia. A presumptive diagnosis of tuberculosis was made, and a 6-month course of antituberculosis medications thought to include rifampin, isoniazid, and pyrazinamide was administered. Twenty-six months before this evaluation, an episode of suppurative otitis media occurred that responded to antibiotics.
+
+
+
+Approximately 18 months before this evaluation, the patient was readmitted to the other hospital because of cough, fever, vomiting, and abdominal pain. He appeared ill, with wasting, respiratory distress, and bilateral crackles on auscultation of the lungs. A skin test for tuberculosis was nonreactive, and tests for antibodies to HIV were positive. His weight and laboratory-test results are shown in . Ceftriaxone, clarithromycin, trimethoprim–sulfamethoxazole, albuterol, and hydrocortisone were administered. Five days later, rifampin (180 mg), isoniazid (90 mg), and pyrazinamide (450 mg) daily and antiretroviral medications were begun. He was discharged on the 11th day while continuing to receive trimethoprim–sulfamethoxazole and the antimycobacterial and antiretroviral medications.
+
+
+
+The following month, the patient's condition reportedly had improved. Four months later (13 months before this evaluation), a supraclavicular abscess developed, which did not improve after the administration of antibiotics. He was admitted to the other hospital for biopsy, incision, and drainage of the abscess. Microscopical examination of the biopsy specimen showed numerous leukocytes and no organisms, including no mycobacteria. Routine and mycobacterial cultures were sterile. Pathological examination reportedly showed granulomas with necrosis resembling caseation that were thought to be consistent with active tuberculosis. The next month, he returned to the doctor's office; weight and height, test results, and antiretroviral medications are shown in . The supraclavicular abscess had resolved. The antituberculosis medications were stopped after approximately 6 months (12 months before this evaluation). Four months later, the patient was seen in follow-up, and he was well.
+
+
+
+Eight months later, the patient was referred to the outpatient pediatric HIV clinic at this hospital for evaluation and renewal of antiretroviral medications. The mother reported good adherence to the antiretroviral medications and trimethoprim–sulfamethoxazole. The patient was reportedly not aware of his HIV diagnosis. He had received all routine childhood immunizations, including bacille Calmette–Guérin (BCG) vaccine in infancy, and he had no known allergies. He lived with his mother, an older sibling, and his maternal grandparents in a house with electricity and running water. His mother and grandmother were involved in his care. He was a student who did well in school. His father had died of an unknown cause when the patient was an infant, and his mother and older sibling were well. There was no known exposure to tuberculosis. After the diagnosis of HIV infection in the patient, his mother also tested positive for HIV infection.
+
+
+
+On examination, he appeared well. The weight and height were below the fifth percentile for age, according to growth charts of the Centers for Disease Control and Prevention. There was bilateral axillary lymphadenopathy, but the examination was otherwise normal. The patient's antiretroviral regimen was changed: the solution of ritonavir alone was replaced with lopinavir–ritonavir combination therapy, doses of zidovudine and lamivudine were increased, the administration of multivitamins was begun, and the administration of trimethoprim–sulfamethoxazole was continued. Results of tests performed the following week included normal white-cell and platelet counts, a hemoglobin level of 10.3 g per deciliter (reference range for children, 11.5 to 15.5), a mean corpuscular volume of 96 femtoliters (reference range, 76 to 94), and normal renal and liver function; other results are shown in .
+
+
+
+Three weeks later, the patient returned to the clinic for follow-up. His mother reported that he was adhering to the medication schedule, without any unacceptable adverse events. His mother participated in formal training related to antiretroviral therapy, which she had not previously attended. The patient returned to the clinic monthly thereafter for follow-up and medication adjustments, as shown in . He reported feeling well.
+
+
+
+Five months after presentation, the grandmother reported that a mild cough had developed in the patient and that his adherence to the medication was good. The examination was normal.
+
+
+
+A diagnostic test was performed, and a management decision was made.
+
+## Differential Diagnosis
+The clinical presentation of this 7-year-old boy with human immunodeficiency virus type 1 (HIV-1) infection is complex, with multiple potential contributing factors to his elevated HIV RNA levels despite antiretroviral medications. To approach this case, it is essential to consider various differential diagnoses, including malignant, infectious, inflammatory, structural, gynecologic (although less relevant in this male patient), systemic, and rare causes.
+
+Firstly, considering the patient's history of HIV-1 infection and antiretroviral therapy, one of the primary concerns is the potential development of antiretroviral resistance. This could be due to various factors, including poor adherence to the medication regimen, inadequate dosing, or the presence of pre-existing resistant viral strains. The fact that the patient's mother reports good adherence to the antiretroviral medications and trimethoprim–sulfamethoxazole suggests that resistance or inadequate dosing might be more likely explanations. The change in the antiretroviral regimen to include lopinavir–ritonavir combination therapy, increased doses of zidovudine and lamivudine, and the addition of multivitamins indicates an attempt to address potential resistance or suboptimal viral suppression.
+
+Another critical aspect of this case is the patient's history of tuberculosis (TB) and the treatment he received. Although the antituberculosis medications were stopped after approximately 6 months, the possibility of latent TB or the development of drug-resistant TB cannot be entirely ruled out, especially given the initial presentation with symptoms suggestive of TB (cough, fever, vomiting, and abdominal pain) and the subsequent development of a supraclavicular abscess with granulomas resembling caseation necrosis. However, the lack of mycobacterial organisms on biopsy and the sterile cultures make active TB less likely at the time of presentation to the pediatric HIV clinic.
+
+Infectious causes other than TB and HIV should also be considered, given the patient's immunocompromised state. These could include opportunistic infections such as Pneumocystis jirovecii pneumonia (PCP), toxoplasmosis, or cytomegalovirus (CMV) infection, among others. The prophylactic use of trimethoprim–sulfamethoxazole suggests an attempt to prevent PCP, but the possibility of other opportunistic infections cannot be excluded without further diagnostic testing. For instance, the patient's history of pneumonia and the development of a supraclavicular abscess could indicate a predisposition to certain types of infections, which might be opportunistic in nature.
+
+The patient's clinical presentation, including bilateral axillary lymphadenopathy and being below the fifth percentile for weight and height, suggests a chronic illness with potential systemic involvement. Systemic causes, including malignancies such as lymphoma, which is more common in HIV-infected individuals, should be considered. Lymphoma, particularly non-Hodgkin lymphoma, is a well-documented complication in patients with HIV/AIDS, often associated with advanced immunosuppression. Although the absence of specific symptoms such as significant lymphadenopathy beyond the axillary region, splenomegaly, or hepatomegaly makes this diagnosis less likely at this stage, it remains a critical consideration given the patient's immunocompromised status.
+
+Inflammatory causes, including autoimmune disorders, are less likely given the patient's clinical presentation and the absence of specific autoantibodies or inflammatory markers in the provided information. However, the possibility of an inflammatory response to a chronic infection or another underlying process cannot be entirely excluded. For example, chronic infections like TB can induce a significant inflammatory response, which might contribute to the patient's clinical presentation and laboratory findings.
+
+Structural causes, such as anatomical abnormalities or complications from previous infections or treatments, are not immediately apparent from the provided information but should be considered in the context of the patient's history of pneumonia, TB, and a supraclavicular abscess. For instance, the development of a bronchiectasis or other pulmonary complications following pneumonia could potentially contribute to the patient's symptoms and elevated HIV RNA levels, although this would require further diagnostic evaluation to confirm.
+
+Rare causes, including genetic disorders that might predispose the patient to infections or affect his response to antiretroviral therapy, should also be considered. However, without further information on the patient's family history or specific genetic testing, it is challenging to pursue this line of inquiry. Genetic factors can influence both the susceptibility to HIV infection and the rate of disease progression, as well as the response to antiretroviral therapy. Certain genetic mutations might affect the metabolism of antiretroviral drugs, leading to inadequate drug levels and subsequent treatment failure.
+
+Given the patient's elevated HIV RNA levels despite antiretroviral medications, the leading diagnosis or diagnoses would likely revolve around issues related to antiretroviral therapy, such as resistance, non-adherence (despite the mother's reports), or inadequate viral suppression due to dosing issues. The development of opportunistic infections or other systemic illnesses, including malignancies, although possible, seems less likely based on the information provided but cannot be ruled out without further diagnostic evaluation.
+
+The patient's history of TB and the presence of a supraclavicular abscess suggest a complex clinical scenario that might involve multiple factors contributing to his elevated HIV RNA levels. The presence of granulomas with necrosis resembling caseation in the biopsy specimen from the supraclavicular abscess is particularly noteworthy, as it suggests a chronic inflammatory process that could be related to TB or another infectious agent.
+
+In addition to the potential causes mentioned above, it is also important to consider the role of immune reconstitution inflammatory syndrome (IRIS) in this patient's presentation. IRIS is a condition that can occur in HIV-infected individuals who are initiating antiretroviral therapy, particularly those with advanced immunosuppression. It is characterized by an exaggerated inflammatory response to a previously acquired opportunistic infection, which can lead to clinical deterioration. Although the patient's symptoms and laboratory findings do not strongly suggest IRIS at this time, it is a possibility that should be considered in the context of his immunocompromised state and the presence of a chronic inflammatory process.
+
+The management of this patient will require a multidisciplinary approach, involving pediatricians, infectious disease specialists, and potentially other specialists depending on the findings of the diagnostic evaluation. The patient's antiretroviral regimen may need to be adjusted based on resistance testing and viral load monitoring. Furthermore, prophylactic measures against opportunistic infections, such as the continued use of trimethoprim–sulfamethoxazole, will be important in preventing complications associated with his immunocompromised state.
+
+In conclusion, the differential diagnosis for this patient is broad and complex, reflecting the challenges of managing HIV-1 infection in the context of potential antiretroviral resistance, past infections such as TB, and the risk of opportunistic infections or other systemic illnesses. A comprehensive approach, including careful adherence monitoring, viral load testing, resistance testing when appropriate, and screening for opportunistic infections, is necessary to optimize the patient's care and address the elevated HIV RNA levels. Further diagnostic testing, such as imaging studies to evaluate for any structural abnormalities or complications from previous infections, and close follow-up are essential to refine the diagnosis and guide management decisions.
+
+The patient's immunocompromised state, as indicated by his low weight and height percentiles, and the presence of bilateral axillary lymphadenopathy, underscores the need for a thorough evaluation to identify any underlying conditions that might be contributing to his elevated HIV RNA levels. This evaluation should include a detailed review of his medication adherence, as well as laboratory tests to assess his immune function and to screen for opportunistic infections. Additionally, considering the patient's history of TB and the development of a supraclavicular abscess, it is crucial to evaluate for any signs of active or latent TB, as well as to consider the possibility of drug-resistant TB.
+
+The potential for drug interactions between the patient's antiretroviral medications and other drugs he may be taking should also be considered. Certain medications, such as rifampin, can induce the metabolism of antiretroviral drugs, leading to reduced drug levels and decreased efficacy. Therefore, it is essential to carefully review the patient's medication list and to monitor for potential drug interactions.
+
+In summary, the differential diagnosis for this 7-year-old boy with HIV-1 infection and elevated HIV RNA levels despite antiretroviral medications is complex and multifaceted. It encompasses a range of potential causes, including antiretroviral resistance, opportunistic infections, systemic illnesses, and rare genetic disorders. A comprehensive and meticulous approach to his care, including thorough diagnostic evaluation and close monitoring, is essential to optimize his treatment outcomes and improve his quality of life. By considering the broad range of potential causes for his elevated HIV RNA levels and addressing each of these possibilities through a combination of diagnostic testing and therapeutic interventions, healthcare providers can work towards achieving viral suppression and reducing the risk of complications associated with HIV-1 infection.
+
+The importance of ongoing monitoring and follow-up cannot be overstated in this case. The patient's immunocompromised state and history of opportunistic infections make him susceptible to a range of complications, and regular monitoring will be essential to identify any potential issues early and to intervene promptly. This will require a collaborative effort between the patient's healthcare providers, including pediatricians, infectious disease specialists, and other specialists as needed.
+
+In addition to the medical management of the patient's HIV infection, it is also important to consider the social and emotional impacts of his condition. The patient's mother has reported that he is not aware of his HIV diagnosis, and it will be essential to consider how and when to disclose this information to him. The patient's emotional and psychological well-being should be prioritized, and he should be provided with appropriate support and counseling as needed.
+
+Ultimately, the successful management of this patient's HIV infection will require a comprehensive and multidisciplinary approach, incorporating medical, social, and emotional support. By working together to address the complex needs of this patient, healthcare providers can help to optimize his treatment outcomes and improve his overall quality of life. The patient's case highlights the importance of careful consideration of the potential causes of elevated HIV RNA levels in the context of antiretroviral therapy, and the need for a thorough and meticulous approach to diagnosis and management.

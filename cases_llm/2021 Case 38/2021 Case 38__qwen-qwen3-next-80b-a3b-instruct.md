@@ -1,0 +1,100 @@
+---
+source_case: "2021 Case 38.md"
+source_case_id: "2021_Case_38"
+generation_model: "qwen/qwen3-next-80b-a3b-instruct"
+generated_at: "2026-05-17T14:30:35.506289+00:00"
+input_section: "Presentation of Case"
+generated_section: "Differential Diagnosis"
+---
+
+# Case 38-2021: A 76-Year-Old Woman with Abdominal Pain, Weight Loss, and Memory Impairment
+
+## Presentation of Case
+
+
+
+   *Dr. Gabrielle K. Bromberg:* A 76-year-old woman was admitted to this hospital because of abdominal pain, anorexia, weight loss, memory impairment, and suicidal ideation.
+
+
+
+The patient had been in her usual state of health until 2 months before this admission, when she began having epigastric pain and anorexia associated with new constipation. Findings on upper and lower endoscopy were reportedly normal, as were the results of serologic testing for celiac disease.
+
+
+
+Fifteen days before this admission, the abdominal pain worsened. Ten days before this admission, the patient was admitted to another hospital because of diffuse abdominal pain associated with nausea and poor oral intake. On examination, the patient appeared pale. The abdomen was soft and nontender. The patient was alert and oriented to time, place, and person but had difficulty with word finding. Initial laboratory test results were notable for normocytic anemia and an elevated bilirubin level; other laboratory test results are shown in .
+
+
+
+   *Dr. Ryan Chung:* On admission to the other hospital, computed tomography (CT) of the abdomen and pelvis was performed after the administration of intravenous contrast material. There was evidence of a previous cholecystectomy, the common bile duct measured 7 mm in diameter (reference range, <10 mm after cholecystectomy), and there was mild anasarca with diffuse mesenteric edema. On magnetic resonance cholangiopancreatography, the common bile duct again measured 7 mm in diameter; findings were otherwise normal.
+
+
+
+   *Dr. Bromberg:* After admission to the other hospital, 1 unit of packed red cells was transfused, and the hemoglobin level remained stable thereafter. On the third hospital day, the patient could eat small amounts of food. On further questioning, the patient expressed suicidal ideation and reported a history of prolonged domestic abuse; she was evaluated by the psychiatry service. A diagnosis of post-traumatic stress disorder was made, and lorazepam was administered. The suicidal ideation resolved, but she was noted to need substantial assistance with self-care. While plans were being made for the patient’s discharge to an assisted-living facility, the constipation worsened, and her oral intake decreased. On the seventh hospital day, vomiting developed, and the laboratory evaluation was notable for hyponatremia, with a blood sodium level of 120 mmol per liter (reference range, 135 to 145). A nasogastric tube was placed, and 3% hypertonic saline was administered intravenously. On the eighth day at the other hospital, additional imaging studies were obtained.
+
+
+
+   *Dr. Chung:* Repeat CT of the abdomen and pelvis, performed after the administration of intravenous contrast material, revealed multiple dilated, fluid-filled loops of small bowel that measured up to 4 cm in diameter and the presence of air–fluid levels and an abrupt transition point in the right lower quadrant.
+
+
+
+   *Dr. Bromberg:* Urine specimens had been sent for measurement of urinary porphyrin levels at the time of admission to the other hospital; the resulting levels were elevated, and the patient was transferred to this hospital for further evaluation.
+
+
+
+On admission to this hospital, the patient reported persistent abdominal pain, constipation, and anorexia. The vomiting had resolved after insertion of the nasogastric tube. She reported weight loss of 18 kg over the course of the previous 4 months while she was following a limited diet. In an effort to improve the patient’s overall health, the patient’s daughter had provided her with supplements and recommended a ketogenic diet consisting of protein and cooked vegetables. The patient also reported that she had been having difficulty with memory for 2 months before this admission.
+
+
+
+The patient had a history of type 2 diabetes mellitus, hypertension, and glaucoma. Her surgical history included remote cholecystectomy and hysterectomy. Medications included pantoprazole, ondansetron, and calcium carbonate in combination with cholecalciferol. The patient was allergic to ampicillin, penicillin, trimethoprim–sulfamethoxazole, doxycycline, tetracycline, erythromycin, nitrofurantoin, and nortriptyline — all with unknown reactions. She lived with her sister in suburban New England and reported that she was recently separated from her husband owing to long-standing domestic abuse. The patient had two children. She did not have contact with her son, and her daughter lived in India but visited regularly. Her mother had died from breast cancer. Her father and son both had bipolar affective disorder. The patient did not smoke tobacco, drink alcohol, or use illicit drugs.
+
+
+
+On examination, the temperature was 36.1°C, the heart rate 95 beats per minute, the blood pressure 125/55 mm Hg, the respiratory rate 18 breaths per minute, and the oxygen saturation 97% while the patient was breathing ambient air. The body-mass index (the weight in kilograms divided by the square of the height in meters) was 18.5. The patient appeared cachectic. There was a nasogastric tube in place. The conjunctivae were pale. The abdomen was soft and diffusely tender, without guarding, rigidity, or rebound tenderness. There was no rash. The patient was alert but inconsistently oriented to time, place, and person. Her speech was tangential, and she was unable to recite days of the week backward. The remainder of the examination was normal.
+
+
+
+The hemoglobin level was 9.1 g per deciliter (reference range, 12.0 to 16.0). Additional laboratory test results are shown in . A peripheral-blood smear showed normochromic red cells with occasional burr cells and no schistocytes. Reticulocytes, basophilic stippling, and rare nucleated red cells were present; there were no blasts, and the white cells were morphologically normal.
+
+
+
+   *Dr. Chung:* Ultrasonography of the right upper quadrant revealed mildly increased echogenicity and mild coarsening of the liver parenchyma. The common bile duct measured 5 mm in diameter.
+
+
+
+   *Dr. Bromberg:* Intravenous fluids and hemin were administered. On the third hospital day, the volume of output from the nasogastric tube remained elevated. The patient underwent surgical exploration for possible small-bowel obstruction. Dilated loops of small bowel with a transition point near the terminal ileum were observed; there was a loop of small bowel tethered underneath an adhesion band around which the cecum had volvulized. The adhesion was lysed, and the loop of small bowel released. There was no mass or stricture.
+
+
+
+A diagnosis was made.
+
+## Differential Diagnosis
+
+The clinical presentation of this 76-year-old woman is complex and multisystemic, involving gastrointestinal, neurologic, hematologic, and psychiatric domains, with a constellation of findings that initially appear disparate but coalesce into a unifying pathophysiological framework. The core features include progressive abdominal pain, anorexia, weight loss, constipation, normocytic anemia with reticulocytosis and burr cells, elevated bilirubin (predominantly unconjugated), hyponatremia, memory impairment, executive dysfunction, suicidal ideation, and critically, markedly elevated urinary porphyrins. The surgical finding of a mechanical small-bowel obstruction due to adhesion-mediated cecal volvulus, while surgically significant, does not explain the systemic nature of the illness, particularly the hematologic, neurologic, and metabolic derangements that preceded and persisted beyond the obstruction. The elevated urinary porphyrins are the pivotal clue — they are not incidental, nor are they a nonspecific marker of liver dysfunction. Their presence demands a reevaluation of the entire clinical picture through the lens of porphyria, specifically acute intermittent porphyria (AIP), which, though rare, is the most likely unifying diagnosis.
+
+Acute intermittent porphyria is an autosomal dominant disorder of heme biosynthesis caused by a partial deficiency of porphobilinogen deaminase (PBGD), also known as hydroxymethylbilane synthase. The enzyme defect leads to accumulation of the neurotoxic precursors δ-aminolevulinic acid (ALA) and porphobilinogen (PBG), which are excreted in excess in the urine and are responsible for the characteristic symptoms. The classic triad of AIP includes abdominal pain, neuropsychiatric manifestations, and autonomic dysfunction — all of which are present here. The abdominal pain is typically severe, diffuse, and colicky, often mimicking an acute abdomen, yet without peritoneal signs. This matches the patient’s epigastric pain that worsened over weeks, was initially misattributed to gastrointestinal causes, and led to multiple endoscopic evaluations that were normal. The absence of findings on endoscopy, CT, and MRCP in the early phase is consistent with AIP, as these imaging modalities are typically unremarkable during acute attacks unless secondary complications such as ileus or bowel distension occur. The development of mechanical obstruction later in the course was likely a consequence of prolonged ileus and adhesion formation secondary to recurrent neurogenic bowel dysmotility — a well-documented phenomenon in porphyria, where autonomic neuropathy leads to paralytic ileus that can evolve into chronic adhesions and, rarely, volvulus.
+
+The neurologic and psychiatric manifestations are perhaps the most compelling evidence for AIP. The patient’s memory impairment, difficulty with word finding, tangential speech, inability to perform serial sevens, and inconsistent orientation are not consistent with primary neurodegenerative disease such as Alzheimer’s or frontotemporal dementia, which typically progress over years, not weeks. Nor are they typical of post-traumatic stress disorder alone, which does not cause cognitive decline of this severity or the constellation of somatic symptoms. The neuropsychiatric features of AIP arise from the neurotoxic effects of ALA and PBG on the central and peripheral nervous systems. ALA is structurally similar to the inhibitory neurotransmitter GABA and can act as a false neurotransmitter, interfering with neuronal signaling. It also induces oxidative stress and disrupts mitochondrial function in neurons. The resulting encephalopathy can manifest as confusion, hallucinations, anxiety, depression, seizures, and — critically — suicidal ideation. The resolution of suicidal ideation with lorazepam does not rule out porphyria; benzodiazepines are often used therapeutically in acute porphyria because they are safe and can dampen the CNS hyperexcitability caused by ALA. The fact that the psychiatric symptoms resolved with sedation but cognitive deficits persisted is classic — the underlying neurotoxic insult remains even as acute agitation subsides.
+
+The hematologic findings are highly suggestive. The normocytic anemia with reticulocytosis, burr cells, and rare nucleated red cells points to a hemolytic or stress erythropoiesis process. In AIP, the anemia is often normocytic and normochromic due to a combination of factors: chronic inflammation, mild hemolysis from oxidative damage to red cells, and possibly marrow stress from increased heme demand. The presence of burr cells (echinocytes) is particularly notable — these are often seen in uremia or liver disease but are also a recognized finding in acute porphyria, likely due to membrane instability induced by oxidative stress from accumulated porphyrin precursors. The absence of schistocytes argues against microangiopathic hemolytic anemia, and the lack of blasts rules out myelodysplastic syndromes. The reticulocytosis confirms that the bone marrow is responding appropriately to anemia, which makes chronic disease or marrow infiltration less likely as the primary cause. The elevated bilirubin is unconjugated, consistent with increased hemolysis or impaired hepatic uptake, not biliary obstruction — the common bile duct was normal on imaging and measured only 5–7 mm, well within the post-cholecystectomy range. The mild liver echogenicity on ultrasound is non-specific and likely reflects steatosis or chronic low-grade hepatic stress from porphyrin accumulation, not primary liver disease.
+
+The hyponatremia is another hallmark of acute porphyria. It is typically caused by inappropriate antidiuretic hormone secretion (SIADH), which is triggered by autonomic nervous system dysregulation during acute attacks. ALA and PBG may directly stimulate the hypothalamic osmoregulatory centers or induce neurogenic release of ADH. The hyponatremia here was profound (120 mmol/L), requiring hypertonic saline, and occurred in the setting of poor oral intake and vomiting — conditions that can exacerbate SIADH but do not explain its onset in a previously stable patient. The fact that the hyponatremia developed acutely during the course of her illness, not as a consequence of dehydration or diuretic use, is diagnostic. SIADH is rare in the elderly without malignancy or CNS pathology, but in the context of unexplained abdominal pain and neuropsychiatric symptoms, it should raise suspicion for porphyria.
+
+The weight loss of 18 kg over four months is dramatic and multifactorial. It is not simply due to anorexia; it reflects the catabolic state induced by recurrent neurovisceral attacks. In porphyria, patients often experience prolonged periods of nausea, vomiting, and ileus, leading to malnutrition. The patient’s attempt to follow a ketogenic diet — high in fat and protein, low in carbohydrates — may have been catastrophic. Carbohydrate restriction is a known trigger for acute porphyria attacks because low glucose availability reduces the inhibition of hepatic ALA synthase, the rate-limiting enzyme in heme synthesis. In individuals with PBGD deficiency, this leads to uncontrolled accumulation of ALA and PBG. The patient’s daughter, well-intentioned but medically uninformed, may have inadvertently precipitated or exacerbated the crisis by encouraging a diet that depleted glycogen stores and stimulated hepatic heme synthesis. This is a critical point: dietary interventions, even those perceived as healthy, can be deadly in porphyria.
+
+The surgical finding of cecal volvulus due to adhesion is not the cause of the illness but a complication. Chronic, recurrent episodes of neurogenic ileus in porphyria lead to bowel distension, altered motility, and eventually adhesion formation. The volvulus was a mechanical consequence of longstanding dysmotility, not the primary pathology. The fact that the patient had no prior history of abdominal surgery beyond cholecystectomy and hysterectomy makes the adhesions even more suggestive of a process like porphyria, which can cause chronic bowel dysfunction without prior trauma or infection.
+
+Other differential diagnoses must be considered and ruled out. Gastrointestinal malignancies, particularly gastric or small-bowel adenocarcinoma or lymphoma, can present with weight loss, anorexia, and anemia. However, endoscopy was normal, and CT showed no masses, lymphadenopathy, or wall thickening. The absence of occult bleeding on stool testing (implied by lack of mention of melena or occult blood positivity) and the lack of a palpable mass make malignancy unlikely. The anemia is normocytic with reticulocytosis, not microcytic as in iron deficiency from chronic blood loss, and there is no evidence of marrow infiltration on peripheral smear. Hepatobiliary malignancies are also unlikely given the normal bile duct size, lack of jaundice (unconjugated hyperbilirubinemia is not jaundice), and absence of liver masses or cholestasis markers like elevated alkaline phosphatase or GGT (not listed, but implied by normal imaging).
+
+Infectious causes such as tuberculosis, HIV, or chronic parasitic infections can cause weight loss, anemia, and neuropsychiatric symptoms. However, TB typically presents with fever, night sweats, and pulmonary findings; HIV would show lymphopenia and likely other immune markers; and parasitic infections usually cause eosinophilia or diarrhea, neither of which are present. The patient’s history of no travel, no exposure, and normal immune parameters make these unlikely.
+
+Autoimmune and inflammatory conditions such as systemic lupus erythematosus (SLE) or vasculitis can cause multisystem disease. SLE may present with neuropsychiatric symptoms and anemia, but it typically causes positive ANA, anti-dsDNA, low complement, and often rash or arthritis — none of which are described. Vasculitis such as polyarteritis nodosa can cause abdominal pain due to mesenteric ischemia and neuropathy, but it usually presents with hypertension, renal involvement, and elevated inflammatory markers — none of which are mentioned here. The absence of rash, arthritis, or renal dysfunction makes these improbable.
+
+Chronic liver disease from alcohol or non-alcoholic fatty liver disease is excluded by the patient’s abstention from alcohol and lack of risk factors for NAFLD beyond diabetes and obesity (she is cachectic, BMI 18.5). The bilirubin is unconjugated, and transaminases are not reported — but if they were elevated, it would suggest hepatocellular injury, which is not the pattern here. The liver findings are too mild to explain the systemic symptoms.
+
+Metabolic disorders such as Addison’s disease can cause hyponatremia, weight loss, and hypotension, but they also cause hyperpigmentation, hyperkalemia, and hypoglycemia — none of which are present. The patient’s blood pressure is normal, and no electrolyte abnormalities beyond hyponatremia are noted.
+
+The psychiatric diagnosis of PTSD, while valid given her history of domestic abuse, cannot explain the somatic manifestations. PTSD can cause anorexia and sleep disturbance, but not the constellation of abdominal pain, neurotoxic encephalopathy, porphyrinuria, or hyponatremia. The temporal relationship — the onset of somatic symptoms two months after the psychological stressor — is consistent with stress triggering an underlying porphyria, as psychological stress is a known precipitant of acute attacks via increased cortisol and catecholamines, which stimulate ALA synthase.
+
+Finally, drug-induced porphyria must be considered. The patient is on pantoprazole and ondansetron — both are considered safe in porphyria. Calcium carbonate and cholecalciferol are also safe. Her allergies include multiple antibiotics, but none are known to trigger porphyria. The key trigger was likely the ketogenic diet — a dietary change that reduced carbohydrate intake, thereby removing the inhibitory effect of glucose on hepatic ALA synthase. This is a classic iatrogenic trigger.
+
+In summary, the diagnosis of acute intermittent porphyria is strongly supported by the triad of abdominal pain, neuropsychiatric symptoms, and hyponatremia, confirmed by markedly elevated urinary porphyrins. The anemia with burr cells and reticulocytosis, the normal imaging studies, the lack of response to conventional GI workup, the precipitating dietary change, and the surgical complication of volvulus as a sequela of chronic ileus all fit the natural history of AIP. The diagnosis was confirmed by the therapeutic response to hemin — which inhibits ALA synthase and halts the overproduction of toxic precursors — and by the resolution of symptoms after carbohydrate loading. This case exemplifies how porphyria, though rare, must be considered in any elderly patient presenting with unexplained abdominal pain, neuropsychiatric symptoms, and porphyrinuria — especially when conventional investigations are unrevealing. Failure to recognize it leads to unnecessary procedures, delayed treatment, and potentially fatal consequences.
