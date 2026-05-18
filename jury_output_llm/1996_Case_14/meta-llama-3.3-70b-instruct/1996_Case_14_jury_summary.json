@@ -1,0 +1,151 @@
+{
+  "case": "1996 Case 14__meta-llama-3.3-70b-instruct.md",
+  "exported_at": "2026-05-18T02:21:55.716360+00:00",
+  "n_voters": 15,
+  "n_successful": 15,
+  "n_failed": 0,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 17,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient's clinical presentation and the growth of *Klebsiella pneumoniae* in multiple cultures confirm the diagnosis of sepsis."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient's clinical presentation, including fever, hypotension, and organ dysfunction, suggests a systemic infection."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The finding of a large, solitary mass within the right lobe of the liver is not applicable in this case, but the development of a morbilliform eruption, which later evolved into erythroderma and bullae, suggests a severe cutaneous adverse reaction."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable, however, The patient's clinical presentation is consistent with drug-induced TEN, complicated by sepsis and potentially a fungal infection."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, although not directly applicable, the patient's immunocompromised state, due to the use of prednisone and methotrexate, may have predisposed her to infection."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 20,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The patient's clinical presentation, including fever, hypotension, and organ dysfunction, suggests a systemic infection."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the sentence 'The patient's clinical presentation is consistent with drug-induced TEN, complicated by sepsis and potentially a fungal infection' can be used as an example of IND_INTUITION."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although this patient's presentation is not typical of that condition."
+        }
+      ]
+    }
+  ]
+}

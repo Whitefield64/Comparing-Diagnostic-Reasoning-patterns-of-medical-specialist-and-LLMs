@@ -1,0 +1,139 @@
+{
+  "case": "1999 Case 10__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T03:08:13.928158+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17280,
+          17561
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The combination of systemic vasculitis, renal failure, cortical blindness, and respiratory distress, alongside the skin and lymph node findings, points most strongly towards a diagnosis of a systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis."
+    },
+    {
+      "ranges": [
+        [
+          18464,
+          18655
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of ANCA in many cases of these conditions suggests an autoimmune mechanism, with the antibodies targeting neutrophil cytoplasmic antigens and triggering an inflammatory response."
+    },
+    {
+      "ranges": [
+        [
+          18094,
+          18330
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Systemic vasculitides, such as granulomatosis with polyangiitis or microscopic polyangiitis, are characterized by the deposition of immune complexes and the activation of neutrophils, leading to inflammation and damage to blood vessels."
+    },
+    {
+      "ranges": [
+        [
+          18657,
+          18809
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's history of smoking and the presence of *Helicobacter pylori* infection may also play a role in the development of the systemic vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          11921,
+          12055
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The use of methylprednisolone, a corticosteroid, suggests an empirical treatment approach for an inflammatory or autoimmune condition."
+    },
+    {
+      "ranges": [
+        [
+          12056,
+          12299
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The improvement in some of the patient's symptoms, such as the urinary output, and the lack of progression of others, could indicate a response to this treatment, further supporting the consideration of an autoimmune or inflammatory diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          16462,
+          16643
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's respiratory symptoms, including pulmonary edema or infiltrates, could also suggest a primary pulmonary condition, such as idiopathic pulmonary fibrosis or sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          15474,
+          15666
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, the lack of a complete response and the persistence of some symptoms indicate that further diagnostic evaluation and potentially additional immunosuppressive therapy may be necessary."
+    },
+    {
+      "ranges": [
+        [
+          16789,
+          17011
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "A diagnosis of pulmonary-renal syndrome, which includes conditions like Goodpasture's syndrome or anti-glomerular basement membrane disease, could be considered, given the patient's renal failure and pulmonary involvement."
+    },
+    {
+      "ranges": [
+        [
+          12978,
+          13206
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The presence of diffuse intravascular coagulation with lymphocytic inflammation on the skin biopsy specimen supports the diagnosis of a systemic condition with vascular involvement, further pointing towards a vasculitic process."
+    },
+    {
+      "ranges": [
+        [
+          15303,
+          15473
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's treatment with methylprednisolone and the initial response in terms of improved urinary output suggest that an inflammatory or autoimmune process is likely."
+    },
+    {
+      "ranges": [
+        [
+          14100,
+          14430
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Ultimately, the diagnosis of a systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis, best explains the patient's complex presentation, involving renal failure, cortical blindness, respiratory distress, and a vasculitic rash, alongside lymphadenopathy and evidence of intravascular coagulation."
+    }
+  ]
+}

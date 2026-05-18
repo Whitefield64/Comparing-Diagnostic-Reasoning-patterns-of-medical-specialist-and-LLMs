@@ -1,0 +1,106 @@
+{
+  "case": "1999 Case 06__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-18T02:36:27.059984+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4540,
+          4683
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis can be broadly categorized into several groups, including inflammatory, infectious, genetic, and systemic disorders."
+    },
+    {
+      "ranges": [
+        [
+          4966,
+          5104
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Conditions such as Cogan syndrome, which is characterized by interstitial keratitis and vestibular-auditory symptoms, could be considered."
+    },
+    {
+      "ranges": [
+        [
+          5412,
+          5587
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Conditions such as Marfan syndrome, Ehlers-Danlos syndrome, and Loeys-Dietz syndrome are known to cause aortic aneurysms and could be considered in the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          5236,
+          5411
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of a thoracoabdominal aneurysm in a young patient is unusual and suggests a connective tissue disorder or a genetic condition that affects the vascular system."
+    },
+    {
+      "ranges": [
+        [
+          10675,
+          10851
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient's symptoms and laboratory results suggest an inflammatory or autoimmune process that affects multiple systems, including the vascular, ocular, and auditory systems."
+    },
+    {
+      "ranges": [
+        [
+          6595,
+          6696
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the patient's symptoms and laboratory results do not strongly suggest a specific infectious etiology."
+    },
+    {
+      "ranges": [
+        [
+          8439,
+          8604
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The presence of bilateral sensorineural deafness and ocular irritation, which improved with corticosteroid treatment, suggests an autoimmune or inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          15982,
+          16137
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": " The presence of a thoracoabdominal aneurysm and the patient's other vascular symptoms suggest that the patient is at risk for cardiovascular complications"
+    },
+    {
+      "ranges": [
+        [
+          13409,
+          13613
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": " other systemic disorders that could potentially explain the patient's symptoms include Kawasaki disease, which is a medium vessel vasculitis that can cause aneurysms and stenosis of the coronary arteries"
+    }
+  ]
+}

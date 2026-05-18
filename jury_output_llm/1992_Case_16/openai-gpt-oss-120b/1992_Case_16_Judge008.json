@@ -1,0 +1,29 @@
+{
+  "case": "1992 Case 16__openai-gpt-oss-120b.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-17T23:49:09.906602+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          26098,
+          26277
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The two entities that best reconcile *all* the clinical, laboratory, and imaging data are **Langerhans cell histiocytosis (eosinophilic granuloma)** and **primary bone lymphoma**."
+    },
+    {
+      "ranges": [
+        [
+          4993,
+          5217
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A high‑energy fall while skiing and a later motor‑vehicle impact could conceivably produce a fracture of the C5 body or a subluxation that later evolved into a lytic‑appearing area through callus resorption or osteonecrosis."
+    }
+  ]
+}

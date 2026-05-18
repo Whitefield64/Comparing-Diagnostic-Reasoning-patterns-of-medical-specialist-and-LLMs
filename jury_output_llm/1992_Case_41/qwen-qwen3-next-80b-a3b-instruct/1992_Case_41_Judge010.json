@@ -1,0 +1,172 @@
+{
+  "case": "1992 Case 41__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T00:45:11.569822+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7560,
+          7731
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling consideration is right ventricular outflow tract obstruction due to pulmonary valve stenosis, possibly with associated dysplasia or annular hypoplasia."
+    },
+    {
+      "ranges": [
+        [
+          6682,
+          6750
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another possibility is a subaortic or supravalvular aortic stenosis."
+    },
+    {
+      "ranges": [
+        [
+          4479,
+          4658
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most prominent cardiac finding is a Grade 3, harsh, long systolic ejection murmur, loudest at the left midsternal border, radiating to the upper right sternal border and apex."
+    },
+    {
+      "ranges": [
+        [
+          5765,
+          6025
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The murmur’s radiation to the apex is unusual for isolated pulmonary stenosis but can occur in conditions with high-velocity flow across the right ventricular outflow tract, such as in a large atrial septal defect (ASD) with significant left-to-right shunting."
+    },
+    {
+      "ranges": [
+        [
+          6296,
+          6463
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, a small or restrictive ASD might not produce the classic findings, and the conduction delay could reflect chronic right atrial or ventricular volume exposure."
+    },
+    {
+      "ranges": [
+        [
+          10644,
+          10817
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The possibility of cardiorenal syndrome must be entertained, but the murmur’s location and quality do not fit the typical findings of hypertensive heart disease in children."
+    },
+    {
+      "ranges": [
+        [
+          11091,
+          11228
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A more intriguing possibility is that this child has a genetic or syndromic condition that links both his urologic and cardiac anomalies."
+    },
+    {
+      "ranges": [
+        [
+          11487,
+          11660
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most relevant syndromes include VACTERL association (vertebral, anal, cardiac, tracheoesophageal, renal, limb), but this child has no vertebral, anal, or limb anomalies."
+    },
+    {
+      "ranges": [
+        [
+          11767,
+          11953
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "More compelling is the possibility of **CHARGE syndrome**, which includes Coloboma, Heart defect, Atresia choanae, Retarded growth and development, Genital hypoplasia, and Ear anomalies."
+    },
+    {
+      "ranges": [
+        [
+          12052,
+          12261
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another possibility is **DiGeorge syndrome (22q11.2 deletion syndrome)**, which is associated with conotruncal cardiac defects such as tetralogy of Fallot, truncus arteriosus, interrupted aortic arch, and VSD."
+    },
+    {
+      "ranges": [
+        [
+          12539,
+          12836
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A rarer but important consideration is **Prune Belly syndrome** (Eagle-Barrett syndrome), which is characterized by deficient abdominal musculature, bilateral cryptorchidism, and urinary tract abnormalities including hydronephrosis, megaureters, bladder diverticula, and posterior urethral valves."
+    },
+    {
+      "ranges": [
+        [
+          15993,
+          16217
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most parsimonious explanation that unifies the urologic and cardiac findings is **Prune Belly syndrome with an associated congenital cardiac anomaly**, most likely a small atrial septal defect or mild pulmonary stenosis."
+    },
+    {
+      "ranges": [
+        [
+          16587,
+          16916
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the cardiac murmur is truly isolated and the renal disease is secondary to obstructive uropathy, then the most likely cardiac diagnosis is **mild pulmonary stenosis with associated right ventricular conduction delay**, perhaps secondary to chronic right heart strain from renal hypertension or a low-grade left-to-right shunt."
+    },
+    {
+      "ranges": [
+        [
+          10133,
+          10254
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the ECG shows right-sided conduction delay, not left ventricular hypertrophy, and the heart size is normal on radiograph."
+    },
+    {
+      "ranges": [
+        [
+          3793,
+          4115
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "nstellation of findings—particularly the history of severe neonatal obstructive uropathy with bilateral hydronephrosis, posterior urethral valves, recurrent urinary tract infections, chronic hypertension, and now a cardiac murmur with right ventricular conduction delay—demands a broad, integrative differential diagnosis."
+    }
+  ]
+}

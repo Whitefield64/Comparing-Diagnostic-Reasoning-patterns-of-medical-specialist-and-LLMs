@@ -1,0 +1,139 @@
+{
+  "case": "1992 Case 16__openai-gpt-oss-120b.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-17T23:52:39.601203+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          26098,
+          26277
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The two entities that best reconcile *all* the clinical, laboratory, and imaging data are **Langerhans cell histiocytosis (eosinophilic granuloma)** and **primary bone lymphoma**."
+    },
+    {
+      "ranges": [
+        [
+          26279,
+          26505
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Both can present as a solitary, osteolytic vertebral body lesion with a posterior epidural extension causing early cord compression, and both can be associated with a modestly elevated ESR and subtle hematologic abnormalities."
+    },
+    {
+      "ranges": [
+        [
+          27237,
+          27399
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s symptoms were **precipitated by minor trauma**, a frequent scenario where a dormant eosinophilic granuloma becomes symptomatic after a “second hit”."
+    },
+    {
+      "ranges": [
+        [
+          29948,
+          30196
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the biopsy yields a **granulomatous infiltrate with Langerhans cells**, the diagnosis of eosinophilic granuloma is confirmed, and treatment would shift toward **corticosteroid therapy, limited radiotherapy, or curettage** depending on stability."
+    },
+    {
+      "ranges": [
+        [
+          30198,
+          30347
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Conversely, a **lymphoid malignancy** would necessitate **systemic chemotherapy (e.g., CHOP‑like regimen) and possibly involved‑field radiotherapy**."
+    },
+    {
+      "ranges": [
+        [
+          22508,
+          22598
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "rimary bone lymphoma** is a **strong contender** and must be kept high on the differential"
+    },
+    {
+      "ranges": [
+        [
+          32917,
+          33029
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the lesion’s apparent circumscription and the absence of systemic “B‑symptoms” make it slightly less compatible."
+    },
+    {
+      "ranges": [
+        [
+          20702,
+          20797
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The **absence of fever**, **normal or low WBC**, and **lack of systemic malaise** argue against"
+    },
+    {
+      "ranges": [
+        [
+          23176,
+          23274
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": " \n* **Absence of systemic signs** – No weight loss, fatigue, or other metastatic sites on imaging."
+    },
+    {
+      "ranges": [
+        [
+          12079,
+          12239
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The imaging description emphasizes an *osteolytic vertebral focus* rather than a pure epidural fluid collection, and the laboratory findings are not supportive."
+    },
+    {
+      "ranges": [
+        [
+          19832,
+          20026
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient’s age (27) is younger than the usual demographic; there is no mention of **calcified chondroid matrix** on CT, which usually appears as **flocculent or ring‑and‑arc calcifications**."
+    },
+    {
+      "ranges": [
+        [
+          19720,
+          19806
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The pattern of a lytic vertebral body lesion with soft‑tissue extension is compatible."
+    }
+  ]
+}

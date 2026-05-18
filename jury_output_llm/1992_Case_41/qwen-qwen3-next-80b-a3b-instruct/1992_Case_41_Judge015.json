@@ -1,0 +1,172 @@
+{
+  "case": "1992 Case 41__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T00:52:22.692208+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4479,
+          4658
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most prominent cardiac finding is a Grade 3, harsh, long systolic ejection murmur, loudest at the left midsternal border, radiating to the upper right sternal border and apex."
+    },
+    {
+      "ranges": [
+        [
+          4901,
+          5045
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most common congenital causes of such a murmur include pulmonary stenosis, hypertrophic cardiomyopathy, and ventricular septal defect (VSD)."
+    },
+    {
+      "ranges": [
+        [
+          5224,
+          5434
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "In pulmonary stenosis, one typically expects a delayed and diminished pulmonic component of S2, and often a palpable right ventricular lift or right ventricular hypertrophy on ECG, neither of which are present."
+    },
+    {
+      "ranges": [
+        [
+          5435,
+          5763
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The ECG shows only right ventricular conduction delay without hypertrophy, which is an important distinction: conduction delay can occur in chronic volume or pressure overload states, but the absence of voltage criteria for right ventricular hypertrophy suggests that any right heart strain is either mild or not yet structural."
+    },
+    {
+      "ranges": [
+        [
+          5765,
+          6025
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The murmur’s radiation to the apex is unusual for isolated pulmonary stenosis but can occur in conditions with high-velocity flow across the right ventricular outflow tract, such as in a large atrial septal defect (ASD) with significant left-to-right shunting."
+    },
+    {
+      "ranges": [
+        [
+          6150,
+          6295
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "While the murmur here is harsh and long, not soft, the absence of a fixed split S2 and the presence of hypertension make a large ASD less likely."
+    },
+    {
+      "ranges": [
+        [
+          10644,
+          10817
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The possibility of cardiorenal syndrome must be entertained, but the murmur’s location and quality do not fit the typical findings of hypertensive heart disease in children."
+    },
+    {
+      "ranges": [
+        [
+          14831,
+          14913
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "We must also consider whether the cardiac murmur is entirely benign and unrelated."
+    },
+    {
+      "ranges": [
+        [
+          15993,
+          16213
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The most parsimonious explanation that unifies the urologic and cardiac findings is **Prune Belly syndrome with an associated congenital cardiac anomaly**, most likely a small atrial septal defect or mild pulmonary steno"
+    },
+    {
+      "ranges": [
+        [
+          13945,
+          14206
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "the mother’s history of repaired PDA and the sister’s recurrent respiratory infections may reflect a familial predisposition to connective tissue or developmental anomalies, perhaps a low-penetrance autosomal dominant condition affecting mesodermal development."
+    },
+    {
+      "ranges": [
+        [
+          13604,
+          13782
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The right ventricular conduction delay may reflect chronic right heart strain from pulmonary hypertension secondary to chronic renal disease or from an associated cardiac defect."
+    },
+    {
+      "ranges": [
+        [
+          13783,
+          13930
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The increased pulmonary vasculature on chest radiograph may reflect a left-to-right shunt, such as an ASD, which is common in Prune Belly syndrome."
+    },
+    {
+      "ranges": [
+        [
+          6682,
+          6750
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another possibility is a subaortic or supravalvular aortic stenosis."
+    },
+    {
+      "ranges": [
+        [
+          4659,
+          4794
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of an ejection click, diastolic murmur, or signs of volume overload such as a gallop rhythm or peripheral edema is notable."
+    },
+    {
+      "ranges": [
+        [
+          10133,
+          10254
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the ECG shows right-sided conduction delay, not left ventricular hypertrophy, and the heart size is normal on radiograph."
+    }
+  ]
+}

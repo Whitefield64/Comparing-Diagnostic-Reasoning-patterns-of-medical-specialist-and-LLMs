@@ -1,0 +1,106 @@
+{
+  "case": "1992 Case 16__openai-gpt-oss-120b.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-17T23:52:39.601611+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          26098,
+          26277
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The two entities that best reconcile *all* the clinical, laboratory, and imaging data are **Langerhans cell histiocytosis (eosinophilic granuloma)** and **primary bone lymphoma**."
+    },
+    {
+      "ranges": [
+        [
+          26279,
+          26505
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Both can present as a solitary, osteolytic vertebral body lesion with a posterior epidural extension causing early cord compression, and both can be associated with a modestly elevated ESR and subtle hematologic abnormalities."
+    },
+    {
+      "ranges": [
+        [
+          27237,
+          27399
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s symptoms were **precipitated by minor trauma**, a frequent scenario where a dormant eosinophilic granuloma becomes symptomatic after a “second hit”."
+    },
+    {
+      "ranges": [
+        [
+          5778,
+          5907
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A true fracture would produce immediate, severe pain and functional limitation, not a delayed onset after a period of quiescence."
+    },
+    {
+      "ranges": [
+        [
+          20702,
+          20804
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The **absence of fever**, **normal or low WBC**, and **lack of systemic malaise** argue against Ewing."
+    },
+    {
+      "ranges": [
+        [
+          33506,
+          33685
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The histopathology will guide whether the patient requires **local therapy (curettage, low‑dose radiotherapy)** for LCH or **systemic chemotherapy and radiotherapy** for lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          19720,
+          19806
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The pattern of a lytic vertebral body lesion with soft‑tissue extension is compatible."
+    },
+    {
+      "ranges": [
+        [
+          28667,
+          28853
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "rimary bone lymphoma** is less common than spinal LCH, and the radiographic description does not highlight the **homogeneous, infiltrative pattern** that is often emphasized for lymphoma"
+    },
+    {
+      "ranges": [
+        [
+          28856,
+          29037
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In many series, lymphoma lesions are **more diffuse**, sometimes involving multiple vertebrae, whereas the present case appears **well‑circumscribed** and limited to a single level."
+    }
+  ]
+}

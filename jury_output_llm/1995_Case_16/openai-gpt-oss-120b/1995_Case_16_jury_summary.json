@@ -1,0 +1,373 @@
+{
+  "case": "1995 Case 16__openai-gpt-oss-120b.md",
+  "exported_at": "2026-05-18T01:24:46.635151+00:00",
+  "n_voters": 15,
+  "n_successful": 15,
+  "n_failed": 0,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the expected presentation of cardiac sarcoidosis with pulmonary sarcoid nodules, given the upper-lobe nodular disease, mediastinal lymphadenopathy, refractory VT, and progressive dilated cardiomyopathy."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The most probable diagnosis is cardiac sarcoidosis, followed by tuberculosis, and then idiopathic dilated cardiomyopathy."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of upper‑lobe nodules, hilar lymphadenopathy, and refractory VT is typical of cardiac sarcoidosis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of cardiac sarcoidosis is higher than that of tuberculosis or idiopathic dilated cardiomyopathy, given the patient’s clinical presentation and diagnostic findings."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Similar cases of cardiac sarcoidosis have been reported in the literature, with patients presenting with rapidly progressive biventricular dilated cardiomyopathy and refractory ventricular tachycardia."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of upper‑lobe nodular disease, mediastinal lymphadenopathy, refractory VT, and progressive dilated cardiomyopathy is typical of cardiac sarcoidosis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly applicable here, but the approach of ruling out life-threatening conditions first is relevant: we must first consider and rule out infectious causes like tuberculosis before moving to less common diagnoses."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 do not directly apply to this case, but the process of validating a diagnosis against clinical and laboratory evidence is relevant."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description of cardiac sarcoidosis, which is a well-known cause of rapidly progressive biventricular dilated cardiomyopathy and refractory ventricular tachycardia."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is cardiac sarcoidosis, given the combination of clinical, radiographic, and electrophysiologic findings."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of cardiac sarcoidosis involve the heart, the presence of upper-lobe nodular lung disease increases the probability of this diagnosis, given the known association between sarcoidosis and pulmonary involvement."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of a young adult with rapidly progressive biventricular dilated cardiomyopathy and refractory ventricular tachycardia, who was ultimately diagnosed with cardiac sarcoidosis."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of upper‑lobe nodular disease, mediastinal lymphadenopathy, refractory VT, and progressive dilated cardiomyopathy is typical for cardiac sarcoidosis."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must first rule out other diagnoses such as cardiac sarcoidosis, tuberculosis, and fungal infections before considering idiopathic dilated cardiomyopathy."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The clinical course—a relatively rapid decline in ventricular function with refractory VT—mirrors reports of aggressive cardiac sarcoid disease, which supports the diagnosis of cardiac sarcoidosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of upper‑lobe nodules, hilar lymphadenopathy, and refractory ventricular tachycardia is typical of cardiac sarcoidosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is cardiac sarcoidosis, given the combination of cardiac and pulmonary findings."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of cardiac sarcoidosis is higher than that of tuberculosis or fungal infection, given the patient’s age, ethnicity, and the presence of upper‑lobe nodules and refractory ventricular tachycardia."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of cardiac sarcoidosis in a young adult with refractory ventricular tachycardia and upper‑lobe nodules, which was diagnosed after a thorough workup including cardiac MRI and FDG‑PET."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of upper‑lobe nodular disease, mediastinal lymphadenopathy, refractory VT, and progressive dilated cardiomyopathy is typical of cardiac sarcoidosis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of cardiac sarcoidosis is increased by the presence of upper‑lobe nodules, hilar lymphadenopathy, and refractory VT, despite the lack of definitive histologic confirmation."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is cardiac sarcoidosis, given the combination of cardiac and pulmonary findings."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Similar cases of cardiac sarcoidosis have been reported in the literature, with patients presenting with rapidly progressive biventricular dilated cardiomyopathy and refractory ventricular tachycardia."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of upper-lobe nodular disease, mediastinal lymphadenopathy, refractory VT, and progressive dilated cardiomyopathy is typical of cardiac sarcoidosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the clinician’s intuition that cardiac sarcoidosis is the top diagnosis is an example of this."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of upper-lobe nodules, hilar lymphadenopathy, and refractory VT fits the classic description of cardiac sarcoidosis."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the reasoning is the same as the provided text: Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculosis, but an autoimmune mechanism has also been postulated is not applicable here but the reasoning is the same as the provided text: I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation is not applicable here but the reasoning is the same as the provided text: The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The clinical course—a relatively rapid decline in ventricular function with refractory VT—mirrors reports of aggressive cardiac sarcoid disease, making cardiac sarcoidosis the most probable diagnosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of upper‑lobe nodular disease, mediastinal lymphadenopathy, refractory VT, and progressive dilated cardiomyopathy is typical of cardiac sarcoidosis."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The CT description of multiple 10‑mm alveolar nodules, especially in the upper lobes, could be compatible with a miliary or disseminated fungal pattern, but is more suggestive of sarcoidosis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The presence of a small pericardial effusion, severe tricuspid regurgitation, and right‑ventricular dilatation may reflect advanced infiltrative damage extending to the right heart—a pattern described in sarcoid cardiomyopathy, validating the diagnosis of cardiac sarcoidosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "Given the combination of upper‑lobe nodular disease, mediastinal lymphadenopathy, refractory VT, and progressive dilated cardiomyopathy, cardiac sarcoidosis remains a leading hypothesis, based on clinical intuition and experience."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Chagas disease is an attractive hypothesis for the cardiac component alone, but the lack of supporting epidemiologic and laboratory data makes it a lower‑probability diagnosis, requiring creative thinking to consider it as a potential cause."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but the principle of prioritizing life‑threatening diagnoses first, such as cardiac sarcoidosis, is essential in this case."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s presentation is reminiscent of cases of cardiac sarcoidosis reported in the literature, where the disease has a rapid progression and requires prompt diagnosis and treatment."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of upper‑lobe nodular disease, mediastinal lymphadenopathy, refractory VT, and progressive dilated cardiomyopathy is typical for cardiac sarcoidosis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s age, ethnicity, and clinical presentation are similar to those of previously reported cases of cardiac sarcoidosis."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description of cardiac sarcoidosis with pulmonary sarcoid nodules, which is a well-described cause of rapidly progressive biventricular dilated cardiomyopathy and refractory ventricular tachycardia in young adults."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but this is not directly relevant to the current case."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "I wondered whether the patient might have had a rare or atypical presentation of a systemic disease, such as a fungal infection or a connective tissue disease, that could explain the cardiac and pulmonary findings."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, but this is not directly relevant to the current case."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out life-threatening conditions, such as cardiac tamponade or pulmonary embolism, before considering less urgent diagnoses like cardiac sarcoidosis or idiopathic dilated cardiomyopathy."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is cardiac sarcoidosis, although I am troubled by the lack of definitive histologic confirmation and the presence of atypical features."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If cardiac sarcoidosis is confirmed, immunosuppressive therapy, arrhythmia control, and monitoring would be the management implications."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Standard anti‑TB regimen (rifampin, isoniazid, pyrazinamide, ethambutol for 2 months, followed by rifampin + isoniazid for 4 months) would be used if tuberculosis is identified."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The likelihood of cardiac sarcoidosis is increased given the combination of upper‑lobe nodular disease, mediastinal lymphadenopathy, refractory VT, and progressive dilated cardiomyopathy, despite the lack of definitive histologic confirmation."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of upper‑lobe nodules, hilar lymphadenopathy, and refractory VT is typical of cardiac sarcoidosis, especially in a young adult of Caribbean or African descent."
+        },
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "The differential diagnosis must prioritize systemic granulomatous diseases that can involve both heart and lung, with cardiac sarcoidosis being the most likely explanation."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "Given the patient’s epidemiologic background and prior positive tuberculin skin tests, tuberculosis remains a close second in the differential diagnosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant in this case, but the presentation of tumors of this type typically presents as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced, is not applicable to this patient."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of upper-lobe nodular disease, mediastinal lymphadenopathy, refractory VT, and progressive dilated cardiomyopathy is typical of cardiac sarcoidosis."
+        },
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "Cardiac sarcoidosis with pulmonary sarcoid nodules, Tuberculous cardiopulmonary disease, Chronic disseminated fungal infection (Histoplasma spp.), Idiopathic dilated cardiomyopathy (IDC) with coincidental pulmonary nodules, and Viral myocarditis evolving to dilated cardiomyopathy are the most likely diagnoses."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not applicable here, but we must first rule out the most dangerous explanations such as cardiac sarcoidosis and tuberculous cardiopulmonary disease."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is cardiac sarcoidosis, although I am troubled by the negative serologic test and the lack of systemic sarcoid signs."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is not applicable here, but the many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the phrase \"the most likely diagnosis\" is, the actual text is: The most compelling diagnostic candidates are those that **simultaneously** account for: ..."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not applicable here, but:  It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun is also not applicable, the actual text is: The clinical course—a relatively rapid decline in ventricular function with refractory VT—mirrors reports of aggressive cardiac sarcoid disease."
+        }
+      ]
+    }
+  ]
+}

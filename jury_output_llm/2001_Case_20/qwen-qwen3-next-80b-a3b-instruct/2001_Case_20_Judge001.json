@@ -1,0 +1,469 @@
+{
+  "case": "2001 Case 20__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T04:08:44.203901+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6306,
+          6437
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is infective endocarditis (IE), particularly in its culture-negative or atypical form."
+    },
+    {
+      "ranges": [
+        [
+          6547,
+          6761
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of significant valvular pathology—thickened mitral and aortic leaflets, calcified posterior mitral annulus, and left atrial dilatation—creates a highly favorable substrate for endocardial colonization."
+    },
+    {
+      "ranges": [
+        [
+          6912,
+          7139
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The organism isolated, while not a classic IE pathogen like *Streptococcus viridans*, *Staphylococcus aureus*, or *Enterococcus*, is a gram-negative rod that may have been misidentified or underrecognized in earlier literature."
+    },
+    {
+      "ranges": [
+        [
+          7474,
+          7646
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The negative TEE does not exclude IE; vegetations may be small, friable, or obscured by calcific deposits, especially in the setting of advanced degenerative valve disease."
+    },
+    {
+      "ranges": [
+        [
+          7647,
+          8011
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Furthermore, the absence of visible vegetations does not rule out “culture-negative endocarditis” due to prior antibiotic exposure, as the patient received ciprofloxacin for six days prior to blood culture collection—a fact that may have suppressed microbial growth sufficiently to prevent visualization on imaging while still allowing for intermittent bacteremia."
+    },
+    {
+      "ranges": [
+        [
+          8012,
+          8157
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The persistent low-grade fever, new systolic murmur, and elevated ESR (59 mm/hr) are classic, albeit nonspecific, signs of subacute endocarditis."
+    },
+    {
+      "ranges": [
+        [
+          8438,
+          8560
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another critical differential is occult abscess formation, particularly in the setting of prolonged fever and weight loss."
+    },
+    {
+      "ranges": [
+        [
+          8561,
+          8800
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s history of a renal cyst and gallstone raises the possibility of an infected cyst or cholecystitis, but the ultrasound findings explicitly excluded wall thickening or pericholecystic fluid, making acute cholecystitis unlikely."
+    },
+    {
+      "ranges": [
+        [
+          8801,
+          8958
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, a chronically infected renal cyst, especially in the context of diabetes and chronic kidney disease, can serve as a nidus for persistent bacteremia."
+    },
+    {
+      "ranges": [
+        [
+          12196,
+          12407
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s cardiac findings—left ventricular hypertrophy, segmental dysfunction—could reflect chronic hypertensive heart disease, but could also be influenced by myocardial infiltration or vasculitis from TB."
+    },
+    {
+      "ranges": [
+        [
+          12409,
+          12493
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The possibility of a systemic vasculitis or autoimmune process cannot be overlooked."
+    },
+    {
+      "ranges": [
+        [
+          12494,
+          12732
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The combination of fever, weight loss, proteinuria, and renal insufficiency raises concern for a systemic inflammatory disorder such as polyarteritis nodosa (PAN), microscopic polyangiitis (MPA), or granulomatosis with polyangiitis (GPA)."
+    },
+    {
+      "ranges": [
+        [
+          12927,
+          13157
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The proteinuria with minimal red blood cells and few white cells in the sediment is more consistent with glomerular or tubulointerstitial injury than active glomerulonephritis, but does not exclude immune complex-mediated disease."
+    },
+    {
+      "ranges": [
+        [
+          13158,
+          13381
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of calcified lymph nodes and the bone scan findings of increased uptake in degenerative joints could reflect granulomatous inflammation or vasculitic involvement of small vessels supplying bone and lymph nodes."
+    },
+    {
+      "ranges": [
+        [
+          13554,
+          13770
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s age, chronic kidney disease, and diabetes also place him at risk for diabetic nephropathy, which typically presents with heavy proteinuria and progressive renal failure but not with fever or bacteremia."
+    },
+    {
+      "ranges": [
+        [
+          13771,
+          13865
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The acute onset of fever and bacteremia, however, suggests an additional superimposed process."
+    },
+    {
+      "ranges": [
+        [
+          13867,
+          13996
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of *Moraxella phenylpyruvica* in blood culture, though rare, is highly suggestive of a mucosal source of bacteremia."
+    },
+    {
+      "ranges": [
+        [
+          13997,
+          14080
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "This organism is a normal inhabitant of the oropharynx and upper respiratory tract."
+    },
+    {
+      "ranges": [
+        [
+          14081,
+          14278
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In immunocompromised hosts, or those with chronic mucosal disruption (e.g., from periodontal disease, recent dental procedures, or even chronic aspiration), it can translocate into the bloodstream."
+    },
+    {
+      "ranges": [
+        [
+          14279,
+          14468
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s age, diabetes, and chronic illness predispose him to periodontal disease, which is a known source of bacteremia with oral flora, including *Neisseria* and *Moraxella* species."
+    },
+    {
+      "ranges": [
+        [
+          14469,
+          14635
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The new systolic murmur, occurring after the onset of fever, could represent acute-on-chronic valvular regurgitation secondary to endocarditis seeded from oral flora."
+    },
+    {
+      "ranges": [
+        [
+          14636,
+          14852
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that the fever persisted despite ciprofloxacin and metronidazole is consistent with a source that is not responsive to broad-spectrum antibiotics targeting gut flora—suggesting a non-enteric, mucosal origin."
+    },
+    {
+      "ranges": [
+        [
+          15011,
+          15119
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The possibility of a malignancy with paraneoplastic fever or occult metastatic infection must be considered."
+    },
+    {
+      "ranges": [
+        [
+          15120,
+          15205
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The 15 kg weight loss over one year is profound and highly concerning for malignancy."
+    },
+    {
+      "ranges": [
+        [
+          15206,
+          15375
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The CT scan revealed no mass lesions, but the calcified lymph nodes could represent granulomatous disease or, less commonly, lymphoma with necrotic or calcified centers."
+    },
+    {
+      "ranges": [
+        [
+          15376,
+          15602
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Lymphoma, particularly Hodgkin’s or follicular lymphoma, can present with prolonged fever, night sweats, weight loss, and elevated ESR, sometimes with bacteremia due to secondary immunosuppression or mucosal barrier breakdown."
+    },
+    {
+      "ranges": [
+        [
+          15603,
+          15695
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s cardiac findings could reflect lymphomatous infiltration, though this is rare."
+    },
+    {
+      "ranges": [
+        [
+          15696,
+          15842
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The bone scan showed degenerative changes, but small foci of increased uptake could represent lytic or sclerotic metastases not yet visible on CT."
+    },
+    {
+      "ranges": [
+        [
+          15843,
+          15987
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of adenopathy on CT does not exclude lymphoma, especially if it is nodal and small or located in the mediastinum or retroperitoneum."
+    },
+    {
+      "ranges": [
+        [
+          15988,
+          16233
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s chronic kidney disease and diabetes also predispose him to urinary tract malignancies, such as renal cell carcinoma or urothelial carcinoma, which can present with proteinuria, hematuria (though absent here), and systemic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          16234,
+          16363
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A renal cyst with a hyperechoic stone could represent a complex cyst or neoplasm, though ultrasound findings were not diagnostic."
+    },
+    {
+      "ranges": [
+        [
+          16365,
+          16484
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Finally, we must consider the possibility of a non-infectious, non-neoplastic inflammatory process such as sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          16485,
+          16658
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The calcified hilar and subcarinal lymph nodes, the positive PPD (in a BCG-vaccinated patient), the fever, weight loss, and elevated ESR are all consistent with sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          16659,
+          16826
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Sarcoidosis can involve the heart (cardiac sarcoidosis), leading to conduction abnormalities, heart failure, and valvular thickening due to granulomatous infiltration."
+    },
+    {
+      "ranges": [
+        [
+          16827,
+          16922
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The left ventricular hypertrophy and segmental dysfunction could reflect myocardial granulomas."
+    },
+    {
+      "ranges": [
+        [
+          16923,
+          17067
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The renal involvement, though uncommon, can occur with granulomatous interstitial nephritis, manifesting as proteinuria and renal insufficiency."
+    },
+    {
+      "ranges": [
+        [
+          17068,
+          17112
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The bacteremia, however, remains perplexing."
+    },
+    {
+      "ranges": [
+        [
+          17113,
+          17256
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Sarcoidosis does not typically cause bacteremia unless there is a superimposed infection due to immunosuppressive therapy or mucosal breakdown."
+    },
+    {
+      "ranges": [
+        [
+          17257,
+          17387
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient has not received immunosuppressants, and the organism isolated is not typical of a secondary infection in sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          17389,
+          18075
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In summary, the leading diagnostic possibilities are: (1) infective endocarditis due to *Neisseria phenylpyruvica* or a similar fastidious organism, seeded from oral flora or a mucosal source, in the setting of degenerative valvular disease; (2) occult renal abscess or infected cyst, particularly given the renal cysts and chronic kidney disease; (3) tuberculosis, either pulmonary or extrapulmonary, with possible bacteremia or immune-mediated fever; (4) a systemic vasculitis such as polyarteritis nodosa, with secondary renal and systemic manifestations; and (5) an occult malignancy, particularly lymphoma or renal cell carcinoma, with paraneoplastic fever and secondary infection."
+    },
+    {
+      "ranges": [
+        [
+          18076,
+          18366
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The most compelling and likely diagnosis is endocarditis due to *Neisseria phenylpyruvica*, given the temporal relationship between fever onset, bacteremia, new murmur, valvular abnormalities, and the organism’s known association with endocarditis in patients with underlying heart disease."
+    },
+    {
+      "ranges": [
+        [
+          18367,
+          18486
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The negative TEE is not definitive, and the organism’s rarity does not negate its pathogenic potential in this context."
+    }
+  ]
+}

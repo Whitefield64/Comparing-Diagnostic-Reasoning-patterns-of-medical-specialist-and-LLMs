@@ -1,0 +1,150 @@
+{
+  "case": "1991 Case 14__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-17T22:59:33.063773+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6027,
+          6126
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "One possible consideration is a congenital anomaly, such as a bronchogenic cyst or an enteric cyst."
+    },
+    {
+      "ranges": [
+        [
+          6451,
+          6600
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious processes, such as pneumonia or abscess, are unlikely given the patient's lack of symptoms, such as fever, cough, or respiratory distress."
+    },
+    {
+      "ranges": [
+        [
+          7070,
+          7166
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory conditions, such as a hematoma or a fibromatosis, are also possible considerations."
+    },
+    {
+      "ranges": [
+        [
+          7655,
+          7756
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Neoplastic diseases, such as a neuroblastoma or a teratoma, are critical considerations in this case."
+    },
+    {
+      "ranges": [
+        [
+          5766,
+          6026
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The mass's location in the posterior sulcus of the left hemithorax, its extension laterally from the paraspinal region, and its nonhomogeneous appearance with small areas of lower density on CT scans are critical findings that guide the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          7876,
+          8014
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The imaging characteristics of the mass, including its location, size, and nonhomogeneous appearance, are consistent with a neuroblastoma."
+    },
+    {
+      "ranges": [
+        [
+          10324,
+          10514
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The CT scan showed a mass in the posterior sulcus of the left hemithorax that extended laterally from the paraspinal region, with no enhancement with contrast material and no calcifications."
+    },
+    {
+      "ranges": [
+        [
+          11700,
+          11881
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's age and lack of symptoms make this case even more challenging, as many conditions that present with a posterior mediastinal mass in adults are less common in children."
+    },
+    {
+      "ranges": [
+        [
+          11882,
+          12033
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's overall health and lack of symptoms also make it essential to consider benign conditions, such as a congenital anomaly or a benign tumor."
+    },
+    {
+      "ranges": [
+        [
+          12409,
+          12611
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "A neuroblastoma is a leading consideration, although other diagnoses, such as a teratoma, ganglioneuroma, pheochromocytoma, or PNET, cannot be excluded without further evaluation and diagnostic testing."
+    },
+    {
+      "ranges": [
+        [
+          11590,
+          11699
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's recent symptoms and laboratory abnormalities also require consideration and further evaluation."
+    },
+    {
+      "ranges": [
+        [
+          12913,
+          13096
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's age and lack of symptoms make it essential to consider a wide range of conditions, including benign and malignant tumors, congenital anomalies, and infectious processes."
+    },
+    {
+      "ranges": [
+        [
+          18071,
+          18259
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's family history and social history may also provide valuable information about the patient's risk of developing certain conditions, such as a genetic predisposition to cancer."
+    }
+  ]
+}

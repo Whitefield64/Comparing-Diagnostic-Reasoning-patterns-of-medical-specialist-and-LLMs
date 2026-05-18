@@ -1,0 +1,117 @@
+{
+  "case": "1996 Case 02__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T02:15:01.449069+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4486,
+          4744
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The absence of jaundice, normal liver enzymes, normal bilirubin, and absence of risk factors for viral hepatitis or alcohol-related liver disease effectively exclude common causes of hepatic dysfunction such as cirrhosis, steatohepatitis, or viral hepatitis."
+    },
+    {
+      "ranges": [
+        [
+          4745,
+          4935
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The normal renal, hematologic, and metabolic parameters further narrow the focus to a primary or metastatic process localized to the liver, with systemic inflammatory or neoplastic features."
+    },
+    {
+      "ranges": [
+        [
+          7420,
+          7546
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The central necrosis could represent tumor outgrowth beyond its blood supply, and the hypervascularity is consistent with HCC."
+    },
+    {
+      "ranges": [
+        [
+          7280,
+          7419
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the chronic inflammatory state suggested by recurrent fevers and weight loss could theoretically create a procarcinogenic microenvironment."
+    },
+    {
+      "ranges": [
+        [
+          11173,
+          11245
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the eosinophil count were elevated, HES would be a top consideration."
+    },
+    {
+      "ranges": [
+        [
+          7668,
+          7829
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "AFP is elevated in approximately 70% of HCC cases, and its absence in a patient with a large hypervascular mass should raise suspicion for alternative diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          10621,
+          10766
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The presence of eczema and asthma, both atopic conditions, raises the possibility of an underlying immune dysregulation or eosinophilic disorder."
+    },
+    {
+      "ranges": [
+        [
+          13219,
+          13331
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the imaging characteristics are unusual for metastases: most are multiple, hypovascular, and lack central scars."
+    },
+    {
+      "ranges": [
+        [
+          16040,
+          16175
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The absence of malignancy markers, normal liver function, and lack of cirrhosis further support a benign but locally problematic tumor."
+    },
+    {
+      "ranges": [
+        [
+          15826,
+          15929
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The prior misdiagnosis as hemangioma is common, as both can be hypervascular on arterial phase imaging."
+    }
+  ]
+}

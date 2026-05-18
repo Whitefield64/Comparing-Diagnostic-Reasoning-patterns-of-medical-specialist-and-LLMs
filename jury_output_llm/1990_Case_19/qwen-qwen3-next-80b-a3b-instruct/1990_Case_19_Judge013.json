@@ -1,0 +1,117 @@
+{
+  "case": "1990 Case 19__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-17T22:54:50.450422+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          21085,
+          21171
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling unifying diagnosis is **hydatid disease (cystic echinococcosis)**."
+    },
+    {
+      "ranges": [
+        [
+          8622,
+          8752
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical presentation of this 12-year-old boy is complex, multifaceted, and demands a systematic, layered diagnostic approach."
+    },
+    {
+      "ranges": [
+        [
+          9368,
+          9654
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of classic signs of acute infection—such as cough, sore throat, rash, or gastrointestinal symptoms beyond transient diarrhea—combined with the chronicity and progression of his illness, suggests a subacute to chronic process rather than an acute bacterial or viral syndrome."
+    },
+    {
+      "ranges": [
+        [
+          9934,
+          10148
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The lack of contrast enhancement is particularly significant: it argues against highly vascular tumors such as hepatocellular carcinoma (HCC) or hemangioma, which typically show characteristic enhancement patterns."
+    },
+    {
+      "ranges": [
+        [
+          10149,
+          10276
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "HCC is exceedingly rare in children without underlying cirrhosis or chronic viral hepatitis, neither of which are present here."
+    },
+    {
+      "ranges": [
+        [
+          10447,
+          10550
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The normal bilirubin and albumin further argue against cirrhosis or advanced parenchymal liver disease."
+    },
+    {
+      "ranges": [
+        [
+          10551,
+          10745
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The mass is not invading the inferior vena cava, which argues against aggressive malignancies like hepatoblastoma with venous invasion, though hepatoblastoma remains a consideration in children."
+    },
+    {
+      "ranges": [
+        [
+          11349,
+          11482
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of multiple septations and cystic components is more suggestive of a necrotic or abscessed lesion than a solid neoplasm."
+    },
+    {
+      "ranges": [
+        [
+          14718,
+          14855
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s history of swimming in freshwater and exposure to rural environments in multiple endemic countries supports this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          15015,
+          15145
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The prolonged PTT and bleeding time could be due to hepatic compression or impaired vitamin K-dependent clotting factor synthesis."
+    }
+  ]
+}

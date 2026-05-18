@@ -1,0 +1,194 @@
+{
+  "case": "1999 Case 06__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T02:40:00.796156+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4540,
+          4683
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis can be broadly categorized into several groups, including inflammatory, infectious, genetic, and systemic disorders."
+    },
+    {
+      "ranges": [
+        [
+          4966,
+          5104
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Conditions such as Cogan syndrome, which is characterized by interstitial keratitis and vestibular-auditory symptoms, could be considered."
+    },
+    {
+      "ranges": [
+        [
+          5412,
+          5587
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Conditions such as Marfan syndrome, Ehlers-Danlos syndrome, and Loeys-Dietz syndrome are known to cause aortic aneurysms and could be considered in the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          5236,
+          5411
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of a thoracoabdominal aneurysm in a young patient is unusual and suggests a connective tissue disorder or a genetic condition that affects the vascular system."
+    },
+    {
+      "ranges": [
+        [
+          4695,
+          4866
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the patient's symptoms of ocular irritation and sensorineural deafness, which progressed to almost total bilateral deafness, suggest an inflammatory or autoimmune process."
+    },
+    {
+      "ranges": [
+        [
+          4867,
+          4965
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The improvement in ocular symptoms with corticosteroid treatment further supports this hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          6221,
+          6374
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's laboratory results show a mild anemia, leukocytosis, and an elevated erythrocyte sedimentation rate, which suggest an inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          9573,
+          9833
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The presence of a thoracoabdominal aneurysm and the patient's other vascular symptoms suggest that close monitoring of the patient's cardiovascular system, including regular imaging studies and blood pressure checks, will be necessary to prevent complications."
+    },
+    {
+      "ranges": [
+        [
+          8420,
+          8604
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": " guide treatment.\n\nThe presence of bilateral sensorineural deafness and ocular irritation, which improved with corticosteroid treatment, suggests an autoimmune or inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          12727,
+          12986
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's age, sex, and symptoms, as well as the presence of a nonidentical twin sister who is well, make a genetic disorder less likely, although the possibility of a sporadic genetic mutation or a condition with variable expressivity cannot be excluded."
+    },
+    {
+      "ranges": [
+        [
+          13410,
+          13676
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "other systemic disorders that could potentially explain the patient's symptoms include Kawasaki disease, which is a medium vessel vasculitis that can cause aneurysms and stenosis of the coronary arteries, as well as symptoms such as fever, rash, and lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          10852,
+          11069
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of a thoracoabdominal aneurysm and the patient's other vascular symptoms suggest that the underlying process affects the blood vessels, potentially causing inflammation and damage to the vascular wall."
+    },
+    {
+      "ranges": [
+        [
+          8063,
+          8266
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's symptoms and laboratory results suggest a complex, multisystem disorder that could be caused by a variety of conditions, including inflammatory, infectious, genetic, and systemic disorders."
+    },
+    {
+      "ranges": [
+        [
+          6375,
+          6563
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of a faint epigastric bruit and the patient's history of abdominal discomfort with oral corticosteroids could indicate the presence of a vascular or gastrointestinal disorder."
+    },
+    {
+      "ranges": [
+        [
+          11863,
+          12087
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's symptoms and laboratory results do not suggest a specific treatment, although immunosuppressive therapy, such as corticosteroids or other agents, may be necessary to control the underlying inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          15983,
+          16213
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of a thoracoabdominal aneurysm and the patient's other vascular symptoms suggest that the patient is at risk for cardiovascular complications, such as rupture of the aneurysm or stenosis of the aorta and its branches."
+    },
+    {
+      "ranges": [
+        [
+          18346,
+          18575
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "other systemic disorders that could potentially explain the patient's symptoms include Behçet's disease, which is a multisystem disorder that can cause symptoms such as oral and genital ulcers, skin lesions, and eye inflammation."
+    }
+  ]
+}

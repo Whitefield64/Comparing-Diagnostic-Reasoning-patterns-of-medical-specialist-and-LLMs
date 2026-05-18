@@ -1,0 +1,106 @@
+{
+  "case": "2003 Case 39__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T06:43:01.964244+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          16501,
+          16963
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) urothelial carcinoma, given the classic presentation of painless gross hematuria, bladder mass, and age-appropriate risk profile; (2) urachal adenocarcinoma, due to the dome location and the potential for misdiagnosis as urothelial carcinoma; and (3) granulomatous cystitis, particularly tuberculosis, given the patient’s origin in Hong Kong, chronicity of symptoms, weight loss, and lack of response to antibiotics."
+    },
+    {
+      "ranges": [
+        [
+          6321,
+          6378
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate concern is a primary bladder neoplasm."
+    },
+    {
+      "ranges": [
+        [
+          5734,
+          6052
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of fever, flank pain, or systemic signs of infection, combined with normal renal function, normal imaging of the upper urinary tract, and the lack of classic urinary tract infection (UTI) features—despite the presence of bacteria in the urine—suggests that the hematuria is not merely infectious in origin."
+    },
+    {
+      "ranges": [
+        [
+          6926,
+          7166
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The fact that the mass appeared as heterogeneous, mixed-attenuation, nonenhancing debris on CT and was confirmed as a discrete mass on cystoscopy is highly suggestive of a solid tumor rather than a purely inflammatory or clot-based process."
+    },
+    {
+      "ranges": [
+        [
+          11436,
+          11609
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The presence of mixed bacteria on culture could represent a coincidental contamination or secondary infection in a bladder already compromised by granulomatous inflammation."
+    },
+    {
+      "ranges": [
+        [
+          13106,
+          13295
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Autoimmune or systemic vasculitic disorders affecting the genitourinary tract should be considered, particularly given the patient’s young age and the presence of proteinuria and hematuria."
+    },
+    {
+      "ranges": [
+        [
+          17078,
+          17316
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The nonenhancing nature of the mass on CT and the presence of mixed bacteria in urine culture suggest a process that is either necrotic, fibrotic, or chronically inflamed, all of which can be seen in malignant or granulomatous conditions."
+    },
+    {
+      "ranges": [
+        [
+          7905,
+          8059
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "entioned, her history of significant weight loss over two months without overt gastrointestinal symptoms or fever raises concern for an occult malignancy."
+    },
+    {
+      "ranges": [
+        [
+          18054,
+          18186
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The weight loss and persistent symptoms over two months elevate the urgency for prompt histologic diagnosis and appropriate staging."
+    }
+  ]
+}

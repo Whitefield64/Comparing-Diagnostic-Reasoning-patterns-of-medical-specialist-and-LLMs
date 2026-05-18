@@ -1,0 +1,106 @@
+{
+  "case": "2003 Case 39__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T06:37:01.105309+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          16501,
+          16963
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) urothelial carcinoma, given the classic presentation of painless gross hematuria, bladder mass, and age-appropriate risk profile; (2) urachal adenocarcinoma, due to the dome location and the potential for misdiagnosis as urothelial carcinoma; and (3) granulomatous cystitis, particularly tuberculosis, given the patient’s origin in Hong Kong, chronicity of symptoms, weight loss, and lack of response to antibiotics."
+    },
+    {
+      "ranges": [
+        [
+          6321,
+          6378
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate concern is a primary bladder neoplasm."
+    },
+    {
+      "ranges": [
+        [
+          8195,
+          8275
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another important consideration is squamous cell carcinoma (SCC) of the bladder."
+    },
+    {
+      "ranges": [
+        [
+          9663,
+          9776
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "A third neoplastic possibility is a rare bladder tumor, such as adenocarcinoma, sarcoma, or small cell carcinoma."
+    },
+    {
+      "ranges": [
+        [
+          6926,
+          7166
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The fact that the mass appeared as heterogeneous, mixed-attenuation, nonenhancing debris on CT and was confirmed as a discrete mass on cystoscopy is highly suggestive of a solid tumor rather than a purely inflammatory or clot-based process."
+    },
+    {
+      "ranges": [
+        [
+          6830,
+          6925
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of hydronephrosis or upper tract involvement is consistent with a localized lesion."
+    },
+    {
+      "ranges": [
+        [
+          17637,
+          17823
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "the clinical picture strongly favors a neoplastic etiology, with urothelial carcinoma as the most probable diagnosis, followed closely by urachal adenocarcinoma due to the dome location."
+    },
+    {
+      "ranges": [
+        [
+          17824,
+          18053
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The possibility of tuberculosis must not be overlooked in this patient’s demographic context and must be actively ruled out with acid-fast staining, culture, and possibly PCR for Mycobacterium tuberculosis on the biopsy specimen."
+    },
+    {
+      "ranges": [
+        [
+          17078,
+          17316
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The nonenhancing nature of the mass on CT and the presence of mixed bacteria in urine culture suggest a process that is either necrotic, fibrotic, or chronically inflamed, all of which can be seen in malignant or granulomatous conditions."
+    }
+  ]
+}

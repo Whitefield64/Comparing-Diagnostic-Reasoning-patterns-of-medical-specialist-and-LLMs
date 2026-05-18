@@ -1,0 +1,139 @@
+{
+  "case": "2001 Case 20__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T04:17:37.823642+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6306,
+          6437
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is infective endocarditis (IE), particularly in its culture-negative or atypical form."
+    },
+    {
+      "ranges": [
+        [
+          17401,
+          18075
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) infective endocarditis due to *Neisseria phenylpyruvica* or a similar fastidious organism, seeded from oral flora or a mucosal source, in the setting of degenerative valvular disease; (2) occult renal abscess or infected cyst, particularly given the renal cysts and chronic kidney disease; (3) tuberculosis, either pulmonary or extrapulmonary, with possible bacteremia or immune-mediated fever; (4) a systemic vasculitis such as polyarteritis nodosa, with secondary renal and systemic manifestations; and (5) an occult malignancy, particularly lymphoma or renal cell carcinoma, with paraneoplastic fever and secondary infection."
+    },
+    {
+      "ranges": [
+        [
+          6098,
+          6304
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The organism’s susceptibility profile and the clinical course suggest true bacteremia, necessitating an investigation into potential underlying foci of infection, immune compromise, or endovascular seeding."
+    },
+    {
+      "ranges": [
+        [
+          7474,
+          7646
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The negative TEE does not exclude IE; vegetations may be small, friable, or obscured by calcific deposits, especially in the setting of advanced degenerative valve disease."
+    },
+    {
+      "ranges": [
+        [
+          7660,
+          8011
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the absence of visible vegetations does not rule out “culture-negative endocarditis” due to prior antibiotic exposure, as the patient received ciprofloxacin for six days prior to blood culture collection—a fact that may have suppressed microbial growth sufficiently to prevent visualization on imaging while still allowing for intermittent bacteremia."
+    },
+    {
+      "ranges": [
+        [
+          8012,
+          8157
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The persistent low-grade fever, new systolic murmur, and elevated ESR (59 mm/hr) are classic, albeit nonspecific, signs of subacute endocarditis."
+    },
+    {
+      "ranges": [
+        [
+          14636,
+          14852
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The fact that the fever persisted despite ciprofloxacin and metronidazole is consistent with a source that is not responsive to broad-spectrum antibiotics targeting gut flora—suggesting a non-enteric, mucosal origin."
+    },
+    {
+      "ranges": [
+        [
+          14853,
+          15009
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s denial of meat or unpasteurized milk intake makes foodborne pathogens less likely, but does not eliminate zoonotic or environmental exposures."
+    },
+    {
+      "ranges": [
+        [
+          13158,
+          13381
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The presence of calcified lymph nodes and the bone scan findings of increased uptake in degenerative joints could reflect granulomatous inflammation or vasculitic involvement of small vessels supplying bone and lymph nodes."
+    },
+    {
+      "ranges": [
+        [
+          15011,
+          15119
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The possibility of a malignancy with paraneoplastic fever or occult metastatic infection must be considered."
+    },
+    {
+      "ranges": [
+        [
+          14279,
+          14468
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient’s age, diabetes, and chronic illness predispose him to periodontal disease, which is a known source of bacteremia with oral flora, including *Neisseria* and *Moraxella* species."
+    },
+    {
+      "ranges": [
+        [
+          12409,
+          12493
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The possibility of a systemic vasculitis or autoimmune process cannot be overlooked."
+    }
+  ]
+}

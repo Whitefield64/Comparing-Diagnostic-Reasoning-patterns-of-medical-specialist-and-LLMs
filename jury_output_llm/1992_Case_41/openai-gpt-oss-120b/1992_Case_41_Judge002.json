@@ -1,0 +1,128 @@
+{
+  "case": "1992 Case 41__openai-gpt-oss-120b.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-18T00:21:53.238789+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23216,
+          23458
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling concordance is between the murmur’s acoustic characteristics (harsh, long systolic ejection, radiation to apex) and a left‑sided outflow obstruction, most commonly **valvar aortic stenosis** due to a bicuspid aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          23460,
+          23684
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of systemic hypertension is readily explained by chronic obstructive uropathy with renin‑angiotensin activation, and the hypertension may be contributing to the LV pressure load, thereby accentuating the murmur."
+    },
+    {
+      "ranges": [
+        [
+          26761,
+          26920
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the aortic stenosis is moderate‑to‑severe, endocarditis prophylaxis may be indicated for dental procedures, in accordance with current pediatric guidelines."
+    },
+    {
+      "ranges": [
+        [
+          23686,
+          23993
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The right‑ventricular conduction delay on ECG, while atypical for isolated AS, could represent a mild, secondary effect of a modestly increased pulmonary flow (e.g., from a small, restrictive VSD or a small ASD that has not been clinically evident) or simply a variant of normal conduction in a young child."
+    },
+    {
+      "ranges": [
+        [
+          27599,
+          27827
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The murmur’s radiation to the apex, the hyperdynamic apical impulse, and the absence of differential pulses or cyanosis collectively support a left‑sided outflow obstruction rather than a right‑sided or systemic vascular lesion."
+    },
+    {
+      "ranges": [
+        [
+          27969,
+          28157
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Recognizing the coexistence of renal‑derived hypertension is essential because it may hasten the progression of LV pressure overload and influence the timing of any interventional therapy."
+    },
+    {
+      "ranges": [
+        [
+          27408,
+          27594
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "he **harsh, long systolic ejection murmur** that has become progressively louder is most characteristic of **valvar aortic stenosis**, most commonly associated with a bicuspid aortic val"
+    },
+    {
+      "ranges": [
+        [
+          4767,
+          4974
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The discussion below explores each plausible entity, weighing the clinical, physiologic and investigative clues that support or argue against it, and then narrows the focus to the most likely explanation(s)."
+    },
+    {
+      "ranges": [
+        [
+          16537,
+          16604
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hyperdynamic apical impulse could reflect LV pressure overload."
+    },
+    {
+      "ranges": [
+        [
+          7292,
+          7378
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "attern.  The lack of LV hypertrophy on ECG does not exclude early or moderate disease."
+    },
+    {
+      "ranges": [
+        [
+          16391,
+          16539
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "e.  \n* History of obstructive uropathy with compromised renal function (multiple surgeries, recurrent UTIs) suggests a chronic RAAS stimulus.  \n* Th"
+    }
+  ]
+}

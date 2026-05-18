@@ -1,0 +1,329 @@
+{
+  "case": "1999 Case 10__qwen-qwen3-next-80b-a3b-instruct.md",
+  "exported_at": "2026-05-18T03:43:00.084656+00:00",
+  "n_voters": 15,
+  "n_successful": 15,
+  "n_failed": 0,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 15,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of renal failure, cutaneous vasculitis, and neurologic infarcts is typical of MPA."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but the presentation of systemic vasculitis or thrombotic disorder must be prioritized."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but the presence of ANCA is not explicitly mentioned in this case."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of renal failure, cutaneous vasculitis, and neurologic infarcts is typical of microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary vasculitis, but the possibility of a paraneoplastic syndrome cannot be excluded."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The presence of lymphadenopathy, gastric thickening, and lack of definitive vasculitis confirmation raises the probability of a paraneoplastic syndrome."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The clinical presentation is similar to that of previously reported cases of microscopic polyangiitis, but the absence of ANCA titers and the presence of lymphadenopathy and gastric thickening suggest a possible paraneoplastic syndrome."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of RPGN, cutaneous vasculitis, and neurologic infarcts is most consistent with **microscopic polyangiitis**."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the statement 'the weight of evidence, especially the skin biopsy, neurologic imaging, and renal findings, points most compellingly to microscopic polyangiitis as the primary diagnosis' conveys a similar intuition."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The presence of lymphadenopathy, gastric thickening, and lack of definitive vasculitis confirmation, is reminiscent of cases where occult malignancy presented with similar systemic and paraneoplastic manifestations."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The renal biopsy findings, though not explicitly described, are strongly implied by the urinalysis: dysmorphic red blood cells, proteinuria, granular casts, and low urine sodium with low osmolality (suggesting intrinsic renal failure rather than prerenal azotemia)."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned in the document, however, the following text is a good match: The patient’s clinical trajectory—rapid deterioration despite high-dose steroids, negative cultures, and lack of response to conventional therapies—suggests an aggressive, systemic, immune-mediated process."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not mentioned in the document, however, the following text is a good match: The bilateral occipital infarcts could represent metastatic emboli or tumor-induced hypercoagulability."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 16,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but the differential must also include **polyarteritis nodosa (PAN)**, a medium-vessel vasculitis that classically spares the lungs but can involve the kidneys, gastrointestinal tract, skin, and nervous system."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not mentioned, but the weight of evidence, especially the skin biopsy, neurologic imaging, and renal findings, points most compellingly to microscopic polyangiitis as the primary diagnosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of renal failure, cutaneous vasculitis, and neurologic infarcts is typical of microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary vasculitis, particularly microscopic polyangiitis, although I am concerned about the possibility of an occult malignancy."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The absence of ANCA titers, ADAMTS13 activity, IgG4 levels, and definitive tissue diagnosis from the gastric biopsy or renal biopsy (which was not mentioned but would be essential) leaves critical diagnostic gaps, but the weight of evidence still points to microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The clinical presentation is similar to that of other cases of microscopic polyangiitis, with the classic triad of RPGN, cutaneous vasculitis, and neurologic infarcts."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but the clinical presentation is profoundly complex, involving the triad of acute renal failure, cortical blindness, and respiratory distress, superimposed on a background of chronic gastritis, *Helicobacter pylori* infection, hydronephrosis, and a distinctive cutaneous vasculitic rash."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not mentioned, but the skin biopsy showing intravascular coagulation and lymphocytic inflammation is consistent with leukocytoclastic vasculitis, which may occur in MPA, particularly when there is significant fibrinoid necrosis and microthrombosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the weight of evidence, especially the skin biopsy, neurologic imaging, and renal findings, points most compellingly to microscopic polyangiitis as the primary diagnosis, with occult malignancy as the most critical diagnostic consideration requiring immediate investigation."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s clinical trajectory—rapid deterioration despite high-dose steroids, negative cultures, and lack of response to conventional therapies—suggests an aggressive, systemic, immune-mediated process, similar to what is seen in other cases of MPA or paraneoplastic syndromes."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of immune-mediated damage, leading to the clinical presentation of acute renal failure, cortical blindness, and respiratory distress."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysmorphic red blood cells, proteinuria, granular casts, and low urine sodium with low osmolality suggest intrinsic renal failure rather than prerenal azotemia, indicating a causal relationship between the renal findings and the underlying disease process."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of vasculitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of RPGN, cutaneous vasculitis, and neurologic infarcts is most consistent with MPA."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary vasculitis, although I am troubled by the negative serologic test and the lack of definitive vasculitis confirmation."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The weight of evidence, especially the skin biopsy, neurologic imaging, and renal findings, points most compellingly to microscopic polyangiitis as the primary diagnosis, with occult malignancy as the most critical diagnostic consideration requiring immediate investigation."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of RPGN, cutaneous vasculitis, and neurologic infarcts is most consistent with MPA."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occult malignancy, particularly gastric adenocarcinoma or lymphoma, remains a critical alternative, given the lymphadenopathy, gastric thickening, and lack of definitive vasculitis confirmation."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of rapidly progressive renal failure, cutaneous vasculitis, and neurologic infarcts is typical of MPA."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the reasoning for MPA is that it matches the clinical presentation described."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The clinical presentation of this patient is similar to previously reported cases of MPA, which further supports this diagnosis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient’s clinical trajectory—rapid deterioration despite high-dose steroids, negative cultures, and lack of response to conventional therapies—suggests an aggressive, systemic, immune-mediated process, which increases the likelihood of MPA or a paraneoplastic syndrome."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the sentence: The patient’s clinical trajectory—rapid deterioration despite high-dose steroids, negative cultures, and lack of response to conventional therapies—suggests an aggressive, systemic, immune-mediated process."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 16,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the following text is: The patient’s clinical trajectory—rapid deterioration despite high-dose steroids, negative cultures, and lack of response to conventional therapies—suggests an aggressive, systemic, immune-mediated process."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 15,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of renal failure, cutaneous vasculitis, and neurologic infarcts is most consistent with **microscopic polyangiitis**."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 14,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of rapidly progressive renal failure, cutaneous vasculitis, and neurologic infarcts is consistent with microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The weight of evidence, especially the skin biopsy, neurologic imaging, and renal findings, points most compellingly to microscopic polyangiitis as the primary diagnosis, with occult malignancy as the most critical diagnostic consideration requiring immediate investigation."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysmorphic red blood cells (indicative of glomerular injury), proteinuria, granular casts, and low urine sodium with low osmolality (suggesting intrinsic renal failure rather than prerenal azotemia) are consistent with renal involvement in MPA."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but the presentation of tumors of this type typically presents as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced, is not applicable to this patient."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not mentioned, but if present, would have been mentioned, and rule out an ANCA-related vasculitis is not applicable, however, the renal findings, skin biopsy, and neurologic imaging are consistent with MPA."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of RPGN, cutaneous vasculitis, and neurologic infarcts is typical of MPA."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The absence of ANCA titers, ADAMTS13 activity, IgG4 levels, and definitive tissue diagnosis from the gastric biopsy or renal biopsy (which was not mentioned but would be essential) leaves critical diagnostic gaps, but the weight of evidence, especially the skin biopsy, neurologic imaging, and renal findings, points most compellingly to microscopic polyangiitis as the primary diagnosis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s age, chronic gastritis, left-sided hydronephrosis, and newly palpable supraclavicular and axillary lymphadenopathy raise concern for an occult malignancy, particularly gastric adenocarcinoma or lymphoma, which can cause paraneoplastic vasculitis or TMA."
+        }
+      ]
+    }
+  ]
+}

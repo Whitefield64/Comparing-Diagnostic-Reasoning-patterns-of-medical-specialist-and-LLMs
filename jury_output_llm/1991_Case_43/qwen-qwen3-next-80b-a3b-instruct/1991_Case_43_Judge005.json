@@ -1,0 +1,117 @@
+{
+  "case": "1991 Case 43__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-17T23:28:06.031994+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          16532,
+          16617
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration remains **disseminated histoplasmosis**."
+    },
+    {
+      "ranges": [
+        [
+          19614,
+          19833
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A second major diagnostic possibility is **disseminated tuberculosis**, particularly in light of the patient’s recent immigration from Puerto Rico, a region with a higher incidence of tuberculosis than the U.S. average."
+    },
+    {
+      "ranges": [
+        [
+          21842,
+          22084
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A third critical consideration is **Kaposi sarcoma (KS)**, an endothelial cell neoplasm caused by human herpesvirus 8 (HHV-8), which is strongly associated with AIDS, particularly in men with multiple sexual partners and intravenous drug use."
+    },
+    {
+      "ranges": [
+        [
+          23670,
+          23769
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A fourth major consideration is **lymphoma**, particularly AIDS-related non-Hodgkin lymphoma (NHL)."
+    },
+    {
+      "ranges": [
+        [
+          16181,
+          16530
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of hemoptysis is particularly significant: while it can occur in PJP, it is exceedingly rare and usually mild. In this context, hemoptysis raises the strong possibility of vascular erosion due to malignancy, granulomatous necrosis from fungal or mycobacterial infection, or pulmonary infarction secondary to vasculitis or thrombosis."
+    },
+    {
+      "ranges": [
+        [
+          14677,
+          14953
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The differential diagnosis must be approached systematically, considering not only the most common opportunistic infections but also rare pathogens, malignancies, and non-infectious inflammatory syndromes that can mimic or coexist in the setting of profound T-cell deficiency."
+    },
+    {
+      "ranges": [
+        [
+          14433,
+          14676
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of definitive microbiologic identification despite multiple bronchoalveolar lavages (BAL), transbronchial biopsies, blood cultures, and serologic testing underscores the diagnostic complexity inherent in advanced immunosuppression."
+    },
+    {
+      "ranges": [
+        [
+          17457,
+          17658
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient’s spiking fevers, with afternoon and evening peaks, are highly characteristic of systemic fungal infections, reflecting circadian fluctuations in cytokine release and macrophage activation."
+    },
+    {
+      "ranges": [
+        [
+          17290,
+          17456
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The radiographic findings of bilateral, diffuse interstitial and nodular densities with questionable hilar lymphadenopathy are classic for hematogenous dissemination."
+    },
+    {
+      "ranges": [
+        [
+          19155,
+          19402
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The failure of pentamidine (which has no antifungal activity against *Histoplasma*) and erythromycin (which has limited activity) to improve his condition further supports a fungal etiology, as these agents are not effective against *Histoplasma*."
+    }
+  ]
+}

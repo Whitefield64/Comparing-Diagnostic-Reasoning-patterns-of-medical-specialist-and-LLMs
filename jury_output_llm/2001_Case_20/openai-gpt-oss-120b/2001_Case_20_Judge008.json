@@ -1,0 +1,117 @@
+{
+  "case": "2001 Case 20__openai-gpt-oss-120b.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T03:58:24.357872+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23982,
+          24217
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **most compelling working diagnosis** is **subacute infective endocarditis caused by *Moraxella phenylpyruvica***, with the ulcerated atherosclerotic plaque serving either as a secondary nidus or as a conduit for bacterial seeding."
+    },
+    {
+      "ranges": [
+        [
+          31185,
+          31546
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **preponderance of evidence** points toward a **low‑grade, subacute infective process involving the cardiovascular system**, most plausibly **infective endocarditis caused by *Moraxella phenylpyruvica***, with the **ulcerated atherosclerotic plaque** acting either as the primary nidus or as a conduit that facilitated bacterial seeding of the aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          25361,
+          25634
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The transesophageal echo demonstrated **moderate atheromatous disease with an ulcerated plaque**.  Ulceration exposes the subendothelial matrix (collagen, fibronectin) and releases tissue factor, promoting platelet aggregation and a local inflammatory milieu rich in fibrin"
+    },
+    {
+      "ranges": [
+        [
+          25637,
+          25921
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Certain Gram‑negative organisms express adhesins (e.g., OmpA, pili) that bind to extracellular matrix proteins.  Although specific adhesins for *Moraxella* have not been delineated, experimental data suggest that *Moraxella* can adhere to damaged epithelium and to prosthetic material"
+    },
+    {
+      "ranges": [
+        [
+          29580,
+          29816
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If infective endocarditis is confirmed**:  \n   - Continue **intravenous cefuroxime** (or switch to a **beta‑lactam/beta‑lactamase inhibitor** such as **piperacillin‑tazobactam**) for a minimum of **4–6 weeks**, guided by repeat blood cu"
+    },
+    {
+      "ranges": [
+        [
+          30114,
+          30403
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If infected aortic plaque (infective aortitis) is the primary source**:  \n   - **Prolonged intravenous β‑lactam therapy** (≥6 weeks) is required; cefuroxime penetrates the aortic wall reasonably well, but **high‑dose ceftriaxone** or a **carbapenem** could be considered for better tissue "
+    },
+    {
+      "ranges": [
+        [
+          31550,
+          31888
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Key points supporting this synthesis:\n\n- **Structural heart disease** (calcified aortic and mitral leaflets) provides a substrate for bacterial adherence.  \n- **Ulcerated aortic plaque** is a recognized, though uncommon, portal for Gram‑negative bacteremia and may produce **vegetation‑like microcolonies** that evade detection on early T"
+    },
+    {
+      "ranges": [
+        [
+          27427,
+          27805
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s temperature normalized after 48 h of cefuroxime, suggesting **adequate antimicrobial activity**.  However, **persistent low‑grade bacteremia (culture positive on day 6)** raises the possibility that the antibiotic penetrates poorly into the **avascular plaque or micro‑vegetations**, or that the bacterial load within the plaque is **protected by a fibrin matrix**"
+    },
+    {
+      "ranges": [
+        [
+          5093,
+          5438
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The clinical picture of a 64‑year‑old man with multiple cardiovascular, metabolic and renal comorbidities who presents with a sub‑acute febrile illness, unintentional weight loss, a new systolic murmur, a positive tuberculin skin test, calcified mediastinal nodes, and a **β‑lactamase‑negative *Moraxella phenylpyruvica* bacteremia** is complex."
+    },
+    {
+      "ranges": [
+        [
+          13250,
+          13530
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "While an infected atherosclerotic plaque is an **interesting and plausible** source of Gram‑negative bacteremia, especially when vegetations are absent, the lack of radiographic inflammation makes it **possible but not probable**. Serial imaging (e.g., PET‑CT) could clarify this."
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "case": "1999 Case 06__meta-llama-3.3-70b-instruct.md",
+  "exported_at": "2026-05-18T02:40:39.042757+00:00",
+  "n_voters": 15,
+  "n_successful": 15,
+  "n_failed": 0,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 21,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, instead the patient's symptoms and laboratory results suggest a complex, multisystem disorder that requires further evaluation and treatment."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient's symptoms and laboratory results support the presence of an inflammatory process."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of symptoms, including bilateral sensorineural deafness and ocular irritation, is suggestive of an autoimmune or inflammatory process."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient's symptoms and laboratory results suggest a complex, multisystem disorder that requires further evaluation and treatment, and a multidisciplinary approach will be necessary to determine the underlying cause of the patient's symptoms and to guide treatment."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient's symptoms and laboratory results suggest a complex, multisystem disorder that could be caused by a variety of conditions, including inflammatory, infectious, genetic, and systemic disorders, and further evaluation will be necessary to determine the underlying cause of the patient's symptoms and to guide treatment."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Another condition that could be considered is Takayasu arteritis, a large vessel vasculitis that can cause aneurysms and stenosis of the aorta and its branches."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The patient's symptoms and laboratory results suggest a complex, multisystem disorder that requires further evaluation and treatment, and a multidisciplinary approach will be necessary to determine the underlying cause of the patient's symptoms and to guide treatment."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of symptoms, including bilateral sensorineural deafness, ocular irritation, and a thoracoabdominal aneurysm, suggests a systemic disorder such as Takayasu arteritis or giant cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient's symptoms and laboratory results are similar to those of other patients with Takayasu arteritis, which suggests that this condition could be considered in the differential diagnosis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient's symptoms and laboratory results suggest a complex, multisystem disorder that requires further evaluation and treatment, and a multidisciplinary approach will be necessary to determine the underlying cause of the patient's symptoms and to guide treatment."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of symptoms, including bilateral sensorineural deafness, ocular irritation, and a thoracoabdominal aneurysm, is suggestive of a systemic disorder."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary autoimmune or inflammatory process, although the possibility of a genetic disorder or other conditions cannot be excluded."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient's symptoms and laboratory results are similar to those of other patients with Takayasu arteritis or giant cell arteritis, although the absence of other typical features makes these diagnoses less certain."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of symptoms, including ocular irritation, sensorineural deafness, and a thoracoabdominal aneurysm, suggests a systemic disorder such as Takayasu arteritis or giant cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient's symptoms and laboratory results suggest a complex, multisystem disorder that could be caused by a variety of conditions, including inflammatory, infectious, genetic, and systemic disorders, similar to cases of Behçet's disease or relapsing polychondritis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient's symptoms and laboratory results suggest a complex, multisystem disorder that requires further evaluation and treatment, and a multidisciplinary approach will be necessary to determine the underlying cause of the patient's symptoms and to guide treatment."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 16,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of symptoms, including bilateral sensorineural deafness, ocular irritation, and a thoracoabdominal aneurysm, is suggestive of a systemic disorder."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary inflammatory or autoimmune process, although the possibility of a genetic disorder or other conditions cannot be excluded."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient's symptoms and laboratory results are similar to those seen in patients with Takayasu arteritis or giant cell arteritis, although the absence of other typical features makes these diagnoses less certain."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 23,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 17,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has Takayasu arteritis, we would expect to see symptoms such as fever, fatigue, and weight loss, as well as vascular symptoms, such as hypertension and diminished pulses."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The patient's symptoms and laboratory results suggest an inflammatory or autoimmune process, and the presence of a thoracoabdominal aneurysm and the patient's other vascular symptoms suggest a vascular or systemic disorder."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient's symptoms and laboratory results suggest a complex, multisystem disorder that requires further evaluation and treatment, and a multidisciplinary approach will be necessary to determine the underlying cause of the patient's symptoms and to guide treatment."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of symptoms, including bilateral sensorineural deafness, ocular irritation, and a thoracoabdominal aneurysm, is suggestive of a systemic disorder, such as Takayasu arteritis or giant cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary inflammatory or autoimmune disorder, although the possibility of a genetic disorder or a condition with variable expressivity cannot be excluded."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The presence of a thoracoabdominal aneurysm and the patient's other vascular symptoms suggest a high probability of a vascular or systemic disorder, and the patient's age and sex make a genetic disorder less likely."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient's symptoms and laboratory results are similar to those seen in patients with Takayasu arteritis or giant cell arteritis, and a multidisciplinary approach will be necessary to determine the underlying cause of the patient's symptoms and to guide treatment."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of symptoms, including bilateral sensorineural deafness, ocular irritation, and a thoracoabdominal aneurysm, suggests a complex, multisystem disorder."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the following sentence is: The patient's age, sex, and symptoms, as well as the presence of a nonidentical twin sister who is well, make a genetic disorder less likely, although the possibility of a sporadic genetic mutation or a condition with variable expressivity cannot be excluded."
+        }
+      ]
+    }
+  ]
+}

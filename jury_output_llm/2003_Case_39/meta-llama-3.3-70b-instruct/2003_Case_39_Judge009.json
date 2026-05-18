@@ -1,0 +1,62 @@
+{
+  "case": "2003 Case 39__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T06:13:46.612990+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6139,
+          6288
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the patient's presentation with gross hematuria and the absence of significant proteinuria or renal dysfunction makes a glomerular cause less likely."
+    },
+    {
+      "ranges": [
+        [
+          6289,
+          6451
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Non-glomerular causes, which include conditions affecting the urinary tract from the renal pelvis to the urethra, are more consistent with the patient's symptoms."
+    },
+    {
+      "ranges": [
+        [
+          6927,
+          7009
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The finding of a mass in the bladder dome is highly suggestive of a bladder tumor."
+    },
+    {
+      "ranges": [
+        [
+          5979,
+          6129
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Glomerular causes, such as glomerulonephritis, typically present with microscopic hematuria, proteinuria, and often, other signs of renal dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          20511,
+          20735
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "\nThe patient's care should be managed by a multidisciplinary team of healthcare professionals, including urologists, oncologists, radiologists, and other specialists, to ensure that all aspects of her condition are addressed"
+    }
+  ]
+}

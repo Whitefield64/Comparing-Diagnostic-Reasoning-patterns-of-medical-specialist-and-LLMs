@@ -1,0 +1,238 @@
+{
+  "case": "1991 Case 43__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-17T23:17:20.926219+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          14692,
+          14807
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's symptoms and radiographic findings are consistent with PCP, and the diagnosis should be reconsidered."
+    },
+    {
+      "ranges": [
+        [
+          14808,
+          14977
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other opportunistic infections that should be considered include Mycobacterium tuberculosis (TB), Mycobacterium avium complex (MAC), and cytomegalovirus (CMV) pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          14978,
+          15148
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's negative tuberculin skin test and negative acid-fast bacilli stains do not rule out TB or MAC, as these tests can be negative in immunocompromised patients."
+    },
+    {
+      "ranges": [
+        [
+          15149,
+          15272
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "CMV pneumonia is also a possibility, given the patient's immunocompromised state and the presence of pulmonary infiltrates."
+    },
+    {
+      "ranges": [
+        [
+          15274,
+          15333
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Fungal infections are also a concern in patients with AIDS."
+    },
+    {
+      "ranges": [
+        [
+          15334,
+          15437
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's BAL fluid grew Candida albicans, which can cause pneumonia in immunocompromised patients."
+    },
+    {
+      "ranges": [
+        [
+          15626,
+          15713
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other fungal infections, such as Aspergillus or Histoplasma, should also be considered."
+    },
+    {
+      "ranges": [
+        [
+          15714,
+          15880
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Aspergillus can cause a range of diseases, from allergic bronchopulmonary aspergillosis to invasive aspergillosis, and can present with similar symptoms to PCP or TB."
+    },
+    {
+      "ranges": [
+        [
+          15881,
+          15991
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Histoplasma can cause histoplasmosis, which can present with pulmonary infiltrates and symptoms similar to TB."
+    },
+    {
+      "ranges": [
+        [
+          15993,
+          16103
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In addition to opportunistic infections, malignancies should also be considered in the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          16104,
+          16242
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's pulmonary infiltrates and hilar lymphadenopathy could be consistent with a malignancy, such as lymphoma or Kaposi's sarcoma."
+    },
+    {
+      "ranges": [
+        [
+          23371,
+          23489
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "the most likely diagnoses are PCP, TB, and MAC, given the patient's immunocompromised state and pulmonary infiltrates."
+    },
+    {
+      "ranges": [
+        [
+          23490,
+          23600
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "These diagnoses should be considered first, and treatment should be guided by the results of diagnostic tests."
+    },
+    {
+      "ranges": [
+        [
+          14692,
+          14807
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms and radiographic findings are consistent with PCP, and the diagnosis should be reconsidered."
+    },
+    {
+      "ranges": [
+        [
+          19975,
+          20172
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's immunocompromised state and history of intravenous drug use increase his risk for certain infections, and a diagnosis of an opportunistic infection or malignancy should be considered."
+    },
+    {
+      "ranges": [
+        [
+          20173,
+          20326
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The leading diagnoses in this case include PCP, TB, MAC, CMV pneumonia, and Candida pneumonia, and further testing is necessary to confirm the diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          18118,
+          18245
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient's anemia, thrombocytosis, and elevated LDH suggest a systemic illness, such as a malignancy or a chronic infection."
+    },
+    {
+      "ranges": [
+        [
+          18246,
+          18365
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's elevated ferritin level also suggests a systemic illness, such as a malignancy or an autoimmune disorder."
+    },
+    {
+      "ranges": [
+        [
+          20840,
+          20994
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's physical examination and laboratory results should also be carefully reviewed, and any changes in his condition should be closely monitored."
+    },
+    {
+      "ranges": [
+        [
+          19365,
+          19510
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's treatment should be guided by the results of diagnostic tests, and he should be closely monitored for any changes in his condition."
+    },
+    {
+      "ranges": [
+        [
+          23910,
+          24090
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of recurrent genital herpes and multiple sexual partners increases his risk for certain infections, such as HIV, hepatitis, and sexually transmitted diseases."
+    }
+  ]
+}

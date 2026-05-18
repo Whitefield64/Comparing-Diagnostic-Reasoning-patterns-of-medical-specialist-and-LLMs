@@ -1,0 +1,29 @@
+{
+  "case": "1990 Case 19__openai-gpt-oss-120b.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-17T22:41:37.199965+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          35473,
+          35615
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The two most compelling candidates, based on the totality of data, are **alveolar echinococcosis** and **undifferentiated embryonal sarcoma**."
+    },
+    {
+      "ranges": [
+        [
+          36421,
+          36579
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The CT and MRI describe a large, well‑circumscribed but heterogeneous mass with multiple cystic and solid components, internal septa, and lack of enhancement."
+    }
+  ]
+}

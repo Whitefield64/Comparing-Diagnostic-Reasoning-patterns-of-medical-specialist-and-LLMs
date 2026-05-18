@@ -1,0 +1,150 @@
+{
+  "case": "1996 Case 02__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T01:40:26.367153+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4407,
+          4707
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of progressive, constant left subcostal pain, intermittent fever, anorexia, and nausea, along with the presence of a mass in the left hepatic lobe, it is essential to consider both benign and malignant processes, as well as infectious, inflammatory, and structural causes."
+    },
+    {
+      "ranges": [
+        [
+          5402,
+          5565
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Primary liver cancers, such as hepatocellular carcinoma (HCC), are a consideration, especially given the patient's significant weight loss and intermittent fevers."
+    },
+    {
+      "ranges": [
+        [
+          6066,
+          6181
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Metastatic disease to the liver is another possibility, given the patient's weight loss and the presence of a mass."
+    },
+    {
+      "ranges": [
+        [
+          4957,
+          5174
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Hemangiomas are typically asymptomatic and found incidentally; they can cause symptoms if they rupture or undergo thrombosis, but these events usually present acutely rather than with a prolonged, intermittent course."
+    },
+    {
+      "ranges": [
+        [
+          7996,
+          8143
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of a bruit over the mass on physical examination suggests significant vascularity, which is more consistent with a neoplastic process."
+    },
+    {
+      "ranges": [
+        [
+          9587,
+          9732
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The imaging characteristics of the mass, including its size, location, and vascularity, are crucial in narrowing down the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9733,
+          9934
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Laboratory tests, such as liver function tests, complete blood count, and inflammatory markers, can provide additional information about the patient's condition and help guide further diagnostic steps."
+    },
+    {
+      "ranges": [
+        [
+          6626,
+          6748
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "A thorough investigation into the patient's family history and potential genetic factors could provide additional insight."
+    },
+    {
+      "ranges": [
+        [
+          10930,
+          11193
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's symptoms of intermittent fever, weight loss, and abdominal pain, combined with the presence of a hypervascular mass in the liver, suggest a neoplastic process, and further diagnostic testing should be aimed at confirming or excluding this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10430,
+          10654
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of a hypervascular mass with central necrosis, as seen in this patient, could also suggest a diagnosis of a hepatic arteriovenous malformation or a peliotic lesion, although these would be unusual presentations."
+    },
+    {
+      "ranges": [
+        [
+          12067,
+          12321
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's young age and lack of typical risk factors for liver disease make the diagnosis challenging, and a thorough and systematic approach to diagnosis is essential to ensure that all potential causes are considered and appropriately investigated."
+    },
+    {
+      "ranges": [
+        [
+          12474,
+          12713
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The association between oral contraceptive use and the development of hepatocellular adenomas is well established, and it is possible that this patient's use of oral contraceptives may have contributed to the development of her liver mass."
+    },
+    {
+      "ranges": [
+        [
+          13954,
+          14148
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of eczema and asthma may also be relevant to her current presentation, as it is possible that she may have an underlying predisposition to allergic or autoimmune disorders."
+    }
+  ]
+}

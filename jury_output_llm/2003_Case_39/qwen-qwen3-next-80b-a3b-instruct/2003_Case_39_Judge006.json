@@ -1,0 +1,84 @@
+{
+  "case": "2003 Case 39__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T06:39:52.202231+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          16501,
+          16963
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) urothelial carcinoma, given the classic presentation of painless gross hematuria, bladder mass, and age-appropriate risk profile; (2) urachal adenocarcinoma, due to the dome location and the potential for misdiagnosis as urothelial carcinoma; and (3) granulomatous cystitis, particularly tuberculosis, given the patient’s origin in Hong Kong, chronicity of symptoms, weight loss, and lack of response to antibiotics."
+    },
+    {
+      "ranges": [
+        [
+          6053,
+          6319
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The persistence of hematuria despite antibiotic therapy, the development of urinary retention, and the visualization of a distinct bladder mass shift the diagnostic focus toward structural, neoplastic, or inflammatory processes confined to the bladder wall or lumen."
+    },
+    {
+      "ranges": [
+        [
+          6926,
+          7166
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the mass appeared as heterogeneous, mixed-attenuation, nonenhancing debris on CT and was confirmed as a discrete mass on cystoscopy is highly suggestive of a solid tumor rather than a purely inflammatory or clot-based process."
+    },
+    {
+      "ranges": [
+        [
+          17392,
+          17620
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The differential will be definitively resolved by biopsy, which will distinguish between epithelial malignancy (urothelial or adenocarcinoma), granulomatous inflammation (TB or fungal), or rare entities like lymphoma or sarcoma."
+    },
+    {
+      "ranges": [
+        [
+          17637,
+          17823
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "the clinical picture strongly favors a neoplastic etiology, with urothelial carcinoma as the most probable diagnosis, followed closely by urachal adenocarcinoma due to the dome location."
+    },
+    {
+      "ranges": [
+        [
+          5437,
+          5733
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presentation of a 33-year-old woman with acute gross hematuria, passage of clots, mild dysuria, and subsequent urinary retention, culminating in the identification of a 3–4 cm nonenhancing mass in the dome of the bladder on cystoscopy, demands a systematic and nuanced differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          7377,
+          7654
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s age is somewhat younger than the typical presentation of bladder cancer (which peaks in the seventh decade), but the incidence in younger adults is increasing, particularly in populations with chronic exposure to carcinogens or underlying inflammatory conditions."
+    }
+  ]
+}

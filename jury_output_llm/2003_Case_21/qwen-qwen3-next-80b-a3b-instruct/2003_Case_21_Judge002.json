@@ -1,0 +1,84 @@
+{
+  "case": "2003 Case 21__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-18T05:50:48.729782+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23485,
+          23651
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely diagnosis is microscopic polyangiitis (MPA), an ANCA-associated vasculitis affecting small- to medium-sized vessels, including the vertebral arteries."
+    },
+    {
+      "ranges": [
+        [
+          13102,
+          13289
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The challenge lies in distinguishing between atherosclerotic progression, a primary vasculitis, a prothrombotic state, and a systemic connective tissue disorder with vascular involvement."
+    },
+    {
+      "ranges": [
+        [
+          13363,
+          13645
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the multifocal, irregular nature of the vertebral artery stenoses, particularly their asymmetry and distribution along the dural ring and mid-vertebral segments—regions less commonly affected by typical atherosclerotic plaques, which tend to localize at ostial or bifurcation sites."
+    },
+    {
+      "ranges": [
+        [
+          21649,
+          21741
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "the Sydney criteria, this meets the serologic threshold for antiphospholipid syndrome (APS)."
+    },
+    {
+      "ranges": [
+        [
+          12669,
+          12928
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of cardiac embolic sources, absence of large-vessel occlusion on angiography, and the presence of multifocal, irregular stenoses of bilateral vertebral arteries raise the question of a non-atherosclerotic, inflammatory, or autoimmune vasculopathy."
+    },
+    {
+      "ranges": [
+        [
+          13962,
+          14202
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "the patient’s persistent, progressive neurological deterioration despite anticoagulation and antiplatelet therapy indicates that thrombosis alone cannot account for the injury; the underlying vessel wall pathology must be actively evolving."
+    },
+    {
+      "ranges": [
+        [
+          24832,
+          25079
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case underscores the importance of considering vasculitis in any elderly patient with recurrent, multifocal strokes in the posterior circulation, especially when conventional risk factors and therapies fail to explain the clinical trajectory."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "case": "1999 Case 10__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T03:13:46.780340+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17280,
+          17561
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The combination of systemic vasculitis, renal failure, cortical blindness, and respiratory distress, alongside the skin and lymph node findings, points most strongly towards a diagnosis of a systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis."
+    },
+    {
+      "ranges": [
+        [
+          15303,
+          15473
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's treatment with methylprednisolone and the initial response in terms of improved urinary output suggest that an inflammatory or autoimmune process is likely."
+    },
+    {
+      "ranges": [
+        [
+          11135,
+          11297
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the absence of systemic symptoms like fever and weight loss, and the prominent inflammatory and vasculitic features, make this less likely as a primary diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          18094,
+          18330
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Systemic vasculitides, such as granulomatosis with polyangiitis or microscopic polyangiitis, are characterized by the deposition of immune complexes and the activation of neutrophils, leading to inflammation and damage to blood vessels."
+    },
+    {
+      "ranges": [
+        [
+          18464,
+          18655
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The presence of ANCA in many cases of these conditions suggests an autoimmune mechanism, with the antibodies targeting neutrophil cytoplasmic antigens and triggering an inflammatory response."
+    },
+    {
+      "ranges": [
+        [
+          17705,
+          17942
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's response to initial treatment with corticosteroids and the potential need for additional immunosuppressive therapy highlight the importance of a thorough diagnostic evaluation and a multidisciplinary approach to management."
+    },
+    {
+      "ranges": [
+        [
+          12978,
+          13206
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of diffuse intravascular coagulation with lymphocytic inflammation on the skin biopsy specimen supports the diagnosis of a systemic condition with vascular involvement, further pointing towards a vasculitic process."
+    }
+  ]
+}

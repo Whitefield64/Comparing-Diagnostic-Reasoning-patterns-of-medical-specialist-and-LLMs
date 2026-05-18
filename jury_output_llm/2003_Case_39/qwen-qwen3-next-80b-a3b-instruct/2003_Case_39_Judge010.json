@@ -1,0 +1,128 @@
+{
+  "case": "2003 Case 39__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T06:43:01.964708+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          16501,
+          16963
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) urothelial carcinoma, given the classic presentation of painless gross hematuria, bladder mass, and age-appropriate risk profile; (2) urachal adenocarcinoma, due to the dome location and the potential for misdiagnosis as urothelial carcinoma; and (3) granulomatous cystitis, particularly tuberculosis, given the patient’s origin in Hong Kong, chronicity of symptoms, weight loss, and lack of response to antibiotics."
+    },
+    {
+      "ranges": [
+        [
+          6321,
+          6378
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate concern is a primary bladder neoplasm."
+    },
+    {
+      "ranges": [
+        [
+          6053,
+          6319
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The persistence of hematuria despite antibiotic therapy, the development of urinary retention, and the visualization of a distinct bladder mass shift the diagnostic focus toward structural, neoplastic, or inflammatory processes confined to the bladder wall or lumen."
+    },
+    {
+      "ranges": [
+        [
+          6926,
+          7166
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The fact that the mass appeared as heterogeneous, mixed-attenuation, nonenhancing debris on CT and was confirmed as a discrete mass on cystoscopy is highly suggestive of a solid tumor rather than a purely inflammatory or clot-based process."
+    },
+    {
+      "ranges": [
+        [
+          10472,
+          10621
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The CT findings of nonenhancing, heterogeneous debris are consistent with necrotic adenocarcinoma, which often has a mucinous or glandular component."
+    },
+    {
+      "ranges": [
+        [
+          17824,
+          18053
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The possibility of tuberculosis must not be overlooked in this patient’s demographic context and must be actively ruled out with acid-fast staining, culture, and possibly PCR for Mycobacterium tuberculosis on the biopsy specimen."
+    },
+    {
+      "ranges": [
+        [
+          17078,
+          17316
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The nonenhancing nature of the mass on CT and the presence of mixed bacteria in urine culture suggest a process that is either necrotic, fibrotic, or chronically inflamed, all of which can be seen in malignant or granulomatous conditions."
+    },
+    {
+      "ranges": [
+        [
+          6379,
+          6613
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Transitional cell carcinoma (TCC), now termed urothelial carcinoma, is the most common malignant bladder tumor in adults and frequently presents with painless gross hematuria, which may be intermittent but tends to persist and worsen."
+    },
+    {
+      "ranges": [
+        [
+          7905,
+          8059
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "entioned, her history of significant weight loss over two months without overt gastrointestinal symptoms or fever raises concern for an occult malignancy."
+    },
+    {
+      "ranges": [
+        [
+          18054,
+          18186
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The weight loss and persistent symptoms over two months elevate the urgency for prompt histologic diagnosis and appropriate staging."
+    },
+    {
+      "ranges": [
+        [
+          12802,
+          12979
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The presence of ketones and mild proteinuria on urinalysis may suggest a systemic inflammatory state, but these are nonspecific and could reflect dehydration or stress response."
+    }
+  ]
+}

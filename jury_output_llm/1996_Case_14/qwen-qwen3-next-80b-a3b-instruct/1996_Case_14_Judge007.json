@@ -1,0 +1,128 @@
+{
+  "case": "1996 Case 14__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T02:31:12.230004+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8655,
+          8832
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The temporal relationship between the initiation of methotrexate six weeks prior to the onset of oral ulcers and the subsequent eruption is highly suggestive of a drug etiology."
+    },
+    {
+      "ranges": [
+        [
+          8833,
+          9042
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Methotrexate is a well-documented, albeit uncommon, trigger of TEN, particularly in patients with renal impairment, as it is primarily excreted renally and accumulates in the setting of chronic kidney disease."
+    },
+    {
+      "ranges": [
+        [
+          10061,
+          10294
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The fact that the eruption followed the appearance of oral ulcers—a classic prodrome of TEN—strongly favors a delayed-type hypersensitivity reaction rather than a direct cytotoxic effect, aligning with the immune pathogenesis of TEN."
+    },
+    {
+      "ranges": [
+        [
+          10404,
+          10609
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The initial oral ulcers and mucosal erosions could have been caused by severe herpetic infection, particularly given the patient’s immunocompromised state from chronic prednisone use, uremia, and diabetes."
+    },
+    {
+      "ranges": [
+        [
+          8447,
+          8654
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The hallmark clinical features—rapid progression from erythema and targetoid lesions to confluent epidermal sloughing, mucosal involvement (oral, ocular, genital), and systemic toxicity—are all present here."
+    },
+    {
+      "ranges": [
+        [
+          10305,
+          10403
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "the differential diagnosis of TEN must also consider other conditions that mimic its presentation."
+    },
+    {
+      "ranges": [
+        [
+          10794,
+          10933
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the biopsy findings were consistent with TEN, not viral cytopathic change, and multiple viral cultures from oral lesions remained negative."
+    },
+    {
+      "ranges": [
+        [
+          12698,
+          12890
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of mucosal ulceration, the histopathologic findings of full-thickness necrosis, and the absence of any staphylococcal isolate from skin or mucosal sites make SSSS highly unlikely."
+    },
+    {
+      "ranges": [
+        [
+          20049,
+          20204
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The case underscores the fragility of the immunocompromised host and the lethal synergy between drug-induced mucocutaneous injury and nosocomial infection."
+    },
+    {
+      "ranges": [
+        [
+          13876,
+          13993
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s underlying medical conditions created a perfect storm for the development and fatal progression of TEN."
+    },
+    {
+      "ranges": [
+        [
+          14991,
+          15185
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The emergence of *Klebsiella pneumoniae* bacteremia and multiple catheter-related infections is classic in the setting of prolonged hospitalization, central venous access, and immunosuppression."
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "case": "1991 Case 14__meta-llama-3.3-70b-instruct.md",
+  "exported_at": "2026-05-17T23:00:04.963621+00:00",
+  "n_voters": 15,
+  "n_successful": 15,
+  "n_failed": 0,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The imaging characteristics of the mass and the patient's lack of symptoms, aside from recent nasal congestion, are also consistent with this diagnosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, instead: The patient's overall health and lack of symptoms make it essential to consider benign conditions, such as a congenital anomaly or a benign tumor."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however, the following text is: The patient's age and lack of symptoms make this case even more challenging, as many conditions that present with a posterior mediastinal mass in adults are less common in children."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient's age and lack of symptoms make a neoplastic disease, such as a neuroblastoma, a critical consideration."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The imaging characteristics of the mass and the patient's lack of symptoms, aside from recent nasal congestion, are also consistent with this diagnosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of a posterior mediastinal mass with nonhomogeneous appearance and lack of enhancement with contrast material is consistent with a neuroblastoma."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the sentence 'The patient's recent nasal congestion and agitation also warrant consideration, as these symptoms may be related to the underlying diagnosis or a separate condition' shows intuition."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient's age and lack of symptoms make a neoplastic disease, such as a neuroblastoma, a critical consideration, although other diagnoses, such as a teratoma, ganglioneuroma, pheochromocytoma, or PNET, cannot be excluded without further evaluation and diagnostic testing."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however, the patient's recent nasal congestion and agitation also warrant consideration, as these symptoms may be related to the underlying diagnosis or a separate condition."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 15,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 14,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, instead: The patient's overall health and lack of symptoms make it essential to consider benign conditions, such as a congenital anomaly or a benign tumor."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a neuroblastoma, although other diagnoses cannot be excluded without further evaluation and diagnostic testing."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient's recent symptoms and laboratory abnormalities also require consideration and further evaluation, as they may be related to the underlying diagnosis or a separate condition."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient's overall health and well-being, family history, and social history also require consideration in this case, as they may provide valuable information about the patient's risk of developing certain conditions."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The patient's age and lack of symptoms make a neoplastic disease, such as a neuroblastoma, a critical consideration."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 15,
+      "n_unresolved": 0,
+      "unresolved": []
+    }
+  ]
+}

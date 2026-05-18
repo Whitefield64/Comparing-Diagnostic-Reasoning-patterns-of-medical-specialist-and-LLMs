@@ -1,0 +1,282 @@
+{
+  "case": "1995 Case 16__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T01:04:32.237250+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6530,
+          6697
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with recurrent ventricular tachycardia, dilated cardiomyopathy, and pulmonary lesions suggests a complex and multifactorial disease process."
+    },
+    {
+      "ranges": [
+        [
+          6861,
+          7080
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Initially, the presence of dilated cardiomyopathy and ventricular tachycardia raises concerns about primary cardiac diseases, such as arrhythmogenic right ventricular cardiomyopathy or idiopathic dilated cardiomyopathy."
+    },
+    {
+      "ranges": [
+        [
+          7081,
+          7222
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the concomitant presence of pulmonary lesions and lymphadenopathy suggests that the disease process may not be limited to the heart."
+    },
+    {
+      "ranges": [
+        [
+          7224,
+          7386
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious causes, such as tuberculosis, should be considered given the patient's history of positive tuberculin skin tests and the presence of pulmonary lesions."
+    },
+    {
+      "ranges": [
+        [
+          7387,
+          7571
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Although the patient had discontinued treatment with isoniazid due to side effects, the possibility of reactivation tuberculosis or another mycobacterial infection cannot be ruled out."
+    },
+    {
+      "ranges": [
+        [
+          7735,
+          7945
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other infectious causes, such as fungal infections (e.g., histoplasmosis or coccidioidomycosis), should also be considered, particularly given the patient's travel history and the presence of pulmonary nodules."
+    },
+    {
+      "ranges": [
+        [
+          8119,
+          8187
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory causes, such as sarcoidosis, should also be considered."
+    },
+    {
+      "ranges": [
+        [
+          8188,
+          8299
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Sarcoidosis is a systemic disease that can affect multiple organs, including the lungs, heart, and lymph nodes."
+    },
+    {
+      "ranges": [
+        [
+          8300,
+          8460
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of pulmonary lesions, lymphadenopathy, and cardiac involvement, including conduction abnormalities and arrhythmias, is consistent with sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          8867,
+          9003
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Malignant causes, such as lymphoma, should also be considered, particularly given the presence of lymphadenopathy and pulmonary lesions."
+    },
+    {
+      "ranges": [
+        [
+          9004,
+          9231
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the lack of systemic symptoms, such as fever, weight loss, or night sweats, and the absence of specific findings on imaging studies, such as bulky lymphadenopathy or mediastinal masses, make this diagnosis less likely."
+    },
+    {
+      "ranges": [
+        [
+          9541,
+          9641
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Structural causes, such as cardiac sarcoidosis or giant cell myocarditis, should also be considered."
+    },
+    {
+      "ranges": [
+        [
+          9642,
+          9798
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "These conditions can cause cardiac dysfunction, arrhythmias, and conduction abnormalities, and can be associated with pulmonary lesions and lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          10251,
+          10362
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Systemic causes, such as autoimmune disorders (e.g., lupus or rheumatoid arthritis), should also be considered."
+    },
+    {
+      "ranges": [
+        [
+          10735,
+          10990
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy could be related to an autoimmune disorder, such as lupus, which can cause inflammation and scarring in the heart, leading to arrhythmias and cardiac dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          6698,
+          6860
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "To approach this case, it is essential to consider various differential diagnoses, including malignant, infectious, inflammatory, structural, and systemic causes."
+    },
+    {
+      "ranges": [
+        [
+          11794,
+          12006
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's history of positive tuberculin skin tests and the presence of pulmonary lesions suggest an infectious cause, while the cardiac involvement and arrhythmias suggest a structural or inflammatory cause."
+    },
+    {
+      "ranges": [
+        [
+          12007,
+          12153
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The lack of specific symptoms and findings on laboratory studies and imaging examinations makes it difficult to narrow the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11497,
+          11637
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Further evaluation and diagnostic testing are necessary to determine the underlying cause of the patient's symptoms and to guide management."
+    },
+    {
+      "ranges": [
+        [
+          13569,
+          13752
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "A team of specialists, including cardiologists, pulmonologists, and infectious disease specialists, should be involved in the patient's care to ensure optimal management and outcomes."
+    },
+    {
+      "ranges": [
+        [
+          12705,
+          12808
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "the patient's recurrent ventricular tachycardia and dilated cardiomyopathy require immediate attention."
+    },
+    {
+      "ranges": [
+        [
+          6530,
+          6697
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's presentation with recurrent ventricular tachycardia, dilated cardiomyopathy, and pulmonary lesions suggests a complex and multifactorial disease process."
+    },
+    {
+      "ranges": [
+        [
+          8300,
+          8460
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of pulmonary lesions, lymphadenopathy, and cardiac involvement, including conduction abnormalities and arrhythmias, is consistent with sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          11285,
+          11496
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "ral, and systemic causes, the most likely diagnosis is a condition that can cause cardiac dysfunction, arrhythmias, and conduction abnormalities, and can be associated with pulmonary lesions and lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          13754,
+          13962
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of immigration from a Caribbean country and his previous positive tuberculin skin tests also raise the possibility of a tropical or infectious disease, such as Chagas disease or leprosy."
+    }
+  ]
+}

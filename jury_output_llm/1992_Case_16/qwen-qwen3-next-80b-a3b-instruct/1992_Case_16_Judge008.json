@@ -1,0 +1,117 @@
+{
+  "case": "1992 Case 16__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T00:06:26.066642+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17641,
+          17771
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely diagnosis is **vertebral osteomyelitis secondary to *Staphylococcus aureus***, seeded from the chronic paronychia."
+    },
+    {
+      "ranges": [
+        [
+          18142,
+          18294
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The second most likely diagnosis is **Ewing sarcoma**, given the age, the solitary osteolytic lesion with soft-tissue mass, and the neurologic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          18371,
+          18480
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The third consideration is **tuberculosis**, though less likely without systemic signs or pulmonary findings."
+    },
+    {
+      "ranges": [
+        [
+          17772,
+          17934
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The chronicity of the skin infections, the osteolytic lesion with posterior soft-tissue extension, elevated ESR, absence of fever, and young age all support this."
+    },
+    {
+      "ranges": [
+        [
+          17935,
+          18025
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the anterior disk space is spared is classic for hematogenous osteomyelitis."
+    },
+    {
+      "ranges": [
+        [
+          18026,
+          18141
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The neurologic deficit is due to epidural abscess or granulation tissue compressing the spinal cord or nerve roots."
+    },
+    {
+      "ranges": [
+        [
+          18512,
+          18685
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if granulomas with caseation are found, TB is confirmed; if small round blue cells with CD99 positivity, Ewing sarcoma; if neutrophils and bacteria, bacterial osteomyelitis."
+    },
+    {
+      "ranges": [
+        [
+          18481,
+          18685
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The biopsy will be diagnostic: if granulomas with caseation are found, TB is confirmed; if small round blue cells with CD99 positivity, Ewing sarcoma; if neutrophils and bacteria, bacterial osteomyelitis."
+    },
+    {
+      "ranges": [
+        [
+          19311,
+          19475
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The differential must be narrowed rapidly to guide appropriate therapy: antibiotics for infection, chemotherapy for Ewing sarcoma, or antitubercular therapy for TB."
+    },
+    {
+      "ranges": [
+        [
+          19476,
+          19635
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The elevated ESR and chronic infection history make infectious osteomyelitis the leading hypothesis, but malignancy cannot be ruled out without histopathology."
+    }
+  ]
+}

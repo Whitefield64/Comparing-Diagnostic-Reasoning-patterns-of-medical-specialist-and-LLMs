@@ -1,0 +1,51 @@
+{
+  "case": "1990 Case 19__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-17T22:54:50.450743+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          21085,
+          21171
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling unifying diagnosis is **hydatid disease (cystic echinococcosis)**."
+    },
+    {
+      "ranges": [
+        [
+          21847,
+          22057
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Alternative considerations include **pyogenic liver abscess**, though this is typically more acute, with higher transaminases, and often presents with chills and rigors rather than low-grade intermittent fever."
+    },
+    {
+      "ranges": [
+        [
+          21774,
+          21845
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The lack of response to metronidazole further argues against amebiasis."
+    },
+    {
+      "ranges": [
+        [
+          9368,
+          9654
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of classic signs of acute infection—such as cough, sore throat, rash, or gastrointestinal symptoms beyond transient diarrhea—combined with the chronicity and progression of his illness, suggests a subacute to chronic process rather than an acute bacterial or viral syndrome."
+    }
+  ]
+}

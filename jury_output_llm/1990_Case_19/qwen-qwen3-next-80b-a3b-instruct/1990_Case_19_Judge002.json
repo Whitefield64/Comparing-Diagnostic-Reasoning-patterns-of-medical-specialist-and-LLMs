@@ -1,0 +1,139 @@
+{
+  "case": "1990 Case 19__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-17T22:48:40.379060+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          21085,
+          21171
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling unifying diagnosis is **hydatid disease (cystic echinococcosis)**."
+    },
+    {
+      "ranges": [
+        [
+          21847,
+          22057
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Alternative considerations include **pyogenic liver abscess**, though this is typically more acute, with higher transaminases, and often presents with chills and rigors rather than low-grade intermittent fever."
+    },
+    {
+      "ranges": [
+        [
+          22358,
+          22422
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnosis is **cystic echinococcosis of the liver**."
+    },
+    {
+      "ranges": [
+        [
+          22619,
+          22761
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The prolonged PTT and bleeding time require further investigation into possible acquired coagulopathy due to hepatic involvement or infection."
+    },
+    {
+      "ranges": [
+        [
+          21539,
+          21666
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The bleeding diathesis and prolonged PTT may reflect hepatic compression or vitamin K malabsorption due to biliary compression."
+    },
+    {
+      "ranges": [
+        [
+          22055,
+          22161
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "r. The lack of biliary tract disease, recent instrumentation, or immunosuppression makes this less likely."
+    },
+    {
+      "ranges": [
+        [
+          22762,
+          23040
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The next diagnostic step should be serologic testing for *Echinococcus granulosus* antibodies (ELISA or Western blot), imaging for additional cysts (lung, spleen, kidney), and consideration of percutaneous aspiration under imaging guidance with albendazole therapy if confirmed."
+    },
+    {
+      "ranges": [
+        [
+          20536,
+          20659
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Infective endocarditis (IE) in children can present with prolonged fever, weight loss, hepatomegaly, and embolic phenomena."
+    },
+    {
+      "ranges": [
+        [
+          21273,
+          21372
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The imaging is classic: large, well-circumscribed, multiseptated, nonenhancing hepatic cystic mass."
+    },
+    {
+      "ranges": [
+        [
+          21774,
+          21845
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The lack of response to metronidazole further argues against amebiasis."
+    },
+    {
+      "ranges": [
+        [
+          21710,
+          21773
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The negative amebic serology supports this over amebic abscess."
+    },
+    {
+      "ranges": [
+        [
+          21172,
+          21272
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The epidemiology is perfect: multiple exposures in endemic Mediterranean and Middle Eastern regions."
+    }
+  ]
+}

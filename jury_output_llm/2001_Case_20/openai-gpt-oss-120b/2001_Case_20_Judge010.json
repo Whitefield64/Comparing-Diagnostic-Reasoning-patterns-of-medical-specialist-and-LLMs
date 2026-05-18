@@ -1,0 +1,84 @@
+{
+  "case": "2001 Case 20__openai-gpt-oss-120b.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T03:59:40.963049+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23988,
+          24215
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "most compelling working diagnosis** is **subacute infective endocarditis caused by *Moraxella phenylpyruvica***, with the ulcerated atherosclerotic plaque serving either as a secondary nidus or as a conduit for bacterial seedin"
+    },
+    {
+      "ranges": [
+        [
+          31191,
+          31387
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "preponderance of evidence** points toward a **low‑grade, subacute infective process involving the cardiovascular system**, most plausibly **infective endocarditis caused by *Moraxella phenylpyruvi"
+    },
+    {
+      "ranges": [
+        [
+          26136,
+          26489
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "\n\nThe aortic valve leaflets are heavily calcified, indicating chronic mechanical stress and endothelial disruption.  In the setting of bacteremia, **micro‑colonies can lodge on the calcified leaflets**, leading to the formation of small vegetations that may be below the detection threshold of transesophageal echo (especially if <2 mm).  Such micro‑veg"
+    },
+    {
+      "ranges": [
+        [
+          5440,
+          5783
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The problem list can be roughly divided into two domains: (1) **identifying the anatomic source of the bacteremia** and (2) **determining whether the bacteremia represents a primary infection, a secondary infection superimposed on an underlying chronic process, or a manifestation of a non‑infectious disease that predisposes to secondary infe"
+    },
+    {
+      "ranges": [
+        [
+          26595,
+          26674
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The lack of overt valvular dysfunction (EF 60 %) supports a **subclinical** pro"
+    },
+    {
+      "ranges": [
+        [
+          5093,
+          5434
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The clinical picture of a 64‑year‑old man with multiple cardiovascular, metabolic and renal comorbidities who presents with a sub‑acute febrile illness, unintentional weight loss, a new systolic murmur, a positive tuberculin skin test, calcified mediastinal nodes, and a **β‑lactamase‑negative *Moraxella phenylpyruvica* bacteremia** is comp"
+    },
+    {
+      "ranges": [
+        [
+          27427,
+          27789
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s temperature normalized after 48 h of cefuroxime, suggesting **adequate antimicrobial activity**.  However, **persistent low‑grade bacteremia (culture positive on day 6)** raises the possibility that the antibiotic penetrates poorly into the **avascular plaque or micro‑vegetations**, or that the bacterial load within the plaque is **protected by a"
+    }
+  ]
+}

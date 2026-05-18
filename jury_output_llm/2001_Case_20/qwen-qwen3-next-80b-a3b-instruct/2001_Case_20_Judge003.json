@@ -1,0 +1,128 @@
+{
+  "case": "2001 Case 20__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T04:11:48.781673+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6306,
+          6437
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is infective endocarditis (IE), particularly in its culture-negative or atypical form."
+    },
+    {
+      "ranges": [
+        [
+          17401,
+          18075
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) infective endocarditis due to *Neisseria phenylpyruvica* or a similar fastidious organism, seeded from oral flora or a mucosal source, in the setting of degenerative valvular disease; (2) occult renal abscess or infected cyst, particularly given the renal cysts and chronic kidney disease; (3) tuberculosis, either pulmonary or extrapulmonary, with possible bacteremia or immune-mediated fever; (4) a systemic vasculitis such as polyarteritis nodosa, with secondary renal and systemic manifestations; and (5) an occult malignancy, particularly lymphoma or renal cell carcinoma, with paraneoplastic fever and secondary infection."
+    },
+    {
+      "ranges": [
+        [
+          6098,
+          6304
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The organism’s susceptibility profile and the clinical course suggest true bacteremia, necessitating an investigation into potential underlying foci of infection, immune compromise, or endovascular seeding."
+    },
+    {
+      "ranges": [
+        [
+          6547,
+          6761
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of significant valvular pathology—thickened mitral and aortic leaflets, calcified posterior mitral annulus, and left atrial dilatation—creates a highly favorable substrate for endocardial colonization."
+    },
+    {
+      "ranges": [
+        [
+          18734,
+          18858
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If endocarditis remains suspected, surgical valvular evaluation may be warranted despite the absence of visible vegetations."
+    },
+    {
+      "ranges": [
+        [
+          7474,
+          7646
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The negative TEE does not exclude IE; vegetations may be small, friable, or obscured by calcific deposits, especially in the setting of advanced degenerative valve disease."
+    },
+    {
+      "ranges": [
+        [
+          15011,
+          15119
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The possibility of a malignancy with paraneoplastic fever or occult metastatic infection must be considered."
+    },
+    {
+      "ranges": [
+        [
+          8012,
+          8157
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The persistent low-grade fever, new systolic murmur, and elevated ESR (59 mm/hr) are classic, albeit nonspecific, signs of subacute endocarditis."
+    },
+    {
+      "ranges": [
+        [
+          12196,
+          12407
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s cardiac findings—left ventricular hypertrophy, segmental dysfunction—could reflect chronic hypertensive heart disease, but could also be influenced by myocardial infiltration or vasculitis from TB."
+    },
+    {
+      "ranges": [
+        [
+          14636,
+          14852
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The fact that the fever persisted despite ciprofloxacin and metronidazole is consistent with a source that is not responsive to broad-spectrum antibiotics targeting gut flora—suggesting a non-enteric, mucosal origin."
+    },
+    {
+      "ranges": [
+        [
+          14279,
+          14468
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient’s age, diabetes, and chronic illness predispose him to periodontal disease, which is a known source of bacteremia with oral flora, including *Neisseria* and *Moraxella* species."
+    }
+  ]
+}

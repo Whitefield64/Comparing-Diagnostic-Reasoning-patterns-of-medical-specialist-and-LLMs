@@ -1,0 +1,73 @@
+{
+  "case": "1990 Case 19__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-17T22:53:48.792705+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          21085,
+          21171
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling unifying diagnosis is **hydatid disease (cystic echinococcosis)**."
+    },
+    {
+      "ranges": [
+        [
+          21847,
+          22057
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Alternative considerations include **pyogenic liver abscess**, though this is typically more acute, with higher transaminases, and often presents with chills and rigors rather than low-grade intermittent fever."
+    },
+    {
+      "ranges": [
+        [
+          21774,
+          21845
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The lack of response to metronidazole further argues against amebiasis."
+    },
+    {
+      "ranges": [
+        [
+          9368,
+          9654
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of classic signs of acute infection—such as cough, sore throat, rash, or gastrointestinal symptoms beyond transient diarrhea—combined with the chronicity and progression of his illness, suggests a subacute to chronic process rather than an acute bacterial or viral syndrome."
+    },
+    {
+      "ranges": [
+        [
+          15015,
+          15145
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The prolonged PTT and bleeding time could be due to hepatic compression or impaired vitamin K-dependent clotting factor synthesis."
+    },
+    {
+      "ranges": [
+        [
+          9702,
+          9933
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The imaging findings—ultrasound, CT, and MRI—consistently describe a large (14 × 10 cm), well-circumscribed, nonenhancing, heterogeneous mass in the right hepatic lobe with multiple septated cystic components and areas of necrosis."
+    }
+  ]
+}

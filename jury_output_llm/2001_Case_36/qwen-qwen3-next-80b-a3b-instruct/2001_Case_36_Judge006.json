@@ -1,0 +1,381 @@
+{
+  "case": "2001 Case 36__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T04:51:49.075348+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6490,
+          6730
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate consideration is **opportunistic pulmonary infection**, particularly given his history of *Pneumocystis jirovecii* pneumonia (formerly *carinii*) on at least two prior occasions, and his current immunosuppressive regimen."
+    },
+    {
+      "ranges": [
+        [
+          6731,
+          6966
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Although he is on trimethoprim–sulfamethoxazole prophylaxis, its dose has been reduced to one tablet three times weekly—a suboptimal regimen for full protection, especially in the setting of ongoing corticosteroid use and cyclosporine."
+    },
+    {
+      "ranges": [
+        [
+          6967,
+          7020
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "*P. jirovecii* pneumonia remains a leading candidate."
+    },
+    {
+      "ranges": [
+        [
+          7365,
+          7633
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of hypoxemia (SaO₂ 98%) is atypical for severe *P. jirovecii*, but this patient has significant baseline restrictive and obstructive lung disease from prior organizing pneumonia and diffuse alveolar damage, which may blunt the expected degree of hypoxemia."
+    },
+    {
+      "ranges": [
+        [
+          7634,
+          7809
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Furthermore, *P. jirovecii* can recur in the setting of suboptimal prophylaxis, particularly during steroid tapering, which is precisely what occurred prior to this admission."
+    },
+    {
+      "ranges": [
+        [
+          8149,
+          8309
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A second critical infectious consideration is **viral pneumonia**, particularly from respiratory syncytial virus (RSV), influenza, parainfluenza, or adenovirus."
+    },
+    {
+      "ranges": [
+        [
+          8310,
+          8538
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient received an influenza vaccine 10 days before the onset of symptoms, which reduces—but does not eliminate—the risk of influenza infection, especially in immunocompromised individuals who mount poor antibody responses."
+    },
+    {
+      "ranges": [
+        [
+          8539,
+          8721
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Influenza in this population can present with atypical features: absence of prominent chills, less severe hypoxemia initially, and radiographic findings that may be subtle or patchy."
+    },
+    {
+      "ranges": [
+        [
+          8722,
+          8921
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of rhinorrhea and sore throat supports a viral etiology, but in this context, these are not benign signs; they are heralds of a potentially devastating lower respiratory tract infection."
+    },
+    {
+      "ranges": [
+        [
+          8922,
+          9176
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "RSV is increasingly recognized as a cause of severe pneumonia in adults with immunosuppression, particularly those with hematologic malignancies or transplant recipients, but it also affects patients with chronic autoimmune disease on immunosuppressants."
+    },
+    {
+      "ranges": [
+        [
+          9177,
+          9317
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The radiographic pattern of patchy lower lobe opacities with peribronchial thickening is classic for viral bronchiolitis or viral pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          9733,
+          9832
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A third major infectious category is **bacterial pneumonia**, but the differential here is nuanced."
+    },
+    {
+      "ranges": [
+        [
+          9833,
+          10171
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient has had recurrent *Streptococcus pneumoniae* pneumonia, and while the current presentation lacks the classic lobar consolidation, the patchy opacities could represent early or atypical pneumococcal disease, especially in the setting of impaired mucociliary clearance due to diabetic autonomic neuropathy and prior lung injury."
+    },
+    {
+      "ranges": [
+        [
+          10524,
+          10655
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "More concerning is the possibility of **nontuberculous mycobacterial (NTM) infection**, particularly *Mycobacterium avium complex*."
+    },
+    {
+      "ranges": [
+        [
+          10656,
+          10831
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "NTM infections are increasingly recognized in patients with chronic lung disease, especially those with prior organizing pneumonia or bronchiectasis from recurrent infections."
+    },
+    {
+      "ranges": [
+        [
+          11347,
+          11437
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another critical consideration is **fungal infection**, especially invasive aspergillosis."
+    },
+    {
+      "ranges": [
+        [
+          11438,
+          11625
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient has been on prolonged corticosteroids and calcineurin inhibitors, both of which impair macrophage and T-cell function, creating an ideal environment for *Aspergillus* species."
+    },
+    {
+      "ranges": [
+        [
+          12335,
+          12488
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential must also include **non-infectious causes of pulmonary deterioration**, particularly those related to his underlying autoimmune disease."
+    },
+    {
+      "ranges": [
+        [
+          12489,
+          12726
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "He has a well-documented history of **bronchiolitis obliterans with organizing pneumonia (BOOP)**, now termed cryptogenic organizing pneumonia (COP), and **polymyositis with anti-Jo-1 antibody**, which defines an antisynthetase syndrome."
+    },
+    {
+      "ranges": [
+        [
+          12947,
+          13122
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s current presentation—acute febrile illness with new pulmonary opacities—could represent an **acute flare of his underlying antisynthetase syndrome-related ILD**."
+    },
+    {
+      "ranges": [
+        [
+          13123,
+          13206
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The recent tapering of prednisone from 15 mg to 5 mg may have triggered this flare."
+    },
+    {
+      "ranges": [
+        [
+          13984,
+          14053
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another non-infectious consideration is **drug-induced lung injury**."
+    },
+    {
+      "ranges": [
+        [
+          14054,
+          14409
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient is on multiple medications with known pulmonary toxicity: cyclosporine, which can cause diffuse alveolar damage and interstitial pneumonitis; cyclophosphamide, which has been associated with hemorrhagic pneumonia and pulmonary fibrosis; and trimethoprim–sulfamethoxazole, which can cause hypersensitivity pneumonitis or eosinophilic pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          14973,
+          15082
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A more subtle but important consideration is **gastroesophageal reflux disease (GERD) with microaspiration**."
+    },
+    {
+      "ranges": [
+        [
+          15083,
+          15225
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient has a documented history of esophageal dysmotility and gastroparesis, and prior bronchoscopy showed aspiration at the vocal cords."
+    },
+    {
+      "ranges": [
+        [
+          15845,
+          15956
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Finally, we must consider **malignancy**, though it is less likely as a primary cause of acute febrile illness."
+    },
+    {
+      "ranges": [
+        [
+          15957,
+          16093
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient has no history of smoking for 25 years, and his lung changes are diffuse and bilateral, making primary lung cancer unlikely."
+    },
+    {
+      "ranges": [
+        [
+          16775,
+          16871
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In summary, the differential diagnosis is broad but can be stratified by likelihood and urgency."
+    },
+    {
+      "ranges": [
+        [
+          16872,
+          17272
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The top three diagnostic possibilities are: (1) *Pneumocystis jirovecii* pneumonia, given his history, current prophylaxis status, and immunosuppressive regimen; (2) an acute flare of antisynthetase syndrome-related organizing pneumonia, triggered by steroid tapering; and (3) viral pneumonia, particularly influenza or RSV, given the prodromal upper respiratory symptoms and immunocompromised state."
+    },
+    {
+      "ranges": [
+        [
+          17674,
+          17889
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "If BAL is unrevealing, a high-resolution CT scan of the chest is mandatory to characterize the pattern of opacities—whether it is ground-glass, nodular, or consolidative—as this will guide the next diagnostic steps."
+    },
+    {
+      "ranges": [
+        [
+          17890,
+          18062
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "If the radiographic pattern is consistent with organizing pneumonia and infection is ruled out, a trial of high-dose corticosteroids may be both diagnostic and therapeutic."
+    },
+    {
+      "ranges": [
+        [
+          18063,
+          18163
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, if infection is confirmed, appropriate antimicrobial therapy must be initiated immediately."
+    },
+    {
+      "ranges": [
+        [
+          18164,
+          18315
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The challenge lies in the fact that this patient’s immune system is so profoundly altered that the usual clinical and radiographic cues are unreliable."
+    },
+    {
+      "ranges": [
+        [
+          18316,
+          18433
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "What appears to be an infection may be an autoimmune flare, and what appears to be a flare may be a silent infection."
+    }
+  ]
+}

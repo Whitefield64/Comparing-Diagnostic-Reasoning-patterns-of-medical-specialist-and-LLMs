@@ -1,0 +1,360 @@
+{
+  "case": "1992 Case 16__qwen-qwen3-next-80b-a3b-instruct.md",
+  "exported_at": "2026-05-18T00:12:35.945611+00:00",
+  "n_voters": 15,
+  "n_successful": 15,
+  "n_failed": 0,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of spinal lesions can be grouped on the basis of underlying cause, such as infection, neoplasm, inflammation, or degeneration."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not explicitly mentioned but the diagnostic procedure performed—likely a biopsy—will be critical to differentiate between bacterial, fungal, or tuberculous etiologies via culture and histopathology."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of osteolytic lesion with posterior soft-tissue extension is consistent with several diagnoses, including osteomyelitis and Ewing sarcoma."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysfunction or upper motor neuron disease, suggests corticospinal tract involvement."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If this were a case of Ewing sarcoma, we would expect to see systemic symptoms such as fever, weight loss, or fatigue, but none of these are present."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of osteolytic lesion with posterior soft-tissue extension, elevated ESR, absence of fever, and young age all support the diagnosis of vertebral osteomyelitis secondary to *Staphylococcus aureus*."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The patient’s history of recurrent skin infections makes me think that the most likely diagnosis is an infectious etiology, such as vertebral osteomyelitis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the neurologic deterioration and the posterior mass compressing the spinal canal, this is a surgical emergency regardless of the underlying etiology, and the probability of an infectious etiology is higher than that of a neoplastic one."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of vertebral osteomyelitis secondary to *Staphylococcus aureus* in a young patient with a history of recurrent skin infections, which was diagnosed and treated successfully with antibiotics."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If this were a case of Ewing sarcoma, we would expect to see a solitary osteolytic lesion with a soft-tissue mass, and the patient’s age and lack of systemic symptoms do not rule it out."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The patient’s neurologic deficit—clumsiness of the left hand with preserved sensation and normal reflexes—is particularly informative, and this points to a localized, space-occupying lesion rather than a diffuse myelopathy."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of osteolytic lesion with posterior soft-tissue extension, elevated ESR, absence of fever, and young age is classic for hematogenous osteomyelitis."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had Ewing sarcoma, we would expect to see a solitary osteolytic lesion with a soft-tissue mass and neurologic symptoms, which is consistent with the clinical presentation."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly applicable here, but the principle of first ruling out life-threatening conditions applies: in this case, ruling out infectious osteomyelitis, Ewing sarcoma, and other aggressive conditions before considering less common entities."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not directly applicable here, but the principle of validating a diagnosis based on multiple lines of evidence applies: the combination of clinical, laboratory, and imaging findings supports the leading diagnoses."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of a solitary osteolytic lesion with a soft-tissue mass, elevated ESR, and neurologic deficit is consistent with Ewing sarcoma, which is a classic presentation of this disease."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The patient’s history of recurrent skin infections makes the infectious etiology the most compelling, and the fact that she was given dexamethasone and codeine suggests the clinical team is already leaning toward a compressive lesion requiring urgent intervention."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of Ewing sarcoma is higher given the age, solitary osteolytic lesion, and neurologic symptoms, but the absence of systemic symptoms and normal chest X-ray do not rule it out, and the diagnosis requires histopathological confirmation."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "This case underscores the importance of considering both infectious and neoplastic causes in young patients with unexplained vertebral lesions, especially in the setting of a chronic skin infection, similar to previously reported cases in the medical literature."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If this were an infectious process, we would expect to see signs of infection such as fever or elevated white blood cell count, but the patient has no systemic symptoms."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of osteolytic lesion with posterior soft-tissue extension is consistent with vertebral osteomyelitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the leading diagnosis is vertebral osteomyelitis secondary to *Staphylococcus aureus*."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysfunction or impairment of local immunity could contribute to the development of osteomyelitis in this patient, given the history of recurrent skin infections."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If this were a case of Ewing sarcoma, we would expect to see a solitary osteolytic lesion with a soft-tissue mass and neurologic symptoms, which is consistent with the patient’s presentation."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "The presence of an osteolytic lesion with posterior soft-tissue extension and elevated ESR is consistent with the diagnosis of vertebral osteomyelitis secondary to *Staphylococcus aureus*."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of a solitary osteolytic lesion with a soft-tissue mass and neurologic symptoms is typical of Ewing sarcoma."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The presence of an osteolytic lesion with posterior soft-tissue extension and elevated ESR is consistent with the pattern of vertebral osteomyelitis secondary to *Staphylococcus aureus*."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of chronic paronychia, osteolytic lesion, and elevated ESR is consistent with vertebral osteomyelitis."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present here but the patient’s neurologic deficit—clumsiness of the left hand with preserved sensation and normal reflexes—is particularly informative."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If this were an infectious process, we would expect to see elevated inflammatory markers and possibly fever, which is not present here but the elevated ESR and chronic infection history make infectious osteomyelitis the leading hypothesis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of osteolytic lesion with posterior soft-tissue extension and elevated ESR is classic for hematogenous osteomyelitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant here but the patient’s history of recurrent skin infections makes the infectious etiology the most compelling."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of osteolytic lesion with posterior soft-tissue extension is consistent with vertebral osteomyelitis."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 25,
+      "n_unresolved": 17,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If this were an infectious process, we would expect to see signs of infection such as fever or elevated white blood cell count."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The classic presentation of a solitary osteolytic lesion with soft-tissue extension is typical of Ewing sarcoma."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The finding of a solitary osteolytic lesion with soft-tissue extension is typical of a neoplastic process."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The absence of systemic symptoms and normal chest X-ray do not rule out Ewing sarcoma."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 17,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned but the leading diagnosis is **vertebral osteomyelitis secondary to *Staphylococcus aureus***, however, this sentence was not present in the text so the correct annotation is the sentence: The patient’s history of recurrent skin infections makes the infectious etiology the most compelling,"
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of osteolytic lesion with posterior soft-tissue extension and elevated ESR is consistent with vertebral osteomyelitis."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If this were a case of Ewing sarcoma, we would expect to see systemic symptoms such as fever, weight loss, or fatigue, but none of these are present."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of osteolytic lesion with posterior soft-tissue extension, elevated ESR, absence of fever, and young age is consistent with vertebral osteomyelitis secondary to *Staphylococcus aureus*."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of osteolytic lesion with posterior soft-tissue extension, elevated ESR, absence of fever, and young age is consistent with vertebral osteomyelitis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The chronicity of the skin infections, the osteolytic lesion with posterior soft-tissue extension, elevated ESR, absence of fever, and young age all support the diagnosis of vertebral osteomyelitis secondary to *Staphylococcus aureus*."
+        }
+      ]
+    }
+  ]
+}

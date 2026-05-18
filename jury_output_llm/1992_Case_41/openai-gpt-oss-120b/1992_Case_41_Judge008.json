@@ -1,0 +1,128 @@
+{
+  "case": "1992 Case 41__openai-gpt-oss-120b.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T00:24:49.250206+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23216,
+          23458
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling concordance is between the murmur’s acoustic characteristics (harsh, long systolic ejection, radiation to apex) and a left‑sided outflow obstruction, most commonly **valvar aortic stenosis** due to a bicuspid aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          4459,
+          4765
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis must integrate (1) the hemodynamic implications of a systolic ejection murmur in a toddler, (2) the significance of systemic hypertension in the setting of chronic obstructive uropathy, and (3) the possibility of an underlying syndrome that links renal and cardiac malformations."
+    },
+    {
+      "ranges": [
+        [
+          7552,
+          7703
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The murmur is also a harsh systolic ejection murmur, often louder at the left sternal border and sometimes radiating to the apex, similar to valvar AS."
+    },
+    {
+      "ranges": [
+        [
+          7705,
+          7806
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Subvalvar obstruction may progress over months to years, explaining the increase in murmur intensity."
+    },
+    {
+      "ranges": [
+        [
+          23460,
+          23684
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of systemic hypertension is readily explained by chronic obstructive uropathy with renin‑angiotensin activation, and the hypertension may be contributing to the LV pressure load, thereby accentuating the murmur."
+    },
+    {
+      "ranges": [
+        [
+          18160,
+          18289
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The murmur’s characteristics are more consistent with aortic stenosis, which can be seen in prune‑belly but is not pathognomonic."
+    },
+    {
+      "ranges": [
+        [
+          23686,
+          23993
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The right‑ventricular conduction delay on ECG, while atypical for isolated AS, could represent a mild, secondary effect of a modestly increased pulmonary flow (e.g., from a small, restrictive VSD or a small ASD that has not been clinically evident) or simply a variant of normal conduction in a young child."
+    },
+    {
+      "ranges": [
+        [
+          5244,
+          5339
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The valve leaflets are malformed, leading to turbulent systolic flow across the aortic orifice."
+    },
+    {
+      "ranges": [
+        [
+          15924,
+          16113
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Persistent pressure overload can induce concentric LV hypertrophy, which may manifest as a systolic ejection murmur (flow murmur) due to increased ejection velocity across the aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          25433,
+          25838
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Echocardiography** – A comprehensive transthoracic study is essential to (a) confirm the presence, morphology, and severity of aortic valve stenosis, (b) assess valve leaflet number (bicuspid vs tricuspid), (c) measure peak and mean gradients, (d) evaluate LV wall thickness and function, (e) look for associated lesions (ASD, VSD, subaortic membrane), and (f) quantify any secondary pulmonary hypertensio"
+    },
+    {
+      "ranges": [
+        [
+          27969,
+          28157
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Recognizing the coexistence of renal‑derived hypertension is essential because it may hasten the progression of LV pressure overload and influence the timing of any interventional therapy."
+    }
+  ]
+}

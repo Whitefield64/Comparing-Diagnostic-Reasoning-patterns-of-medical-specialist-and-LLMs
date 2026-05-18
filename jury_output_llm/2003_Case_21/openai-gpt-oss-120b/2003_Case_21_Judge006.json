@@ -1,0 +1,62 @@
+{
+  "case": "2003 Case 21__openai-gpt-oss-120b.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T05:36:02.164614+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          12956,
+          13294
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential therefore must encompass a spectrum of arterial pathologies that can produce multifocal vertebro‑basilar ischemia, ranging from “common” atherosclerotic disease to immune‑mediated vasculitis and hypercoagulable states, as well as rarer entities such as arterial dissection, embolic sources, and paraneoplastic thrombosis."
+    },
+    {
+      "ranges": [
+        [
+          13881,
+          14362
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Atherosclerosis is the leading cause of ischemic stroke in patients over 65 years.  In the posterior circulation, progressive intimal thickening, plaque formation, and luminal narrowing of the vertebral arteries and the basilar artery predispose to two principal mechanisms of infarction: (1) hemodynamic insufficiency when stenoses become critical, especially during periods of reduced perfusion pressure; and (2) artery‑to‑artery embolization from ulcerated or thrombosed plaques"
+    },
+    {
+      "ranges": [
+        [
+          17933,
+          18118
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the presence of systemic inflammation, autoantibodies, and the non‑calcified nature of the lesions suggests that atherosclerosis is likely **augmented by an inflammatory vasculopathy**."
+    },
+    {
+      "ranges": [
+        [
+          28996,
+          29316
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "he co‑presence of a high‑titer antiphospholipid antibody profile and the background of atherosclerotic changes makes it difficult to isolate PACNS as the sole driver.  The most plausible scenario is **a primary CNS vasculitis superimposed on atherosclerotic vertebral disease, with APS acting as a pro‑thrombotic amplifi"
+    },
+    {
+      "ranges": [
+        [
+          21251,
+          21578
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "APS can certainly explain the recurrent arterial strokes.  However, the presence of vessel‑wall irregularities, elevated CRP, and a positive ANCA point toward a **combined process** – either secondary APS associated with an underlying systemic vasculitis, or a primary APS co‑existing with a non‑infectious inflammatory arterio"
+    }
+  ]
+}

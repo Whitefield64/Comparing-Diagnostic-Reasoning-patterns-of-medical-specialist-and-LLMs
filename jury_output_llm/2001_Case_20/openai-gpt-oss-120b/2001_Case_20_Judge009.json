@@ -1,0 +1,95 @@
+{
+  "case": "2001 Case 20__openai-gpt-oss-120b.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T03:59:40.962535+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23982,
+          24217
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **most compelling working diagnosis** is **subacute infective endocarditis caused by *Moraxella phenylpyruvica***, with the ulcerated atherosclerotic plaque serving either as a secondary nidus or as a conduit for bacterial seeding."
+    },
+    {
+      "ranges": [
+        [
+          31185,
+          31546
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **preponderance of evidence** points toward a **low‑grade, subacute infective process involving the cardiovascular system**, most plausibly **infective endocarditis caused by *Moraxella phenylpyruvica***, with the **ulcerated atherosclerotic plaque** acting either as the primary nidus or as a conduit that facilitated bacterial seeding of the aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          29580,
+          29816
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If infective endocarditis is confirmed**:  \n   - Continue **intravenous cefuroxime** (or switch to a **beta‑lactam/beta‑lactamase inhibitor** such as **piperacillin‑tazobactam**) for a minimum of **4–6 weeks**, guided by repeat blood cu"
+    },
+    {
+      "ranges": [
+        [
+          30114,
+          30403
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If infected aortic plaque (infective aortitis) is the primary source**:  \n   - **Prolonged intravenous β‑lactam therapy** (≥6 weeks) is required; cefuroxime penetrates the aortic wall reasonably well, but **high‑dose ceftriaxone** or a **carbapenem** could be considered for better tissue "
+    },
+    {
+      "ranges": [
+        [
+          27427,
+          27805
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s temperature normalized after 48 h of cefuroxime, suggesting **adequate antimicrobial activity**.  However, **persistent low‑grade bacteremia (culture positive on day 6)** raises the possibility that the antibiotic penetrates poorly into the **avascular plaque or micro‑vegetations**, or that the bacterial load within the plaque is **protected by a fibrin matrix**"
+    },
+    {
+      "ranges": [
+        [
+          25361,
+          25634
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The transesophageal echo demonstrated **moderate atheromatous disease with an ulcerated plaque**.  Ulceration exposes the subendothelial matrix (collagen, fibronectin) and releases tissue factor, promoting platelet aggregation and a local inflammatory milieu rich in fibrin"
+    },
+    {
+      "ranges": [
+        [
+          32295,
+          32513
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The **secondary hypotheses** (infected aortic plaque without valve involvement, latent TB, occult malignancy) remain plausible but are **less consistent** with the microbiologic data and the rapid therapeutic response."
+    },
+    {
+      "ranges": [
+        [
+          32532,
+          32737
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "he **working diagnosis** should be articulated as:\n\n> **Subacute infective endocarditis due to *Moraxella phenylpyruvica* with probable involvement of an ulcerated thoracic aortic atherosclerotic plaque.**"
+    }
+  ]
+}

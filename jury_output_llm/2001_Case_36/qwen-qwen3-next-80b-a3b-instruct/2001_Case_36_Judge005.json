@@ -1,0 +1,150 @@
+{
+  "case": "2001 Case 36__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T04:51:49.074700+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6490,
+          6730
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate consideration is **opportunistic pulmonary infection**, particularly given his history of *Pneumocystis jirovecii* pneumonia (formerly *carinii*) on at least two prior occasions, and his current immunosuppressive regimen."
+    },
+    {
+      "ranges": [
+        [
+          16872,
+          17272
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The top three diagnostic possibilities are: (1) *Pneumocystis jirovecii* pneumonia, given his history, current prophylaxis status, and immunosuppressive regimen; (2) an acute flare of antisynthetase syndrome-related organizing pneumonia, triggered by steroid tapering; and (3) viral pneumonia, particularly influenza or RSV, given the prodromal upper respiratory symptoms and immunocompromised state."
+    },
+    {
+      "ranges": [
+        [
+          6007,
+          6290
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "His immune status is uniquely compromised by a triad of factors: chronic high-dose corticosteroid therapy, chronic immunosuppression with cyclosporine and prior cyclophosphamide, and underlying diabetes mellitus with its attendant defects in neutrophil function and mucosal immunity."
+    },
+    {
+      "ranges": [
+        [
+          7810,
+          8005
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The recent reduction in trimethoprim–sulfamethoxazole prophylaxis and the taper of prednisone from 15 mg to 5 mg likely created a window of relative immunosuppression sufficient for reactivation."
+    },
+    {
+      "ranges": [
+        [
+          8006,
+          8147
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A bronchoalveolar lavage (BAL) with PCR and immunofluorescence for *P. jirovecii* is imperative, even if the patient appears only mildly ill."
+    },
+    {
+      "ranges": [
+        [
+          9500,
+          9591
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A multiplex PCR panel on nasal swab and BAL fluid is essential to rule out viral pathogens."
+    },
+    {
+      "ranges": [
+        [
+          17535,
+          17673
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The critical next step is bronchoscopy with BAL for cell count, culture, PCR for *P. jirovecii*, viral panel, fungal stains, and cytology."
+    },
+    {
+      "ranges": [
+        [
+          18164,
+          18315
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The challenge lies in the fact that this patient’s immune system is so profoundly altered that the usual clinical and radiographic cues are unreliable."
+    },
+    {
+      "ranges": [
+        [
+          7365,
+          7633
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of hypoxemia (SaO₂ 98%) is atypical for severe *P. jirovecii*, but this patient has significant baseline restrictive and obstructive lung disease from prior organizing pneumonia and diffuse alveolar damage, which may blunt the expected degree of hypoxemia."
+    },
+    {
+      "ranges": [
+        [
+          7021,
+          7364
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The classic radiographic appearance of *P. jirovecii* is bilateral, symmetric, perihilar interstitial infiltrates, often with a “ground-glass” pattern, but in immunocompromised hosts with prolonged disease or prior lung injury, it may present with patchy, linear, or consolidative opacities that mimic other pneumonias or organizing pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          13528,
+          13725
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "his patient has had multiple prior episodes of organizing pneumonia, and the current lesion may be a recurrence of the same process, triggered by immunosuppression withdrawal rather than infection."
+    },
+    {
+      "ranges": [
+        [
+          11980,
+          12059
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of fever, cough, and dyspnea in this context is highly suspicious."
+    },
+    {
+      "ranges": [
+        [
+          12158,
+          12333
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient’s history of prior *P. jirovecii* and bacterial sepsis suggests repeated exposure to healthcare environments, increasing the risk of nosocomial fungal acquisition."
+    }
+  ]
+}

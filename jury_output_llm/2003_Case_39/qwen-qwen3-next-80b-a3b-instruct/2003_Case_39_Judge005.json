@@ -1,0 +1,106 @@
+{
+  "case": "2003 Case 39__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T06:39:52.201891+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          16501,
+          16963
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) urothelial carcinoma, given the classic presentation of painless gross hematuria, bladder mass, and age-appropriate risk profile; (2) urachal adenocarcinoma, due to the dome location and the potential for misdiagnosis as urothelial carcinoma; and (3) granulomatous cystitis, particularly tuberculosis, given the patient’s origin in Hong Kong, chronicity of symptoms, weight loss, and lack of response to antibiotics."
+    },
+    {
+      "ranges": [
+        [
+          5734,
+          6052
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of fever, flank pain, or systemic signs of infection, combined with normal renal function, normal imaging of the upper urinary tract, and the lack of classic urinary tract infection (UTI) features—despite the presence of bacteria in the urine—suggests that the hematuria is not merely infectious in origin."
+    },
+    {
+      "ranges": [
+        [
+          17078,
+          17316
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The nonenhancing nature of the mass on CT and the presence of mixed bacteria in urine culture suggest a process that is either necrotic, fibrotic, or chronically inflamed, all of which can be seen in malignant or granulomatous conditions."
+    },
+    {
+      "ranges": [
+        [
+          17392,
+          17620
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The differential will be definitively resolved by biopsy, which will distinguish between epithelial malignancy (urothelial or adenocarcinoma), granulomatous inflammation (TB or fungal), or rare entities like lymphoma or sarcoma."
+    },
+    {
+      "ranges": [
+        [
+          17824,
+          18053
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The possibility of tuberculosis must not be overlooked in this patient’s demographic context and must be actively ruled out with acid-fast staining, culture, and possibly PCR for Mycobacterium tuberculosis on the biopsy specimen."
+    },
+    {
+      "ranges": [
+        [
+          17637,
+          17823
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the clinical picture strongly favors a neoplastic etiology, with urothelial carcinoma as the most probable diagnosis, followed closely by urachal adenocarcinoma due to the dome location."
+    },
+    {
+      "ranges": [
+        [
+          16964,
+          17077
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Eosinophilic cystitis and vasculitis are less likely but should be considered if biopsy results are inconclusive."
+    },
+    {
+      "ranges": [
+        [
+          15455,
+          15633
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that cystoscopy was initially unsuccessful but later revealed the mass suggests that the clots may have obscured the view initially—a common scenario in acute hematuria."
+    },
+    {
+      "ranges": [
+        [
+          15635,
+          15761
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s serologic history of hepatitis B infection (anti-HBc positive, HBsAg negative, low-level HBV DNA) is intriguing."
+    }
+  ]
+}

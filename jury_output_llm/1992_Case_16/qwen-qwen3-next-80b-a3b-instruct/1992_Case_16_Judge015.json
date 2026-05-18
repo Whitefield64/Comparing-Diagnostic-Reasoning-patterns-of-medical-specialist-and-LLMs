@@ -1,0 +1,106 @@
+{
+  "case": "1992 Case 16__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T00:12:35.944999+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5568,
+          5744
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnostic considerations must be grouped into four major categories: infectious, neoplastic, inflammatory/autoimmune, and rare degenerative or vascular etiologies."
+    },
+    {
+      "ranges": [
+        [
+          6308,
+          6452
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The vertebral body is a known site for hematogenous spread of infection, particularly in young adults with a history of skin or nail infections."
+    },
+    {
+      "ranges": [
+        [
+          6622,
+          6752
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The organism can seed the vertebrae via transient bacteremia, particularly in individuals with repeated microtrauma to the digits."
+    },
+    {
+      "ranges": [
+        [
+          9570,
+          9731
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most likely primary bone tumor in this age group is Ewing sarcoma, which typically affects the spine, pelvis, and long bones in adolescents and young adults."
+    },
+    {
+      "ranges": [
+        [
+          10020,
+          10114
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The CT findings of an osteolytic lesion with a soft-tissue mass are classic for Ewing sarcoma."
+    },
+    {
+      "ranges": [
+        [
+          10115,
+          10229
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The MRI signal characteristics (abnormal signal in the vertebral body with disk preservation) are also consistent."
+    },
+    {
+      "ranges": [
+        [
+          10230,
+          10335
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The elevated ESR is a common finding in Ewing sarcoma due to the inflammatory response to tumor necrosis."
+    },
+    {
+      "ranges": [
+        [
+          18686,
+          19009
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s history of recurrent skin infections makes the infectious etiology the most compelling, and the fact that she was given dexamethasone (which may be used to reduce spinal cord edema) and codeine (for pain) suggests the clinical team is already leaning toward a compressive lesion requiring urgent intervention."
+    },
+    {
+      "ranges": [
+        [
+          19010,
+          19154
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The diagnostic procedure performed—likely a biopsy via posterior approach or percutaneous needle biopsy—will be the key to definitive diagnosis."
+    }
+  ]
+}

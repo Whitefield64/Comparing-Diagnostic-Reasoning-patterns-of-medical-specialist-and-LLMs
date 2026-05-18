@@ -1,0 +1,216 @@
+{
+  "case": "1990 Case 19__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-17T22:36:31.226891+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8616,
+          8788
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical presentation of this 12-year-old boy with a long travel history and a hepatic mass is complex and multifaceted, suggesting a wide range of potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          8789,
+          9008
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "To approach this case, it is essential to consider various categories of diseases, including malignant, infectious, inflammatory, structural, gynecologic (although less relevant in this case), systemic, and rare causes."
+    },
+    {
+      "ranges": [
+        [
+          9709,
+          9851
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pathophysiology of hepatoblastoma involves the uncontrolled proliferation of liver cells, which can lead to the formation of a large mass."
+    },
+    {
+      "ranges": [
+        [
+          9169,
+          9320
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Hepatoblastoma, a rare liver cancer that primarily affects children, could be a consideration given the patient's age and the presence of a liver mass."
+    },
+    {
+      "ranges": [
+        [
+          9330,
+          9470
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the absence of other specific symptoms such as abdominal pain or jaundice makes this diagnosis less likely, although not entirely ruled out."
+    },
+    {
+      "ranges": [
+        [
+          10229,
+          10402
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Infectious causes are a significant consideration given the patient's extensive travel history, which includes visits to areas with potential exposures to various pathogens."
+    },
+    {
+      "ranges": [
+        [
+          10403,
+          10584
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's symptoms of fever, fatigue, and weight loss, along with the finding of a hepatic mass, could suggest an infectious process such as an abscess or a parasitic infection."
+    },
+    {
+      "ranges": [
+        [
+          12326,
+          12498
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pathophysiology of giardiasis involves the infection of the small intestine by Giardia lamblia, leading to symptoms such as diarrhea, abdominal cramps, and weight loss."
+    },
+    {
+      "ranges": [
+        [
+          13905,
+          14030
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's laboratory results, including the liver function tests, are not consistent with primary sclerosing cholangitis."
+    },
+    {
+      "ranges": [
+        [
+          11338,
+          11607
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's travel history and the presence of a hepatic mass also raise the possibility of other infectious causes such as amoebic liver abscess, especially given the initial negative ELISA for anti-amebal antibodies, which does not entirely rule out this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          15805,
+          15986
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pathophysiology of sarcoidosis involves the formation of granulomas in various organs, including the liver, which can lead to chronic inflammation and potentially organ failure."
+    },
+    {
+      "ranges": [
+        [
+          16725,
+          16909
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the information provided, the leading diagnosis or diagnoses are challenging to pinpoint without further investigation, including histopathological examination of the liver mass."
+    },
+    {
+      "ranges": [
+        [
+          16910,
+          17120
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, based on the clinical presentation, travel history, and imaging findings, an infectious or parasitic cause, such as echinococcosis (hydatid disease), seems plausible and warrants further consideration."
+    },
+    {
+      "ranges": [
+        [
+          17121,
+          17273
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of a well-defined, large hepatic mass with cystic and solid components, as described on imaging studies, is consistent with this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          21301,
+          21445
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's symptoms, including fever, fatigue, and weight loss, are non-specific and can be seen in various infectious or parasitic diseases."
+    },
+    {
+      "ranges": [
+        [
+          21446,
+          21587
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's travel history, including visits to endemic areas, increases the risk for certain parasitic infections, such as echinococcosis."
+    },
+    {
+      "ranges": [
+        [
+          21589,
+          21826
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The management of the patient would depend on the definitive diagnosis. If echinococcosis is confirmed, the patient would require a combination of surgical intervention, antiparasitic medication, and careful monitoring for complications."
+    },
+    {
+      "ranges": [
+        [
+          20001,
+          20162
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The diagnostic approach should also consider the patient's laboratory results, including the liver function tests, complete blood count, and coagulation studies."
+    },
+    {
+      "ranges": [
+        [
+          19818,
+          19999
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's prognosis and management would depend on the definitive diagnosis, highlighting the importance of accurate diagnosis in guiding therapy and improving patient outcomes."
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "case": "1996 Case 14__openai-gpt-oss-120b.md",
+  "exported_at": "2026-05-18T02:27:38.693264+00:00",
+  "n_voters": 15,
+  "n_successful": 12,
+  "n_failed": 3,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had Staphylococcal Scalded Skin Syndrome (SSSS), we would expect to see a lack of mucosal involvement and a positive Nikolsky sign with a superficial split, which is not the case here."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The SCORTEN score, which incorporates age >40 y, malignancy, >10 % BSA detachment, serum urea >10 mmol/L, glucose >14 mmol/L, and bicarbonate <20 mmol/L, predicts a mortality >50 %, consistent with the outcome."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, and the clinical presentation is consistent with TEN."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of skin involvement, with extensive epidermal detachment and mucosal ulceration, is typical of toxic epidermal necrolysis (TEN) and is consistent with the diagnosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary drug-induced TEN, given the temporal relationship between the drug exposure and the onset of the skin lesions."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The presence of septate hyphae in sputum, combined with the patient's immunosuppressed state and receipt of broad-spectrum antibiotics, raises the probability of invasive pulmonary aspergillosis, although the lack of confirmatory cultures or serum galactomannan renders the diagnosis uncertain."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The clinical presentation of this patient, with extensive epidermal detachment and systemic complications, is reminiscent of previous cases of TEN, and the diagnosis is supported by the similarity to these cases."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The SCORTEN score, which incorporates age >40 y, malignancy, >10 % BSA detachment, serum urea >10 mmol/L, glucose >14 mmol/L, and bicarbonate <20 mmol/L, predicts a mortality >50 %."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first consider the primary dermatologic process, then the spectrum of infectious and non‑infectious complications, and finally the contributory role of comorbidities and administered agents."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, confirming the diagnosis of TEN."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of skin involvement, with extensive epidermal detachment and mucosal ulceration, is typical of toxic epidermal necrolysis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The presence of septate hyphae in sputum, given the patient’s immunosuppressed state and broad-spectrum antibiotic exposure, raises the probability of invasive pulmonary aspergillosis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "This case reminds me of similar patients with severe cutaneous adverse reactions, where early recognition and management of the underlying condition, along with supportive care, can significantly impact outcomes."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had Staphylococcal Scalded Skin Syndrome, we would expect to see a lack of mucosal involvement and a positive Nikolsky sign with a superficial split, but the presence of mucosal ulceration and histology showing full‑thickness necrosis argue strongly against SSSS."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The SCORTEN score, which incorporates age >40 y, malignancy, >10 % BSA detachment, serum urea >10 mmol/L, glucose >14 mmol/L, and bicarbonate <20 mmol/L, predicts a mortality >50 %, consistent with the outcome."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, but in this case, the primary diagnosis is **drug‑induced toxic epidermal necrolysis**, and the subsequent complications, including Gram‑negative sepsis and possible invasive pulmonary aspergillosis, are prioritized."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not mentioned, but the clinical presentation and biopsy results validate the diagnosis of **drug‑induced toxic epidermal necrolysis**."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of widespread epidermal necrosis, mucosal involvement, and systemic toxicity matches the description of toxic epidermal necrolysis, particularly when considering the temporal relationship to vancomycin and methotrexate exposure."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is **drug‑induced toxic epidermal necrolysis**, given the clinical presentation and the presence of high‑risk medications, although I am troubled by the complexity of the case and the multitude of potential contributing factors."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of **drug‑induced toxic epidermal necrolysis** is very high, given the temporal relationship to vancomycin and methotrexate, the extent of epidermal detachment, and the presence of mucosal involvement, while the probability of other diagnoses, such as Staphylococcal Scalded Skin Syndrome, is very low."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "This case reminds me of previous cases of toxic epidermal necrolysis, where the diagnosis was established based on the clinical presentation, biopsy results, and temporal relationship to high‑risk medications, and the outcome was often fatal due to secondary complications, such as sepsis and multi‑organ failure."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of widespread epidermal detachment, mucosal involvement, and biopsy findings is typical of toxic epidermal necrolysis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present in the provided text, however, the following text can be annotated: The presence of mucosal ulceration and histologic confirmation of epidermal necrosis argue against Staphylococcal or Streptococcal Toxic Shock‑Like Syndromes with Exfoliative Dermatitis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The combination of massive epidermal loss, fluid/electrolyte derangements, respiratory compromise, and multi‑organ dysfunction culminated in a fatal outcome, which raises the probability of a poor prognosis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s clinical course was complicated by multiple documented infections, similar to other cases of toxic epidermal necrolysis."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain is not present in the provided text, however, the following text can be annotated: The presence of a positive Nikolsky sign and subepidermal detachment on histology is not characteristic of vasculitis, but the clinical morphology – The rash covered ≈85 % BSA, with confluent epidermal sloughing, positive Nikolsky sign, and mucosal involvement (oral, pharyngeal, conjunctival) – is consistent with toxic epidermal necrolysis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not present in the provided text, however, the following text can be annotated: We must first identify the primary cutaneous process, then determine the inciting drug, assess for infection, evaluate for fungal involvement, and screen for other organ-specific complications."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had Staphylococcal Scalded Skin Syndrome (SSSS), we would expect to see a lack of mucosal involvement and a positive Nikolsky sign with a superficial split, which is not the case here."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The SCORTEN score, which incorporates age >40 y, malignancy, >10 % BSA detachment, serum urea >10 mmol/L, glucose >14 mmol/L, and bicarbonate <20 mmol/L, predicts a mortality >50 % in this patient."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The presence of mucosal ulceration, conjunctival injection, and histology showing full‑thickness necrosis argue strongly against Staphylococcal Scalded Skin Syndrome (SSSS)."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of widespread epidermal loss, mucosal involvement, and systemic toxicity is typical of toxic epidermal necrolysis (TEN)."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is **drug‑induced toxic epidermal necrolysis**, given the temporal relationship between drug exposure and the onset of skin lesions."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of drug‑induced TEN is high given the patient's exposure to vancomycin, a known high‑risk medication, and the presence of mucosal ulceration and full‑thickness epidermal necrosis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "This case is reminiscent of previously reported cases of toxic epidermal necrolysis (TEN) triggered by vancomycin, which suggests a similar pathophysiological mechanism."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of full‑thickness epidermal necrosis with subepidermal detachment, minimal dermal inflammation is consistent with TEN."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had Staphylococcal Scalded Skin Syndrome (SSSS), we would expect to see a lack of mucosal involvement and a positive Nikolsky sign with a superficial split, but the patient’s mucosal ulceration, conjunctival injection, and histology showing full‑thickness necrosis argue strongly against SSSS."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The SCORTEN score, which incorporates age >40 y, malignancy, >10 % BSA detachment, serum urea >10 mmol/L, glucose >14 mmol/L, and bicarbonate <20 mmol/L, predicts a mortality >50 %, consistent with the outcome."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but in this case, the biopsy confirmed TEN, and the clinical presentation is consistent with this diagnosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of widespread erythema, bullae, and mucosal involvement is typical of toxic epidermal necrolysis (TEN), and the patient’s presentation is consistent with this diagnosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, but the clinicians likely had a high index of suspicion for drug-induced TEN given the patient’s medication history and clinical presentation."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the patient’s extensive comorbidities, including chronic kidney disease and diabetes, and the administration of multiple high-risk medications, the probability of drug-induced TEN is very high, and the subsequent development of Gram-negative sepsis further increases the likelihood of a fatal outcome."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s clinical course is reminiscent of previously reported cases of drug-induced TEN, where the inciting drug triggers a severe cutaneous adverse reaction, leading to extensive epidermal loss and subsequent systemic complications."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 10,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had Staphylococcal Scalded Skin Syndrome (SSSS), we would expect to see a lack of mucosal involvement and a positive Nikolsky sign with a superficial split, which is not the case here."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The SCORTEN score, which incorporates age >40 y, malignancy, >10 % BSA detachment, serum urea >10 mmol/L, glucose >14 mmol/L, and bicarbonate <20 mmol/L, predicts a mortality >50 % in this patient."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out other life-threatening conditions such as sepsis, toxic shock syndrome, and necrotizing fasciitis before considering less serious diagnoses."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, supporting the diagnosis of drug-induced TEN."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of widespread epidermal necrosis, mucosal involvement, and systemic toxicity is typical of toxic epidermal necrolysis (TEN), which is a severe cutaneous adverse reaction."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, however the clinician’s intuition is that the patient’s presentation is more consistent with drug-induced TEN."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the patient’s age, chronic kidney disease, and exposure to vancomycin, the probability of drug-induced TEN is very high, and the presence of mucosal involvement and systemic toxicity further increases this probability."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "This case is reminiscent of previously reported cases of drug-induced TEN, where the patients had similar risk factors, such as older age, chronic kidney disease, and exposure to high-risk medications like vancomycin."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The presence of a positive Nikolsky sign and subepidermal detachment on histology is not characteristic of vasculitis, but rather supports the diagnosis of TEN."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Another disease to consider is autoimmune bullous dermatosis, such as pemphigus or bullous pemphigoid, although the clinical presentation and histopathology are not consistent with these diagnoses."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 11,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If vancomycin is the cause of TEN, we would expect to see a temporal relationship between vancomycin exposure and the onset of skin lesions."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The SCORTEN score, which incorporates age >40 y, malignancy, >10 % BSA detachment, serum urea >10 mmol/L, glucose >14 mmol/L, and bicarbonate <20 mmol/L, predicts a mortality >50 %."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, and the clinical presentation is consistent with TEN."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of widespread epidermal necrosis, mucosal involvement, and systemic toxicity is typical of toxic epidermal necrolysis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the patient’s age, comorbidities, and exposure to high-risk medications, the probability of drug-induced TEN is very high."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out other life-threatening conditions such as sepsis, toxic shock syndrome, and necrotizing fasciitis before considering TEN."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is drug-induced toxic epidermal necrolysis, given the patient’s presentation and history."
+        },
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "The differential diagnosis must address three overarching domains: (1) the primary dermatologic process responsible for the massive epidermal loss; (2) the spectrum of infectious and non‑infectious complications that can mimic or accompany TEN; and (3) the contributory role of the patient’s extensive comorbidities and the multitude of administered agents."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 10,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had Staphylococcal Scalded Skin Syndrome (SSSS), we would expect to see a lack of mucosal involvement and a positive Nikolsky sign with a superficial split, but in this patient, mucosal ulceration, conjunctival injection, and histology showing full‑thickness necrosis argue strongly against SSSS."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The SCORTEN score, which incorporates age >40 y, malignancy, >10 % BSA detachment, serum urea >10 mmol/L, glucose >14 mmol/L, and bicarbonate <20 mmol/L, predicts a mortality >50 %, consistent with the outcome."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of widespread erythema, edema, and sterile pustules, often accompanied by fever and leukocytosis, is typical of Generalized Pustular Psoriasis (Von Zumbusch Type), but the absence of pustules, the presence of bullae, and histology inconsistent with neutrophilic spongiform pustules exclude this diagnosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of widespread epidermal detachment, mucosal involvement, and systemic signs is typical of toxic epidermal necrolysis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present in this text, however the phrase 'The most defensible primary diagnosis in this patient is **drug‑induced toxic epidermal necrolysis**' could be considered an intuition."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of drug-induced TEN given the presence of vancomycin and methotrexate is high, given the known association of these drugs with TEN."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The clinical presentation and course of this patient are reminiscent of previously reported cases of toxic epidermal necrolysis."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "The possibility of an autoimmune mechanism, such as a drug-induced lupus, should also be considered, although the clinical and histological findings are not typical of this condition."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The presence of a positive Nikolsky sign and subepidermal detachment on histology is not characteristic of vasculitis, but rather of toxic epidermal necrolysis."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had Staphylococcal Scalded Skin Syndrome (SSSS), we would expect to see a lack of mucosal involvement and a positive Nikolsky sign with a superficial split, which is not the case here."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The SCORTEN score, which incorporates age >40 y, malignancy, >10 % BSA detachment, serum urea >10 mmol/L, glucose >14 mmol/L, and bicarbonate <20 mmol/L, predicts a mortality >50 %, consistent with the outcome."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The primary dermatologic process responsible for the massive epidermal loss must be addressed first, followed by the spectrum of infectious and non‑infectious complications that can mimic or accompany TEN."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, supporting the diagnosis of drug-induced TEN."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of widespread epidermal detachment, mucosal involvement, and systemic symptoms is typical of toxic epidermal necrolysis (TEN), a severe cutaneous adverse reaction."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, but the clinician's intuition is that the patient's presentation is most consistent with drug-induced TEN."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the patient's age, chronic renal failure, and ongoing immunosuppression, the probability of drug-induced TEN is very high, and the presence of vancomycin as a potential trigger increases this probability."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient's clinical presentation and course are reminiscent of previously reported cases of drug-induced TEN, particularly those involving vancomycin, which supports this diagnosis."
+        }
+      ]
+    }
+  ]
+}

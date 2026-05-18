@@ -1,0 +1,84 @@
+{
+  "case": "1999 Case 06__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T02:54:21.321067+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9034,
+          9225
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnosis in this context is **Takayasu arteritis (TA)**, a large-vessel vasculitis that predominantly affects young women, particularly of Asian or Mediterranean descent."
+    },
+    {
+      "ranges": [
+        [
+          15896,
+          16069
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most parsimonious diagnosis, integrating all elements, is **relapsing polychondritis with superimposed fibromuscular dysplasia and steroid-induced cushingoid features**."
+    },
+    {
+      "ranges": [
+        [
+          10213,
+          10381
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Alternatively, these findings could represent a manifestation of **sarcoidosis** or **relapsing polychondritis**, both of which can involve the eye and the vasculature."
+    },
+    {
+      "ranges": [
+        [
+          6297,
+          6520
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hypokalemia, metabolic alkalosis (elevated CO2), and renal artery stenosis point to a renin-angiotensin-aldosterone system (RAAS) activation, most likely secondary to fibromuscular dysplasia (FMD) of the renal arteries."
+    },
+    {
+      "ranges": [
+        [
+          12611,
+          12833
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The diagnostic criteria (McAdam’s criteria) include bilateral auricular chondritis, nasal chondritis, ocular inflammation, respiratory tract chondritis, cochlear or vestibular dysfunction, and histopathologic confirmation."
+    },
+    {
+      "ranges": [
+        [
+          7892,
+          8004
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of skeletal deformities (e.g., pectus excavatum, scoliosis) further argues against classical Marfan."
+    },
+    {
+      "ranges": [
+        [
+          9626,
+          9700
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The elevated ESR and leukocytosis are consistent with active inflammation."
+    }
+  ]
+}

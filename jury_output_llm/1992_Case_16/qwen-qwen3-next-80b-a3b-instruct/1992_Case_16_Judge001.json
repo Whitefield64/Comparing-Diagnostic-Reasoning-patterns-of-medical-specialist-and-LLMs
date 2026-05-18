@@ -1,0 +1,150 @@
+{
+  "case": "1992 Case 16__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-17T23:57:58.258418+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5568,
+          5744
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnostic considerations must be grouped into four major categories: infectious, neoplastic, inflammatory/autoimmune, and rare degenerative or vascular etiologies."
+    },
+    {
+      "ranges": [
+        [
+          5191,
+          5356
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the anterior half of the C4–5 disk space has normal signal on MRI suggests the pathology is primarily osseous and posteriorly directed, not discogenic."
+    },
+    {
+      "ranges": [
+        [
+          7011,
+          7209
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The preservation of the anterior disk space signal on MRI is also typical—osteomyelitis usually spares the disk initially, as it is avascular, and the infection spreads along the vascular endplates."
+    },
+    {
+      "ranges": [
+        [
+          6753,
+          6869
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The insidious onset over weeks, absence of fever, and elevated ESR are classic for subacute vertebral osteomyelitis."
+    },
+    {
+      "ranges": [
+        [
+          6870,
+          7010
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The osteolytic appearance on CT, with adjacent soft-tissue extension, is consistent with the destructive nature of staphylococcal infection."
+    },
+    {
+      "ranges": [
+        [
+          7777,
+          8028
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The possibility of *Mycobacterium tuberculosis* must also be considered, particularly in regions where TB is endemic, though the patient’s lack of systemic symptoms, normal chest X-ray, and absence of weight loss or night sweats make this less likely."
+    },
+    {
+      "ranges": [
+        [
+          17632,
+          17784
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "he data, the most likely diagnosis is **vertebral osteomyelitis secondary to *Staphylococcus aureus***, seeded from the chronic paronychia. The chronici"
+    },
+    {
+      "ranges": [
+        [
+          19476,
+          19635
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The elevated ESR and chronic infection history make infectious osteomyelitis the leading hypothesis, but malignancy cannot be ruled out without histopathology."
+    },
+    {
+      "ranges": [
+        [
+          19636,
+          19834
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case underscores the importance of considering both infectious and neoplastic causes in young patients with unexplained vertebral lesions, especially in the setting of a chronic skin infection."
+    },
+    {
+      "ranges": [
+        [
+          17613,
+          17771
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "When synthesizing the data, the most likely diagnosis is **vertebral osteomyelitis secondary to *Staphylococcus aureus***, seeded from the chronic paronychia."
+    },
+    {
+      "ranges": [
+        [
+          18026,
+          18141
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The neurologic deficit is due to epidural abscess or granulation tissue compressing the spinal cord or nerve roots."
+    },
+    {
+      "ranges": [
+        [
+          18512,
+          18685
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if granulomas with caseation are found, TB is confirmed; if small round blue cells with CD99 positivity, Ewing sarcoma; if neutrophils and bacteria, bacterial osteomyelitis."
+    },
+    {
+      "ranges": [
+        [
+          14984,
+          15106
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The fact that the lesion is solitary and associated with a soft-tissue mass makes CRMO less likely, though not impossible."
+    }
+  ]
+}

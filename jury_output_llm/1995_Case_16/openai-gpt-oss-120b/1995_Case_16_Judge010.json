@@ -1,0 +1,51 @@
+{
+  "case": "1995 Case 16__openai-gpt-oss-120b.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T01:21:45.130158+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28530,
+          29217
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic candidates are those that **simultaneously** account for:\n\n1. **Rapidly progressive biventricular dilatation with severe systolic dysfunction**, especially marked right‑ventricular involvement and severe tricuspid regurgitation.  \n2. **Frequent, refractory ventricular tachycardia** despite multiple anti‑arrhythmic agents, necessitating an ICD.  \n3. **Upper‑lobe dominant, peribronchovascular nodular lung disease** with mild hilar and mediastinal lymphadenopathy, but without cavitation or overt infection.  \n4. **Absence of systemic inflammatory markers** (normal ESR, normal WBC), normal serologies for HIV, syphilis, and negative fungal and acid‑fast "
+    },
+    {
+      "ranges": [
+        [
+          8511,
+          8661
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cardiac sarcoidosis can produce a dilated phenotype through extensive myocardial granulomatous infiltration, scarring, and loss of contractile tissue."
+    },
+    {
+      "ranges": [
+        [
+          35196,
+          35470
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "ardiac Sarcoidosis Is Confirmed  \n\n- **Immunosuppressive therapy**: High‑dose corticosteroids (e.g., prednisone 0.5–1 mg/kg/day) followed by a slow taper, possibly combined with steroid‑sparing agents (methotrexate, azathioprine, mycophenolate mofetil) to reduce recurrence."
+    },
+    {
+      "ranges": [
+        [
+          38007,
+          38209
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The next decisive steps involve obtaining tissue diagnosis from the lung (or mediastinal nodes) and employing advanced cardiac imaging modalities (MRI, FDG‑PET) to detect active myocardial inflammation."
+    }
+  ]
+}

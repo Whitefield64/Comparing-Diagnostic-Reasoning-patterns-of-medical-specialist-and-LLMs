@@ -1,0 +1,95 @@
+{
+  "case": "1999 Case 10__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T03:12:31.580200+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17280,
+          17561
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The combination of systemic vasculitis, renal failure, cortical blindness, and respiratory distress, alongside the skin and lymph node findings, points most strongly towards a diagnosis of a systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis."
+    },
+    {
+      "ranges": [
+        [
+          18657,
+          18809
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's history of smoking and the presence of *Helicobacter pylori* infection may also play a role in the development of the systemic vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          18094,
+          18330
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Systemic vasculitides, such as granulomatosis with polyangiitis or microscopic polyangiitis, are characterized by the deposition of immune complexes and the activation of neutrophils, leading to inflammation and damage to blood vessels."
+    },
+    {
+      "ranges": [
+        [
+          18464,
+          18655
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of ANCA in many cases of these conditions suggests an autoimmune mechanism, with the antibodies targeting neutrophil cytoplasmic antigens and triggering an inflammatory response."
+    },
+    {
+      "ranges": [
+        [
+          11921,
+          12055
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The use of methylprednisolone, a corticosteroid, suggests an empirical treatment approach for an inflammatory or autoimmune condition."
+    },
+    {
+      "ranges": [
+        [
+          15303,
+          15473
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's treatment with methylprednisolone and the initial response in terms of improved urinary output suggest that an inflammatory or autoimmune process is likely."
+    },
+    {
+      "ranges": [
+        [
+          12056,
+          12299
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The improvement in some of the patient's symptoms, such as the urinary output, and the lack of progression of others, could indicate a response to this treatment, further supporting the consideration of an autoimmune or inflammatory diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10876,
+          11292
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of lymphadenopathy, as indicated by the small left supraclavicular and axillary lymph nodes, and the mediastinal, hilar, and axillary lymphadenopathy seen on the CT scan of the chest, could suggest a malignant process, such as lymphoma. However, the absence of systemic symptoms like fever and weight loss, and the prominent inflammatory and vasculitic features, make this less likely as a primary diagn"
+    }
+  ]
+}

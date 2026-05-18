@@ -1,0 +1,40 @@
+{
+  "case": "2003 Case 21__openai-gpt-oss-120b.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T05:48:07.461331+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          12956,
+          13294
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential therefore must encompass a spectrum of arterial pathologies that can produce multifocal vertebro‑basilar ischemia, ranging from “common” atherosclerotic disease to immune‑mediated vasculitis and hypercoagulable states, as well as rarer entities such as arterial dissection, embolic sources, and paraneoplastic thrombosis."
+    },
+    {
+      "ranges": [
+        [
+          13881,
+          14362
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Atherosclerosis is the leading cause of ischemic stroke in patients over 65 years.  In the posterior circulation, progressive intimal thickening, plaque formation, and luminal narrowing of the vertebral arteries and the basilar artery predispose to two principal mechanisms of infarction: (1) hemodynamic insufficiency when stenoses become critical, especially during periods of reduced perfusion pressure; and (2) artery‑to‑artery embolization from ulcerated or thrombosed plaques"
+    },
+    {
+      "ranges": [
+        [
+          20166,
+          20336
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient’s INR was 1.7 (sub‑therapeutic) when new infarcts occurred, raising the question whether inadequate anticoagulation rather than APS per se allowed thrombosis."
+    }
+  ]
+}

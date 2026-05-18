@@ -1,0 +1,150 @@
+{
+  "case": "1992 Case 41__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T00:32:32.432082+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7560,
+          7731
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling consideration is right ventricular outflow tract obstruction due to pulmonary valve stenosis, possibly with associated dysplasia or annular hypoplasia."
+    },
+    {
+      "ranges": [
+        [
+          6682,
+          6750
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another possibility is a subaortic or supravalvular aortic stenosis."
+    },
+    {
+      "ranges": [
+        [
+          4479,
+          4658
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most prominent cardiac finding is a Grade 3, harsh, long systolic ejection murmur, loudest at the left midsternal border, radiating to the upper right sternal border and apex."
+    },
+    {
+      "ranges": [
+        [
+          7732,
+          7847
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The murmur’s harshness and duration suggest high-velocity turbulent flow, which is typical of significant stenosis."
+    },
+    {
+      "ranges": [
+        [
+          7848,
+          7974
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The conduction delay on ECG may reflect chronic right ventricular pressure overload, even in the absence of overt hypertrophy."
+    },
+    {
+      "ranges": [
+        [
+          5224,
+          5434
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "In pulmonary stenosis, one typically expects a delayed and diminished pulmonic component of S2, and often a palpable right ventricular lift or right ventricular hypertrophy on ECG, neither of which are present."
+    },
+    {
+      "ranges": [
+        [
+          6034,
+          6149
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the murmur is typically soft, mid-systolic, and best heard at the upper left sternal border, with a fixed split S2."
+    },
+    {
+      "ranges": [
+        [
+          5435,
+          5758
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The ECG shows only right ventricular conduction delay without hypertrophy, which is an important distinction: conduction delay can occur in chronic volume or pressure overload states, but the absence of voltage criteria for right ventricular hypertrophy suggests that any right heart strain is either mild or not yet struct"
+    },
+    {
+      "ranges": [
+        [
+          7975,
+          8170
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The chest radiograph shows increased pulmonary vasculature, which is inconsistent with severe pulmonary stenosis, as that would typically show decreased pulmonary vascularity due to reduced flow."
+    },
+    {
+      "ranges": [
+        [
+          12487,
+          12537
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The murmur does not suggest a conotruncal anomaly."
+    },
+    {
+      "ranges": [
+        [
+          13945,
+          14206
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "the mother’s history of repaired PDA and the sister’s recurrent respiratory infections may reflect a familial predisposition to connective tissue or developmental anomalies, perhaps a low-penetrance autosomal dominant condition affecting mesodermal development."
+    },
+    {
+      "ranges": [
+        [
+          9071,
+          9207
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another critical axis to explore is whether the cardiac findings are secondary to systemic disease, particularly chronic kidney disease."
+    },
+    {
+      "ranges": [
+        [
+          10644,
+          10817
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The possibility of cardiorenal syndrome must be entertained, but the murmur’s location and quality do not fit the typical findings of hypertensive heart disease in children."
+    }
+  ]
+}

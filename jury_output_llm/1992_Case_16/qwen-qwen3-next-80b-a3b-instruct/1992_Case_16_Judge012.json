@@ -1,0 +1,194 @@
+{
+  "case": "1992 Case 16__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T00:10:17.837210+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17641,
+          17771
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely diagnosis is **vertebral osteomyelitis secondary to *Staphylococcus aureus***, seeded from the chronic paronychia."
+    },
+    {
+      "ranges": [
+        [
+          18142,
+          18294
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The second most likely diagnosis is **Ewing sarcoma**, given the age, the solitary osteolytic lesion with soft-tissue mass, and the neurologic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          18371,
+          18480
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The third consideration is **tuberculosis**, though less likely without systemic signs or pulmonary findings."
+    },
+    {
+      "ranges": [
+        [
+          17772,
+          17934
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The chronicity of the skin infections, the osteolytic lesion with posterior soft-tissue extension, elevated ESR, absence of fever, and young age all support this."
+    },
+    {
+      "ranges": [
+        [
+          18026,
+          18141
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The neurologic deficit is due to epidural abscess or granulation tissue compressing the spinal cord or nerve roots."
+    },
+    {
+      "ranges": [
+        [
+          18512,
+          18685
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if granulomas with caseation are found, TB is confirmed; if small round blue cells with CD99 positivity, Ewing sarcoma; if neutrophils and bacteria, bacterial osteomyelitis."
+    },
+    {
+      "ranges": [
+        [
+          4692,
+          4927
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The absence of fever, systemic symptoms, or overt signs of infection, combined with an elevated erythrocyte sedimentation rate (ESR) of 50 mm/h, points toward an inflammatory or neoplastic process rather than acute bacterial infection."
+    },
+    {
+      "ranges": [
+        [
+          7302,
+          7515
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The fact that the patient had no systemic symptoms does not exclude infection; in fact, many cases of vertebral osteomyelitis present with pain as the sole symptom for weeks to months before systemic signs emerge."
+    },
+    {
+      "ranges": [
+        [
+          10032,
+          10121
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "ngs of an osteolytic lesion with a soft-tissue mass are classic for Ewing sarcoma. The MR"
+    },
+    {
+      "ranges": [
+        [
+          18686,
+          18786
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s history of recurrent skin infections makes the infectious etiology the most compelling"
+    },
+    {
+      "ranges": [
+        [
+          18481,
+          18685
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The biopsy will be diagnostic: if granulomas with caseation are found, TB is confirmed; if small round blue cells with CD99 positivity, Ewing sarcoma; if neutrophils and bacteria, bacterial osteomyelitis."
+    },
+    {
+      "ranges": [
+        [
+          7777,
+          8028
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The possibility of *Mycobacterium tuberculosis* must also be considered, particularly in regions where TB is endemic, though the patient’s lack of systemic symptoms, normal chest X-ray, and absence of weight loss or night sweats make this less likely."
+    },
+    {
+      "ranges": [
+        [
+          8285,
+          8517
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Fungal infections (e.g., *Candida*, *Aspergillus*) are exceedingly rare in immunocompetent hosts and would typically occur in the setting of prolonged antibiotic use, IV drug use, or immunosuppression—none of which are present here."
+    },
+    {
+      "ranges": [
+        [
+          8518,
+          8788
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The chronicity of the paronychia raises the question of whether the patient may have an underlying immunodeficiency, such as chronic granulomatous disease (CGD), which predisposes to recurrent staphylococcal skin and soft-tissue infections and can lead to osteomyelitis."
+    },
+    {
+      "ranges": [
+        [
+          5568,
+          5744
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The leading diagnostic considerations must be grouped into four major categories: infectious, neoplastic, inflammatory/autoimmune, and rare degenerative or vascular etiologies."
+    },
+    {
+      "ranges": [
+        [
+          16643,
+          16777
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient’s neurologic deficit—clumsiness of the left hand with preserved sensation and normal reflexes—is particularly informative."
+    },
+    {
+      "ranges": [
+        [
+          19636,
+          19834
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case underscores the importance of considering both infectious and neoplastic causes in young patients with unexplained vertebral lesions, especially in the setting of a chronic skin infection."
+    }
+  ]
+}

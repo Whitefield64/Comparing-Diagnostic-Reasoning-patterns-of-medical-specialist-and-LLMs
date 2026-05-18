@@ -1,0 +1,139 @@
+{
+  "case": "1996 Case 14__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T02:18:37.397514+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7887,
+          8089
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the patient's presentation with oral ulcers, cervical lymphadenopathy, and a morbilliform eruption, which later evolved into erythroderma and bullae, suggests a severe cutaneous adverse reaction (SCAR)."
+    },
+    {
+      "ranges": [
+        [
+          8090,
+          8257
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The fact that methotrexate was discontinued two weeks after its initiation, following the appearance of oral ulcers, raises the possibility of a drug-induced reaction."
+    },
+    {
+      "ranges": [
+        [
+          8431,
+          8554
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The diagnosis of TEN is supported by the clinical presentation and the microscopic examination of the skin biopsy specimen."
+    },
+    {
+      "ranges": [
+        [
+          11520,
+          11642
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "he development of TEN is thought to involve a complex interplay between the immune system, the skin, and the medications. "
+    },
+    {
+      "ranges": [
+        [
+          8705,
+          8846
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's history of recent drug exposure, including methotrexate and multiple antibiotics, makes drug-induced TEN a plausible diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10307,
+          10436
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The diagnosis of sepsis is supported by the patient's clinical presentation, including fever, hypotension, and organ dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          12091,
+          12287
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's underlying medical conditions, including inflammatory arthritis and chronic renal failure, may have contributed to the development of the skin condition and the subsequent infection."
+    },
+    {
+      "ranges": [
+        [
+          15546,
+          15638
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The growth of *Klebsiella pneumoniae* in multiple cultures confirms the diagnosis of sepsis."
+    },
+    {
+      "ranges": [
+        [
+          13866,
+          14052
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's clinical presentation, including the development of a morbilliform eruption, which later evolved into erythroderma and bullae, suggests a severe cutaneous adverse reaction."
+    },
+    {
+      "ranges": [
+        [
+          13562,
+          13700
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's fatal course highlights the importance of prompt and meticulous management of severe cutaneous adverse reactions and sepsis."
+    },
+    {
+      "ranges": [
+        [
+          12816,
+          13077
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The use of immunosuppressive therapy, such as prednisone and methotrexate, may have contributed to the development of sepsis, highlighting the need for careful consideration of the risks and benefits of these medications in patients with severe skin conditions."
+    },
+    {
+      "ranges": [
+        [
+          12547,
+          12815
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's management, including the administration of multiple antibiotics, the use of immunosuppressive therapy, and the subsequent development of sepsis, raises important questions about the optimal management of patients with severe cutaneous adverse reactions."
+    }
+  ]
+}

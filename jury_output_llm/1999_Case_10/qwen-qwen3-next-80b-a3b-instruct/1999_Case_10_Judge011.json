@@ -1,0 +1,128 @@
+{
+  "case": "1999 Case 10__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T03:39:50.761126+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9583,
+          9755
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is **antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV)**, particularly **microscopic polyangiitis (MPA)**."
+    },
+    {
+      "ranges": [
+        [
+          8895,
+          9236
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The constellation of findings—particularly the combination of rapidly progressive renal failure with dysmorphic hematuria, systemic vasculitis manifesting as palpable purpura with central necrosis, bilateral occipital infarcts, pulmonary infiltrates, and lymphadenopathy—points decisively toward a systemic vasculitic or thrombotic disorder."
+    },
+    {
+      "ranges": [
+        [
+          9237,
+          9581
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of fever, negative cultures, and lack of response to broad-spectrum antibiotics and corticosteroids further diminishes the likelihood of a primary infectious or inflammatory process and instead directs attention toward an immune-mediated, small-vessel vasculitis or a paraneoplastic syndrome with systemic microvascular involvement."
+    },
+    {
+      "ranges": [
+        [
+          11547,
+          11753
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The differential must also include **polyarteritis nodosa (PAN)**, a medium-vessel vasculitis that classically spares the lungs but can involve the kidneys, gastrointestinal tract, skin, and nervous system."
+    },
+    {
+      "ranges": [
+        [
+          11115,
+          11344
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The skin biopsy showing intravascular coagulation and lymphocytic inflammation is consistent with leukocytoclastic vasculitis, which may occur in MPA, particularly when there is significant fibrinoid necrosis and microthrombosis."
+    },
+    {
+      "ranges": [
+        [
+          9756,
+          9923
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "MPA is a small-vessel vasculitis that typically affects capillaries, venules, and arterioles, and is classically associated with myeloperoxidase (MPO)-ANCA positivity."
+    },
+    {
+      "ranges": [
+        [
+          11345,
+          11545
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of lymphadenopathy and pararenal soft-tissue thickening may reflect systemic inflammatory infiltration or, less commonly, secondary lymphoid hyperplasia due to chronic immune stimulation."
+    },
+    {
+      "ranges": [
+        [
+          16152,
+          16325
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The fact that the patient was unable to tolerate *H. pylori* eradication and had persistent gastritis may reflect an underlying malignancy masquerading as chronic gastritis."
+    },
+    {
+      "ranges": [
+        [
+          15151,
+          15223
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Cancer-associated paraneoplastic syndromes** must be aggressively pursue"
+    },
+    {
+      "ranges": [
+        [
+          15900,
+          16037
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The CT findings of gastric thickening, right pararenal fluid, and mediastinal/hilar lymphadenopathy are highly suspicious for malignancy."
+    },
+    {
+      "ranges": [
+        [
+          21582,
+          21668
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "A renal biopsy, if not already performed, is the single most critical diagnostic step."
+    }
+  ]
+}

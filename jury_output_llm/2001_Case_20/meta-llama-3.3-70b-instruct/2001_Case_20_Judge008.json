@@ -1,0 +1,95 @@
+{
+  "case": "2001 Case 20__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T03:47:47.919667+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5100,
+          5238
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with fever, gram-negative bacteremia, and a complex medical history raises a wide range of potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          8160,
+          8416
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnoses could include complicated bacteremia due to *Moraxella phenylpyruvica*, possibly related to an underlying source such as the urinary tract or a vascular site, given the patient's medical history and the findings on diagnostic imaging."
+    },
+    {
+      "ranges": [
+        [
+          8897,
+          9107
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient's gram-negative bacteremia could be the result of a breach in the body's natural barriers, such as the skin, urinary tract, or gastrointestinal tract, allowing the bacteria to enter the bloodstream."
+    },
+    {
+      "ranges": [
+        [
+          9108,
+          9289
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of underlying medical conditions, such as diabetes and renal insufficiency, could impair the patient's immune response, making it more difficult to clear the infection."
+    },
+    {
+      "ranges": [
+        [
+          11525,
+          11735
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's response to initial antibiotic treatment with ciprofloxacin, to which the organism was sensitive, was not satisfactory, suggesting either a complicated infection or a different underlying process."
+    },
+    {
+      "ranges": [
+        [
+          12704,
+          12832
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The diagnostic approach to this case should include a combination of laboratory tests, imaging studies, and clinical evaluation."
+    },
+    {
+      "ranges": [
+        [
+          12833,
+          12984
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's blood cultures, urine cultures, and other diagnostic tests should be monitored closely for any signs of infection or disease progression."
+    },
+    {
+      "ranges": [
+        [
+          10239,
+          10399
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's weight loss and fatigue, which have been progressive over the past year, could be indicative of a chronic infection or a systemic disease process."
+    }
+  ]
+}

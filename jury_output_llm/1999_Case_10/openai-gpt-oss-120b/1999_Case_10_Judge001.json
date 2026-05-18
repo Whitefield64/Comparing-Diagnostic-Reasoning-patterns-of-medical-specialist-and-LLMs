@@ -1,0 +1,29 @@
+{
+  "case": "1999 Case 10__openai-gpt-oss-120b.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T03:17:40.978823+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9627,
+          9925
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The constellation of **renal, pulmonary, neurologic, cutaneous, and vascular findings** suggests a systemic process that simultaneously targets small‑ to medium‑sized vessels, produces a **pulmonary‑renal syndrome**, and generates a **pro‑thrombotic state** leading to cortical infarcts and cutaneo"
+    },
+    {
+      "ranges": [
+        [
+          9939,
+          10135
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential therefore must encompass:\n\n1. **ANCA‑associated small‑vessel vasculitides** (microscopic polyangiitis, granulomatosis with polyangiitis, eosinophilic granulomatosis with polyangii"
+    }
+  ]
+}

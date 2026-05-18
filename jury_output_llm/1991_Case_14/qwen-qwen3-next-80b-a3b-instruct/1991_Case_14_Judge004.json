@@ -1,0 +1,249 @@
+{
+  "case": "1991 Case 14__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-17T23:09:04.573495+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6319,
+          6694
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most salient feature is the mass’s persistence without growth or change over 15 weeks, its location in the posterior thoracic compartment, and its imaging signature: nonenhancing, T2 hyperintense, with internal low-signal foci and a well-defined interface with adjacent tissues. These features are highly suggestive of a congenital, non-neoplastic, developmental anomaly."
+    },
+    {
+      "ranges": [
+        [
+          6695,
+          6878
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnostic consideration is a **congenital cystic adenomatoid malformation (CCAM), now termed congenital pulmonary airway malformation (CPAM)**, particularly Type I or II."
+    },
+    {
+      "ranges": [
+        [
+          5337,
+          5805
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The mass is located in the left paravertebral gutter, posterior to the heart and abutting the left hemidiaphragm, with no evidence of spinal canal invasion, vascular encasement, or mediastinal shift. Its radiographic and imaging characteristics—nonhomogeneous, hypodense on CT without contrast enhancement, hyperintense on T1 and markedly hyperintense on T2-weighted MRI, with a thin dark cleavage plane separating it from paraspinal structures—provide critical clues."
+    },
+    {
+      "ranges": [
+        [
+          5806,
+          6027
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of systemic symptoms (fever, weight loss, respiratory distress, hemoptysis), normal neurologic exam, and lack of progression over time strongly argue against aggressive, infiltrative, or infectious etiologies."
+    },
+    {
+      "ranges": [
+        [
+          7681,
+          7979
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that the mass was detected neonatally, caused transient grunting (likely due to mechanical compression of the left lung or diaphragm), and resolved respiratory symptoms with antibiotics (which may have treated a coincidental or secondary infection) supports a benign, noninfectious origin."
+    },
+    {
+      "ranges": [
+        [
+          8748,
+          8897
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "neuroblastoma typically enhances vividly on contrast imaging due to its rich vascularity; the absence of enhancement in this case is highly atypical."
+    },
+    {
+      "ranges": [
+        [
+          8906,
+          9012
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "neuroblastoma often demonstrates calcifications (seen in up to 90% of cases on CT), which are absent here."
+    },
+    {
+      "ranges": [
+        [
+          9020,
+          9205
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "neuroblastoma frequently causes systemic symptoms such as fever, weight loss, bone pain, periorbital ecchymosis, or hypertension due to catecholamine secretion—all absent in this child."
+    },
+    {
+      "ranges": [
+        [
+          9870,
+          10065
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The lack of progression over 15 weeks is also inconsistent with the typically aggressive behavior of neuroblastoma in infants, even low-risk forms, which tend to grow or metastasize if untreated."
+    },
+    {
+      "ranges": [
+        [
+          8349,
+          8487
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A close second consideration is a **neuroblastoma**, a common pediatric abdominal and thoracic malignancy arising from neural crest cells."
+    },
+    {
+      "ranges": [
+        [
+          10540,
+          10663
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of calcification and fat on CT is a major argument against teratoma, as these are present in over 80% of cases."
+    },
+    {
+      "ranges": [
+        [
+          10664,
+          10788
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Teratomas usually enhance variably due to their vascularized solid components and often show cystic areas with fluid levels."
+    },
+    {
+      "ranges": [
+        [
+          11213,
+          11294
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The clinical stability and lack of systemic signs further reduce the probability."
+    },
+    {
+      "ranges": [
+        [
+          10067,
+          10185
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another critical consideration is a **teratoma**, particularly a mediastinal or posterior mediastinal germ cell tumor."
+    },
+    {
+      "ranges": [
+        [
+          11630,
+          11832
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "infants. They are typically cystic, nonenhancing, T2 hyperintense, and may have septations or low-signal areas corresponding to proteinaceous fluid or hemorrhage—features that align well with this case."
+    },
+    {
+      "ranges": [
+        [
+          11833,
+          11970
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, lymphangiomas are more commonly located in the anterior or lateral mediastinum, and posterior paravertebral location is unusual."
+    },
+    {
+      "ranges": [
+        [
+          12134,
+          12299
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The lack of a history of upper respiratory infection preceding mass changes, and the absence of surrounding edema or inflammation on imaging, makes this less likely."
+    },
+    {
+      "ranges": [
+        [
+          11296,
+          11403
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A **lymphangioma** (or cystic hygroma) is another congenital vascular malformation that must be considered."
+    },
+    {
+      "ranges": [
+        [
+          12990,
+          13117
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The mass’s location, imaging characteristics, and clinical stability are highly consistent with an esophageal duplication cyst."
+    },
+    {
+      "ranges": [
+        [
+          13118,
+          13272
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Unlike CPAM, these cysts are lined by gastrointestinal epithelium and may contain gastric or respiratory mucosa, but they are not connected to the airway."
+    },
+    {
+      "ranges": [
+        [
+          17692,
+          17837
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **esophageal duplication cyst** is an equally compelling alternative, especially given the precise paravertebral location and cleavage plane."
+    },
+    {
+      "ranges": [
+        [
+          18053,
+          18246
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The imaging findings are too characteristic for a simple inflammatory or infectious process, and the lack of progression over 15 weeks effectively rules out neuroblastoma, lymphoma, or sarcoma."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "case": "2003 Case 21__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T05:52:19.943971+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          13291,
+          13645
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling evidence pointing away from pure atherosclerosis is the multifocal, irregular nature of the vertebral artery stenoses, particularly their asymmetry and distribution along the dural ring and mid-vertebral segments—regions less commonly affected by typical atherosclerotic plaques, which tend to localize at ostial or bifurcation sites."
+    },
+    {
+      "ranges": [
+        [
+          14383,
+          14504
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "ANCA-associated vasculitis (AAV), particularly microscopic polyangiitis (MPA), must be considered as a leading diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          14505,
+          14721
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "MPA commonly affects small- to medium-sized vessels, including the vertebral and basilar arteries, and can present with multifocal posterior circulation strokes without renal or pulmonary involvement in early stages."
+    },
+    {
+      "ranges": [
+        [
+          13646,
+          13948
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The presence of non-calcified, circumferential stenoses at the origin of the left vertebral artery, coupled with elevated intracranial flow velocities on transcranial Doppler and the absence of significant internal carotid disease, suggests a process that is not simply age-related plaque accumulation."
+    },
+    {
+      "ranges": [
+        [
+          14203,
+          14382
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The dramatic rise in C-reactive protein (29.8 mg/L) strongly implies systemic inflammation, and the positive ANCA serology—though preliminary—is perhaps the most significant clue."
+    },
+    {
+      "ranges": [
+        [
+          18011,
+          18246
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Atherosclerosis tends to progress slowly; the development of multiple acute infarcts in different vascular territories within a week, despite anticoagulation, suggests a hypercoagulable or inflammatory trigger accelerating the process."
+    },
+    {
+      "ranges": [
+        [
+          21636,
+          21741
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "According to the Sydney criteria, this meets the serologic threshold for antiphospholipid syndrome (APS)."
+    },
+    {
+      "ranges": [
+        [
+          13102,
+          13289
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The challenge lies in distinguishing between atherosclerotic progression, a primary vasculitis, a prothrombotic state, and a systemic connective tissue disorder with vascular involvement."
+    },
+    {
+      "ranges": [
+        [
+          23652,
+          23904
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The multifocal, irregular stenoses on angiography, the systemic inflammation (elevated CRP), the positive ANCA serology, the recurrent posterior circulation strokes despite anticoagulation, and the partial response to plasmapheresis all align with MPA."
+    },
+    {
+      "ranges": [
+        [
+          22262,
+          22468
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The absence of other SLE criteria (malar rash, arthritis, renal disease, positive dsDNA) makes primary SLE unlikely, but the possibility of an overlap syndrome with MPA and secondary APS remains compelling."
+    },
+    {
+      "ranges": [
+        [
+          24832,
+          25079
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case underscores the importance of considering vasculitis in any elderly patient with recurrent, multifocal strokes in the posterior circulation, especially when conventional risk factors and therapies fail to explain the clinical trajectory."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "case": "2003 Case 21__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T05:27:59.361206+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17580,
+          17795
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the patient's presentation is consistent with a complex and multifactorial underlying condition, likely involving a combination of atherosclerotic disease, autoimmune or inflammatory conditions, and cardiac disease."
+    },
+    {
+      "ranges": [
+        [
+          18041,
+          18210
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnoses to consider include vertebral-basilar insufficiency or posterior circulation stroke, antiphospholipid syndrome or vasculitis, and cardiac embolism."
+    },
+    {
+      "ranges": [
+        [
+          17796,
+          18040
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's lack of response to anticoagulation therapy and the presence of multifocal bilateral stenoses of the vertebral artery suggest a more aggressive or resistant underlying condition, which may require further evaluation and treatment."
+    },
+    {
+      "ranges": [
+        [
+          18754,
+          18990
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of multifocal bilateral stenoses of the vertebral artery on cerebral angiography suggests a more complex and dynamic process, which may require further evaluation and treatment, including the use of angioplasty or stenting."
+    },
+    {
+      "ranges": [
+        [
+          20321,
+          20512
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The use of anticoagulation therapy, antiplatelet agents, and immunosuppressive medications may be necessary to address the underlying condition and reduce the risk of further vascular events."
+    },
+    {
+      "ranges": [
+        [
+          19213,
+          19393
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "A multidisciplinary approach, including neurology, cardiology, and rheumatology, is necessary to address the patient's underlying condition and develop an effective treatment plan."
+    },
+    {
+      "ranges": [
+        [
+          19668,
+          19902
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms, including numbness, slurred speech, and vertigo, suggest involvement of the brainstem and cerebellum, which may be consistent with a diagnosis of posterior circulation stroke or vertebral-basilar insufficiency."
+    },
+    {
+      "ranges": [
+        [
+          14378,
+          14574
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, the presence of multifocal bilateral stenoses of the vertebral artery and the patient's autoimmune and inflammatory markers suggest a more complex and multifactorial underlying condition."
+    },
+    {
+      "ranges": [
+        [
+          18534,
+          18753
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "ncluding the elevated anticardiolipin-antibody IgG and IgM levels and positive preliminary result for ANCA, suggest an underlying autoimmune or inflammatory condition, which may require further evaluation and treatment."
+    },
+    {
+      "ranges": [
+        [
+          19395,
+          19667
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of tuberculosis and the presence of extensive pleural calcifications and elevation of the left hemidiaphragm on chest radiographs suggest a possible underlying chronic inflammatory process, which may contribute to the development of vascular disease."
+    },
+    {
+      "ranges": [
+        [
+          21271,
+          21466
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The patient's presentation is also consistent with a diagnosis of cerebral amyloid angiopathy, which is characterized by the deposition of amyloid beta peptides in the blood vessels of the brain."
+    },
+    {
+      "ranges": [
+        [
+          21467,
+          21648
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of multifocal bilateral stenoses of the vertebral artery and the patient's symptoms, including vertigo and dysarthria, suggest a possible underlying amyloid angiopathy."
+    }
+  ]
+}

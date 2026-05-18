@@ -1,0 +1,117 @@
+{
+  "case": "2003 Case 39__openai-gpt-oss-120b.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T06:18:22.582633+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23030,
+          23098
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most parsimonious explanation is a **primary bladder neoplasm**."
+    },
+    {
+      "ranges": [
+        [
+          23458,
+          23671
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The balance of probability leans toward urothelial carcinoma because it is vastly more common, even in young women, and because the CT did not demonstrate a classic midline urachal tract or extravesical component."
+    },
+    {
+      "ranges": [
+        [
+          23672,
+          23894
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the dome predilection, modest weight loss, and the description of “heterogeneous, mixed‑attenuation debris” (potentially mucin) keep urachal adenocarcinoma high on the differential pending histologic confirmation."
+    },
+    {
+      "ranges": [
+        [
+          26568,
+          26736
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If malignancy is confirmed, a chest CT and bone scan (or PET‑CT) would be indicated for staging, given the potential for early metastasis, especially in adenocarcinoma."
+    },
+    {
+      "ranges": [
+        [
+          27325,
+          27420
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "standard management involves complete transurethral resection with muscularis propria sampling."
+    },
+    {
+      "ranges": [
+        [
+          27295,
+          27420
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "For a solitary 3–4 cm lesion, standard management involves complete transurethral resection with muscularis propria sampling."
+    },
+    {
+      "ranges": [
+        [
+          5424,
+          5669
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presentation of a young, otherwise healthy woman with sudden‑onset gross hematuria, passage of clots, and an endoscopic finding of a 3–4 cm mass on the dome of the urinary bladder demands a systematic exploration of all plausible etiologies."
+    },
+    {
+      "ranges": [
+        [
+          29394,
+          29736
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the epidemiologic dominance of urothelial carcinoma and the fact that many urachal adenocarcinomas demonstrate extravesical extension (which was not observed on CT), the **working diagnosis** after integrating all available data is **urothelial carcinoma of the bladder**, likely a high‑grade, non‑muscle‑invasive tumor pending staging."
+    },
+    {
+      "ranges": [
+        [
+          22861,
+          22971
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The acute clot formation could represent tumor erosion into a vascular surface, precipitating sudden bleeding."
+    },
+    {
+      "ranges": [
+        [
+          8574,
+          8709
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Chronic irritation (recurrent UTIs, catheterization, long‑standing stones) predisposes to squamous metaplasia and subsequent carcinoma."
+    }
+  ]
+}

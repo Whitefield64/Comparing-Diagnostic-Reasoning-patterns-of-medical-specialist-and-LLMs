@@ -1,0 +1,117 @@
+{
+  "case": "1999 Case 06__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T02:38:10.497288+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4540,
+          4683
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis can be broadly categorized into several groups, including inflammatory, infectious, genetic, and systemic disorders."
+    },
+    {
+      "ranges": [
+        [
+          4966,
+          5104
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Conditions such as Cogan syndrome, which is characterized by interstitial keratitis and vestibular-auditory symptoms, could be considered."
+    },
+    {
+      "ranges": [
+        [
+          5412,
+          5587
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Conditions such as Marfan syndrome, Ehlers-Danlos syndrome, and Loeys-Dietz syndrome are known to cause aortic aneurysms and could be considered in the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          5236,
+          5411
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of a thoracoabdominal aneurysm in a young patient is unusual and suggests a connective tissue disorder or a genetic condition that affects the vascular system."
+    },
+    {
+      "ranges": [
+        [
+          8439,
+          8604
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of bilateral sensorineural deafness and ocular irritation, which improved with corticosteroid treatment, suggests an autoimmune or inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          8063,
+          8266
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's symptoms and laboratory results suggest a complex, multisystem disorder that could be caused by a variety of conditions, including inflammatory, infectious, genetic, and systemic disorders."
+    },
+    {
+      "ranges": [
+        [
+          9573,
+          9833
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of a thoracoabdominal aneurysm and the patient's other vascular symptoms suggest that close monitoring of the patient's cardiovascular system, including regular imaging studies and blood pressure checks, will be necessary to prevent complications."
+    },
+    {
+      "ranges": [
+        [
+          6872,
+          7063
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "A systemic disorder that could potentially explain the patient's symptoms is Takayasu arteritis, a large vessel vasculitis that can cause aneurysms and stenosis of the aorta and its branches."
+    },
+    {
+      "ranges": [
+        [
+          7440,
+          7639
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Another condition that could be considered is giant cell arteritis, which can cause aneurysms and stenosis of the aorta and its branches, as well as symptoms such as headache and visual disturbances."
+    },
+    {
+      "ranges": [
+        [
+          12727,
+          12986
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's age, sex, and symptoms, as well as the presence of a nonidentical twin sister who is well, make a genetic disorder less likely, although the possibility of a sporadic genetic mutation or a condition with variable expressivity cannot be excluded."
+    }
+  ]
+}

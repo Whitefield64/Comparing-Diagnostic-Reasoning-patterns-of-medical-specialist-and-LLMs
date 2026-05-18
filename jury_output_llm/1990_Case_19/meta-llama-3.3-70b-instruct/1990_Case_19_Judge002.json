@@ -1,0 +1,832 @@
+{
+  "case": "1990 Case 19__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-17T22:19:38.580175+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8616,
+          8788
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical presentation of this 12-year-old boy with a long travel history and a hepatic mass is complex and multifaceted, suggesting a wide range of potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          8789,
+          9008
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "To approach this case, it is essential to consider various categories of diseases, including malignant, infectious, inflammatory, structural, gynecologic (although less relevant in this case), systemic, and rare causes."
+    },
+    {
+      "ranges": [
+        [
+          9009,
+          9168
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Initially, the patient's symptoms of increasing fatigue, intermittent fever, and weight loss, accompanied by a hepatic mass, could suggest a malignant process."
+    },
+    {
+      "ranges": [
+        [
+          9709,
+          9851
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pathophysiology of hepatoblastoma involves the uncontrolled proliferation of liver cells, which can lead to the formation of a large mass."
+    },
+    {
+      "ranges": [
+        [
+          9169,
+          9320
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Hepatoblastoma, a rare liver cancer that primarily affects children, could be a consideration given the patient's age and the presence of a liver mass."
+    },
+    {
+      "ranges": [
+        [
+          9321,
+          9470
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the absence of other specific symptoms such as abdominal pain or jaundice makes this diagnosis less likely, although not entirely ruled out."
+    },
+    {
+      "ranges": [
+        [
+          9472,
+          9708
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other malignancies, such as lymphoma or metastatic disease, could also involve the liver, but the clinical context and the specific characteristics of the liver mass as described do not strongly support these diagnoses at this juncture."
+    },
+    {
+      "ranges": [
+        [
+          10229,
+          10402
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious causes are a significant consideration given the patient's extensive travel history, which includes visits to areas with potential exposures to various pathogens."
+    },
+    {
+      "ranges": [
+        [
+          10403,
+          10584
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's symptoms of fever, fatigue, and weight loss, along with the finding of a hepatic mass, could suggest an infectious process such as an abscess or a parasitic infection."
+    },
+    {
+      "ranges": [
+        [
+          10585,
+          10727
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The history of swimming in freshwater pools and estuaries in different parts of the world increases the risk for certain parasitic infections."
+    },
+    {
+      "ranges": [
+        [
+          10728,
+          10979
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "For example, schistosomiasis, caused by Schistosoma species, is a possibility, although the clinical presentation and the lack of specific exposure history (e.g., swimming in contaminated freshwater in endemic areas like Africa) make this less likely."
+    },
+    {
+      "ranges": [
+        [
+          10981,
+          11192
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other parasitic infections such as echinococcosis (hydatid disease) could also present with a hepatic mass, especially given the patient's travel to areas where this disease is endemic, such as Greece or Turkey."
+    },
+    {
+      "ranges": [
+        [
+          11193,
+          11337
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The finding of ova of *Trichuris trichiura* in the stool is indicative of a parasitic infection but is not directly related to the hepatic mass."
+    },
+    {
+      "ranges": [
+        [
+          11338,
+          11607
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's travel history and the presence of a hepatic mass also raise the possibility of other infectious causes such as amoebic liver abscess, especially given the initial negative ELISA for anti-amebal antibodies, which does not entirely rule out this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11608,
+          11809
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Bacterial infections, including pyogenic liver abscess, could also be considered, although the clinical context and the imaging characteristics of the liver mass do not strongly support this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11811,
+          12076
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The administration of metronidazole, an antibiotic effective against certain bacterial and protozoal infections, suggests that an infectious cause was being considered, but the lack of response and the negative cultures do not support a typical bacterial infection."
+    },
+    {
+      "ranges": [
+        [
+          12077,
+          12325
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "It is also worth noting that the patient's mother had giardiasis after a recent trip to Mexico, which might suggest an increased risk for gastrointestinal infections in this family, although giardiasis itself is less likely to cause a hepatic mass."
+    },
+    {
+      "ranges": [
+        [
+          12326,
+          12498
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pathophysiology of giardiasis involves the infection of the small intestine by Giardia lamblia, leading to symptoms such as diarrhea, abdominal cramps, and weight loss."
+    },
+    {
+      "ranges": [
+        [
+          12499,
+          12578
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the presence of a hepatic mass is not a typical feature of giardiasis."
+    },
+    {
+      "ranges": [
+        [
+          12580,
+          12758
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory causes, such as autoimmune hepatitis or primary sclerosing cholangitis, are less likely given the clinical presentation and the specific findings on imaging studies."
+    },
+    {
+      "ranges": [
+        [
+          12759,
+          12963
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "These conditions typically present with different clinical and laboratory features, such as significant elevations in liver enzymes and autoimmune markers, which are not prominently featured in this case."
+    },
+    {
+      "ranges": [
+        [
+          12964,
+          13172
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Autoimmune hepatitis, for instance, would likely present with a more pronounced elevation in liver enzymes, such as ALT and AST, and possibly with autoimmune markers like ANA or anti-smooth muscle antibodies."
+    },
+    {
+      "ranges": [
+        [
+          13173,
+          13306
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pathophysiology of autoimmune hepatitis involves the immune system attacking the liver cells, leading to inflammation and damage."
+    },
+    {
+      "ranges": [
+        [
+          13307,
+          13406
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the clinical presentation and imaging findings in this case do not support this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          13408,
+          13621
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Primary sclerosing cholangitis might present with findings suggestive of chronic liver disease and cholestasis, such as elevated alkaline phosphatase and bilirubin, which are not the primary findings in this case."
+    },
+    {
+      "ranges": [
+        [
+          13622,
+          13804
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pathophysiology of primary sclerosing cholangitis involves the inflammation and scarring of the bile ducts, which can lead to chronic liver disease and potentially liver failure."
+    },
+    {
+      "ranges": [
+        [
+          13307,
+          13406
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the clinical presentation and imaging findings in this case do not support this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          13905,
+          14030
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's laboratory results, including the liver function tests, are not consistent with primary sclerosing cholangitis."
+    },
+    {
+      "ranges": [
+        [
+          14032,
+          14200
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Structural anomalies or congenital conditions affecting the liver, such as congenital hepatic cysts or polycystic liver disease, could also present with a hepatic mass."
+    },
+    {
+      "ranges": [
+        [
+          14201,
+          14333
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the clinical context and the imaging characteristics described do not support these diagnoses as the primary consideration."
+    },
+    {
+      "ranges": [
+        [
+          14334,
+          14513
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Congenital hepatic cysts, for example, are typically simple, fluid-filled structures that do not have the complex, septated appearance described in this patient's imaging studies."
+    },
+    {
+      "ranges": [
+        [
+          14514,
+          14675
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Polycystic liver disease usually presents with multiple cysts scattered throughout the liver, which is not consistent with the single, large mass described here."
+    },
+    {
+      "ranges": [
+        [
+          14677,
+          14851
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pathophysiology of polycystic liver disease involves the formation of multiple cysts filled with fluid, which can lead to liver enlargement and potentially liver failure."
+    },
+    {
+      "ranges": [
+        [
+          13307,
+          13406
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the clinical presentation and imaging findings in this case do not support this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          14952,
+          15047
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's symptoms and laboratory results are not consistent with polycystic liver disease."
+    },
+    {
+      "ranges": [
+        [
+          15048,
+          15272
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Systemic diseases that could involve the liver, such as systemic lupus erythematosus or sarcoidosis, are also potential considerations but are less likely given the patient's age, sex, and the specific clinical presentation."
+    },
+    {
+      "ranges": [
+        [
+          15273,
+          15391
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "These conditions typically have a broader range of systemic symptoms and findings that are not described in this case."
+    },
+    {
+      "ranges": [
+        [
+          15393,
+          15624
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Systemic lupus erythematosus, for instance, might present with a combination of skin rash, joint pain, renal involvement, and various hematologic abnormalities, none of which are prominently featured in this patient's presentation."
+    },
+    {
+      "ranges": [
+        [
+          15625,
+          15804
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Sarcoidosis could involve the liver, but it would typically be part of a multi-system disease with pulmonary, dermatologic, or ocular manifestations, which are not described here."
+    },
+    {
+      "ranges": [
+        [
+          15805,
+          15986
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The pathophysiology of sarcoidosis involves the formation of granulomas in various organs, including the liver, which can lead to chronic inflammation and potentially organ failure."
+    },
+    {
+      "ranges": [
+        [
+          13307,
+          13406
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the clinical presentation and imaging findings in this case do not support this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          16088,
+          16303
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Rare causes, including storage diseases or other metabolic disorders that could affect the liver, are also possibilities but are less likely given the acute presentation and the specific findings on imaging studies."
+    },
+    {
+      "ranges": [
+        [
+          16304,
+          16450
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "These conditions often have a more chronic course and are associated with specific laboratory abnormalities that are not highlighted in this case."
+    },
+    {
+      "ranges": [
+        [
+          16451,
+          16723
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "For example, glycogen storage diseases or Wilson's disease might present with chronic liver dysfunction, neuropsychiatric symptoms, or specific laboratory findings such as low serum ceruloplasmin in Wilson's disease, which are not mentioned in this patient's presentation."
+    },
+    {
+      "ranges": [
+        [
+          16725,
+          16909
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Given the information provided, the leading diagnosis or diagnoses are challenging to pinpoint without further investigation, including histopathological examination of the liver mass."
+    },
+    {
+      "ranges": [
+        [
+          16910,
+          17120
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, based on the clinical presentation, travel history, and imaging findings, an infectious or parasitic cause, such as echinococcosis (hydatid disease), seems plausible and warrants further consideration."
+    },
+    {
+      "ranges": [
+        [
+          17121,
+          17273
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of a well-defined, large hepatic mass with cystic and solid components, as described on imaging studies, is consistent with this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          17274,
+          17390
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Additionally, the patient's extensive travel history to endemic areas increases the likelihood of such an infection."
+    },
+    {
+      "ranges": [
+        [
+          17392,
+          17556
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Further diagnostic testing, including serological tests for echinococcosis and potentially a biopsy of the liver mass, would be essential to confirm this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          17557,
+          17765
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Serological tests, such as enzyme-linked immunosorbent assay (ELISA) for echinococcal antibodies, can support the diagnosis but may not be positive in all cases, especially in the early stages of the disease."
+    },
+    {
+      "ranges": [
+        [
+          17766,
+          17846
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Imaging characteristics, as described, are highly suggestive but not definitive."
+    },
+    {
+      "ranges": [
+        [
+          17847,
+          18046
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A biopsy of the liver mass, either percutaneously or surgically, could provide a definitive diagnosis by demonstrating the presence of Echinococcus larvae or characteristic histopathological changes."
+    },
+    {
+      "ranges": [
+        [
+          18048,
+          18286
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In conclusion, while the differential diagnosis for this patient is broad, an infectious or parasitic cause, particularly echinococcosis, is a leading consideration based on the clinical presentation, travel history, and imaging findings."
+    },
+    {
+      "ranges": [
+        [
+          18287,
+          18489
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "A comprehensive diagnostic approach, including further laboratory testing and potentially histopathological examination, is necessary to establish a definitive diagnosis and guide appropriate treatment."
+    },
+    {
+      "ranges": [
+        [
+          19818,
+          19999
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's prognosis and management would depend on the definitive diagnosis, highlighting the importance of accurate diagnosis in guiding therapy and improving patient outcomes."
+    },
+    {
+      "ranges": [
+        [
+          20001,
+          20162
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The diagnostic approach should also consider the patient's laboratory results, including the liver function tests, complete blood count, and coagulation studies."
+    },
+    {
+      "ranges": [
+        [
+          20163,
+          20288
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's hematocrit, white-cell count, and platelet count are abnormal, suggesting a systemic infection or inflammation."
+    },
+    {
+      "ranges": [
+        [
+          20289,
+          20448
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The liver function tests, including the aspartate aminotransferase (AST) and alanine aminotransferase (ALT), are mildly elevated, indicating liver involvement."
+    },
+    {
+      "ranges": [
+        [
+          20449,
+          20578
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The coagulation studies, including the prothrombin time and partial thromboplastin time, are abnormal, suggesting a coagulopathy."
+    },
+    {
+      "ranges": [
+        [
+          20580,
+          20759
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's imaging studies, including the ultrasonography, computed tomography (CT) scan, and magnetic resonance imaging (MRI) scan, are essential in evaluating the liver mass."
+    },
+    {
+      "ranges": [
+        [
+          20760,
+          20901
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The imaging characteristics, including the size, location, and composition of the mass, are critical in narrowing the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          20902,
+          21020
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of a well-defined, large hepatic mass with cystic and solid components is consistent with echinococcosis."
+    },
+    {
+      "ranges": [
+        [
+          21021,
+          21151
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, other infectious or parasitic causes, such as amoebic liver abscess or pyogenic liver abscess, should also be considered."
+    },
+    {
+      "ranges": [
+        [
+          21153,
+          21300
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "In addition to the diagnostic testing, the patient's clinical presentation and travel history are essential in establishing a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          21301,
+          21445
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms, including fever, fatigue, and weight loss, are non-specific and can be seen in various infectious or parasitic diseases."
+    },
+    {
+      "ranges": [
+        [
+          21446,
+          21587
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's travel history, including visits to endemic areas, increases the risk for certain parasitic infections, such as echinococcosis."
+    },
+    {
+      "ranges": [
+        [
+          21589,
+          21660
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The management of the patient would depend on the definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          21661,
+          21826
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "If echinococcosis is confirmed, the patient would require a combination of surgical intervention, antiparasitic medication, and careful monitoring for complications."
+    },
+    {
+      "ranges": [
+        [
+          21827,
+          21968
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The surgical intervention would involve the removal of the liver mass, and the antiparasitic medication would be used to treat the infection."
+    },
+    {
+      "ranges": [
+        [
+          21969,
+          22158
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient would also require careful monitoring for complications, such as bleeding or infection, and would need to be followed up regularly to ensure that the infection is fully treated."
+    },
+    {
+      "ranges": [
+        [
+          22160,
+          22330
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "In conclusion, the differential diagnosis for this patient is complex and multifaceted, requiring a comprehensive diagnostic approach to establish a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          19482,
+          19645
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "An infectious or parasitic cause, particularly echinococcosis, is a leading consideration based on the clinical presentation, travel history, and imaging findings."
+    },
+    {
+      "ranges": [
+        [
+          19646,
+          19817
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Further diagnostic testing, including serological tests and potentially a biopsy of the liver mass, is necessary to confirm this diagnosis and guide appropriate treatment."
+    },
+    {
+      "ranges": [
+        [
+          19818,
+          19999
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's prognosis and management would depend on the definitive diagnosis, highlighting the importance of accurate diagnosis in guiding therapy and improving patient outcomes."
+    },
+    {
+      "ranges": [
+        [
+          20001,
+          20162
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The diagnostic approach should also consider the patient's laboratory results, including the liver function tests, complete blood count, and coagulation studies."
+    }
+  ]
+}

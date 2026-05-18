@@ -24,10 +24,13 @@ def write_voter(
     result: VoterResult,
     case_name: str,
     output_dir: Path,
+    stem: str | None = None,
 ) -> Path | None:
     """
     Write a single voter's resolved annotations to disk.
     Returns the output path, or None if the voter failed.
+
+    stem overrides the filename prefix; if omitted it is derived from case_name.
     """
     if result.failed:
         return None
@@ -40,8 +43,8 @@ def write_voter(
     }
 
     output_dir.mkdir(parents=True, exist_ok=True)
-    stem = Path(case_name).stem.replace(" ", "_")
-    out_path = output_dir / f"{stem}_Judge{result.voter_id:03d}.json"
+    file_stem = stem if stem is not None else Path(case_name).stem.replace(" ", "_")
+    out_path = output_dir / f"{file_stem}_Judge{result.voter_id:03d}.json"
     out_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
     logger.info("Written: %s", out_path)
     return out_path
@@ -51,13 +54,16 @@ def write_summary(
     results: list[VoterResult],
     case_name: str,
     output_dir: Path,
+    stem: str | None = None,
 ) -> Path:
     """
     Write a summary JSON with statistics for the whole jury run.
+
+    stem overrides the filename prefix; if omitted it is derived from case_name.
     """
     output_dir.mkdir(parents=True, exist_ok=True)
-    stem = Path(case_name).stem.replace(" ", "_")
-    summary_path = output_dir / f"{stem}_jury_summary.json"
+    file_stem = stem if stem is not None else Path(case_name).stem.replace(" ", "_")
+    summary_path = output_dir / f"{file_stem}_jury_summary.json"
 
     summary = {
         "case": case_name,

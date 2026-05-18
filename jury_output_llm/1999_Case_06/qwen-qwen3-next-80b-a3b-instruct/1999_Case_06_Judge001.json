@@ -1,0 +1,106 @@
+{
+  "case": "1999 Case 06__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T02:52:33.826969+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4950,
+          5140
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The constellation of findings is not typical of any single common disease but rather suggests a rare, systemic disorder with multiorgan involvement, likely of genetic or autoimmune etiology."
+    },
+    {
+      "ranges": [
+        [
+          9034,
+          9225
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnosis in this context is **Takayasu arteritis (TA)**, a large-vessel vasculitis that predominantly affects young women, particularly of Asian or Mediterranean descent."
+    },
+    {
+      "ranges": [
+        [
+          14489,
+          14668
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another possibility is **Liddle syndrome**, a rare genetic disorder causing hypertension and hypokalemia due to gain-of-function mutations in the epithelial sodium channel (ENaC)."
+    },
+    {
+      "ranges": [
+        [
+          6142,
+          6296
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The combination of deafness and ocular inflammation, particularly when steroid-responsive, raises the specter of autoimmune or autoinflammatory disorders."
+    },
+    {
+      "ranges": [
+        [
+          5979,
+          6141
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "the corneal findings—nummular scars with ghost vessels—are highly suggestive of prior inflammation, possibly interstitial keratitis, which is not a feature of OI."
+    },
+    {
+      "ranges": [
+        [
+          6297,
+          6520
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hypokalemia, metabolic alkalosis (elevated CO2), and renal artery stenosis point to a renin-angiotensin-aldosterone system (RAAS) activation, most likely secondary to fibromuscular dysplasia (FMD) of the renal arteries."
+    },
+    {
+      "ranges": [
+        [
+          5740,
+          5968
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of blue sclerae is classically associated with osteogenesis imperfecta (OI), but OI does not typically cause aortic aneurysms of this magnitude, nor does it cause sensorineural hearing loss or renal artery stenosis."
+    },
+    {
+      "ranges": [
+        [
+          6763,
+          6836
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The aortic aneurysm itself must be categorized by location and mechanism."
+    },
+    {
+      "ranges": [
+        [
+          12611,
+          12833
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The diagnostic criteria (McAdam’s criteria) include bilateral auricular chondritis, nasal chondritis, ocular inflammation, respiratory tract chondritis, cochlear or vestibular dysfunction, and histopathologic confirmation."
+    }
+  ]
+}

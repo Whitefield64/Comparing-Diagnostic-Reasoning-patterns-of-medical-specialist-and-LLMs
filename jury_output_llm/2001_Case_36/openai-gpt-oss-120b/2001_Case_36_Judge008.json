@@ -1,0 +1,106 @@
+{
+  "case": "2001 Case 36__openai-gpt-oss-120b.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T04:40:03.367306+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          24417,
+          24649
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "he most plausible explanations for his acute presentation can be grouped into three overlapping categories:\n\n1. **Primary Viral Upper Respiratory Infection with Secondary Lower‑Tract Involvement** – The most parsimonious hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          24382,
+          24523
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the patient’s complex background, the most plausible explanations for his acute presentation can be grouped into three overlapping categories"
+    },
+    {
+      "ranges": [
+        [
+          29454,
+          29649
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If a viral pathogen is identified (e.g., influenza):**  \n- Initiate antiviral therapy (oseltamivir or peramivir) promptly, as early treatment reduces morbidity, especially in immunocompromised ho"
+    },
+    {
+      "ranges": [
+        [
+          29715,
+          29944
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If a bacterial superinfection is confirmed or strongly suspected:**  \n- Empiric coverage with a β‑lactam (e.g., high‑dose ceftriaxone) plus a macrolide or doxycycline to address atypical organisms, adjusting based on culture resu"
+    },
+    {
+      "ranges": [
+        [
+          30963,
+          31123
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s cumulative burden of chronic lung disease, ongoing immunosuppression, and diabetes places him at heightened risk for rapid clinical deterioration."
+    },
+    {
+      "ranges": [
+        [
+          7164,
+          7289
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The prodrome of sore throat, rhinorrhea, and low‑grade fever is classic for an acute viral upper respiratory infection (URI)."
+    },
+    {
+      "ranges": [
+        [
+          34860,
+          35103
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": " viral respiratory infection—most plausibly influenza—acting as a trigger for an acute exacerbation of the patient’s underlying organizing pneumonia/ILD, with a possible superimposed bacterial component.**  \n\n---\n\n### 8. Concluding Remarks  \n\n"
+    },
+    {
+      "ranges": [
+        [
+          34816,
+          35075
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": " |\n\n**Overall, the most likely scenario is a viral respiratory infection—most plausibly influenza—acting as a trigger for an acute exacerbation of the patient’s underlying organizing pneumonia/ILD, with a possible superimposed bacterial component.**  \n\n---\n\n#"
+    },
+    {
+      "ranges": [
+        [
+          27494,
+          27643
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Respiratory Viral Panel (PCR)** – Nasopharyngeal swab for influenza A/B, RSV, adenovirus, human metapneumovirus, parainfluenza, rhinovirus/enteroviru"
+    }
+  ]
+}

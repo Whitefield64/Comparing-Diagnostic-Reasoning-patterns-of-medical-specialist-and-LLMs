@@ -1,0 +1,29 @@
+{
+  "case": "1990 Case 19__openai-gpt-oss-120b.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-17T22:43:52.016177+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          35473,
+          35615
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The two most compelling candidates, based on the totality of data, are **alveolar echinococcosis** and **undifferentiated embryonal sarcoma**."
+    },
+    {
+      "ranges": [
+        [
+          8609,
+          8911
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The case of a 12‑year‑old boy with a several‑week history of intermittent fever, progressive fatigue, right‑shoulder discomfort, peripheral edema, digital clubbing and a large, heterogeneous hepatic mass raises a broad differential that spans infectious, inflammatory, neoplastic and vascular entities."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "case": "1996 Case 14__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T02:29:32.423792+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8655,
+          8832
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The temporal relationship between the initiation of methotrexate six weeks prior to the onset of oral ulcers and the subsequent eruption is highly suggestive of a drug etiology."
+    },
+    {
+      "ranges": [
+        [
+          8833,
+          9042
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Methotrexate is a well-documented, albeit uncommon, trigger of TEN, particularly in patients with renal impairment, as it is primarily excreted renally and accumulates in the setting of chronic kidney disease."
+    },
+    {
+      "ranges": [
+        [
+          10061,
+          10294
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The fact that the eruption followed the appearance of oral ulcers—a classic prodrome of TEN—strongly favors a delayed-type hypersensitivity reaction rather than a direct cytotoxic effect, aligning with the immune pathogenesis of TEN."
+    },
+    {
+      "ranges": [
+        [
+          10794,
+          10933
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "the biopsy findings were consistent with TEN, not viral cytopathic change, and multiple viral cultures from oral lesions remained negative."
+    },
+    {
+      "ranges": [
+        [
+          13745,
+          13874
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The histology here is definitive for TEN, not the interface dermatitis with lymphocytic infiltrate and eosinophils seen in DRESS."
+    },
+    {
+      "ranges": [
+        [
+          8447,
+          8654
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The hallmark clinical features—rapid progression from erythema and targetoid lesions to confluent epidermal sloughing, mucosal involvement (oral, ocular, genital), and systemic toxicity—are all present here."
+    },
+    {
+      "ranges": [
+        [
+          12698,
+          12890
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of mucosal ulceration, the histopathologic findings of full-thickness necrosis, and the absence of any staphylococcal isolate from skin or mucosal sites make SSSS highly unlikely."
+    },
+    {
+      "ranges": [
+        [
+          11332,
+          11485
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another critical differential is paraneoplastic pemphigus, a rare autoimmune blistering disease associated with underlying lymphoproliferative disorders."
+    },
+    {
+      "ranges": [
+        [
+          13876,
+          13993
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient’s underlying medical conditions created a perfect storm for the development and fatal progression of TEN."
+    },
+    {
+      "ranges": [
+        [
+          20049,
+          20204
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The case underscores the fragility of the immunocompromised host and the lethal synergy between drug-induced mucocutaneous injury and nosocomial infection."
+    }
+  ]
+}

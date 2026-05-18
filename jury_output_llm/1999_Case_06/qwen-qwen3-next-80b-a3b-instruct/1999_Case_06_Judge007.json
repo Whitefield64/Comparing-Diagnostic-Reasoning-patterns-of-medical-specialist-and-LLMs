@@ -1,0 +1,139 @@
+{
+  "case": "1999 Case 06__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T02:55:44.499156+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9034,
+          9225
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnosis in this context is **Takayasu arteritis (TA)**, a large-vessel vasculitis that predominantly affects young women, particularly of Asian or Mediterranean descent."
+    },
+    {
+      "ranges": [
+        [
+          15896,
+          16069
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most parsimonious diagnosis, integrating all elements, is **relapsing polychondritis with superimposed fibromuscular dysplasia and steroid-induced cushingoid features**."
+    },
+    {
+      "ranges": [
+        [
+          15421,
+          15634
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another possibility is **Vogt-Koyanagi-Harada (VKH) syndrome**, a multisystem autoimmune disorder affecting melanin-containing tissues: uveitis, meningoencephalitis, vitiligo, poliosis, and sensorineural deafness."
+    },
+    {
+      "ranges": [
+        [
+          16848,
+          16985
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The blue sclerae remain unexplained but may represent a coincidental connective tissue abnormality or a mild variant of a collagenopathy."
+    },
+    {
+      "ranges": [
+        [
+          5740,
+          5968
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The presence of blue sclerae is classically associated with osteogenesis imperfecta (OI), but OI does not typically cause aortic aneurysms of this magnitude, nor does it cause sensorineural hearing loss or renal artery stenosis."
+    },
+    {
+      "ranges": [
+        [
+          5979,
+          6141
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "the corneal findings—nummular scars with ghost vessels—are highly suggestive of prior inflammation, possibly interstitial keratitis, which is not a feature of OI."
+    },
+    {
+      "ranges": [
+        [
+          6297,
+          6520
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hypokalemia, metabolic alkalosis (elevated CO2), and renal artery stenosis point to a renin-angiotensin-aldosterone system (RAAS) activation, most likely secondary to fibromuscular dysplasia (FMD) of the renal arteries."
+    },
+    {
+      "ranges": [
+        [
+          6763,
+          6836
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The aortic aneurysm itself must be categorized by location and mechanism."
+    },
+    {
+      "ranges": [
+        [
+          5141,
+          5395
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of sexual activity, negative syphilis serology, and lack of classic signs of connective tissue disease such as arthritis or aphthous ulcers eliminate several common mimics, forcing us to consider more obscure, often underrecognized syndromes."
+    },
+    {
+      "ranges": [
+        [
+          8374,
+          8567
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient was treated with oral corticosteroids for ocular inflammation and then switched to intramuscular injections due to abdominal discomfort, suggesting prolonged, high-dose steroid use."
+    },
+    {
+      "ranges": [
+        [
+          12611,
+          12833
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The diagnostic criteria (McAdam’s criteria) include bilateral auricular chondritis, nasal chondritis, ocular inflammation, respiratory tract chondritis, cochlear or vestibular dysfunction, and histopathologic confirmation."
+    },
+    {
+      "ranges": [
+        [
+          9626,
+          9700
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The elevated ESR and leukocytosis are consistent with active inflammation."
+    }
+  ]
+}

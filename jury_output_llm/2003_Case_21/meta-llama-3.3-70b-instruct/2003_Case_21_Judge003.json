@@ -1,0 +1,172 @@
+{
+  "case": "2003 Case 21__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T05:15:26.049319+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          12064,
+          12252
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation of recurrent neurologic symptoms, including numbness, slurred speech, vertical diplopia, and vertigo, suggests a complex and multifactorial underlying condition."
+    },
+    {
+      "ranges": [
+        [
+          12419,
+          12650
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of extensive pleural calcifications and elevation of the left hemidiaphragm on chest radiographs is consistent with a history of tuberculosis, which may have led to chronic inflammation and subsequent vascular disease."
+    },
+    {
+      "ranges": [
+        [
+          13047,
+          13188
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "These findings, combined with the patient's symptoms, suggest a diagnosis of vertebral-basilar insufficiency or posterior circulation stroke."
+    },
+    {
+      "ranges": [
+        [
+          13421,
+          13680
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's elevated anticardiolipin-antibody IgG and IgM levels, borderline positive lupus anticoagulant, and positive preliminary result for ANCA, suggest an underlying autoimmune or inflammatory condition, such as antiphospholipid syndrome or vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          13681,
+          13924
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's lack of response to anticoagulation therapy, as evidenced by the development of new infarctions despite treatment with heparin and warfarin, suggests that the underlying condition may be more aggressive or resistant to treatment."
+    },
+    {
+      "ranges": [
+        [
+          13926,
+          14137
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The presence of a dilated proximal ascending aorta on cardiac ultrasonography and the patient's history of hypertension may contribute to the development of aortic disease, such as aortic dissection or aneurysm."
+    },
+    {
+      "ranges": [
+        [
+          14576,
+          14794
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Other potential diagnoses to consider include cardiac embolism, given the patient's history of possible septal infarct and old inferior myocardial infarct, as well as the presence of a dilated proximal ascending aorta."
+    },
+    {
+      "ranges": [
+        [
+          14138,
+          14377
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's symptoms, including dysarthria, vertical nystagmus, and ataxia, suggest involvement of the brainstem and cerebellum, which may be consistent with a diagnosis of posterior circulation stroke or vertebral-basilar insufficiency."
+    },
+    {
+      "ranges": [
+        [
+          17580,
+          17795
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the patient's presentation is consistent with a complex and multifactorial underlying condition, likely involving a combination of atherosclerotic disease, autoimmune or inflammatory conditions, and cardiac disease."
+    },
+    {
+      "ranges": [
+        [
+          17796,
+          18040
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's lack of response to anticoagulation therapy and the presence of multifocal bilateral stenoses of the vertebral artery suggest a more aggressive or resistant underlying condition, which may require further evaluation and treatment."
+    },
+    {
+      "ranges": [
+        [
+          18754,
+          18990
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of multifocal bilateral stenoses of the vertebral artery on cerebral angiography suggests a more complex and dynamic process, which may require further evaluation and treatment, including the use of angioplasty or stenting."
+    },
+    {
+      "ranges": [
+        [
+          19395,
+          19667
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of tuberculosis and the presence of extensive pleural calcifications and elevation of the left hemidiaphragm on chest radiographs suggest a possible underlying chronic inflammatory process, which may contribute to the development of vascular disease."
+    },
+    {
+      "ranges": [
+        [
+          19668,
+          19902
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's symptoms, including numbness, slurred speech, and vertigo, suggest involvement of the brainstem and cerebellum, which may be consistent with a diagnosis of posterior circulation stroke or vertebral-basilar insufficiency."
+    },
+    {
+      "ranges": [
+        [
+          14387,
+          14574
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "the presence of multifocal bilateral stenoses of the vertebral artery and the patient's autoimmune and inflammatory markers suggest a more complex and multifactorial underlying condition."
+    },
+    {
+      "ranges": [
+        [
+          12652,
+          12883
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The initial CT scan of the head revealed a small focus of hypoattenuation in the right cerebellum, consistent with an old infarct, and slight hypoattenuation in the periventricular white matter, suggesting microangiopathic disease."
+    }
+  ]
+}

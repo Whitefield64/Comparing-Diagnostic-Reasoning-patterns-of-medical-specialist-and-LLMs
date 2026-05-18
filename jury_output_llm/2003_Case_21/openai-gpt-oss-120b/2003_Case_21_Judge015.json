@@ -1,0 +1,29 @@
+{
+  "case": "2003 Case 21__openai-gpt-oss-120b.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T05:50:10.232797+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          12057,
+          12349
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical picture is that of a 72‑year‑old man who suffered a series of transient brain‑stem and cerebellar symptoms that progressed to multiple radiographically documented infarcts in the posterior circulation (vertebro‑basilar territory) despite anticoagulation and antiplatelet therapy."
+    },
+    {
+      "ranges": [
+        [
+          17934,
+          18115
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "he presence of systemic inflammation, autoantibodies, and the non‑calcified nature of the lesions suggests that atherosclerosis is likely **augmented by an inflammatory vasculopathy"
+    }
+  ]
+}

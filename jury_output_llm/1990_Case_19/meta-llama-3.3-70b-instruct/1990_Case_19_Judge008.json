@@ -1,0 +1,238 @@
+{
+  "case": "1990 Case 19__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-17T22:26:39.326155+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9169,
+          9320
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Hepatoblastoma, a rare liver cancer that primarily affects children, could be a consideration given the patient's age and the presence of a liver mass."
+    },
+    {
+      "ranges": [
+        [
+          9472,
+          9708
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other malignancies, such as lymphoma or metastatic disease, could also involve the liver, but the clinical context and the specific characteristics of the liver mass as described do not strongly support these diagnoses at this juncture."
+    },
+    {
+      "ranges": [
+        [
+          9709,
+          9851
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pathophysiology of hepatoblastoma involves the uncontrolled proliferation of liver cells, which can lead to the formation of a large mass."
+    },
+    {
+      "ranges": [
+        [
+          10229,
+          10402
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious causes are a significant consideration given the patient's extensive travel history, which includes visits to areas with potential exposures to various pathogens."
+    },
+    {
+      "ranges": [
+        [
+          10403,
+          10584
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's symptoms of fever, fatigue, and weight loss, along with the finding of a hepatic mass, could suggest an infectious process such as an abscess or a parasitic infection."
+    },
+    {
+      "ranges": [
+        [
+          10585,
+          10727
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The history of swimming in freshwater pools and estuaries in different parts of the world increases the risk for certain parasitic infections."
+    },
+    {
+      "ranges": [
+        [
+          10728,
+          10979
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "For example, schistosomiasis, caused by Schistosoma species, is a possibility, although the clinical presentation and the lack of specific exposure history (e.g., swimming in contaminated freshwater in endemic areas like Africa) make this less likely."
+    },
+    {
+      "ranges": [
+        [
+          10981,
+          11192
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other parasitic infections such as echinococcosis (hydatid disease) could also present with a hepatic mass, especially given the patient's travel to areas where this disease is endemic, such as Greece or Turkey."
+    },
+    {
+      "ranges": [
+        [
+          12326,
+          12498
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pathophysiology of giardiasis involves the infection of the small intestine by Giardia lamblia, leading to symptoms such as diarrhea, abdominal cramps, and weight loss."
+    },
+    {
+      "ranges": [
+        [
+          11811,
+          12076
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The administration of metronidazole, an antibiotic effective against certain bacterial and protozoal infections, suggests that an infectious cause was being considered, but the lack of response and the negative cultures do not support a typical bacterial infection."
+    },
+    {
+      "ranges": [
+        [
+          12580,
+          12758
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Inflammatory causes, such as autoimmune hepatitis or primary sclerosing cholangitis, are less likely given the clinical presentation and the specific findings on imaging studies."
+    },
+    {
+      "ranges": [
+        [
+          13173,
+          13306
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pathophysiology of autoimmune hepatitis involves the immune system attacking the liver cells, leading to inflammation and damage."
+    },
+    {
+      "ranges": [
+        [
+          13622,
+          13804
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pathophysiology of primary sclerosing cholangitis involves the inflammation and scarring of the bile ducts, which can lead to chronic liver disease and potentially liver failure."
+    },
+    {
+      "ranges": [
+        [
+          15048,
+          15272
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Systemic diseases that could involve the liver, such as systemic lupus erythematosus or sarcoidosis, are also potential considerations but are less likely given the patient's age, sex, and the specific clinical presentation."
+    },
+    {
+      "ranges": [
+        [
+          15805,
+          15986
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pathophysiology of sarcoidosis involves the formation of granulomas in various organs, including the liver, which can lead to chronic inflammation and potentially organ failure."
+    },
+    {
+      "ranges": [
+        [
+          17121,
+          17273
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of a well-defined, large hepatic mass with cystic and solid components, as described on imaging studies, is consistent with this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          17288,
+          17390
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the patient's extensive travel history to endemic areas increases the likelihood of such an infection."
+    },
+    {
+      "ranges": [
+        [
+          20760,
+          20901
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The imaging characteristics, including the size, location, and composition of the mass, are critical in narrowing the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          18946,
+          19135
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In addition to echinococcosis, other infectious causes, such as amoebic liver abscess or pyogenic liver abscess, should also be considered and ruled out with appropriate diagnostic testing."
+    },
+    {
+      "ranges": [
+        [
+          21301,
+          21445
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's symptoms, including fever, fatigue, and weight loss, are non-specific and can be seen in various infectious or parasitic diseases."
+    },
+    {
+      "ranges": [
+        [
+          21446,
+          21587
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's travel history, including visits to endemic areas, increases the risk for certain parasitic infections, such as echinococcosis."
+    }
+  ]
+}

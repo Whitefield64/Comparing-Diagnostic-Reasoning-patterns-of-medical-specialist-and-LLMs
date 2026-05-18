@@ -1,0 +1,150 @@
+{
+  "case": "1992 Case 41__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T00:37:48.154760+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7560,
+          7731
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling consideration is right ventricular outflow tract obstruction due to pulmonary valve stenosis, possibly with associated dysplasia or annular hypoplasia."
+    },
+    {
+      "ranges": [
+        [
+          6682,
+          6750
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another possibility is a subaortic or supravalvular aortic stenosis."
+    },
+    {
+      "ranges": [
+        [
+          4479,
+          4658
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most prominent cardiac finding is a Grade 3, harsh, long systolic ejection murmur, loudest at the left midsternal border, radiating to the upper right sternal border and apex."
+    },
+    {
+      "ranges": [
+        [
+          7732,
+          7847
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The murmur’s harshness and duration suggest high-velocity turbulent flow, which is typical of significant stenosis."
+    },
+    {
+      "ranges": [
+        [
+          7848,
+          7974
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The conduction delay on ECG may reflect chronic right ventricular pressure overload, even in the absence of overt hypertrophy."
+    },
+    {
+      "ranges": [
+        [
+          8180,
+          8330
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the stenosis is mild to moderate, and there is compensatory collateral flow or associated septal defect, increased pulmonary vascularity can occur."
+    },
+    {
+      "ranges": [
+        [
+          5435,
+          5763
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The ECG shows only right ventricular conduction delay without hypertrophy, which is an important distinction: conduction delay can occur in chronic volume or pressure overload states, but the absence of voltage criteria for right ventricular hypertrophy suggests that any right heart strain is either mild or not yet structural."
+    },
+    {
+      "ranges": [
+        [
+          4116,
+          4379
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "We must consider whether the cardiac findings are an isolated incidental finding, a consequence of chronic renal disease, a manifestation of an underlying syndromic or genetic disorder, or a primary congenital cardiac anomaly with coincidental urologic pathology."
+    },
+    {
+      "ranges": [
+        [
+          12487,
+          12537
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The murmur does not suggest a conotruncal anomaly."
+    },
+    {
+      "ranges": [
+        [
+          13945,
+          14206
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "the mother’s history of repaired PDA and the sister’s recurrent respiratory infections may reflect a familial predisposition to connective tissue or developmental anomalies, perhaps a low-penetrance autosomal dominant condition affecting mesodermal development."
+    },
+    {
+      "ranges": [
+        [
+          14393,
+          14538
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another consideration is **Alport syndrome**, which can present with progressive renal disease, sensorineural hearing loss, and ocular abnormalit"
+    },
+    {
+      "ranges": [
+        [
+          7975,
+          8170
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The chest radiograph shows increased pulmonary vasculature, which is inconsistent with severe pulmonary stenosis, as that would typically show decreased pulmonary vascularity due to reduced flow."
+    },
+    {
+      "ranges": [
+        [
+          9901,
+          10123
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The key point is that chronic kidney disease in childhood is associated with a variety of cardiovascular complications, including systemic hypertension, left ventricular hypertrophy, and accelerated vascular calcification."
+    }
+  ]
+}

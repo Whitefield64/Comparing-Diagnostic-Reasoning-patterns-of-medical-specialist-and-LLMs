@@ -96,7 +96,9 @@ If neither strategy finds a match above the threshold, the span is flagged as `u
 
 ## Stage 5 — Writer (`writer.py`)
 
-For each voter, the writer produces one JSON file in `jury_output/{case_stem}/`:
+For each voter, the writer produces one JSON file under the output directory. The output layout differs between human cases and LLM-generated cases.
+
+**Human cases** (`jury_output/`):
 
 ```
 jury_output/
@@ -108,11 +110,26 @@ jury_output/
     └── 2003_Case_21_jury_summary.json
 ```
 
-Each per-voter file is schema-identical to the manual annotation files:
+**LLM-generated cases** (`jury_output_llm/`), one subfolder per generation model:
+
+```
+jury_output_llm/
+└── 2003_Case_21/
+    ├── meta-llama-3.3-70b-instruct/
+    │   ├── 2003_Case_21_Judge001.json
+    │   ├── ...
+    │   └── 2003_Case_21_jury_summary.json
+    ├── openai-gpt-oss-120b/
+    │   └── ...
+    └── qwen-qwen3-next-80b-a3b-instruct/
+        └── ...
+```
+
+Each per-voter file is schema-identical to the manual annotation files in both cases:
 
 ```json
 {
-  "case": "2003 Case 21.md",
+  "case": "2003 Case 21__meta-llama-3.3-70b-instruct.md",
   "annotator": "Judge001",
   "exported_at": "2026-04-27T...",
   "annotations": [
@@ -135,22 +152,46 @@ The summary file records how many voters succeeded, how many failed, and the lis
 ```bash
 # Set your API key (or add it to .env)
 export NVIDIA_API_KEY=your_key_here
+```
 
+### Human cases
+
+```bash
 # Dry run — 3 voters only, to validate the pipeline cheaply
 uv run python -m jury.run_jury --dry-run "cases/2003 Case 21.md"
 
 # Full run — 15 voters on one case
 uv run python -m jury.run_jury "cases/2003 Case 21.md"
 
-# Batch run on multiple cases
+# Batch run on all cases
 uv run python -m jury.run_jury cases/*.md
 
 # Override voter count
 uv run python -m jury.run_jury --voters 5 "cases/2003 Case 21.md"
 
-# set voter batch size and delay (to avoid NVIDIA limitations)
-VOTER_BATCH_SIZE=3 VOTER_BATCH_DELAY=5 python -m jury.run_jury cases/*.md
+# Override batch size and delay (to stay within NVIDIA rate limits)
+VOTER_BATCH_SIZE=3 VOTER_BATCH_DELAY=5 uv run python -m jury.run_jury cases/*.md
 ```
+
+### LLM-generated cases
+
+Use `--llm` to switch to directory-based input. Each positional argument must be a case directory from `cases_llm/`. The pipeline discovers the three `.md` files inside each directory automatically and writes output to a separate subfolder per generation model.
+
+```bash
+# Dry run on one LLM case directory (3 voters, all 3 models)
+uv run python -m jury.run_jury --llm --dry-run --output-dir jury_output_llm "cases_llm/2003 Case 21"
+
+# Full run on one LLM case directory
+uv run python -m jury.run_jury --llm --output-dir jury_output_llm "cases_llm/2003 Case 21"
+
+# Batch run on all LLM cases
+uv run python -m jury.run_jury --llm --output-dir jury_output_llm cases_llm/*
+
+# Override voter count
+uv run python -m jury.run_jury --llm --voters 5 --output-dir jury_output_llm cases_llm/*
+```
+
+The prompt, taxonomy, few-shot examples, offset resolver, and voter logic are identical between human and LLM modes — only the input discovery and output directory structure differ.
 
 ---
 

@@ -1,0 +1,557 @@
+{
+  "case": "1992 Case 16__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-17T23:42:26.668250+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4156,
+          4336
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient presents with a complex clinical picture, characterized by cervical pain radiating to the left shoulder, paresthesias in the left hand, and clumsiness of the left hand."
+    },
+    {
+      "ranges": [
+        [
+          4969,
+          5181
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of trauma, the initial differential diagnosis should include conditions related to the traumatic events, such as fractures, dislocations, or ligamentous injuries of the cervical spine."
+    },
+    {
+      "ranges": [
+        [
+          5287,
+          5463
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of an osteolytic lesion and a soft-tissue mass on the CT scan suggests a more complex process, possibly involving infection, inflammation, or a neoplastic process."
+    },
+    {
+      "ranges": [
+        [
+          5464,
+          5618
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Infectious processes, such as osteomyelitis or discitis, should be considered, especially given the patient's history of infected cuticles and paronychia."
+    },
+    {
+      "ranges": [
+        [
+          5619,
+          5737
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "These conditions could lead to destruction of the vertebral body and disc space, consistent with the imaging findings."
+    },
+    {
+      "ranges": [
+        [
+          5944,
+          6108
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The erythrocyte sedimentation rate of 50 mm per hour does suggest some degree of inflammation, which could be consistent with an infectious or inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          5738,
+          5943
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "However, the patient's lack of systemic symptoms such as fever, chills, or night sweats makes an infectious process less likely, although it cannot be ruled out entirely without further diagnostic testing."
+    },
+    {
+      "ranges": [
+        [
+          6451,
+          6580
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's hematocrit and white-cell count are within normal limits, which makes a chronic inflammatory condition less likely."
+    },
+    {
+      "ranges": [
+        [
+          6581,
+          6726
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Neoplastic processes, either primary or metastatic, should also be considered, given the presence of an osteolytic lesion and a soft-tissue mass."
+    },
+    {
+      "ranges": [
+        [
+          6727,
+          6860
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Primary tumors of the spine, such as osteosarcoma or chordoma, are rare but could present with similar symptoms and imaging findings."
+    },
+    {
+      "ranges": [
+        [
+          7059,
+          7204
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's neurologic symptoms, including paresthesias and clumsiness of the left hand, suggest involvement of the spinal cord or nerve roots."
+    },
+    {
+      "ranges": [
+        [
+          7548,
+          7744
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of a soft-tissue mass protruding into the neural canal on the CT scan raises concerns about spinal cord compression, which could lead to serious neurologic deficits if left untreated."
+    },
+    {
+      "ranges": [
+        [
+          7999,
+          8182
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": " The patient's occupation as a surgical assistant and her history of infected cuticles and paronychia raise the possibility of an occupational exposure to a pathogen or a foreign body"
+    },
+    {
+      "ranges": [
+        [
+          8958,
+          9115
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnoses at this point include an infectious process, such as osteomyelitis or discitis, and a neoplastic process, either primary or metastatic."
+    },
+    {
+      "ranges": [
+        [
+          9469,
+          9689
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Further evaluation, including laboratory studies such as blood cultures and inflammatory markers, and additional imaging studies, such as a bone scan or a PET scan, may be helpful in narrowing the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9690,
+          9771
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "A biopsy of the lesion may also be necessary to establish a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8770,
+          8957
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's symptoms and imaging findings suggest a serious underlying condition, and prompt diagnosis and treatment are essential to prevent further complications and improve outcomes."
+    },
+    {
+      "ranges": [
+        [
+          13014,
+          13180
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's case highlights the importance of a thorough diagnostic evaluation, including a complete history, physical examination, laboratory studies, and imaging."
+    },
+    {
+      "ranges": [
+        [
+          13181,
+          13339
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The use of advanced imaging techniques, such as MRI and CT scans, can provide valuable information about the underlying condition and help to guide treatment."
+    },
+    {
+      "ranges": [
+        [
+          13340,
+          13663
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's occupation as a surgical assistant and her history of infected cuticles and paronychia also raise concerns about the possibility of an occupational exposure to a pathogen or a foreign body, and further evaluation may be necessary to identify potential risks and develop strategies to prevent further exposure."
+    },
+    {
+      "ranges": [
+        [
+          16253,
+          16477
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms and imaging findings suggest a complex and challenging case, and further evaluation and diagnostic testing will be necessary to establish a definitive diagnosis and develop an effective treatment plan."
+    },
+    {
+      "ranges": [
+        [
+          17784,
+          17915
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's case is a reminder of the importance of interdisciplinary collaboration and communication among healthcare providers."
+    },
+    {
+      "ranges": [
+        [
+          14533,
+          14733
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's primary care physician, neurosurgeon, orthopedic surgeon, and other specialists will need to work together to develop an effective treatment plan and to provide ongoing care and support."
+    },
+    {
+      "ranges": [
+        [
+          14734,
+          14900
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's occupation as a surgical assistant may also require special consideration, as certain diagnoses or treatments may affect her ability to perform her job."
+    },
+    {
+      "ranges": [
+        [
+          8436,
+          8586
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In conclusion, the differential diagnosis for this patient is broad and includes traumatic, infectious, inflammatory, neoplastic, and rare conditions."
+    },
+    {
+      "ranges": [
+        [
+          8587,
+          8769
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Further diagnostic testing, including laboratory studies, imaging, and possibly a biopsy, will be necessary to narrow the differential diagnosis and establish a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8770,
+          8957
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's symptoms and imaging findings suggest a serious underlying condition, and prompt diagnosis and treatment are essential to prevent further complications and improve outcomes."
+    },
+    {
+      "ranges": [
+        [
+          18807,
+          18959
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's case highlights the importance of a thorough diagnostic evaluation, interdisciplinary collaboration, and ongoing monitoring and follow-up."
+    },
+    {
+      "ranges": [
+        [
+          13843,
+          14022
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's symptoms and imaging findings will need to be closely monitored, and adjustments to the treatment plan may be necessary based on the patient's response to treatment."
+    },
+    {
+      "ranges": [
+        [
+          13340,
+          13663
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's occupation as a surgical assistant and her history of infected cuticles and paronychia also raise concerns about the possibility of an occupational exposure to a pathogen or a foreign body, and further evaluation may be necessary to identify potential risks and develop strategies to prevent further exposure."
+    },
+    {
+      "ranges": [
+        [
+          19464,
+          19657
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's case is a complex and challenging one, and further evaluation and diagnostic testing will be necessary to establish a definitive diagnosis and develop an effective treatment plan."
+    },
+    {
+      "ranges": [
+        [
+          8770,
+          8957
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's symptoms and imaging findings suggest a serious underlying condition, and prompt diagnosis and treatment are essential to prevent further complications and improve outcomes."
+    },
+    {
+      "ranges": [
+        [
+          16087,
+          16252
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's case highlights the importance of considering the patient's occupation and medical history when developing a differential diagnosis and treatment plan."
+    },
+    {
+      "ranges": [
+        [
+          16253,
+          16477
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms and imaging findings suggest a complex and challenging case, and further evaluation and diagnostic testing will be necessary to establish a definitive diagnosis and develop an effective treatment plan."
+    },
+    {
+      "ranges": [
+        [
+          10711,
+          10951
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "In addition to the diagnostic testing and treatment mentioned earlier, the patient may also benefit from a consultation with a specialist, such as a neurosurgeon or an orthopedic surgeon, to discuss the possibility of surgical intervention."
+    },
+    {
+      "ranges": [
+        [
+          8770,
+          8957
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's symptoms and imaging findings suggest a serious underlying condition, and prompt diagnosis and treatment are essential to prevent further complications and improve outcomes."
+    },
+    {
+      "ranges": [
+        [
+          13014,
+          13180
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's case highlights the importance of a thorough diagnostic evaluation, including a complete history, physical examination, laboratory studies, and imaging."
+    },
+    {
+      "ranges": [
+        [
+          17784,
+          17915
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's case is a reminder of the importance of interdisciplinary collaboration and communication among healthcare providers."
+    },
+    {
+      "ranges": [
+        [
+          14533,
+          14733
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's primary care physician, neurosurgeon, orthopedic surgeon, and other specialists will need to work together to develop an effective treatment plan and to provide ongoing care and support."
+    },
+    {
+      "ranges": [
+        [
+          14734,
+          14900
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's occupation as a surgical assistant may also require special consideration, as certain diagnoses or treatments may affect her ability to perform her job."
+    },
+    {
+      "ranges": [
+        [
+          8436,
+          8586
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "In conclusion, the differential diagnosis for this patient is broad and includes traumatic, infectious, inflammatory, neoplastic, and rare conditions."
+    },
+    {
+      "ranges": [
+        [
+          8587,
+          8769
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Further diagnostic testing, including laboratory studies, imaging, and possibly a biopsy, will be necessary to narrow the differential diagnosis and establish a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8770,
+          8957
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's symptoms and imaging findings suggest a serious underlying condition, and prompt diagnosis and treatment are essential to prevent further complications and improve outcomes."
+    },
+    {
+      "ranges": [
+        [
+          18807,
+          18959
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's case highlights the importance of a thorough diagnostic evaluation, interdisciplinary collaboration, and ongoing monitoring and follow-up."
+    },
+    {
+      "ranges": [
+        [
+          13843,
+          14022
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's symptoms and imaging findings will need to be closely monitored, and adjustments to the treatment plan may be necessary based on the patient's response to treatment."
+    },
+    {
+      "ranges": [
+        [
+          13340,
+          13663
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's occupation as a surgical assistant and her history of infected cuticles and paronychia also raise concerns about the possibility of an occupational exposure to a pathogen or a foreign body, and further evaluation may be necessary to identify potential risks and develop strategies to prevent further exposure."
+    },
+    {
+      "ranges": [
+        [
+          19464,
+          19657
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's case is a complex and challenging one, and further evaluation and diagnostic testing will be necessary to establish a definitive diagnosis and develop an effective treatment plan."
+    },
+    {
+      "ranges": [
+        [
+          8770,
+          8957
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's symptoms and imaging findings suggest a serious underlying condition, and prompt diagnosis and treatment are essential to prevent further complications and improve outcomes."
+    },
+    {
+      "ranges": [
+        [
+          16087,
+          16252
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's case highlights the importance of considering the patient's occupation and medical history when developing a differential diagnosis and treatment plan."
+    },
+    {
+      "ranges": [
+        [
+          16253,
+          16477
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's symptoms and imaging findings suggest a complex and challenging case, and further evaluation and diagnostic testing will be necessary to establish a definitive diagnosis and develop an effective treatment plan."
+    }
+  ]
+}

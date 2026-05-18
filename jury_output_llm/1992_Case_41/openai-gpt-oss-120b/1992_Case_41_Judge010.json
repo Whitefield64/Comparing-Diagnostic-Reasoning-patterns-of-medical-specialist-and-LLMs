@@ -1,0 +1,128 @@
+{
+  "case": "1992 Case 41__openai-gpt-oss-120b.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T00:26:30.999077+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23216,
+          23458
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling concordance is between the murmur’s acoustic characteristics (harsh, long systolic ejection, radiation to apex) and a left‑sided outflow obstruction, most commonly **valvar aortic stenosis** due to a bicuspid aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          23460,
+          23684
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of systemic hypertension is readily explained by chronic obstructive uropathy with renin‑angiotensin activation, and the hypertension may be contributing to the LV pressure load, thereby accentuating the murmur."
+    },
+    {
+      "ranges": [
+        [
+          27599,
+          27827
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The murmur’s radiation to the apex, the hyperdynamic apical impulse, and the absence of differential pulses or cyanosis collectively support a left‑sided outflow obstruction rather than a right‑sided or systemic vascular lesion."
+    },
+    {
+      "ranges": [
+        [
+          26761,
+          26920
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the aortic stenosis is moderate‑to‑severe, endocarditis prophylaxis may be indicated for dental procedures, in accordance with current pediatric guidelines."
+    },
+    {
+      "ranges": [
+        [
+          26951,
+          27252
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Serial echocardiograms every 6–12 months to monitor progression of the aortic gradient, LV mass, and to time potential surgical or catheter‑based intervention (e.g., balloon valvuloplasty, surgical valve repair/replacement) before the development of symptomatic heart failure or severe LV dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          27408,
+          27594
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "he **harsh, long systolic ejection murmur** that has become progressively louder is most characteristic of **valvar aortic stenosis**, most commonly associated with a bicuspid aortic val"
+    },
+    {
+      "ranges": [
+        [
+          27969,
+          28157
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Recognizing the coexistence of renal‑derived hypertension is essential because it may hasten the progression of LV pressure overload and influence the timing of any interventional therapy."
+    },
+    {
+      "ranges": [
+        [
+          16537,
+          16604
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The hyperdynamic apical impulse could reflect LV pressure overload."
+    },
+    {
+      "ranges": [
+        [
+          27829,
+          27967
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The right‑ventricular conduction delay on ECG, while atypical for isolated AS, may reflect a minor concomitant lesion or a benign variant."
+    },
+    {
+      "ranges": [
+        [
+          24500,
+          24620
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hypertension likely augments LV afterload, amplifying the murmur and accounting for the hyperdynamic apical impulse."
+    },
+    {
+      "ranges": [
+        [
+          28159,
+          28382
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Definitive imaging (echocardiography) will confirm the valve anatomy, quantify the gradient, and guide the multidisciplinary management plan that must address both the cardiac obstruction and the underlying renal pathology."
+    }
+  ]
+}

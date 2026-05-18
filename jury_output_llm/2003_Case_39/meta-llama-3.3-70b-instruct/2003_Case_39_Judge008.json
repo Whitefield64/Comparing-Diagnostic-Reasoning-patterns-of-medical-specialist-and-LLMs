@@ -1,0 +1,260 @@
+{
+  "case": "2003 Case 39__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T06:12:36.563564+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5568,
+          5691
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the sudden onset of symptoms and the presence of clots, it is essential to consider both benign and malignant causes."
+    },
+    {
+      "ranges": [
+        [
+          6139,
+          6288
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the patient's presentation with gross hematuria and the absence of significant proteinuria or renal dysfunction makes a glomerular cause less likely."
+    },
+    {
+      "ranges": [
+        [
+          6289,
+          6451
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Non-glomerular causes, which include conditions affecting the urinary tract from the renal pelvis to the urethra, are more consistent with the patient's symptoms."
+    },
+    {
+      "ranges": [
+        [
+          6828,
+          6925
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "the presence of a mass in the bladder, as seen on cystoscopy, indicates a more complex condition."
+    },
+    {
+      "ranges": [
+        [
+          7110,
+          7264
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's age and sex are not typical for bladder cancer, which is more common in older men, but it cannot be ruled out without further investigation."
+    },
+    {
+      "ranges": [
+        [
+          6927,
+          7009
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The finding of a mass in the bladder dome is highly suggestive of a bladder tumor."
+    },
+    {
+      "ranges": [
+        [
+          6482,
+          6567
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "urinary tract infections (UTIs) are a common cause of hematuria, especially in women."
+    },
+    {
+      "ranges": [
+        [
+          8942,
+          9074
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The diagnostic procedure performed, the details of which are not provided, would be critical in establishing a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          7010,
+          7109
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Bladder cancer, particularly transitional cell carcinoma, is a well-known cause of gross hematuria."
+    },
+    {
+      "ranges": [
+        [
+          5692,
+          5876
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's recent weight loss and history of hepatitis B infection also need to be taken into account, although their relevance to the current presentation is not immediately clear."
+    },
+    {
+      "ranges": [
+        [
+          13496,
+          13599
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The presence of ketones in the urine is an interesting finding, given the patient's recent weight loss."
+    },
+    {
+      "ranges": [
+        [
+          9921,
+          10078
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Considering the patient's symptoms and findings, a thorough evaluation for malignancy, including staging if a malignant diagnosis is confirmed, is essential."
+    },
+    {
+      "ranges": [
+        [
+          14242,
+          14420
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Further evaluation, including the results of the diagnostic procedure and specialist consultation, will be critical in establishing a definitive diagnosis and guiding management."
+    },
+    {
+      "ranges": [
+        [
+          16429,
+          16556
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's condition highlights the importance of a comprehensive and multidisciplinary approach to diagnosis and treatment."
+    },
+    {
+      "ranges": [
+        [
+          11687,
+          11860
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's anxiety and the fact that she appears well despite her symptoms suggest that she may be experiencing significant psychological distress related to her illness."
+    },
+    {
+      "ranges": [
+        [
+          16980,
+          17130
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's condition also underscores the importance of considering the patient's overall health and well-being in the diagnostic and treatment pro"
+    },
+    {
+      "ranges": [
+        [
+          10440,
+          10621
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of mixed bacteria in the urine culture and the initial treatment for a presumed UTI also suggest that an infectious cause may be contributing to the patient's symptoms."
+    },
+    {
+      "ranges": [
+        [
+          18551,
+          18711
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient may also require further evaluation by specialists, such as urologists and oncologists, to determine the best course of treatment for her condition."
+    },
+    {
+      "ranges": [
+        [
+          15435,
+          15581
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Ultimately, the diagnosis and management of this patient's condition will depend on the results of further evaluation and specialist consultation."
+    },
+    {
+      "ranges": [
+        [
+          20259,
+          20510
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "By considering a broad range of potential causes, addressing the patient's psychological distress and overall well-being, and prioritizing her overall health and well-being, it is possible to provide optimal care and ensure the best possible outcomes."
+    },
+    {
+      "ranges": [
+        [
+          19589,
+          19819
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's condition highlights the importance of a thorough and comprehensive approach to diagnosis and treatment, and the need for a multidisciplinary team of healthcare professionals to work together to provide optimal care."
+    },
+    {
+      "ranges": [
+        [
+          19820,
+          20067
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "By prioritizing the patient's overall health and well-being, and by taking a comprehensive and supportive approach to her care, it is possible to ensure that she receives the best possible outcomes and that her overall quality of life is improved."
+    },
+    {
+      "ranges": [
+        [
+          20069,
+          20258
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In conclusion, the patient's gross hematuria and bladder mass present a complex diagnostic challenge that requires a comprehensive and multidisciplinary approach to diagnosis and treatment."
+    }
+  ]
+}

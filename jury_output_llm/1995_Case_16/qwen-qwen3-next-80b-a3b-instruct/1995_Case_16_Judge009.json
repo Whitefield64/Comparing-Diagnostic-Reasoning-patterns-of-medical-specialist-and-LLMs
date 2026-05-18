@@ -1,0 +1,106 @@
+{
+  "case": "1995 Case 16__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T01:32:37.334597+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17029,
+          17171
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "combination of cardiac and pulmonary granulomatous disease** strongly points to either **tuberculosis** or **sarcoidosis** as the leading diag"
+    },
+    {
+      "ranges": [
+        [
+          17178,
+          17442
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Between the two, tuberculosis is more likely given the patient’s Caribbean origin (high TB burden), prior positive TSTs, family history, discontinuation of isoniazid, and the radiographic pattern of nodules centered on bronchovascular bundles with lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          17443,
+          17551
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The negative TST is likely due to anergy from chronic infection, a well-known phenomenon in disseminated TB."
+    },
+    {
+      "ranges": [
+        [
+          17552,
+          17699
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The myocardial biopsy’s failure to show granulomas may reflect sampling error, or the granulomas may have been fibrotic and not easily discernible."
+    },
+    {
+      "ranges": [
+        [
+          18808,
+          18897
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If these are negative, a lymph node biopsy (e.g., via mediastinoscopy) should be pursued."
+    },
+    {
+      "ranges": [
+        [
+          18545,
+          18716
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The next diagnostic step should be bronchoscopy with bronchoalveolar lavage for AFB smear, culture, and PCR, as well as transbronchial lung biopsy for granuloma detection."
+    },
+    {
+      "ranges": [
+        [
+          18436,
+          18544
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The clinical, radiographic, and epidemiological evidence strongly favors TB, despite negative initial tests."
+    },
+    {
+      "ranges": [
+        [
+          8425,
+          8713
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The pulmonary nodules described—10 mm, bilateral, confluent in the right upper lobe, centered on bronchovascular bundles, with bronchial wall thickening and segmental air-space disease—are classic for **tuberculous granulomatous pneumonia**, especially in the setting of reactivation dise"
+    },
+    {
+      "ranges": [
+        [
+          17826,
+          17962
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The presence of mild pericardial effusion and right heart failure may reflect concomitant pericardial or pulmonary vascular involvement."
+    }
+  ]
+}

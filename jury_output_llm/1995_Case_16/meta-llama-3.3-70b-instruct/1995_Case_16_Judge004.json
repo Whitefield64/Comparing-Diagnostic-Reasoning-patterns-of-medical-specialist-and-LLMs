@@ -1,0 +1,183 @@
+{
+  "case": "1995 Case 16__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T00:56:01.505776+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6530,
+          6697
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with recurrent ventricular tachycardia, dilated cardiomyopathy, and pulmonary lesions suggests a complex and multifactorial disease process."
+    },
+    {
+      "ranges": [
+        [
+          6861,
+          7080
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Initially, the presence of dilated cardiomyopathy and ventricular tachycardia raises concerns about primary cardiac diseases, such as arrhythmogenic right ventricular cardiomyopathy or idiopathic dilated cardiomyopathy."
+    },
+    {
+      "ranges": [
+        [
+          7224,
+          7386
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious causes, such as tuberculosis, should be considered given the patient's history of positive tuberculin skin tests and the presence of pulmonary lesions."
+    },
+    {
+      "ranges": [
+        [
+          7735,
+          7945
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other infectious causes, such as fungal infections (e.g., histoplasmosis or coccidioidomycosis), should also be considered, particularly given the patient's travel history and the presence of pulmonary nodules."
+    },
+    {
+      "ranges": [
+        [
+          8119,
+          8187
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory causes, such as sarcoidosis, should also be considered."
+    },
+    {
+      "ranges": [
+        [
+          8867,
+          9003
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Malignant causes, such as lymphoma, should also be considered, particularly given the presence of lymphadenopathy and pulmonary lesions."
+    },
+    {
+      "ranges": [
+        [
+          9541,
+          9641
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Structural causes, such as cardiac sarcoidosis or giant cell myocarditis, should also be considered."
+    },
+    {
+      "ranges": [
+        [
+          10251,
+          10362
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Systemic causes, such as autoimmune disorders (e.g., lupus or rheumatoid arthritis), should also be considered."
+    },
+    {
+      "ranges": [
+        [
+          8628,
+          8865
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy could be related to cardiac sarcoidosis, which can cause inflammation and scarring in the heart, leading to arrhythmias and cardiac dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          9948,
+          10249
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy could be related to a structural heart disease, such as arrhythmogenic right ventricular cardiomyopathy, which can cause inflammation and scarring in the heart, leading to arrhythmias and cardiac dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          10735,
+          10990
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy could be related to an autoimmune disorder, such as lupus, which can cause inflammation and scarring in the heart, leading to arrhythmias and cardiac dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          9232,
+          9331
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's age and lack of other risk factors for lymphoma also make this diagnosis less likely."
+    },
+    {
+      "ranges": [
+        [
+          11285,
+          11496
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "ral, and systemic causes, the most likely diagnosis is a condition that can cause cardiac dysfunction, arrhythmias, and conduction abnormalities, and can be associated with pulmonary lesions and lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          8300,
+          8460
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of pulmonary lesions, lymphadenopathy, and cardiac involvement, including conduction abnormalities and arrhythmias, is consistent with sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          15559,
+          15750
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient's recurrent ventricular tachycardia and dilated cardiomyopathy could be related to a variety of factors, including inflammation, scarring, and electrical instability in the heart."
+    },
+    {
+      "ranges": [
+        [
+          16892,
+          17100
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's history, physical examination, laboratory studies, and imaging examinations all suggest a systemic disease process, which could be related to an infectious, inflammatory, or malignant condition."
+    }
+  ]
+}

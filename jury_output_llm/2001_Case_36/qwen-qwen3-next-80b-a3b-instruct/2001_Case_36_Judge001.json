@@ -1,0 +1,447 @@
+{
+  "case": "2001 Case 36__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T04:45:16.541536+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6490,
+          6730
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate consideration is **opportunistic pulmonary infection**, particularly given his history of *Pneumocystis jirovecii* pneumonia (formerly *carinii*) on at least two prior occasions, and his current immunosuppressive regimen."
+    },
+    {
+      "ranges": [
+        [
+          6731,
+          6966
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Although he is on trimethoprim–sulfamethoxazole prophylaxis, its dose has been reduced to one tablet three times weekly—a suboptimal regimen for full protection, especially in the setting of ongoing corticosteroid use and cyclosporine."
+    },
+    {
+      "ranges": [
+        [
+          6967,
+          7020
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "*P. jirovecii* pneumonia remains a leading candidate."
+    },
+    {
+      "ranges": [
+        [
+          7021,
+          7364
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The classic radiographic appearance of *P. jirovecii* is bilateral, symmetric, perihilar interstitial infiltrates, often with a “ground-glass” pattern, but in immunocompromised hosts with prolonged disease or prior lung injury, it may present with patchy, linear, or consolidative opacities that mimic other pneumonias or organizing pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          8149,
+          8309
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A second critical infectious consideration is **viral pneumonia**, particularly from respiratory syncytial virus (RSV), influenza, parainfluenza, or adenovirus."
+    },
+    {
+      "ranges": [
+        [
+          8310,
+          8538
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient received an influenza vaccine 10 days before the onset of symptoms, which reduces—but does not eliminate—the risk of influenza infection, especially in immunocompromised individuals who mount poor antibody responses."
+    },
+    {
+      "ranges": [
+        [
+          9733,
+          9832
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A third major infectious category is **bacterial pneumonia**, but the differential here is nuanced."
+    },
+    {
+      "ranges": [
+        [
+          10524,
+          10655
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "More concerning is the possibility of **nontuberculous mycobacterial (NTM) infection**, particularly *Mycobacterium avium complex*."
+    },
+    {
+      "ranges": [
+        [
+          11347,
+          11437
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another critical consideration is **fungal infection**, especially invasive aspergillosis."
+    },
+    {
+      "ranges": [
+        [
+          12335,
+          12488
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential must also include **non-infectious causes of pulmonary deterioration**, particularly those related to his underlying autoimmune disease."
+    },
+    {
+      "ranges": [
+        [
+          12489,
+          12726
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "He has a well-documented history of **bronchiolitis obliterans with organizing pneumonia (BOOP)**, now termed cryptogenic organizing pneumonia (COP), and **polymyositis with anti-Jo-1 antibody**, which defines an antisynthetase syndrome."
+    },
+    {
+      "ranges": [
+        [
+          12947,
+          13122
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s current presentation—acute febrile illness with new pulmonary opacities—could represent an **acute flare of his underlying antisynthetase syndrome-related ILD**."
+    },
+    {
+      "ranges": [
+        [
+          13984,
+          14053
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another non-infectious consideration is **drug-induced lung injury**."
+    },
+    {
+      "ranges": [
+        [
+          14973,
+          15082
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A more subtle but important consideration is **gastroesophageal reflux disease (GERD) with microaspiration**."
+    },
+    {
+      "ranges": [
+        [
+          15845,
+          15956
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Finally, we must consider **malignancy**, though it is less likely as a primary cause of acute febrile illness."
+    },
+    {
+      "ranges": [
+        [
+          7365,
+          7633
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of hypoxemia (SaO₂ 98%) is atypical for severe *P. jirovecii*, but this patient has significant baseline restrictive and obstructive lung disease from prior organizing pneumonia and diffuse alveolar damage, which may blunt the expected degree of hypoxemia."
+    },
+    {
+      "ranges": [
+        [
+          7810,
+          8005
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The recent reduction in trimethoprim–sulfamethoxazole prophylaxis and the taper of prednisone from 15 mg to 5 mg likely created a window of relative immunosuppression sufficient for reactivation."
+    },
+    {
+      "ranges": [
+        [
+          8539,
+          8721
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Influenza in this population can present with atypical features: absence of prominent chills, less severe hypoxemia initially, and radiographic findings that may be subtle or patchy."
+    },
+    {
+      "ranges": [
+        [
+          8922,
+          9176
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "RSV is increasingly recognized as a cause of severe pneumonia in adults with immunosuppression, particularly those with hematologic malignancies or transplant recipients, but it also affects patients with chronic autoimmune disease on immunosuppressants."
+    },
+    {
+      "ranges": [
+        [
+          9177,
+          9317
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The radiographic pattern of patchy lower lobe opacities with peribronchial thickening is classic for viral bronchiolitis or viral pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          9318,
+          9499
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of wheezes or crackles does not exclude this, as the patient may have an underlying baseline airway disease from prior organizing pneumonia and bronchiolitis obliterans."
+    },
+    {
+      "ranges": [
+        [
+          9601,
+          9731
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "adenovirus can cause severe, necrotizing pneumonia in immunocompromised hosts and may mimic organizing pneumonia radiographically."
+    },
+    {
+      "ranges": [
+        [
+          9833,
+          10171
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient has had recurrent *Streptococcus pneumoniae* pneumonia, and while the current presentation lacks the classic lobar consolidation, the patchy opacities could represent early or atypical pneumococcal disease, especially in the setting of impaired mucociliary clearance due to diabetic autonomic neuropathy and prior lung injury."
+    },
+    {
+      "ranges": [
+        [
+          10172,
+          10345
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of glucose in the urine and trace ketones suggests hyperglycemia, which further impairs neutrophil chemotaxis and function, predisposing to bacterial infection."
+    },
+    {
+      "ranges": [
+        [
+          10355,
+          10523
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the absence of purulent sputum, rigors, or marked leukocytosis (though not reported, implied by lack of mention) makes classic community-acquired pneumonia less likely."
+    },
+    {
+      "ranges": [
+        [
+          10656,
+          10831
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "NTM infections are increasingly recognized in patients with chronic lung disease, especially those with prior organizing pneumonia or bronchiectasis from recurrent infections."
+    },
+    {
+      "ranges": [
+        [
+          10832,
+          10972
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The radiographic findings of patchy, linear, peribronchial opacities are classic for NTM bronchitis or early nodular bronchiectatic disease."
+    },
+    {
+      "ranges": [
+        [
+          10973,
+          11130
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient’s history of multiple hospitalizations, prior antibiotic exposure, and long-term steroid use all favor NTM as a slow-burning, insidious pathogen."
+    },
+    {
+      "ranges": [
+        [
+          11438,
+          11625
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient has been on prolonged corticosteroids and calcineurin inhibitors, both of which impair macrophage and T-cell function, creating an ideal environment for *Aspergillus* species."
+    },
+    {
+      "ranges": [
+        [
+          11626,
+          11843
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The radiographic findings of patchy, linear, peribronchial opacities may represent early angioinvasive aspergillosis, which can present with non-specific findings before the classic halo or air-crescent signs develop."
+    },
+    {
+      "ranges": [
+        [
+          11844,
+          11979
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "In immunocompromised patients, aspergillosis may manifest as bronchitis or bronchopneumonia without the classic radiographic hallmarks."
+    },
+    {
+      "ranges": [
+        [
+          11980,
+          12059
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of fever, cough, and dyspnea in this context is highly suspicious."
+    },
+    {
+      "ranges": [
+        [
+          16872,
+          17272
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The top three diagnostic possibilities are: (1) *Pneumocystis jirovecii* pneumonia, given his history, current prophylaxis status, and immunosuppressive regimen; (2) an acute flare of antisynthetase syndrome-related organizing pneumonia, triggered by steroid tapering; and (3) viral pneumonia, particularly influenza or RSV, given the prodromal upper respiratory symptoms and immunocompromised state."
+    },
+    {
+      "ranges": [
+        [
+          7021,
+          7364
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The classic radiographic appearance of *P. jirovecii* is bilateral, symmetric, perihilar interstitial infiltrates, often with a “ground-glass” pattern, but in immunocompromised hosts with prolonged disease or prior lung injury, it may present with patchy, linear, or consolidative opacities that mimic other pneumonias or organizing pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          9177,
+          9317
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The radiographic pattern of patchy lower lobe opacities with peribronchial thickening is classic for viral bronchiolitis or viral pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          10832,
+          10972
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The radiographic findings of patchy, linear, peribronchial opacities are classic for NTM bronchitis or early nodular bronchiectatic disease."
+    },
+    {
+      "ranges": [
+        [
+          11626,
+          11843
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The radiographic findings of patchy, linear, peribronchial opacities may represent early angioinvasive aspergillosis, which can present with non-specific findings before the classic halo or air-crescent signs develop."
+    },
+    {
+      "ranges": [
+        [
+          7810,
+          8005
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The recent reduction in trimethoprim–sulfamethoxazole prophylaxis and the taper of prednisone from 15 mg to 5 mg likely created a window of relative immunosuppression sufficient for reactivation."
+    },
+    {
+      "ranges": [
+        [
+          10172,
+          10345
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of glucose in the urine and trace ketones suggests hyperglycemia, which further impairs neutrophil chemotaxis and function, predisposing to bacterial infection."
+    },
+    {
+      "ranges": [
+        [
+          13528,
+          13725
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "his patient has had multiple prior episodes of organizing pneumonia, and the current lesion may be a recurrence of the same process, triggered by immunosuppression withdrawal rather than infection."
+    }
+  ]
+}

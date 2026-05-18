@@ -1,0 +1,95 @@
+{
+  "case": "2001 Case 36__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T04:27:07.384183+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5993,
+          6099
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious causes are high on the differential diagnosis list due to the patient's immunosuppressed state."
+    },
+    {
+      "ranges": [
+        [
+          7287,
+          7500
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the patient's history of autoimmune diseases, including seronegative rheumatoid arthritis and polymyositis, raises the possibility of an inflammatory or immune-mediated process contributing to the current illness."
+    },
+    {
+      "ranges": [
+        [
+          7501,
+          7711
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Exacerbation of bronchiolitis obliterans with organizing pneumonia (BOOP) is a possibility, given the patient's history of this condition and the presence of patchy and linear opacities on the chest radiograph."
+    },
+    {
+      "ranges": [
+        [
+          6987,
+          7252
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's symptoms of malaise, nonproductive cough, sore throat, and rhinorrhea could be consistent with a viral upper respiratory infection, although the presence of fever and the patient's immunocompromised state suggest that the illness could be more severe."
+    },
+    {
+      "ranges": [
+        [
+          9464,
+          9757
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's recent history of vaccination against influenza and the presence of a sore throat and rhinorrhea could suggest a viral upper respiratory infection, although the severity of the illness and the patient's immunocompromised state suggest that other causes should also be considered."
+    },
+    {
+      "ranges": [
+        [
+          8255,
+          8418
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Given the patient's complex medical history and the presence of multiple potential causes for the current illness, a systematic approach to diagnosis is necessary."
+    },
+    {
+      "ranges": [
+        [
+          14920,
+          15206
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's history of bronchiolitis obliterans with organizing pneumonia, polymyositis, and recurrent infections, along with the current symptoms and physical examination findings, suggests that an inflammatory or immune-mediated process could be contributing to the current illness."
+    },
+    {
+      "ranges": [
+        [
+          10602,
+          10757
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms of malaise, nonproductive cough, sore throat, and rhinorrhea could be consistent with a viral upper respiratory infection, although "
+    }
+  ]
+}

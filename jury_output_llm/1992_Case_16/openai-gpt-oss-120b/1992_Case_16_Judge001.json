@@ -1,0 +1,117 @@
+{
+  "case": "1992 Case 16__openai-gpt-oss-120b.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-17T23:47:12.274269+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          26098,
+          26277
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The two entities that best reconcile *all* the clinical, laboratory, and imaging data are **Langerhans cell histiocytosis (eosinophilic granuloma)** and **primary bone lymphoma**."
+    },
+    {
+      "ranges": [
+        [
+          26279,
+          26505
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Both can present as a solitary, osteolytic vertebral body lesion with a posterior epidural extension causing early cord compression, and both can be associated with a modestly elevated ESR and subtle hematologic abnormalities."
+    },
+    {
+      "ranges": [
+        [
+          27237,
+          27399
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s symptoms were **precipitated by minor trauma**, a frequent scenario where a dormant eosinophilic granuloma becomes symptomatic after a “second hit”."
+    },
+    {
+      "ranges": [
+        [
+          29948,
+          30196
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the biopsy yields a **granulomatous infiltrate with Langerhans cells**, the diagnosis of eosinophilic granuloma is confirmed, and treatment would shift toward **corticosteroid therapy, limited radiotherapy, or curettage** depending on stability."
+    },
+    {
+      "ranges": [
+        [
+          30198,
+          30347
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Conversely, a **lymphoid malignancy** would necessitate **systemic chemotherapy (e.g., CHOP‑like regimen) and possibly involved‑field radiotherapy**."
+    },
+    {
+      "ranges": [
+        [
+          28667,
+          28853
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "rimary bone lymphoma** is less common than spinal LCH, and the radiographic description does not highlight the **homogeneous, infiltrative pattern** that is often emphasized for lymphoma"
+    },
+    {
+      "ranges": [
+        [
+          26594,
+          26783
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The combination of a **superoposterior C5 vertebral body lysis** and a **posterior soft‑tissue mass** is a classic description for an eosinophilic granuloma extending into the spinal canal."
+    },
+    {
+      "ranges": [
+        [
+          31906,
+          32188
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s presentation is dominated by a **solitary, osteolytic lesion of the C5 vertebral body with posterior epidural extension**, accompanied by **subacute neck and shoulder pain**, **mild hand weakness**, **positive Hoffmann sign**, and **elevated ESR** with **leukopenia**."
+    },
+    {
+      "ranges": [
+        [
+          33506,
+          33685
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The histopathology will guide whether the patient requires **local therapy (curettage, low‑dose radiotherapy)** for LCH or **systemic chemotherapy and radiotherapy** for lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          31684,
+          31846
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "many centers would proceed with a **CT‑guided core needle biopsy** while maintaining cervical immobilization and steroids, then tailor therapy based on pathology."
+    }
+  ]
+}

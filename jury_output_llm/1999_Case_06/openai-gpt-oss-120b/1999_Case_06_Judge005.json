@@ -1,0 +1,18 @@
+{
+  "case": "1999 Case 06__openai-gpt-oss-120b.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T02:43:09.738997+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5286,
+          5835
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The combination of large‑vessel aneurysm, renal‑artery stenosis, hypertension, and a specific ocular‑auditory syndrome is unusual. The differential must therefore encompass (1) primary large‑vessel vasculitides, (2) systemic medium‑vessel vasculitides that can involve the aorta secondarily, (3) inherited connective‑tissue disorders predisposing to aortic pathology, (4) infectious aortitis, (5) endocrine or iatrogenic causes of aneurysm formation, and (6) rare autoimmune syndromes that link ocular and inner‑ear disease with systemic vasculitis."
+    }
+  ]
+}

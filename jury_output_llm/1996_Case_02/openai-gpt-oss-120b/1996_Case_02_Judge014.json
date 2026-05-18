@@ -1,0 +1,95 @@
+{
+  "case": "1996 Case 02__openai-gpt-oss-120b.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T02:08:04.198817+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          31310,
+          31556
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The table underscores that the constellation of a **hypervascular mass with a central scar**, **normal liver enzymes**, **normal tumor markers**, and **systemic constitutional symptoms** is most parsimoniously explained by **fibrolamellar hepatoc"
+    },
+    {
+      "ranges": [
+        [
+          7737,
+          7810
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the systemic manifestations argue against a purely benign vascular tumor."
+    },
+    {
+      "ranges": [
+        [
+          20652,
+          20837
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The imaging hallmark of a hypervascular lesion with a central scar, coupled with normal liver function and systemic inflammatory symptoms, points most strongly toward fibrolamellar HCC."
+    },
+    {
+      "ranges": [
+        [
+          35405,
+          35693
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Fibrolamellar HCC uniquely integrates all observed elements: it occurs in young adults without cirrhosis, presents as a hypervascular mass with a central fibrous scar, often elicits systemic inflammatory symptoms (fever, weight loss), and typically shows normal AFP and liver chemistries."
+    },
+    {
+      "ranges": [
+        [
+          31576,
+          31788
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": " The only serious rival is an **inflammatory pseudotumor**, which can mimic those imaging features and clinical signs, but the size and the classic central scar pattern on delayed imaging are more in line with FL"
+    },
+    {
+      "ranges": [
+        [
+          26216,
+          26312
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The clinical picture (intermittent fevers, weight loss) aligns with an inflammatory pseudotumor."
+    },
+    {
+      "ranges": [
+        [
+          33394,
+          33604
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "he standard of care is **surgical resection** (anatomic left‑lobe hepatectomy or extended left hepatectomy) because the tumor typically arises in a non‑cirrhotic liver and patients tolerate major hepatectomy we"
+    },
+    {
+      "ranges": [
+        [
+          25636,
+          25825
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "IPTs are rare benign lesions composed of myofibroblastic spindle cells with inflammatory infiltrates. They can occur at any age but are most common in young adults and can involve the liver"
+    }
+  ]
+}

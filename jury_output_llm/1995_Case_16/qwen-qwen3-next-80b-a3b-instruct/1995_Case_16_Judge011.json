@@ -1,0 +1,117 @@
+{
+  "case": "1995 Case 16__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T01:34:14.241090+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17029,
+          17171
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "combination of cardiac and pulmonary granulomatous disease** strongly points to either **tuberculosis** or **sarcoidosis** as the leading diag"
+    },
+    {
+      "ranges": [
+        [
+          17178,
+          17442
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Between the two, tuberculosis is more likely given the patient’s Caribbean origin (high TB burden), prior positive TSTs, family history, discontinuation of isoniazid, and the radiographic pattern of nodules centered on bronchovascular bundles with lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          17552,
+          17699
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The myocardial biopsy’s failure to show granulomas may reflect sampling error, or the granulomas may have been fibrotic and not easily discernible."
+    },
+    {
+      "ranges": [
+        [
+          17700,
+          17825
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The progressive cardiac deterioration, despite antiarrhythmic therapy, is consistent with ongoing granulomatous infiltration."
+    },
+    {
+      "ranges": [
+        [
+          17443,
+          17551
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The negative TST is likely due to anergy from chronic infection, a well-known phenomenon in disseminated TB."
+    },
+    {
+      "ranges": [
+        [
+          18545,
+          18716
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The next diagnostic step should be bronchoscopy with bronchoalveolar lavage for AFB smear, culture, and PCR, as well as transbronchial lung biopsy for granuloma detection."
+    },
+    {
+      "ranges": [
+        [
+          18898,
+          19025
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Empiric antituberculous therapy should be initiated pending results, given the high clinical suspicion and risk of progression."
+    },
+    {
+      "ranges": [
+        [
+          8425,
+          8713
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The pulmonary nodules described—10 mm, bilateral, confluent in the right upper lobe, centered on bronchovascular bundles, with bronchial wall thickening and segmental air-space disease—are classic for **tuberculous granulomatous pneumonia**, especially in the setting of reactivation dise"
+    },
+    {
+      "ranges": [
+        [
+          11132,
+          11357
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s age, lack of other systemic symptoms (e.g., uveitis, skin lesions, hypercalcemia), and absence of elevated ACE or lysozyme levels (though these were not measured) make sarcoidosis less likely but not impossible."
+    },
+    {
+      "ranges": [
+        [
+          13771,
+          13975
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The fact that the patient had a positive mumps skin test suggests intact T-cell immunity, which would normally protect against disseminated fungal disease, but localized pulmonary disease can still occur."
+    }
+  ]
+}

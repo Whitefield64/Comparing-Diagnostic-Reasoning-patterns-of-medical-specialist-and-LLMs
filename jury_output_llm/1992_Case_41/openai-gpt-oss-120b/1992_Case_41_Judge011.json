@@ -1,0 +1,117 @@
+{
+  "case": "1992 Case 41__openai-gpt-oss-120b.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T00:27:34.772420+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23216,
+          23458
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling concordance is between the murmur’s acoustic characteristics (harsh, long systolic ejection, radiation to apex) and a left‑sided outflow obstruction, most commonly **valvar aortic stenosis** due to a bicuspid aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          4767,
+          4974
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The discussion below explores each plausible entity, weighing the clinical, physiologic and investigative clues that support or argue against it, and then narrows the focus to the most likely explanation(s)."
+    },
+    {
+      "ranges": [
+        [
+          5244,
+          5574
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The valve leaflets are malformed, leading to turbulent systolic flow across the aortic orifice.  The resulting pressure gradient produces a harsh, crescendo‑decrescendo systolic ejection murmur that is loudest at the left upper sternal border (LUSB) and often radiates to the carotid arteries and, in younger children, to the apex"
+    },
+    {
+      "ranges": [
+        [
+          26761,
+          26920
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the aortic stenosis is moderate‑to‑severe, endocarditis prophylaxis may be indicated for dental procedures, in accordance with current pediatric guidelines."
+    },
+    {
+      "ranges": [
+        [
+          23460,
+          23684
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of systemic hypertension is readily explained by chronic obstructive uropathy with renin‑angiotensin activation, and the hypertension may be contributing to the LV pressure load, thereby accentuating the murmur."
+    },
+    {
+      "ranges": [
+        [
+          27599,
+          27827
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The murmur’s radiation to the apex, the hyperdynamic apical impulse, and the absence of differential pulses or cyanosis collectively support a left‑sided outflow obstruction rather than a right‑sided or systemic vascular lesion."
+    },
+    {
+      "ranges": [
+        [
+          27969,
+          28157
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Recognizing the coexistence of renal‑derived hypertension is essential because it may hasten the progression of LV pressure overload and influence the timing of any interventional therapy."
+    },
+    {
+      "ranges": [
+        [
+          27829,
+          27967
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The right‑ventricular conduction delay on ECG, while atypical for isolated AS, may reflect a minor concomitant lesion or a benign variant."
+    },
+    {
+      "ranges": [
+        [
+          17937,
+          18039
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The child has severe lower‑tract obstruction and bladder diverticula, which fit the urinary component."
+    },
+    {
+      "ranges": [
+        [
+          26049,
+          26183
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Serial serum creatinine, cystatin‑C, and renin/aldosterone levels to gauge the contribution of renal disease to systemic hypertension."
+    }
+  ]
+}

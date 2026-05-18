@@ -1,0 +1,128 @@
+{
+  "case": "2003 Case 39__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T06:09:32.068386+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5568,
+          5691
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the sudden onset of symptoms and the presence of clots, it is essential to consider both benign and malignant causes."
+    },
+    {
+      "ranges": [
+        [
+          6139,
+          6288
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the patient's presentation with gross hematuria and the absence of significant proteinuria or renal dysfunction makes a glomerular cause less likely."
+    },
+    {
+      "ranges": [
+        [
+          6289,
+          6451
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Non-glomerular causes, which include conditions affecting the urinary tract from the renal pelvis to the urethra, are more consistent with the patient's symptoms."
+    },
+    {
+      "ranges": [
+        [
+          6926,
+          7009
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "\nThe finding of a mass in the bladder dome is highly suggestive of a bladder tumor."
+    },
+    {
+      "ranges": [
+        [
+          6840,
+          6936
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": " of a mass in the bladder, as seen on cystoscopy, indicates a more complex condition.\n\nThe findi"
+    },
+    {
+      "ranges": [
+        [
+          6482,
+          6567
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "urinary tract infections (UTIs) are a common cause of hematuria, especially in women."
+    },
+    {
+      "ranges": [
+        [
+          10966,
+          11149
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "while the patient's weight loss and history of hepatitis B infection are noteworthy, there is no clear indication that these factors are directly contributing to her current symptoms."
+    },
+    {
+      "ranges": [
+        [
+          8942,
+          9074
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The diagnostic procedure performed, the details of which are not provided, would be critical in establishing a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          7010,
+          7109
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Bladder cancer, particularly transitional cell carcinoma, is a well-known cause of gross hematuria."
+    },
+    {
+      "ranges": [
+        [
+          7110,
+          7264
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's age and sex are not typical for bladder cancer, which is more common in older men, but it cannot be ruled out without further investigation."
+    },
+    {
+      "ranges": [
+        [
+          13496,
+          13599
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The presence of ketones in the urine is an interesting finding, given the patient's recent weight loss."
+    }
+  ]
+}

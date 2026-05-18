@@ -1,0 +1,128 @@
+{
+  "case": "2003 Case 21__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T05:52:19.943602+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          13291,
+          13645
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling evidence pointing away from pure atherosclerosis is the multifocal, irregular nature of the vertebral artery stenoses, particularly their asymmetry and distribution along the dural ring and mid-vertebral segments—regions less commonly affected by typical atherosclerotic plaques, which tend to localize at ostial or bifurcation sites."
+    },
+    {
+      "ranges": [
+        [
+          14383,
+          14504
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "ANCA-associated vasculitis (AAV), particularly microscopic polyangiitis (MPA), must be considered as a leading diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          14203,
+          14382
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The dramatic rise in C-reactive protein (29.8 mg/L) strongly implies systemic inflammation, and the positive ANCA serology—though preliminary—is perhaps the most significant clue."
+    },
+    {
+      "ranges": [
+        [
+          14722,
+          14893
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of alveolar hemorrhage, glomerulonephritis, or pulmonary nodules does not exclude MPA; up to 30% of patients present with isolated neurological manifestations."
+    },
+    {
+      "ranges": [
+        [
+          21636,
+          21741
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "According to the Sydney criteria, this meets the serologic threshold for antiphospholipid syndrome (APS)."
+    },
+    {
+      "ranges": [
+        [
+          13102,
+          13289
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The challenge lies in distinguishing between atherosclerotic progression, a primary vasculitis, a prothrombotic state, and a systemic connective tissue disorder with vascular involvement."
+    },
+    {
+      "ranges": [
+        [
+          22470,
+          22534
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient’s response to therapy also informs the differential."
+    },
+    {
+      "ranges": [
+        [
+          23472,
+          23664
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "\nIn summary, the most likely diagnosis is microscopic polyangiitis (MPA), an ANCA-associated vasculitis affecting small- to medium-sized vessels, including the vertebral arteries. The multifoc"
+    },
+    {
+      "ranges": [
+        [
+          24832,
+          25079
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case underscores the importance of considering vasculitis in any elderly patient with recurrent, multifocal strokes in the posterior circulation, especially when conventional risk factors and therapies fail to explain the clinical trajectory."
+    },
+    {
+      "ranges": [
+        [
+          20488,
+          20626
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The possibility of a paraneoplastic vasculopathy must be considered, particularly given the small pulmonary nodules and the patient’s age."
+    },
+    {
+      "ranges": [
+        [
+          16467,
+          16653
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The angiographic findings here—diffuse irregular stenoses of the vertebral arteries, particularly at the dural ring—do not align with the concentric, long-segment stenoses typical of TA."
+    }
+  ]
+}

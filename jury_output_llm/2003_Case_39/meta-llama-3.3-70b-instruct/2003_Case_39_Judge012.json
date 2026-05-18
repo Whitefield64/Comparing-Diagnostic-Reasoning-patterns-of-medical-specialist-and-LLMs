@@ -1,0 +1,194 @@
+{
+  "case": "2003 Case 39__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T06:15:07.090843+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6139,
+          6288
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the patient's presentation with gross hematuria and the absence of significant proteinuria or renal dysfunction makes a glomerular cause less likely."
+    },
+    {
+      "ranges": [
+        [
+          6289,
+          6451
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Non-glomerular causes, which include conditions affecting the urinary tract from the renal pelvis to the urethra, are more consistent with the patient's symptoms."
+    },
+    {
+      "ranges": [
+        [
+          6927,
+          7009
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The finding of a mass in the bladder dome is highly suggestive of a bladder tumor."
+    },
+    {
+      "ranges": [
+        [
+          5692,
+          5876
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's recent weight loss and history of hepatitis B infection also need to be taken into account, although their relevance to the current presentation is not immediately clear."
+    },
+    {
+      "ranges": [
+        [
+          6482,
+          6567
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "urinary tract infections (UTIs) are a common cause of hematuria, especially in women."
+    },
+    {
+      "ranges": [
+        [
+          6828,
+          6925
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the presence of a mass in the bladder, as seen on cystoscopy, indicates a more complex condition."
+    },
+    {
+      "ranges": [
+        [
+          8942,
+          9074
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The diagnostic procedure performed, the details of which are not provided, would be critical in establishing a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8294,
+          8573
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's hepatitis B status, as indicated by the presence of antibodies to hepatitis B antigen and a low viral load, suggests that she is not actively infected, which further reduces the likelihood of a direct connection between her hepatitis B history and current symptoms."
+    },
+    {
+      "ranges": [
+        [
+          7010,
+          7109
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Bladder cancer, particularly transitional cell carcinoma, is a well-known cause of gross hematuria."
+    },
+    {
+      "ranges": [
+        [
+          11687,
+          11860
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's anxiety and the fact that she appears well despite her symptoms suggest that she may be experiencing significant psychological distress related to her illness."
+    },
+    {
+      "ranges": [
+        [
+          10440,
+          10621
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of mixed bacteria in the urine culture and the initial treatment for a presumed UTI also suggest that an infectious cause may be contributing to the patient's symptoms."
+    },
+    {
+      "ranges": [
+        [
+          16429,
+          16556
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's condition highlights the importance of a comprehensive and multidisciplinary approach to diagnosis and treatment."
+    },
+    {
+      "ranges": [
+        [
+          14685,
+          14937
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "While a definitive diagnosis awaits further investigation, the consideration of a broad range of potential causes, including malignant, infectious, inflammatory, and rare conditions, is essential for ensuring that the patient receives appropriate care."
+    },
+    {
+      "ranges": [
+        [
+          12940,
+          13066
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Given the potential for a malignant diagnosis, prompt and thorough evaluation is crucial to ensure the best possible outcomes."
+    },
+    {
+      "ranges": [
+        [
+          14938,
+          15095
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's recent weight loss and history of hepatitis B infection are important aspects of her medical history that must be considered in her evaluation."
+    },
+    {
+      "ranges": [
+        [
+          20512,
+          20792
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's care should be managed by a multidisciplinary team of healthcare professionals, including urologists, oncologists, radiologists, and other specialists, to ensure that all aspects of her condition are addressed and that she receives comprehensive and supportive care."
+    },
+    {
+      "ranges": [
+        [
+          19589,
+          19819
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's condition highlights the importance of a thorough and comprehensive approach to diagnosis and treatment, and the need for a multidisciplinary team of healthcare professionals to work together to provide optimal care."
+    }
+  ]
+}

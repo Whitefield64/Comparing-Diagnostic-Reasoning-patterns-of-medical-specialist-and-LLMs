@@ -1,0 +1,150 @@
+{
+  "case": "1992 Case 16__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-17T23:42:26.668777+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5008,
+          5181
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the initial differential diagnosis should include conditions related to the traumatic events, such as fractures, dislocations, or ligamentous injuries of the cervical spine."
+    },
+    {
+      "ranges": [
+        [
+          5287,
+          5463
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of an osteolytic lesion and a soft-tissue mass on the CT scan suggests a more complex process, possibly involving infection, inflammation, or a neoplastic process."
+    },
+    {
+      "ranges": [
+        [
+          5464,
+          5618
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious processes, such as osteomyelitis or discitis, should be considered, especially given the patient's history of infected cuticles and paronychia."
+    },
+    {
+      "ranges": [
+        [
+          6110,
+          6302
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory conditions, such as rheumatoid arthritis or ankylosing spondylitis, could also be considered, given the patient's symptoms of stiffness and limited mobility of the cervical spine."
+    },
+    {
+      "ranges": [
+        [
+          6581,
+          6726
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Neoplastic processes, either primary or metastatic, should also be considered, given the presence of an osteolytic lesion and a soft-tissue mass."
+    },
+    {
+      "ranges": [
+        [
+          9116,
+          9304
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of an osteolytic lesion and a soft-tissue mass on the CT scan, combined with the patient's symptoms of cervical pain and neurologic deficits, make these diagnoses more likely."
+    },
+    {
+      "ranges": [
+        [
+          11647,
+          11790
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the diagnosis is an infectious process, such as osteomyelitis or discitis, the prognosis is generally good with prompt antibiotic treatment."
+    },
+    {
+      "ranges": [
+        [
+          11791,
+          11922
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, if the diagnosis is a neoplastic process, the prognosis may be more guarded, depending on the type and stage of the tumor."
+    },
+    {
+      "ranges": [
+        [
+          8770,
+          8957
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's symptoms and imaging findings suggest a serious underlying condition, and prompt diagnosis and treatment are essential to prevent further complications and improve outcomes."
+    },
+    {
+      "ranges": [
+        [
+          10438,
+          10710
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms of paresthesias and clumsiness of the left hand suggest involvement of the spinal cord or nerve roots, and further evaluation, including electromyography and nerve conduction studies, may be helpful in assessing the extent of neurologic involvement."
+    },
+    {
+      "ranges": [
+        [
+          13340,
+          13658
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's occupation as a surgical assistant and her history of infected cuticles and paronychia also raise concerns about the possibility of an occupational exposure to a pathogen or a foreign body, and further evaluation may be necessary to identify potential risks and develop strategies to prevent further expo"
+    },
+    {
+      "ranges": [
+        [
+          5944,
+          6108
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The erythrocyte sedimentation rate of 50 mm per hour does suggest some degree of inflammation, which could be consistent with an infectious or inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          16087,
+          16252
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's case highlights the importance of considering the patient's occupation and medical history when developing a differential diagnosis and treatment plan."
+    }
+  ]
+}

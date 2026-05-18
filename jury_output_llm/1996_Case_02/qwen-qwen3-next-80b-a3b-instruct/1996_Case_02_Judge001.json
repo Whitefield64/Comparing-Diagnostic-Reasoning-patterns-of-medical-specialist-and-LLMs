@@ -1,0 +1,106 @@
+{
+  "case": "1996 Case 02__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T02:11:58.009852+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          11493,
+          11583
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling alternative is a benign but locally aggressive tumor: hepatic adenoma."
+    },
+    {
+      "ranges": [
+        [
+          15219,
+          15312
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The final and most likely diagnosis, given the constellation of findings, is hepatic adenoma."
+    },
+    {
+      "ranges": [
+        [
+          7280,
+          7419
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the chronic inflammatory state suggested by recurrent fevers and weight loss could theoretically create a procarcinogenic microenvironment."
+    },
+    {
+      "ranges": [
+        [
+          7420,
+          7546
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The central necrosis could represent tumor outgrowth beyond its blood supply, and the hypervascularity is consistent with HCC."
+    },
+    {
+      "ranges": [
+        [
+          14061,
+          14159
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the CT scan did not include dedicated renal imaging, a small renal mass could have been missed."
+    },
+    {
+      "ranges": [
+        [
+          7552,
+          7667
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the absence of elevated alpha-fetoprotein (AFP)—though not routinely measured here—is a major argument against HCC."
+    },
+    {
+      "ranges": [
+        [
+          17465,
+          17602
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The presence of a systolic bruit mandates urgent intervention, as large adenomas carry a risk of spontaneous rupture, which can be fatal."
+    },
+    {
+      "ranges": [
+        [
+          8240,
+          8447
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The absence of night sweats, chills, or rigors, and the lack of lymphadenopathy or pulmonary findings, make tuberculosis less likely, though hepatic TB can present as a solitary mass with necrosis and fever."
+    },
+    {
+      "ranges": [
+        [
+          11584,
+          11759
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Hepatic adenomas are estrogen-dependent tumors, commonly seen in young women on oral contraceptives—this patient is taking an oral contraceptive, which is a major risk factor."
+    }
+  ]
+}

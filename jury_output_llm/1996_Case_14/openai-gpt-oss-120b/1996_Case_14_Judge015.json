@@ -1,0 +1,29 @@
+{
+  "case": "1996 Case 14__openai-gpt-oss-120b.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T02:27:38.692675+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          35592,
+          35781
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most defensible primary diagnosis in this patient is **drug‑induced toxic epidermal necrolysis**, most likely triggered by vancomycin, with a possible contributory role of methotrexate."
+    },
+    {
+      "ranges": [
+        [
+          8726,
+          8852
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The reaction is typically precipitated by an offending drug that acts as a hapten or triggers a drug‑specific T‑cell response."
+    }
+  ]
+}

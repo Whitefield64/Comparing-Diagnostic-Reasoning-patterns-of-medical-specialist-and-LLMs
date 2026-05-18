@@ -1,0 +1,117 @@
+{
+  "case": "1999 Case 10__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T03:43:00.083942+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9583,
+          9755
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is **antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV)**, particularly **microscopic polyangiitis (MPA)**."
+    },
+    {
+      "ranges": [
+        [
+          11547,
+          11753
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential must also include **polyarteritis nodosa (PAN)**, a medium-vessel vasculitis that classically spares the lungs but can involve the kidneys, gastrointestinal tract, skin, and nervous system."
+    },
+    {
+      "ranges": [
+        [
+          12479,
+          12639
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another critical consideration is **thrombotic microangiopathy (TMA)**, including thrombotic thrombocytopenic purpura (TTP) and hemolytic uremic syndrome (HUS)."
+    },
+    {
+      "ranges": [
+        [
+          20718,
+          20876
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The possibility of **thrombotic microangiopathy**, especially if platelet count and peripheral smear were not adequately assessed, must be urgently ruled out."
+    },
+    {
+      "ranges": [
+        [
+          10079,
+          10378
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The renal biopsy findings, though not explicitly described, are strongly implied by the urinalysis: dysmorphic red blood cells (indicative of glomerular injury), proteinuria, granular casts, and low urine sodium with low osmolality (suggesting intrinsic renal failure rather than prerenal azotemia)."
+    },
+    {
+      "ranges": [
+        [
+          10510,
+          10754
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The cortical blindness, confirmed by MRI to involve bilateral occipital lobe infarcts, is a recognized neurological manifestation of MPA, resulting from microvascular thrombosis or necrotizing arteriolitis in the posterior cerebral circulation."
+    },
+    {
+      "ranges": [
+        [
+          12033,
+          12280
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient’s pulmonary infiltrates, pleural effusions, and evidence of alveolar hemorrhage (suggested by the chest CT findings of air-space disease and the presence of dysmorphic RBCs in urine) strongly argue against PAN as the primary diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10379,
+          10509
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of red-cell casts does not exclude RPGN; they are not always present, especially in early or rapidly evolving disease."
+    },
+    {
+      "ranges": [
+        [
+          11115,
+          11344
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The skin biopsy showing intravascular coagulation and lymphocytic inflammation is consistent with leukocytoclastic vasculitis, which may occur in MPA, particularly when there is significant fibrinoid necrosis and microthrombosis."
+    },
+    {
+      "ranges": [
+        [
+          20877,
+          21083
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s clinical trajectory—rapid deterioration despite high-dose steroids, negative cultures, and lack of response to conventional therapies—suggests an aggressive, systemic, immune-mediated process."
+    }
+  ]
+}

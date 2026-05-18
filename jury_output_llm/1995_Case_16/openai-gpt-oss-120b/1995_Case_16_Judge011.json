@@ -1,0 +1,106 @@
+{
+  "case": "1995 Case 16__openai-gpt-oss-120b.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T01:23:01.847429+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28530,
+          29217
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic candidates are those that **simultaneously** account for:\n\n1. **Rapidly progressive biventricular dilatation with severe systolic dysfunction**, especially marked right‑ventricular involvement and severe tricuspid regurgitation.  \n2. **Frequent, refractory ventricular tachycardia** despite multiple anti‑arrhythmic agents, necessitating an ICD.  \n3. **Upper‑lobe dominant, peribronchovascular nodular lung disease** with mild hilar and mediastinal lymphadenopathy, but without cavitation or overt infection.  \n4. **Absence of systemic inflammatory markers** (normal ESR, normal WBC), normal serologies for HIV, syphilis, and negative fungal and acid‑fast "
+    },
+    {
+      "ranges": [
+        [
+          37387,
+          37588
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Cardiac sarcoidosis offers the most coherent unifying explanation, fitting the radiographic, electrophysiologic, and hemodynamic data while acknowledging the known limitations of endomyocardial biopsy."
+    },
+    {
+      "ranges": [
+        [
+          7794,
+          7939
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The disease can present with a spectrum ranging from isolated conduction disease to fulminant ventricular arrhythmias and dilated cardiomyopathy."
+    },
+    {
+      "ranges": [
+        [
+          32498,
+          32809
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If subsequent tissue sampling (e.g., transbronchial lung biopsy or mediastinoscopic node excision) demonstrates non‑caseating granulomas without organisms, sarcoidosis would become definitively established. Conversely, identification of caseating granulomas or acid‑fast bacilli would shift the diagnosis to TB."
+    },
+    {
+      "ranges": [
+        [
+          38007,
+          38209
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The next decisive steps involve obtaining tissue diagnosis from the lung (or mediastinal nodes) and employing advanced cardiac imaging modalities (MRI, FDG‑PET) to detect active myocardial inflammation."
+    },
+    {
+      "ranges": [
+        [
+          37589,
+          37864
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Tuberculosis and chronic endemic fungal infection remain credible alternatives, particularly given the patient’s epidemiologic background and prior positive tuberculin skin tests, but both are weakened by repeated negative microbiologic studies and atypical imaging features."
+    },
+    {
+      "ranges": [
+        [
+          10013,
+          10199
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Given the combination of upper‑lobe nodular disease, mediastinal lymphadenopathy, refractory VT, and progressive dilated cardiomyopathy, cardiac sarcoidosis remains a leading hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          37274,
+          37386
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the differential diagnosis must prioritize systemic granulomatous diseases that can involve both heart and lung."
+    },
+    {
+      "ranges": [
+        [
+          32091,
+          32235
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The clinical course—a relatively rapid decline in ventricular function with refractory VT—mirrors reports of aggressive cardiac sarcoid disease."
+    }
+  ]
+}

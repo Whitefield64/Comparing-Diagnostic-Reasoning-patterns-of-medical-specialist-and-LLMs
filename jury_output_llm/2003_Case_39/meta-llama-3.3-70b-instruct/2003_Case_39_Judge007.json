@@ -1,0 +1,139 @@
+{
+  "case": "2003 Case 39__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T06:12:36.563163+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5568,
+          5691
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the sudden onset of symptoms and the presence of clots, it is essential to consider both benign and malignant causes."
+    },
+    {
+      "ranges": [
+        [
+          6139,
+          6288
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the patient's presentation with gross hematuria and the absence of significant proteinuria or renal dysfunction makes a glomerular cause less likely."
+    },
+    {
+      "ranges": [
+        [
+          6289,
+          6451
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Non-glomerular causes, which include conditions affecting the urinary tract from the renal pelvis to the urethra, are more consistent with the patient's symptoms."
+    },
+    {
+      "ranges": [
+        [
+          6927,
+          7009
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The finding of a mass in the bladder dome is highly suggestive of a bladder tumor."
+    },
+    {
+      "ranges": [
+        [
+          5979,
+          6129
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Glomerular causes, such as glomerulonephritis, typically present with microscopic hematuria, proteinuria, and often, other signs of renal dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          8942,
+          9074
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The diagnostic procedure performed, the details of which are not provided, would be critical in establishing a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8575,
+          8741
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Given the acute presentation and the absence of systemic symptoms suggestive of advanced malignancy, it is also important to consider benign causes of bladder masses."
+    },
+    {
+      "ranges": [
+        [
+          9132,
+          9285
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the histopathological findings would be essential for differentiating between benign and malignant conditions, as well as for guiding further management."
+    },
+    {
+      "ranges": [
+        [
+          14523,
+          14683
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of a bladder mass, gross hematuria, and other symptoms suggests a significant underlying condition that requires thorough evaluation and treatment."
+    },
+    {
+      "ranges": [
+        [
+          11687,
+          11859
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's anxiety and the fact that she appears well despite her symptoms suggest that she may be experiencing significant psychological distress related to her illness"
+    },
+    {
+      "ranges": [
+        [
+          10440,
+          10746
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of mixed bacteria in the urine culture and the initial treatment for a presumed UTI also suggest that an infectious cause may be contributing to the patient's symptoms. However, the persistence of hematuria despite antibiotic treatment indicates that infection is unlikely to be the sole cause"
+    },
+    {
+      "ranges": [
+        [
+          16429,
+          16555
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's condition highlights the importance of a comprehensive and multidisciplinary approach to diagnosis and treatment"
+    }
+  ]
+}

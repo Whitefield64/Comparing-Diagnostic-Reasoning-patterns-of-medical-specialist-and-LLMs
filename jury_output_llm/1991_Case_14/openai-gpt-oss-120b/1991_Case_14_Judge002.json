@@ -1,0 +1,139 @@
+{
+  "case": "1991 Case 14__openai-gpt-oss-120b.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-17T23:01:14.805832+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          29509,
+          29720
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The two leading hypotheses—**extralobar bronchopulmonary sequestration** and **infant‑type neuroblastoma**—share many overlapping imaging characteristics (posterior location, T2 hyperintensity, non‑enhancement)."
+    },
+    {
+      "ranges": [
+        [
+          29721,
+          29855
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Distinguishing them hinges on the presence or absence of a systemic feeding artery and on biochemical markers of catecholamine excess."
+    },
+    {
+      "ranges": [
+        [
+          25850,
+          26007
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Anemia may be secondary to chronic blood loss (unlikely), marrow infiltration (neuroblastoma or lymphoma), or chronic inflammation (sequestration infection)."
+    },
+    {
+      "ranges": [
+        [
+          8606,
+          8768
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A dedicated CT angiogram or MR angiography could confirm the systemic arterial supply and definitively differentiate EBPS from other posterior mediastinal masses."
+    },
+    {
+      "ranges": [
+        [
+          31550,
+          31755
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The lesion’s appearance on imaging—particularly the thin dark line separating it from paraspinal muscles—mirrors the pleural plane that isolates an extralobar sequestration from the surrounding structures."
+    },
+    {
+      "ranges": [
+        [
+          31290,
+          31549
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The constellation of a left‑sided, posterior, paravertebral, well‑circumscribed mass that is non‑enhancing, homogeneous on CT, hyperintense on T2 MRI, and radiographically stable over a period of at least 10 weeks aligns best with an extralobar sequestration."
+    },
+    {
+      "ranges": [
+        [
+          32229,
+          32415
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, the lack of documented catecholamine excess, the static size, and the classic imaging plane separating the mass from the pleura slightly tip the balance away from neuroblastoma."
+    },
+    {
+      "ranges": [
+        [
+          31954,
+          32052
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the posterior mediastinal location and T2 hyperintensity, neuroblastoma cannot be dismissed."
+    },
+    {
+      "ranges": [
+        [
+          31756,
+          31901
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of calcifications, the lack of rapid growth, and the infant’s overall well‑being further support this benign congenital malformation."
+    },
+    {
+      "ranges": [
+        [
+          32053,
+          32228
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The infant‑type (stage 4S) neuroblastoma often presents as a stable or even regressing mass, may lack calcifications, and can produce paraneoplastic anemia and thrombocytosis."
+    },
+    {
+      "ranges": [
+        [
+          26355,
+          26447
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Neuroblastoma can produce interleukin‑6 and other cytokines that stimulate megakaryopoiesis."
+    },
+    {
+      "ranges": [
+        [
+          33465,
+          33762
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Targeted vascular imaging and urinary catecholamine studies are the next essential investigations to discriminate between these entities before proceeding to definitive therapy, which may range from surgical resection of a sequestration to chemotherapy or observation for a low‑risk neuroblastoma."
+    }
+  ]
+}

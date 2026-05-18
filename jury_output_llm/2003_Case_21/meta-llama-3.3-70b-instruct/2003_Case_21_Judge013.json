@@ -1,0 +1,117 @@
+{
+  "case": "2003 Case 21__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T05:27:26.043320+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17580,
+          17795
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the patient's presentation is consistent with a complex and multifactorial underlying condition, likely involving a combination of atherosclerotic disease, autoimmune or inflammatory conditions, and cardiac disease."
+    },
+    {
+      "ranges": [
+        [
+          18041,
+          18210
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnoses to consider include vertebral-basilar insufficiency or posterior circulation stroke, antiphospholipid syndrome or vasculitis, and cardiac embolism."
+    },
+    {
+      "ranges": [
+        [
+          12419,
+          12650
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of extensive pleural calcifications and elevation of the left hemidiaphragm on chest radiographs is consistent with a history of tuberculosis, which may have led to chronic inflammation and subsequent vascular disease."
+    },
+    {
+      "ranges": [
+        [
+          20101,
+          20320
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's lack of response to anticoagulation therapy and the presence of new acute infarctions on MRI suggest a more aggressive or resistant underlying condition, which may require further evaluation and treatment."
+    },
+    {
+      "ranges": [
+        [
+          20321,
+          20512
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The use of anticoagulation therapy, antiplatelet agents, and immunosuppressive medications may be necessary to address the underlying condition and reduce the risk of further vascular events."
+    },
+    {
+      "ranges": [
+        [
+          20719,
+          20933
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "other potential causes of the patient's symptoms should be considered, including cardiac arrhythmias, such as atrial fibrillation, and structural heart disease, such as patent foramen ovale or atrial septal defect."
+    },
+    {
+      "ranges": [
+        [
+          19668,
+          19902
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms, including numbness, slurred speech, and vertigo, suggest involvement of the brainstem and cerebellum, which may be consistent with a diagnosis of posterior circulation stroke or vertebral-basilar insufficiency."
+    },
+    {
+      "ranges": [
+        [
+          14378,
+          14574
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, the presence of multifocal bilateral stenoses of the vertebral artery and the patient's autoimmune and inflammatory markers suggest a more complex and multifactorial underlying condition."
+    },
+    {
+      "ranges": [
+        [
+          18534,
+          18753
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "ncluding the elevated anticardiolipin-antibody IgG and IgM levels and positive preliminary result for ANCA, suggest an underlying autoimmune or inflammatory condition, which may require further evaluation and treatment."
+    },
+    {
+      "ranges": [
+        [
+          20934,
+          21129
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of possible septal infarct and old inferior myocardial infarct suggests a possible underlying cardiac condition, which may contribute to the development of vascular disease."
+    }
+  ]
+}

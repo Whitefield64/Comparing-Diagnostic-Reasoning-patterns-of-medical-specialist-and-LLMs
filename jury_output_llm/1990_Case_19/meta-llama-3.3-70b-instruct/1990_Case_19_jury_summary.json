@@ -1,0 +1,158 @@
+{
+  "case": "1990 Case 19__meta-llama-3.3-70b-instruct.md",
+  "exported_at": "2026-05-17T22:39:00.475841+00:00",
+  "n_voters": 15,
+  "n_successful": 13,
+  "n_failed": 2,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 18,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient's laboratory results, including the liver function tests, complete blood count, and coagulation studies, are essential in evaluating the liver mass and guiding further diagnostic testing."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The patient's symptoms, including fever, fatigue, and weight loss, are non-specific and can be seen in various infectious or parasitic diseases, but the combination of these symptoms with the imaging findings and travel history suggests an infectious or parasitic cause."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 75,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 80,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 4,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 24,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 60,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 14,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 21,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 17,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The pathophysiology of echinococcosis involves the infection of the liver by Echinococcus larvae, leading to the formation of a large cystic mass."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 72,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 75,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 21,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 13,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 19,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The pathophysiology of echinococcosis involves the infection of the liver by Echinococcus larvae, leading to the formation of a large cystic mass."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 16,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient's travel history, including visits to endemic areas, increases the likelihood of such an infection."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "case": "1999 Case 06__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T02:40:39.042162+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4540,
+          4683
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis can be broadly categorized into several groups, including inflammatory, infectious, genetic, and systemic disorders."
+    },
+    {
+      "ranges": [
+        [
+          4966,
+          5104
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Conditions such as Cogan syndrome, which is characterized by interstitial keratitis and vestibular-auditory symptoms, could be considered."
+    },
+    {
+      "ranges": [
+        [
+          5412,
+          5587
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Conditions such as Marfan syndrome, Ehlers-Danlos syndrome, and Loeys-Dietz syndrome are known to cause aortic aneurysms and could be considered in the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          5236,
+          5411
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of a thoracoabdominal aneurysm in a young patient is unusual and suggests a connective tissue disorder or a genetic condition that affects the vascular system."
+    },
+    {
+      "ranges": [
+        [
+          10675,
+          10851
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient's symptoms and laboratory results suggest an inflammatory or autoimmune process that affects multiple systems, including the vascular, ocular, and auditory systems."
+    },
+    {
+      "ranges": [
+        [
+          8439,
+          8604
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of bilateral sensorineural deafness and ocular irritation, which improved with corticosteroid treatment, suggests an autoimmune or inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          8605,
+          8788
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The development of a thoracoabdominal aneurysm and the patient's other systemic symptoms, including hypertension and a faint epigastric bruit, suggest a vascular or systemic disorder."
+    },
+    {
+      "ranges": [
+        [
+          6221,
+          6374
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's laboratory results show a mild anemia, leukocytosis, and an elevated erythrocyte sedimentation rate, which suggest an inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          8959,
+          9150
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's symptoms and laboratory results do not suggest a specific infectious etiology, although other infectious causes, such as Lyme disease or tuberculosis, could still be considered."
+    },
+    {
+      "ranges": [
+        [
+          15983,
+          16213
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of a thoracoabdominal aneurysm and the patient's other vascular symptoms suggest that the patient is at risk for cardiovascular complications, such as rupture of the aneurysm or stenosis of the aorta and its branches."
+    },
+    {
+      "ranges": [
+        [
+          13410,
+          13676
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "other systemic disorders that could potentially explain the patient's symptoms include Kawasaki disease, which is a medium vessel vasculitis that can cause aneurysms and stenosis of the coronary arteries, as well as symptoms such as fever, rash, and lymphadenopathy."
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "case": "2003 Case 21__openai-gpt-oss-120b.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T05:36:02.164171+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          12057,
+          12349
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical picture is that of a 72‑year‑old man who suffered a series of transient brain‑stem and cerebellar symptoms that progressed to multiple radiographically documented infarcts in the posterior circulation (vertebro‑basilar territory) despite anticoagulation and antiplatelet therapy."
+    },
+    {
+      "ranges": [
+        [
+          12956,
+          13294
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential therefore must encompass a spectrum of arterial pathologies that can produce multifocal vertebro‑basilar ischemia, ranging from “common” atherosclerotic disease to immune‑mediated vasculitis and hypercoagulable states, as well as rarer entities such as arterial dissection, embolic sources, and paraneoplastic thrombosis."
+    },
+    {
+      "ranges": [
+        [
+          13881,
+          13963
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Atherosclerosis is the leading cause of ischemic stroke in patients over 65 years."
+    },
+    {
+      "ranges": [
+        [
+          13965,
+          14363
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "In the posterior circulation, progressive intimal thickening, plaque formation, and luminal narrowing of the vertebral arteries and the basilar artery predispose to two principal mechanisms of infarction: (1) hemodynamic insufficiency when stenoses become critical, especially during periods of reduced perfusion pressure; and (2) artery‑to‑artery embolization from ulcerated or thrombosed plaques."
+    },
+    {
+      "ranges": [
+        [
+          14954,
+          15126
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "CTA and MRA demonstrate diffuse, irregular, non‑calcified atheromatous disease of both vertebral arteries, with focal severe stenoses (particularly at the left dural ring)."
+    },
+    {
+      "ranges": [
+        [
+          17933,
+          18118
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of systemic inflammation, autoantibodies, and the non‑calcified nature of the lesions suggests that atherosclerosis is likely **augmented by an inflammatory vasculopathy**."
+    },
+    {
+      "ranges": [
+        [
+          21251,
+          21308
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "APS can certainly explain the recurrent arterial strokes."
+    },
+    {
+      "ranges": [
+        [
+          21202,
+          21308
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The serologic profile strongly supports APS, and APS can certainly explain the recurrent arterial strokes."
+    },
+    {
+      "ranges": [
+        [
+          21586,
+          21731
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The working hypothesis should therefore incorporate APS as a major pro‑thrombotic factor that may be **amplified by an inflammatory vasculitis**."
+    },
+    {
+      "ranges": [
+        [
+          24884,
+          25005
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "GCA remains a plausible contributor, particularly given the patient’s age, elevated CRP, and left subclavian involvement."
+    },
+    {
+      "ranges": [
+        [
+          25007,
+          25149
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the lack of hallmark cranial symptoms and the absence of temporal artery tenderness make GCA less convincing as the sole explanation."
+    },
+    {
+      "ranges": [
+        [
+          28856,
+          28984
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "PACNS remains a strong contender, especially given the angiographic appearance and the multifocal posterior‑circulation strokes."
+    },
+    {
+      "ranges": [
+        [
+          29164,
+          29321
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The most plausible scenario is **a primary CNS vasculitis superimposed on atherosclerotic vertebral disease, with APS acting as a pro‑thrombotic amplifier**."
+    },
+    {
+      "ranges": [
+        [
+          28995,
+          29162
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the co‑presence of a high‑titer antiphospholipid antibody profile and the background of atherosclerotic changes makes it difficult to isolate PACNS as the sole driver."
+    },
+    {
+      "ranges": [
+        [
+          31335,
+          31539
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "While a positive ANCA raises the specter of an AAV, the lack of characteristic systemic involvement makes a primary ANCA‑associated vasculitis **unlikely** as the principal cause of the posterior strokes."
+    }
+  ]
+}

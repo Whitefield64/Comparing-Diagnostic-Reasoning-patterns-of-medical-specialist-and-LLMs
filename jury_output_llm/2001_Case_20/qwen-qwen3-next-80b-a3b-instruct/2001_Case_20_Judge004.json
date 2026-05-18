@@ -1,0 +1,117 @@
+{
+  "case": "2001 Case 20__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T04:11:48.782161+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6306,
+          6437
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is infective endocarditis (IE), particularly in its culture-negative or atypical form."
+    },
+    {
+      "ranges": [
+        [
+          17401,
+          18075
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) infective endocarditis due to *Neisseria phenylpyruvica* or a similar fastidious organism, seeded from oral flora or a mucosal source, in the setting of degenerative valvular disease; (2) occult renal abscess or infected cyst, particularly given the renal cysts and chronic kidney disease; (3) tuberculosis, either pulmonary or extrapulmonary, with possible bacteremia or immune-mediated fever; (4) a systemic vasculitis such as polyarteritis nodosa, with secondary renal and systemic manifestations; and (5) an occult malignancy, particularly lymphoma or renal cell carcinoma, with paraneoplastic fever and secondary infection."
+    },
+    {
+      "ranges": [
+        [
+          6547,
+          6761
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of significant valvular pathology—thickened mitral and aortic leaflets, calcified posterior mitral annulus, and left atrial dilatation—creates a highly favorable substrate for endocardial colonization."
+    },
+    {
+      "ranges": [
+        [
+          6912,
+          7139
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The organism isolated, while not a classic IE pathogen like *Streptococcus viridans*, *Staphylococcus aureus*, or *Enterococcus*, is a gram-negative rod that may have been misidentified or underrecognized in earlier literature."
+    },
+    {
+      "ranges": [
+        [
+          18734,
+          18858
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If endocarditis remains suspected, surgical valvular evaluation may be warranted despite the absence of visible vegetations."
+    },
+    {
+      "ranges": [
+        [
+          8012,
+          8157
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The persistent low-grade fever, new systolic murmur, and elevated ESR (59 mm/hr) are classic, albeit nonspecific, signs of subacute endocarditis."
+    },
+    {
+      "ranges": [
+        [
+          14636,
+          14852
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The fact that the fever persisted despite ciprofloxacin and metronidazole is consistent with a source that is not responsive to broad-spectrum antibiotics targeting gut flora—suggesting a non-enteric, mucosal origin."
+    },
+    {
+      "ranges": [
+        [
+          15006,
+          15170
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "es.\n\nThe possibility of a malignancy with paraneoplastic fever or occult metastatic infection must be considered. The 15 kg weight loss over one year is profound an"
+    },
+    {
+      "ranges": [
+        [
+          18487,
+          18733
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The next diagnostic step should be repeated blood cultures with prolonged incubation, serologic testing for *Brucella* and *Coxiella*, and possibly a cardiac MRI to evaluate for vegetations or myocardial inflammation not seen on echocardiography."
+    },
+    {
+      "ranges": [
+        [
+          8158,
+          8436
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of peripheral stigmata (Osler nodes, Janeway lesions, Roth spots, splinter hemorrhages) does not exclude the diagnosis, particularly in elderly patients with diabetes and renal disease, where microvascular complications may blunt the typical clinical manifestations."
+    }
+  ]
+}

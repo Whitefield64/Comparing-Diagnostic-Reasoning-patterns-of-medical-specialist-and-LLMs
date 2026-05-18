@@ -1,0 +1,216 @@
+{
+  "case": "1992 Case 41__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T00:46:58.405973+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7560,
+          7731
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling consideration is right ventricular outflow tract obstruction due to pulmonary valve stenosis, possibly with associated dysplasia or annular hypoplasia."
+    },
+    {
+      "ranges": [
+        [
+          6682,
+          6750
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another possibility is a subaortic or supravalvular aortic stenosis."
+    },
+    {
+      "ranges": [
+        [
+          10644,
+          10817
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The possibility of cardiorenal syndrome must be entertained, but the murmur’s location and quality do not fit the typical findings of hypertensive heart disease in children."
+    },
+    {
+      "ranges": [
+        [
+          11091,
+          11228
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A more intriguing possibility is that this child has a genetic or syndromic condition that links both his urologic and cardiac anomalies."
+    },
+    {
+      "ranges": [
+        [
+          11487,
+          11660
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most relevant syndromes include VACTERL association (vertebral, anal, cardiac, tracheoesophageal, renal, limb), but this child has no vertebral, anal, or limb anomalies."
+    },
+    {
+      "ranges": [
+        [
+          11767,
+          11953
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "More compelling is the possibility of **CHARGE syndrome**, which includes Coloboma, Heart defect, Atresia choanae, Retarded growth and development, Genital hypoplasia, and Ear anomalies."
+    },
+    {
+      "ranges": [
+        [
+          12052,
+          12261
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another possibility is **DiGeorge syndrome (22q11.2 deletion syndrome)**, which is associated with conotruncal cardiac defects such as tetralogy of Fallot, truncus arteriosus, interrupted aortic arch, and VSD."
+    },
+    {
+      "ranges": [
+        [
+          12539,
+          12836
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A rarer but important consideration is **Prune Belly syndrome** (Eagle-Barrett syndrome), which is characterized by deficient abdominal musculature, bilateral cryptorchidism, and urinary tract abnormalities including hydronephrosis, megaureters, bladder diverticula, and posterior urethral valves."
+    },
+    {
+      "ranges": [
+        [
+          14393,
+          14542
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another consideration is **Alport syndrome**, which can present with progressive renal disease, sensorineural hearing loss, and ocular abnormalities."
+    },
+    {
+      "ranges": [
+        [
+          7732,
+          7847
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The murmur’s harshness and duration suggest high-velocity turbulent flow, which is typical of significant stenosis."
+    },
+    {
+      "ranges": [
+        [
+          7848,
+          7974
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The conduction delay on ECG may reflect chronic right ventricular pressure overload, even in the absence of overt hypertrophy."
+    },
+    {
+      "ranges": [
+        [
+          8180,
+          8330
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the stenosis is mild to moderate, and there is compensatory collateral flow or associated septal defect, increased pulmonary vascularity can occur."
+    },
+    {
+      "ranges": [
+        [
+          8331,
+          8524
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The finding of increased pulmonary vasculature suggests increased pulmonary blood flow, which points toward a left-to-right shunt or volume overload state rather than a pure obstructive lesion."
+    },
+    {
+      "ranges": [
+        [
+          5435,
+          5758
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The ECG shows only right ventricular conduction delay without hypertrophy, which is an important distinction: conduction delay can occur in chronic volume or pressure overload states, but the absence of voltage criteria for right ventricular hypertrophy suggests that any right heart strain is either mild or not yet struct"
+    },
+    {
+      "ranges": [
+        [
+          7975,
+          8170
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The chest radiograph shows increased pulmonary vasculature, which is inconsistent with severe pulmonary stenosis, as that would typically show decreased pulmonary vascularity due to reduced flow."
+    },
+    {
+      "ranges": [
+        [
+          4795,
+          4900
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The murmur’s location and character are classic for flow-related or structural outflow tract obstruction."
+    },
+    {
+      "ranges": [
+        [
+          15663,
+          15962
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The increased pulmonary vasculature on chest radiograph suggests elevated pulmonary blood flow, which could be due to a small left-to-right shunt, chronic hypoxia from pulmonary disease (but lungs are clear), or systemic-to-pulmonary shunting from collateral vessels secondary to renal hypertension."
+    },
+    {
+      "ranges": [
+        [
+          13945,
+          14206
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "the mother’s history of repaired PDA and the sister’s recurrent respiratory infections may reflect a familial predisposition to connective tissue or developmental anomalies, perhaps a low-penetrance autosomal dominant condition affecting mesodermal development."
+    },
+    {
+      "ranges": [
+        [
+          15357,
+          15662
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The right ventricular conduction delay on ECG is subtle but important. In children, right bundle branch block can be a normal variant, particularly if it is incomplete. However, in the context of chronic hypertension and renal disease, it may reflect chronic right ventricular pressure or volume overload."
+    }
+  ]
+}

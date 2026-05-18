@@ -1,0 +1,18 @@
+{
+  "case": "1991 Case 43__openai-gpt-oss-120b.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-17T23:23:19.348608+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          36519,
+          37575
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The preponderance of evidence points toward CMV as the primary pathogen driving the patient’s pulmonary disease:\n\n1. **Immunologic susceptibility** – CD4⁺ count < 50 cells µL⁻¹ places CMV at the top of the opportunistic infection hierarchy.  \n2. **Clinical hallmark** – Hemoptysis, a hallmark of CMV bronchitis, is present. The patient also has a **small apical pneumothorax**, a known (though uncommon) complication of CMV‑related cystic changes.  \n3. **Laboratory pattern** – Elevated LDH and ferritin, anemia of chronic disease, and a modest neutrophilic leukocytosis are typical of CMV systemic activation.  \n4. **Radiologic pattern** – Diffuse fine nodular opacities with subtle hilar prominence are described in CMV pneumonitis; the pattern can be indistinguishable from PCP or atypical fungal infections.  \n5. **Therapeutic response** – The fevers abated temporarily after broad‑spectrum antibiotics and the discontinuation of pentamidine, suggesting a **multifactorial** process: a primary CMV infection superimposed on a drug‑induced inflammatory "
+    }
+  ]
+}

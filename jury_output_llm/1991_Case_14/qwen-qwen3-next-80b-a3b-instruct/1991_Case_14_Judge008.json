@@ -1,0 +1,51 @@
+{
+  "case": "1991 Case 14__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-17T23:10:05.563414+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17471,
+          17691
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely diagnosis is a **congenital pulmonary airway malformation (CPAM) Type I**, given the posterior location, cystic appearance, T2 hyperintensity, lack of enhancement or calcification, and clinical stability."
+    },
+    {
+      "ranges": [
+        [
+          17692,
+          17837
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **esophageal duplication cyst** is an equally compelling alternative, especially given the precise paravertebral location and cleavage plane."
+    },
+    {
+      "ranges": [
+        [
+          10540,
+          10663
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The absence of calcification and fat on CT is a major argument against teratoma, as these are present in over 80% of cases."
+    },
+    {
+      "ranges": [
+        [
+          18053,
+          18246
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The imaging findings are too characteristic for a simple inflammatory or infectious process, and the lack of progression over 15 weeks effectively rules out neuroblastoma, lymphoma, or sarcoma."
+    }
+  ]
+}

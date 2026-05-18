@@ -1,0 +1,51 @@
+{
+  "case": "1999 Case 06__openai-gpt-oss-120b.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T02:48:26.213345+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5286,
+          5835
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The combination of large‑vessel aneurysm, renal‑artery stenosis, hypertension, and a specific ocular‑auditory syndrome is unusual. The differential must therefore encompass (1) primary large‑vessel vasculitides, (2) systemic medium‑vessel vasculitides that can involve the aorta secondarily, (3) inherited connective‑tissue disorders predisposing to aortic pathology, (4) infectious aortitis, (5) endocrine or iatrogenic causes of aneurysm formation, and (6) rare autoimmune syndromes that link ocular and inner‑ear disease with systemic vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          7759,
+          7906
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Overall, while TA can explain the large‑vessel pathology and hypertension, it does not account for the characteristic ocular and auditory findings."
+    },
+    {
+      "ranges": [
+        [
+          8029,
+          8408
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Cogan’s syndrome is a rare autoimmune disorder first described in 1945, classically defined by the triad of **interstitial keratitis**, **audio‑vestibular dysfunction** (typically progressive sensorineural hearing loss and/or vertigo), and a **systemic vasculitic component** that may involve the aorta, coronary arteries, renal arteries, and other medium‑ to large‑size vessels."
+    },
+    {
+      "ranges": [
+        [
+          9114,
+          9332
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The slit‑lamp description of tiny ghost vessels and nummular stromal scars is consistent with **late‑stage interstitial keratitis** where neovascularization and scar formation replace the acute inflammatory infiltrate."
+    }
+  ]
+}

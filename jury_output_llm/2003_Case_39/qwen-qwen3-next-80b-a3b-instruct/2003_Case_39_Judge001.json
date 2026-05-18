@@ -1,0 +1,150 @@
+{
+  "case": "2003 Case 39__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T06:32:13.682061+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5437,
+          5733
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presentation of a 33-year-old woman with acute gross hematuria, passage of clots, mild dysuria, and subsequent urinary retention, culminating in the identification of a 3–4 cm nonenhancing mass in the dome of the bladder on cystoscopy, demands a systematic and nuanced differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          6321,
+          6378
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate concern is a primary bladder neoplasm."
+    },
+    {
+      "ranges": [
+        [
+          6379,
+          6613
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Transitional cell carcinoma (TCC), now termed urothelial carcinoma, is the most common malignant bladder tumor in adults and frequently presents with painless gross hematuria, which may be intermittent but tends to persist and worsen."
+    },
+    {
+      "ranges": [
+        [
+          6614,
+          6829
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The location of the mass in the dome of the bladder is not atypical for TCC, which can arise anywhere along the urothelium but is common in the trigone and lateral walls; however, the dome is also a recognized site."
+    },
+    {
+      "ranges": [
+        [
+          8195,
+          8275
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another important consideration is squamous cell carcinoma (SCC) of the bladder."
+    },
+    {
+      "ranges": [
+        [
+          9663,
+          9776
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A third neoplastic possibility is a rare bladder tumor, such as adenocarcinoma, sarcoma, or small cell carcinoma."
+    },
+    {
+      "ranges": [
+        [
+          9777,
+          9973
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Adenocarcinoma of the bladder is exceedingly rare and typically arises from urachal remnants, which are most commonly located in the dome of the bladder—the exact site of the mass in this patient."
+    },
+    {
+      "ranges": [
+        [
+          10792,
+          10921
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory or infectious processes must also be considered, though they are less likely to produce a discrete, persistent mass."
+    },
+    {
+      "ranges": [
+        [
+          10922,
+          11071
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Granulomatous cystitis, particularly due to tuberculosis (TB), is a critical consideration in patients from endemic regions, including parts of Asia."
+    },
+    {
+      "ranges": [
+        [
+          12160,
+          12316
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another rare but important consideration is eosinophilic cystitis, an inflammatory condition characterized by eosinophilic infiltration of the bladder wall."
+    },
+    {
+      "ranges": [
+        [
+          13106,
+          13295
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Autoimmune or systemic vasculitic disorders affecting the genitourinary tract should be considered, particularly given the patient’s young age and the presence of proteinuria and hematuria."
+    },
+    {
+      "ranges": [
+        [
+          6926,
+          7166
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the mass appeared as heterogeneous, mixed-attenuation, nonenhancing debris on CT and was confirmed as a discrete mass on cystoscopy is highly suggestive of a solid tumor rather than a purely inflammatory or clot-based process."
+    },
+    {
+      "ranges": [
+        [
+          7167,
+          7376
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Nonenhancement on CT may reflect either necrotic core, fibrosis, or low vascularity—features that can be seen in high-grade urothelial carcinoma, especially if there is associated necrosis or prior hemorrhage."
+    }
+  ]
+}

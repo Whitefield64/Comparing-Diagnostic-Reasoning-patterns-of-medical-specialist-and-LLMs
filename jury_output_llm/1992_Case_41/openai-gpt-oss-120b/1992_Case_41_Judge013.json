@@ -1,0 +1,73 @@
+{
+  "case": "1992 Case 41__openai-gpt-oss-120b.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T00:29:10.692993+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23216,
+          23458
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling concordance is between the murmur’s acoustic characteristics (harsh, long systolic ejection, radiation to apex) and a left‑sided outflow obstruction, most commonly **valvar aortic stenosis** due to a bicuspid aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          4459,
+          4765
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis must integrate (1) the hemodynamic implications of a systolic ejection murmur in a toddler, (2) the significance of systemic hypertension in the setting of chronic obstructive uropathy, and (3) the possibility of an underlying syndrome that links renal and cardiac malformations."
+    },
+    {
+      "ranges": [
+        [
+          7552,
+          7703
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The murmur is also a harsh systolic ejection murmur, often louder at the left sternal border and sometimes radiating to the apex, similar to valvar AS."
+    },
+    {
+      "ranges": [
+        [
+          9870,
+          9979
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The hallmark is a discrepancy between upper‑ and lower‑extremity blood pressures and weakened femoral pulses."
+    },
+    {
+      "ranges": [
+        [
+          23460,
+          23684
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of systemic hypertension is readily explained by chronic obstructive uropathy with renin‑angiotensin activation, and the hypertension may be contributing to the LV pressure load, thereby accentuating the murmur."
+    },
+    {
+      "ranges": [
+        [
+          5341,
+          5575
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The resulting pressure gradient produces a harsh, crescendo‑decrescendo systolic ejection murmur that is loudest at the left upper sternal border (LUSB) and often radiates to the carotid arteries and, in younger children, to the apex."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "case": "1992 Case 16__openai-gpt-oss-120b.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-17T23:54:30.900485+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          26098,
+          26277
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The two entities that best reconcile *all* the clinical, laboratory, and imaging data are **Langerhans cell histiocytosis (eosinophilic granuloma)** and **primary bone lymphoma**."
+    },
+    {
+      "ranges": [
+        [
+          26279,
+          26505
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Both can present as a solitary, osteolytic vertebral body lesion with a posterior epidural extension causing early cord compression, and both can be associated with a modestly elevated ESR and subtle hematologic abnormalities."
+    },
+    {
+      "ranges": [
+        [
+          27237,
+          27399
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s symptoms were **precipitated by minor trauma**, a frequent scenario where a dormant eosinophilic granuloma becomes symptomatic after a “second hit”."
+    },
+    {
+      "ranges": [
+        [
+          29948,
+          30196
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the biopsy yields a **granulomatous infiltrate with Langerhans cells**, the diagnosis of eosinophilic granuloma is confirmed, and treatment would shift toward **corticosteroid therapy, limited radiotherapy, or curettage** depending on stability."
+    },
+    {
+      "ranges": [
+        [
+          30198,
+          30347
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Conversely, a **lymphoid malignancy** would necessitate **systemic chemotherapy (e.g., CHOP‑like regimen) and possibly involved‑field radiotherapy**."
+    },
+    {
+      "ranges": [
+        [
+          22508,
+          22598
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "rimary bone lymphoma** is a **strong contender** and must be kept high on the differential"
+    },
+    {
+      "ranges": [
+        [
+          32917,
+          33029
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the lesion’s apparent circumscription and the absence of systemic “B‑symptoms” make it slightly less compatible."
+    },
+    {
+      "ranges": [
+        [
+          13459,
+          13617
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The CT finding of a **well‑circumscribed osteolytic lesion** with a **soft‑tissue component** protruding posteriorly is classic for an eosinophilic granuloma."
+    },
+    {
+      "ranges": [
+        [
+          26594,
+          26783
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The combination of a **superoposterior C5 vertebral body lysis** and a **posterior soft‑tissue mass** is a classic description for an eosinophilic granuloma extending into the spinal canal."
+    },
+    {
+      "ranges": [
+        [
+          29420,
+          29470
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The forthcoming pathology report will be decisive."
+    },
+    {
+      "ranges": [
+        [
+          31671,
+          31846
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In practice, many centers would proceed with a **CT‑guided core needle biopsy** while maintaining cervical immobilization and steroids, then tailor therapy based on pathology."
+    },
+    {
+      "ranges": [
+        [
+          33033,
+          33189
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Therefore, the leading diagnosis is Langerhans cell histiocytosis (solitary eosinophilic granuloma of the C5 vertebra) pending histopathologic confirmation."
+    }
+  ]
+}

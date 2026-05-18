@@ -1,0 +1,62 @@
+{
+  "case": "2001 Case 20__openai-gpt-oss-120b.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-18T03:51:40.811866+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23988,
+          24215
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "most compelling working diagnosis** is **subacute infective endocarditis caused by *Moraxella phenylpyruvica***, with the ulcerated atherosclerotic plaque serving either as a secondary nidus or as a conduit for bacterial seedin"
+    },
+    {
+      "ranges": [
+        [
+          31191,
+          31387
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "preponderance of evidence** points toward a **low‑grade, subacute infective process involving the cardiovascular system**, most plausibly **infective endocarditis caused by *Moraxella phenylpyruvi"
+    },
+    {
+      "ranges": [
+        [
+          32537,
+          32732
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "working diagnosis** should be articulated as:\n\n> **Subacute infective endocarditis due to *Moraxella phenylpyruvica* with probable involvement of an ulcerated thoracic aortic atherosclerotic plaq"
+    },
+    {
+      "ranges": [
+        [
+          5440,
+          5783
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The problem list can be roughly divided into two domains: (1) **identifying the anatomic source of the bacteremia** and (2) **determining whether the bacteremia represents a primary infection, a secondary infection superimposed on an underlying chronic process, or a manifestation of a non‑infectious disease that predisposes to secondary infe"
+    },
+    {
+      "ranges": [
+        [
+          27427,
+          27789
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s temperature normalized after 48 h of cefuroxime, suggesting **adequate antimicrobial activity**.  However, **persistent low‑grade bacteremia (culture positive on day 6)** raises the possibility that the antibiotic penetrates poorly into the **avascular plaque or micro‑vegetations**, or that the bacterial load within the plaque is **protected by a"
+    }
+  ]
+}

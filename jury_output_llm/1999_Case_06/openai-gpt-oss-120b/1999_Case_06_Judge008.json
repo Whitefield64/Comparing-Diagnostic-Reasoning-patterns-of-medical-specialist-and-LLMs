@@ -1,0 +1,51 @@
+{
+  "case": "1999 Case 06__openai-gpt-oss-120b.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T02:44:12.063297+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5286,
+          5835
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The combination of large‑vessel aneurysm, renal‑artery stenosis, hypertension, and a specific ocular‑auditory syndrome is unusual. The differential must therefore encompass (1) primary large‑vessel vasculitides, (2) systemic medium‑vessel vasculitides that can involve the aorta secondarily, (3) inherited connective‑tissue disorders predisposing to aortic pathology, (4) infectious aortitis, (5) endocrine or iatrogenic causes of aneurysm formation, and (6) rare autoimmune syndromes that link ocular and inner‑ear disease with systemic vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          7759,
+          7906
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Overall, while TA can explain the large‑vessel pathology and hypertension, it does not account for the characteristic ocular and auditory findings."
+    },
+    {
+      "ranges": [
+        [
+          16656,
+          16859
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s **ocular findings (interstitial keratitis‑like scar), sensorineural deafness, and systemic vasculitis** are not adequately explained by any of the classic inherited connective‑tissue disord"
+    },
+    {
+      "ranges": [
+        [
+          24856,
+          25066
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Cogan’s systemic vasculitis can mimic Takayasu**; indeed, some authors have proposed that the large‑vessel variant of Cogan’s may be a **subset of Takayasu** with additional ocular‑auditory involvement. Regardl"
+    }
+  ]
+}

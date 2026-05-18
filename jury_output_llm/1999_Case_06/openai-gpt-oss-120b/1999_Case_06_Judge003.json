@@ -1,0 +1,29 @@
+{
+  "case": "1999 Case 06__openai-gpt-oss-120b.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T02:42:37.489436+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5286,
+          5835
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The combination of large‑vessel aneurysm, renal‑artery stenosis, hypertension, and a specific ocular‑auditory syndrome is unusual. The differential must therefore encompass (1) primary large‑vessel vasculitides, (2) systemic medium‑vessel vasculitides that can involve the aorta secondarily, (3) inherited connective‑tissue disorders predisposing to aortic pathology, (4) infectious aortitis, (5) endocrine or iatrogenic causes of aneurysm formation, and (6) rare autoimmune syndromes that link ocular and inner‑ear disease with systemic vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          21992,
+          22381
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s most striking and pathognomonic combination is **(1) interstitial‑keratitis‑like corneal scarring, (2) progressive bilateral sensorineural deafness, and (3) systemic large‑vessel vasculitis manifested by a thoraco‑abdominal aneurysm, renal‑artery stenosis, and refractory hypertension**. This triad is the classic description of **Cogan’s syndrome with systemic vasculitis**."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "case": "1992 Case 16__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T00:01:51.445711+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5568,
+          5744
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnostic considerations must be grouped into four major categories: infectious, neoplastic, inflammatory/autoimmune, and rare degenerative or vascular etiologies."
+    },
+    {
+      "ranges": [
+        [
+          10336,
+          10655
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the lesion is centered in the posterior body and extends into the neural canal may explain the progressive neurologic deficit—clumsiness of the left hand suggests involvement of the lateral corticospinal tracts or anterior horn cells at the C5–C6 level, possibly due to direct compression or infiltration."
+    },
+    {
+      "ranges": [
+        [
+          9165,
+          9337
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The diagnostic procedure performed (likely a biopsy) would be critical to differentiate between bacterial, fungal, or tuberculous etiologies via culture and histopathology."
+    },
+    {
+      "ranges": [
+        [
+          18686,
+          19009
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s history of recurrent skin infections makes the infectious etiology the most compelling, and the fact that she was given dexamethasone (which may be used to reduce spinal cord edema) and codeine (for pain) suggests the clinical team is already leaning toward a compressive lesion requiring urgent intervention."
+    },
+    {
+      "ranges": [
+        [
+          19476,
+          19635
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The elevated ESR and chronic infection history make infectious osteomyelitis the leading hypothesis, but malignancy cannot be ruled out without histopathology."
+    },
+    {
+      "ranges": [
+        [
+          17641,
+          17771
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely diagnosis is **vertebral osteomyelitis secondary to *Staphylococcus aureus***, seeded from the chronic paronychia."
+    },
+    {
+      "ranges": [
+        [
+          14110,
+          14314
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "ntriguing possibility is a rare condition known as chronic recurrent multifocal osteomyelitis (CRMO), which is an autoinflammatory bone disorder of childhood and adolescence that can persist into adulthoo"
+    },
+    {
+      "ranges": [
+        [
+          19636,
+          19834
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case underscores the importance of considering both infectious and neoplastic causes in young patients with unexplained vertebral lesions, especially in the setting of a chronic skin infection."
+    },
+    {
+      "ranges": [
+        [
+          18481,
+          18685
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The biopsy will be diagnostic: if granulomas with caseation are found, TB is confirmed; if small round blue cells with CD99 positivity, Ewing sarcoma; if neutrophils and bacteria, bacterial osteomyelitis."
+    },
+    {
+      "ranges": [
+        [
+          4928,
+          5190
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The MRI and CT findings are critical: an osteolytic lesion involving the superior endplate and posterior body of C5, with a soft-tissue mass encroaching on the spinal canal, raises immediate concern for a space-occupying lesion with destructive bone involvement."
+    }
+  ]
+}

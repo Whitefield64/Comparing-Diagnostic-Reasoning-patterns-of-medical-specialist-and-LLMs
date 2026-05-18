@@ -1,0 +1,106 @@
+{
+  "case": "2003 Case 21__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T05:54:57.185217+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          13291,
+          13645
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling evidence pointing away from pure atherosclerosis is the multifocal, irregular nature of the vertebral artery stenoses, particularly their asymmetry and distribution along the dural ring and mid-vertebral segments—regions less commonly affected by typical atherosclerotic plaques, which tend to localize at ostial or bifurcation sites."
+    },
+    {
+      "ranges": [
+        [
+          14383,
+          14504
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "ANCA-associated vasculitis (AAV), particularly microscopic polyangiitis (MPA), must be considered as a leading diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          14505,
+          14721
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "MPA commonly affects small- to medium-sized vessels, including the vertebral and basilar arteries, and can present with multifocal posterior circulation strokes without renal or pulmonary involvement in early stages."
+    },
+    {
+      "ranges": [
+        [
+          14894,
+          15087
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The borderline lupus anticoagulant and elevated anticardiolipin antibodies (IgG 56.8 GPL, IgM 28.5 MPL) suggest a secondary antiphospholipid syndrome (APS), which could coexist with vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          20488,
+          20626
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The possibility of a paraneoplastic vasculopathy must be considered, particularly given the small pulmonary nodules and the patient’s age."
+    },
+    {
+      "ranges": [
+        [
+          13646,
+          13948
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The presence of non-calcified, circumferential stenoses at the origin of the left vertebral artery, coupled with elevated intracranial flow velocities on transcranial Doppler and the absence of significant internal carotid disease, suggests a process that is not simply age-related plaque accumulation."
+    },
+    {
+      "ranges": [
+        [
+          21636,
+          21741
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "According to the Sydney criteria, this meets the serologic threshold for antiphospholipid syndrome (APS)."
+    },
+    {
+      "ranges": [
+        [
+          13102,
+          13289
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The challenge lies in distinguishing between atherosclerotic progression, a primary vasculitis, a prothrombotic state, and a systemic connective tissue disorder with vascular involvement."
+    },
+    {
+      "ranges": [
+        [
+          24381,
+          24598
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": ". The case represents a classic, albeit atypical, presentation of MPA with predominant neurological involvement—a diagnosis that requires prompt immunosuppression with cyclophosphamide or rituximab and glucocorticoids"
+    }
+  ]
+}

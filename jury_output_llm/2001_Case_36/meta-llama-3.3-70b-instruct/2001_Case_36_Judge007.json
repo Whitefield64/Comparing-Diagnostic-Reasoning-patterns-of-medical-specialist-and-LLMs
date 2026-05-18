@@ -1,0 +1,51 @@
+{
+  "case": "2001 Case 36__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T04:28:40.045946+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5993,
+          6099
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious causes are high on the differential diagnosis list due to the patient's immunosuppressed state."
+    },
+    {
+      "ranges": [
+        [
+          6987,
+          7252
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's symptoms of malaise, nonproductive cough, sore throat, and rhinorrhea could be consistent with a viral upper respiratory infection, although the presence of fever and the patient's immunocompromised state suggest that the illness could be more severe."
+    },
+    {
+      "ranges": [
+        [
+          7501,
+          7711
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Exacerbation of bronchiolitis obliterans with organizing pneumonia (BOOP) is a possibility, given the patient's history of this condition and the presence of patchy and linear opacities on the chest radiograph."
+    },
+    {
+      "ranges": [
+        [
+          11259,
+          11560
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's complex medical history and the presence of multiple potential causes for the current illness highlight the need for a multidisciplinary approach to care. This includes collaboration between pulmonologists, infectious disease specialists, rheumatologists, and other healthcare profession"
+    }
+  ]
+}

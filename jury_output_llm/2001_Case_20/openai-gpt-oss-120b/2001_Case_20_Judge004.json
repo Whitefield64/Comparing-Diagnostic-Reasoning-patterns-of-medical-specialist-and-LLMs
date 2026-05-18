@@ -1,0 +1,95 @@
+{
+  "case": "2001 Case 20__openai-gpt-oss-120b.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T03:53:29.131884+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23988,
+          24215
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "most compelling working diagnosis** is **subacute infective endocarditis caused by *Moraxella phenylpyruvica***, with the ulcerated atherosclerotic plaque serving either as a secondary nidus or as a conduit for bacterial seedin"
+    },
+    {
+      "ranges": [
+        [
+          31191,
+          31387
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "preponderance of evidence** points toward a **low‑grade, subacute infective process involving the cardiovascular system**, most plausibly **infective endocarditis caused by *Moraxella phenylpyruvi"
+    },
+    {
+      "ranges": [
+        [
+          25361,
+          25630
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The transesophageal echo demonstrated **moderate atheromatous disease with an ulcerated plaque**.  Ulceration exposes the subendothelial matrix (collagen, fibronectin) and releases tissue factor, promoting platelet aggregation and a local inflammatory milieu rich in fi"
+    },
+    {
+      "ranges": [
+        [
+          6007,
+          6121
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The goal is to arrive at a hierarchy of likelihood that can guide further investigation and therapeutic decisions."
+    },
+    {
+      "ranges": [
+        [
+          33384,
+          33545
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Weighed evidence for each source** using objective markers (culture results, imaging, laboratory values) and the known pathogenicity of *Moraxella phenylpyruvica"
+    },
+    {
+      "ranges": [
+        [
+          27427,
+          27533
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient’s temperature normalized after 48 h of cefuroxime, suggesting **adequate antimicrobial activit"
+    },
+    {
+      "ranges": [
+        [
+          5093,
+          5434
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The clinical picture of a 64‑year‑old man with multiple cardiovascular, metabolic and renal comorbidities who presents with a sub‑acute febrile illness, unintentional weight loss, a new systolic murmur, a positive tuberculin skin test, calcified mediastinal nodes, and a **β‑lactamase‑negative *Moraxella phenylpyruvica* bacteremia** is comp"
+    },
+    {
+      "ranges": [
+        [
+          14399,
+          14509
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the probability of a *Moraxella* bacteremia persisting for weeks without a focal respiratory infection is low."
+    }
+  ]
+}

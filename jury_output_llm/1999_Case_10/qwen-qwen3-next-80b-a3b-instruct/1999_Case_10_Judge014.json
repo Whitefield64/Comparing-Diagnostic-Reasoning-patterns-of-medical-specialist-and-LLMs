@@ -1,0 +1,161 @@
+{
+  "case": "1999 Case 10__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T03:41:40.339093+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9583,
+          9755
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is **antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV)**, particularly **microscopic polyangiitis (MPA)**."
+    },
+    {
+      "ranges": [
+        [
+          11547,
+          11753
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential must also include **polyarteritis nodosa (PAN)**, a medium-vessel vasculitis that classically spares the lungs but can involve the kidneys, gastrointestinal tract, skin, and nervous system."
+    },
+    {
+      "ranges": [
+        [
+          12479,
+          12639
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another critical consideration is **thrombotic microangiopathy (TMA)**, including thrombotic thrombocytopenic purpura (TTP) and hemolytic uremic syndrome (HUS)."
+    },
+    {
+      "ranges": [
+        [
+          14081,
+          14193
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "**Systemic lupus erythematosus (SLE)** with lupus nephritis and neuropsychiatric involvement must be considered."
+    },
+    {
+      "ranges": [
+        [
+          15149,
+          15225
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "**Cancer-associated paraneoplastic syndromes** must be aggressively pursued."
+    },
+    {
+      "ranges": [
+        [
+          16813,
+          16960
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "**Infectious causes** must be excluded, though they are less likely given the negative cultures and lack of response to broad-spectrum antibiotics."
+    },
+    {
+      "ranges": [
+        [
+          17825,
+          17944
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "**Hypereosinophilic syndrome (HES)** and **eosinophilic granulomatosis with polyangiitis (EGPA)** should be considered."
+    },
+    {
+      "ranges": [
+        [
+          12938,
+          13036
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the presence of dysmorphic RBCs, renal failure, and neurologic deficits strongly raises suspicion."
+    },
+    {
+      "ranges": [
+        [
+          13037,
+          13214
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of reported schistocytes on peripheral smear is a notable gap; however, schistocytes may be missed if the smear is not carefully examined or if the process is early."
+    },
+    {
+      "ranges": [
+        [
+          11115,
+          11344
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The skin biopsy showing intravascular coagulation and lymphocytic inflammation is consistent with leukocytoclastic vasculitis, which may occur in MPA, particularly when there is significant fibrinoid necrosis and microthrombosis."
+    },
+    {
+      "ranges": [
+        [
+          20877,
+          21083
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient’s clinical trajectory—rapid deterioration despite high-dose steroids, negative cultures, and lack of response to conventional therapies—suggests an aggressive, systemic, immune-mediated process."
+    },
+    {
+      "ranges": [
+        [
+          21084,
+          21297
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of ANCA titers, ADAMTS13 activity, IgG4 levels, and definitive tissue diagnosis from the gastric biopsy or renal biopsy (which was not mentioned but would be essential) leaves critical diagnostic gaps."
+    },
+    {
+      "ranges": [
+        [
+          19722,
+          19860
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The fact that they occurred in the setting of systemic illness and cutaneous vasculitis strongly supports an immune-mediated vasculopathy."
+    },
+    {
+      "ranges": [
+        [
+          10510,
+          10754
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The cortical blindness, confirmed by MRI to involve bilateral occipital lobe infarcts, is a recognized neurological manifestation of MPA, resulting from microvascular thrombosis or necrotizing arteriolitis in the posterior cerebral circulation."
+    }
+  ]
+}

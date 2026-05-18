@@ -1,0 +1,84 @@
+{
+  "case": "2003 Case 39__openai-gpt-oss-120b.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T06:27:45.240162+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23030,
+          23098
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most parsimonious explanation is a **primary bladder neoplasm**."
+    },
+    {
+      "ranges": [
+        [
+          23458,
+          23671
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The balance of probability leans toward urothelial carcinoma because it is vastly more common, even in young women, and because the CT did not demonstrate a classic midline urachal tract or extravesical component."
+    },
+    {
+      "ranges": [
+        [
+          29394,
+          29736
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the epidemiologic dominance of urothelial carcinoma and the fact that many urachal adenocarcinomas demonstrate extravesical extension (which was not observed on CT), the **working diagnosis** after integrating all available data is **urothelial carcinoma of the bladder**, likely a high‑grade, non‑muscle‑invasive tumor pending staging."
+    },
+    {
+      "ranges": [
+        [
+          26568,
+          26736
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If malignancy is confirmed, a chest CT and bone scan (or PET‑CT) would be indicated for staging, given the potential for early metastasis, especially in adenocarcinoma."
+    },
+    {
+      "ranges": [
+        [
+          27295,
+          27420
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "For a solitary 3–4 cm lesion, standard management involves complete transurethral resection with muscularis propria sampling."
+    },
+    {
+      "ranges": [
+        [
+          27421,
+          27589
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "If the pathology reveals non‑muscle‑invasive disease (Ta/T1), intravesical therapy (e.g., Bacillus Calmette‑Guérin) may be indicated, especially for high‑grade lesions."
+    },
+    {
+      "ranges": [
+        [
+          22597,
+          22706
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of a discrete mass strongly supports a neoplastic process rather than simple inflammatory edema."
+    }
+  ]
+}

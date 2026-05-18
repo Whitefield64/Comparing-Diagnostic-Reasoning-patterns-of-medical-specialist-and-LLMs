@@ -1,0 +1,73 @@
+{
+  "case": "1996 Case 14__openai-gpt-oss-120b.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T02:27:03.443172+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          35592,
+          35781
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most defensible primary diagnosis in this patient is **drug‑induced toxic epidermal necrolysis**, most likely triggered by vancomycin, with a possible contributory role of methotrexate."
+    },
+    {
+      "ranges": [
+        [
+          8550,
+          8725
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cytotoxic T‑cell–mediated keratinocyte apoptosis, driven by granulysin, perforin‑granzyme pathways, and Fas‑FasL interactions, culminates in full‑thickness epidermal necrosis."
+    },
+    {
+      "ranges": [
+        [
+          8726,
+          8852
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The reaction is typically precipitated by an offending drug that acts as a hapten or triggers a drug‑specific T‑cell response."
+    },
+    {
+      "ranges": [
+        [
+          23560,
+          23713
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "the SCORTEN score, which incorporates age >40 y, malignancy, >10 % BSA detachment, serum urea >10 mmol/L, glucose >14 mmol/L, and bicarbonate <20 mmol/L."
+    },
+    {
+      "ranges": [
+        [
+          31314,
+          31471
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The combination of massive epidermal loss, fluid/electrolyte derangements, respiratory compromise, and multi‑organ dysfunction culminated in a fatal outcome."
+    },
+    {
+      "ranges": [
+        [
+          11781,
+          11915
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "t, mucosal ulceration, conjunctival injection, and histology showing full‑thickness necrosis argue strongly against SSSS. Moreover, cu"
+    }
+  ]
+}

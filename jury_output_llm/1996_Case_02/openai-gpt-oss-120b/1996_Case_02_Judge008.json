@@ -1,0 +1,106 @@
+{
+  "case": "1996 Case 02__openai-gpt-oss-120b.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T01:58:34.391101+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          31310,
+          31576
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The table underscores that the constellation of a **hypervascular mass with a central scar**, **normal liver enzymes**, **normal tumor markers**, and **systemic constitutional symptoms** is most parsimoniously explained by **fibrolamellar hepatocellular carcinoma**."
+    },
+    {
+      "ranges": [
+        [
+          31577,
+          31793
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The only serious rival is an **inflammatory pseudotumor**, which can mimic those imaging features and clinical signs, but the size and the classic central scar pattern on delayed imaging are more in line with FL‑HCC."
+    },
+    {
+      "ranges": [
+        [
+          14844,
+          14928
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "nstitutional symptoms are thought to be mediated by cytokine release from the tumor."
+    },
+    {
+      "ranges": [
+        [
+          33350,
+          33607
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the diagnosis is **fibrolamellar HCC**, the standard of care is **surgical resection** (anatomic left‑lobe hepatectomy or extended left hepatectomy) because the tumor typically arises in a non‑cirrhotic liver and patients tolerate major hepatectomy well."
+    },
+    {
+      "ranges": [
+        [
+          32048,
+          32213
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "1. **Serum Alpha‑Fetoprotein (AFP) and Des‑γ‑Carboxyprothrombin (DCP)** – Normal AFP would support FL‑HCC; markedly elevated AFP would point toward conventional HCC."
+    },
+    {
+      "ranges": [
+        [
+          33608,
+          33761
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The presence of a solitary lesion, absence of vascular invasion on imaging, and lack of extra‑hepatic disease make the patient a good surgical candidate."
+    },
+    {
+      "ranges": [
+        [
+          35405,
+          35693
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Fibrolamellar HCC uniquely integrates all observed elements: it occurs in young adults without cirrhosis, presents as a hypervascular mass with a central fibrous scar, often elicits systemic inflammatory symptoms (fever, weight loss), and typically shows normal AFP and liver chemistries."
+    },
+    {
+      "ranges": [
+        [
+          17338,
+          17393
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the probability is markedly lower than that for FL‑HCC."
+    },
+    {
+      "ranges": [
+        [
+          26216,
+          26312
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The clinical picture (intermittent fevers, weight loss) aligns with an inflammatory pseudotumor."
+    }
+  ]
+}

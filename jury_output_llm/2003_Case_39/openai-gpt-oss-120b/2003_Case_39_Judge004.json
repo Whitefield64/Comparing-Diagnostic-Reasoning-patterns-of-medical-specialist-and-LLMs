@@ -1,0 +1,106 @@
+{
+  "case": "2003 Case 39__openai-gpt-oss-120b.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T06:19:43.463588+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23031,
+          23454
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "he most parsimonious explanation is a **primary bladder neoplasm**. The dome location narrows the differential to two main possibilities:\n\n1. **Urothelial carcinoma** – the most common bladder cancer overall, capable of arising anywhere, including the dome.  \n2. **Urachal adenocarcinoma** – a rarer tumor that classically originates at the dome and can present with mucinous debris and systemic symptoms such as weight los"
+    },
+    {
+      "ranges": [
+        [
+          23458,
+          23894
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The balance of probability leans toward urothelial carcinoma because it is vastly more common, even in young women, and because the CT did not demonstrate a classic midline urachal tract or extravesical component. However, the dome predilection, modest weight loss, and the description of “heterogeneous, mixed‑attenuation debris” (potentially mucin) keep urachal adenocarcinoma high on the differential pending histologic confirmation."
+    },
+    {
+      "ranges": [
+        [
+          22597,
+          22706
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of a discrete mass strongly supports a neoplastic process rather than simple inflammatory edema."
+    },
+    {
+      "ranges": [
+        [
+          27421,
+          27729
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the pathology reveals non‑muscle‑invasive disease (Ta/T1), intravesical therapy (e.g., Bacillus Calmette‑Guérin) may be indicated, especially for high‑grade lesions. Muscle‑invasive disease would require radical cystectomy with urinary diversion, possibly preceded or followed by neoadjuvant chemotherapy."
+    },
+    {
+      "ranges": [
+        [
+          27325,
+          27420
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "standard management involves complete transurethral resection with muscularis propria sampling."
+    },
+    {
+      "ranges": [
+        [
+          29394,
+          29736
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the epidemiologic dominance of urothelial carcinoma and the fact that many urachal adenocarcinomas demonstrate extravesical extension (which was not observed on CT), the **working diagnosis** after integrating all available data is **urothelial carcinoma of the bladder**, likely a high‑grade, non‑muscle‑invasive tumor pending staging."
+    },
+    {
+      "ranges": [
+        [
+          22861,
+          22971
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The acute clot formation could represent tumor erosion into a vascular surface, precipitating sudden bleeding."
+    },
+    {
+      "ranges": [
+        [
+          22063,
+          22370
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The imaging does not reveal a classic enhancing solid tumor, but the presence of “mixed‑attenuation debris” could represent blood clot overlaying a mass, especially if the mass is mucinous (as in urachal adenocarcinoma) or necrotic. Small urothelial tumors can be isodense and may not enhance conspicuously."
+    },
+    {
+      "ranges": [
+        [
+          29906,
+          30073
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "the differential must remain open to urachal adenocarcinoma until immunohistochemical profiling confirms urothelial lineage or reveals intestinal‑type differentiation."
+    }
+  ]
+}

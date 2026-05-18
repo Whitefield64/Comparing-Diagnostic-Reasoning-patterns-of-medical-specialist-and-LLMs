@@ -1,0 +1,128 @@
+{
+  "case": "1999 Case 10__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T03:37:01.625416+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9583,
+          9755
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is **antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV)**, particularly **microscopic polyangiitis (MPA)**."
+    },
+    {
+      "ranges": [
+        [
+          11547,
+          11753
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential must also include **polyarteritis nodosa (PAN)**, a medium-vessel vasculitis that classically spares the lungs but can involve the kidneys, gastrointestinal tract, skin, and nervous system."
+    },
+    {
+      "ranges": [
+        [
+          12479,
+          12639
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another critical consideration is **thrombotic microangiopathy (TMA)**, including thrombotic thrombocytopenic purpura (TTP) and hemolytic uremic syndrome (HUS)."
+    },
+    {
+      "ranges": [
+        [
+          15226,
+          15443
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s age, chronic gastritis, left-sided hydronephrosis, and newly palpable supraclavicular and axillary lymphadenopathy raise concern for an occult malignancy, particularly gastric adenocarcinoma or lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          18363,
+          18494
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **renal findings**—bilateral hydronephrosis, decreased nephrogram, and stent placement for nonfilling left ureter—are puzzling."
+    },
+    {
+      "ranges": [
+        [
+          18784,
+          19080
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The CT finding of anterior pericardial thickening and pararenal fluid raises the possibility of **IgG4-related disease**, which can involve the kidneys (tubulointerstitial nephritis), retroperitoneum, pancreas, and pericardium, and can present with systemic inflammation and elevated IgG4 levels."
+    },
+    {
+      "ranges": [
+        [
+          16450,
+          16558
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the biopsy was not reviewed for malignancy, or if it was inadequate, a malignancy could have been missed."
+    },
+    {
+      "ranges": [
+        [
+          10079,
+          10378
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The renal biopsy findings, though not explicitly described, are strongly implied by the urinalysis: dysmorphic red blood cells (indicative of glomerular injury), proteinuria, granular casts, and low urine sodium with low osmolality (suggesting intrinsic renal failure rather than prerenal azotemia)."
+    },
+    {
+      "ranges": [
+        [
+          10379,
+          10509
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The absence of red-cell casts does not exclude RPGN; they are not always present, especially in early or rapidly evolving disease."
+    },
+    {
+      "ranges": [
+        [
+          16568,
+          16810
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": " progression of renal failure, neurologic decline, and pulmonary infiltrates over weeks is more consistent with a rapidly progressive malignancy than a primary vasculitis, especially given the lymphadenopathy and pararenal soft-tissue changes"
+    },
+    {
+      "ranges": [
+        [
+          21079,
+          21339
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "ess. The absence of ANCA titers, ADAMTS13 activity, IgG4 levels, and definitive tissue diagnosis from the gastric biopsy or renal biopsy (which was not mentioned but would be essential) leaves critical diagnostic gaps. The most likely unifying diagnosis is MPA"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "case": "1991 Case 14__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-17T23:07:57.345140+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17471,
+          17691
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely diagnosis is a **congenital pulmonary airway malformation (CPAM) Type I**, given the posterior location, cystic appearance, T2 hyperintensity, lack of enhancement or calcification, and clinical stability."
+    },
+    {
+      "ranges": [
+        [
+          17692,
+          17837
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **esophageal duplication cyst** is an equally compelling alternative, especially given the precise paravertebral location and cleavage plane."
+    },
+    {
+      "ranges": [
+        [
+          5806,
+          6027
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of systemic symptoms (fever, weight loss, respiratory distress, hemoptysis), normal neurologic exam, and lack of progression over time strongly argue against aggressive, infiltrative, or infectious etiologies."
+    },
+    {
+      "ranges": [
+        [
+          7681,
+          7979
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The fact that the mass was detected neonatally, caused transient grunting (likely due to mechanical compression of the left lung or diaphragm), and resolved respiratory symptoms with antibiotics (which may have treated a coincidental or secondary infection) supports a benign, noninfectious origin."
+    },
+    {
+      "ranges": [
+        [
+          18802,
+          18981
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The clinical stability and lack of symptoms suggest that the lesion is benign and non-life-threatening, but its persistence warrants definitive diagnosis and planned intervention."
+    },
+    {
+      "ranges": [
+        [
+          17943,
+          18052
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of malignant features, infection, or systemic illness makes aggressive pathology highly unlikely."
+    },
+    {
+      "ranges": [
+        [
+          18150,
+          18246
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the lack of progression over 15 weeks effectively rules out neuroblastoma, lymphoma, or sarcoma."
+    },
+    {
+      "ranges": [
+        [
+          18347,
+          18585
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Further diagnostic workup would ideally involve endoscopic ultrasound or bronchoscopy to assess for communication with the airway (favoring CPAM) or esophagoscopy to assess for communication with the esophagus (favoring duplication cyst)."
+    },
+    {
+      "ranges": [
+        [
+          12990,
+          13117
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The mass’s location, imaging characteristics, and clinical stability are highly consistent with an esophageal duplication cyst."
+    },
+    {
+      "ranges": [
+        [
+          7548,
+          7696
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "aging is consistent with a mass arising from the lung parenchyma but encapsulated and distinct from adjacent mediastinal structures. The fact that t"
+    }
+  ]
+}

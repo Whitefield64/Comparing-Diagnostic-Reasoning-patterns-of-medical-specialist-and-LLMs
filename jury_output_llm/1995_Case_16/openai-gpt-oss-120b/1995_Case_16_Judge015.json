@@ -1,0 +1,106 @@
+{
+  "case": "1995 Case 16__openai-gpt-oss-120b.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T01:24:46.634229+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28530,
+          29217
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic candidates are those that **simultaneously** account for:\n\n1. **Rapidly progressive biventricular dilatation with severe systolic dysfunction**, especially marked right‑ventricular involvement and severe tricuspid regurgitation.  \n2. **Frequent, refractory ventricular tachycardia** despite multiple anti‑arrhythmic agents, necessitating an ICD.  \n3. **Upper‑lobe dominant, peribronchovascular nodular lung disease** with mild hilar and mediastinal lymphadenopathy, but without cavitation or overt infection.  \n4. **Absence of systemic inflammatory markers** (normal ESR, normal WBC), normal serologies for HIV, syphilis, and negative fungal and acid‑fast "
+    },
+    {
+      "ranges": [
+        [
+          37387,
+          37588
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Cardiac sarcoidosis offers the most coherent unifying explanation, fitting the radiographic, electrophysiologic, and hemodynamic data while acknowledging the known limitations of endomyocardial biopsy."
+    },
+    {
+      "ranges": [
+        [
+          7794,
+          7939
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The disease can present with a spectrum ranging from isolated conduction disease to fulminant ventricular arrhythmias and dilated cardiomyopathy."
+    },
+    {
+      "ranges": [
+        [
+          32498,
+          32809
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If subsequent tissue sampling (e.g., transbronchial lung biopsy or mediastinoscopic node excision) demonstrates non‑caseating granulomas without organisms, sarcoidosis would become definitively established. Conversely, identification of caseating granulomas or acid‑fast bacilli would shift the diagnosis to TB."
+    },
+    {
+      "ranges": [
+        [
+          38007,
+          38209
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The next decisive steps involve obtaining tissue diagnosis from the lung (or mediastinal nodes) and employing advanced cardiac imaging modalities (MRI, FDG‑PET) to detect active myocardial inflammation."
+    },
+    {
+      "ranges": [
+        [
+          31751,
+          32090
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": " Most Probable Diagnosis  \n\n**Cardiac sarcoidosis** occupies the top position because it uniquely bridges the cardiac and pulmonary manifestations in a young adult, respects the known low sensitivity of endomyocardial biopsies, and aligns with the radiographic pattern (upper‑lobe, peribronchovascular nodules, mild hilar lymphadenopathy)."
+    },
+    {
+      "ranges": [
+        [
+          10032,
+          10208
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "on of upper‑lobe nodular disease, mediastinal lymphadenopathy, refractory VT, and progressive dilated cardiomyopathy, cardiac sarcoidosis remains a leading hypothesis. The lack"
+    },
+    {
+      "ranges": [
+        [
+          12509,
+          12701
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "While TB cannot be completely excluded, the cumulative evidence (negative sputum, atypical imaging, lack of granulomas on biopsy) makes it a less probable explanation for the cardiac findings."
+    },
+    {
+      "ranges": [
+        [
+          11011,
+          11202
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cardiac involvement in TB is uncommon but can manifest as tuberculous pericarditis, tuberculomas, or granulomatous myocarditis, potentially leading to arrhythmias and ventricular dysfunction."
+    }
+  ]
+}

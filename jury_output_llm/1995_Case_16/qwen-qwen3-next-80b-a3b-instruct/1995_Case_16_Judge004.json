@@ -1,0 +1,216 @@
+{
+  "case": "1995 Case 16__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T01:27:54.258027+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6536,
+          6753
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical picture presented here is complex and multifocal, involving three major organ systems: the heart, the lungs, and the immune system, with overlapping features that challenge a unitary diagnostic framework."
+    },
+    {
+      "ranges": [
+        [
+          7728,
+          7850
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediately compelling diagnostic category is **tuberculosis**, despite the negative TST and sputum AFB findings."
+    },
+    {
+      "ranges": [
+        [
+          7851,
+          8070
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s history of multiple prior positive TSTs, discontinuation of isoniazid due to side effects, and a father with a history of inpatient tuberculosis strongly suggest prior exposure and likely latent infection."
+    },
+    {
+      "ranges": [
+        [
+          8071,
+          8349
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The negative TST at presentation is not reassuring: in advanced or disseminated tuberculosis, particularly in the setting of severe malnutrition, immunosuppression (even if not HIV-related), or overwhelming disease burden, anergy can develop, rendering the TST falsely negative."
+    },
+    {
+      "ranges": [
+        [
+          8425,
+          8717
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The pulmonary nodules described—10 mm, bilateral, confluent in the right upper lobe, centered on bronchovascular bundles, with bronchial wall thickening and segmental air-space disease—are classic for **tuberculous granulomatous pneumonia**, especially in the setting of reactivation disease."
+    },
+    {
+      "ranges": [
+        [
+          10625,
+          10846
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A closely related differential is **sarcoidosis**, a systemic granulomatous disease of unknown etiology that classically presents with bilateral hilar lymphadenopathy and pulmonary nodules, often with cardiac involvement."
+    },
+    {
+      "ranges": [
+        [
+          11358,
+          11507
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The key distinguishing feature from TB is the lack of caseation and the absence of systemic symptoms such as erythema nodosum or parotid enlargement."
+    },
+    {
+      "ranges": [
+        [
+          12921,
+          13088
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another important consideration is **fungal infection**, particularly **histoplasmosis**, which is endemic in the Caribbean and the Ohio and Mississippi River valleys."
+    },
+    {
+      "ranges": [
+        [
+          10350,
+          10623
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that *Staphylococcus aureus* and *Enterobacter aerogenes* were cultured from sputum likely represents colonization or secondary bacterial overgrowth in the setting of impaired mucociliary clearance from underlying granulomatous inflammation, not primary infection."
+    },
+    {
+      "ranges": [
+        [
+          17023,
+          17173
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The **combination of cardiac and pulmonary granulomatous disease** strongly points to either **tuberculosis** or **sarcoidosis** as the leading diagno"
+    },
+    {
+      "ranges": [
+        [
+          17178,
+          17442
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Between the two, tuberculosis is more likely given the patient’s Caribbean origin (high TB burden), prior positive TSTs, family history, discontinuation of isoniazid, and the radiographic pattern of nodules centered on bronchovascular bundles with lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          17443,
+          17551
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The negative TST is likely due to anergy from chronic infection, a well-known phenomenon in disseminated TB."
+    },
+    {
+      "ranges": [
+        [
+          17552,
+          17699
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The myocardial biopsy’s failure to show granulomas may reflect sampling error, or the granulomas may have been fibrotic and not easily discernible."
+    },
+    {
+      "ranges": [
+        [
+          17826,
+          17962
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The presence of mild pericardial effusion and right heart failure may reflect concomitant pericardial or pulmonary vascular involvement."
+    },
+    {
+      "ranges": [
+        [
+          17964,
+          18175
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Sarcoidosis remains a strong contender, especially given the classic radiographic findings, but the absence of systemic manifestations, normal calcium, and lack of ocular involvement make it less likely than TB."
+    },
+    {
+      "ranges": [
+        [
+          18545,
+          18716
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The next diagnostic step should be bronchoscopy with bronchoalveolar lavage for AFB smear, culture, and PCR, as well as transbronchial lung biopsy for granuloma detection."
+    },
+    {
+      "ranges": [
+        [
+          18717,
+          18807
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Endomyocardial biopsy with special stains (Congo red, AFB) should be repeated if feasible."
+    },
+    {
+      "ranges": [
+        [
+          18808,
+          18897
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "If these are negative, a lymph node biopsy (e.g., via mediastinoscopy) should be pursued."
+    },
+    {
+      "ranges": [
+        [
+          18898,
+          19025
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Empiric antituberculous therapy should be initiated pending results, given the high clinical suspicion and risk of progression."
+    }
+  ]
+}

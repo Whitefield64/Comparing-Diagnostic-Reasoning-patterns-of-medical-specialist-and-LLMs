@@ -1,0 +1,95 @@
+{
+  "case": "1996 Case 14__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T02:35:33.701172+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8655,
+          8832
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The temporal relationship between the initiation of methotrexate six weeks prior to the onset of oral ulcers and the subsequent eruption is highly suggestive of a drug etiology."
+    },
+    {
+      "ranges": [
+        [
+          8833,
+          9042
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Methotrexate is a well-documented, albeit uncommon, trigger of TEN, particularly in patients with renal impairment, as it is primarily excreted renally and accumulates in the setting of chronic kidney disease."
+    },
+    {
+      "ranges": [
+        [
+          10061,
+          10294
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the eruption followed the appearance of oral ulcers—a classic prodrome of TEN—strongly favors a delayed-type hypersensitivity reaction rather than a direct cytotoxic effect, aligning with the immune pathogenesis of TEN."
+    },
+    {
+      "ranges": [
+        [
+          9460,
+          9632
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient had received multiple antibiotics in the weeks preceding the eruption: vancomycin, aztreonam, clindamycin, fluconazole, and later ciprofloxacin and ceftriaxone."
+    },
+    {
+      "ranges": [
+        [
+          8447,
+          8654
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The hallmark clinical features—rapid progression from erythema and targetoid lesions to confluent epidermal sloughing, mucosal involvement (oral, ocular, genital), and systemic toxicity—are all present here."
+    },
+    {
+      "ranges": [
+        [
+          13078,
+          13192
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The possibility of a severe drug reaction with eosinophilia and systemic symptoms (DRESS) must also be considered."
+    },
+    {
+      "ranges": [
+        [
+          15745,
+          16064
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of sludge and pericholecystic fluid on ultrasound, followed by culture-proven *Klebsiella* in bile, strongly suggests ascending cholangitis or acalculous cholecystitis as a primary source, likely exacerbated by prolonged fasting, immobility, and impaired gallbladder motility due to uremia and steroid use."
+    },
+    {
+      "ranges": [
+        [
+          20049,
+          20204
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The case underscores the fragility of the immunocompromised host and the lethal synergy between drug-induced mucocutaneous injury and nosocomial infection."
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "case": "2003 Case 39__openai-gpt-oss-120b.md",
+  "exported_at": "2026-05-18T06:28:19.033361+00:00",
+  "n_voters": 15,
+  "n_successful": 15,
+  "n_failed": 0,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The patient’s presentation is more suggestive of a neoplastic process, given the acute onset of massive hematuria and the presence of a discrete mass on cystoscopy."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The clinical context and imaging findings are reminiscent of cases where a primary bladder neoplasm, such as urothelial carcinoma or urachal adenocarcinoma, presents with a similar constellation of symptoms and radiographic features."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If this were a urachal adenocarcinoma, we would expect to see mucinous debris and possibly a midline supravesical mass, but the lack of clear extravesical extension on imaging makes this less likely."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the epidemiologic dominance of urothelial carcinoma and the fact that many urachal adenocarcinomas demonstrate extravesical extension (which was not observed on CT), the probability of urothelial carcinoma is higher."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The clinical picture of sudden gross hematuria with clots, a mass identified on cystoscopy, and the absence of systemic infection signs is typical of a primary bladder neoplasm."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The dome location, size, and weight loss are characteristic of urachal adenocarcinoma, but the absence of a clear extravesical component and the commonality of urothelial carcinoma make the latter more probable."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process of chronic irritation can promote dysplasia and clonal expansion of mutated urothelial cells, leading to the development of urothelial carcinoma."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, supporting the diagnosis of a primary bladder neoplasm."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient's presentation is reminiscent of cases where a primary bladder neoplasm has led to sudden onset of gross hematuria and a visible mass on cystoscopy."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The presence of a 3–4 cm mass on the bladder dome, with associated blood clots, strongly supports a neoplastic process rather than simple inflammatory edema."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The clinical context does not support **bladder endometriosis**, **radiation cystitis**, or other rare entities, as these would not explain the abrupt onset of gross hematuria and the presence of a discrete bladder mass."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The clinical picture is most consistent with a primary bladder neoplasm, specifically urothelial carcinoma, given the sudden onset of gross hematuria, the presence of a 3–4 cm mass on the bladder dome, and the absence of systemic signs of infection or other obvious causes."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of a 3–4 cm mass on the bladder dome, with associated blood clots and weight loss, is suggestive of a malignant process, with urothelial carcinoma and urachal adenocarcinoma being the most likely possibilities."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The clinical context does not support other rare entities such as endometriosis or radiation cystitis, given the lack of specific risk factors or exposures."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If this were a urothelial carcinoma, we would expect to see a mass that could bleed, given its vascular nature, and possibly some degree of irritative voiding symptoms, though these can be mild or absent."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, which is not directly relevant here but illustrates the process of validating a diagnosis through exclusion."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description of a classic presentation for urothelial carcinoma, given the gross hematuria, the presence of a mass, and the absence of significant irritative voiding symptoms."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the prevalence of urothelial carcinoma in the population and the presence of a bladder mass, the probability of this diagnosis is higher than that of the less common urachal adenocarcinoma, though the latter cannot be excluded without further diagnostic testing."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of carcinogens in the urine, which can promote dysplasia and clonal expansion of mutated urothelial cells, leading to the development of urothelial carcinoma."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis, though not directly relevant to the primary diagnosis here, it illustrates an algorithmic approach to ruling out other conditions."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary urothelial carcinoma of the bladder. Although I am troubled by the negative serologic test for certain infections and the absence of classic risk factors, the clinical presentation and imaging findings align more closely with this diagnosis."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The presence of a 3–4 cm mass on the bladder dome, with associated blood clots, strongly supports a neoplastic process rather than simple inflammatory edema."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of a large, solitary mass within the bladder, particularly at the dome, is more typical of a neoplastic process, such as urothelial carcinoma or urachal adenocarcinoma."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The clinical context does not support other rare entities such as endometriosis or radiation cystitis, given the lack of specific symptoms or history suggestive of these conditions."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but this patient's presentation does not align closely with such rare conditions."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of gross hematuria with clots, a mass on the bladder dome, and systemic symptoms such as weight loss is typical of a primary bladder neoplasm, with urothelial carcinoma and urachal adenocarcinoma being the top considerations."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The presence of a discrete intravesical lesion focus the differential on primary bladder neoplasms, as the mass is likely causing the gross hematuria and clots."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnostic work‑up recommendations include histopathologic examination, urine cytology, enhanced imaging, serologic tumor markers, staging work‑up, microbiologic evaluation, and assessment for hepatitis B activity, following a systematic approach to narrow down the differential diagnosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The clinical context does not support rare entities such as bladder endometriosis, radiation cystitis, etc., making them less likely considerations in this case."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The cystoscopy description of a “mass” without ulceration or necrotic debris does not favor SCC, and the CT described “heterogeneous, mixed‑attenuation, nonenhancing debris,” more suggestive of blood clot or necrotic tissue rather than a solid smooth‑muscle mass."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The absence of overt infection, the lack of calculi or hydronephrosis, and the presence of a discrete intravesical lesion support the diagnosis of a primary bladder neoplasm, with urothelial carcinoma being the most probable diagnosis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but this patient’s presentation is not typical for such a condition."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of sudden gross hematuria, clots, and a mass on the bladder dome is typical for a bladder neoplasm."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnostic pathway involves a systematic exploration of all plausible etiologies, incorporating neoplastic, infectious/inflammatory, structural, vascular, systemic, and iatrogenic possibilities."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The clinical context does not support rare entities like endometriosis or radiation cystitis, making them less likely."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathologic features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not applicable here but, The imaging does not reveal a classic enhancing solid tumor, but the presence of “mixed‑attenuation debris” could represent blood clot overlaying a mass, especially if the mass is mucinous (as in urachal adenocarcinoma) or necrotic."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If this were a urothelial carcinoma, we would expect to see a mass on cystoscopy and possibly hematuria; this diagnosis requires the presence of a visible intravesical mass and the classic hematuria picture."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation; tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess; although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of gross hematuria with clots, a mass on the bladder dome, and weight loss is most consistent with a malignant bladder tumor, such as urothelial carcinoma or urachal adenocarcinoma."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The absence of overt infection, the lack of calculi or hydronephrosis, and the presence of a discrete intravesical lesion focus the differential on primary bladder neoplasms, increasing the probability of urothelial carcinoma."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The clinical context and imaging findings intuitively suggest a neoplastic process, given the discrete nature of the mass and the absence of typical infectious or inflammatory signs."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not applicable here, as the mass is located in the bladder."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but are not relevant to this case."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all do not suggest brain-stem dysfunction in this case, as the symptoms are related to the bladder."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 do not rule out an ANCA-related vasculitis in this case, as the diagnosis is related to the bladder."
+        }
+      ]
+    }
+  ]
+}

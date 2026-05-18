@@ -1,0 +1,150 @@
+{
+  "case": "1995 Case 16__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T01:16:05.741398+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6530,
+          6697
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with recurrent ventricular tachycardia, dilated cardiomyopathy, and pulmonary lesions suggests a complex and multifactorial disease process."
+    },
+    {
+      "ranges": [
+        [
+          6698,
+          6860
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "To approach this case, it is essential to consider various differential diagnoses, including malignant, infectious, inflammatory, structural, and systemic causes."
+    },
+    {
+      "ranges": [
+        [
+          6861,
+          7080
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Initially, the presence of dilated cardiomyopathy and ventricular tachycardia raises concerns about primary cardiac diseases, such as arrhythmogenic right ventricular cardiomyopathy or idiopathic dilated cardiomyopathy."
+    },
+    {
+      "ranges": [
+        [
+          7081,
+          7222
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the concomitant presence of pulmonary lesions and lymphadenopathy suggests that the disease process may not be limited to the heart."
+    },
+    {
+      "ranges": [
+        [
+          8628,
+          8865
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy could be related to cardiac sarcoidosis, which can cause inflammation and scarring in the heart, leading to arrhythmias and cardiac dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          9948,
+          10249
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy could be related to a structural heart disease, such as arrhythmogenic right ventricular cardiomyopathy, which can cause inflammation and scarring in the heart, leading to arrhythmias and cardiac dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          10735,
+          10990
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy could be related to an autoimmune disorder, such as lupus, which can cause inflammation and scarring in the heart, leading to arrhythmias and cardiac dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          7224,
+          7386
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Infectious causes, such as tuberculosis, should be considered given the patient's history of positive tuberculin skin tests and the presence of pulmonary lesions."
+    },
+    {
+      "ranges": [
+        [
+          7387,
+          7571
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although the patient had discontinued treatment with isoniazid due to side effects, the possibility of reactivation tuberculosis or another mycobacterial infection cannot be ruled out."
+    },
+    {
+      "ranges": [
+        [
+          6530,
+          6697
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's presentation with recurrent ventricular tachycardia, dilated cardiomyopathy, and pulmonary lesions suggests a complex and multifactorial disease process."
+    },
+    {
+      "ranges": [
+        [
+          11285,
+          11496
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "ral, and systemic causes, the most likely diagnosis is a condition that can cause cardiac dysfunction, arrhythmias, and conduction abnormalities, and can be associated with pulmonary lesions and lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          15926,
+          16105
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's history of positive tuberculin skin tests and his previous treatment with isoniazid also raise the possibility of a drug-related side effect or an allergic reaction."
+    },
+    {
+      "ranges": [
+        [
+          16741,
+          16891
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's case is complex and multifactorial, and a definitive diagnosis can only be made after a comprehensive evaluation and diagnostic testing."
+    }
+  ]
+}

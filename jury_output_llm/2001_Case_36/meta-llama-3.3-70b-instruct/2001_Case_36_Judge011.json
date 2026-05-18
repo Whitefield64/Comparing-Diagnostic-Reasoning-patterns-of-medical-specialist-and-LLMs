@@ -1,0 +1,73 @@
+{
+  "case": "2001 Case 36__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T04:33:33.552348+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5328,
+          5658
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with acute febrile respiratory illness, in the context of a complex medical history that includes seronegative rheumatoid arthritis, diabetes mellitus type 2, bronchiolitis obliterans with organizing pneumonia (BOOP), polymyositis, and recurrent infections, suggests a wide range of potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          5993,
+          6099
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious causes are high on the differential diagnosis list due to the patient's immunosuppressed state."
+    },
+    {
+      "ranges": [
+        [
+          7287,
+          7500
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the patient's history of autoimmune diseases, including seronegative rheumatoid arthritis and polymyositis, raises the possibility of an inflammatory or immune-mediated process contributing to the current illness."
+    },
+    {
+      "ranges": [
+        [
+          6987,
+          7252
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's symptoms of malaise, nonproductive cough, sore throat, and rhinorrhea could be consistent with a viral upper respiratory infection, although the presence of fever and the patient's immunocompromised state suggest that the illness could be more severe."
+    },
+    {
+      "ranges": [
+        [
+          8572,
+          8771
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's immunocompromised state and history of opportunistic infections highlight the need for a broad differential diagnosis that includes a range of potential pathogens and disease processes."
+    },
+    {
+      "ranges": [
+        [
+          12269,
+          12554
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of bronchiolitis obliterans with organizing pneumonia and polymyositis raises the possibility of an exacerbation of one of these conditions, and further evaluation, including pulmonary function tests and muscle enzyme levels, may be necessary to guide management."
+    }
+  ]
+}

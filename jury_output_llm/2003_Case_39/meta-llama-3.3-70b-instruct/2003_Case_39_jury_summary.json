@@ -1,0 +1,262 @@
+{
+  "case": "2003 Case 39__meta-llama-3.3-70b-instruct.md",
+  "exported_at": "2026-05-18T06:18:01.013049+00:00",
+  "n_voters": 15,
+  "n_successful": 14,
+  "n_failed": 1,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of gross hematuria and a bladder mass is consistent with a diagnosis of bladder cancer."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the sentence 'The patient's anxiety and the fact that she appears well despite her symptoms suggest that she may be experiencing significant psychological distress related to her illness' can be annotated as IND_INTUITION."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not applicable here but the sentence 'The patient's condition highlights the importance of a comprehensive and multidisciplinary approach to diagnosis and treatment' can be annotated as IND_CASEBASED."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of gross hematuria and a bladder mass is consistent with a bladder tumor."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the physician thinks that the patient's condition is complex and multifaceted, and that a thorough evaluation is necessary."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient's condition highlights the importance of a comprehensive and multidisciplinary approach to diagnosis and treatment, similar to other cases where a complex condition required a thorough evaluation."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The patient's symptoms and findings, including gross hematuria and a bladder mass, are consistent with a diagnosis of bladder cancer."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although this is not directly relevant to the patient's current symptoms."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The patient's symptoms and findings are consistent with a bladder tumor, particularly transitional cell carcinoma."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the doctor thinks that the patient's condition is complex and multifaceted."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although this patient presents with bladder mass."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If a UTI were the sole cause of her symptoms, we would expect the hematuria to resolve with antibiotic treatment."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, but the sentence 'The patient's anxiety and the fact that she appears well despite her symptoms suggest that she may be experiencing significant psychological distress related to her illness' can be annotated as IND_INTUITION"
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not applicable here, but the sentence 'The patient's condition highlights the importance of a comprehensive and multidisciplinary approach to diagnosis and treatment' can be annotated as IND_CASEBASED"
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 23,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The patient's history of hepatitis B infection is noteworthy, although their relevance to the current presentation is not immediately clear."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although this patient's presentation does not align with that diagnosis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient's care should be managed by a multidisciplinary team, including urologists, oncologists, and possibly other specialties, to ensure that all aspects of her care are addressed."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has a bladder tumor, we would expect to see a mass in the bladder on imaging studies."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The patient's symptoms and laboratory results should be evaluated using a systematic approach to determine the underlying cause of her hematuria."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The presence of a mass in the bladder, as seen on cystoscopy, and the patient's symptoms are consistent with a diagnosis of bladder cancer."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The patient's presentation with gross hematuria and a bladder mass is consistent with the typical presentation of bladder cancer."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable, however, the patient's symptoms and findings suggest a malignant cause, such as bladder cancer."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the patient's age and sex, the probability of bladder cancer is lower, but the presence of a bladder mass and gross hematuria increases the likelihood of this diagnosis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient's presentation is similar to other cases of bladder cancer, where patients typically present with gross hematuria and a bladder mass."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The patient's symptoms and findings suggest a significant underlying condition that requires thorough evaluation and treatment."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 65,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 17,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The patient's symptoms and findings, including the presence of a bladder mass and gross hematuria, are consistent with a diagnosis of bladder cancer."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If a UTI were the sole cause of her symptoms, we would expect the hematuria to resolve with antibiotic treatment."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The finding of a large, solitary mass within the right lobe of the liver is not present in this case, but the presence of a mass in the bladder dome is highly suggestive of a bladder tumor."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not considered, but the presence of a bladder mass and gross hematuria suggests a significant underlying condition."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient's condition highlights the importance of a comprehensive and multidisciplinary approach to diagnosis and treatment, similar to cases involving complex urinary tract infections or malignancies."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 97,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 28,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although this patient's presentation is not typical for that condition."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient's care should be managed by a multidisciplinary team, including urologists, oncologists, and possibly other specialties, to ensure that all aspects of her care are addressed."
+        },
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "The patient's condition requires a comprehensive and multidisciplinary approach to diagnosis and treatment, considering a broad range of potential causes, from benign to malignant."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The presence of ketones in the urine is an interesting finding, given the patient's recent weight loss, and should be considered in the context of her overall evaluation."
+        }
+      ]
+    }
+  ]
+}

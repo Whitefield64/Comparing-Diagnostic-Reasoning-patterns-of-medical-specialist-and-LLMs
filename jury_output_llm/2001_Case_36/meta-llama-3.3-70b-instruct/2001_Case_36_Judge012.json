@@ -1,0 +1,40 @@
+{
+  "case": "2001 Case 36__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T04:33:33.552757+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5993,
+          6099
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious causes are high on the differential diagnosis list due to the patient's immunosuppressed state."
+    },
+    {
+      "ranges": [
+        [
+          7287,
+          7500
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the patient's history of autoimmune diseases, including seronegative rheumatoid arthritis and polymyositis, raises the possibility of an inflammatory or immune-mediated process contributing to the current illness."
+    },
+    {
+      "ranges": [
+        [
+          7501,
+          7711
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Exacerbation of bronchiolitis obliterans with organizing pneumonia (BOOP) is a possibility, given the patient's history of this condition and the presence of patchy and linear opacities on the chest radiograph."
+    }
+  ]
+}

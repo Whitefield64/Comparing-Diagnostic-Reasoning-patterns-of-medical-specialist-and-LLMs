@@ -1,0 +1,139 @@
+{
+  "case": "1992 Case 41__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T00:46:58.405562+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7560,
+          7731
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling consideration is right ventricular outflow tract obstruction due to pulmonary valve stenosis, possibly with associated dysplasia or annular hypoplasia."
+    },
+    {
+      "ranges": [
+        [
+          6682,
+          6750
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another possibility is a subaortic or supravalvular aortic stenosis."
+    },
+    {
+      "ranges": [
+        [
+          4901,
+          5045
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most common congenital causes of such a murmur include pulmonary stenosis, hypertrophic cardiomyopathy, and ventricular septal defect (VSD)."
+    },
+    {
+      "ranges": [
+        [
+          5224,
+          5434
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "In pulmonary stenosis, one typically expects a delayed and diminished pulmonic component of S2, and often a palpable right ventricular lift or right ventricular hypertrophy on ECG, neither of which are present."
+    },
+    {
+      "ranges": [
+        [
+          5765,
+          6025
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The murmur’s radiation to the apex is unusual for isolated pulmonary stenosis but can occur in conditions with high-velocity flow across the right ventricular outflow tract, such as in a large atrial septal defect (ASD) with significant left-to-right shunting."
+    },
+    {
+      "ranges": [
+        [
+          7266,
+          7433
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Coarctation would typically present with diminished or delayed femoral pulses, upper extremity hypertension, and lower extremity hypotension—none of which are present."
+    },
+    {
+      "ranges": [
+        [
+          4116,
+          4379
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "We must consider whether the cardiac findings are an isolated incidental finding, a consequence of chronic renal disease, a manifestation of an underlying syndromic or genetic disorder, or a primary congenital cardiac anomaly with coincidental urologic pathology."
+    },
+    {
+      "ranges": [
+        [
+          13945,
+          14206
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "the mother’s history of repaired PDA and the sister’s recurrent respiratory infections may reflect a familial predisposition to connective tissue or developmental anomalies, perhaps a low-penetrance autosomal dominant condition affecting mesodermal development."
+    },
+    {
+      "ranges": [
+        [
+          7732,
+          7847
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The murmur’s harshness and duration suggest high-velocity turbulent flow, which is typical of significant stenosis."
+    },
+    {
+      "ranges": [
+        [
+          7848,
+          7974
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The conduction delay on ECG may reflect chronic right ventricular pressure overload, even in the absence of overt hypertrophy."
+    },
+    {
+      "ranges": [
+        [
+          10137,
+          10264
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "ECG shows right-sided conduction delay, not left ventricular hypertrophy, and the heart size is normal on radiograph. Furthermo"
+    },
+    {
+      "ranges": [
+        [
+          10268,
+          10492
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the murmur is systolic ejection in character and localized to the right sternal border, not a high-pitched systolic murmur of aortic regurgitation or a diastolic murmur of renal hypertension-induced hyperdynamic circulation."
+    }
+  ]
+}

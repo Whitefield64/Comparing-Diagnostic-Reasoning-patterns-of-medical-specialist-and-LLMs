@@ -1,0 +1,150 @@
+{
+  "case": "1999 Case 10__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T03:39:01.429470+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9583,
+          9755
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is **antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV)**, particularly **microscopic polyangiitis (MPA)**."
+    },
+    {
+      "ranges": [
+        [
+          9756,
+          9923
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "MPA is a small-vessel vasculitis that typically affects capillaries, venules, and arterioles, and is classically associated with myeloperoxidase (MPO)-ANCA positivity."
+    },
+    {
+      "ranges": [
+        [
+          10079,
+          10378
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The renal biopsy findings, though not explicitly described, are strongly implied by the urinalysis: dysmorphic red blood cells (indicative of glomerular injury), proteinuria, granular casts, and low urine sodium with low osmolality (suggesting intrinsic renal failure rather than prerenal azotemia)."
+    },
+    {
+      "ranges": [
+        [
+          10510,
+          10754
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The cortical blindness, confirmed by MRI to involve bilateral occipital lobe infarcts, is a recognized neurological manifestation of MPA, resulting from microvascular thrombosis or necrotizing arteriolitis in the posterior cerebral circulation."
+    },
+    {
+      "ranges": [
+        [
+          10379,
+          10509
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of red-cell casts does not exclude RPGN; they are not always present, especially in early or rapidly evolving disease."
+    },
+    {
+      "ranges": [
+        [
+          10745,
+          11114
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "culation. The pulmonary infiltrates, pleural effusions, and elevated pulmonary artery pressures (45/25 mm Hg) are consistent with pulmonary capillaritis, a hallmark of MPA that may mimic pneumonia or cardiogenic pulmonary edema but is distinguished by normal pulmonary capillary wedge pressure (12 mm Hg) and absence of left ventricular dysfunction on echocardiography."
+    },
+    {
+      "ranges": [
+        [
+          11547,
+          11753
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The differential must also include **polyarteritis nodosa (PAN)**, a medium-vessel vasculitis that classically spares the lungs but can involve the kidneys, gastrointestinal tract, skin, and nervous system."
+    },
+    {
+      "ranges": [
+        [
+          11115,
+          11344
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The skin biopsy showing intravascular coagulation and lymphocytic inflammation is consistent with leukocytoclastic vasculitis, which may occur in MPA, particularly when there is significant fibrinoid necrosis and microthrombosis."
+    },
+    {
+      "ranges": [
+        [
+          11337,
+          11574
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "mbosis. The presence of lymphadenopathy and pararenal soft-tissue thickening may reflect systemic inflammatory infiltration or, less commonly, secondary lymphoid hyperplasia due to chronic immune stimulation.\n\nThe differential must also "
+    },
+    {
+      "ranges": [
+        [
+          20290,
+          20485
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnosis is **microscopic polyangiitis**, given the classic triad of RPGN, cutaneous vasculitis, and neurologic infarcts, supported by the skin biopsy and negative infectious workup."
+    },
+    {
+      "ranges": [
+        [
+          20486,
+          20717
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, **paraneoplastic syndrome secondary to occult gastric adenocarcinoma or lymphoma** remains a critical alternative, particularly given the lymphadenopathy, gastric thickening, and lack of definitive vasculitis confirmation."
+    },
+    {
+      "ranges": [
+        [
+          20718,
+          20876
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The possibility of **thrombotic microangiopathy**, especially if platelet count and peripheral smear were not adequately assessed, must be urgently ruled out."
+    },
+    {
+      "ranges": [
+        [
+          21953,
+          22289
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Until these are known, the diagnosis remains provisional, but the weight of evidence, especially the skin biopsy, neurologic imaging, and renal findings, points most compellingly to microscopic polyangiitis as the primary diagnosis, with occult malignancy as the most critical diagnostic consideration requiring immediate investigation."
+    }
+  ]
+}

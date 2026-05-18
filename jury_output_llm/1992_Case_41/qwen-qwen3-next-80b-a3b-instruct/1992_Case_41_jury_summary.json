@@ -1,0 +1,252 @@
+{
+  "case": "1992 Case 41__qwen-qwen3-next-80b-a3b-instruct.md",
+  "exported_at": "2026-05-18T00:52:22.692996+00:00",
+  "n_voters": 15,
+  "n_successful": 15,
+  "n_failed": 0,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however, the child has no documented ocular, choanal, or ear anomalies, and his growth is normal."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of Prune Belly syndrome with an associated congenital cardiac anomaly is higher given the combination of severe obstructive uropathy and cardiac murmur."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images are not provided, however, the chest radiograph shows increased pulmonary vasculature, which suggests elevated pulmonary blood flow."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 14,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of urinary tract anomalies is classic for Prune Belly syndrome."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 18,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 18,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of urinary tract anomalies and cardiac murmur is consistent with **Prune Belly syndrome**."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 16,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned in the document, instead: The most parsimonious explanation that unifies the urologic and cardiac findings is Prune Belly syndrome with an associated congenital cardiac anomaly, most likely a small atrial septal defect or mild pulmonary stenosis."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of severe obstructive uropathy and cardiac murmur is consistent with Prune Belly syndrome."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The presence of right ventricular conduction delay and increased pulmonary vasculature argues against pure pulmonary stenosis."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 20,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of urinary tract anomalies and cardiac murmur is classic for Prune Belly syndrome."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The presence of right ventricular conduction delay on ECG, the murmur’s harsh quality, and the increased pulmonary vasculature on chest radiograph all argue against a purely functional etiology."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The mother had a repaired patent ductus arteriosus (PDA), and the sister had recurrent upper respiratory infections, which may reflect a familial predisposition to connective tissue or developmental anomalies."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 18,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of severe obstructive uropathy and cardiac murmur is consistent with Prune Belly syndrome."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 24,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images are not provided but the description of the murmur and the physical examination suggest a possible cardiac anomaly."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 15,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, instead, the combination of urologic anomalies and cardiac defects raises suspicion for a syndromic etiology."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The child has no signs of heart failure: no hepatomegaly beyond mild palpation, no tachypnea, no edema, and normal jugular venous pressure, which lowers the probability of a severe cardiac anomaly."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The mother had a repaired patent ductus arteriosus (PDA), and the sister had recurrent upper respiratory infections, which may reflect a familial predisposition to connective tissue or developmental anomalies."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of severe obstructive uropathy and cardiac murmur is consistent with Prune Belly syndrome."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is Prune Belly syndrome with an associated congenital cardiac anomaly."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The presence of right ventricular conduction delay and increased pulmonary vasculature on chest radiograph suggests that the cardiac murmur is not entirely benign and likely reflects an underlying structural cardiac lesion."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 19,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of urinary tract anomalies is classic for Prune Belly syndrome."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned, however the doctor has a hunch that  the child has a genetic or syndromic condition that links both his urologic and cardiac anomalies."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 25,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of severe obstructive uropathy and cardiac murmur is consistent with **Prune Belly syndrome**."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of urinary tract anomalies is classic for Prune Belly syndrome."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is Prune Belly syndrome with an associated congenital cardiac anomaly."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The presence of right ventricular conduction delay and increased pulmonary vasculature argues against pure pulmonary stenosis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of Prune Belly syndrome is increased by the combination of severe obstructive uropathy and cardiac murmur."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The child’s presentation is reminiscent of cases with Prune Belly syndrome, which often have associated cardiac anomalies."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 15,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of severe obstructive uropathy and cardiac murmur is consistent with Prune Belly syndrome."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The presence of right ventricular conduction delay on ECG, increased pulmonary vasculature on chest radiograph, and the family history of cardiac anomalies increase the likelihood of a genetic or syndromic condition."
+        }
+      ]
+    }
+  ]
+}

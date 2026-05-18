@@ -1,0 +1,73 @@
+{
+  "case": "2003 Case 39__openai-gpt-oss-120b.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T06:27:45.239699+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23030,
+          23098
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most parsimonious explanation is a **primary bladder neoplasm**."
+    },
+    {
+      "ranges": [
+        [
+          23458,
+          23671
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The balance of probability leans toward urothelial carcinoma because it is vastly more common, even in young women, and because the CT did not demonstrate a classic midline urachal tract or extravesical component."
+    },
+    {
+      "ranges": [
+        [
+          5670,
+          5936
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The differential must incorporate neoplastic, infectious/inflammatory, structural, vascular, systemic, and iatrogenic possibilities, while constantly weighing each hypothesis against the patient’s demographics, laboratory data, imaging findings, and clinical course."
+    },
+    {
+      "ranges": [
+        [
+          29090,
+          29255
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Among neoplastic entities, **urothelial (transitional cell) carcinoma** is the most common and thus the most probable diagnosis, even in a young, non‑smoking female."
+    },
+    {
+      "ranges": [
+        [
+          22597,
+          22706
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of a discrete mass strongly supports a neoplastic process rather than simple inflammatory edema."
+    },
+    {
+      "ranges": [
+        [
+          22063,
+          22295
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The imaging does not reveal a classic enhancing solid tumor, but the presence of “mixed‑attenuation debris” could represent blood clot overlaying a mass, especially if the mass is mucinous (as in urachal adenocarcinoma) or necrotic."
+    }
+  ]
+}

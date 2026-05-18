@@ -1,0 +1,73 @@
+{
+  "case": "1991 Case 14__openai-gpt-oss-120b.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-17T23:03:21.640131+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5580,
+          5814
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis must therefore encompass congenital thoracic lesions, neoplastic processes that arise in the posterior mediastinum, and rare infectious or inflammatory entities that can mimic a solid mass in this age group."
+    },
+    {
+      "ranges": [
+        [
+          8552,
+          8605
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Extralobar sequestration remains a leading contender."
+    },
+    {
+      "ranges": [
+        [
+          15672,
+          15781
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Neuroblastoma is a top differential, especially given the posterior mediastinal location and imaging profile."
+    },
+    {
+      "ranges": [
+        [
+          8331,
+          8531
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "anemia and thrombocytosis could be reactive to chronic inflammation from an occult infection of the sequestrated tissue, but there is no fever, leukocytosis, or elevated inflammatory markers reported."
+    },
+    {
+      "ranges": [
+        [
+          25850,
+          26007
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Anemia may be secondary to chronic blood loss (unlikely), marrow infiltration (neuroblastoma or lymphoma), or chronic inflammation (sequestration infection)."
+    },
+    {
+      "ranges": [
+        [
+          8606,
+          8768
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A dedicated CT angiogram or MR angiography could confirm the systemic arterial supply and definitively differentiate EBPS from other posterior mediastinal masses."
+    }
+  ]
+}

@@ -1,0 +1,645 @@
+{
+  "case": "1996 Case 02__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T01:53:12.480858+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4407,
+          4707
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of progressive, constant left subcostal pain, intermittent fever, anorexia, and nausea, along with the presence of a mass in the left hepatic lobe, it is essential to consider both benign and malignant processes, as well as infectious, inflammatory, and structural causes."
+    },
+    {
+      "ranges": [
+        [
+          4708,
+          4809
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Initially, the diagnosis of a hemangioma was considered based on imaging studies performed elsewhere."
+    },
+    {
+      "ranges": [
+        [
+          4810,
+          4956
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "However, the clinical presentation of intermittent fever and significant weight loss over 18 months raises concerns about a more sinister process."
+    },
+    {
+      "ranges": [
+        [
+          4957,
+          5174
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Hemangiomas are typically asymptomatic and found incidentally; they can cause symptoms if they rupture or undergo thrombosis, but these events usually present acutely rather than with a prolonged, intermittent course."
+    },
+    {
+      "ranges": [
+        [
+          5176,
+          5401
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's symptoms and the imaging characteristics of the mass, including its hypervascular nature and the presence of central necrosis or a scar, a malignant process must be high on the differential diagnosis list."
+    },
+    {
+      "ranges": [
+        [
+          5402,
+          5565
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Primary liver cancers, such as hepatocellular carcinoma (HCC), are a consideration, especially given the patient's significant weight loss and intermittent fevers."
+    },
+    {
+      "ranges": [
+        [
+          5566,
+          5724
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "HCC can present with a variety of symptoms, including abdominal pain, weight loss, and fever, and it often appears as a hypervascular mass on imaging studies."
+    },
+    {
+      "ranges": [
+        [
+          5725,
+          5903
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, HCC is more commonly associated with underlying liver disease, such as cirrhosis or chronic hepatitis B or C infection, which are not mentioned in the patient's history."
+    },
+    {
+      "ranges": [
+        [
+          5904,
+          6064
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The absence of these risk factors does not rule out HCC, as it can occur in individuals without known liver disease, but it does make the diagnosis less likely."
+    },
+    {
+      "ranges": [
+        [
+          6066,
+          6181
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Metastatic disease to the liver is another possibility, given the patient's weight loss and the presence of a mass."
+    },
+    {
+      "ranges": [
+        [
+          6182,
+          6331
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The liver is a common site for metastases from a variety of primary cancers, including colorectal, breast, lung, and pancreatic cancer, among others."
+    },
+    {
+      "ranges": [
+        [
+          6332,
+          6476
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "However, the patient's relatively young age and lack of other symptoms or risk factors make this diagnosis less likely, although not impossible."
+    },
+    {
+      "ranges": [
+        [
+          6477,
+          6625
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "It is crucial to consider that some cancers can present at a young age, especially if there is a genetic predisposition or other underlying factors."
+    },
+    {
+      "ranges": [
+        [
+          6626,
+          6748
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A thorough investigation into the patient's family history and potential genetic factors could provide additional insight."
+    },
+    {
+      "ranges": [
+        [
+          6750,
+          6809
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory and infectious causes must also be considered."
+    },
+    {
+      "ranges": [
+        [
+          6810,
+          7098
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Pyogenic liver abscesses can present with fever, abdominal pain, and a mass on imaging, but they are often associated with a more acute presentation and may be related to biliary tract disease, intravenous drug use, or other risk factors for infection, which are not present in this case."
+    },
+    {
+      "ranges": [
+        [
+          7099,
+          7276
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Amebic liver abscess is another consideration, especially if the patient has traveled to or lived in areas where amoebiasis is common, but there is no mention of such a history."
+    },
+    {
+      "ranges": [
+        [
+          7277,
+          7480
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other infectious causes, such as fungal infections or tuberculosis, could also be considered, although they might be less likely given the patient's presentation and the absence of specific risk factors."
+    },
+    {
+      "ranges": [
+        [
+          7482,
+          7804
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's history of eczema and asthma could suggest an allergic or autoimmune component to her illness, potentially pointing towards a diagnosis like eosinophilic granuloma or another form of Langerhans cell histiocytosis, although these conditions are rare and would not typically present with a solitary liver mass."
+    },
+    {
+      "ranges": [
+        [
+          7805,
+          7994
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Structural anomalies, such as a congenital hepatic cyst or a choledochal cyst, could also be considered, but these would not typically cause the patient's symptoms of fever and weight loss."
+    },
+    {
+      "ranges": [
+        [
+          7996,
+          8143
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of a bruit over the mass on physical examination suggests significant vascularity, which is more consistent with a neoplastic process."
+    },
+    {
+      "ranges": [
+        [
+          8144,
+          8393
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the imaging characteristics of the mass, including its hypervascular nature and the presence of central necrosis, and the patient's clinical presentation, a diagnosis of a primary liver tumor, possibly of vascular origin, should be considered."
+    },
+    {
+      "ranges": [
+        [
+          8394,
+          8623
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's use of oral contraceptives could potentially increase the risk of certain vascular liver tumors, such as hepatocellular adenomas, although these are typically benign and may not fully explain the patient's symptoms."
+    },
+    {
+      "ranges": [
+        [
+          8624,
+          8844
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Hepatocellular adenomas are known to be associated with the use of oral contraceptives, and while they are usually benign, they can cause symptoms due to their size or if they undergo rupture or malignant transformation."
+    },
+    {
+      "ranges": [
+        [
+          8846,
+          9088
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In addition to HCC and metastatic disease, other primary liver tumors should be considered, such as fibrolamellar hepatocellular carcinoma, which is a subtype of HCC that tends to occur in younger individuals without underlying liver disease."
+    },
+    {
+      "ranges": [
+        [
+          9089,
+          9204
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This type of cancer can present with a large mass in the liver and systemic symptoms such as weight loss and fever."
+    },
+    {
+      "ranges": [
+        [
+          9205,
+          9398
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other rare liver tumors, such as epithelioid hemangioendothelioma or angiosarcoma, could also be considered, although they are less common and might have distinct clinical and imaging features."
+    },
+    {
+      "ranges": [
+        [
+          9400,
+          9586
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The diagnostic approach to this patient should include a combination of imaging studies, laboratory tests, and potentially a biopsy of the liver mass to establish a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9587,
+          9732
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The imaging characteristics of the mass, including its size, location, and vascularity, are crucial in narrowing down the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9733,
+          9934
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Laboratory tests, such as liver function tests, complete blood count, and inflammatory markers, can provide additional information about the patient's condition and help guide further diagnostic steps."
+    },
+    {
+      "ranges": [
+        [
+          9935,
+          10098
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "A biopsy, either percutaneous or surgical, may be necessary to obtain a tissue diagnosis, especially if the imaging findings are suggestive of a malignant process."
+    },
+    {
+      "ranges": [
+        [
+          10100,
+          10264
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Furthermore, considering the patient's age and the absence of typical risk factors for liver disease, it is essential to explore less common causes of liver masses."
+    },
+    {
+      "ranges": [
+        [
+          10265,
+          10429
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "For instance, a hepatic lymphangioma or a mesenchymal hamartoma could be considered, although these are rare and would likely have distinct imaging characteristics."
+    },
+    {
+      "ranges": [
+        [
+          10430,
+          10654
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of a hypervascular mass with central necrosis, as seen in this patient, could also suggest a diagnosis of a hepatic arteriovenous malformation or a peliotic lesion, although these would be unusual presentations."
+    },
+    {
+      "ranges": [
+        [
+          10656,
+          10796
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Given the complexity of the patient's presentation and the wide range of potential diagnoses, a systematic approach to diagnosis is crucial."
+    },
+    {
+      "ranges": [
+        [
+          10797,
+          10929
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This should include a thorough review of the patient's medical history, physical examination, laboratory tests, and imaging studies."
+    },
+    {
+      "ranges": [
+        [
+          10930,
+          11193
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's symptoms of intermittent fever, weight loss, and abdominal pain, combined with the presence of a hypervascular mass in the liver, suggest a neoplastic process, and further diagnostic testing should be aimed at confirming or excluding this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11195,
+          11409
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "In conclusion, while the exact diagnosis cannot be determined without further information, the differential diagnosis for this patient includes a range of malignant, infectious, inflammatory, and structural causes."
+    },
+    {
+      "ranges": [
+        [
+          11410,
+          11575
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "A malignant process, such as primary liver cancer or metastatic disease, must be considered given the patient's symptoms and the imaging characteristics of the mass."
+    },
+    {
+      "ranges": [
+        [
+          11576,
+          11885
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of a hypervascular mass with central necrosis and the patient's clinical presentation of intermittent fever, weight loss, and abdominal pain suggest that a neoplastic process is the most likely diagnosis, with primary liver cancer being a leading consideration based on the available information."
+    },
+    {
+      "ranges": [
+        [
+          11886,
+          12066
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Further diagnostic testing, including biopsy of the mass and additional laboratory studies, would be necessary to establish a definitive diagnosis and guide appropriate management."
+    },
+    {
+      "ranges": [
+        [
+          12067,
+          12321
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's young age and lack of typical risk factors for liver disease make the diagnosis challenging, and a thorough and systematic approach to diagnosis is essential to ensure that all potential causes are considered and appropriately investigated."
+    },
+    {
+      "ranges": [
+        [
+          12323,
+          12473
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "It is also important to consider the potential impact of the patient's oral contraceptive use on her risk of developing certain types of liver tumors."
+    },
+    {
+      "ranges": [
+        [
+          12474,
+          12713
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The association between oral contraceptive use and the development of hepatocellular adenomas is well established, and it is possible that this patient's use of oral contraceptives may have contributed to the development of her liver mass."
+    },
+    {
+      "ranges": [
+        [
+          12714,
+          12883
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, the presence of symptoms such as fever and weight loss, as well as the imaging characteristics of the mass, suggest that a more sinister process may be at play."
+    },
+    {
+      "ranges": [
+        [
+          12885,
+          13020
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Ultimately, the diagnosis of this patient will depend on the results of further diagnostic testing, including biopsy of the liver mass."
+    },
+    {
+      "ranges": [
+        [
+          13021,
+          13131
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "A tissue diagnosis will be essential in determining the nature of the mass and guiding appropriate management."
+    },
+    {
+      "ranges": [
+        [
+          13132,
+          13360
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Given the potential for malignancy, it is crucial that the patient undergoes a thorough evaluation, including imaging studies, laboratory tests, and potentially a surgical consultation, to determine the best course of treatment."
+    },
+    {
+      "ranges": [
+        [
+          13362,
+          13485
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "In addition to the diagnostic considerations, it is also important to consider the patient's overall health and well-being."
+    },
+    {
+      "ranges": [
+        [
+          13486,
+          13626
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of a liver mass, regardless of its etiology, can have significant implications for the patient's quality of life and prognosis."
+    },
+    {
+      "ranges": [
+        [
+          13627,
+          13816
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Therefore, it is essential to approach the patient's care in a multidisciplinary manner, involving specialists from hepatology, oncology, and surgery, as well as other relevant disciplines."
+    },
+    {
+      "ranges": [
+        [
+          13817,
+          13952
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "This will ensure that the patient receives comprehensive and coordinated care, and that all potential treatment options are considered."
+    },
+    {
+      "ranges": [
+        [
+          13954,
+          14148
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of eczema and asthma may also be relevant to her current presentation, as it is possible that she may have an underlying predisposition to allergic or autoimmune disorders."
+    },
+    {
+      "ranges": [
+        [
+          14149,
+          14342
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "While this may not be directly related to the liver mass, it could potentially impact her overall health and well-being, and should be taken into consideration when developing a treatment plan."
+    },
+    {
+      "ranges": [
+        [
+          14344,
+          14512
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "In summary, the differential diagnosis for this patient is complex and multifaceted, and includes a range of malignant, infectious, inflammatory, and structural causes."
+    },
+    {
+      "ranges": [
+        [
+          14513,
+          14769
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "A systematic approach to diagnosis, including a thorough review of the patient's medical history, physical examination, laboratory tests, and imaging studies, will be essential in determining the nature of the liver mass and guiding appropriate management."
+    },
+    {
+      "ranges": [
+        [
+          14770,
+          14911
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Further diagnostic testing, including biopsy of the mass, will be necessary to establish a definitive diagnosis and develop a treatment plan."
+    },
+    {
+      "ranges": [
+        [
+          14912,
+          15223
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's young age, lack of typical risk factors for liver disease, and presence of a hypervascular mass with central necrosis make the diagnosis challenging, and a thorough and systematic approach to diagnosis is essential to ensure that all potential causes are considered and appropriately investigated."
+    }
+  ]
+}

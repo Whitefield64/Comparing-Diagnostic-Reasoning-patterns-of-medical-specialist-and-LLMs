@@ -1,0 +1,150 @@
+{
+  "case": "1996 Case 02__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T01:43:10.004306+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4407,
+          4707
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of progressive, constant left subcostal pain, intermittent fever, anorexia, and nausea, along with the presence of a mass in the left hepatic lobe, it is essential to consider both benign and malignant processes, as well as infectious, inflammatory, and structural causes."
+    },
+    {
+      "ranges": [
+        [
+          4957,
+          5174
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Hemangiomas are typically asymptomatic and found incidentally; they can cause symptoms if they rupture or undergo thrombosis, but these events usually present acutely rather than with a prolonged, intermittent course."
+    },
+    {
+      "ranges": [
+        [
+          5402,
+          5565
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Primary liver cancers, such as hepatocellular carcinoma (HCC), are a consideration, especially given the patient's significant weight loss and intermittent fevers."
+    },
+    {
+      "ranges": [
+        [
+          6066,
+          6181
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Metastatic disease to the liver is another possibility, given the patient's weight loss and the presence of a mass."
+    },
+    {
+      "ranges": [
+        [
+          6750,
+          6809
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory and infectious causes must also be considered."
+    },
+    {
+      "ranges": [
+        [
+          7996,
+          8143
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of a bruit over the mass on physical examination suggests significant vascularity, which is more consistent with a neoplastic process."
+    },
+    {
+      "ranges": [
+        [
+          8394,
+          8623
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's use of oral contraceptives could potentially increase the risk of certain vascular liver tumors, such as hepatocellular adenomas, although these are typically benign and may not fully explain the patient's symptoms."
+    },
+    {
+      "ranges": [
+        [
+          9587,
+          9732
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The imaging characteristics of the mass, including its size, location, and vascularity, are crucial in narrowing down the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9733,
+          9934
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Laboratory tests, such as liver function tests, complete blood count, and inflammatory markers, can provide additional information about the patient's condition and help guide further diagnostic steps."
+    },
+    {
+      "ranges": [
+        [
+          9935,
+          10098
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "A biopsy, either percutaneous or surgical, may be necessary to obtain a tissue diagnosis, especially if the imaging findings are suggestive of a malignant process."
+    },
+    {
+      "ranges": [
+        [
+          10930,
+          11193
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms of intermittent fever, weight loss, and abdominal pain, combined with the presence of a hypervascular mass in the liver, suggest a neoplastic process, and further diagnostic testing should be aimed at confirming or excluding this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11576,
+          11885
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of a hypervascular mass with central necrosis and the patient's clinical presentation of intermittent fever, weight loss, and abdominal pain suggest that a neoplastic process is the most likely diagnosis, with primary liver cancer being a leading consideration based on the available information."
+    },
+    {
+      "ranges": [
+        [
+          12474,
+          12713
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The association between oral contraceptive use and the development of hepatocellular adenomas is well established, and it is possible that this patient's use of oral contraceptives may have contributed to the development of her liver mass."
+    }
+  ]
+}

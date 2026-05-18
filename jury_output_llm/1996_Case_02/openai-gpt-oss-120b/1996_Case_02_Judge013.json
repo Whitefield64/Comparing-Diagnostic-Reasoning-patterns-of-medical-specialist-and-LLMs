@@ -1,0 +1,95 @@
+{
+  "case": "1996 Case 02__openai-gpt-oss-120b.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T02:08:04.198416+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          31310,
+          31576
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The table underscores that the constellation of a **hypervascular mass with a central scar**, **normal liver enzymes**, **normal tumor markers**, and **systemic constitutional symptoms** is most parsimoniously explained by **fibrolamellar hepatocellular carcinoma**."
+    },
+    {
+      "ranges": [
+        [
+          7737,
+          7810
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the systemic manifestations argue against a purely benign vascular tumor."
+    },
+    {
+      "ranges": [
+        [
+          33350,
+          33607
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the diagnosis is **fibrolamellar HCC**, the standard of care is **surgical resection** (anatomic left‑lobe hepatectomy or extended left hepatectomy) because the tumor typically arises in a non‑cirrhotic liver and patients tolerate major hepatectomy well."
+    },
+    {
+      "ranges": [
+        [
+          20652,
+          20837
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The imaging hallmark of a hypervascular lesion with a central scar, coupled with normal liver function and systemic inflammatory symptoms, points most strongly toward fibrolamellar HCC."
+    },
+    {
+      "ranges": [
+        [
+          35405,
+          35693
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Fibrolamellar HCC uniquely integrates all observed elements: it occurs in young adults without cirrhosis, presents as a hypervascular mass with a central fibrous scar, often elicits systemic inflammatory symptoms (fever, weight loss), and typically shows normal AFP and liver chemistries."
+    },
+    {
+      "ranges": [
+        [
+          35694,
+          35784
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of an audible bruit over the lesion further supports a highly arterial tumor."
+    },
+    {
+      "ranges": [
+        [
+          35327,
+          35403
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most compelling diagnosis is **fibrolamellar hepatocellular carcinoma**."
+    },
+    {
+      "ranges": [
+        [
+          35788,
+          36015
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Nevertheless, an **inflammatory pseudotumor** remains a credible alternative, especially given the fever and weight loss, and would be distinguished histologically by a spindle‑cell infiltrate rather than malignant hepatocytes."
+    }
+  ]
+}

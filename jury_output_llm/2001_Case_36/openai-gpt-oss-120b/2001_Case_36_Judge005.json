@@ -1,0 +1,106 @@
+{
+  "case": "2001 Case 36__openai-gpt-oss-120b.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T04:39:16.008060+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          24383,
+          24648
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "he patient’s complex background, the most plausible explanations for his acute presentation can be grouped into three overlapping categories:\n\n1. **Primary Viral Upper Respiratory Infection with Secondary Lower‑Tract Involvement** – The most parsimonious hypothesis"
+    },
+    {
+      "ranges": [
+        [
+          10748,
+          10859
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Overall, while PCP recurrence cannot be excluded, the clinical picture leans more toward an acute viral process"
+    },
+    {
+      "ranges": [
+        [
+          26598,
+          26772
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "fore, the leading diagnostic hypothesis is **a viral respiratory infection (most plausibly influenza or RSV) precipitating an acute exacerbation of organizing pneumonia/ILD**"
+    },
+    {
+      "ranges": [
+        [
+          29454,
+          29648
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If a viral pathogen is identified (e.g., influenza):**  \n- Initiate antiviral therapy (oseltamivir or peramivir) promptly, as early treatment reduces morbidity, especially in immunocompromised h"
+    },
+    {
+      "ranges": [
+        [
+          29715,
+          29943
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If a bacterial superinfection is confirmed or strongly suspected:**  \n- Empiric coverage with a β‑lactam (e.g., high‑dose ceftriaxone) plus a macrolide or doxycycline to address atypical organisms, adjusting based on culture res"
+    },
+    {
+      "ranges": [
+        [
+          30963,
+          31122
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient’s cumulative burden of chronic lung disease, ongoing immunosuppression, and diabetes places him at heightened risk for rapid clinical deterioration"
+    },
+    {
+      "ranges": [
+        [
+          7164,
+          7288
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The prodrome of sore throat, rhinorrhea, and low‑grade fever is classic for an acute viral upper respiratory infection (URI)"
+    },
+    {
+      "ranges": [
+        [
+          25662,
+          25740
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s immunosuppressed state and prior colonization increase this risk"
+    },
+    {
+      "ranges": [
+        [
+          14445,
+          14521
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "e:** Chronic immunosuppression raises the risk for invasive fungal infection"
+    }
+  ]
+}

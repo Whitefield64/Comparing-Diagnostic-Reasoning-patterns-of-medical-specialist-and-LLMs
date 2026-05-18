@@ -1,0 +1,881 @@
+{
+  "case": "1999 Case 06__openai-gpt-oss-120b.md",
+  "exported_at": "2026-05-18T02:51:40.256009+00:00",
+  "n_voters": 15,
+  "n_successful": 15,
+  "n_failed": 0,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not mentioned in this text, however,  The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries is not mentioned, instead we have:  The patient’s chronic prednisone exposure likely contributed to metabolic derangements and may have accelerated aneurysm growth, but the underlying pathogenesis remains autoimmune vasculitis."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If Cogan’s syndrome is present, we would expect to see interstitial keratitis, audio‑vestibular dysfunction, and systemic vasculitis, which is consistent with the patient’s presentation."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis is not mentioned in this text."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation is not mentioned, however we have:  The differential diagnosis should first consider large‑vessel vasculitides, then medium‑vessel vasculitides, followed by inherited connective‑tissue disorders, infectious aortitis, endocrine or iatrogenic causes, and finally rare autoimmune syndromes."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not mentioned, however, we have: The patient’s most striking and pathognomonic combination is (1) interstitial‑keratitis‑like corneal scarring, (2) progressive bilateral sensorineural deafness, and (3) systemic large‑vessel vasculitis manifested by a thoraco‑abdominal aneurysm, renal‑artery stenosis, and refractory hypertension, which confirms Cogan’s syndrome."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of interstitial keratitis, audio‑vestibular dysfunction, and systemic vasculitis is consistent with Cogan’s syndrome, which is a rare autoimmune disorder."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned, instead we have:  The patient’s clinical presentation and the convergence of interstitial‑keratitis–type corneal changes, profound sensorineural hearing loss, and large‑vessel aneurysm/renal‑artery stenosis make Cogan’s syndrome with systemic vasculitis the leading unifying diagnosis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients is not mentioned, however, we have:  The probability of Cogan’s syndrome given the patient’s presentation is high, as it uniquely explains the ocular, auditory, and vascular manifestations."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not mentioned, however, we have:  The patient’s presentation is similar to previously reported cases of Cogan’s syndrome with systemic vasculitis, which supports this diagnosis."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 1,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries is not mentioned in this case, however,  Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present, instead we have  The patient’s **ocular findings (interstitial keratitis‑like corneal scarring), sensorineural deafness, and systemic vasculitis** are not adequately explained by any of the classic inherited connective‑tissue disorders."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If Cogan’s syndrome is present, we would expect to see interstitial keratitis, audiovestibular dysfunction, and a systemic vasculitic component, which are all present in this patient."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis is not relevant to this case, however,  Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis, which could be relevant to this patient."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, however, in this case  The patient’s most striking and pathognomonic combination is **(1) interstitial‑keratitis‑like corneal scarring, (2) progressive bilateral sensorineural deafness, and (3) systemic large‑vessel vasculitis manifested by a thoraco‑abdominal aneurysm, renal‑artery stenosis, and refractory hypertension**, which makes other diagnoses less likely."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not mentioned, however,  The patient’s **ocular findings (interstitial keratitis‑like corneal scarring), sensorineural deafness, and systemic vasculitis** are consistent with Cogan’s syndrome, and the absence of other findings, such as upper respiratory tract disease, makes other diagnoses less likely."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of interstitial keratitis, audiovestibular dysfunction, and systemic vasculitis is typical of Cogan’s syndrome, which makes it the most likely diagnosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is Cogan’s syndrome with systemic large-vessel vasculitis, given the combination of ocular, auditory, and vascular findings."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of Cogan’s syndrome do not involve large-vessel vasculitis, the presence of interstitial keratitis, audiovestibular dysfunction, and systemic vasculitis in this patient increases the probability of Cogan’s syndrome, and the absence of other findings makes other diagnoses less likely."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with Cogan’s syndrome who presented with interstitial keratitis, audiovestibular dysfunction, and systemic vasculitis, which suggests that this diagnosis should be considered in this case."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries, leading to aortic aneurysm and other vascular complications."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If Cogan’s syndrome is present, we would expect to see interstitial keratitis, sensorineural hearing loss, and systemic vasculitis, which is consistent with the patient’s presentation."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnosis of Cogan’s syndrome is based on the presence of interstitial keratitis, sensorineural hearing loss, and systemic vasculitis, which can be confirmed by serologic testing and imaging studies."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient’s clinical presentation, laboratory results, and imaging studies are all consistent with Cogan’s syndrome, which validates the diagnosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The patient’s presentation of interstitial keratitis, sensorineural hearing loss, and systemic vasculitis is consistent with the classic description of Cogan’s syndrome."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "Given the patient’s age, sex, and clinical presentation, Cogan’s syndrome is the most likely diagnosis, as it is a rare autoimmune disorder that can cause aortic aneurysm and other vascular complications."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of Cogan’s syndrome given the patient’s presentation is high, as the disease is characterized by a unique combination of interstitial keratitis, sensorineural hearing loss, and systemic vasculitis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "A similar case of Cogan’s syndrome was reported in the literature, which presented with interstitial keratitis, sensorineural hearing loss, and systemic vasculitis, supporting the diagnosis in this patient."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 21,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "Since the lesions are seen on both the diffusion-weighted and fluid-attenuated inversion-recovery images, we know that the age of the lesions is greater than about 12 hours. The lesions vary in signal intensity, indicating that the time of onset of individual lesions probably varied."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "Aortic- or subclavian-wall abnormalities without obvious occlusion from clotting make it unlikely that the patient had antiphospholipid-antibody syndrome, but we must explain the laboratory findings."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "In the absence of other findings, hemorrhoids are common and not necessarily worrisome. However, the presence of other anorectal abnormalities in this patient raises doubts about whether he really had hemorrhoids."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor"
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although this elderly, hypertensive man probably did have some atheromatous disease, the vessels involved and the laboratory evidence suggest that he had giant-cell arteritis."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 1,
+      "n_unresolved": 11,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If Cogan’s syndrome is present, we would expect to see interstitial keratitis, audio‑vestibular dysfunction, and systemic vasculitis."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 10,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If Cogan’s syndrome is present, we would expect to see interstitial keratitis, audio‑vestibular dysfunction, and a systemic vasculitic component, which are all consistent with the patient’s presentation."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of vasculitis can be grouped on the basis of underlying cause, such as infection, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, and the patient’s presentation can be evaluated against these categories."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to involve the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries, which could be related to the pathogenesis of the aneurysm."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If Cogan’s syndrome is the correct diagnosis, then we would expect to see interstitial keratitis, audio‑vestibular dysfunction, and systemic vasculitis involving the aorta and its major branches."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnosis of Cogan’s syndrome requires the presence of interstitial keratitis and audio‑vestibular dysfunction, as well as evidence of systemic vasculitis, which can be confirmed by laboratory tests such as elevated ESR and leukocytosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "Given the patient’s presentation, we must first rule out other large‑vessel vasculitides, such as Takayasu arteritis and giant cell arteritis, before considering Cogan’s syndrome as the primary diagnosis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient’s clinical presentation, laboratory results, and imaging studies all support the diagnosis of Cogan’s syndrome with systemic large‑vessel vasculitis, making it the most likely diagnosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of interstitial keratitis, audio‑vestibular dysfunction, and systemic large‑vessel vasculitis is highly suggestive of Cogan’s syndrome, which is a rare autoimmune disorder."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is Cogan’s syndrome with systemic large‑vessel vasculitis, given the unique combination of ocular, auditory, and vascular symptoms."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although the patient’s presentation is consistent with Cogan’s syndrome, the probability of this diagnosis is increased by the presence of interstitial keratitis, audio‑vestibular dysfunction, and systemic vasculitis, which are all characteristic features of this disease."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of a young woman with interstitial keratitis, sensorineural hearing loss, and aortic aneurysm, who was diagnosed with Cogan’s syndrome, which suggests that this diagnosis should be considered in the present case."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 10,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If this were Takayasu arteritis, we would expect to see pulseless disease, limb‑blood‑pressure discrepancies, bruits over affected vessels, and constitutional symptoms."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of vasculitis can be grouped based on the size of the vessels involved, such as large‑vessel vasculitis (e.g., Takayasu arteritis, Cogan’s syndrome), medium‑vessel vasculitis (e.g., polyarteritis nodosa), and small‑vessel vasculitis (e.g., granulomatosis with polyangiitis)."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If this were Takayasu arteritis, we would expect to see pulseless disease, limb‑blood‑pressure discrepancies, bruits over affected vessels, and constitutional symptoms."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out other large‑vessel vasculitides, such as Takayasu arteritis, before considering Cogan’s syndrome."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 1,
+      "n_unresolved": 11,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "Since the lesions are seen on both the diffusion-weighted and fluid-attenuated inversion-recovery images, we know that the age of the lesions is greater than about 12 hours. The lesions vary in signal intensity, indicating that the time of onset of individual lesions probably varied."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process of interstitial keratitis and sensorineural hearing loss, along with systemic vasculitis, suggests an underlying autoimmune mechanism that could explain the patient’s symptoms and findings."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If Cogan’s syndrome is the correct diagnosis, then one would expect to find evidence of interstitial keratitis, audio‑vestibular dysfunction, and a systemic vasculitic component, all of which are present in this patient."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnosis of Cogan’s syndrome can be made based on the presence of two of the three classic triad components (interstitial keratitis, audio‑vestibular dysfunction, and systemic vasculitis), along with the exclusion of other potential causes."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "Given the patient’s presentation, it is essential to first rule out other large‑vessel vasculitides, such as Takayasu arteritis, before considering Cogan’s syndrome as the primary diagnosis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient’s clinical presentation, including interstitial keratitis, sensorineural hearing loss, and systemic vasculitis, is consistent with Cogan’s syndrome, and the absence of other explanatory conditions supports this diagnosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The patient’s symptoms and findings are consistent with the classic presentation of Cogan’s syndrome, which typically includes interstitial keratitis, audio‑vestibular dysfunction, and systemic vasculitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "Given the unique combination of ocular, auditory, and vascular findings in this patient, it is likely that Cogan’s syndrome is the underlying diagnosis, despite its rarity."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of Cogan’s syndrome as the correct diagnosis increases given the presence of interstitial keratitis, sensorineural hearing loss, and systemic vasculitis, as these findings are more likely to occur in Cogan’s syndrome than in other potential diagnoses."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "This patient’s presentation is reminiscent of previously reported cases of Cogan’s syndrome, which have described a similar combination of interstitial keratitis, audio‑vestibular dysfunction, and systemic vasculitis."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 12,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has Cogan’s syndrome, we would expect to see interstitial keratitis, sensorineural hearing loss, and systemic vasculitis."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculosis, but an autoimmune mechanism has also been postulated."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 29,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If Cogan’s syndrome is the diagnosis, we would expect to see interstitial keratitis, audio‑vestibular dysfunction, and systemic vasculitis involving the aorta and its branches."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "Since the lesions are seen on both the diffusion-weighted and fluid-attenuated inversion-recovery images, we know that the age of the lesions is greater than about 12 hours. The lesions vary in signal intensity, indicating that the time of onset of individual lesions probably varied."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "Aortic- or subclavian-wall abnormalities without obvious occlusion from clotting make it unlikely that the patient had antiphospholipid-antibody syndrome, but we must explain the laboratory findings."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "In the absence of other findings, hemorrhoids are common and not necessarily worrisome. However, the presence of other anorectal abnormalities in this patient raises doubts about whether he really had hemorrhoids."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries, which may lead to aortic dilation."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although this elderly, hypertensive man probably did have some atheromatous disease, the vessels involved and the laboratory evidence suggest that he had giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The classic presentation of Cogan’s syndrome is a triad of interstitial keratitis, audio‑vestibular dysfunction, and systemic vasculitis."
+        },
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "Something about this case concerns me, and my instinct is that we are missing something important."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The patient’s Cushingoid habitus, hypertension, and hypokalemia are likely due to chronic glucocorticoid exposure, which may have also accelerated aneurysm expansion."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient’s clinical presentation, laboratory results, and imaging studies are all consistent with Cogan’s syndrome with systemic large-vessel vasculitis."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 11,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 20,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "Aortic- or subclavian-wall abnormalities without obvious occlusion from clotting make it unlikely that the patient had antiphospholipid-antibody syndrome, but we must explain the laboratory findings."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If this were Cogan’s syndrome, we would expect to see interstitial keratitis, audiovestibular dysfunction, and systemic vasculitis, which are all present in this patient."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "In the absence of other findings, hemorrhoids are common and not necessarily worrisome. However, the presence of other anorectal abnormalities in this patient raises doubts about whether he really had hemorrhoids."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "case": "2003 Case 21__openai-gpt-oss-120b.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-18T05:31:53.067208+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          12057,
+          12349
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical picture is that of a 72‑year‑old man who suffered a series of transient brain‑stem and cerebellar symptoms that progressed to multiple radiographically documented infarcts in the posterior circulation (vertebro‑basilar territory) despite anticoagulation and antiplatelet therapy."
+    },
+    {
+      "ranges": [
+        [
+          17785,
+          17922
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Atherosclerotic vertebro‑basilar disease remains a major contributor to the patient’s strokes, especially given his age and risk factors."
+    },
+    {
+      "ranges": [
+        [
+          12956,
+          13294
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential therefore must encompass a spectrum of arterial pathologies that can produce multifocal vertebro‑basilar ischemia, ranging from “common” atherosclerotic disease to immune‑mediated vasculitis and hypercoagulable states, as well as rarer entities such as arterial dissection, embolic sources, and paraneoplastic thrombosis."
+    },
+    {
+      "ranges": [
+        [
+          21202,
+          21308
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The serologic profile strongly supports APS, and APS can certainly explain the recurrent arterial strokes."
+    },
+    {
+      "ranges": [
+        [
+          17933,
+          18118
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of systemic inflammation, autoantibodies, and the non‑calcified nature of the lesions suggests that atherosclerosis is likely **augmented by an inflammatory vasculopathy**."
+    },
+    {
+      "ranges": [
+        [
+          28856,
+          28984
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "PACNS remains a strong contender, especially given the angiographic appearance and the multifocal posterior‑circulation strokes."
+    },
+    {
+      "ranges": [
+        [
+          21586,
+          21731
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The working hypothesis should therefore incorporate APS as a major pro‑thrombotic factor that may be **amplified by an inflammatory vasculitis**."
+    },
+    {
+      "ranges": [
+        [
+          21319,
+          21584
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of vessel‑wall irregularities, elevated CRP, and a positive ANCA point toward a **combined process** – either secondary APS associated with an underlying systemic vasculitis, or a primary APS co‑existing with a non‑infectious inflammatory arteriopathy."
+    },
+    {
+      "ranges": [
+        [
+          21202,
+          21308
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The serologic profile strongly supports APS, and APS can certainly explain the recurrent arterial strokes."
+    },
+    {
+      "ranges": [
+        [
+          17933,
+          18118
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of systemic inflammation, autoantibodies, and the non‑calcified nature of the lesions suggests that atherosclerosis is likely **augmented by an inflammatory vasculopathy**."
+    },
+    {
+      "ranges": [
+        [
+          28856,
+          28984
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "PACNS remains a strong contender, especially given the angiographic appearance and the multifocal posterior‑circulation strokes."
+    },
+    {
+      "ranges": [
+        [
+          21586,
+          21731
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The working hypothesis should therefore incorporate APS as a major pro‑thrombotic factor that may be **amplified by an inflammatory vasculitis**."
+    },
+    {
+      "ranges": [
+        [
+          21319,
+          21584
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of vessel‑wall irregularities, elevated CRP, and a positive ANCA point toward a **combined process** – either secondary APS associated with an underlying systemic vasculitis, or a primary APS co‑existing with a non‑infectious inflammatory arteriopathy."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "case": "1999 Case 06__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T02:54:21.321407+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9034,
+          9225
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnosis in this context is **Takayasu arteritis (TA)**, a large-vessel vasculitis that predominantly affects young women, particularly of Asian or Mediterranean descent."
+    },
+    {
+      "ranges": [
+        [
+          15896,
+          16069
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most parsimonious diagnosis, integrating all elements, is **relapsing polychondritis with superimposed fibromuscular dysplasia and steroid-induced cushingoid features**."
+    },
+    {
+      "ranges": [
+        [
+          10213,
+          10381
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Alternatively, these findings could represent a manifestation of **sarcoidosis** or **relapsing polychondritis**, both of which can involve the eye and the vasculature."
+    },
+    {
+      "ranges": [
+        [
+          6297,
+          6520
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hypokalemia, metabolic alkalosis (elevated CO2), and renal artery stenosis point to a renin-angiotensin-aldosterone system (RAAS) activation, most likely secondary to fibromuscular dysplasia (FMD) of the renal arteries."
+    },
+    {
+      "ranges": [
+        [
+          12611,
+          12833
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The diagnostic criteria (McAdam’s criteria) include bilateral auricular chondritis, nasal chondritis, ocular inflammation, respiratory tract chondritis, cochlear or vestibular dysfunction, and histopathologic confirmation."
+    },
+    {
+      "ranges": [
+        [
+          7892,
+          8004
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of skeletal deformities (e.g., pectus excavatum, scoliosis) further argues against classical Marfan."
+    },
+    {
+      "ranges": [
+        [
+          12896,
+          13037
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the combination of aortic aneurysm, deafness, ocular inflammation, steroid responsiveness, and young female sex makes RP a leading contender."
+    },
+    {
+      "ranges": [
+        [
+          5740,
+          5968
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of blue sclerae is classically associated with osteogenesis imperfecta (OI), but OI does not typically cause aortic aneurysms of this magnitude, nor does it cause sensorineural hearing loss or renal artery stenosis."
+    }
+  ]
+}

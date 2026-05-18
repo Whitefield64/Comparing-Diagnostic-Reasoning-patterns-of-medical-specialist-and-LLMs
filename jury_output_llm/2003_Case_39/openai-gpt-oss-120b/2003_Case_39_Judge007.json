@@ -1,0 +1,51 @@
+{
+  "case": "2003 Case 39__openai-gpt-oss-120b.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T06:23:20.932458+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23031,
+          23454
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "he most parsimonious explanation is a **primary bladder neoplasm**. The dome location narrows the differential to two main possibilities:\n\n1. **Urothelial carcinoma** – the most common bladder cancer overall, capable of arising anywhere, including the dome.  \n2. **Urachal adenocarcinoma** – a rarer tumor that classically originates at the dome and can present with mucinous debris and systemic symptoms such as weight los"
+    },
+    {
+      "ranges": [
+        [
+          23458,
+          23894
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The balance of probability leans toward urothelial carcinoma because it is vastly more common, even in young women, and because the CT did not demonstrate a classic midline urachal tract or extravesical component. However, the dome predilection, modest weight loss, and the description of “heterogeneous, mixed‑attenuation debris” (potentially mucin) keep urachal adenocarcinoma high on the differential pending histologic confirmation."
+    },
+    {
+      "ranges": [
+        [
+          13337,
+          13519
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Gross hematuria with clots is unusual; most infections produce microscopic hematuria. Severe hemorrhagic cystitis can result from a highly virulent strain or profound mucosal injury."
+    },
+    {
+      "ranges": [
+        [
+          13684,
+          13888
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of a 3–4 cm mass on cystoscopy is not typical for simple cystitis, although severe inflammation can produce pseudotumorous edema or “mass‑like” exophytic lesions (e.g., “fungating cystitis”)."
+    }
+  ]
+}

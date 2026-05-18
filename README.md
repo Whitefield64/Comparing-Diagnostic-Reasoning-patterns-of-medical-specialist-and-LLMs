@@ -27,10 +27,15 @@ This is not a generic text-labeling demo. The implementation is designed around 
 ## System Overview
 
 ```text
-cases/*.md
-	├──> annotation_tool  ──> annotated_cases/*.json
-	├──> jury pipeline    ──> jury_output/*/*.json
-	└──> comparison_tool  ──> multi-annotator / multi-run inspection
+cases/*.md  ──────────────────────────────────────> jury pipeline ──> jury_output/{case}/*.json
+                                                         │
+cases_llm/{case}/{case}__{model}.md  ─────────────> jury pipeline ──> jury_output_llm/{case}/{model}/*.json
+         ▲
+         │
+llm_generation pipeline (generates differential diagnoses)
+
+cases/*.md ──> annotation_tool ──> annotated_cases/*.json
+           └──> comparison_tool ──> multi-annotator / multi-run inspection
 ```
 
 ## Main Components
@@ -60,15 +65,21 @@ The comparison tool is a read-only viewer for exploring multiple JSON annotation
 
 It runs on `http://localhost:5002`.
 
+### LLM Generation
+
+The generation pipeline produces LLM-written differential diagnoses for the same cases used by human physicians. Three models are run on each case (Llama 3.3 70B, GPT-OSS 120B, Qwen3 80B). Each model's output is saved as a separate `.md` file inside `cases_llm/{case}/`, preserving the original Presentation of Case and replacing only the reasoning section.
+
 ### LLM Jury
 
-The jury pipeline generates machine annotations with multiple independent voters.
+The jury pipeline annotates reasoning spans with multiple independent voters and works on both human and LLM-generated cases.
 
 - Strips the Presentation of Case section before prompting
 - Prompts the model with the 12-label taxonomy and few-shot human examples
 - Runs multiple voters with rate limiting and retries
 - Resolves quoted spans back to character offsets in the source text
 - Writes one JSON file per voter plus a summary file
+
+**Human cases** output goes to `jury_output/{case}/`. **LLM cases** output goes to `jury_output_llm/{case}/{model}/`, keeping each generation model's jury results in its own subfolder.
 
 The jury output is schema-compatible with the human annotation files, so it can be loaded directly into the comparison tool.
 
@@ -77,21 +88,26 @@ The jury output is schema-compatible with the human annotation files, so it can 
 1. Start with a case from `cases/`.
 2. Annotate reasoning spans with the manual tool and save them under `annotated_cases/`.
 3. Use the comparison tool to inspect span alignment, label agreement, and annotation drift.
-4. Run the LLM jury on the same case text to generate multiple independent model outputs.
-5. Compare human and machine annotations using the same viewer and JSON schema.
+4. Run the LLM jury on the human cases to generate machine annotations (`jury_output/`).
+5. Run the LLM generation pipeline to produce model-written differential diagnoses (`cases_llm/`).
+6. Run the LLM jury on the generated cases to annotate LLM reasoning (`jury_output_llm/`).
+7. Compare human and machine annotations using the same viewer and JSON schema.
 
-The important design choice is that the annotation target is the reasoning trace itself. The project therefore captures not only what diagnosis was reached, but how the reasoning unfolded.
+The important design choice is that the annotation target is the reasoning trace itself. The project therefore captures not only what diagnosis was reached, but how the reasoning unfolded — and now compares that unfolding across both human physicians and LLMs.
 
 ## Repository Layout
 
-- `cases/` contains the clinical case texts.
-- `annotated_cases/` contains manually annotated JSON files.
-- `annotation_tool/` contains the human labeling UI.
-- `comparison_tool/` contains the multi-file comparison viewer.
-- `jury/` contains the automated LLM annotation pipeline.
-- `jury_output/` stores voter outputs and summary files.
-- `docs/` contains implementation notes for each module.
-- `appendix_ref8/` stores the source CSV associated with the Hom et al. dataset.
+- `cases/` — original clinical case texts (human physician reasoning)
+- `cases_llm/` — LLM-generated differential diagnoses, one subfolder per case with one `.md` per generation model
+- `annotated_cases/` — manually annotated JSON files
+- `annotation_tool/` — human labeling UI
+- `comparison_tool/` — multi-file comparison viewer
+- `jury/` — automated LLM annotation pipeline
+- `jury_output/` — jury results for human cases (`{case}/{case}_Judge*.json`)
+- `jury_output_llm/` — jury results for LLM-generated cases (`{case}/{model}/{case}_Judge*.json`)
+- `llm_generation/` — pipeline that generates the differential diagnoses in `cases_llm/`
+- `docs/` — implementation notes for each module
+- `appendix_ref8/` — source CSV associated with the Hom et al. dataset
 
 ## Quick Start
 
@@ -104,14 +120,20 @@ cd annotation_tool && uv run python server.py
 # Comparison viewer
 cd comparison_tool && uv run python server.py
 
-# Cheap end-to-end jury smoke test
+# Generate LLM differential diagnoses for all cases
+uv run python -m llm_generation.run_generation cases/*.md
+
+# Jury — smoke test on one human case (3 voters)
 uv run python -m jury.run_jury --dry-run "cases/2003 Case 21.md"
-```
 
-For a full batch run:
-
-```bash
+# Jury — full batch run on human cases
 uv run python -m jury.run_jury cases/*.md
+
+# Jury — smoke test on one LLM case directory (3 voters, all 3 models)
+uv run python -m jury.run_jury --llm --dry-run --output-dir jury_output_llm "cases_llm/2003 Case 21"
+
+# Jury — full batch run on all LLM cases
+uv run python -m jury.run_jury --llm --output-dir jury_output_llm cases_llm/*
 ```
 
 ## Outputs

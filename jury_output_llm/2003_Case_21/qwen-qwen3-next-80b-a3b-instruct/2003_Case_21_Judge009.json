@@ -1,0 +1,84 @@
+{
+  "case": "2003 Case 21__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T05:53:54.437441+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23485,
+          23651
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely diagnosis is microscopic polyangiitis (MPA), an ANCA-associated vasculitis affecting small- to medium-sized vessels, including the vertebral arteries."
+    },
+    {
+      "ranges": [
+        [
+          12669,
+          12928
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The absence of cardiac embolic sources, absence of large-vessel occlusion on angiography, and the presence of multifocal, irregular stenoses of bilateral vertebral arteries raise the question of a non-atherosclerotic, inflammatory, or autoimmune vasculopathy."
+    },
+    {
+      "ranges": [
+        [
+          13363,
+          13645
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the multifocal, irregular nature of the vertebral artery stenoses, particularly their asymmetry and distribution along the dural ring and mid-vertebral segments—regions less commonly affected by typical atherosclerotic plaques, which tend to localize at ostial or bifurcation sites."
+    },
+    {
+      "ranges": [
+        [
+          13102,
+          13289
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The challenge lies in distinguishing between atherosclerotic progression, a primary vasculitis, a prothrombotic state, and a systemic connective tissue disorder with vascular involvement."
+    },
+    {
+      "ranges": [
+        [
+          13962,
+          14202
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the patient’s persistent, progressive neurological deterioration despite anticoagulation and antiplatelet therapy indicates that thrombosis alone cannot account for the injury; the underlying vessel wall pathology must be actively evolving."
+    },
+    {
+      "ranges": [
+        [
+          13644,
+          14012
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": ". The presence of non-calcified, circumferential stenoses at the origin of the left vertebral artery, coupled with elevated intracranial flow velocities on transcranial Doppler and the absence of significant internal carotid disease, suggests a process that is not simply age-related plaque accumulation. Furthermore, the patient’s persistent, progressive neurological"
+    },
+    {
+      "ranges": [
+        [
+          24382,
+          24658
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": " The case represents a classic, albeit atypical, presentation of MPA with predominant neurological involvement—a diagnosis that requires prompt immunosuppression with cyclophosphamide or rituximab and glucocorticoids, which should have been initiated alongside plasmapheresis."
+    }
+  ]
+}

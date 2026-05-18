@@ -1,0 +1,150 @@
+{
+  "case": "1992 Case 16__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-17T23:38:18.601435+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4156,
+          4336
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient presents with a complex clinical picture, characterized by cervical pain radiating to the left shoulder, paresthesias in the left hand, and clumsiness of the left hand."
+    },
+    {
+      "ranges": [
+        [
+          4969,
+          5181
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of trauma, the initial differential diagnosis should include conditions related to the traumatic events, such as fractures, dislocations, or ligamentous injuries of the cervical spine."
+    },
+    {
+      "ranges": [
+        [
+          5287,
+          5463
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of an osteolytic lesion and a soft-tissue mass on the CT scan suggests a more complex process, possibly involving infection, inflammation, or a neoplastic process."
+    },
+    {
+      "ranges": [
+        [
+          5464,
+          5618
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Infectious processes, such as osteomyelitis or discitis, should be considered, especially given the patient's history of infected cuticles and paronychia."
+    },
+    {
+      "ranges": [
+        [
+          5619,
+          5737
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "These conditions could lead to destruction of the vertebral body and disc space, consistent with the imaging findings."
+    },
+    {
+      "ranges": [
+        [
+          5944,
+          6108
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The erythrocyte sedimentation rate of 50 mm per hour does suggest some degree of inflammation, which could be consistent with an infectious or inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          5747,
+          5943
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "the patient's lack of systemic symptoms such as fever, chills, or night sweats makes an infectious process less likely, although it cannot be ruled out entirely without further diagnostic testing."
+    },
+    {
+      "ranges": [
+        [
+          10437,
+          10562
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": " The patient's symptoms of paresthesias and clumsiness of the left hand suggest involvement of the spinal cord or nerve roots"
+    },
+    {
+      "ranges": [
+        [
+          9116,
+          9304
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of an osteolytic lesion and a soft-tissue mass on the CT scan, combined with the patient's symptoms of cervical pain and neurologic deficits, make these diagnoses more likely."
+    },
+    {
+      "ranges": [
+        [
+          8000,
+          8246
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's occupation as a surgical assistant and her history of infected cuticles and paronychia raise the possibility of an occupational exposure to a pathogen or a foreign body, which could have led to an infectious or inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          7801,
+          7890
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "a rare condition such as a spinal hemangioma or aneurysmal bone cyst could be considered."
+    },
+    {
+      "ranges": [
+        [
+          8770,
+          8957
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's symptoms and imaging findings suggest a serious underlying condition, and prompt diagnosis and treatment are essential to prevent further complications and improve outcomes."
+    },
+    {
+      "ranges": [
+        [
+          4780,
+          4968
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": " CT scan showed an osteolytic lesion at the superior end plate and upper posterior body of the fifth cervical vertebra with an associated soft-tissue mass protruding into the neural canal."
+    }
+  ]
+}

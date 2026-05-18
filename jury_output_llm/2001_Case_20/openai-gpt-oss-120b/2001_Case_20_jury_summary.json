@@ -1,0 +1,362 @@
+{
+  "case": "2001 Case 20__openai-gpt-oss-120b.md",
+  "exported_at": "2026-05-18T04:07:27.529063+00:00",
+  "n_voters": 15,
+  "n_successful": 15,
+  "n_failed": 0,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of a new systolic murmur, a positive tuberculin skin test, calcified mediastinal nodes, and a **β‑lactamase‑negative *Moraxella phenylpyruvica* bacteremia** is consistent with infective endocarditis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The **probability of infective endocarditis** is **moderate** given the presence of a new systolic murmur, a positive tuberculin skin test, calcified mediastinal nodes, and a **β‑lactamase‑negative *Moraxella phenylpyruvica* bacteremia**."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with infective endocarditis caused by a rare Gram-negative organism, which presented with a subacute febrile illness and a new systolic murmur."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If infective endocarditis is confirmed: Continue intravenous cefuroxime (or switch to a beta-lactam/beta-lactamase inhibitor such as piperacillin-tazobactam) for a minimum of 4–6 weeks, guided by repeat blood cultures."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysfunction of the aortic valve leaflets is indicated by calcification, which suggests chronic mechanical stress and endothelial disruption, providing a substrate for bacterial adherence and subsequent infection."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of presentation, including the combination of fever, weight loss, and a new systolic murmur, is suggestive of infective endocarditis, particularly in the context of an ulcerated atherosclerotic plaque."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The absence of alternative infectious foci (negative urine cultures, no biliary inflammation, no respiratory symptoms) narrows the focus to the cardiovascular compartment, supporting the diagnosis of subacute infective endocarditis due to *Moraxella phenylpyruvica*."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "Given the patient’s complex presentation and the rarity of *Moraxella phenylpyruvica* as a cause of endocarditis, it is reasonable to consider that the diagnosis may not be immediately apparent and that a high index of suspicion is required."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "The possibility that *Moraxella phenylpyruvica* could cause infective endocarditis, particularly in the context of an ulcerated atherosclerotic plaque, is a novel consideration that requires careful evaluation of the clinical and microbiological evidence."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If infective endocarditis is confirmed: Continue intravenous cefuroxime (or switch to a beta-lactam/beta-lactamase inhibitor such as piperacillin-tazobactam) for a minimum of 4–6 weeks, guided by repeat blood cultures."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned in the text, however the following sentence has a similar structure: Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not mentioned in the text, however the following sentence has a similar structure: While laboratory error is theoretically possible, the susceptibility profile supports the identification."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The **pattern of subacute presentation**, **new murmur**, and **positive blood cultures for a rare Gram‑negative organism** is consistent with the diagnosis of infective endocarditis, particularly in the context of pre‑existing structural heart disease."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If infective endocarditis is confirmed: Continue intravenous cefuroxime (or switch to a beta-lactam/beta-lactamase inhibitor such as piperacillin-tazobactam) for a minimum of 4–6 weeks, guided by repeat blood cultures."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysfunction of the aortic valve leaflets is indicated by calcified aortic and mitral leaflets, thickened mitral leaflets, and posterior mitral annular calcification—features that predispose to endothelial injury and bacterial adherence."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of weight loss, low-grade fever, and positive blood cultures for *Moraxella* is consistent with subacute bacterial endocarditis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The clinical presentation and microbiologic data suggest that the patient has a subacute infectious process, most likely infective endocarditis."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If infective endocarditis is confirmed: Continue intravenous cefuroxime (or switch to a beta-lactam/beta-lactamase inhibitor such as piperacillin-tazobactam) for a minimum of 4–6 weeks, guided by repeat blood cultures."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If infective endocarditis is confirmed: Continue intravenous cefuroxime (or switch to a beta-lactam/beta-lactamase inhibitor such as piperacillin-tazobactam) for a minimum of 4–6 weeks, guided by repeat blood cultures."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries is not mentioned but Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present, instead we have:  The transesophageal echo demonstrated moderate atheromatous disease with an ulcerated plaque."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of weight loss, low-grade fever, and a new systolic murmur is typical of subacute infective endocarditis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The presence of an ulcerated aortic plaque and the isolation of *Moraxella phenylpyruvica* from blood cultures further supports this diagnosis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The absence of alternative infectious foci (negative urine cultures, no biliary inflammation, no respiratory symptoms) narrows the focus to the cardiovascular compartment and supports the diagnosis of infective endocarditis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The clinical improvement after targeted β-lactam therapy also validates the diagnosis of infective endocarditis caused by *Moraxella phenylpyruvica*."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 22,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "Since the lesions are seen on both the diffusion-weighted and fluid-attenuated inversion-recovery images, we know that the age of the lesions is greater than about 12 hours. The lesions vary in signal intensity, indicating that the time of onset of individual lesions probably varied."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "Aortic- or subclavian-wall abnormalities without obvious occlusion from clotting make it unlikely that the patient had antiphospholipid-antibody syndrome, but we must explain the laboratory findings."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor"
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "In the absence of other findings, hemorrhoids are common and not necessarily worrisome. However, the presence of other anorectal abnormalities in this patient raises doubts about whether he really had hemorrhoids."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although this elderly, hypertensive man probably did have some atheromatous disease, the vessels involved and the laboratory evidence suggest that he had giant-cell arteritis."
+        }
+      ]
+    }
+  ]
+}

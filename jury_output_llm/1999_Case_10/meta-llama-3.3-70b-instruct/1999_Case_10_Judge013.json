@@ -1,0 +1,84 @@
+{
+  "case": "1999 Case 10__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T03:15:27.915676+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17280,
+          17561
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The combination of systemic vasculitis, renal failure, cortical blindness, and respiratory distress, alongside the skin and lymph node findings, points most strongly towards a diagnosis of a systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis."
+    },
+    {
+      "ranges": [
+        [
+          10427,
+          10653
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the age of the patient and the severity of the systemic involvement make conditions like Wegener's granulomatosis (now known as granulomatosis with polyangiitis) or microscopic polyangiitis more likely considerations."
+    },
+    {
+      "ranges": [
+        [
+          18094,
+          18330
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Systemic vasculitides, such as granulomatosis with polyangiitis or microscopic polyangiitis, are characterized by the deposition of immune complexes and the activation of neutrophils, leading to inflammation and damage to blood vessels."
+    },
+    {
+      "ranges": [
+        [
+          18464,
+          18655
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of ANCA in many cases of these conditions suggests an autoimmune mechanism, with the antibodies targeting neutrophil cytoplasmic antigens and triggering an inflammatory response."
+    },
+    {
+      "ranges": [
+        [
+          11921,
+          12055
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The use of methylprednisolone, a corticosteroid, suggests an empirical treatment approach for an inflammatory or autoimmune condition."
+    },
+    {
+      "ranges": [
+        [
+          21928,
+          22159
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "he patient's complex presentation, involving renal failure, cortical blindness, respiratory distress, and a vasculitic rash, alongside lymphadenopathy and evidence of intravascular coagulation. This diagnosis would necessitate furt"
+    },
+    {
+      "ranges": [
+        [
+          12330,
+          12693
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "erential diagnosis for this patient is broad, the combination of systemic vasculitis, renal failure, cortical blindness, and respiratory distress, alongside the skin and lymph node findings, points most strongly towards a diagnosis of a systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis. These conditions are known for thei"
+    }
+  ]
+}

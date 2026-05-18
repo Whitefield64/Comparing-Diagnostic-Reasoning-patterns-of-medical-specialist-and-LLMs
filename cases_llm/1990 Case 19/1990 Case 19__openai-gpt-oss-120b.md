@@ -449,5 +449,3 @@ The two most compelling candidates, based on the totality of data, are **alveola
 * **Histopathology** from a core needle biopsy – characteristic laminated membranes, necrotic central zones, and infiltrative growth pattern.  
 
 **Management implications:** Early diagnosis is crucial because alveolar echinococcosis behaves like a malignant tumor, requiring radical hepatic resection when feasible, combined with long‑term benzimidazole therapy (e.g., albendazole).  The size and IVC compression in this patient suggest that surgical resection may be challenging, underscoring the need for precise staging.
-
-#### 7

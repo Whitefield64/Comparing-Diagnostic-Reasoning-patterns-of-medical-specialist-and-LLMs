@@ -1,0 +1,233 @@
+{
+  "case": "1996 Case 14__qwen-qwen3-next-80b-a3b-instruct.md",
+  "exported_at": "2026-05-18T02:35:33.701749+00:00",
+  "n_voters": 15,
+  "n_successful": 15,
+  "n_failed": 0,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however the text 'The primary diagnosis is unequivocally toxic epidermal necrolysis, triggered most likely by methotrexate in the context of renal impairment.' can be labeled as IND_INTUITION"
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, instead: The patient’s underlying medical conditions created a perfect storm for the development and fatal progression of TEN."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however, The primary diagnosis is unequivocally toxic epidermal necrolysis, triggered most likely by methotrexate in the context of renal impairment."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images or skin findings are not described in detail in this text, however, The presence of sludge and pericholecystic fluid on ultrasound, followed by culture-proven *Klebsiella* in bile, strongly suggests ascending cholangitis or acalculous cholecystitis as a primary source."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, however the text 'The patient’s underlying conditions—uremia, diabetes, steroid use, and chronic inflammation—created a physiological environment in which even a single infection could spiral into systemic collapse' can be labeled as IND_INTUITION"
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of rapid progression from erythema and targetoid lesions to confluent epidermal sloughing, mucosal involvement, and systemic toxicity is typical of TEN."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present but the following sentence is: The primary diagnosis is unequivocally toxic epidermal necrolysis, triggered most likely by methotrexate in the context of renal impairment."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The fact that the same organism was isolated from blood, bile, sputum, and multiple catheters suggests either a primary source with hematogenous seeding or a central line as the primary nidus, with subsequent translocation from the gut—a common pathway in critically ill, immunocompromised patients."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however, the following sentence is: The patient’s underlying medical conditions created a perfect storm for the development and fatal progression of TEN."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of rapid progression from erythema and targetoid lesions to confluent epidermal sloughing, mucosal involvement, and systemic toxicity is typical of TEN."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary drug-induced reaction, given the temporal relationship between methotrexate initiation and the onset of oral ulcers."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of rapid progression from erythema and targetoid lesions to confluent epidermal sloughing, mucosal involvement, and systemic toxicity is typical of TEN."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however the sentence 'The patient’s underlying conditions—uremia, diabetes, steroid use, and chronic inflammation—created a physiological environment in which even a single infection could spiral into systemic collapse' could be labeled as IND_INTUITION"
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of immune-mediated, drug-induced reaction characterized by widespread keratinocyte apoptosis, leading to full-thickness epidermal necrosis and detachment of large sheets of skin and mucous membranes."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however, The patient’s underlying medical conditions created a perfect storm for the development and fatal progression of TEN is an example of this."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however, The primary diagnosis is unequivocally toxic epidermal necrolysis, triggered most likely by methotrexate in the context of renal impairment."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, instead: The patient’s underlying medical conditions created a perfect storm for the development and fatal progression of TEN."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images or physical exam findings are not present, instead: The patient’s skin lesions were not tender in the classic way seen in SSSS, and the progression was too rapid and systemic for a toxin-mediated disease without bacteremia."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of rapid progression from erythema and targetoid lesions to confluent epidermal sloughing, mucosal involvement, and systemic toxicity is typical of TEN."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the following sentence is: The patient’s underlying conditions—uremia, diabetes, steroid use, and chronic inflammation—created a physiological environment in which even a single infection could spiral into systemic collapse."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, instead: The patient’s underlying medical conditions created a perfect storm for the development and fatal progression of TEN."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis is not applicable here, however, The temporal relationship between the initiation of methotrexate six weeks prior to the onset of oral ulcers and the subsequent eruption is highly suggestive of a drug etiology."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, however, The patient’s underlying medical conditions created a perfect storm for the development and fatal progression of TEN."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not applicable here, however, The biopsy findings were consistent with TEN, not viral cytopathic change, and multiple viral cultures from oral lesions remained negative."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of rapid progression from erythema and targetoid lesions to confluent epidermal sloughing, mucosal involvement, and systemic toxicity is typical of toxic epidermal necrolysis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, however, The patient’s underlying medical conditions created a perfect storm for the development and fatal progression of TEN."
+        }
+      ]
+    }
+  ]
+}

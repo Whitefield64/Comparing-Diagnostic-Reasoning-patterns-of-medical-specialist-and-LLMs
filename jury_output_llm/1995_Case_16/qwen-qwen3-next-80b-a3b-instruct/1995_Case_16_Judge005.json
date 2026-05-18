@@ -1,0 +1,183 @@
+{
+  "case": "1995 Case 16__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T01:29:48.239414+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6536,
+          6753
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical picture presented here is complex and multifocal, involving three major organ systems: the heart, the lungs, and the immune system, with overlapping features that challenge a unitary diagnostic framework."
+    },
+    {
+      "ranges": [
+        [
+          7728,
+          7850
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediately compelling diagnostic category is **tuberculosis**, despite the negative TST and sputum AFB findings."
+    },
+    {
+      "ranges": [
+        [
+          8071,
+          8349
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The negative TST at presentation is not reassuring: in advanced or disseminated tuberculosis, particularly in the setting of severe malnutrition, immunosuppression (even if not HIV-related), or overwhelming disease burden, anergy can develop, rendering the TST falsely negative."
+    },
+    {
+      "ranges": [
+        [
+          8425,
+          8717
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The pulmonary nodules described—10 mm, bilateral, confluent in the right upper lobe, centered on bronchovascular bundles, with bronchial wall thickening and segmental air-space disease—are classic for **tuberculous granulomatous pneumonia**, especially in the setting of reactivation disease."
+    },
+    {
+      "ranges": [
+        [
+          9004,
+          9328
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The myocardial involvement is less commonly recognized but not unheard of: tuberculous myocarditis, though often subclinical, can lead to granulomatous infiltration of the myocardium, resulting in arrhythmogenic substrate, conduction abnormalities, and progressive systolic dysfunction indistinguishable from idiopathic DCM."
+    },
+    {
+      "ranges": [
+        [
+          10625,
+          10846
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A closely related differential is **sarcoidosis**, a systemic granulomatous disease of unknown etiology that classically presents with bilateral hilar lymphadenopathy and pulmonary nodules, often with cardiac involvement."
+    },
+    {
+      "ranges": [
+        [
+          10847,
+          10971
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cardiac sarcoidosis is a well-recognized cause of unexplained ventricular tachycardia and DCM, particularly in young adults."
+    },
+    {
+      "ranges": [
+        [
+          12921,
+          13088
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another important consideration is **fungal infection**, particularly **histoplasmosis**, which is endemic in the Caribbean and the Ohio and Mississippi River valleys."
+    },
+    {
+      "ranges": [
+        [
+          10350,
+          10623
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that *Staphylococcus aureus* and *Enterobacter aerogenes* were cultured from sputum likely represents colonization or secondary bacterial overgrowth in the setting of impaired mucociliary clearance from underlying granulomatous inflammation, not primary infection."
+    },
+    {
+      "ranges": [
+        [
+          17023,
+          17177
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **combination of cardiac and pulmonary granulomatous disease** strongly points to either **tuberculosis** or **sarcoidosis** as the leading diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          17178,
+          17442
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Between the two, tuberculosis is more likely given the patient’s Caribbean origin (high TB burden), prior positive TSTs, family history, discontinuation of isoniazid, and the radiographic pattern of nodules centered on bronchovascular bundles with lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          17443,
+          17551
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The negative TST is likely due to anergy from chronic infection, a well-known phenomenon in disseminated TB."
+    },
+    {
+      "ranges": [
+        [
+          17826,
+          17962
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of mild pericardial effusion and right heart failure may reflect concomitant pericardial or pulmonary vascular involvement."
+    },
+    {
+      "ranges": [
+        [
+          18545,
+          18716
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The next diagnostic step should be bronchoscopy with bronchoalveolar lavage for AFB smear, culture, and PCR, as well as transbronchial lung biopsy for granuloma detection."
+    },
+    {
+      "ranges": [
+        [
+          18436,
+          18544
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The clinical, radiographic, and epidemiological evidence strongly favors TB, despite negative initial tests."
+    },
+    {
+      "ranges": [
+        [
+          19026,
+          19143
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The arrhythmias are likely secondary to granulomatous myocardial infiltration, not primary idiopathic cardiomyopathy."
+    }
+  ]
+}

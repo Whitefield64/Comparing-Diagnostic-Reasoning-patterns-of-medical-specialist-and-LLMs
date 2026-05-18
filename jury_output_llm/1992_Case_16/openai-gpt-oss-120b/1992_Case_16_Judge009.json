@@ -1,0 +1,128 @@
+{
+  "case": "1992 Case 16__openai-gpt-oss-120b.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-17T23:51:44.785214+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          26098,
+          26277
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The two entities that best reconcile *all* the clinical, laboratory, and imaging data are **Langerhans cell histiocytosis (eosinophilic granuloma)** and **primary bone lymphoma**."
+    },
+    {
+      "ranges": [
+        [
+          26279,
+          26505
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Both can present as a solitary, osteolytic vertebral body lesion with a posterior epidural extension causing early cord compression, and both can be associated with a modestly elevated ESR and subtle hematologic abnormalities."
+    },
+    {
+      "ranges": [
+        [
+          27237,
+          27399
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s symptoms were **precipitated by minor trauma**, a frequent scenario where a dormant eosinophilic granuloma becomes symptomatic after a “second hit”."
+    },
+    {
+      "ranges": [
+        [
+          29948,
+          30196
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the biopsy yields a **granulomatous infiltrate with Langerhans cells**, the diagnosis of eosinophilic granuloma is confirmed, and treatment would shift toward **corticosteroid therapy, limited radiotherapy, or curettage** depending on stability."
+    },
+    {
+      "ranges": [
+        [
+          30198,
+          30347
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Conversely, a **lymphoid malignancy** would necessitate **systemic chemotherapy (e.g., CHOP‑like regimen) and possibly involved‑field radiotherapy**."
+    },
+    {
+      "ranges": [
+        [
+          22508,
+          22598
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "rimary bone lymphoma** is a **strong contender** and must be kept high on the differential"
+    },
+    {
+      "ranges": [
+        [
+          28655,
+          28854
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "theless, **primary bone lymphoma** is less common than spinal LCH, and the radiographic description does not highlight the **homogeneous, infiltrative pattern** that is often emphasized for lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          26594,
+          26783
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The combination of a **superoposterior C5 vertebral body lysis** and a **posterior soft‑tissue mass** is a classic description for an eosinophilic granuloma extending into the spinal canal."
+    },
+    {
+      "ranges": [
+        [
+          20521,
+          20608
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient’s age (27) is on the upper edge for Ewing, but still within possible range."
+    },
+    {
+      "ranges": [
+        [
+          33506,
+          33685
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The histopathology will guide whether the patient requires **local therapy (curettage, low‑dose radiotherapy)** for LCH or **systemic chemotherapy and radiotherapy** for lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          27757,
+          28000
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "\n5. **Absence of Systemic Infection** – The lack of fever, normal WBC differential (except overall low count), and a **localized** lesion without paravertebral abscess argue against infection, making a benign neoplastic process more plausible."
+    }
+  ]
+}

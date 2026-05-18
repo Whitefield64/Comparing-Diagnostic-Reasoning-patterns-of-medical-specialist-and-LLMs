@@ -1,0 +1,117 @@
+{
+  "case": "1992 Case 16__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-17T23:38:18.601100+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4156,
+          4336
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient presents with a complex clinical picture, characterized by cervical pain radiating to the left shoulder, paresthesias in the left hand, and clumsiness of the left hand."
+    },
+    {
+      "ranges": [
+        [
+          4969,
+          5181
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of trauma, the initial differential diagnosis should include conditions related to the traumatic events, such as fractures, dislocations, or ligamentous injuries of the cervical spine."
+    },
+    {
+      "ranges": [
+        [
+          5287,
+          5463
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of an osteolytic lesion and a soft-tissue mass on the CT scan suggests a more complex process, possibly involving infection, inflammation, or a neoplastic process."
+    },
+    {
+      "ranges": [
+        [
+          5464,
+          5618
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Infectious processes, such as osteomyelitis or discitis, should be considered, especially given the patient's history of infected cuticles and paronychia."
+    },
+    {
+      "ranges": [
+        [
+          6451,
+          6580
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's hematocrit and white-cell count are within normal limits, which makes a chronic inflammatory condition less likely."
+    },
+    {
+      "ranges": [
+        [
+          8770,
+          8957
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's symptoms and imaging findings suggest a serious underlying condition, and prompt diagnosis and treatment are essential to prevent further complications and improve outcomes."
+    },
+    {
+      "ranges": [
+        [
+          10256,
+          10437
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of a soft-tissue mass protruding into the neural canal raises concerns about spinal cord compression, which could lead to serious neurologic deficits if left untreated."
+    },
+    {
+      "ranges": [
+        [
+          5944,
+          6108
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The erythrocyte sedimentation rate of 50 mm per hour does suggest some degree of inflammation, which could be consistent with an infectious or inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          13340,
+          13538
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's occupation as a surgical assistant and her history of infected cuticles and paronychia also raise concerns about the possibility of an occupational exposure to a pathogen or a foreign "
+    },
+    {
+      "ranges": [
+        [
+          7798,
+          7999
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "s, a rare condition such as a spinal hemangioma or aneurysmal bone cyst could be considered. These conditions can cause osteolytic lesions and soft-tissue masses, and can present with similar symptoms."
+    }
+  ]
+}

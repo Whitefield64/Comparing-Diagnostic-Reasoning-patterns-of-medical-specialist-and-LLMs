@@ -1,0 +1,40 @@
+{
+  "case": "1999 Case 10__openai-gpt-oss-120b.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-18T03:17:40.979370+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9627,
+          9925
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The constellation of **renal, pulmonary, neurologic, cutaneous, and vascular findings** suggests a systemic process that simultaneously targets small‑ to medium‑sized vessels, produces a **pulmonary‑renal syndrome**, and generates a **pro‑thrombotic state** leading to cortical infarcts and cutaneo"
+    },
+    {
+      "ranges": [
+        [
+          9939,
+          10135
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential therefore must encompass:\n\n1. **ANCA‑associated small‑vessel vasculitides** (microscopic polyangiitis, granulomatosis with polyangiitis, eosinophilic granulomatosis with polyangii"
+    },
+    {
+      "ranges": [
+        [
+          34898,
+          35279
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's **multisystem presentation**—acute renal failure with active urinary sediment, bilateral pulmonary infiltrates suggestive of alveolar hemorrhage, multiple posterior cerebral infarcts causing cortical blindness, necrotic purpuric skin lesions, and systemic lymphadenopathy—most coherently fits a **pauci‑immune small‑vessel vasculitis**, specifically **microscopic pol"
+    }
+  ]
+}

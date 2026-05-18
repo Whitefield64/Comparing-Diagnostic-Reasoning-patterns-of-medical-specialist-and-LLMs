@@ -1,0 +1,95 @@
+{
+  "case": "1996 Case 02__openai-gpt-oss-120b.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T01:57:43.698395+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          12752,
+          12970
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most plausible benign entities—giant hemangioma, FNH, and HCA—each explain some imaging features but fail to account for the systemic inflammatory picture (recurrent fevers, weight loss) and the auscultatory bruit."
+    },
+    {
+      "ranges": [
+        [
+          12971,
+          13113
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Consequently, while they remain in the differential, the balance of evidence tilts toward a neoplastic process with a more aggressive biology."
+    },
+    {
+      "ranges": [
+        [
+          20652,
+          20837
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The imaging hallmark of a hypervascular lesion with a central scar, coupled with normal liver function and systemic inflammatory symptoms, points most strongly toward fibrolamellar HCC."
+    },
+    {
+      "ranges": [
+        [
+          15157,
+          15359
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s age (32 y), female sex, lack of cirrhosis or viral hepatitis, normal liver function tests, and normal AFP (not reported but likely normal given the full panel) align perfectly with FL‑HCC."
+    },
+    {
+      "ranges": [
+        [
+          26557,
+          26686
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the presence of a well‑defined central scar that persists on delayed images is more characteristic of fibrolamellar HCC than IPT."
+    },
+    {
+      "ranges": [
+        [
+          31310,
+          31556
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The table underscores that the constellation of a **hypervascular mass with a central scar**, **normal liver enzymes**, **normal tumor markers**, and **systemic constitutional symptoms** is most parsimoniously explained by **fibrolamellar hepatoc"
+    },
+    {
+      "ranges": [
+        [
+          26216,
+          26396
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The clinical picture (intermittent fevers, weight loss) aligns with an inflammatory pseudotumor. The imaging (hypervascular mass with central scar) also fits, as some IPTs develop "
+    },
+    {
+      "ranges": [
+        [
+          35405,
+          35693
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Fibrolamellar HCC uniquely integrates all observed elements: it occurs in young adults without cirrhosis, presents as a hypervascular mass with a central fibrous scar, often elicits systemic inflammatory symptoms (fever, weight loss), and typically shows normal AFP and liver chemistries."
+    }
+  ]
+}

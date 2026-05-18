@@ -1,0 +1,29 @@
+{
+  "case": "1995 Case 16__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T01:26:00.739697+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17029,
+          17171
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "combination of cardiac and pulmonary granulomatous disease** strongly points to either **tuberculosis** or **sarcoidosis** as the leading diag"
+    },
+    {
+      "ranges": [
+        [
+          9004,
+          9328
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The myocardial involvement is less commonly recognized but not unheard of: tuberculous myocarditis, though often subclinical, can lead to granulomatous infiltration of the myocardium, resulting in arrhythmogenic substrate, conduction abnormalities, and progressive systolic dysfunction indistinguishable from idiopathic DCM."
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "case": "1992 Case 16__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-17T23:37:45.834661+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5008,
+          5181
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the initial differential diagnosis should include conditions related to the traumatic events, such as fractures, dislocations, or ligamentous injuries of the cervical spine."
+    },
+    {
+      "ranges": [
+        [
+          5182,
+          5285
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the X-ray and CT scans did not reveal any fractures or malalignment, making these less likely."
+    },
+    {
+      "ranges": [
+        [
+          5287,
+          5463
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of an osteolytic lesion and a soft-tissue mass on the CT scan suggests a more complex process, possibly involving infection, inflammation, or a neoplastic process."
+    },
+    {
+      "ranges": [
+        [
+          5464,
+          5618
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Infectious processes, such as osteomyelitis or discitis, should be considered, especially given the patient's history of infected cuticles and paronychia."
+    },
+    {
+      "ranges": [
+        [
+          5619,
+          5737
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "These conditions could lead to destruction of the vertebral body and disc space, consistent with the imaging findings."
+    },
+    {
+      "ranges": [
+        [
+          5747,
+          5943
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the patient's lack of systemic symptoms such as fever, chills, or night sweats makes an infectious process less likely, although it cannot be ruled out entirely without further diagnostic testing."
+    },
+    {
+      "ranges": [
+        [
+          5944,
+          6108
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The erythrocyte sedimentation rate of 50 mm per hour does suggest some degree of inflammation, which could be consistent with an infectious or inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          6581,
+          6726
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Neoplastic processes, either primary or metastatic, should also be considered, given the presence of an osteolytic lesion and a soft-tissue mass."
+    },
+    {
+      "ranges": [
+        [
+          6727,
+          6860
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Primary tumors of the spine, such as osteosarcoma or chordoma, are rare but could present with similar symptoms and imaging findings."
+    },
+    {
+      "ranges": [
+        [
+          7059,
+          7204
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's neurologic symptoms, including paresthesias and clumsiness of the left hand, suggest involvement of the spinal cord or nerve roots."
+    },
+    {
+      "ranges": [
+        [
+          10256,
+          10437
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The presence of a soft-tissue mass protruding into the neural canal raises concerns about spinal cord compression, which could lead to serious neurologic deficits if left untreated."
+    },
+    {
+      "ranges": [
+        [
+          8770,
+          8957
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's symptoms and imaging findings suggest a serious underlying condition, and prompt diagnosis and treatment are essential to prevent further complications and improve outcomes."
+    },
+    {
+      "ranges": [
+        [
+          7999,
+          8182
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": " The patient's occupation as a surgical assistant and her history of infected cuticles and paronychia raise the possibility of an occupational exposure to a pathogen or a foreign body"
+    },
+    {
+      "ranges": [
+        [
+          8958,
+          9115
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnoses at this point include an infectious process, such as osteomyelitis or discitis, and a neoplastic process, either primary or metastatic."
+    },
+    {
+      "ranges": [
+        [
+          9469,
+          9689
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Further evaluation, including laboratory studies such as blood cultures and inflammatory markers, and additional imaging studies, such as a bone scan or a PET scan, may be helpful in narrowing the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9690,
+          9771
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "A biopsy of the lesion may also be necessary to establish a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          16253,
+          16477
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms and imaging findings suggest a complex and challenging case, and further evaluation and diagnostic testing will be necessary to establish a definitive diagnosis and develop an effective treatment plan."
+    },
+    {
+      "ranges": [
+        [
+          13014,
+          13180
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's case highlights the importance of a thorough diagnostic evaluation, including a complete history, physical examination, laboratory studies, and imaging."
+    },
+    {
+      "ranges": [
+        [
+          8770,
+          8957
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's symptoms and imaging findings suggest a serious underlying condition, and prompt diagnosis and treatment are essential to prevent further complications and improve outcomes."
+    },
+    {
+      "ranges": [
+        [
+          13340,
+          13663
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's occupation as a surgical assistant and her history of infected cuticles and paronychia also raise concerns about the possibility of an occupational exposure to a pathogen or a foreign body, and further evaluation may be necessary to identify potential risks and develop strategies to prevent further exposure."
+    }
+  ]
+}

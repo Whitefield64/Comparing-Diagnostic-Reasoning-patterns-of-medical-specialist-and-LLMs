@@ -1,0 +1,139 @@
+{
+  "case": "1991 Case 43__openai-gpt-oss-120b.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-17T23:21:23.032815+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          36519,
+          36758
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The preponderance of evidence points toward CMV as the primary pathogen driving the patient’s pulmonary disease:\n\n1. **Immunologic susceptibility** – CD4⁺ count < 50 cells µL⁻¹ places CMV at the top of the opportunistic infection hierarchy"
+    },
+    {
+      "ranges": [
+        [
+          36433,
+          36512
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "CMV) pneumonitis, possibly compounded by pentamidine‑induced interstitial injur"
+    },
+    {
+      "ranges": [
+        [
+          36789,
+          36966
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Hemoptysis, a hallmark of CMV bronchitis, is present. The patient also has a **small apical pneumothorax**, a known (though uncommon) complication of CMV‑related cystic changes."
+    },
+    {
+      "ranges": [
+        [
+          38402,
+          38621
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If CMV is confirmed, the appropriate therapy would be **intravenous ganciclovir** (5 mg/kg q12h) or **foscarnet** if cytopenias preclude ganciclovir, followed by secondary prophylaxis once clinical response is achieved."
+    },
+    {
+      "ranges": [
+        [
+          38010,
+          38181
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "To confirm CMV pneumonitis, the following steps would be essential:\n\n- **Quantitative CMV PCR** on BAL fluid and plasma (viral load > 10⁴ copies/mL is strongly supportive)"
+    },
+    {
+      "ranges": [
+        [
+          37706,
+          37867
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of **mixed bacterial flora and Candida** in BAL likely reflects colonization secondary to the disrupted airway defenses, rather than true infection."
+    },
+    {
+      "ranges": [
+        [
+          42743,
+          43105
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s presentation epitomizes the diagnostic complexity of pulmonary disease in advanced AIDS. A systematic appraisal of the data highlights **CMV pneumonitis** as the most compelling diagnosis, supported by the immunologic milieu, characteristic clinical signs (hemoptysis, diffuse nodular infiltrates), and laboratory markers (high LDH, high ferritin)."
+    },
+    {
+      "ranges": [
+        [
+          37160,
+          37330
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "Diffuse fine nodular opacities with subtle hilar prominence are described in CMV pneumonitis; the pattern can be indistinguishable from PCP or atypical fungal infections."
+    },
+    {
+      "ranges": [
+        [
+          43106,
+          43331
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The **negative microbiologic studies for PCP**, **absence of endobronchial lesions for Kaposi sarcoma**, and **lack of convincing evidence for mycobacterial infection** shift the diagnostic hierarchy away from those entities."
+    },
+    {
+      "ranges": [
+        [
+          43567,
+          43750
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The detection of **Candida and Mycoplasma** in BAL reflects colonization rather than true infection, but secondary bacterial superinfection cannot be excluded and should be monitored."
+    },
+    {
+      "ranges": [
+        [
+          38862,
+          39110
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Pentamidine‑induced interstitial pneumonitis** – The temporal relationship with aerosol administration, the bronchospasm, and the persistence of interstitial infiltrates after discontinuation of pentamidine argue for a **superimposed drug reaction*"
+    },
+    {
+      "ranges": [
+        [
+          43752,
+          44027
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Given the patient’s **poor adherence** to antiretroviral therapy and the **progressive anemia**, a **comprehensive re‑evaluation**—including CMV PCR, histoplasma antigen testing, repeat BAL with CMV immunostaining, and possibly a video‑assisted thoracoscopic lung biopsy—will"
+    }
+  ]
+}

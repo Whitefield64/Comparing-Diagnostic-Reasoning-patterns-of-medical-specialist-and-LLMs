@@ -1,0 +1,29 @@
+{
+  "case": "1990 Case 19__openai-gpt-oss-120b.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-17T22:42:06.963654+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          35473,
+          35615
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The two most compelling candidates, based on the totality of data, are **alveolar echinococcosis** and **undifferentiated embryonal sarcoma**."
+    },
+    {
+      "ranges": [
+        [
+          15852,
+          16046
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Alveolar echinococcosis is a strong contender, particularly because it explains the hybrid cystic‑solid morphology, the non‑enhancing nature of the lesion, and the systemic inflammatory picture."
+    }
+  ]
+}

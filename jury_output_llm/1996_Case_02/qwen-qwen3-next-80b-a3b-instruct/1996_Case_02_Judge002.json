@@ -1,0 +1,117 @@
+{
+  "case": "1996 Case 02__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-18T02:11:58.010223+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          11493,
+          11583
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling alternative is a benign but locally aggressive tumor: hepatic adenoma."
+    },
+    {
+      "ranges": [
+        [
+          15219,
+          15312
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The final and most likely diagnosis, given the constellation of findings, is hepatic adenoma."
+    },
+    {
+      "ranges": [
+        [
+          12949,
+          13039
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another rare but critical consideration is a hepatic metastasis from a primary malignancy."
+    },
+    {
+      "ranges": [
+        [
+          14418,
+          14524
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another possibility is a primary hepatic sarcoma—such as angiosarcoma or epithelioid hemangioendothelioma."
+    },
+    {
+      "ranges": [
+        [
+          5969,
+          6176
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The presence of a central scar is more characteristic of focal nodular hyperplasia (FNH), but FNH is typically asymptomatic, does not cause fever or weight loss, and is not associated with systemic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          6354,
+          6429
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The systolic bruit over the mass is perhaps the most telling physical sign."
+    },
+    {
+      "ranges": [
+        [
+          12358,
+          12486
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The intermittent fevers could be due to small, self-resolving hemorrhagic episodes or inflammatory reactions to necrotic tissue."
+    },
+    {
+      "ranges": [
+        [
+          12487,
+          12605
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The weight loss is unusual for adenoma, but could reflect chronic pain, anorexia, or a systemic inflammatory response."
+    },
+    {
+      "ranges": [
+        [
+          11173,
+          11245
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the eosinophil count were elevated, HES would be a top consideration."
+    },
+    {
+      "ranges": [
+        [
+          7552,
+          7667
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the absence of elevated alpha-fetoprotein (AFP)—though not routinely measured here—is a major argument against HCC."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "case": "2001 Case 20__openai-gpt-oss-120b.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T04:05:49.359335+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23988,
+          24215
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "most compelling working diagnosis** is **subacute infective endocarditis caused by *Moraxella phenylpyruvica***, with the ulcerated atherosclerotic plaque serving either as a secondary nidus or as a conduit for bacterial seedin"
+    },
+    {
+      "ranges": [
+        [
+          31191,
+          31387
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "preponderance of evidence** points toward a **low‑grade, subacute infective process involving the cardiovascular system**, most plausibly **infective endocarditis caused by *Moraxella phenylpyruvi"
+    },
+    {
+      "ranges": [
+        [
+          30114,
+          30389
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If infected aortic plaque (infective aortitis) is the primary source**:  \n   - **Prolonged intravenous β‑lactam therapy** (≥6 weeks) is required; cefuroxime penetrates the aortic wall reasonably well, but **high‑dose ceftriaxone** or a **carbapenem** could be considered for "
+    },
+    {
+      "ranges": [
+        [
+          27427,
+          27533
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s temperature normalized after 48 h of cefuroxime, suggesting **adequate antimicrobial activit"
+    },
+    {
+      "ranges": [
+        [
+          27539,
+          27794
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, **persistent low‑grade bacteremia (culture positive on day 6)** raises the possibility that the antibiotic penetrates poorly into the **avascular plaque or micro‑vegetations**, or that the bacterial load within the plaque is **protected by a fibr"
+    },
+    {
+      "ranges": [
+        [
+          25460,
+          25635
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Ulceration exposes the subendothelial matrix (collagen, fibronectin) and releases tissue factor, promoting platelet aggregation and a local inflammatory milieu rich in fibrin."
+    }
+  ]
+}

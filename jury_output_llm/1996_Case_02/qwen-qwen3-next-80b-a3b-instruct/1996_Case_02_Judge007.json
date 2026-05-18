@@ -1,0 +1,95 @@
+{
+  "case": "1996 Case 02__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T02:14:05.872392+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          11493,
+          11583
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling alternative is a benign but locally aggressive tumor: hepatic adenoma."
+    },
+    {
+      "ranges": [
+        [
+          15219,
+          15312
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The final and most likely diagnosis, given the constellation of findings, is hepatic adenoma."
+    },
+    {
+      "ranges": [
+        [
+          12949,
+          13039
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another rare but critical consideration is a hepatic metastasis from a primary malignancy."
+    },
+    {
+      "ranges": [
+        [
+          14418,
+          14524
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another possibility is a primary hepatic sarcoma—such as angiosarcoma or epithelioid hemangioendothelioma."
+    },
+    {
+      "ranges": [
+        [
+          4936,
+          5276
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The key diagnostic clues are the chronicity of symptoms (four years), the cyclical nature of fevers (every four to six months), the 18 kg weight loss over 18 months, the presence of a large (8 cm), hypervascular, solid hepatic mass with central necrosis on imaging, and the associated systolic bruit—a rare but highly significant physical f"
+    },
+    {
+      "ranges": [
+        [
+          7420,
+          7546
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The central necrosis could represent tumor outgrowth beyond its blood supply, and the hypervascularity is consistent with HCC."
+    },
+    {
+      "ranges": [
+        [
+          12358,
+          12486
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The intermittent fevers could be due to small, self-resolving hemorrhagic episodes or inflammatory reactions to necrotic tissue."
+    },
+    {
+      "ranges": [
+        [
+          14061,
+          14159
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the CT scan did not include dedicated renal imaging, a small renal mass could have been missed."
+    }
+  ]
+}

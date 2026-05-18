@@ -1,0 +1,216 @@
+{
+  "case": "2001 Case 36__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T05:09:54.888633+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6490,
+          6730
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate consideration is **opportunistic pulmonary infection**, particularly given his history of *Pneumocystis jirovecii* pneumonia (formerly *carinii*) on at least two prior occasions, and his current immunosuppressive regimen."
+    },
+    {
+      "ranges": [
+        [
+          8149,
+          8309
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A second critical infectious consideration is **viral pneumonia**, particularly from respiratory syncytial virus (RSV), influenza, parainfluenza, or adenovirus."
+    },
+    {
+      "ranges": [
+        [
+          9733,
+          9832
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A third major infectious category is **bacterial pneumonia**, but the differential here is nuanced."
+    },
+    {
+      "ranges": [
+        [
+          10524,
+          10655
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "More concerning is the possibility of **nontuberculous mycobacterial (NTM) infection**, particularly *Mycobacterium avium complex*."
+    },
+    {
+      "ranges": [
+        [
+          11347,
+          11437
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another critical consideration is **fungal infection**, especially invasive aspergillosis."
+    },
+    {
+      "ranges": [
+        [
+          12335,
+          12488
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential must also include **non-infectious causes of pulmonary deterioration**, particularly those related to his underlying autoimmune disease."
+    },
+    {
+      "ranges": [
+        [
+          13984,
+          14053
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another non-infectious consideration is **drug-induced lung injury**."
+    },
+    {
+      "ranges": [
+        [
+          14973,
+          15082
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A more subtle but important consideration is **gastroesophageal reflux disease (GERD) with microaspiration**."
+    },
+    {
+      "ranges": [
+        [
+          15845,
+          15956
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Finally, we must consider **malignancy**, though it is less likely as a primary cause of acute febrile illness."
+    },
+    {
+      "ranges": [
+        [
+          7021,
+          7364
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The classic radiographic appearance of *P. jirovecii* is bilateral, symmetric, perihilar interstitial infiltrates, often with a “ground-glass” pattern, but in immunocompromised hosts with prolonged disease or prior lung injury, it may present with patchy, linear, or consolidative opacities that mimic other pneumonias or organizing pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          13348,
+          13443
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The radiographic findings of patchy, linear opacities are consistent with organizing pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          16872,
+          17272
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The top three diagnostic possibilities are: (1) *Pneumocystis jirovecii* pneumonia, given his history, current prophylaxis status, and immunosuppressive regimen; (2) an acute flare of antisynthetase syndrome-related organizing pneumonia, triggered by steroid tapering; and (3) viral pneumonia, particularly influenza or RSV, given the prodromal upper respiratory symptoms and immunocompromised state."
+    },
+    {
+      "ranges": [
+        [
+          6731,
+          6966
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although he is on trimethoprim–sulfamethoxazole prophylaxis, its dose has been reduced to one tablet three times weekly—a suboptimal regimen for full protection, especially in the setting of ongoing corticosteroid use and cyclosporine."
+    },
+    {
+      "ranges": [
+        [
+          7810,
+          8005
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The recent reduction in trimethoprim–sulfamethoxazole prophylaxis and the taper of prednisone from 15 mg to 5 mg likely created a window of relative immunosuppression sufficient for reactivation."
+    },
+    {
+      "ranges": [
+        [
+          7365,
+          7633
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of hypoxemia (SaO₂ 98%) is atypical for severe *P. jirovecii*, but this patient has significant baseline restrictive and obstructive lung disease from prior organizing pneumonia and diffuse alveolar damage, which may blunt the expected degree of hypoxemia."
+    },
+    {
+      "ranges": [
+        [
+          11980,
+          12059
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of fever, cough, and dyspnea in this context is highly suspicious."
+    },
+    {
+      "ranges": [
+        [
+          6007,
+          6290
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "His immune status is uniquely compromised by a triad of factors: chronic high-dose corticosteroid therapy, chronic immunosuppression with cyclosporine and prior cyclophosphamide, and underlying diabetes mellitus with its attendant defects in neutrophil function and mucosal immunity."
+    },
+    {
+      "ranges": [
+        [
+          12480,
+          12726
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "disease. He has a well-documented history of **bronchiolitis obliterans with organizing pneumonia (BOOP)**, now termed cryptogenic organizing pneumonia (COP), and **polymyositis with anti-Jo-1 antibody**, which defines an antisynthetase syndrome."
+    },
+    {
+      "ranges": [
+        [
+          8310,
+          8538
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient received an influenza vaccine 10 days before the onset of symptoms, which reduces—but does not eliminate—the risk of influenza infection, especially in immunocompromised individuals who mount poor antibody responses."
+    }
+  ]
+}

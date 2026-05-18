@@ -1,0 +1,62 @@
+{
+  "case": "2003 Case 39__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T06:54:39.899161+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          16501,
+          16963
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) urothelial carcinoma, given the classic presentation of painless gross hematuria, bladder mass, and age-appropriate risk profile; (2) urachal adenocarcinoma, due to the dome location and the potential for misdiagnosis as urothelial carcinoma; and (3) granulomatous cystitis, particularly tuberculosis, given the patient’s origin in Hong Kong, chronicity of symptoms, weight loss, and lack of response to antibiotics."
+    },
+    {
+      "ranges": [
+        [
+          6321,
+          6378
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate concern is a primary bladder neoplasm."
+    },
+    {
+      "ranges": [
+        [
+          6053,
+          6319
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The persistence of hematuria despite antibiotic therapy, the development of urinary retention, and the visualization of a distinct bladder mass shift the diagnostic focus toward structural, neoplastic, or inflammatory processes confined to the bladder wall or lumen."
+    },
+    {
+      "ranges": [
+        [
+          17392,
+          17620
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The differential will be definitively resolved by biopsy, which will distinguish between epithelial malignancy (urothelial or adenocarcinoma), granulomatous inflammation (TB or fungal), or rare entities like lymphoma or sarcoma."
+    },
+    {
+      "ranges": [
+        [
+          17824,
+          18053
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The possibility of tuberculosis must not be overlooked in this patient’s demographic context and must be actively ruled out with acid-fast staining, culture, and possibly PCR for Mycobacterium tuberculosis on the biopsy specimen."
+    }
+  ]
+}

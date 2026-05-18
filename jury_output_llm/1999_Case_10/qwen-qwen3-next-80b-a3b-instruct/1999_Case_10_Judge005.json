@@ -1,0 +1,183 @@
+{
+  "case": "1999 Case 10__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T03:34:53.265159+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9583,
+          9755
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is **antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV)**, particularly **microscopic polyangiitis (MPA)**."
+    },
+    {
+      "ranges": [
+        [
+          11547,
+          11753
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential must also include **polyarteritis nodosa (PAN)**, a medium-vessel vasculitis that classically spares the lungs but can involve the kidneys, gastrointestinal tract, skin, and nervous system."
+    },
+    {
+      "ranges": [
+        [
+          12479,
+          12639
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another critical consideration is **thrombotic microangiopathy (TMA)**, including thrombotic thrombocytopenic purpura (TTP) and hemolytic uremic syndrome (HUS)."
+    },
+    {
+      "ranges": [
+        [
+          15226,
+          15443
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s age, chronic gastritis, left-sided hydronephrosis, and newly palpable supraclavicular and axillary lymphadenopathy raise concern for an occult malignancy, particularly gastric adenocarcinoma or lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          14081,
+          14193
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "**Systemic lupus erythematosus (SLE)** with lupus nephritis and neuropsychiatric involvement must be considered."
+    },
+    {
+      "ranges": [
+        [
+          15149,
+          15225
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "**Cancer-associated paraneoplastic syndromes** must be aggressively pursued."
+    },
+    {
+      "ranges": [
+        [
+          18363,
+          18494
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **renal findings**—bilateral hydronephrosis, decreased nephrogram, and stent placement for nonfilling left ureter—are puzzling."
+    },
+    {
+      "ranges": [
+        [
+          18784,
+          19080
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The CT finding of anterior pericardial thickening and pararenal fluid raises the possibility of **IgG4-related disease**, which can involve the kidneys (tubulointerstitial nephritis), retroperitoneum, pancreas, and pericardium, and can present with systemic inflammation and elevated IgG4 levels."
+    },
+    {
+      "ranges": [
+        [
+          8895,
+          9236
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The constellation of findings—particularly the combination of rapidly progressive renal failure with dysmorphic hematuria, systemic vasculitis manifesting as palpable purpura with central necrosis, bilateral occipital infarcts, pulmonary infiltrates, and lymphadenopathy—points decisively toward a systemic vasculitic or thrombotic disorder."
+    },
+    {
+      "ranges": [
+        [
+          9237,
+          9581
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of fever, negative cultures, and lack of response to broad-spectrum antibiotics and corticosteroids further diminishes the likelihood of a primary infectious or inflammatory process and instead directs attention toward an immune-mediated, small-vessel vasculitis or a paraneoplastic syndrome with systemic microvascular involvement."
+    },
+    {
+      "ranges": [
+        [
+          12033,
+          12280
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient’s pulmonary infiltrates, pleural effusions, and evidence of alveolar hemorrhage (suggested by the chest CT findings of air-space disease and the presence of dysmorphic RBCs in urine) strongly argue against PAN as the primary diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          12281,
+          12477
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The cutaneous lesions in PAN are typically livedo reticularis, nodules, or ulcers—not the palpable purpura with central necrosis seen here, which is more characteristic of small-vessel vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          11115,
+          11344
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The skin biopsy showing intravascular coagulation and lymphocytic inflammation is consistent with leukocytoclastic vasculitis, which may occur in MPA, particularly when there is significant fibrinoid necrosis and microthrombosis."
+    },
+    {
+      "ranges": [
+        [
+          11345,
+          11545
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of lymphadenopathy and pararenal soft-tissue thickening may reflect systemic inflammatory infiltration or, less commonly, secondary lymphoid hyperplasia due to chronic immune stimulation."
+    },
+    {
+      "ranges": [
+        [
+          16568,
+          16810
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": " progression of renal failure, neurologic decline, and pulmonary infiltrates over weeks is more consistent with a rapidly progressive malignancy than a primary vasculitis, especially given the lymphadenopathy and pararenal soft-tissue changes"
+    },
+    {
+      "ranges": [
+        [
+          16152,
+          16325
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The fact that the patient was unable to tolerate *H. pylori* eradication and had persistent gastritis may reflect an underlying malignancy masquerading as chronic gastritis."
+    }
+  ]
+}

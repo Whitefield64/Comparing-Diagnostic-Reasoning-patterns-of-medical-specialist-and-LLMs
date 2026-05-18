@@ -1,0 +1,1074 @@
+{
+  "case": "2003 Case 39__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T06:17:15.202361+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5568,
+          5691
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the sudden onset of symptoms and the presence of clots, it is essential to consider both benign and malignant causes."
+    },
+    {
+      "ranges": [
+        [
+          5692,
+          5876
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's recent weight loss and history of hepatitis B infection also need to be taken into account, although their relevance to the current presentation is not immediately clear."
+    },
+    {
+      "ranges": [
+        [
+          5979,
+          6129
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Glomerular causes, such as glomerulonephritis, typically present with microscopic hematuria, proteinuria, and often, other signs of renal dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          6130,
+          6288
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the patient's presentation with gross hematuria and the absence of significant proteinuria or renal dysfunction makes a glomerular cause less likely."
+    },
+    {
+      "ranges": [
+        [
+          6289,
+          6451
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Non-glomerular causes, which include conditions affecting the urinary tract from the renal pelvis to the urethra, are more consistent with the patient's symptoms."
+    },
+    {
+      "ranges": [
+        [
+          6453,
+          6567
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Among non-glomerular causes, urinary tract infections (UTIs) are a common cause of hematuria, especially in women."
+    },
+    {
+      "ranges": [
+        [
+          6679,
+          6814
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the persistence and worsening of hematuria despite antibiotic treatment suggest that a UTI might not be the sole cause of her symptoms."
+    },
+    {
+      "ranges": [
+        [
+          6840,
+          6936
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": " of a mass in the bladder, as seen on cystoscopy, indicates a more complex condition.\n\nThe findi"
+    },
+    {
+      "ranges": [
+        [
+          6927,
+          7009
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The finding of a mass in the bladder dome is highly suggestive of a bladder tumor."
+    },
+    {
+      "ranges": [
+        [
+          7010,
+          7109
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Bladder cancer, particularly transitional cell carcinoma, is a well-known cause of gross hematuria."
+    },
+    {
+      "ranges": [
+        [
+          7110,
+          7264
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's age and sex are not typical for bladder cancer, which is more common in older men, but it cannot be ruled out without further investigation."
+    },
+    {
+      "ranges": [
+        [
+          7265,
+          7452
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Other types of bladder tumors, such as squamous cell carcinoma, are less common and usually associated with specific risk factors like chronic infection or certain occupational exposures."
+    },
+    {
+      "ranges": [
+        [
+          7454,
+          7545
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "In addition to neoplastic causes, several other conditions can cause a mass in the bladder."
+    },
+    {
+      "ranges": [
+        [
+          7546,
+          7623
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Stones, blood clots, or foreign bodies can sometimes be mistaken for a tumor."
+    },
+    {
+      "ranges": [
+        [
+          7624,
+          7809
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the CT scan did not show any stones, and the description of the mass as being 3 to 4 cm in diameter and located in the dome of the bladder makes these alternatives less likely."
+    },
+    {
+      "ranges": [
+        [
+          7810,
+          8026
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Inflammatory conditions, such as cystitis, can cause bladder wall thickening or masses, but these would typically be associated with significant symptoms of infection, which are not prominently featured in this case."
+    },
+    {
+      "ranges": [
+        [
+          8028,
+          8089
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's history of hepatitis B infection is noteworthy."
+    },
+    {
+      "ranges": [
+        [
+          8090,
+          8220
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Chronic hepatitis B infection is associated with an increased risk of certain types of cancer, including hepatocellular carcinoma."
+    },
+    {
+      "ranges": [
+        [
+          8221,
+          8293
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "However, there is no direct link between hepatitis B and bladder cancer."
+    },
+    {
+      "ranges": [
+        [
+          8294,
+          8573
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's hepatitis B status, as indicated by the presence of antibodies to hepatitis B antigen and a low viral load, suggests that she is not actively infected, which further reduces the likelihood of a direct connection between her hepatitis B history and current symptoms."
+    },
+    {
+      "ranges": [
+        [
+          8575,
+          8741
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the acute presentation and the absence of systemic symptoms suggestive of advanced malignancy, it is also important to consider benign causes of bladder masses."
+    },
+    {
+      "ranges": [
+        [
+          8742,
+          8822
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "These can include benign neoplasms like papillomas or inflammatory pseudotumors."
+    },
+    {
+      "ranges": [
+        [
+          8823,
+          8940
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, these conditions are less common and would not typically cause the degree of hematuria seen in this patient."
+    },
+    {
+      "ranges": [
+        [
+          8942,
+          9074
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The diagnostic procedure performed, the details of which are not provided, would be critical in establishing a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9075,
+          9285
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "If this procedure involved a biopsy of the bladder mass, the histopathological findings would be essential for differentiating between benign and malignant conditions, as well as for guiding further management."
+    },
+    {
+      "ranges": [
+        [
+          9287,
+          9475
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In conclusion, the differential diagnosis for this patient's gross hematuria and bladder mass includes bladder cancer, particularly transitional cell carcinoma, as a leading consideration."
+    },
+    {
+      "ranges": [
+        [
+          9476,
+          9633
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Other possibilities, such as benign bladder tumors, stones, or inflammatory conditions, are less likely given the clinical presentation and imaging findings."
+    },
+    {
+      "ranges": [
+        [
+          9634,
+          9797
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's history of hepatitis B infection, while important for her overall medical management, does not appear to be directly related to her current symptoms."
+    },
+    {
+      "ranges": [
+        [
+          9799,
+          9920
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "A definitive diagnosis awaits the results of the diagnostic procedure, which will guide further treatment and management."
+    },
+    {
+      "ranges": [
+        [
+          9921,
+          10078
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Considering the patient's symptoms and findings, a thorough evaluation for malignancy, including staging if a malignant diagnosis is confirmed, is essential."
+    },
+    {
+      "ranges": [
+        [
+          10079,
+          10254
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "This would involve further imaging, possibly including an MRI of the abdomen and pelvis, and a thorough review of the histopathological findings from the diagnostic procedure."
+    },
+    {
+      "ranges": [
+        [
+          10256,
+          10439
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Additionally, given the patient's young age and the presence of a significant bladder mass, genetic counseling and consideration of genetic predispositions to cancer may be warranted."
+    },
+    {
+      "ranges": [
+        [
+          10440,
+          10621
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of mixed bacteria in the urine culture and the initial treatment for a presumed UTI also suggest that an infectious cause may be contributing to the patient's symptoms."
+    },
+    {
+      "ranges": [
+        [
+          10622,
+          10747
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, the persistence of hematuria despite antibiotic treatment indicates that infection is unlikely to be the sole cause."
+    },
+    {
+      "ranges": [
+        [
+          10749,
+          10936
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "It is possible that the infection is secondary to the underlying condition causing the bladder mass, in which case, treatment of the underlying condition would also address the infection."
+    },
+    {
+      "ranges": [
+        [
+          10937,
+          11149
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In terms of systemic causes, while the patient's weight loss and history of hepatitis B infection are noteworthy, there is no clear indication that these factors are directly contributing to her current symptoms."
+    },
+    {
+      "ranges": [
+        [
+          11151,
+          11352
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's laboratory results, including normal liver function tests and a negative test for human chorionic gonadotropin, do not suggest any acute systemic illness that would explain her hematuria."
+    },
+    {
+      "ranges": [
+        [
+          11353,
+          11551
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Given the complexity of the patient's presentation and the need for a definitive diagnosis, a multidisciplinary approach involving urology, oncology, and possibly other specialties may be necessary."
+    },
+    {
+      "ranges": [
+        [
+          11553,
+          11686
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This would ensure that all aspects of the patient's care are addressed and that she receives appropriate treatment for her condition."
+    },
+    {
+      "ranges": [
+        [
+          11687,
+          11860
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's anxiety and the fact that she appears well despite her symptoms suggest that she may be experiencing significant psychological distress related to her illness."
+    },
+    {
+      "ranges": [
+        [
+          11861,
+          11970
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Addressing this through counseling or other supportive measures may be an important part of her overall care."
+    },
+    {
+      "ranges": [
+        [
+          11972,
+          12070
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "In summary, the patient's gross hematuria and bladder mass present a complex diagnostic challenge."
+    },
+    {
+      "ranges": [
+        [
+          12071,
+          12203
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "While bladder cancer is a leading consideration, other benign and malignant conditions must be ruled out through further evaluation."
+    },
+    {
+      "ranges": [
+        [
+          12204,
+          12395
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "A comprehensive approach to diagnosis and treatment, taking into account the patient's medical history, symptoms, and laboratory and imaging findings, is essential for providing optimal care."
+    },
+    {
+      "ranges": [
+        [
+          12397,
+          12620
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The fact that the patient is a native of Hong Kong and has relatives with hepatitis B viral antigen positivity highlights the importance of considering the patient's ethnic and familial background in her medical evaluation."
+    },
+    {
+      "ranges": [
+        [
+          12621,
+          12766
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, without more specific information about how these factors might relate to her current condition, their significance remains speculative."
+    },
+    {
+      "ranges": [
+        [
+          12768,
+          12939
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Ultimately, the diagnosis and management of this patient's condition will depend on the results of the diagnostic procedure and further evaluation by relevant specialists."
+    },
+    {
+      "ranges": [
+        [
+          12940,
+          13066
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the potential for a malignant diagnosis, prompt and thorough evaluation is crucial to ensure the best possible outcomes."
+    },
+    {
+      "ranges": [
+        [
+          13068,
+          13163
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "It is also important to consider the potential for rare causes of hematuria and bladder masses."
+    },
+    {
+      "ranges": [
+        [
+          13164,
+          13327
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "While these are less likely given the patient's presentation, they must be considered in the differential diagnosis to ensure that no possible cause is overlooked."
+    },
+    {
+      "ranges": [
+        [
+          13328,
+          13494
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Rare causes might include certain genetic syndromes associated with an increased risk of bladder cancer or other conditions that could explain the patient's symptoms."
+    },
+    {
+      "ranges": [
+        [
+          13496,
+          13599
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of ketones in the urine is an interesting finding, given the patient's recent weight loss."
+    },
+    {
+      "ranges": [
+        [
+          13600,
+          13742
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "While this could suggest a metabolic cause for her symptoms, it is more likely related to her dietary changes and increased level of exercise."
+    },
+    {
+      "ranges": [
+        [
+          13743,
+          13909
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, this finding should be considered in the context of her overall evaluation to ensure that no metabolic or systemic condition is contributing to her symptoms."
+    },
+    {
+      "ranges": [
+        [
+          13911,
+          14055
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In conclusion, the patient's gross hematuria and bladder mass require a comprehensive and multidisciplinary approach to diagnosis and treatment."
+    },
+    {
+      "ranges": [
+        [
+          14056,
+          14240
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Considering the range of possible causes, from benign to malignant, and addressing the patient's psychological distress and overall well-being are essential for providing optimal care."
+    },
+    {
+      "ranges": [
+        [
+          14242,
+          14420
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Further evaluation, including the results of the diagnostic procedure and specialist consultation, will be critical in establishing a definitive diagnosis and guiding management."
+    },
+    {
+      "ranges": [
+        [
+          14421,
+          14522
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Given the information provided, it is clear that the patient's condition is complex and multifaceted."
+    },
+    {
+      "ranges": [
+        [
+          14523,
+          14683
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The presence of a bladder mass, gross hematuria, and other symptoms suggests a significant underlying condition that requires thorough evaluation and treatment."
+    },
+    {
+      "ranges": [
+        [
+          14685,
+          14937
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "While a definitive diagnosis awaits further investigation, the consideration of a broad range of potential causes, including malignant, infectious, inflammatory, and rare conditions, is essential for ensuring that the patient receives appropriate care."
+    },
+    {
+      "ranges": [
+        [
+          14938,
+          15095
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's recent weight loss and history of hepatitis B infection are important aspects of her medical history that must be considered in her evaluation."
+    },
+    {
+      "ranges": [
+        [
+          12621,
+          12766
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, without more specific information about how these factors might relate to her current condition, their significance remains speculative."
+    },
+    {
+      "ranges": [
+        [
+          15243,
+          15433
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "It is possible that these factors are unrelated to her current symptoms, but they must be considered in the context of her overall evaluation to ensure that no potential cause is overlooked."
+    },
+    {
+      "ranges": [
+        [
+          15435,
+          15581
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Ultimately, the diagnosis and management of this patient's condition will depend on the results of further evaluation and specialist consultation."
+    },
+    {
+      "ranges": [
+        [
+          12940,
+          13066
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Given the potential for a malignant diagnosis, prompt and thorough evaluation is crucial to ensure the best possible outcomes."
+    },
+    {
+      "ranges": [
+        [
+          15709,
+          15900
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's care should be managed by a multidisciplinary team, including urologists, oncologists, and other relevant specialists, to ensure that all aspects of her condition are addressed."
+    },
+    {
+      "ranges": [
+        [
+          15902,
+          16091
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In terms of the next steps in the patient's evaluation and management, it is essential to consider the results of the diagnostic procedure and further imaging or laboratory tests as needed."
+    },
+    {
+      "ranges": [
+        [
+          16092,
+          16245
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient should also be evaluated by relevant specialists, including urologists and oncologists, to ensure that all aspects of her care are addressed."
+    },
+    {
+      "ranges": [
+        [
+          16247,
+          16428
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Given the potential for a malignant diagnosis, it is crucial to approach the patient's care with a sense of urgency and to ensure that she receives timely and appropriate treatment."
+    },
+    {
+      "ranges": [
+        [
+          16429,
+          16556
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's condition highlights the importance of a comprehensive and multidisciplinary approach to diagnosis and treatment."
+    },
+    {
+      "ranges": [
+        [
+          16558,
+          16760
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "By considering a broad range of potential causes and addressing the patient's psychological distress and overall well-being, it is possible to provide optimal care and ensure the best possible outcomes."
+    },
+    {
+      "ranges": [
+        [
+          20512,
+          20792
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's care should be managed by a multidisciplinary team of healthcare professionals, including urologists, oncologists, radiologists, and other specialists, to ensure that all aspects of her condition are addressed and that she receives comprehensive and supportive care."
+    },
+    {
+      "ranges": [
+        [
+          19187,
+          19400
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "By taking a comprehensive and multidisciplinary approach to the patient's care, it is possible to ensure that she receives optimal treatment and support, and that her overall health and well-being are prioritized."
+    },
+    {
+      "ranges": [
+        [
+          19401,
+          19587
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "This approach should involve careful consideration of the patient's medical history, symptoms, and laboratory and imaging findings, as well as her psychological and emotional well-being."
+    },
+    {
+      "ranges": [
+        [
+          19589,
+          19819
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's condition highlights the importance of a thorough and comprehensive approach to diagnosis and treatment, and the need for a multidisciplinary team of healthcare professionals to work together to provide optimal care."
+    },
+    {
+      "ranges": [
+        [
+          19820,
+          20067
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "By prioritizing the patient's overall health and well-being, and by taking a comprehensive and supportive approach to her care, it is possible to ensure that she receives the best possible outcomes and that her overall quality of life is improved."
+    },
+    {
+      "ranges": [
+        [
+          20069,
+          20258
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "In conclusion, the patient's gross hematuria and bladder mass present a complex diagnostic challenge that requires a comprehensive and multidisciplinary approach to diagnosis and treatment."
+    },
+    {
+      "ranges": [
+        [
+          20259,
+          20510
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "By considering a broad range of potential causes, addressing the patient's psychological distress and overall well-being, and prioritizing her overall health and well-being, it is possible to provide optimal care and ensure the best possible outcomes."
+    },
+    {
+      "ranges": [
+        [
+          20512,
+          20792
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's care should be managed by a multidisciplinary team of healthcare professionals, including urologists, oncologists, radiologists, and other specialists, to ensure that all aspects of her condition are addressed and that she receives comprehensive and supportive care."
+    },
+    {
+      "ranges": [
+        [
+          16761,
+          16978
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Further evaluation and specialist consultation will be critical in establishing a definitive diagnosis and guiding management, and it is essential to approach the patient's care with a sense of urgency and compassion."
+    },
+    {
+      "ranges": [
+        [
+          17607,
+          17819
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Ultimately, the goal of the patient's care should be to provide comprehensive and supportive treatment that addresses all aspects of her condition, including her physical, emotional, and psychological well-being."
+    },
+    {
+      "ranges": [
+        [
+          17820,
+          18034
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "By taking a multidisciplinary and patient-centered approach to her care, it is possible to ensure that the patient receives optimal treatment and support, and that her overall health and well-being are prioritized."
+    },
+    {
+      "ranges": [
+        [
+          18036,
+          18323
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In terms of the specific diagnostic tests and procedures that may be necessary to establish a definitive diagnosis, it is likely that further imaging studies, such as an MRI or CT scan, will be needed to evaluate the extent of the bladder mass and to assess for any potential metastases."
+    },
+    {
+      "ranges": [
+        [
+          18325,
+          18549
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Additionally, laboratory tests, such as urine cytology and blood work, may be necessary to evaluate the patient's overall health and to assess for any potential underlying conditions that may be contributing to her symptoms."
+    },
+    {
+      "ranges": [
+        [
+          18551,
+          18711
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient may also require further evaluation by specialists, such as urologists and oncologists, to determine the best course of treatment for her condition."
+    },
+    {
+      "ranges": [
+        [
+          18712,
+          18891
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "This may involve a range of potential treatment options, including surgery, chemotherapy, and radiation therapy, depending on the specific diagnosis and the extent of the disease."
+    },
+    {
+      "ranges": [
+        [
+          18893,
+          19185
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Ultimately, the patient's care should be managed by a multidisciplinary team of healthcare professionals, including urologists, oncologists, radiologists, and other specialists, to ensure that all aspects of her condition are addressed and that she receives comprehensive and supportive care."
+    },
+    {
+      "ranges": [
+        [
+          19187,
+          19400
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "By taking a comprehensive and multidisciplinary approach to the patient's care, it is possible to ensure that she receives optimal treatment and support, and that her overall health and well-being are prioritized."
+    },
+    {
+      "ranges": [
+        [
+          19401,
+          19587
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This approach should involve careful consideration of the patient's medical history, symptoms, and laboratory and imaging findings, as well as her psychological and emotional well-being."
+    },
+    {
+      "ranges": [
+        [
+          19589,
+          19819
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's condition highlights the importance of a thorough and comprehensive approach to diagnosis and treatment, and the need for a multidisciplinary team of healthcare professionals to work together to provide optimal care."
+    },
+    {
+      "ranges": [
+        [
+          19820,
+          20067
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "By prioritizing the patient's overall health and well-being, and by taking a comprehensive and supportive approach to her care, it is possible to ensure that she receives the best possible outcomes and that her overall quality of life is improved."
+    },
+    {
+      "ranges": [
+        [
+          20069,
+          20258
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In conclusion, the patient's gross hematuria and bladder mass present a complex diagnostic challenge that requires a comprehensive and multidisciplinary approach to diagnosis and treatment."
+    },
+    {
+      "ranges": [
+        [
+          20259,
+          20510
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "By considering a broad range of potential causes, addressing the patient's psychological distress and overall well-being, and prioritizing her overall health and well-being, it is possible to provide optimal care and ensure the best possible outcomes."
+    },
+    {
+      "ranges": [
+        [
+          20512,
+          20792
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's care should be managed by a multidisciplinary team of healthcare professionals, including urologists, oncologists, radiologists, and other specialists, to ensure that all aspects of her condition are addressed and that she receives comprehensive and supportive care."
+    },
+    {
+      "ranges": [
+        [
+          16761,
+          16978
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Further evaluation and specialist consultation will be critical in establishing a definitive diagnosis and guiding management, and it is essential to approach the patient's care with a sense of urgency and compassion."
+    },
+    {
+      "ranges": [
+        [
+          17607,
+          17819
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Ultimately, the goal of the patient's care should be to provide comprehensive and supportive treatment that addresses all aspects of her condition, including her physical, emotional, and psychological well-being."
+    },
+    {
+      "ranges": [
+        [
+          17820,
+          18034
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "By taking a multidisciplinary and patient-centered approach to her care, it is possible to ensure that the patient receives optimal treatment and support, and that her overall health and well-being are prioritized."
+    }
+  ]
+}

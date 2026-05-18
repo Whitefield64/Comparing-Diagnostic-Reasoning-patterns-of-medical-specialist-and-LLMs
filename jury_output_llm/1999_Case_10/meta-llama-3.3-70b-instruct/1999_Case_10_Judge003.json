@@ -1,0 +1,117 @@
+{
+  "case": "1999 Case 10__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T03:08:13.927794+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17280,
+          17561
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The combination of systemic vasculitis, renal failure, cortical blindness, and respiratory distress, alongside the skin and lymph node findings, points most strongly towards a diagnosis of a systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis."
+    },
+    {
+      "ranges": [
+        [
+          9722,
+          9847
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of bilateral hydronephrosis later in the hospital course suggests a more complex process affecting both kidneys."
+    },
+    {
+      "ranges": [
+        [
+          10159,
+          10426
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The skin findings of palpable purpuric papules with central necrosis are highly suggestive of a vasculitic process, particularly one that involves small vessels such as leukocytoclastic vasculitis or a condition like Henoch-Schönlein purpura in its more severe forms."
+    },
+    {
+      "ranges": [
+        [
+          10436,
+          10653
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the age of the patient and the severity of the systemic involvement make conditions like Wegener's granulomatosis (now known as granulomatosis with polyangiitis) or microscopic polyangiitis more likely considerations."
+    },
+    {
+      "ranges": [
+        [
+          18094,
+          18330
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Systemic vasculitides, such as granulomatosis with polyangiitis or microscopic polyangiitis, are characterized by the deposition of immune complexes and the activation of neutrophils, leading to inflammation and damage to blood vessels."
+    },
+    {
+      "ranges": [
+        [
+          18464,
+          18655
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of ANCA in many cases of these conditions suggests an autoimmune mechanism, with the antibodies targeting neutrophil cytoplasmic antigens and triggering an inflammatory response."
+    },
+    {
+      "ranges": [
+        [
+          18657,
+          18809
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's history of smoking and the presence of *Helicobacter pylori* infection may also play a role in the development of the systemic vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          11921,
+          12055
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The use of methylprednisolone, a corticosteroid, suggests an empirical treatment approach for an inflammatory or autoimmune condition."
+    },
+    {
+      "ranges": [
+        [
+          13796,
+          14096
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of systemic symptoms like fever and the lack of positive cultures decrease the likelihood of an infectious cause, although the presence of yeast cells and neutrophils in the sputum could suggest a localized pulmonary infection, which might be secondary to the patient's underlying conditi"
+    },
+    {
+      "ranges": [
+        [
+          12056,
+          12299
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The improvement in some of the patient's symptoms, such as the urinary output, and the lack of progression of others, could indicate a response to this treatment, further supporting the consideration of an autoimmune or inflammatory diagnosis."
+    }
+  ]
+}

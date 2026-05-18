@@ -1,0 +1,106 @@
+{
+  "case": "1999 Case 06__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T02:40:00.796599+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4540,
+          4683
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis can be broadly categorized into several groups, including inflammatory, infectious, genetic, and systemic disorders."
+    },
+    {
+      "ranges": [
+        [
+          4966,
+          5104
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Conditions such as Cogan syndrome, which is characterized by interstitial keratitis and vestibular-auditory symptoms, could be considered."
+    },
+    {
+      "ranges": [
+        [
+          5412,
+          5587
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Conditions such as Marfan syndrome, Ehlers-Danlos syndrome, and Loeys-Dietz syndrome are known to cause aortic aneurysms and could be considered in the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          5791,
+          6034
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's history of \"migraine headaches\" and the presence of a \"buffalo hump\" and striae on the skin suggest the possibility of Cushing's syndrome, which could be caused by prolonged corticosteroid use or an underlying endocrine disorder."
+    },
+    {
+      "ranges": [
+        [
+          6872,
+          7063
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "A systemic disorder that could potentially explain the patient's symptoms is Takayasu arteritis, a large vessel vasculitis that can cause aneurysms and stenosis of the aorta and its branches."
+    },
+    {
+      "ranges": [
+        [
+          7440,
+          7639
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another condition that could be considered is giant cell arteritis, which can cause aneurysms and stenosis of the aorta and its branches, as well as symptoms such as headache and visual disturbances."
+    },
+    {
+      "ranges": [
+        [
+          5236,
+          5411
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of a thoracoabdominal aneurysm in a young patient is unusual and suggests a connective tissue disorder or a genetic condition that affects the vascular system."
+    },
+    {
+      "ranges": [
+        [
+          8439,
+          8604
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of bilateral sensorineural deafness and ocular irritation, which improved with corticosteroid treatment, suggests an autoimmune or inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          12727,
+          12986
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's age, sex, and symptoms, as well as the presence of a nonidentical twin sister who is well, make a genetic disorder less likely, although the possibility of a sporadic genetic mutation or a condition with variable expressivity cannot be excluded."
+    }
+  ]
+}

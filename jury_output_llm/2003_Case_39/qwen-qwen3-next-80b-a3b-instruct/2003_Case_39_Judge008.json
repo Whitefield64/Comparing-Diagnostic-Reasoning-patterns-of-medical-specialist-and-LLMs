@@ -1,0 +1,777 @@
+{
+  "case": "2003 Case 39__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T06:41:53.185562+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5437,
+          5733
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presentation of a 33-year-old woman with acute gross hematuria, passage of clots, mild dysuria, and subsequent urinary retention, culminating in the identification of a 3–4 cm nonenhancing mass in the dome of the bladder on cystoscopy, demands a systematic and nuanced differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          5734,
+          6052
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The absence of fever, flank pain, or systemic signs of infection, combined with normal renal function, normal imaging of the upper urinary tract, and the lack of classic urinary tract infection (UTI) features—despite the presence of bacteria in the urine—suggests that the hematuria is not merely infectious in origin."
+    },
+    {
+      "ranges": [
+        [
+          6053,
+          6319
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The persistence of hematuria despite antibiotic therapy, the development of urinary retention, and the visualization of a distinct bladder mass shift the diagnostic focus toward structural, neoplastic, or inflammatory processes confined to the bladder wall or lumen."
+    },
+    {
+      "ranges": [
+        [
+          6321,
+          6378
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate concern is a primary bladder neoplasm."
+    },
+    {
+      "ranges": [
+        [
+          6379,
+          6613
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Transitional cell carcinoma (TCC), now termed urothelial carcinoma, is the most common malignant bladder tumor in adults and frequently presents with painless gross hematuria, which may be intermittent but tends to persist and worsen."
+    },
+    {
+      "ranges": [
+        [
+          6614,
+          6829
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The location of the mass in the dome of the bladder is not atypical for TCC, which can arise anywhere along the urothelium but is common in the trigone and lateral walls; however, the dome is also a recognized site."
+    },
+    {
+      "ranges": [
+        [
+          6830,
+          6925
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The absence of hydronephrosis or upper tract involvement is consistent with a localized lesion."
+    },
+    {
+      "ranges": [
+        [
+          6926,
+          7166
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The fact that the mass appeared as heterogeneous, mixed-attenuation, nonenhancing debris on CT and was confirmed as a discrete mass on cystoscopy is highly suggestive of a solid tumor rather than a purely inflammatory or clot-based process."
+    },
+    {
+      "ranges": [
+        [
+          7167,
+          7376
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Nonenhancement on CT may reflect either necrotic core, fibrosis, or low vascularity—features that can be seen in high-grade urothelial carcinoma, especially if there is associated necrosis or prior hemorrhage."
+    },
+    {
+      "ranges": [
+        [
+          7377,
+          7654
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s age is somewhat younger than the typical presentation of bladder cancer (which peaks in the seventh decade), but the incidence in younger adults is increasing, particularly in populations with chronic exposure to carcinogens or underlying inflammatory conditions."
+    },
+    {
+      "ranges": [
+        [
+          7655,
+          7879
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Her Asian heritage is notable, as certain regions of Asia, including parts of China, have higher rates of endemic bladder cancer associated with Aristolochic acid exposure, which may be linked to traditional herbal remedies."
+    },
+    {
+      "ranges": [
+        [
+          7880,
+          8059
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Although not explicitly mentioned, her history of significant weight loss over two months without overt gastrointestinal symptoms or fever raises concern for an occult malignancy."
+    },
+    {
+      "ranges": [
+        [
+          8060,
+          8193
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Weight loss in the setting of hematuria and a bladder mass is a red flag for malignancy, even in the absence of other systemic signs."
+    },
+    {
+      "ranges": [
+        [
+          8195,
+          8275
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another important consideration is squamous cell carcinoma (SCC) of the bladder."
+    },
+    {
+      "ranges": [
+        [
+          8276,
+          8451
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "SCC accounts for approximately 5% of bladder cancers in the United States but is more common in regions with endemic schistosomiasis or chronic indwelling catheters or stones."
+    },
+    {
+      "ranges": [
+        [
+          8452,
+          8603
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "While schistosomiasis is not reported here, the patient’s origin in Hong Kong does not preclude prior exposure to environmental or dietary carcinogens."
+    },
+    {
+      "ranges": [
+        [
+          8604,
+          8732
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "SCC often arises in the setting of chronic inflammation or irritation and may present with hematuria and bladder mass formation."
+    },
+    {
+      "ranges": [
+        [
+          8835,
+          9023
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The histology of SCC can sometimes mimic urothelial carcinoma on imaging, but it is more likely to show calcifications or be associated with chronic urinary tract infection or obstruction."
+    },
+    {
+      "ranges": [
+        [
+          9024,
+          9220
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of bacteria in the urine culture, though mixed and low-grade, could represent chronic colonization secondary to underlying bladder pathology rather than a primary infectious etiology."
+    },
+    {
+      "ranges": [
+        [
+          9221,
+          9517
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s history of hepatitis B seropositivity (HBsAg-negative, anti-HBc-positive) and low-level viral DNA detectable by PCR raises the question of chronic hepatitis B infection with possible immune-mediated sequelae, but there is no known direct link between hepatitis B and bladder cancer."
+    },
+    {
+      "ranges": [
+        [
+          9518,
+          9661
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "However, chronic systemic inflammation or immune dysregulation may theoretically contribute to carcinogenesis, though this remains speculative."
+    },
+    {
+      "ranges": [
+        [
+          9663,
+          9776
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A third neoplastic possibility is a rare bladder tumor, such as adenocarcinoma, sarcoma, or small cell carcinoma."
+    },
+    {
+      "ranges": [
+        [
+          9777,
+          9973
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Adenocarcinoma of the bladder is exceedingly rare and typically arises from urachal remnants, which are most commonly located in the dome of the bladder—the exact site of the mass in this patient."
+    },
+    {
+      "ranges": [
+        [
+          9974,
+          10070
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Urachal adenocarcinoma presents in the fourth to sixth decades, but can occur in younger adults."
+    },
+    {
+      "ranges": [
+        [
+          10071,
+          10228
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "It often presents with hematuria and a dome-based mass, and may be misdiagnosed as a primary urothelial carcinoma unless the histologic origin is identified."
+    },
+    {
+      "ranges": [
+        [
+          10375,
+          10471
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of umbilical discharge or prior umbilical anomalies does not exclude this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10472,
+          10621
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The CT findings of nonenhancing, heterogeneous debris are consistent with necrotic adenocarcinoma, which often has a mucinous or glandular component."
+    },
+    {
+      "ranges": [
+        [
+          10622,
+          10790
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the location and the clinical course, urachal adenocarcinoma must be included in the differential, particularly because it is often underdiagnosed until advanced."
+    },
+    {
+      "ranges": [
+        [
+          10792,
+          10921
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory or infectious processes must also be considered, though they are less likely to produce a discrete, persistent mass."
+    },
+    {
+      "ranges": [
+        [
+          10922,
+          11071
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Granulomatous cystitis, particularly due to tuberculosis (TB), is a critical consideration in patients from endemic regions, including parts of Asia."
+    },
+    {
+      "ranges": [
+        [
+          11072,
+          11241
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Although the patient has no history of prior TB exposure, travel, or immunosuppression, latent TB can reactivate and involve the bladder, often mimicking bladder cancer."
+    },
+    {
+      "ranges": [
+        [
+          11242,
+          11435
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Genitourinary TB typically presents with sterile pyuria, dysuria, frequency, and hematuria, and may form granulomas or fibrotic masses that appear as irregular, nonenhancing lesions on imaging."
+    },
+    {
+      "ranges": [
+        [
+          11436,
+          11609
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of mixed bacteria on culture could represent a coincidental contamination or secondary infection in a bladder already compromised by granulomatous inflammation."
+    },
+    {
+      "ranges": [
+        [
+          11610,
+          11776
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The low-level hepatitis B viremia and chronic immune activation may theoretically predispose to atypical granulomatous reactions, though this is not well established."
+    },
+    {
+      "ranges": [
+        [
+          11777,
+          11941
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "TB cystitis often presents with bladder wall thickening, contracture, and small, nonfilling defects on cystography, but a discrete 3–4 cm dome mass is less typical."
+    },
+    {
+      "ranges": [
+        [
+          11942,
+          12011
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, in the early stages, a granulomatous mass can mimic a tumor."
+    },
+    {
+      "ranges": [
+        [
+          12012,
+          12158
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The weight loss, chronicity of symptoms (two months), and lack of response to antibiotics support an indolent infectious or granulomatous process."
+    },
+    {
+      "ranges": [
+        [
+          12160,
+          12316
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another rare but important consideration is eosinophilic cystitis, an inflammatory condition characterized by eosinophilic infiltration of the bladder wall."
+    },
+    {
+      "ranges": [
+        [
+          12317,
+          12426
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "It can present with hematuria, dysuria, urinary frequency, and bladder mass formation that mimics malignancy."
+    },
+    {
+      "ranges": [
+        [
+          12514,
+          12692
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient has no reported history of atopy, recent travel, or eosinophilia (peripheral eosinophil count is only 1%), which makes this diagnosis less likely, but not impossible."
+    },
+    {
+      "ranges": [
+        [
+          12693,
+          12801
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Eosinophilic cystitis can be associated with recent infections or medications, but none are documented here."
+    },
+    {
+      "ranges": [
+        [
+          12802,
+          12979
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of ketones and mild proteinuria on urinalysis may suggest a systemic inflammatory state, but these are nonspecific and could reflect dehydration or stress response."
+    },
+    {
+      "ranges": [
+        [
+          12980,
+          13104
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of peripheral eosinophilia and the lack of other systemic signs make this diagnosis a low-probability contender."
+    },
+    {
+      "ranges": [
+        [
+          13106,
+          13295
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Autoimmune or systemic vasculitic disorders affecting the genitourinary tract should be considered, particularly given the patient’s young age and the presence of proteinuria and hematuria."
+    },
+    {
+      "ranges": [
+        [
+          13296,
+          13529
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Conditions such as granulomatosis with polyangiitis (GPA, formerly Wegener’s) or microscopic polyangiitis (MPA) can present with glomerulonephritis and hematuria, but typically involve the upper respiratory tract, lungs, and kidneys."
+    },
+    {
+      "ranges": [
+        [
+          13530,
+          13667
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of sinusitis, pulmonary nodules, or renal dysfunction (normal creatinine, no red cell casts on sediment) makes this unlikely."
+    },
+    {
+      "ranges": [
+        [
+          13668,
+          13909
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of albuminuria and bile in the urine is unusual; bile in the urine typically suggests a fistula or severe hepatobiliary pathology, but the liver MRI showed only fatty infiltration without biliary dilation or parenchymal disease."
+    },
+    {
+      "ranges": [
+        [
+          13910,
+          14073
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The bile in the urine may represent contamination or a very rare cholecystovesical fistula, but there is no history of cholelithiasis, abdominal pain, or jaundice."
+    },
+    {
+      "ranges": [
+        [
+          14074,
+          14214
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "This finding remains unexplained but may be an artifact or related to altered gut-bladder permeability in a setting of chronic inflammation."
+    },
+    {
+      "ranges": [
+        [
+          14216,
+          14437
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s history of moderate hyperlipidemia and weight loss on a low-fat diet raises the possibility of a metabolic or paraneoplastic syndrome, but no endocrine or metabolic disorder is known to cause a bladder mass."
+    },
+    {
+      "ranges": [
+        [
+          14438,
+          14635
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The elevated globulin level (3.9 g/dL) and total protein (8.5 g/dL) suggest a mild monoclonal or polyclonal gammopathy, which could be reactive or indicative of an underlying plasma cell dyscrasia."
+    },
+    {
+      "ranges": [
+        [
+          14636,
+          14868
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "While multiple myeloma or lymphoplasmacytic disorders can cause renal involvement and hematuria via light chain deposition or amyloidosis, these typically present with bone pain, anemia, or renal failure—not a discrete bladder mass."
+    },
+    {
+      "ranges": [
+        [
+          14869,
+          15014
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Amyloidosis can involve the bladder wall and cause hemorrhage, but it usually presents with diffuse thickening and contracture, not a focal mass."
+    },
+    {
+      "ranges": [
+        [
+          15016,
+          15247
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The finding of a bladder mass with nonenhancement on CT and the abrupt development of urinary retention are particularly concerning for a tumor obstructing the bladder outlet or causing functional obstruction due to edema or spasm."
+    },
+    {
+      "ranges": [
+        [
+          15248,
+          15454
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The transient inability to void, followed by passage of clots, suggests intermittent obstruction, which can occur with large, friable tumors that bleed and then form clots that temporarily plug the urethra."
+    },
+    {
+      "ranges": [
+        [
+          15455,
+          15633
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The fact that cystoscopy was initially unsuccessful but later revealed the mass suggests that the clots may have obscured the view initially—a common scenario in acute hematuria."
+    },
+    {
+      "ranges": [
+        [
+          15635,
+          15761
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s serologic history of hepatitis B infection (anti-HBc positive, HBsAg negative, low-level HBV DNA) is intriguing."
+    },
+    {
+      "ranges": [
+        [
+          15762,
+          15931
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "While chronic hepatitis B is not a known direct cause of bladder cancer, it is associated with chronic immune activation and may contribute to a pro-inflammatory milieu."
+    },
+    {
+      "ranges": [
+        [
+          15932,
+          16118
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "More importantly, patients with chronic viral hepatitis are at increased risk for hepatocellular carcinoma, but this patient’s liver MRI showed no focal lesions, only fatty infiltration."
+    },
+    {
+      "ranges": [
+        [
+          16119,
+          16181
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The normal alpha-fetoprotein level further argues against HCC."
+    },
+    {
+      "ranges": [
+        [
+          16182,
+          16361
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the low-level viremia may reflect occult or low-replicative chronic infection, which, in the context of immune dysregulation, could theoretically influence distant sites."
+    },
+    {
+      "ranges": [
+        [
+          16362,
+          16487
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This remains speculative but warrants consideration in the context of a broader systemic inflammatory or immunologic process."
+    },
+    {
+      "ranges": [
+        [
+          16489,
+          16963
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In summary, the leading diagnostic possibilities are: (1) urothelial carcinoma, given the classic presentation of painless gross hematuria, bladder mass, and age-appropriate risk profile; (2) urachal adenocarcinoma, due to the dome location and the potential for misdiagnosis as urothelial carcinoma; and (3) granulomatous cystitis, particularly tuberculosis, given the patient’s origin in Hong Kong, chronicity of symptoms, weight loss, and lack of response to antibiotics."
+    },
+    {
+      "ranges": [
+        [
+          16964,
+          17077
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Eosinophilic cystitis and vasculitis are less likely but should be considered if biopsy results are inconclusive."
+    },
+    {
+      "ranges": [
+        [
+          17078,
+          17316
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The nonenhancing nature of the mass on CT and the presence of mixed bacteria in urine culture suggest a process that is either necrotic, fibrotic, or chronically inflamed, all of which can be seen in malignant or granulomatous conditions."
+    },
+    {
+      "ranges": [
+        [
+          17318,
+          17391
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The next critical step is histopathologic evaluation of the bladder mass."
+    },
+    {
+      "ranges": [
+        [
+          17392,
+          17620
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The differential will be definitively resolved by biopsy, which will distinguish between epithelial malignancy (urothelial or adenocarcinoma), granulomatous inflammation (TB or fungal), or rare entities like lymphoma or sarcoma."
+    },
+    {
+      "ranges": [
+        [
+          17621,
+          17823
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In the interim, the clinical picture strongly favors a neoplastic etiology, with urothelial carcinoma as the most probable diagnosis, followed closely by urachal adenocarcinoma due to the dome location."
+    },
+    {
+      "ranges": [
+        [
+          17824,
+          18053
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The possibility of tuberculosis must not be overlooked in this patient’s demographic context and must be actively ruled out with acid-fast staining, culture, and possibly PCR for Mycobacterium tuberculosis on the biopsy specimen."
+    },
+    {
+      "ranges": [
+        [
+          18054,
+          18186
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The weight loss and persistent symptoms over two months elevate the urgency for prompt histologic diagnosis and appropriate staging."
+    }
+  ]
+}

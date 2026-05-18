@@ -1,0 +1,150 @@
+{
+  "case": "1991 Case 14__openai-gpt-oss-120b.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-17T23:02:09.938798+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          29509,
+          29720
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The two leading hypotheses—**extralobar bronchopulmonary sequestration** and **infant‑type neuroblastoma**—share many overlapping imaging characteristics (posterior location, T2 hyperintensity, non‑enhancement)."
+    },
+    {
+      "ranges": [
+        [
+          29721,
+          29855
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Distinguishing them hinges on the presence or absence of a systemic feeding artery and on biochemical markers of catecholamine excess."
+    },
+    {
+      "ranges": [
+        [
+          25850,
+          26007
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Anemia may be secondary to chronic blood loss (unlikely), marrow infiltration (neuroblastoma or lymphoma), or chronic inflammation (sequestration infection)."
+    },
+    {
+      "ranges": [
+        [
+          26355,
+          26447
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Neuroblastoma can produce interleukin‑6 and other cytokines that stimulate megakaryopoiesis."
+    },
+    {
+      "ranges": [
+        [
+          30076,
+          30151
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A feeding vessel arising from the aorta would clinch the diagnosis of EBPS."
+    },
+    {
+      "ranges": [
+        [
+          30152,
+          30309
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Absence of such a vessel would not exclude sequestration (rarely, the arterial supply may be too small), but would increase suspicion for a neurogenic tumor."
+    },
+    {
+      "ranges": [
+        [
+          29945,
+          30075
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "he next logical steps would be:\n\n1. **Contrast‑enhanced CT angiography or MR angiography** to identify a systemic arterial supply."
+    },
+    {
+      "ranges": [
+        [
+          30311,
+          30505
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "2. **Urinary catecholamine metabolite assay (VMA, HVA)**. Elevated levels would strongly support neuroblastoma, whereas normal levels would make it less likely, though false‑negatives can occur."
+    },
+    {
+      "ranges": [
+        [
+          32238,
+          32415
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the lack of documented catecholamine excess, the static size, and the classic imaging plane separating the mass from the pleura slightly tip the balance away from neuroblastoma."
+    },
+    {
+      "ranges": [
+        [
+          31290,
+          31549
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The constellation of a left‑sided, posterior, paravertebral, well‑circumscribed mass that is non‑enhancing, homogeneous on CT, hyperintense on T2 MRI, and radiographically stable over a period of at least 10 weeks aligns best with an extralobar sequestration."
+    },
+    {
+      "ranges": [
+        [
+          32229,
+          32415
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, the lack of documented catecholamine excess, the static size, and the classic imaging plane separating the mass from the pleura slightly tip the balance away from neuroblastoma."
+    },
+    {
+      "ranges": [
+        [
+          7390,
+          7552
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The thin, dark line separating the mass from the paraspinal muscles on MRI is compatible with a pleural plane that isolates the sequestration from the chest wall."
+    },
+    {
+      "ranges": [
+        [
+          31550,
+          31755
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The lesion’s appearance on imaging—particularly the thin dark line separating it from paraspinal muscles—mirrors the pleural plane that isolates an extralobar sequestration from the surrounding structures."
+    }
+  ]
+}

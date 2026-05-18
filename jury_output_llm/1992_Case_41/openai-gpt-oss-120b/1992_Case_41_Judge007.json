@@ -1,0 +1,117 @@
+{
+  "case": "1992 Case 41__openai-gpt-oss-120b.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T00:24:49.249673+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23216,
+          23458
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling concordance is between the murmur’s acoustic characteristics (harsh, long systolic ejection, radiation to apex) and a left‑sided outflow obstruction, most commonly **valvar aortic stenosis** due to a bicuspid aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          23460,
+          23684
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of systemic hypertension is readily explained by chronic obstructive uropathy with renin‑angiotensin activation, and the hypertension may be contributing to the LV pressure load, thereby accentuating the murmur."
+    },
+    {
+      "ranges": [
+        [
+          26761,
+          26920
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the aortic stenosis is moderate‑to‑severe, endocarditis prophylaxis may be indicated for dental procedures, in accordance with current pediatric guidelines."
+    },
+    {
+      "ranges": [
+        [
+          25454,
+          25840
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "A comprehensive transthoracic study is essential to (a) confirm the presence, morphology, and severity of aortic valve stenosis, (b) assess valve leaflet number (bicuspid vs tricuspid), (c) measure peak and mean gradients, (d) evaluate LV wall thickness and function, (e) look for associated lesions (ASD, VSD, subaortic membrane), and (f) quantify any secondary pulmonary hypertension."
+    },
+    {
+      "ranges": [
+        [
+          27599,
+          27827
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The murmur’s radiation to the apex, the hyperdynamic apical impulse, and the absence of differential pulses or cyanosis collectively support a left‑sided outflow obstruction rather than a right‑sided or systemic vascular lesion."
+    },
+    {
+      "ranges": [
+        [
+          27969,
+          28157
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Recognizing the coexistence of renal‑derived hypertension is essential because it may hasten the progression of LV pressure overload and influence the timing of any interventional therapy."
+    },
+    {
+      "ranges": [
+        [
+          4459,
+          4765
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis must integrate (1) the hemodynamic implications of a systolic ejection murmur in a toddler, (2) the significance of systemic hypertension in the setting of chronic obstructive uropathy, and (3) the possibility of an underlying syndrome that links renal and cardiac malformations."
+    },
+    {
+      "ranges": [
+        [
+          16537,
+          16604
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hyperdynamic apical impulse could reflect LV pressure overload."
+    },
+    {
+      "ranges": [
+        [
+          23686,
+          23993
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The right‑ventricular conduction delay on ECG, while atypical for isolated AS, could represent a mild, secondary effect of a modestly increased pulmonary flow (e.g., from a small, restrictive VSD or a small ASD that has not been clinically evident) or simply a variant of normal conduction in a young child."
+    },
+    {
+      "ranges": [
+        [
+          3896,
+          4144
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The physical examination reveals a hyperdynamic apical impulse, normal peripheral pulses, no cyanosis, and a grade 3 systolic murmur best heard at the left midsternal border with radiation toward the upper right sternal border and the cardiac apex."
+    }
+  ]
+}

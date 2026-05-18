@@ -1,0 +1,128 @@
+{
+  "case": "2001 Case 36__openai-gpt-oss-120b.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T04:43:37.295754+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          24417,
+          24649
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "he most plausible explanations for his acute presentation can be grouped into three overlapping categories:\n\n1. **Primary Viral Upper Respiratory Infection with Secondary Lower‑Tract Involvement** – The most parsimonious hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          24382,
+          24523
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the patient’s complex background, the most plausible explanations for his acute presentation can be grouped into three overlapping categories"
+    },
+    {
+      "ranges": [
+        [
+          30963,
+          31123
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s cumulative burden of chronic lung disease, ongoing immunosuppression, and diabetes places him at heightened risk for rapid clinical deterioration."
+    },
+    {
+      "ranges": [
+        [
+          7164,
+          7289
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The prodrome of sore throat, rhinorrhea, and low‑grade fever is classic for an acute viral upper respiratory infection (URI)."
+    },
+    {
+      "ranges": [
+        [
+          29454,
+          29649
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If a viral pathogen is identified (e.g., influenza):**  \n- Initiate antiviral therapy (oseltamivir or peramivir) promptly, as early treatment reduces morbidity, especially in immunocompromised ho"
+    },
+    {
+      "ranges": [
+        [
+          24376,
+          24612
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient’s complex background, the most plausible explanations for his acute presentation can be grouped into three overlapping categories:\n\n1. **Primary Viral Upper Respiratory Infection with Secondary Lower‑Tract Involvement*"
+    },
+    {
+      "ranges": [
+        [
+          35289,
+          35522
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "he clinical presentation leans heavily toward a viral etiology with secondary inflammatory sequelae, the overlapping possibilities of bacterial superinfection, drug toxicity, and disease flare necessitate a systematic, multimodal wor"
+    },
+    {
+      "ranges": [
+        [
+          34832,
+          35062
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "he most likely scenario is a viral respiratory infection—most plausibly influenza—acting as a trigger for an acute exacerbation of the patient’s underlying organizing pneumonia/ILD, with a possible superimposed bacterial component"
+    },
+    {
+      "ranges": [
+        [
+          21155,
+          21301
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s history of seronegative RA and systemic immunosuppression could predispose to vasculitic complications, especially if ANCA‑positive."
+    },
+    {
+      "ranges": [
+        [
+          29715,
+          29944
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If a bacterial superinfection is confirmed or strongly suspected:**  \n- Empiric coverage with a β‑lactam (e.g., high‑dose ceftriaxone) plus a macrolide or doxycycline to address atypical organisms, adjusting based on culture resu"
+    },
+    {
+      "ranges": [
+        [
+          34831,
+          35063
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely scenario is a viral respiratory infection—most plausibly influenza—acting as a trigger for an acute exacerbation of the patient’s underlying organizing pneumonia/ILD, with a possible superimposed bacterial component."
+    }
+  ]
+}

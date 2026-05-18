@@ -1,0 +1,106 @@
+{
+  "case": "1999 Case 06__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T02:55:44.499615+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9034,
+          9225
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnosis in this context is **Takayasu arteritis (TA)**, a large-vessel vasculitis that predominantly affects young women, particularly of Asian or Mediterranean descent."
+    },
+    {
+      "ranges": [
+        [
+          15896,
+          16069
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most parsimonious diagnosis, integrating all elements, is **relapsing polychondritis with superimposed fibromuscular dysplasia and steroid-induced cushingoid features**."
+    },
+    {
+      "ranges": [
+        [
+          14489,
+          14668
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another possibility is **Liddle syndrome**, a rare genetic disorder causing hypertension and hypokalemia due to gain-of-function mutations in the epithelial sodium channel (ENaC)."
+    },
+    {
+      "ranges": [
+        [
+          12516,
+          12610
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The diagnosis of RP is often missed because it is rare and requires a high index of suspicion."
+    },
+    {
+      "ranges": [
+        [
+          10213,
+          10381
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Alternatively, these findings could represent a manifestation of **sarcoidosis** or **relapsing polychondritis**, both of which can involve the eye and the vasculature."
+    },
+    {
+      "ranges": [
+        [
+          14852,
+          14904
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The corneal findings are perhaps the most enigmatic."
+    },
+    {
+      "ranges": [
+        [
+          5740,
+          5968
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of blue sclerae is classically associated with osteogenesis imperfecta (OI), but OI does not typically cause aortic aneurysms of this magnitude, nor does it cause sensorineural hearing loss or renal artery stenosis."
+    },
+    {
+      "ranges": [
+        [
+          6297,
+          6520
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hypokalemia, metabolic alkalosis (elevated CO2), and renal artery stenosis point to a renin-angiotensin-aldosterone system (RAAS) activation, most likely secondary to fibromuscular dysplasia (FMD) of the renal arteries."
+    },
+    {
+      "ranges": [
+        [
+          12611,
+          12833
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The diagnostic criteria (McAdam’s criteria) include bilateral auricular chondritis, nasal chondritis, ocular inflammation, respiratory tract chondritis, cochlear or vestibular dysfunction, and histopathologic confirmation."
+    }
+  ]
+}

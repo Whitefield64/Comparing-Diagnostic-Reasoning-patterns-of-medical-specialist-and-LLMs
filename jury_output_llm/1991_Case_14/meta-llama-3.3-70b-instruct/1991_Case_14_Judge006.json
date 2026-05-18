@@ -1,0 +1,139 @@
+{
+  "case": "1991 Case 14__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-17T22:56:29.573901+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6027,
+          6126
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "One possible consideration is a congenital anomaly, such as a bronchogenic cyst or an enteric cyst."
+    },
+    {
+      "ranges": [
+        [
+          6451,
+          6600
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious processes, such as pneumonia or abscess, are unlikely given the patient's lack of symptoms, such as fever, cough, or respiratory distress."
+    },
+    {
+      "ranges": [
+        [
+          7070,
+          7166
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory conditions, such as a hematoma or a fibromatosis, are also possible considerations."
+    },
+    {
+      "ranges": [
+        [
+          7655,
+          7756
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Neoplastic diseases, such as a neuroblastoma or a teratoma, are critical considerations in this case."
+    },
+    {
+      "ranges": [
+        [
+          5766,
+          6026
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The mass's location in the posterior sulcus of the left hemithorax, its extension laterally from the paraspinal region, and its nonhomogeneous appearance with small areas of lower density on CT scans are critical findings that guide the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          7876,
+          8014
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The imaging characteristics of the mass, including its location, size, and nonhomogeneous appearance, are consistent with a neuroblastoma."
+    },
+    {
+      "ranges": [
+        [
+          10324,
+          10514
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The CT scan showed a mass in the posterior sulcus of the left hemithorax that extended laterally from the paraspinal region, with no enhancement with contrast material and no calcifications."
+    },
+    {
+      "ranges": [
+        [
+          13482,
+          13628
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's lack of symptoms and overall health make it essential to consider benign conditions, such as a congenital anomaly or a benign tumor."
+    },
+    {
+      "ranges": [
+        [
+          11132,
+          11252
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": " the imaging characteristics of the mass and the patient's lack of symptoms, a neuroblastoma is a leading consideration."
+    },
+    {
+      "ranges": [
+        [
+          11700,
+          11881
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's age and lack of symptoms make this case even more challenging, as many conditions that present with a posterior mediastinal mass in adults are less common in children."
+    },
+    {
+      "ranges": [
+        [
+          15106,
+          15344
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "us. The patient's anemia and thrombocytosis may be related to a nutritional deficiency or a chronic disease. The patient's hyperkalemia may be related to the patient's renal function or a separate condition, such as adrenal insufficiency."
+    },
+    {
+      "ranges": [
+        [
+          18071,
+          18259
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's family history and social history may also provide valuable information about the patient's risk of developing certain conditions, such as a genetic predisposition to cancer."
+    }
+  ]
+}

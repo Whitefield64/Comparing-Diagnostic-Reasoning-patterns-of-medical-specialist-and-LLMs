@@ -1,0 +1,106 @@
+{
+  "case": "2001 Case 20__openai-gpt-oss-120b.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T04:03:43.538106+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23982,
+          24217
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **most compelling working diagnosis** is **subacute infective endocarditis caused by *Moraxella phenylpyruvica***, with the ulcerated atherosclerotic plaque serving either as a secondary nidus or as a conduit for bacterial seeding."
+    },
+    {
+      "ranges": [
+        [
+          31185,
+          31546
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **preponderance of evidence** points toward a **low‑grade, subacute infective process involving the cardiovascular system**, most plausibly **infective endocarditis caused by *Moraxella phenylpyruvica***, with the **ulcerated atherosclerotic plaque** acting either as the primary nidus or as a conduit that facilitated bacterial seeding of the aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          15442,
+          15732
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the organism were actually an *Acinetobacter* or *Pseudomonas* species, the clinical spectrum would shift toward **nosocomial, opportunistic infections**, often associated with **ventilator‑associated pneumonia**, **catheter‑related bloodstream infection**, or **soft‑tissue infection**."
+    },
+    {
+      "ranges": [
+        [
+          27427,
+          27537
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient’s temperature normalized after 48 h of cefuroxime, suggesting **adequate antimicrobial activity**."
+    },
+    {
+      "ranges": [
+        [
+          31892,
+          32115
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": " \n- **Positive blood cultures for *Moraxella***, a rare but documented cause of IE, coupled with **clinical improvement after targeted β‑lactam therapy**, align with the natural history of a subacute bacterial endocarditis."
+    },
+    {
+      "ranges": [
+        [
+          5093,
+          5438
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The clinical picture of a 64‑year‑old man with multiple cardiovascular, metabolic and renal comorbidities who presents with a sub‑acute febrile illness, unintentional weight loss, a new systolic murmur, a positive tuberculin skin test, calcified mediastinal nodes, and a **β‑lactamase‑negative *Moraxella phenylpyruvica* bacteremia** is complex."
+    },
+    {
+      "ranges": [
+        [
+          25361,
+          25634
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The transesophageal echo demonstrated **moderate atheromatous disease with an ulcerated plaque**.  Ulceration exposes the subendothelial matrix (collagen, fibronectin) and releases tissue factor, promoting platelet aggregation and a local inflammatory milieu rich in fibrin"
+    },
+    {
+      "ranges": [
+        [
+          5440,
+          5791
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The problem list can be roughly divided into two domains: (1) **identifying the anatomic source of the bacteremia** and (2) **determining whether the bacteremia represents a primary infection, a secondary infection superimposed on an underlying chronic process, or a manifestation of a non‑infectious disease that predisposes to secondary infection**."
+    },
+    {
+      "ranges": [
+        [
+          19020,
+          19193
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "While a **malignancy** cannot be excluded, especially given the weight loss, there is **no radiologic or laboratory evidence** to support an active solid tumor at this time."
+    }
+  ]
+}

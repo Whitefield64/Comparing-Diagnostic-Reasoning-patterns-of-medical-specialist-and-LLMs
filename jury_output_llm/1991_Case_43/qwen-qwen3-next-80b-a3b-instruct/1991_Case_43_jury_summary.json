@@ -1,0 +1,401 @@
+{
+  "case": "1991 Case 43__qwen-qwen3-next-80b-a3b-instruct.md",
+  "exported_at": "2026-05-17T23:36:23.543952+00:00",
+  "n_voters": 15,
+  "n_successful": 15,
+  "n_failed": 0,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has disseminated histoplasmosis, we would expect to see fever, weight loss, hepatosplenomegaly, pancytopenia, and diffuse pulmonary infiltrates that appear as fine nodular or reticulonodular opacities—precisely the pattern observed here."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but we must first rule out infectious causes, then consider malignancies, and finally non-infectious causes."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant, but the patient’s clinical trajectory suggests that we are dealing with a more complex and severe disease process."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients, and the patient’s presentation is consistent with this possibility, but we need to consider the likelihood of other diagnoses as well."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, but this is not directly relevant to our case; however, the patient’s history and presentation are reminiscent of cases with disseminated histoplasmosis or tuberculosis."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had PJP, we would expect to see *P. jirovecii* on sputum induction and BAL, but the absence of *P. jirovecii* on these tests, combined with the lack of eosinophilia, suggests that the initial response may have been due to a concomitant bacterial pneumonia, such as *Streptococcus pneumoniae* or *Haemophilus influenzae*, or even a mild, self-limiting fungal or viral process."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of bilateral, diffuse interstitial and nodular densities with questionable hilar lymphadenopathy is classic for hematogenous dissemination of *Mycobacterium tuberculosis*."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned, however, the text: The most likely unifying diagnosis is disseminated histoplasmosis, with tuberculosis and Kaposi sarcoma as critical alternatives requiring immediate exclusion."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not mentioned, however the text does not provide any case-based reasoning."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has disseminated histoplasmosis, we would expect to see fever, weight loss, hepatosplenomegaly, pancytopenia, and diffuse pulmonary infiltrates that appear as fine nodular or reticulonodular opacities—precisely the pattern observed here."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of pulmonary illnesses can be grouped on the basis of underlying cause, such as infection, malignancy, or non-infectious inflammatory syndromes that can mimic or coexist in the setting of profound T-cell deficiency."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary pulmonary illness is the presentation. Tumors of this type typically present as masses, often with discomfort and weight loss; fever is rare, particularly the type of fever that this patient experienced. Therefore, we must first rule out the most life-threatening conditions, such as malignancies or severe infections."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to mycobacteria or fungi rule out an infectious vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of fever, weight loss, hepatosplenomegaly, pancytopenia, and diffuse pulmonary infiltrates is classic for disseminated histoplasmosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary pulmonary illness, although I am troubled by the negative serologic test and the lack of response to therapy."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of histoplasmosis involve the lungs, the presence of extrapulmonary symptoms, such as hepatosplenomegaly and pancytopenia, increases the likelihood of disseminated disease."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with disseminated histoplasmosis who presented with fever, weight loss, and diffuse pulmonary infiltrates, and was successfully treated with antifungal therapy."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however the clinical presentation of this patient is highly suggestive of disseminated histoplasmosis."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had PJP, we would expect to see *P. jirovecii* on sputum induction and BAL, which was not the case."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, instead: The clinical trajectory—worsening despite therapy, persistent fever, and hemoptysis—demands a diagnosis beyond common opportunistic infections."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not applicable here, instead: The presence of plasma cells in the bone marrow may reflect a paraneoplastic response to HHV-8 or a coincident B-cell lymphoproliferative disorder, which can coexist with KS."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of pulmonary illnesses can be grouped on the basis of underlying cause, such as infection, malignancy, or non-infectious inflammatory syndromes."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not applicable here but, The negative cultures and biopsies likely reflect sampling limitations rather than true absence of disease."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of fever, weight loss, hepatosplenomegaly, pancytopenia, and diffuse pulmonary infiltrates that appear as fine nodular or reticulonodular opacities—precisely the pattern observed here—is classic for disseminated histoplasmosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but, The clinical trajectory—worsening despite therapy, persistent fever, and hemoptysis—demands a diagnosis beyond common opportunistic infections."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The presence of plasma cells in the bone marrow may reflect a paraneoplastic response to HHV-8 or a coincident B-cell lymphoproliferative disorder, which can coexist with KS, has been reported in similar cases."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had PJP, we would expect to see *P. jirovecii* on sputum induction and BAL, which was not the case."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the text 'The most likely unifying diagnosis is disseminated histoplasmosis, with tuberculosis and Kaposi sarcoma as critical alternatives requiring immediate exclusion.' shows intuition"
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had PJP, we would expect to see *P. jirovecii* on sputum induction and BAL, but the absence of *P. jirovecii* on these tests, combined with the lack of eosinophilia and the fact that trimethoprim-sulfamethoxazole has broad antimicrobial activity against gram-positive and gram-negative organisms, suggests that the initial response may have been due to a concomitant bacterial pneumonia."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of pulmonary illness can be grouped on the basis of underlying cause, such as infection, malignancy, or non-infectious inflammatory syndromes."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary pulmonary process is the presentation. Tumors of this type typically present with systemic symptoms, often with weight loss and fever; lymphadenopathy is rare, particularly the type of lymphadenopathy that this patient experienced."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected organs, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but the presence of plasma cells in the bone marrow may reflect a paraneoplastic response to HHV-8 or a coincident B-cell lymphoproliferative disorder."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of bilateral, diffuse interstitial and nodular infiltrates, combined with the patient’s spiking fevers, is highly characteristic of systemic fungal infections, reflecting circadian fluctuations in cytokine release and macrophage activation."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary fungal infection. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for fungal infection, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with AIDS and histoplasmosis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has disseminated histoplasmosis, we would expect to see fever, weight loss, hepatosplenomegaly, pancytopenia, and diffuse pulmonary infiltrates that appear as fine nodular or reticulonodular opacities—precisely the pattern observed here."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however the intuition of the doctor is that the patient has a severe disease"
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The presence of plasma cells in the bone marrow may reflect a paraneoplastic response to HHV-8 or a coincident B-cell lymphoproliferative disorder, which can coexist with KS, similar to cases reported in the literature."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however the text: The most likely unifying diagnosis is disseminated histoplasmosis, with tuberculosis and Kaposi sarcoma as critical alternatives requiring immediate exclusion."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, is not present, however the text: The patient’s prior exposure in Puerto Rico does not preclude infection; *H. capsulatum* is present in soil throughout the Caribbean, particularly in areas with high humidity and bird or bat roosting sites."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had PJP, we would expect to see *P. jirovecii* on sputum induction and BAL, which was not the case."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of fever, weight loss, hepatosplenomegaly, pancytopenia, and diffuse pulmonary infiltrates is precisely the pattern observed in disseminated histoplasmosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the sentence 'The most likely unifying diagnosis is disseminated histoplasmosis, with tuberculosis and Kaposi sarcoma as critical alternatives requiring immediate exclusion.' shows intuition"
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The presence of plasma cells in the bone marrow may reflect a paraneoplastic response to HHV-8 or a coincident B-cell lymphoproliferative disorder, which can coexist with KS, similar to what has been reported in the literature."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had PJP, we would expect to see *P. jirovecii* on sputum induction and BAL, but the absence of *P. jirovecii* on these tests suggests that the initial response may have been due to a concomitant bacterial pneumonia, such as *Streptococcus pneumoniae* or *Haemophilus influenzae*, or even a mild, self-limiting fungal or viral process."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of fever, weight loss, hepatosplenomegaly, pancytopenia, and diffuse pulmonary infiltrates is precisely the pattern observed in disseminated histoplasmosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the text 'The most likely unifying diagnosis is disseminated histoplasmosis, with tuberculosis and Kaposi sarcoma as critical alternatives requiring immediate exclusion.' can be annotated with this label."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has disseminated histoplasmosis, we would expect to see fever, weight loss, hepatosplenomegaly, pancytopenia, and diffuse pulmonary infiltrates that appear as fine nodular or reticulonodular opacities—precisely the pattern observed here."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of pulmonary illnesses can be grouped on the basis of underlying cause, such as infection, malignancy, or non-infectious inflammatory syndromes that can mimic or coexist in the setting of profound T-cell deficiency."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary pulmonary illness is the presentation. Illnesses of this type typically present with specific symptoms and signs; the absence of these findings makes other diagnoses more likely."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected areas, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, and support the diagnosis of disseminated histoplasmosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of fever, weight loss, and diffuse pulmonary infiltrates matches the description of disseminated histoplasmosis in patients with advanced AIDS."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary fungal infection, given the patient’s history of intravenous drug use, recent immigration from Puerto Rico, and poor medication adherence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of pulmonary illness in AIDS patients involve opportunistic infections, the patient’s presentation and lack of response to therapy increase the likelihood of a fungal or malignant etiology, such as disseminated histoplasmosis or Kaposi sarcoma."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of disseminated histoplasmosis in an AIDS patient with a history of intravenous drug use, which presented with fever, weight loss, and diffuse pulmonary infiltrates, and was diagnosed after a prolonged diagnostic workup."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 10,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor"
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned, however the text: The most likely unifying diagnosis is disseminated histoplasmosis, with tuberculosis and Kaposi sarcoma as critical alternatives requiring immediate exclusion."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not mentioned, however the text: It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun is not mentioned, the closest match is: The presence of plasma cells in the bone marrow may reflect a paraneoplastic response to HHV-8 or a coincident B-cell lymphoproliferative disorder, which can coexist with KS."
+        }
+      ]
+    }
+  ]
+}

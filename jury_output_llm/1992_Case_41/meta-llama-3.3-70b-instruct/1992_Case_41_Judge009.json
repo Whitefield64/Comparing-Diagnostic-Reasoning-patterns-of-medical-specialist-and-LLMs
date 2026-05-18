@@ -1,0 +1,128 @@
+{
+  "case": "1992 Case 41__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T00:18:09.020288+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6741,
+          6968
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "One possibility is that the patient has a congenital heart defect, such as a ventricular septal defect or pulmonary stenosis, which is causing the heart murmur and potentially contributing to the patient's obstructive uropathy."
+    },
+    {
+      "ranges": [
+        [
+          6969,
+          7133
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another possibility is that the patient's cardiac abnormalities are secondary to the obstructive uropathy, potentially due to chronic renal disease or hypertension."
+    },
+    {
+      "ranges": [
+        [
+          7135,
+          7386
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other potential diagnoses that should be considered include renal dysplasia, which could be contributing to the patient's obstructive uropathy, and cardiac lesions such as aortic stenosis or subaortic stenosis, which could be causing the heart murmur."
+    },
+    {
+      "ranges": [
+        [
+          4102,
+          4291
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of posterior urethral valves, a condition that is typically congenital, suggests an anatomical obstruction that could lead to the development of hydronephrosis and megaureters."
+    },
+    {
+      "ranges": [
+        [
+          4292,
+          4502
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's history of repeated urinary tract infections, which were suppressed with antimicrobial therapy, further supports the presence of an underlying anatomical abnormality that predisposes to infection."
+    },
+    {
+      "ranges": [
+        [
+          8897,
+          9008
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The most likely diagnoses in this case are a ventricular septal defect, pulmonary stenosis, or aortic stenosis."
+    },
+    {
+      "ranges": [
+        [
+          5161,
+          5336
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of an ejection click or diastolic murmur helps to narrow the differential diagnosis, as these findings are often associated with specific types of cardiac lesions."
+    },
+    {
+      "ranges": [
+        [
+          7675,
+          7846
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "a comprehensive evaluation of the patient's cardiac and renal status is necessary to determine the underlying cause of the patient's symptoms and to guide further therapy."
+    },
+    {
+      "ranges": [
+        [
+          8641,
+          8896
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of a harsh, long systolic ejection murmur that is loudest at the left midsternal border, with radiation to the upper right sternal border and cardiac apex, is highly suggestive of a cardiac lesion that affects the outflow tracts of the heart."
+    },
+    {
+      "ranges": [
+        [
+          11423,
+          11594
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's symptoms, including the heart murmur and obstructive uropathy, suggest that there may be a complex interplay between the patient's cardiac and renal systems."
+    },
+    {
+      "ranges": [
+        [
+          10474,
+          10615
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's family history of patent ductus arteriosus also raises the possibility of a genetic predisposition to congenital heart disease."
+    }
+  ]
+}

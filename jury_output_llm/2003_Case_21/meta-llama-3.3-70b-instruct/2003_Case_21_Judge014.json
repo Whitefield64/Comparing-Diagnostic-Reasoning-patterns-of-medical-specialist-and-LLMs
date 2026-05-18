@@ -1,0 +1,260 @@
+{
+  "case": "2003 Case 21__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T05:27:26.043694+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          12064,
+          12252
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation of recurrent neurologic symptoms, including numbness, slurred speech, vertical diplopia, and vertigo, suggests a complex and multifactorial underlying condition."
+    },
+    {
+      "ranges": [
+        [
+          12419,
+          12650
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of extensive pleural calcifications and elevation of the left hemidiaphragm on chest radiographs is consistent with a history of tuberculosis, which may have led to chronic inflammation and subsequent vascular disease."
+    },
+    {
+      "ranges": [
+        [
+          12253,
+          12418
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's history of labile hypertension, mild hyperlipidemia, and smoking cessation 20 years prior may contribute to the development of atherosclerotic disease."
+    },
+    {
+      "ranges": [
+        [
+          12652,
+          12883
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The initial CT scan of the head revealed a small focus of hypoattenuation in the right cerebellum, consistent with an old infarct, and slight hypoattenuation in the periventricular white matter, suggesting microangiopathic disease."
+    },
+    {
+      "ranges": [
+        [
+          12884,
+          13046
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The CT angiographic study disclosed small and irregular vertebral arteries with possible severe stenosis, particularly at the origin of the left vertebral artery."
+    },
+    {
+      "ranges": [
+        [
+          13672,
+          13924
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "culitis. The patient's lack of response to anticoagulation therapy, as evidenced by the development of new infarctions despite treatment with heparin and warfarin, suggests that the underlying condition may be more aggressive or resistant to treatment."
+    },
+    {
+      "ranges": [
+        [
+          14138,
+          14377
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms, including dysarthria, vertical nystagmus, and ataxia, suggest involvement of the brainstem and cerebellum, which may be consistent with a diagnosis of posterior circulation stroke or vertebral-basilar insufficiency."
+    },
+    {
+      "ranges": [
+        [
+          14387,
+          14574
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "the presence of multifocal bilateral stenoses of the vertebral artery and the patient's autoimmune and inflammatory markers suggest a more complex and multifactorial underlying condition."
+    },
+    {
+      "ranges": [
+        [
+          13421,
+          13680
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's elevated anticardiolipin-antibody IgG and IgM levels, borderline positive lupus anticoagulant, and positive preliminary result for ANCA, suggest an underlying autoimmune or inflammatory condition, such as antiphospholipid syndrome or vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          14576,
+          14794
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other potential diagnoses to consider include cardiac embolism, given the patient's history of possible septal infarct and old inferior myocardial infarct, as well as the presence of a dilated proximal ascending aorta."
+    },
+    {
+      "ranges": [
+        [
+          14804,
+          14934
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the lack of evidence for valvular vegetations or patent foramen ovale on cardiac ultrasonography makes this diagnosis less likely."
+    },
+    {
+      "ranges": [
+        [
+          14935,
+          15142
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Inflammatory and autoimmune conditions, such as giant cell arteritis or Takayasu arteritis, should also be considered, given the patient's elevated inflammatory markers and presence of autoimmune antibodies."
+    },
+    {
+      "ranges": [
+        [
+          15754,
+          15907
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Rare causes, such as fibromuscular dysplasia or moyamoya disease, should also be considered, given the patient's complex and multifactorial presentation."
+    },
+    {
+      "ranges": [
+        [
+          16044,
+          16204
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's presentation is also consistent with a diagnosis of cerebral vasculitis, which is characterized by inflammation of the blood vessels in the brain."
+    },
+    {
+      "ranges": [
+        [
+          16205,
+          16378
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of multifocal bilateral stenoses of the vertebral artery and the patient's autoimmune and inflammatory markers suggest a possible underlying vasculitic process."
+    },
+    {
+      "ranges": [
+        [
+          16519,
+          16697
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another potential diagnosis to consider is atherosclerotic disease, given the patient's history of labile hypertension, mild hyperlipidemia, and smoking cessation 20 years prior."
+    },
+    {
+      "ranges": [
+        [
+          16698,
+          16896
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of small and irregular vertebral arteries with possible severe stenosis, particularly at the origin of the left vertebral artery, suggests a possible underlying atherosclerotic process."
+    },
+    {
+      "ranges": [
+        [
+          16906,
+          17083
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "the patient's lack of response to anticoagulation therapy and the presence of autoimmune and inflammatory markers suggest a more complex and multifactorial underlying condition."
+    },
+    {
+      "ranges": [
+        [
+          17085,
+          17251
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation is also consistent with a diagnosis of vertebral artery dissection, which is characterized by a tear in the lining of the vertebral artery."
+    },
+    {
+      "ranges": [
+        [
+          17252,
+          17425
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of multifocal bilateral stenoses of the vertebral artery and the patient's symptoms, including vertigo and dysarthria, suggest a possible underlying dissection."
+    },
+    {
+      "ranges": [
+        [
+          21271,
+          21466
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's presentation is also consistent with a diagnosis of cerebral amyloid angiopathy, which is characterized by the deposition of amyloid beta peptides in the blood vessels of the brain."
+    },
+    {
+      "ranges": [
+        [
+          21467,
+          21648
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of multifocal bilateral stenoses of the vertebral artery and the patient's symptoms, including vertigo and dysarthria, suggest a possible underlying amyloid angiopathy."
+    },
+    {
+      "ranges": [
+        [
+          21658,
+          21806
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the lack of characteristic findings on imaging studies, such as microhemorrhages or white matter hyperintensities, makes this diagnosis less likely."
+    }
+  ]
+}

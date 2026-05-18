@@ -1,0 +1,172 @@
+{
+  "case": "1991 Case 14__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-17T23:00:04.962593+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6027,
+          6126
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "One possible consideration is a congenital anomaly, such as a bronchogenic cyst or an enteric cyst."
+    },
+    {
+      "ranges": [
+        [
+          6451,
+          6600
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious processes, such as pneumonia or abscess, are unlikely given the patient's lack of symptoms, such as fever, cough, or respiratory distress."
+    },
+    {
+      "ranges": [
+        [
+          7070,
+          7166
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory conditions, such as a hematoma or a fibromatosis, are also possible considerations."
+    },
+    {
+      "ranges": [
+        [
+          7655,
+          7756
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Neoplastic diseases, such as a neuroblastoma or a teratoma, are critical considerations in this case."
+    },
+    {
+      "ranges": [
+        [
+          5766,
+          6026
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The mass's location in the posterior sulcus of the left hemithorax, its extension laterally from the paraspinal region, and its nonhomogeneous appearance with small areas of lower density on CT scans are critical findings that guide the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          7876,
+          8014
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The imaging characteristics of the mass, including its location, size, and nonhomogeneous appearance, are consistent with a neuroblastoma."
+    },
+    {
+      "ranges": [
+        [
+          8029,
+          8145
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the patient's age and lack of symptoms, aside from recent nasal congestion, are also consistent with this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10324,
+          10514
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The CT scan showed a mass in the posterior sulcus of the left hemithorax that extended laterally from the paraspinal region, with no enhancement with contrast material and no calcifications."
+    },
+    {
+      "ranges": [
+        [
+          10515,
+          10749
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The MRI scan showed a mass in the left paravertebral gutter that was unchanged in size since the earlier CT scan, with a slight hyperintensity on T1-weighted images and a significant increase in signal intensity on T2-weighted images."
+    },
+    {
+      "ranges": [
+        [
+          8908,
+          9073
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's recent nasal congestion and agitation also warrant consideration, as these symptoms may be related to the underlying diagnosis or a separate condition."
+    },
+    {
+      "ranges": [
+        [
+          13097,
+          13238
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The imaging characteristics of the mass and the patient's laboratory abnormalities also require careful consideration and further evaluation."
+    },
+    {
+      "ranges": [
+        [
+          10764,
+          10921
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "characteristics are consistent with a neuroblastoma, although other diagnoses cannot be excluded without further evaluation and diagnostic testing.\n\nIn concl"
+    },
+    {
+      "ranges": [
+        [
+          11700,
+          11881
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's age and lack of symptoms make this case even more challenging, as many conditions that present with a posterior mediastinal mass in adults are less common in children."
+    },
+    {
+      "ranges": [
+        [
+          11412,
+          11588
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "A thorough diagnostic workup, including laboratory tests, imaging studies, and possibly a biopsy, is necessary to establish a definitive diagnosis and guide further management."
+    },
+    {
+      "ranges": [
+        [
+          16273,
+          16421
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's diagnosis and management will require a multidisciplinary approach, including pediatricians, radiologists, pathologists, and surgeons."
+    }
+  ]
+}

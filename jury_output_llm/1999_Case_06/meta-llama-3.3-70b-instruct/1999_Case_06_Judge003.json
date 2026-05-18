@@ -1,0 +1,150 @@
+{
+  "case": "1999 Case 06__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T02:37:04.549088+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4540,
+          4683
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis can be broadly categorized into several groups, including inflammatory, infectious, genetic, and systemic disorders."
+    },
+    {
+      "ranges": [
+        [
+          4966,
+          5104
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Conditions such as Cogan syndrome, which is characterized by interstitial keratitis and vestibular-auditory symptoms, could be considered."
+    },
+    {
+      "ranges": [
+        [
+          5412,
+          5587
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Conditions such as Marfan syndrome, Ehlers-Danlos syndrome, and Loeys-Dietz syndrome are known to cause aortic aneurysms and could be considered in the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          5791,
+          6034
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's history of \"migraine headaches\" and the presence of a \"buffalo hump\" and striae on the skin suggest the possibility of Cushing's syndrome, which could be caused by prolonged corticosteroid use or an underlying endocrine disorder."
+    },
+    {
+      "ranges": [
+        [
+          5236,
+          5411
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of a thoracoabdominal aneurysm in a young patient is unusual and suggests a connective tissue disorder or a genetic condition that affects the vascular system."
+    },
+    {
+      "ranges": [
+        [
+          6375,
+          6563
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of a faint epigastric bruit and the patient's history of abdominal discomfort with oral corticosteroids could indicate the presence of a vascular or gastrointestinal disorder."
+    },
+    {
+      "ranges": [
+        [
+          4695,
+          4866
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the patient's symptoms of ocular irritation and sensorineural deafness, which progressed to almost total bilateral deafness, suggest an inflammatory or autoimmune process."
+    },
+    {
+      "ranges": [
+        [
+          4867,
+          4965
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The improvement in ocular symptoms with corticosteroid treatment further supports this hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          12727,
+          12986
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's age, sex, and symptoms, as well as the presence of a nonidentical twin sister who is well, make a genetic disorder less likely, although the possibility of a sporadic genetic mutation or a condition with variable expressivity cannot be excluded."
+    },
+    {
+      "ranges": [
+        [
+          8439,
+          8603
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of bilateral sensorineural deafness and ocular irritation, which improved with corticosteroid treatment, suggests an autoimmune or inflammatory process"
+    },
+    {
+      "ranges": [
+        [
+          15983,
+          16213
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of a thoracoabdominal aneurysm and the patient's other vascular symptoms suggest that the patient is at risk for cardiovascular complications, such as rupture of the aneurysm or stenosis of the aorta and its branches."
+    },
+    {
+      "ranges": [
+        [
+          13410,
+          13676
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "other systemic disorders that could potentially explain the patient's symptoms include Kawasaki disease, which is a medium vessel vasculitis that can cause aneurysms and stenosis of the coronary arteries, as well as symptoms such as fever, rash, and lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          13773,
+          14015
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Another condition that could be considered is polyarteritis nodosa, which is a medium vessel vasculitis that can cause aneurysms and stenosis of the arteries, as well as symptoms such as hypertension, renal disease, and neurological symptoms."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "case": "1990 Case 19__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-17T22:49:29.731050+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          21085,
+          21171
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling unifying diagnosis is **hydatid disease (cystic echinococcosis)**."
+    },
+    {
+      "ranges": [
+        [
+          21847,
+          22057
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Alternative considerations include **pyogenic liver abscess**, though this is typically more acute, with higher transaminases, and often presents with chills and rigors rather than low-grade intermittent fever."
+    },
+    {
+      "ranges": [
+        [
+          21774,
+          21845
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The lack of response to metronidazole further argues against amebiasis."
+    },
+    {
+      "ranges": [
+        [
+          9368,
+          9654
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of classic signs of acute infection—such as cough, sore throat, rash, or gastrointestinal symptoms beyond transient diarrhea—combined with the chronicity and progression of his illness, suggests a subacute to chronic process rather than an acute bacterial or viral syndrome."
+    },
+    {
+      "ranges": [
+        [
+          11349,
+          11482
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of multiple septations and cystic components is more suggestive of a necrotic or abscessed lesion than a solid neoplasm."
+    },
+    {
+      "ranges": [
+        [
+          14382,
+          14534
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The imaging findings here are highly suggestive of a hydatid cyst: large, well-defined, cystic with septations, no contrast enhancement, and no capsule."
+    },
+    {
+      "ranges": [
+        [
+          10747,
+          10910
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Hepatoblastoma, the most common primary malignant liver tumor in children under age 5, is less common in older children, but not unheard of in the 10–15 age group."
+    },
+    {
+      "ranges": [
+        [
+          12663,
+          12819
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Amebic abscesses typically present with fever, hepatomegaly, right upper quadrant pain (often referred to the shoulder), weight loss, and systemic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          12820,
+          12986
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The classic presentation includes a single, large, right-lobe abscess with a “flask-shaped” appearance on imaging, often with internal septations and necrotic debris."
+    },
+    {
+      "ranges": [
+        [
+          13148,
+          13306
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The negative ELISA for anti-amebal antibodies is concerning, but false negatives can occur, especially early in infection or in immunocompromised individuals."
+    }
+  ]
+}

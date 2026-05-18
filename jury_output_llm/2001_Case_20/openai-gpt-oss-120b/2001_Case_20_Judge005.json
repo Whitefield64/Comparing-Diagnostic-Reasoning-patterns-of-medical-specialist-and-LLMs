@@ -1,0 +1,95 @@
+{
+  "case": "2001 Case 20__openai-gpt-oss-120b.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T03:56:22.854199+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23982,
+          24217
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **most compelling working diagnosis** is **subacute infective endocarditis caused by *Moraxella phenylpyruvica***, with the ulcerated atherosclerotic plaque serving either as a secondary nidus or as a conduit for bacterial seeding."
+    },
+    {
+      "ranges": [
+        [
+          31185,
+          31546
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **preponderance of evidence** points toward a **low‑grade, subacute infective process involving the cardiovascular system**, most plausibly **infective endocarditis caused by *Moraxella phenylpyruvica***, with the **ulcerated atherosclerotic plaque** acting either as the primary nidus or as a conduit that facilitated bacterial seeding of the aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          25361,
+          25634
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The transesophageal echo demonstrated **moderate atheromatous disease with an ulcerated plaque**.  Ulceration exposes the subendothelial matrix (collagen, fibronectin) and releases tissue factor, promoting platelet aggregation and a local inflammatory milieu rich in fibrin"
+    },
+    {
+      "ranges": [
+        [
+          25637,
+          25921
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Certain Gram‑negative organisms express adhesins (e.g., OmpA, pili) that bind to extracellular matrix proteins.  Although specific adhesins for *Moraxella* have not been delineated, experimental data suggest that *Moraxella* can adhere to damaged epithelium and to prosthetic material"
+    },
+    {
+      "ranges": [
+        [
+          15442,
+          15732
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the organism were actually an *Acinetobacter* or *Pseudomonas* species, the clinical spectrum would shift toward **nosocomial, opportunistic infections**, often associated with **ventilator‑associated pneumonia**, **catheter‑related bloodstream infection**, or **soft‑tissue infection**."
+    },
+    {
+      "ranges": [
+        [
+          26737,
+          26923
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The **elevated ESR (59 mm/hr)** reflects a nonspecific acute‑phase response, driven by cytokines such as IL‑6 and TNF‑α released by activated macrophages in the infected plaque or valve."
+    },
+    {
+      "ranges": [
+        [
+          27427,
+          27805
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s temperature normalized after 48 h of cefuroxime, suggesting **adequate antimicrobial activity**.  However, **persistent low‑grade bacteremia (culture positive on day 6)** raises the possibility that the antibiotic penetrates poorly into the **avascular plaque or micro‑vegetations**, or that the bacterial load within the plaque is **protected by a fibrin matrix**"
+    },
+    {
+      "ranges": [
+        [
+          32532,
+          32737
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "he **working diagnosis** should be articulated as:\n\n> **Subacute infective endocarditis due to *Moraxella phenylpyruvica* with probable involvement of an ulcerated thoracic aortic atherosclerotic plaque.**"
+    }
+  ]
+}

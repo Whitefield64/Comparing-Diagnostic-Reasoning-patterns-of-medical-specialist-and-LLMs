@@ -1,0 +1,227 @@
+{
+  "case": "1992 Case 41__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T00:43:08.017142+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7560,
+          7731
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling consideration is right ventricular outflow tract obstruction due to pulmonary valve stenosis, possibly with associated dysplasia or annular hypoplasia."
+    },
+    {
+      "ranges": [
+        [
+          6682,
+          6750
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another possibility is a subaortic or supravalvular aortic stenosis."
+    },
+    {
+      "ranges": [
+        [
+          4901,
+          5045
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most common congenital causes of such a murmur include pulmonary stenosis, hypertrophic cardiomyopathy, and ventricular septal defect (VSD)."
+    },
+    {
+      "ranges": [
+        [
+          5046,
+          5223
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the absence of a thrill, normal heart size on chest radiograph, and lack of right ventricular hypertrophy on ECG argue against severe pulmonary stenosis or a large VSD."
+    },
+    {
+      "ranges": [
+        [
+          5765,
+          6025
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The murmur’s radiation to the apex is unusual for isolated pulmonary stenosis but can occur in conditions with high-velocity flow across the right ventricular outflow tract, such as in a large atrial septal defect (ASD) with significant left-to-right shunting."
+    },
+    {
+      "ranges": [
+        [
+          11091,
+          11228
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A more intriguing possibility is that this child has a genetic or syndromic condition that links both his urologic and cardiac anomalies."
+    },
+    {
+      "ranges": [
+        [
+          11487,
+          11660
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most relevant syndromes include VACTERL association (vertebral, anal, cardiac, tracheoesophageal, renal, limb), but this child has no vertebral, anal, or limb anomalies."
+    },
+    {
+      "ranges": [
+        [
+          11767,
+          11953
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "More compelling is the possibility of **CHARGE syndrome**, which includes Coloboma, Heart defect, Atresia choanae, Retarded growth and development, Genital hypoplasia, and Ear anomalies."
+    },
+    {
+      "ranges": [
+        [
+          12052,
+          12261
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another possibility is **DiGeorge syndrome (22q11.2 deletion syndrome)**, which is associated with conotruncal cardiac defects such as tetralogy of Fallot, truncus arteriosus, interrupted aortic arch, and VSD."
+    },
+    {
+      "ranges": [
+        [
+          12539,
+          12836
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A rarer but important consideration is **Prune Belly syndrome** (Eagle-Barrett syndrome), which is characterized by deficient abdominal musculature, bilateral cryptorchidism, and urinary tract abnormalities including hydronephrosis, megaureters, bladder diverticula, and posterior urethral valves."
+    },
+    {
+      "ranges": [
+        [
+          10644,
+          10817
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The possibility of cardiorenal syndrome must be entertained, but the murmur’s location and quality do not fit the typical findings of hypertensive heart disease in children."
+    },
+    {
+      "ranges": [
+        [
+          14393,
+          14542
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another consideration is **Alport syndrome**, which can present with progressive renal disease, sensorineural hearing loss, and ocular abnormalities."
+    },
+    {
+      "ranges": [
+        [
+          15993,
+          16217
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most parsimonious explanation that unifies the urologic and cardiac findings is **Prune Belly syndrome with an associated congenital cardiac anomaly**, most likely a small atrial septal defect or mild pulmonary stenosis."
+    },
+    {
+      "ranges": [
+        [
+          5224,
+          5434
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "In pulmonary stenosis, one typically expects a delayed and diminished pulmonic component of S2, and often a palpable right ventricular lift or right ventricular hypertrophy on ECG, neither of which are present."
+    },
+    {
+      "ranges": [
+        [
+          5435,
+          5763
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The ECG shows only right ventricular conduction delay without hypertrophy, which is an important distinction: conduction delay can occur in chronic volume or pressure overload states, but the absence of voltage criteria for right ventricular hypertrophy suggests that any right heart strain is either mild or not yet structural."
+    },
+    {
+      "ranges": [
+        [
+          10268,
+          10492
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the murmur is systolic ejection in character and localized to the right sternal border, not a high-pitched systolic murmur of aortic regurgitation or a diastolic murmur of renal hypertension-induced hyperdynamic circulation."
+    },
+    {
+      "ranges": [
+        [
+          10493,
+          10642
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "While chronic hypertension can cause left ventricular hypertrophy and a hyperdynamic precordium, the murmur here is not consistent with that pattern."
+    },
+    {
+      "ranges": [
+        [
+          7141,
+          7265
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The blood pressure is elevated (130/75 mm Hg) in both upper and lower extremities, which rules out coarctation of the aorta."
+    },
+    {
+      "ranges": [
+        [
+          4659,
+          4794
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of an ejection click, diastolic murmur, or signs of volume overload such as a gallop rhythm or peripheral edema is notable."
+    },
+    {
+      "ranges": [
+        [
+          7975,
+          8170
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The chest radiograph shows increased pulmonary vasculature, which is inconsistent with severe pulmonary stenosis, as that would typically show decreased pulmonary vascularity due to reduced flow."
+    }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "case": "1999 Case 10__openai-gpt-oss-120b.md",
+  "exported_at": "2026-05-18T03:30:57.989768+00:00",
+  "n_voters": 15,
+  "n_successful": 15,
+  "n_failed": 0,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present, instead the patient has cortical blindness secondary to bilateral occipital infarcts."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "The most common disease involving both the large and small vessels is atherosclerosis, but the patient's presentation is not typical of atherosclerosis, and the vessels involved and the laboratory evidence suggest that he had a systemic vasculitis."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of pulmonary-renal syndrome, with rapidly progressive renal failure and diffuse alveolar hemorrhage, is typical of ANCA-associated vasculitis, particularly microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of ANCA-associated vasculitis involve the temporal artery, the patient's presentation with pulmonary-renal syndrome and cerebral infarcts suggests a high probability of microscopic polyangiitis."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries, which is consistent with the pathophysiology of ANCA-associated vasculitis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but the patient's clinical presentation and laboratory findings are consistent with microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary ANCA-associated vasculitis, specifically microscopic polyangiitis, although I am troubled by the absence of reported ANCA status."
+        },
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "Given the clinical presentation and laboratory findings, the leading diagnosis is microscopic polyangiitis, with a pauci-immune necrotizing vasculitis affecting capillaries, venules, and arterioles, producing pulmonary capillaritis, necrotizing glomerulonephritis, and cutaneous leukocytoclastic vasculitis."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysfunction of small- to medium-sized vessels can cause necrotizing glomerulonephritis, pulmonary capillaritis, and cutaneous leukocytoclastic vasculitis, which are all seen in this patient."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If MPA is the diagnosis, we would expect to see pauci-immune necrotizing crescentic glomerulonephritis on renal biopsy and possibly alveolar hemorrhage on bronchoalveolar lavage."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The patient's presentation can be grouped into several categories, including ANCA-associated vasculitis, anti-GBM disease, and immune-complex small-vessel vasculitis, based on the underlying cause of the disease."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out life-threatening conditions such as catastrophic antiphospholipid syndrome and severe malignant hypertension before considering other diagnoses like MPA."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient's clinical presentation, including renal failure, pulmonary infiltrates, and skin lesions, is consistent with MPA, which validates our initial suspicion."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "Given the patient's complex presentation, I have a strong suspicion that MPA is the underlying diagnosis, despite the need for further testing to confirm."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of MPA given the patient's clinical presentation is high, especially when considering the combination of renal failure, pulmonary infiltrates, and skin lesions, which are all characteristic of this disease."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of MPA that presented with renal failure, pulmonary infiltrates, and skin lesions, which was confirmed by renal biopsy and ANCA testing."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries, is not present in this text, instead: Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present, instead: The disease’s pathophysiology accounts for each organ system involved: necrotizing glomerulonephritis explains the renal findings; pulmonary capillaritis accounts for the respiratory distress and radiographic infiltrates; small-vessel cerebral vasculitis produces the occipital infarcts; and leukocytoclastic vasculitis of the skin generates the necrotic papules."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If MPA is the correct diagnosis, then we would expect to find MPO-ANCA (p-ANCA) positivity, pauci-immune necrotizing crescentic glomerulonephritis on renal biopsy, and possibly pulmonary capillaritis on bronchoscopy with bronchoalveolar lavage (BAL)."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of pulmonary-renal syndrome, cerebral infarcts in posterior circulation, cutaneous small-vessel vasculitis, and systemic inflammation fits the classic presentation of microscopic polyangiitis (MPA)."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the clinical presentation and laboratory findings, the probability of MPA is higher than that of other differential diagnoses, such as catastrophic antiphospholipid syndrome, cryoglobulinemic vasculitis, or anti-GBM disease."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s multisystem presentation, with acute renal failure, bilateral pulmonary infiltrates, cerebral infarcts, and necrotic purpuric skin lesions, is reminiscent of previously reported cases of microscopic polyangiitis."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 10,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysfunction of these vessels can lead to the observed clinical picture: renal failure from glomerulonephritis, pulmonary hemorrhage from capillaritis, and skin lesions from leukocytoclastic vasculitis."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If MPA is the correct diagnosis, then we should find evidence of pauci-immune necrotizing vasculitis on renal biopsy and possibly MPO-ANCA positivity."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnosis of MPA is supported by the presence of pulmonary-renal syndrome, cerebral infarcts in the posterior circulation, and cutaneous small-vessel vasculitis, which are all characteristic of ANCA-associated vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of pulmonary-renal syndrome, cerebral infarcts, and cutaneous vasculitis is highly suggestive of microscopic polyangiitis, which is a classic presentation of this disease."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the presence of pulmonary-renal syndrome, the probability of MPA increases, and the absence of granulomatous lesions and eosinophilia decreases the likelihood of GPA and EGPA, respectively."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The patient's renal failure, pulmonary hemorrhage, and skin lesions can be explained by the dysfunction of small- to medium-sized vessels, which is a hallmark of microscopic polyangiitis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The clinical presentation, laboratory findings, and imaging studies all support the diagnosis of microscopic polyangiitis, and the absence of alternative explanations strengthens this conclusion."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "Given the combination of renal, pulmonary, and cerebral involvement, I suspect that the patient has a systemic vasculitis, and MPA is the most likely diagnosis based on the clinical presentation."
+        },
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "The diagnosis of microscopic polyangiitis is further supported by the presence of hydronephrosis, which can be secondary to ureteral edema or extrinsic compression from perirenal inflammation."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of a patient with pulmonary-renal syndrome and cerebral infarcts, who was diagnosed with microscopic polyangiitis, and this case has a similar presentation."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present, instead the patient has cortical blindness secondary to bilateral occipital infarcts, which is more indicative of a vasculitic process."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has ANCA-associated vasculitis, we would expect to see pulmonary-renal syndrome, which is consistent with the patient's presentation of bilateral pulmonary infiltrates and acute renal failure."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of vasculitis can be grouped based on the size of the vessels involved, such as small-vessel vasculitis (ANCA-associated), medium-vessel vasculitis (PAN), and large-vessel vasculitis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out the more life-threatening conditions such as catastrophic antiphospholipid syndrome, severe malignant hypertension, and disseminated intravascular coagulation before considering other diagnoses like microscopic polyangiitis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The presence of MPO-ANCA (p-ANCA) would strongly support the diagnosis of microscopic polyangiitis, which is consistent with the patient's clinical presentation and histopathological findings."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of pulmonary-renal syndrome, cerebral infarcts, and cutaneous small-vessel vasculitis is most consistent with microscopic polyangiitis, which is a type of ANCA-associated vasculitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I have a strong clinical intuition that the patient's presentation is more consistent with a systemic vasculitis, such as microscopic polyangiitis, rather than other conditions like anti-GBM disease or catastrophic antiphospholipid syndrome."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the patient's clinical presentation, the probability of microscopic polyangiitis is higher than that of other conditions, and this probability increases with the presence of MPO-ANCA (p-ANCA) and pauci-immune necrotizing crescentic glomerulonephritis on renal biopsy."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of a patient with microscopic polyangiitis who presented with pulmonary-renal syndrome and cerebral infarcts, which was diagnosed based on the presence of MPO-ANCA (p-ANCA) and pauci-immune necrotizing crescentic glomerulonephritis on renal biopsy."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present, instead the patient has cortical blindness secondary to bilateral occipital infarcts, which can be caused by a vasculitic or thrombotic process affecting small cerebral vessels."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If MPA is the diagnosis, then the patient should have a positive MPO-ANCA (p-ANCA) test and pauci-immune necrotizing crescentic glomerulonephritis on renal biopsy."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of vasculitis can be grouped based on the size of the vessels involved, the presence of ANCA, and the type of immune deposits, to determine the most likely diagnosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first consider the most life-threatening diagnoses, such as catastrophic antiphospholipid syndrome, severe malignant hypertension, and disseminated intravascular coagulation, before moving on to less urgent diagnoses like microscopic polyangiitis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but the patient's clinical presentation and laboratory results are consistent with microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of pulmonary-renal syndrome, cerebral infarcts, and cutaneous small-vessel vasculitis matches the classic presentation of microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is microscopic polyangiitis, given the combination of renal, pulmonary, and neurologic findings, although I am troubled by the absence of reported ANCA status."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of ANCA-associated vasculitis involve the temporal artery, the presence of pulmonary-renal syndrome and cerebral infarcts in this patient raises the probability of microscopic polyangiitis, especially if MPO-ANCA is positive."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with microscopic polyangiitis who presented with pulmonary-renal syndrome and cerebral infarcts, and the diagnosis was confirmed by positive MPO-ANCA and pauci-immune necrotizing crescentic glomerulonephritis on renal biopsy."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysfunction in small- to medium-sized vessels could account for the observed organ involvement, including renal failure, pulmonary infiltrates, and cerebral infarcts."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has ANCA-associated vasculitis, we would expect to see positive ANCA serology and pauci-immune necrotizing crescentic glomerulonephritis on renal biopsy."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnosis of ANCA-associated vasculitis is based on the presence of ANCA antibodies and characteristic histopathological findings, such as pauci-immune necrotizing crescentic glomerulonephritis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out other potential causes of the patient's symptoms, such as infection or malignancy, before considering a diagnosis of ANCA-associated vasculitis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient's clinical presentation, including renal failure, pulmonary infiltrates, and cerebral infarcts, is consistent with a diagnosis of ANCA-associated vasculitis, particularly microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The patient's multisystem presentation, including renal failure, pulmonary infiltrates, and cerebral infarcts, is reminiscent of a classic case of microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "Given the patient's complex presentation, I have a strong suspicion that the underlying diagnosis is ANCA-associated vasculitis, despite the lack of definitive proof."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of ANCA-associated vasculitis given the patient's clinical presentation is high, based on the presence of renal failure, pulmonary infiltrates, and cerebral infarcts, which are all characteristic features of this disease."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of microscopic polyangiitis that presented with renal failure, pulmonary infiltrates, and cerebral infarcts, which was successfully treated with immunosuppressive therapy."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 12,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysfunction in small vessels could lead to the observed renal failure, pulmonary infiltrates, and cerebral infarcts, as these organs are particularly sensitive to hypoperfusion and thrombosis."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has ANCA-associated vasculitis, we would expect to find evidence of necrotizing glomerulonephritis on renal biopsy and possibly alveolar hemorrhage on bronchoalveolar lavage."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "According to the Chapel Hill Consensus Conference, ANCA-associated vasculitis is characterized by the presence of ANCA and necrotizing vasculitis without granulomatous inflammation, which fits the patient's presentation."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The presence of pulmonary-renal syndrome, cerebral infarcts, and cutaneous necrosis, along with the lack of granulomatous inflammation, supports the diagnosis of microscopic polyangiitis over other forms of vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The combination of renal failure, pulmonary infiltrates, and cerebral infarcts is reminiscent of a pulmonary-renal syndrome, which is commonly seen in ANCA-associated vasculitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "Given the patient's complex presentation, I have a strong suspicion that the underlying diagnosis is a form of systemic vasculitis, possibly microscopic polyangiitis, which would require urgent immunosuppressive treatment."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of microscopic polyangiitis given the patient's symptoms and laboratory findings is higher than that of other differential diagnoses, such as anti-GBM disease or catastrophic antiphospholipid syndrome."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of a patient with microscopic polyangiitis who presented with renal failure, pulmonary infiltrates, and cerebral infarcts, which was successfully treated with immunosuppression."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The patient's symptoms can be explained by a systemic vasculitis that affects small- to medium-sized vessels, leading to a pro-thrombotic state and subsequent organ damage."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has microscopic polyangiitis, we would expect to see a positive ANCA test, specifically MPO-ANCA, and evidence of necrotizing glomerulonephritis on renal biopsy."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnostic criteria for ANCA-associated vasculitis include the presence of ANCA, necrotizing vasculitis, and the absence of granulomatous inflammation, which are all present in this patient."
+        },
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "Given the patient's presentation, the most likely diagnosis is microscopic polyangiitis, which is a form of ANCA-associated vasculitis that affects small- to medium-sized vessels."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If MPA is the diagnosis, then we would expect to find pauci-immune necrotizing crescentic glomerulonephritis on renal biopsy and MPO-ANCA positivity on serologic testing."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The presence of pulmonary-renal syndrome, cerebral infarcts, and cutaneous small-vessel vasculitis, along with the absence of classic features for other entities, supports the diagnosis of microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the clinical presentation and laboratory findings, the probability of microscopic polyangiitis is higher than that of other differential diagnoses, such as catastrophic antiphospholipid syndrome or cryoglobulinemic vasculitis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient's presentation is reminiscent of previously reported cases of microscopic polyangiitis, which often present with a combination of renal, pulmonary, and cutaneous involvement."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present, instead the patient has cortical blindness secondary to bilateral occipital infarcts."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If this were MPA, we would expect to see pulmonary capillaritis, necrotizing glomerulonephritis, and cutaneous leukocytoclastic vasculitis."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out catastrophic antiphospholipid syndrome, given the presence of multiple organ infarcts and skin necrosis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but the clinical presentation still suggests MPA."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of pulmonary-renal syndrome, cerebral infarcts, and cutaneous small-vessel vasculitis matches the description of microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary vasculitic process, given the multi-system involvement and the absence of a clear infectious or malignant cause."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of vasculitis involve the renal and pulmonary systems, the presence of cerebral infarcts and cutaneous necrosis increases the probability of microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "This case reminds me of a previous patient with microscopic polyangiitis, who presented with similar renal, pulmonary, and cutaneous findings."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysfunction of these vessels can lead to the observed organ involvement, including renal failure, pulmonary hemorrhage, and cerebral infarcts."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If MPA is the correct diagnosis, we would expect to find pauci-immune necrotizing crescentic glomerulonephritis on renal biopsy and possibly alveolar hemorrhage on bronchoscopy."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The presence of pulmonary-renal syndrome, cerebral infarcts, and cutaneous small-vessel vasculitis suggests a systemic vasculitis, which can be further classified based on the size of the vessels involved and the presence of ANCA."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of pulmonary-renal syndrome, cerebral infarcts, and cutaneous small-vessel vasculitis is highly suggestive of a systemic vasculitis, particularly microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the presence of pulmonary-renal syndrome and cerebral infarcts, the probability of microscopic polyangiitis is increased, especially in the absence of alternative explanations for these findings."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The clinical presentation, laboratory findings, and imaging results are all consistent with the diagnosis of microscopic polyangiitis, which validates our initial hypothesis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "Based on the patient's clinical presentation and the absence of alternative explanations, it is likely that the patient has microscopic polyangiitis, despite the lack of definitive diagnostic testing at this point."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The pathophysiology of microscopic polyangiitis, involving pauci-immune necrotizing vasculitis of small- to medium-sized vessels, accounts for the patient's renal failure, pulmonary hemorrhage, and cerebral infarcts."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out other potential causes of the patient's symptoms, such as infection or malignancy, before confirming the diagnosis of microscopic polyangiitis."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 11,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysfunction of small- to medium-sized vessels can cause necrotizing glomerulonephritis, pulmonary capillaritis, cerebral small-vessel vasculitis, and cutaneous leukocytoclastic vasculitis, which explains the renal, pulmonary, neurologic, and cutaneous manifestations."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has ANCA-associated vasculitis, we would expect to find pauci-immune necrotizing crescentic glomerulonephritis on renal biopsy and possibly alveolar hemorrhage on bronchoscopy."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnosis of ANCA-associated vasculitis is based on the presence of ANCA antibodies (MPO-ANCA or PR3-ANCA) and the clinical manifestations of small-vessel vasculitis, such as renal, pulmonary, and cutaneous involvement."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The patient's presentation with a pulmonary-renal syndrome, cerebral infarcts, and cutaneous necrosis is typical of microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the patient's clinical presentation and the absence of alternative explanations, the probability of microscopic polyangiitis is increased, and this diagnosis should be considered as the primary cause of the patient's symptoms."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The presence of hydronephrosis could be secondary to ureteral edema or extrinsic compression from perirenal inflammation, which is a recognized but uncommon manifestation of microscopic polyangiitis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient's clinical presentation, laboratory results, and imaging findings are consistent with microscopic polyangiitis, which supports this diagnosis as the most likely explanation for the patient's condition."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The combination of renal, pulmonary, and cutaneous involvement, along with the presence of cerebral infarcts, suggests a systemic vasculitis, and microscopic polyangiitis is the most likely diagnosis based on the patient's clinical presentation."
+        },
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "Alternative diagnoses, such as catastrophic antiphospholipid syndrome, cryoglobulinemic vasculitis, and anti-GBM disease, should be considered, but the patient's clinical presentation and laboratory results make microscopic polyangiitis the most likely diagnosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "Before considering other diagnoses, it is essential to rule out life-threatening conditions, such as severe malignant hypertension and disseminated intravascular coagulation, which can present with similar symptoms."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient's clinical presentation is similar to previously reported cases of microscopic polyangiitis, which supports this diagnosis as the most likely explanation for the patient's condition."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysfunction in small- to medium-sized vessels can lead to the observed organ involvement, including renal failure, pulmonary infiltrates, cerebral infarcts, and skin lesions."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If MPA is the correct diagnosis, then we would expect to find pauci-immune necrotizing crescentic glomerulonephritis on renal biopsy and positive MPO-ANCA serology."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The patient's presentation meets the criteria for a pulmonary-renal syndrome, which includes diffuse alveolar hemorrhage and rapidly progressive renal failure."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of pulmonary-renal syndrome, cerebral infarcts, and cutaneous small-vessel vasculitis is most consistent with microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "Given the patient's multisystem presentation, I think that the most likely diagnosis is a pauci-immune small-vessel vasculitis, specifically microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although other diagnoses are possible, the presence of pulmonary-renal syndrome, cerebral infarcts, and cutaneous small-vessel vasculitis increases the probability of microscopic polyangiitis."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The patient's symptoms, including progressive epigastric discomfort, left-sided hydronephrosis, and abrupt fulminant syndrome, can be explained by the underlying pathophysiology of microscopic polyangiitis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient's clinical presentation, laboratory results, and imaging findings are consistent with the diagnosis of microscopic polyangiitis, which validates our initial hypothesis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with microscopic polyangiitis who presented with pulmonary-renal syndrome and cutaneous small-vessel vasculitis, which supports our diagnosis in this case."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 14,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysfunction in small- to medium-sized vessels can lead to a pulmonary-renal syndrome, which is characterized by diffuse alveolar hemorrhage and rapidly progressive glomerulonephritis."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has ANCA-associated vasculitis, then we would expect to see positive ANCA serology and pauci-immune necrotizing crescentic glomerulonephritis on renal biopsy."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnosis of ANCA-associated vasculitis is based on the presence of ANCA serology and characteristic histopathological findings, such as pauci-immune necrotizing crescentic glomerulonephritis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out other causes of pulmonary-renal syndrome, such as anti-GBM disease, before considering ANCA-associated vasculitis as the primary diagnosis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The presence of pulmonary infiltrates, renal failure, and skin lesions is consistent with a diagnosis of ANCA-associated vasculitis, specifically microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The clinical presentation of pulmonary-renal syndrome, cerebral infarcts, and cutaneous small-vessel vasculitis is reminiscent of microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I have a strong suspicion that the patient has microscopic polyangiitis based on the combination of renal, pulmonary, and neurologic findings."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the patient's age, sex, and clinical presentation, the probability of microscopic polyangiitis is higher than that of other differential diagnoses, such as anti-GBM disease or catastrophic antiphospholipid syndrome."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of a patient with microscopic polyangiitis who presented with pulmonary-renal syndrome and cerebral infarcts, which suggests that this diagnosis should be considered in this patient."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The patient's symptoms, such as epigastric discomfort, left-sided hydronephrosis, and abrupt fulminant syndrome, can be explained by the underlying pathophysiological mechanism of small-vessel vasculitis."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The skin biopsy showing diffuse intravascular coagulation with lymphocytic inflammation is consistent with a diagnosis of microscopic polyangiitis."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has microscopic polyangiitis, then we would expect to see a positive MPO-ANCA serology and pauci-immune necrotizing crescentic glomerulonephritis on renal biopsy."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The combination of pulmonary infiltrates, renal failure, and skin lesions is a classic presentation of microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the patient's clinical presentation and laboratory results, the probability of microscopic polyangiitis is higher than that of other differential diagnoses."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If MPA is the correct diagnosis, then we would expect to find pauci-immune necrotizing crescentic glomerulonephritis on renal biopsy and possibly MPO-ANCA positivity."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of pulmonary-renal syndrome, cerebral infarcts in posterior circulation, and cutaneous small-vessel vasculitis is most characteristic of ANCA-associated vasculitis, especially microscopic polyangiitis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the clinical presentation and laboratory findings, the probability of microscopic polyangiitis is higher than that of other differential diagnoses, such as catastrophic antiphospholipid syndrome or cryoglobulinemic vasculitis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s multisystem presentation resembles that of previously reported cases of microscopic polyangiitis, which often present with renal and pulmonary involvement, as well as skin and neurologic manifestations."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The coexistence of diffuse alveolar infiltrates and rapidly progressive renal failure with active urinary sediment is most characteristic of ANCA-associated vasculitis or anti-GBM disease."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out other life-threatening conditions, such as catastrophic antiphospholipid syndrome or severe malignant hypertension, before confirming the diagnosis of microscopic polyangiitis."
+        }
+      ]
+    }
+  ]
+}

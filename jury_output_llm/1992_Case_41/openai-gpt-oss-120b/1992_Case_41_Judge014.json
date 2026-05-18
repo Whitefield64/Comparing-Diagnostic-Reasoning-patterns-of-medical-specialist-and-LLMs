@@ -1,0 +1,139 @@
+{
+  "case": "1992 Case 41__openai-gpt-oss-120b.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T00:29:10.694832+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23216,
+          23458
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling concordance is between the murmur’s acoustic characteristics (harsh, long systolic ejection, radiation to apex) and a left‑sided outflow obstruction, most commonly **valvar aortic stenosis** due to a bicuspid aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          23460,
+          23684
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of systemic hypertension is readily explained by chronic obstructive uropathy with renin‑angiotensin activation, and the hypertension may be contributing to the LV pressure load, thereby accentuating the murmur."
+    },
+    {
+      "ranges": [
+        [
+          24500,
+          24620
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hypertension likely augments LV afterload, amplifying the murmur and accounting for the hyperdynamic apical impulse."
+    },
+    {
+      "ranges": [
+        [
+          26761,
+          26920
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the aortic stenosis is moderate‑to‑severe, endocarditis prophylaxis may be indicated for dental procedures, in accordance with current pediatric guidelines."
+    },
+    {
+      "ranges": [
+        [
+          23686,
+          23993
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The right‑ventricular conduction delay on ECG, while atypical for isolated AS, could represent a mild, secondary effect of a modestly increased pulmonary flow (e.g., from a small, restrictive VSD or a small ASD that has not been clinically evident) or simply a variant of normal conduction in a young child."
+    },
+    {
+      "ranges": [
+        [
+          27969,
+          28157
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Recognizing the coexistence of renal‑derived hypertension is essential because it may hasten the progression of LV pressure overload and influence the timing of any interventional therapy."
+    },
+    {
+      "ranges": [
+        [
+          27599,
+          27827
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The murmur’s radiation to the apex, the hyperdynamic apical impulse, and the absence of differential pulses or cyanosis collectively support a left‑sided outflow obstruction rather than a right‑sided or systemic vascular lesion."
+    },
+    {
+      "ranges": [
+        [
+          25454,
+          25840
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A comprehensive transthoracic study is essential to (a) confirm the presence, morphology, and severity of aortic valve stenosis, (b) assess valve leaflet number (bicuspid vs tricuspid), (c) measure peak and mean gradients, (d) evaluate LV wall thickness and function, (e) look for associated lesions (ASD, VSD, subaortic membrane), and (f) quantify any secondary pulmonary hypertension."
+    },
+    {
+      "ranges": [
+        [
+          27282,
+          27396
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "In a toddler with severe congenital lower‑tract urinary obstruction, systemic hypertension is an expected sequela."
+    },
+    {
+      "ranges": [
+        [
+          27398,
+          27597
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the **harsh, long systolic ejection murmur** that has become progressively louder is most characteristic of **valvar aortic stenosis**, most commonly associated with a bicuspid aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          26049,
+          26183
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Serial serum creatinine, cystatin‑C, and renin/aldosterone levels to gauge the contribution of renal disease to systemic hypertension."
+    },
+    {
+      "ranges": [
+        [
+          28159,
+          28382
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Definitive imaging (echocardiography) will confirm the valve anatomy, quantify the gradient, and guide the multidisciplinary management plan that must address both the cardiac obstruction and the underlying renal pathology."
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "case": "1991 Case 43__openai-gpt-oss-120b.md",
+  "exported_at": "2026-05-17T23:26:16.208855+00:00",
+  "n_voters": 15,
+  "n_successful": 14,
+  "n_failed": 1,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the clinician thinks CMV pneumonitis is the most compelling diagnosis"
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculosis, but an autoimmune mechanism has also been postulated is not applicable here, instead the text suggests the consideration of  **Pentamidine‑induced interstitial pneumonitis** as a superimposed drug reaction"
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not applicable here, but the patient’s Caribbean origin and the detection of budding yeasts on BAL raise the possibility of a concurrent **Histoplasma** infection"
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 1,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present in this case, but the patient’s anemia (Hct ≈ 30 %), leukopenia, and striking hyperferritinemia are characteristic of MAC‑induced macrophage activation."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If CMV pneumonitis is the diagnosis, then we would expect to see elevated LDH, high ferritin, and a modest neutrophilic leukocytosis, which are all present in this patient."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnostic algorithm for pulmonary disease in AIDS involves first considering opportunistic infections such as PCP, CMV, and MAC, based on the patient’s CD4 count and clinical presentation."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The diagnostic hierarchy in this case should prioritize CMV pneumonitis, given the patient’s immunologic susceptibility, clinical hallmarks, and laboratory pattern, followed by consideration of other opportunistic infections such as PCP and MAC."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The cumulative negative microbiology, lack of classic radiographic “ground‑glass” description, and the presence of alternative pathogens weaken the hypothesis of PCP, but the patient’s initial response to TMP‑SMX and the high LDH still support PCP as a possible diagnosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of diffuse fine nodular opacities with subtle hilar prominence, combined with the patient’s immunologic susceptibility and clinical hallmarks, is typical of CMV pneumonitis and supports this diagnosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is CMV pneumonitis, although I am troubled by the negative serologic test and the presence of alternative pathogens."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery, the incidence of CMV pneumonitis in patients with CD4 < 50 cells µL⁻¹ is higher, and the patient’s clinical presentation and laboratory findings are more consistent with CMV."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with CMV pneumonitis who presented with hemoptysis, diffuse nodular infiltrates, and high ferritin, and was successfully treated with intravenous ganciclovir."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to be driven by the accumulation of immune suppression and opportunistic infections, and the patient’s presentation can be explained by the underlying pathophysiological mechanisms of CMV pneumonitis."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries is not mentioned in the text, however,  The **temporal association with aerosol pentamidine** and the known propensity of this drug to cause interstitial pneumonitis demand that drug‑induced injury be considered a **co‑factor** rather than the primary driver."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 1,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present, instead the patient has fever, non‑productive cough, progressive dyspnea, and **often** with **hemorrhagic bronchitis** leading to hemoptysis—mirroring the bright‑red blood expectorated on admission."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If CMV pneumonitis is the diagnosis, then we would expect to see elevated LDH, high ferritin, anemia of chronic disease, and a modest neutrophilic leukocytosis, which are all present in this patient."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The patient’s CD4 count of 45 cells µL⁻¹ places him at highest risk for PCP, and the initial hospitalization 8½ months earlier (fever, cough, dyspnea) responded promptly to intravenous trimethoprim‑sulfamethoxazole (TMP‑SMX), which is both therapeutic for PCP and prophylactic."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not applicable here, instead we must first rule out PCP, then consider CMV pneumonitis, followed by other opportunistic infections such as MAC and fungal pathogens."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The cumulative negative microbiology, lack of classic radiographic “ground‑glass” description, and the presence of alternative pathogens weaken the hypothesis of PCP, but the patient’s clinical presentation and laboratory results are consistent with CMV pneumonitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of diffuse fine nodular opacities with subtle hilar prominence is described in CMV pneumonitis, and the patient’s clinical presentation, including hemoptysis and high ferritin, fits the typical picture of CMV infection."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is CMV pneumonitis, although I am troubled by the negative serologic test and the presence of alternative pathogens."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of CMV pneumonitis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients, and the patient’s CD4 count and clinical presentation increase the likelihood of CMV infection."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with advanced AIDS who presented with hemoptysis and diffuse interstitial infiltrates, and was eventually diagnosed with CMV pneumonitis, which suggests that this diagnosis should be considered in this case as well."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present in this case, however, the patient’s CD4⁺ count of 45 cells µL⁻¹ places him at highest risk for opportunistic infections such as PCP and CMV."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If CMV pneumonitis is the diagnosis, then we would expect to see a positive quantitative CMV PCR on BAL fluid and plasma, as well as CMV inclusions on transbronchial lung biopsy."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, but in this case, the patient’s symptoms and lab results suggest an infectious cause."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, but in this case, the patient’s presentation is more consistent with an opportunistic infection such as CMV or PCP, therefore, these diagnoses should be considered first."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but the patient’s symptoms and lab results are consistent with CMV pneumonitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of diffuse fine nodular opacities with occasional hilar prominence is typical of CMV pneumonitis, especially in an immunocompromised patient with a CD4⁺ count < 50 cells µL⁻¹."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is CMV pneumonitis, given the patient’s immunologic susceptibility, clinical presentation, and laboratory results."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of PCP occur in patients with CD4⁺ counts < 200 cells µL⁻¹, the patient’s CD4⁺ count of 45 cells µL⁻¹ and the presence of high LDH and ferritin make CMV pneumonitis more likely, with a probability of > 50%."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with CMV pneumonitis who presented with hemoptysis, diffuse nodular infiltrates, and high LDH and ferritin, and was successfully treated with intravenous ganciclovir."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 1,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present in this case, however, the patient’s anemia (Hct ≈ 30 %), leukopenia, and striking hyperferritinemia are characteristic of MAC‑induced macrophage activation."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If CMV pneumonitis is the diagnosis, we would expect to see a positive quantitative CMV PCR on BAL fluid and plasma, and possibly CMV inclusions on lung biopsy."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis, however, the patient lacks systemic vasculitic features, and ANCA testing is not mentioned."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, however, the patient’s presentation with fever, non‑productive cough, progressive dyspnea, and diffuse bilateral interstitial infiltrates suggests an opportunistic infection, with CMV pneumonitis at the top of the hierarchy."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not relevant here, however, the patient’s clinical presentation, laboratory results, and radiographic pattern validate CMV pneumonitis as the most likely diagnosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of diffuse fine nodular opacities, hemoptysis, and high inflammatory markers matches the description of CMV pneumonitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary CMV pneumonitis, given the patient’s immunologic susceptibility, clinical hallmarks, laboratory pattern, radiologic pattern, and therapeutic response."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of CMV pneumonitis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients, and the patient’s presentation with hemoptysis and diffuse nodular infiltrates increases the probability of CMV pneumonitis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with advanced AIDS and CMV pneumonitis, who presented with hemoptysis, diffuse interstitial infiltrates, and high inflammatory markers, and was successfully treated with intravenous ganciclovir."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not applicable here but the reasoning for CMV pneumonitis can be seen in: The **negative microbiologic studies for PCP**, **absence of endobronchial lesions for Kaposi sarcoma**, and **lack of convincing evidence for mycobacterial infection** shift the diagnostic hierarchy away from those entities."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis is not applicable here but the diagnostic approach can be seen in: The patient’s presentation epitomizes the diagnostic complexity of pulmonary disease in advanced AIDS. A systematic appraisal of the data highlights **CMV pneumonitis** as the most compelling diagnosis, supported by the immunologic milieu, characteristic clinical signs (hemoptysis, diffuse nodular infiltrates), and laboratory markers (high LDH, high ferritin)."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present in this case, but hemoptysis, a hallmark of CMV bronchitis, is present."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis is not applicable here, but the diagnosis of CMV pneumonitis can be approached using a similar framework."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable, but the consideration of CMV pneumonitis as the primary diagnosis is based on a similar reasoning process."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation is not applicable here, but the presence of hemoptysis and diffuse nodular infiltrates are visual cues that support the diagnosis of CMV pneumonitis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not applicable here, but the validation of CMV pneumonitis as the primary diagnosis is based on a similar process of eliminating other possibilities."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not applicable here, but the consideration of CMV pneumonitis as the primary diagnosis is based on a similar reasoning process of considering rare but possible cases."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor is not applicable here, but the consideration of CMV pneumonitis as the primary diagnosis is based on a similar creative reasoning process of considering unusual but possible causes."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 0,
+      "unresolved": []
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "case": "1991 Case 43__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-17T23:19:33.981193+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          14692,
+          14807
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's symptoms and radiographic findings are consistent with PCP, and the diagnosis should be reconsidered."
+    },
+    {
+      "ranges": [
+        [
+          14808,
+          14977
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other opportunistic infections that should be considered include Mycobacterium tuberculosis (TB), Mycobacterium avium complex (MAC), and cytomegalovirus (CMV) pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          20173,
+          20326
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnoses in this case include PCP, TB, MAC, CMV pneumonia, and Candida pneumonia, and further testing is necessary to confirm the diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          14462,
+          14691
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although the patient's initial sputum examination was negative for P. jirovecii, the diagnosis of PCP can be challenging, and repeated sputum examinations or bronchoalveolar lavage (BAL) may be necessary to confirm the diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          14978,
+          15148
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's negative tuberculin skin test and negative acid-fast bacilli stains do not rule out TB or MAC, as these tests can be negative in immunocompromised patients."
+    },
+    {
+      "ranges": [
+        [
+          19365,
+          19510
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's treatment should be guided by the results of diagnostic tests, and he should be closely monitored for any changes in his condition."
+    },
+    {
+      "ranges": [
+        [
+          23318,
+          23489
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "In terms of prioritizing the differential diagnosis, the most likely diagnoses are PCP, TB, and MAC, given the patient's immunocompromised state and pulmonary infiltrates."
+    },
+    {
+      "ranges": [
+        [
+          20840,
+          20994
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's physical examination and laboratory results should also be carefully reviewed, and any changes in his condition should be closely monitored."
+    },
+    {
+      "ranges": [
+        [
+          14692,
+          14807
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms and radiographic findings are consistent with PCP, and the diagnosis should be reconsidered."
+    },
+    {
+      "ranges": [
+        [
+          19975,
+          20172
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's immunocompromised state and history of intravenous drug use increase his risk for certain infections, and a diagnosis of an opportunistic infection or malignancy should be considered."
+    },
+    {
+      "ranges": [
+        [
+          23910,
+          24090
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of recurrent genital herpes and multiple sexual partners increases his risk for certain infections, such as HIV, hepatitis, and sexually transmitted diseases."
+    }
+  ]
+}

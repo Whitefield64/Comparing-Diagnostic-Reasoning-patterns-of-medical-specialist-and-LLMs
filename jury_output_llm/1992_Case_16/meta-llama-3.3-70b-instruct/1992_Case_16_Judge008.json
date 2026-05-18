@@ -1,0 +1,117 @@
+{
+  "case": "1992 Case 16__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-17T23:40:21.221793+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5008,
+          5181
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the initial differential diagnosis should include conditions related to the traumatic events, such as fractures, dislocations, or ligamentous injuries of the cervical spine."
+    },
+    {
+      "ranges": [
+        [
+          5287,
+          5463
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of an osteolytic lesion and a soft-tissue mass on the CT scan suggests a more complex process, possibly involving infection, inflammation, or a neoplastic process."
+    },
+    {
+      "ranges": [
+        [
+          9206,
+          9304
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient's symptoms of cervical pain and neurologic deficits, make these diagnoses more likely."
+    },
+    {
+      "ranges": [
+        [
+          5464,
+          5618
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Infectious processes, such as osteomyelitis or discitis, should be considered, especially given the patient's history of infected cuticles and paronychia."
+    },
+    {
+      "ranges": [
+        [
+          6451,
+          6580
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's hematocrit and white-cell count are within normal limits, which makes a chronic inflammatory condition less likely."
+    },
+    {
+      "ranges": [
+        [
+          8770,
+          8957
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's symptoms and imaging findings suggest a serious underlying condition, and prompt diagnosis and treatment are essential to prevent further complications and improve outcomes."
+    },
+    {
+      "ranges": [
+        [
+          10437,
+          10562
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": " The patient's symptoms of paresthesias and clumsiness of the left hand suggest involvement of the spinal cord or nerve roots"
+    },
+    {
+      "ranges": [
+        [
+          16720,
+          16803
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's symptoms and imaging findings suggest a serious underlying condition,"
+    },
+    {
+      "ranges": [
+        [
+          9116,
+          9304
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of an osteolytic lesion and a soft-tissue mass on the CT scan, combined with the patient's symptoms of cervical pain and neurologic deficits, make these diagnoses more likely."
+    },
+    {
+      "ranges": [
+        [
+          13340,
+          13538
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's occupation as a surgical assistant and her history of infected cuticles and paronychia also raise concerns about the possibility of an occupational exposure to a pathogen or a foreign "
+    }
+  ]
+}

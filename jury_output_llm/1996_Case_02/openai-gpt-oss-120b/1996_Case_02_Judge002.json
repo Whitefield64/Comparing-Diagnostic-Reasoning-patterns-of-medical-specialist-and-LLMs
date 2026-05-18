@@ -1,0 +1,73 @@
+{
+  "case": "1996 Case 02__openai-gpt-oss-120b.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-18T01:55:55.807640+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          12752,
+          12970
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most plausible benign entities—giant hemangioma, FNH, and HCA—each explain some imaging features but fail to account for the systemic inflammatory picture (recurrent fevers, weight loss) and the auscultatory bruit."
+    },
+    {
+      "ranges": [
+        [
+          20652,
+          20837
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The imaging hallmark of a hypervascular lesion with a central scar, coupled with normal liver function and systemic inflammatory symptoms, points most strongly toward fibrolamellar HCC."
+    },
+    {
+      "ranges": [
+        [
+          14844,
+          14928
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "nstitutional symptoms are thought to be mediated by cytokine release from the tumor."
+    },
+    {
+      "ranges": [
+        [
+          33394,
+          33604
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "he standard of care is **surgical resection** (anatomic left‑lobe hepatectomy or extended left hepatectomy) because the tumor typically arises in a non‑cirrhotic liver and patients tolerate major hepatectomy we"
+    },
+    {
+      "ranges": [
+        [
+          15157,
+          15359
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient’s age (32 y), female sex, lack of cirrhosis or viral hepatitis, normal liver function tests, and normal AFP (not reported but likely normal given the full panel) align perfectly with FL‑HCC."
+    },
+    {
+      "ranges": [
+        [
+          9023,
+          9250
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "ng description of a hypervascular mass with a central scar is reminiscent of FNH. However, the presence of recurrent high‑grade fevers, substantial weight loss, and a palpable, firm mass that is tender to deep palpation (despit"
+    }
+  ]
+}

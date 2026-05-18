@@ -1,0 +1,139 @@
+{
+  "case": "1999 Case 06__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T03:05:16.103824+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          15896,
+          16069
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most parsimonious diagnosis, integrating all elements, is **relapsing polychondritis with superimposed fibromuscular dysplasia and steroid-induced cushingoid features**."
+    },
+    {
+      "ranges": [
+        [
+          17519,
+          17782
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnosis is **relapsing polychondritis**, supported by the triad of aortic root aneurysm, sensorineural deafness, and steroid-responsive ocular inflammation with corneal scarring, in a young woman with systemic inflammation and renal artery stenosis."
+    },
+    {
+      "ranges": [
+        [
+          16070,
+          16204
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The aortic aneurysm and regurgitation are due to inflammation of the aortic root and ascending aorta, a recognized complication of RP."
+    },
+    {
+      "ranges": [
+        [
+          16205,
+          16277
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The sensorineural deafness results from cochlear cartilage inflammation."
+    },
+    {
+      "ranges": [
+        [
+          16278,
+          16432
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The corneal scarring and ghost vessels reflect prior interstitial keratitis, which is a known ocular manifestation of RP, though less common than uveitis."
+    },
+    {
+      "ranges": [
+        [
+          16433,
+          16546
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The renal artery stenosis is likely due to vasculitis of the renal arteries, a documented but rare feature of RP."
+    },
+    {
+      "ranges": [
+        [
+          16547,
+          16619
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hypokalemia and hypertension are secondary to renal artery stenosis."
+    },
+    {
+      "ranges": [
+        [
+          16620,
+          16774
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The cushingoid features are iatrogenic from prolonged steroid therapy, which was initiated for the ocular inflammation (likely episcleritis or keratitis)."
+    },
+    {
+      "ranges": [
+        [
+          15421,
+          15634
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another possibility is **Vogt-Koyanagi-Harada (VKH) syndrome**, a multisystem autoimmune disorder affecting melanin-containing tissues: uveitis, meningoencephalitis, vitiligo, poliosis, and sensorineural deafness."
+    },
+    {
+      "ranges": [
+        [
+          15249,
+          15420
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Alternatively, the keratitis could be due to **tuberculosis** or **leprosy**, but these are exceedingly rare in this demographic and would not explain the aortic aneurysm."
+    },
+    {
+      "ranges": [
+        [
+          12611,
+          12833
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The diagnostic criteria (McAdam’s criteria) include bilateral auricular chondritis, nasal chondritis, ocular inflammation, respiratory tract chondritis, cochlear or vestibular dysfunction, and histopathologic confirmation."
+    },
+    {
+      "ranges": [
+        [
+          18438,
+          18523
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s prognosis depends on early recognition and aggressive immunomodulation."
+    }
+  ]
+}

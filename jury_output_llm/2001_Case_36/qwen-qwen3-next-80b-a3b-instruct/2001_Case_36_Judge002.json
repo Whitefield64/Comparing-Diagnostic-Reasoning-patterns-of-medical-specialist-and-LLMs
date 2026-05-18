@@ -1,0 +1,161 @@
+{
+  "case": "2001 Case 36__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-18T04:45:16.542005+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5656,
+          6006
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical picture is not that of a simple viral upper respiratory infection, despite the presence of rhinorrhea and sore throat, because the constellation of findings—fever, dyspnea, patchy bilateral lower lobe opacities on chest radiograph, and a history of recurrent, severe pulmonary insults—demands a broad and rigorous differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          6490,
+          6730
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate consideration is **opportunistic pulmonary infection**, particularly given his history of *Pneumocystis jirovecii* pneumonia (formerly *carinii*) on at least two prior occasions, and his current immunosuppressive regimen."
+    },
+    {
+      "ranges": [
+        [
+          6007,
+          6290
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "His immune status is uniquely compromised by a triad of factors: chronic high-dose corticosteroid therapy, chronic immunosuppression with cyclosporine and prior cyclophosphamide, and underlying diabetes mellitus with its attendant defects in neutrophil function and mucosal immunity."
+    },
+    {
+      "ranges": [
+        [
+          6291,
+          6488
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "These factors collectively create a perfect storm for opportunistic, atypical, and reactivated infections, as well as non-infectious inflammatory flares of his underlying connective tissue disease."
+    },
+    {
+      "ranges": [
+        [
+          6731,
+          6966
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although he is on trimethoprim–sulfamethoxazole prophylaxis, its dose has been reduced to one tablet three times weekly—a suboptimal regimen for full protection, especially in the setting of ongoing corticosteroid use and cyclosporine."
+    },
+    {
+      "ranges": [
+        [
+          6967,
+          7020
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "*P. jirovecii* pneumonia remains a leading candidate."
+    },
+    {
+      "ranges": [
+        [
+          8006,
+          8147
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "A bronchoalveolar lavage (BAL) with PCR and immunofluorescence for *P. jirovecii* is imperative, even if the patient appears only mildly ill."
+    },
+    {
+      "ranges": [
+        [
+          7365,
+          7633
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of hypoxemia (SaO₂ 98%) is atypical for severe *P. jirovecii*, but this patient has significant baseline restrictive and obstructive lung disease from prior organizing pneumonia and diffuse alveolar damage, which may blunt the expected degree of hypoxemia."
+    },
+    {
+      "ranges": [
+        [
+          7810,
+          8005
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The recent reduction in trimethoprim–sulfamethoxazole prophylaxis and the taper of prednisone from 15 mg to 5 mg likely created a window of relative immunosuppression sufficient for reactivation."
+    },
+    {
+      "ranges": [
+        [
+          7021,
+          7364
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The classic radiographic appearance of *P. jirovecii* is bilateral, symmetric, perihilar interstitial infiltrates, often with a “ground-glass” pattern, but in immunocompromised hosts with prolonged disease or prior lung injury, it may present with patchy, linear, or consolidative opacities that mimic other pneumonias or organizing pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          16872,
+          17272
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The top three diagnostic possibilities are: (1) *Pneumocystis jirovecii* pneumonia, given his history, current prophylaxis status, and immunosuppressive regimen; (2) an acute flare of antisynthetase syndrome-related organizing pneumonia, triggered by steroid tapering; and (3) viral pneumonia, particularly influenza or RSV, given the prodromal upper respiratory symptoms and immunocompromised state."
+    },
+    {
+      "ranges": [
+        [
+          17535,
+          17673
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The critical next step is bronchoscopy with BAL for cell count, culture, PCR for *P. jirovecii*, viral panel, fungal stains, and cytology."
+    },
+    {
+      "ranges": [
+        [
+          17674,
+          17889
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "If BAL is unrevealing, a high-resolution CT scan of the chest is mandatory to characterize the pattern of opacities—whether it is ground-glass, nodular, or consolidative—as this will guide the next diagnostic steps."
+    },
+    {
+      "ranges": [
+        [
+          18434,
+          18620
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The diagnosis requires a high index of suspicion, aggressive diagnostic sampling, and a willingness to treat empirically for multiple possibilities simultaneously while awaiting results."
+    }
+  ]
+}

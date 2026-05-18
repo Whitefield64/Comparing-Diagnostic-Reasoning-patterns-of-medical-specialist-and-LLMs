@@ -1,0 +1,29 @@
+{
+  "case": "1992 Case 41__openai-gpt-oss-120b.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T00:22:28.225376+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23216,
+          23458
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling concordance is between the murmur’s acoustic characteristics (harsh, long systolic ejection, radiation to apex) and a left‑sided outflow obstruction, most commonly **valvar aortic stenosis** due to a bicuspid aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          4459,
+          4765
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis must integrate (1) the hemodynamic implications of a systolic ejection murmur in a toddler, (2) the significance of systemic hypertension in the setting of chronic obstructive uropathy, and (3) the possibility of an underlying syndrome that links renal and cardiac malformations."
+    }
+  ]
+}

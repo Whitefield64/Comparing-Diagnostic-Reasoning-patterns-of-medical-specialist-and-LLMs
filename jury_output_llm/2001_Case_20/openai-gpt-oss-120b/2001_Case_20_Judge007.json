@@ -1,0 +1,106 @@
+{
+  "case": "2001 Case 20__openai-gpt-oss-120b.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T03:58:24.357453+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23982,
+          24217
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **most compelling working diagnosis** is **subacute infective endocarditis caused by *Moraxella phenylpyruvica***, with the ulcerated atherosclerotic plaque serving either as a secondary nidus or as a conduit for bacterial seeding."
+    },
+    {
+      "ranges": [
+        [
+          31550,
+          31888
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Key points supporting this synthesis:\n\n- **Structural heart disease** (calcified aortic and mitral leaflets) provides a substrate for bacterial adherence.  \n- **Ulcerated aortic plaque** is a recognized, though uncommon, portal for Gram‑negative bacteremia and may produce **vegetation‑like microcolonies** that evade detection on early T"
+    },
+    {
+      "ranges": [
+        [
+          29580,
+          29816
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If infective endocarditis is confirmed**:  \n   - Continue **intravenous cefuroxime** (or switch to a **beta‑lactam/beta‑lactamase inhibitor** such as **piperacillin‑tazobactam**) for a minimum of **4–6 weeks**, guided by repeat blood cu"
+    },
+    {
+      "ranges": [
+        [
+          31185,
+          31546
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The **preponderance of evidence** points toward a **low‑grade, subacute infective process involving the cardiovascular system**, most plausibly **infective endocarditis caused by *Moraxella phenylpyruvica***, with the **ulcerated atherosclerotic plaque** acting either as the primary nidus or as a conduit that facilitated bacterial seeding of the aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          5440,
+          5791
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The problem list can be roughly divided into two domains: (1) **identifying the anatomic source of the bacteremia** and (2) **determining whether the bacteremia represents a primary infection, a secondary infection superimposed on an underlying chronic process, or a manifestation of a non‑infectious disease that predisposes to secondary infection**."
+    },
+    {
+      "ranges": [
+        [
+          27427,
+          27805
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s temperature normalized after 48 h of cefuroxime, suggesting **adequate antimicrobial activity**.  However, **persistent low‑grade bacteremia (culture positive on day 6)** raises the possibility that the antibiotic penetrates poorly into the **avascular plaque or micro‑vegetations**, or that the bacterial load within the plaque is **protected by a fibrin matrix**"
+    },
+    {
+      "ranges": [
+        [
+          26737,
+          26923
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The **elevated ESR (59 mm/hr)** reflects a nonspecific acute‑phase response, driven by cytokines such as IL‑6 and TNF‑α released by activated macrophages in the infected plaque or valve."
+    },
+    {
+      "ranges": [
+        [
+          5093,
+          5438
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The clinical picture of a 64‑year‑old man with multiple cardiovascular, metabolic and renal comorbidities who presents with a sub‑acute febrile illness, unintentional weight loss, a new systolic murmur, a positive tuberculin skin test, calcified mediastinal nodes, and a **β‑lactamase‑negative *Moraxella phenylpyruvica* bacteremia** is complex."
+    },
+    {
+      "ranges": [
+        [
+          32532,
+          32737
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "he **working diagnosis** should be articulated as:\n\n> **Subacute infective endocarditis due to *Moraxella phenylpyruvica* with probable involvement of an ulcerated thoracic aortic atherosclerotic plaque.**"
+    }
+  ]
+}

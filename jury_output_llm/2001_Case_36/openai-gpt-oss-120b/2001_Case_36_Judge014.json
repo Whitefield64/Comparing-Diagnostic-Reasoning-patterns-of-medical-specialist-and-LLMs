@@ -1,0 +1,84 @@
+{
+  "case": "2001 Case 36__openai-gpt-oss-120b.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T04:43:37.296106+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          24417,
+          24649
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "he most plausible explanations for his acute presentation can be grouped into three overlapping categories:\n\n1. **Primary Viral Upper Respiratory Infection with Secondary Lower‑Tract Involvement** – The most parsimonious hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          24382,
+          24523
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the patient’s complex background, the most plausible explanations for his acute presentation can be grouped into three overlapping categories"
+    },
+    {
+      "ranges": [
+        [
+          7164,
+          7289
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The prodrome of sore throat, rhinorrhea, and low‑grade fever is classic for an acute viral upper respiratory infection (URI)."
+    },
+    {
+      "ranges": [
+        [
+          7463,
+          7625
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "In immunosuppressed patients, however, viral URIs can progress rapidly to lower‑tract disease, causing bronchitis, bronchiolitis, or even diffuse alveolar damage."
+    },
+    {
+      "ranges": [
+        [
+          29454,
+          29649
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If a viral pathogen is identified (e.g., influenza):**  \n- Initiate antiviral therapy (oseltamivir or peramivir) promptly, as early treatment reduces morbidity, especially in immunocompromised ho"
+    },
+    {
+      "ranges": [
+        [
+          6845,
+          7019
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The discussion below evaluates each major category, weighing available clinical, radiographic, and laboratory clues, and ultimately prioritizes the most plausible etiologies."
+    },
+    {
+      "ranges": [
+        [
+          30963,
+          31123
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient’s cumulative burden of chronic lung disease, ongoing immunosuppression, and diabetes places him at heightened risk for rapid clinical deterioration."
+    }
+  ]
+}

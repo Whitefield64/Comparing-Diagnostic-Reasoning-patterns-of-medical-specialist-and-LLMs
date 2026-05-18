@@ -1,0 +1,40 @@
+{
+  "case": "1990 Case 19__openai-gpt-oss-120b.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-17T22:47:27.264725+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          35473,
+          35615
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The two most compelling candidates, based on the totality of data, are **alveolar echinococcosis** and **undifferentiated embryonal sarcoma**."
+    },
+    {
+      "ranges": [
+        [
+          10471,
+          10653
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Parasitic infections are a natural first consideration given the boy’s travel to endemic regions, his history of freshwater exposure, and the cystic‑solid nature of the hepatic mass."
+    },
+    {
+      "ranges": [
+        [
+          15852,
+          16046
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Alveolar echinococcosis is a strong contender, particularly because it explains the hybrid cystic‑solid morphology, the non‑enhancing nature of the lesion, and the systemic inflammatory picture."
+    }
+  ]
+}

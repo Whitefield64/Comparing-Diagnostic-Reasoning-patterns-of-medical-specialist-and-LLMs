@@ -1,0 +1,40 @@
+{
+  "case": "2001 Case 20__openai-gpt-oss-120b.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T04:07:27.528346+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5093,
+          5438
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical picture of a 64‑year‑old man with multiple cardiovascular, metabolic and renal comorbidities who presents with a sub‑acute febrile illness, unintentional weight loss, a new systolic murmur, a positive tuberculin skin test, calcified mediastinal nodes, and a **β‑lactamase‑negative *Moraxella phenylpyruvica* bacteremia** is complex."
+    },
+    {
+      "ranges": [
+        [
+          5440,
+          5791
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The problem list can be roughly divided into two domains: (1) **identifying the anatomic source of the bacteremia** and (2) **determining whether the bacteremia represents a primary infection, a secondary infection superimposed on an underlying chronic process, or a manifestation of a non‑infectious disease that predisposes to secondary infection**."
+    },
+    {
+      "ranges": [
+        [
+          23982,
+          24217
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **most compelling working diagnosis** is **subacute infective endocarditis caused by *Moraxella phenylpyruvica***, with the ulcerated atherosclerotic plaque serving either as a secondary nidus or as a conduit for bacterial seeding."
+    }
+  ]
+}

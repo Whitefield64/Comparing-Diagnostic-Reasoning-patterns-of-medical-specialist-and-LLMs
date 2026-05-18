@@ -1,0 +1,62 @@
+{
+  "case": "1991 Case 43__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-17T23:35:31.946680+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          16532,
+          16617
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration remains **disseminated histoplasmosis**."
+    },
+    {
+      "ranges": [
+        [
+          19614,
+          19833
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A second major diagnostic possibility is **disseminated tuberculosis**, particularly in light of the patient’s recent immigration from Puerto Rico, a region with a higher incidence of tuberculosis than the U.S. average."
+    },
+    {
+      "ranges": [
+        [
+          21842,
+          22084
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A third critical consideration is **Kaposi sarcoma (KS)**, an endothelial cell neoplasm caused by human herpesvirus 8 (HHV-8), which is strongly associated with AIDS, particularly in men with multiple sexual partners and intravenous drug use."
+    },
+    {
+      "ranges": [
+        [
+          23670,
+          23769
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A fourth major consideration is **lymphoma**, particularly AIDS-related non-Hodgkin lymphoma (NHL)."
+    },
+    {
+      "ranges": [
+        [
+          16181,
+          16530
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of hemoptysis is particularly significant: while it can occur in PJP, it is exceedingly rare and usually mild. In this context, hemoptysis raises the strong possibility of vascular erosion due to malignancy, granulomatous necrosis from fungal or mycobacterial infection, or pulmonary infarction secondary to vasculitis or thrombosis."
+    }
+  ]
+}

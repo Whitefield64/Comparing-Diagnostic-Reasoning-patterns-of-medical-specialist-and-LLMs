@@ -1,0 +1,95 @@
+{
+  "case": "1991 Case 14__openai-gpt-oss-120b.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-17T23:06:14.065984+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          29509,
+          29720
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The two leading hypotheses—**extralobar bronchopulmonary sequestration** and **infant‑type neuroblastoma**—share many overlapping imaging characteristics (posterior location, T2 hyperintensity, non‑enhancement)."
+    },
+    {
+      "ranges": [
+        [
+          29721,
+          29855
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Distinguishing them hinges on the presence or absence of a systemic feeding artery and on biochemical markers of catecholamine excess."
+    },
+    {
+      "ranges": [
+        [
+          25850,
+          26007
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Anemia may be secondary to chronic blood loss (unlikely), marrow infiltration (neuroblastoma or lymphoma), or chronic inflammation (sequestration infection)."
+    },
+    {
+      "ranges": [
+        [
+          26355,
+          26447
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Neuroblastoma can produce interleukin‑6 and other cytokines that stimulate megakaryopoiesis."
+    },
+    {
+      "ranges": [
+        [
+          31290,
+          31549
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The constellation of a left‑sided, posterior, paravertebral, well‑circumscribed mass that is non‑enhancing, homogeneous on CT, hyperintense on T2 MRI, and radiographically stable over a period of at least 10 weeks aligns best with an extralobar sequestration."
+    },
+    {
+      "ranges": [
+        [
+          31550,
+          31755
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The lesion’s appearance on imaging—particularly the thin dark line separating it from paraspinal muscles—mirrors the pleural plane that isolates an extralobar sequestration from the surrounding structures."
+    },
+    {
+      "ranges": [
+        [
+          6839,
+          7012
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "On chest radiograph EBPS frequently appears as a well‑circumscribed, triangular or wedge‑shaped opacity in the posterior lower lung field, exactly as described in this case."
+    },
+    {
+      "ranges": [
+        [
+          5580,
+          5814
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The differential diagnosis must therefore encompass congenital thoracic lesions, neoplastic processes that arise in the posterior mediastinum, and rare infectious or inflammatory entities that can mimic a solid mass in this age group."
+    }
+  ]
+}

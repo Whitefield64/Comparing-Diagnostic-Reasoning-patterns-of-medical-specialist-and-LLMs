@@ -1,0 +1,139 @@
+{
+  "case": "1996 Case 14__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-18T02:28:19.882798+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8194,
+          8446
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Toxic epidermal necrolysis is, by definition, a severe, immune-mediated, drug-induced reaction characterized by widespread keratinocyte apoptosis, leading to full-thickness epidermal necrosis and detachment of large sheets of skin and mucous membranes."
+    },
+    {
+      "ranges": [
+        [
+          8655,
+          8832
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The temporal relationship between the initiation of methotrexate six weeks prior to the onset of oral ulcers and the subsequent eruption is highly suggestive of a drug etiology."
+    },
+    {
+      "ranges": [
+        [
+          8833,
+          9042
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Methotrexate is a well-documented, albeit uncommon, trigger of TEN, particularly in patients with renal impairment, as it is primarily excreted renally and accumulates in the setting of chronic kidney disease."
+    },
+    {
+      "ranges": [
+        [
+          10061,
+          10294
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The fact that the eruption followed the appearance of oral ulcers—a classic prodrome of TEN—strongly favors a delayed-type hypersensitivity reaction rather than a direct cytotoxic effect, aligning with the immune pathogenesis of TEN."
+    },
+    {
+      "ranges": [
+        [
+          10785,
+          10933
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the biopsy findings were consistent with TEN, not viral cytopathic change, and multiple viral cultures from oral lesions remained negative."
+    },
+    {
+      "ranges": [
+        [
+          10934,
+          11199
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Furthermore, the progression to widespread epidermal detachment, the involvement of non-mucosal skin with a characteristic “positive Nikolsky sign,” and the histopathology of full-thickness epidermal necrosis with minimal dermal inflammation are not typical of HSV."
+    },
+    {
+      "ranges": [
+        [
+          8447,
+          8654
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The hallmark clinical features—rapid progression from erythema and targetoid lesions to confluent epidermal sloughing, mucosal involvement (oral, ocular, genital), and systemic toxicity—are all present here."
+    },
+    {
+      "ranges": [
+        [
+          15745,
+          16064
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of sludge and pericholecystic fluid on ultrasound, followed by culture-proven *Klebsiella* in bile, strongly suggests ascending cholangitis or acalculous cholecystitis as a primary source, likely exacerbated by prolonged fasting, immobility, and impaired gallbladder motility due to uremia and steroid use."
+    },
+    {
+      "ranges": [
+        [
+          16374,
+          16510
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The development of fungal elements in sputum—septate hyphae—suggests invasive aspergillosis, though the blood culture remained negative."
+    },
+    {
+      "ranges": [
+        [
+          13078,
+          13192
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The possibility of a severe drug reaction with eosinophilia and systemic symptoms (DRESS) must also be considered."
+    },
+    {
+      "ranges": [
+        [
+          13193,
+          13329
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "DRESS can present with fever, rash, lymphadenopathy, and internal organ involvement, and methotrexate has been implicated in rare cases."
+    },
+    {
+      "ranges": [
+        [
+          20049,
+          20204
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The case underscores the fragility of the immunocompromised host and the lethal synergy between drug-induced mucocutaneous injury and nosocomial infection."
+    }
+  ]
+}

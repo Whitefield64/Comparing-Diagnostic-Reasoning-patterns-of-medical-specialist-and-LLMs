@@ -1,0 +1,84 @@
+{
+  "case": "1992 Case 16__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-17T23:57:58.259907+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17641,
+          17771
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely diagnosis is **vertebral osteomyelitis secondary to *Staphylococcus aureus***, seeded from the chronic paronychia."
+    },
+    {
+      "ranges": [
+        [
+          18142,
+          18294
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The second most likely diagnosis is **Ewing sarcoma**, given the age, the solitary osteolytic lesion with soft-tissue mass, and the neurologic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          18371,
+          18480
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The third consideration is **tuberculosis**, though less likely without systemic signs or pulmonary findings."
+    },
+    {
+      "ranges": [
+        [
+          8518,
+          8788
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The chronicity of the paronychia raises the question of whether the patient may have an underlying immunodeficiency, such as chronic granulomatous disease (CGD), which predisposes to recurrent staphylococcal skin and soft-tissue infections and can lead to osteomyelitis."
+    },
+    {
+      "ranges": [
+        [
+          19010,
+          19154
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The diagnostic procedure performed—likely a biopsy via posterior approach or percutaneous needle biopsy—will be the key to definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          18686,
+          19009
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient’s history of recurrent skin infections makes the infectious etiology the most compelling, and the fact that she was given dexamethasone (which may be used to reduce spinal cord edema) and codeine (for pain) suggests the clinical team is already leaning toward a compressive lesion requiring urgent intervention."
+    },
+    {
+      "ranges": [
+        [
+          18481,
+          18685
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The biopsy will be diagnostic: if granulomas with caseation are found, TB is confirmed; if small round blue cells with CD99 positivity, Ewing sarcoma; if neutrophils and bacteria, bacterial osteomyelitis."
+    }
+  ]
+}

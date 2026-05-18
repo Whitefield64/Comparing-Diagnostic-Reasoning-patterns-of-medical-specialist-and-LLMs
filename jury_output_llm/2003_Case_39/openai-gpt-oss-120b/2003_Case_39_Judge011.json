@@ -1,0 +1,95 @@
+{
+  "case": "2003 Case 39__openai-gpt-oss-120b.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T06:26:35.917668+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23030,
+          23098
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most parsimonious explanation is a **primary bladder neoplasm**."
+    },
+    {
+      "ranges": [
+        [
+          23458,
+          23671
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The balance of probability leans toward urothelial carcinoma because it is vastly more common, even in young women, and because the CT did not demonstrate a classic midline urachal tract or extravesical component."
+    },
+    {
+      "ranges": [
+        [
+          20925,
+          21098
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "gross hematuria with clots, mild dysuria, no frequency/urgency, no flank pain. Weight loss (≈ 3 kg) over two months – possibly a systemic effect of an underlying malignancy."
+    },
+    {
+      "ranges": [
+        [
+          26568,
+          26736
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If malignancy is confirmed, a chest CT and bone scan (or PET‑CT) would be indicated for staging, given the potential for early metastasis, especially in adenocarcinoma."
+    },
+    {
+      "ranges": [
+        [
+          22063,
+          22295
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The imaging does not reveal a classic enhancing solid tumor, but the presence of “mixed‑attenuation debris” could represent blood clot overlaying a mass, especially if the mass is mucinous (as in urachal adenocarcinoma) or necrotic."
+    },
+    {
+      "ranges": [
+        [
+          29394,
+          29736
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the epidemiologic dominance of urothelial carcinoma and the fact that many urachal adenocarcinomas demonstrate extravesical extension (which was not observed on CT), the **working diagnosis** after integrating all available data is **urothelial carcinoma of the bladder**, likely a high‑grade, non‑muscle‑invasive tumor pending staging."
+    },
+    {
+      "ranges": [
+        [
+          22597,
+          22706
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of a discrete mass strongly supports a neoplastic process rather than simple inflammatory edema."
+    },
+    {
+      "ranges": [
+        [
+          29090,
+          29255
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Among neoplastic entities, **urothelial (transitional cell) carcinoma** is the most common and thus the most probable diagnosis, even in a young, non‑smoking female."
+    }
+  ]
+}

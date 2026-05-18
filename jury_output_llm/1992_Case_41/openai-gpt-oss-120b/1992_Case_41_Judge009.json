@@ -1,0 +1,84 @@
+{
+  "case": "1992 Case 41__openai-gpt-oss-120b.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T00:26:30.998622+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23216,
+          23458
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling concordance is between the murmur’s acoustic characteristics (harsh, long systolic ejection, radiation to apex) and a left‑sided outflow obstruction, most commonly **valvar aortic stenosis** due to a bicuspid aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          18160,
+          18289
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The murmur’s characteristics are more consistent with aortic stenosis, which can be seen in prune‑belly but is not pathognomonic."
+    },
+    {
+      "ranges": [
+        [
+          23460,
+          23684
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of systemic hypertension is readily explained by chronic obstructive uropathy with renin‑angiotensin activation, and the hypertension may be contributing to the LV pressure load, thereby accentuating the murmur."
+    },
+    {
+      "ranges": [
+        [
+          26761,
+          26920
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the aortic stenosis is moderate‑to‑severe, endocarditis prophylaxis may be indicated for dental procedures, in accordance with current pediatric guidelines."
+    },
+    {
+      "ranges": [
+        [
+          23686,
+          23993
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The right‑ventricular conduction delay on ECG, while atypical for isolated AS, could represent a mild, secondary effect of a modestly increased pulmonary flow (e.g., from a small, restrictive VSD or a small ASD that has not been clinically evident) or simply a variant of normal conduction in a young child."
+    },
+    {
+      "ranges": [
+        [
+          27408,
+          27594
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "he **harsh, long systolic ejection murmur** that has become progressively louder is most characteristic of **valvar aortic stenosis**, most commonly associated with a bicuspid aortic val"
+    },
+    {
+      "ranges": [
+        [
+          27969,
+          28157
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Recognizing the coexistence of renal‑derived hypertension is essential because it may hasten the progression of LV pressure overload and influence the timing of any interventional therapy."
+    }
+  ]
+}

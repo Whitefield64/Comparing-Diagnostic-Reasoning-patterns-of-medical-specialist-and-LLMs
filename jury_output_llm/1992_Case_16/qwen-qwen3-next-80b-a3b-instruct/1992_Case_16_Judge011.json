@@ -1,0 +1,282 @@
+{
+  "case": "1992 Case 16__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T00:10:17.836749+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17641,
+          17771
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely diagnosis is **vertebral osteomyelitis secondary to *Staphylococcus aureus***, seeded from the chronic paronychia."
+    },
+    {
+      "ranges": [
+        [
+          18142,
+          18294
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The second most likely diagnosis is **Ewing sarcoma**, given the age, the solitary osteolytic lesion with soft-tissue mass, and the neurologic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          18371,
+          18480
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The third consideration is **tuberculosis**, though less likely without systemic signs or pulmonary findings."
+    },
+    {
+      "ranges": [
+        [
+          17772,
+          17934
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The chronicity of the skin infections, the osteolytic lesion with posterior soft-tissue extension, elevated ESR, absence of fever, and young age all support this."
+    },
+    {
+      "ranges": [
+        [
+          7317,
+          7512
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "he patient had no systemic symptoms does not exclude infection; in fact, many cases of vertebral osteomyelitis present with pain as the sole symptom for weeks to months before systemic signs emer"
+    },
+    {
+      "ranges": [
+        [
+          5191,
+          5356
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the anterior half of the C4–5 disk space has normal signal on MRI suggests the pathology is primarily osseous and posteriorly directed, not discogenic."
+    },
+    {
+      "ranges": [
+        [
+          7011,
+          7209
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The preservation of the anterior disk space signal on MRI is also typical—osteomyelitis usually spares the disk initially, as it is avascular, and the infection spreads along the vascular endplates."
+    },
+    {
+      "ranges": [
+        [
+          7210,
+          7301
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The posterior soft-tissue mass may represent a paravertebral abscess or granulation tissue."
+    },
+    {
+      "ranges": [
+        [
+          7777,
+          8028
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The possibility of *Mycobacterium tuberculosis* must also be considered, particularly in regions where TB is endemic, though the patient’s lack of systemic symptoms, normal chest X-ray, and absence of weight loss or night sweats make this less likely."
+    },
+    {
+      "ranges": [
+        [
+          8038,
+          8169
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "spinal TB (Pott’s disease) can present with isolated vertebral destruction and paraspinal abscess formation without systemic signs."
+    },
+    {
+      "ranges": [
+        [
+          14984,
+          15106
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that the lesion is solitary and associated with a soft-tissue mass makes CRMO less likely, though not impossible."
+    },
+    {
+      "ranges": [
+        [
+          8518,
+          8788
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The chronicity of the paronychia raises the question of whether the patient may have an underlying immunodeficiency, such as chronic granulomatous disease (CGD), which predisposes to recurrent staphylococcal skin and soft-tissue infections and can lead to osteomyelitis."
+    },
+    {
+      "ranges": [
+        [
+          6029,
+          6235
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "While these may seem like trivial, localized events, they suggest a possible underlying predisposition to infection, such as impaired local immunity, repeated microtrauma, or even a subtle immunodeficiency."
+    },
+    {
+      "ranges": [
+        [
+          6308,
+          6452
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The vertebral body is a known site for hematogenous spread of infection, particularly in young adults with a history of skin or nail infections."
+    },
+    {
+      "ranges": [
+        [
+          6622,
+          6752
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The organism can seed the vertebrae via transient bacteremia, particularly in individuals with repeated microtrauma to the digits."
+    },
+    {
+      "ranges": [
+        [
+          9041,
+          9164
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the absence of lymphadenopathy, hepatosplenomegaly, or pulmonary involvement makes this less likely, though not impossible."
+    },
+    {
+      "ranges": [
+        [
+          18686,
+          19009
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s history of recurrent skin infections makes the infectious etiology the most compelling, and the fact that she was given dexamethasone (which may be used to reduce spinal cord edema) and codeine (for pain) suggests the clinical team is already leaning toward a compressive lesion requiring urgent intervention."
+    },
+    {
+      "ranges": [
+        [
+          19476,
+          19635
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The elevated ESR and chronic infection history make infectious osteomyelitis the leading hypothesis, but malignancy cannot be ruled out without histopathology."
+    },
+    {
+      "ranges": [
+        [
+          19636,
+          19834
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case underscores the importance of considering both infectious and neoplastic causes in young patients with unexplained vertebral lesions, especially in the setting of a chronic skin infection."
+    },
+    {
+      "ranges": [
+        [
+          18026,
+          18141
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The neurologic deficit is due to epidural abscess or granulation tissue compressing the spinal cord or nerve roots."
+    },
+    {
+      "ranges": [
+        [
+          10336,
+          10655
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the lesion is centered in the posterior body and extends into the neural canal may explain the progressive neurologic deficit—clumsiness of the left hand suggests involvement of the lateral corticospinal tracts or anterior horn cells at the C5–C6 level, possibly due to direct compression or infiltration."
+    },
+    {
+      "ranges": [
+        [
+          16429,
+          16642
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The possibility of a spinal epidural hematoma is excluded by the timeline and imaging findings—the hematoma would not be chronic, would not cause osteolysis, and would not have a solid soft-tissue component on CT."
+    },
+    {
+      "ranges": [
+        [
+          18481,
+          18685
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The biopsy will be diagnostic: if granulomas with caseation are found, TB is confirmed; if small round blue cells with CD99 positivity, Ewing sarcoma; if neutrophils and bacteria, bacterial osteomyelitis."
+    },
+    {
+      "ranges": [
+        [
+          10655,
+          10853
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": " The patient’s occupation as a surgical assistant, involving repetitive manual tasks and potential microtrauma, raises the question of whether this could be a benign tumor such as a giant cell tumor"
+    },
+    {
+      "ranges": [
+        [
+          19010,
+          19154
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The diagnostic procedure performed—likely a biopsy via posterior approach or percutaneous needle biopsy—will be the key to definitive diagnosis."
+    }
+  ]
+}

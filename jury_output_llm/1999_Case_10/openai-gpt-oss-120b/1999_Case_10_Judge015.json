@@ -1,0 +1,62 @@
+{
+  "case": "1999 Case 10__openai-gpt-oss-120b.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T03:30:57.989189+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9627,
+          9925
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The constellation of **renal, pulmonary, neurologic, cutaneous, and vascular findings** suggests a systemic process that simultaneously targets small‑ to medium‑sized vessels, produces a **pulmonary‑renal syndrome**, and generates a **pro‑thrombotic state** leading to cortical infarcts and cutaneo"
+    },
+    {
+      "ranges": [
+        [
+          9939,
+          10135
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential therefore must encompass:\n\n1. **ANCA‑associated small‑vessel vasculitides** (microscopic polyangiitis, granulomatosis with polyangiitis, eosinophilic granulomatosis with polyangii"
+    },
+    {
+      "ranges": [
+        [
+          35293,
+          35656
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The disease’s pathophysiology accounts for each organ system involved: necrotizing glomerulonephritis explains the renal findings; pulmonary capillaritis accounts for the respiratory distress and radiographic infiltrates; small‑vessel cerebral vasculitis produces the occipital infarcts; and leukocytoclastic vasculitis of the skin generates the necrotic papules."
+    },
+    {
+      "ranges": [
+        [
+          33513,
+          33639
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The **combination of positive MPO‑ANCA, pauci‑immune crescentic GN, and pulmonary capillaritis** would definitively establish "
+    },
+    {
+      "ranges": [
+        [
+          30737,
+          30884
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of **moderate hydronephrosis** can be secondary to ureteral wall edema or perirenal inflammatory mass, a recognized but uncommon manif"
+    }
+  ]
+}

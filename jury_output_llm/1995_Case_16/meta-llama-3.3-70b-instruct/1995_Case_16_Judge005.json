@@ -1,0 +1,139 @@
+{
+  "case": "1995 Case 16__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T00:59:50.889773+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6530,
+          6697
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with recurrent ventricular tachycardia, dilated cardiomyopathy, and pulmonary lesions suggests a complex and multifactorial disease process."
+    },
+    {
+      "ranges": [
+        [
+          6698,
+          6860
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "To approach this case, it is essential to consider various differential diagnoses, including malignant, infectious, inflammatory, structural, and systemic causes."
+    },
+    {
+      "ranges": [
+        [
+          17277,
+          17486
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy could be related to a variety of factors, including inflammation, scarring, and electrical instability in the heart."
+    },
+    {
+      "ranges": [
+        [
+          7224,
+          7386
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Infectious causes, such as tuberculosis, should be considered given the patient's history of positive tuberculin skin tests and the presence of pulmonary lesions."
+    },
+    {
+      "ranges": [
+        [
+          7572,
+          7734
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The negative tuberculin skin test on admission may be due to anergy, which can occur in patients with advanced tuberculosis or other immunosuppressive conditions."
+    },
+    {
+      "ranges": [
+        [
+          15926,
+          16105
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's history of positive tuberculin skin tests and his previous treatment with isoniazid also raise the possibility of a drug-related side effect or an allergic reaction."
+    },
+    {
+      "ranges": [
+        [
+          12007,
+          12153
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The lack of specific symptoms and findings on laboratory studies and imaging examinations makes it difficult to narrow the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          6530,
+          6697
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's presentation with recurrent ventricular tachycardia, dilated cardiomyopathy, and pulmonary lesions suggests a complex and multifactorial disease process."
+    },
+    {
+      "ranges": [
+        [
+          11285,
+          11496
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "ral, and systemic causes, the most likely diagnosis is a condition that can cause cardiac dysfunction, arrhythmias, and conduction abnormalities, and can be associated with pulmonary lesions and lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          13754,
+          13962
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's history of immigration from a Caribbean country and his previous positive tuberculin skin tests also raise the possibility of a tropical or infectious disease, such as Chagas disease or leprosy."
+    },
+    {
+      "ranges": [
+        [
+          16741,
+          16891
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's case is complex and multifactorial, and a definitive diagnosis can only be made after a comprehensive evaluation and diagnostic testing."
+    },
+    {
+      "ranges": [
+        [
+          15751,
+          15925
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The presence of pulmonary lesions and lymphadenopathy also suggests a systemic disease process, which could be related to an infectious, inflammatory, or malignant condition."
+    }
+  ]
+}

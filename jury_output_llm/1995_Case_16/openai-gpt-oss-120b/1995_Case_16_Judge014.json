@@ -1,0 +1,73 @@
+{
+  "case": "1995 Case 16__openai-gpt-oss-120b.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T01:23:49.324254+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28530,
+          29197
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic candidates are those that **simultaneously** account for:\n\n1. **Rapidly progressive biventricular dilatation with severe systolic dysfunction**, especially marked right‑ventricular involvement and severe tricuspid regurgitation.  \n2. **Frequent, refractory ventricular tachycardia** despite multiple anti‑arrhythmic agents, necessitating an ICD.  \n3. **Upper‑lobe dominant, peribronchovascular nodular lung disease** with mild hilar and mediastinal lymphadenopathy, but without cavitation or overt infection.  \n4. **Absence of systemic inflammatory markers** (normal ESR, normal WBC), normal serologies for HIV, syphilis, and negative f"
+    },
+    {
+      "ranges": [
+        [
+          8511,
+          8661
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cardiac sarcoidosis can produce a dilated phenotype through extensive myocardial granulomatous infiltration, scarring, and loss of contractile tissue."
+    },
+    {
+      "ranges": [
+        [
+          35196,
+          35466
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "ardiac Sarcoidosis Is Confirmed  \n\n- **Immunosuppressive therapy**: High‑dose corticosteroids (e.g., prednisone 0.5–1 mg/kg/day) followed by a slow taper, possibly combined with steroid‑sparing agents (methotrexate, azathioprine, mycophenolate mofetil) to reduce recurre"
+    },
+    {
+      "ranges": [
+        [
+          32091,
+          32235
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The clinical course—a relatively rapid decline in ventricular function with refractory VT—mirrors reports of aggressive cardiac sarcoid disease."
+    },
+    {
+      "ranges": [
+        [
+          31781,
+          32088
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Cardiac sarcoidosis** occupies the top position because it uniquely bridges the cardiac and pulmonary manifestations in a young adult, respects the known low sensitivity of endomyocardial biopsies, and aligns with the radiographic pattern (upper‑lobe, peribronchovascular nodules, mild hilar lymphadenopathy"
+    },
+    {
+      "ranges": [
+        [
+          7794,
+          7939
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The disease can present with a spectrum ranging from isolated conduction disease to fulminant ventricular arrhythmias and dilated cardiomyopathy."
+    }
+  ]
+}

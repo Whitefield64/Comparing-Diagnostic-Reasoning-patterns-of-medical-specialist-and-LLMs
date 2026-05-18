@@ -1,0 +1,73 @@
+{
+  "case": "1992 Case 16__openai-gpt-oss-120b.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-17T23:56:30.950063+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          26098,
+          26277
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The two entities that best reconcile *all* the clinical, laboratory, and imaging data are **Langerhans cell histiocytosis (eosinophilic granuloma)** and **primary bone lymphoma**."
+    },
+    {
+      "ranges": [
+        [
+          26279,
+          26505
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Both can present as a solitary, osteolytic vertebral body lesion with a posterior epidural extension causing early cord compression, and both can be associated with a modestly elevated ESR and subtle hematologic abnormalities."
+    },
+    {
+      "ranges": [
+        [
+          27237,
+          27399
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s symptoms were **precipitated by minor trauma**, a frequent scenario where a dormant eosinophilic granuloma becomes symptomatic after a “second hit”."
+    },
+    {
+      "ranges": [
+        [
+          5778,
+          5907
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A true fracture would produce immediate, severe pain and functional limitation, not a delayed onset after a period of quiescence."
+    },
+    {
+      "ranges": [
+        [
+          33033,
+          33189
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Therefore, the leading diagnosis is Langerhans cell histiocytosis (solitary eosinophilic granuloma of the C5 vertebra) pending histopathologic confirmation."
+    },
+    {
+      "ranges": [
+        [
+          29948,
+          30196
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the biopsy yields a **granulomatous infiltrate with Langerhans cells**, the diagnosis of eosinophilic granuloma is confirmed, and treatment would shift toward **corticosteroid therapy, limited radiotherapy, or curettage** depending on stability."
+    }
+  ]
+}

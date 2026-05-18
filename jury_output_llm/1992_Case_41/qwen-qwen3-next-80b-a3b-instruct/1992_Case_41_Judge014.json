@@ -1,0 +1,139 @@
+{
+  "case": "1992 Case 41__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T00:51:03.519993+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7560,
+          7731
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling consideration is right ventricular outflow tract obstruction due to pulmonary valve stenosis, possibly with associated dysplasia or annular hypoplasia."
+    },
+    {
+      "ranges": [
+        [
+          6682,
+          6750
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another possibility is a subaortic or supravalvular aortic stenosis."
+    },
+    {
+      "ranges": [
+        [
+          4479,
+          4658
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most prominent cardiac finding is a Grade 3, harsh, long systolic ejection murmur, loudest at the left midsternal border, radiating to the upper right sternal border and apex."
+    },
+    {
+      "ranges": [
+        [
+          7732,
+          7847
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The murmur’s harshness and duration suggest high-velocity turbulent flow, which is typical of significant stenosis."
+    },
+    {
+      "ranges": [
+        [
+          7848,
+          7974
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The conduction delay on ECG may reflect chronic right ventricular pressure overload, even in the absence of overt hypertrophy."
+    },
+    {
+      "ranges": [
+        [
+          8180,
+          8330
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the stenosis is mild to moderate, and there is compensatory collateral flow or associated septal defect, increased pulmonary vascularity can occur."
+    },
+    {
+      "ranges": [
+        [
+          8342,
+          8524
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": " of increased pulmonary vasculature suggests increased pulmonary blood flow, which points toward a left-to-right shunt or volume overload state rather than a pure obstructive lesion."
+    },
+    {
+      "ranges": [
+        [
+          10133,
+          10254
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "the ECG shows right-sided conduction delay, not left ventricular hypertrophy, and the heart size is normal on radiograph."
+    },
+    {
+      "ranges": [
+        [
+          7141,
+          7265
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The blood pressure is elevated (130/75 mm Hg) in both upper and lower extremities, which rules out coarctation of the aorta."
+    },
+    {
+      "ranges": [
+        [
+          4116,
+          4379
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "We must consider whether the cardiac findings are an isolated incidental finding, a consequence of chronic renal disease, a manifestation of an underlying syndromic or genetic disorder, or a primary congenital cardiac anomaly with coincidental urologic pathology."
+    },
+    {
+      "ranges": [
+        [
+          4795,
+          4900
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The murmur’s location and character are classic for flow-related or structural outflow tract obstruction."
+    },
+    {
+      "ranges": [
+        [
+          13944,
+          14117
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": " the mother’s history of repaired PDA and the sister’s recurrent respiratory infections may reflect a familial predisposition to connective tissue or developmental anomalies"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "case": "1992 Case 41__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T00:43:08.017580+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7560,
+          7731
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling consideration is right ventricular outflow tract obstruction due to pulmonary valve stenosis, possibly with associated dysplasia or annular hypoplasia."
+    },
+    {
+      "ranges": [
+        [
+          6682,
+          6750
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another possibility is a subaortic or supravalvular aortic stenosis."
+    },
+    {
+      "ranges": [
+        [
+          4479,
+          4658
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most prominent cardiac finding is a Grade 3, harsh, long systolic ejection murmur, loudest at the left midsternal border, radiating to the upper right sternal border and apex."
+    },
+    {
+      "ranges": [
+        [
+          4901,
+          5045
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most common congenital causes of such a murmur include pulmonary stenosis, hypertrophic cardiomyopathy, and ventricular septal defect (VSD)."
+    },
+    {
+      "ranges": [
+        [
+          7732,
+          7847
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The murmur’s harshness and duration suggest high-velocity turbulent flow, which is typical of significant stenosis."
+    },
+    {
+      "ranges": [
+        [
+          7848,
+          7974
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The conduction delay on ECG may reflect chronic right ventricular pressure overload, even in the absence of overt hypertrophy."
+    },
+    {
+      "ranges": [
+        [
+          5224,
+          5434
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "In pulmonary stenosis, one typically expects a delayed and diminished pulmonic component of S2, and often a palpable right ventricular lift or right ventricular hypertrophy on ECG, neither of which are present."
+    },
+    {
+      "ranges": [
+        [
+          5435,
+          5763
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The ECG shows only right ventricular conduction delay without hypertrophy, which is an important distinction: conduction delay can occur in chronic volume or pressure overload states, but the absence of voltage criteria for right ventricular hypertrophy suggests that any right heart strain is either mild or not yet structural."
+    },
+    {
+      "ranges": [
+        [
+          7141,
+          7265
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The blood pressure is elevated (130/75 mm Hg) in both upper and lower extremities, which rules out coarctation of the aorta."
+    },
+    {
+      "ranges": [
+        [
+          4116,
+          4379
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "We must consider whether the cardiac findings are an isolated incidental finding, a consequence of chronic renal disease, a manifestation of an underlying syndromic or genetic disorder, or a primary congenital cardiac anomaly with coincidental urologic pathology."
+    },
+    {
+      "ranges": [
+        [
+          4795,
+          4900
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The murmur’s location and character are classic for flow-related or structural outflow tract obstruction."
+    },
+    {
+      "ranges": [
+        [
+          10644,
+          10817
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The possibility of cardiorenal syndrome must be entertained, but the murmur’s location and quality do not fit the typical findings of hypertensive heart disease in children."
+    },
+    {
+      "ranges": [
+        [
+          15653,
+          15961
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "overload. The increased pulmonary vasculature on chest radiograph suggests elevated pulmonary blood flow, which could be due to a small left-to-right shunt, chronic hypoxia from pulmonary disease (but lungs are clear), or systemic-to-pulmonary shunting from collateral vessels secondary to renal hypertension"
+    },
+    {
+      "ranges": [
+        [
+          11229,
+          11345
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The mother had a repaired patent ductus arteriosus (PDA), and the sister had recurrent upper respiratory infections."
+    },
+    {
+      "ranges": [
+        [
+          11091,
+          11228
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "A more intriguing possibility is that this child has a genetic or syndromic condition that links both his urologic and cardiac anomalies."
+    },
+    {
+      "ranges": [
+        [
+          9071,
+          9207
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another critical axis to explore is whether the cardiac findings are secondary to systemic disease, particularly chronic kidney disease."
+    },
+    {
+      "ranges": [
+        [
+          9901,
+          10123
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The key point is that chronic kidney disease in childhood is associated with a variety of cardiovascular complications, including systemic hypertension, left ventricular hypertrophy, and accelerated vascular calcification."
+    },
+    {
+      "ranges": [
+        [
+          15993,
+          16213
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The most parsimonious explanation that unifies the urologic and cardiac findings is **Prune Belly syndrome with an associated congenital cardiac anomaly**, most likely a small atrial septal defect or mild pulmonary steno"
+    }
+  ]
+}

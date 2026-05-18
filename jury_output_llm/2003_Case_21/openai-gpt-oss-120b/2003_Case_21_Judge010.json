@@ -1,0 +1,84 @@
+{
+  "case": "2003 Case 21__openai-gpt-oss-120b.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T05:42:33.615847+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          12956,
+          13294
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential therefore must encompass a spectrum of arterial pathologies that can produce multifocal vertebro‑basilar ischemia, ranging from “common” atherosclerotic disease to immune‑mediated vasculitis and hypercoagulable states, as well as rarer entities such as arterial dissection, embolic sources, and paraneoplastic thrombosis."
+    },
+    {
+      "ranges": [
+        [
+          13881,
+          14362
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Atherosclerosis is the leading cause of ischemic stroke in patients over 65 years.  In the posterior circulation, progressive intimal thickening, plaque formation, and luminal narrowing of the vertebral arteries and the basilar artery predispose to two principal mechanisms of infarction: (1) hemodynamic insufficiency when stenoses become critical, especially during periods of reduced perfusion pressure; and (2) artery‑to‑artery embolization from ulcerated or thrombosed plaques"
+    },
+    {
+      "ranges": [
+        [
+          17785,
+          17922
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Atherosclerotic vertebro‑basilar disease remains a major contributor to the patient’s strokes, especially given his age and risk factors."
+    },
+    {
+      "ranges": [
+        [
+          14965,
+          15126
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": " demonstrate diffuse, irregular, non‑calcified atheromatous disease of both vertebral arteries, with focal severe stenoses (particularly at the left dural ring)."
+    },
+    {
+      "ranges": [
+        [
+          14965,
+          15126
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": " demonstrate diffuse, irregular, non‑calcified atheromatous disease of both vertebral arteries, with focal severe stenoses (particularly at the left dural ring)."
+    },
+    {
+      "ranges": [
+        [
+          12956,
+          13294
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential therefore must encompass a spectrum of arterial pathologies that can produce multifocal vertebro‑basilar ischemia, ranging from “common” atherosclerotic disease to immune‑mediated vasculitis and hypercoagulable states, as well as rarer entities such as arterial dissection, embolic sources, and paraneoplastic thrombosis."
+    },
+    {
+      "ranges": [
+        [
+          14965,
+          15126
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": " demonstrate diffuse, irregular, non‑calcified atheromatous disease of both vertebral arteries, with focal severe stenoses (particularly at the left dural ring)."
+    }
+  ]
+}

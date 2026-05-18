@@ -1,0 +1,183 @@
+{
+  "case": "2001 Case 36__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T04:28:40.046232+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5328,
+          5658
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with acute febrile respiratory illness, in the context of a complex medical history that includes seronegative rheumatoid arthritis, diabetes mellitus type 2, bronchiolitis obliterans with organizing pneumonia (BOOP), polymyositis, and recurrent infections, suggests a wide range of potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          5993,
+          6099
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious causes are high on the differential diagnosis list due to the patient's immunosuppressed state."
+    },
+    {
+      "ranges": [
+        [
+          6100,
+          6250
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient has had previous episodes of *Pneumocystis carinii* pneumonia, which is a common opportunistic infection in immunocompromised individuals."
+    },
+    {
+      "ranges": [
+        [
+          6251,
+          6428
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other opportunistic infections, such as cytomegalovirus (CMV) pneumonia, could also be considered, especially given the patient's history of receiving immunosuppressive therapy."
+    },
+    {
+      "ranges": [
+        [
+          6429,
+          6749
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Bacterial infections, including those caused by *Streptococcus pneumoniae*, *Haemophilus influenzae*, and *Pseudomonas aeruginosa*, are also possible, particularly in the context of the patient's history of aspiration pneumonia and the presence of a mitral valve vegetation, which could be a source of bacterial seeding."
+    },
+    {
+      "ranges": [
+        [
+          6750,
+          6985
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Viral infections, including influenza, respiratory syncytial virus (RSV), and adenovirus, should also be considered, especially given the patient's recent vaccination against influenza, which might not have provided immediate immunity."
+    },
+    {
+      "ranges": [
+        [
+          6987,
+          7252
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's symptoms of malaise, nonproductive cough, sore throat, and rhinorrhea could be consistent with a viral upper respiratory infection, although the presence of fever and the patient's immunocompromised state suggest that the illness could be more severe."
+    },
+    {
+      "ranges": [
+        [
+          7253,
+          7500
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In addition to infectious causes, the patient's history of autoimmune diseases, including seronegative rheumatoid arthritis and polymyositis, raises the possibility of an inflammatory or immune-mediated process contributing to the current illness."
+    },
+    {
+      "ranges": [
+        [
+          7501,
+          7711
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Exacerbation of bronchiolitis obliterans with organizing pneumonia (BOOP) is a possibility, given the patient's history of this condition and the presence of patchy and linear opacities on the chest radiograph."
+    },
+    {
+      "ranges": [
+        [
+          12269,
+          12554
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's history of bronchiolitis obliterans with organizing pneumonia and polymyositis raises the possibility of an exacerbation of one of these conditions, and further evaluation, including pulmonary function tests and muscle enzyme levels, may be necessary to guide management."
+    },
+    {
+      "ranges": [
+        [
+          11741,
+          11872
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the patient's symptoms, physical examination findings, and diagnostic test results to guide further diagnostic testing and therapy."
+    },
+    {
+      "ranges": [
+        [
+          12094,
+          12263
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's immunocompromised state and history of opportunistic infections also highlight the need for empiric antibiotic therapy, pending the results of diagnostic t"
+    },
+    {
+      "ranges": [
+        [
+          14053,
+          14238
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the patient's presentation with acute febrile respiratory illness, in the context of a complex medical history and immunocompromised state, suggests a wide range of potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          13291,
+          13577
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's history of autoimmune diseases, opportunistic infections, and metabolic complications highlights the need for a multidisciplinary approach to care, and careful consideration of the potential benefits and risks of immunosuppressive therapy is essential to guide management."
+    },
+    {
+      "ranges": [
+        [
+          13578,
+          13750
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's immunocompromised state and history of recurrent infections suggest that empiric antibiotic therapy may be necessary, pending the results of diagnostic tests."
+    },
+    {
+      "ranges": [
+        [
+          12269,
+          12554
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of bronchiolitis obliterans with organizing pneumonia and polymyositis raises the possibility of an exacerbation of one of these conditions, and further evaluation, including pulmonary function tests and muscle enzyme levels, may be necessary to guide management."
+    }
+  ]
+}

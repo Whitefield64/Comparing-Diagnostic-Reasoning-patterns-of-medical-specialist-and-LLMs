@@ -1,0 +1,429 @@
+{
+  "case": "2001 Case 36__openai-gpt-oss-120b.md",
+  "exported_at": "2026-05-18T04:44:03.160724+00:00",
+  "n_voters": 15,
+  "n_successful": 15,
+  "n_failed": 0,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly applicable here, but prioritizing life-threatening diagnoses first is crucial."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, although not provided, would be crucial in ruling out other diagnoses and validating the working diagnosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description of a viral upper respiratory infection with secondary lower‑tract involvement, which is the most parsimonious hypothesis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a viral respiratory infection—most plausibly influenza—acting as a trigger for an acute exacerbation of the patient’s underlying organizing pneumonia/ILD."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The likelihood of each diagnosis is estimated based on the patient’s presentation and history, with viral infection being the most likely due to the upper‑respiratory prodrome and the patient’s immunosuppressed state."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s prior history of similar infections and his response to treatment are crucial in guiding the current diagnostic approach and management plan."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 20,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "Aortic- or subclavian-wall abnormalities without obvious occlusion from clotting make it unlikely that the patient had antiphospholipid-antibody syndrome, but we must explain the laboratory findings."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The classic presentation of giant-cell arteritis includes a new onset of localized headache, scalp tenderness, jaw claudication, and visual symptoms."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "Something about this case concerns me, and I think we should consider a broader differential diagnosis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although this elderly, hypertensive man probably did have some atheromatous disease, the vessels involved and the laboratory evidence suggest that he had giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with a history of rheumatoid arthritis who presented with a febrile respiratory illness and was ultimately diagnosed with an opportunistic infection."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dyspnea, cough, and new infiltrates, sometimes mimicking infection, can be caused by an acute exacerbation of organizing pneumonia/ILD triggered by infection."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The likelihood of a viral respiratory infection (most plausibly influenza) is high given the seasonal timing, fever, sore throat, rhinorrhea, peribronchial thickening, and rapid onset."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the clinical presentation of a viral respiratory infection, most likely influenza or RSV, precipitating an exacerbation of the patient’s underlying organizing pneumonia/ILD."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation is not applicable here but  Physical examination shows coarse breath sounds without focal crackles, mild digital clubbing, and a chest radiograph with bilateral lower‑lobe patchy and linear opacities with peribronchial thickening."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not applicable here but  The patient’s prior biopsy showed organizing pneumonia, supporting this link."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but The overall clinical picture leans heavily toward a viral etiology with secondary inflammatory sequelae"
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun is not applicable here but  The patient’s prior history of ARDS from PCP underscores the lung’s limited reserve."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated is not applicable here but The patient’s esophageal dysmotility and gastroparesis increase aspiration risk, especially during episodes of dysphagia or reduced consciousness."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation is not applicable here but  The patient’s cumulative burden of chronic lung disease, ongoing immunosuppression, and diabetes places him at heightened risk for rapid clinical deterioration."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "The most plausible hypothesis"
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The presence of an upper‑respiratory prodrome (sore throat, rhinorrhea) points toward a viral pathogen (influenza, RSV, adenovirus, hMPV) with a higher probability"
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the discussion suggests a strong inclination toward a viral etiology"
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is not mentioned but would be relevant for diagnosing systemic vasculitis"
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but this patient’s presentation does not align closely with such cases"
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary viral infection, given the patient’s symptoms and history."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dyspnea, cough, and bilateral lower‑lobe opacities on chest radiograph can be caused by a viral infection triggering an exacerbation of the patient’s underlying organizing pneumonia/ILD."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis; similarly, the patient’s symptoms can be categorized to narrow down the differential diagnosis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, supporting the diagnosis of a viral infection with secondary inflammatory sequelae."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with chronic autoimmune disease and extensive immunosuppression are at increased risk for respiratory infections, which can trigger exacerbations of underlying lung disease, as seen in this patient."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description of a viral respiratory infection, most plausibly influenza, acting as a trigger for an acute exacerbation of the patient’s underlying organizing pneumonia/ILD."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, but this is not directly applicable to the current case."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary viral infection, most likely influenza, acting as a trigger for an acute exacerbation of the patient’s underlying organizing pneumonia/ILD."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculosis, but an autoimmune mechanism has also been postulated, however, this is not directly relevant to the current case."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, but this is not directly applicable to the current case."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, however, this is not directly relevant to the current case."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dyspnea, cough, and new infiltrates, sometimes mimicking infection, can present with fever, cough, dyspnea, and infiltrates."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, which is consistent with the patient’s presentation."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description of a viral upper respiratory infection with secondary lower‑tract involvement, which is typical of influenza or RSV."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, which supports the diagnosis of a viral infection."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary viral infection, given the patient’s symptoms and the absence of other findings that would suggest a bacterial or fungal infection."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dyspnea, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction, which can be caused by a viral infection."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "An acute viral infection (influenza, RSV) can precipitate a cascade: viral bronchiolitis → airway inflammation → worsening of BOOP → hypoxemia and respiratory failure."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description of a viral respiratory infection, most plausibly influenza, acting as a trigger for an acute exacerbation of the patient’s underlying organizing pneumonia/ILD."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, is not present in this case but the patient’s radiograph shows bilateral lower‑lobe patchy and linear opacities with peribronchial thickening."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of bilateral lower‑lobe patchy and linear opacities with peribronchial thickening is consistent with a viral infection, especially influenza or RSV, and also compatible with an exacerbation of organizing pneumonia."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process of chronic immunosuppression, underlying connective‑tissue disease, and prior lung injury makes the patient susceptible to a wide range of infectious and non‑infectious pulmonary complications."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Similar cases of immunocompromised patients with chronic lung disease who developed acute respiratory infections after viral upper respiratory tract infections have been reported, highlighting the importance of prompt diagnosis and treatment."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of bilateral lower‑lobe patchy and linear opacities with peribronchial thickening is consistent with viral bronchiolitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The presence of an upper‑respiratory prodrome (sore throat, rhinorrhea) points toward an infectious trigger rather than a primary autoimmune flare."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description of a viral respiratory infection, most plausibly influenza, acting as a trigger for an acute exacerbation of the patient’s underlying organizing pneumonia/ILD."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary viral infection, given the clinical presentation and the patient’s history."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated, and the patient’s presentation could be related to this."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation, but this case does not have a clear visual finding."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, which supports the diagnosis of a viral infection."
+        }
+      ]
+    }
+  ]
+}

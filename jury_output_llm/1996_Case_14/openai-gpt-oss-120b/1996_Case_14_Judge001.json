@@ -1,0 +1,29 @@
+{
+  "case": "1996 Case 14__openai-gpt-oss-120b.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T02:22:15.078340+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          30763,
+          30994
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The preponderance of evidence points to **drug‑induced toxic epidermal necrolysis** as the primary dermatologic event, precipitated most plausibly by vancomycin (with possible contribution from methotrexate and other beta‑lactams)."
+    },
+    {
+      "ranges": [
+        [
+          8550,
+          8725
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cytotoxic T‑cell–mediated keratinocyte apoptosis, driven by granulysin, perforin‑granzyme pathways, and Fas‑FasL interactions, culminates in full‑thickness epidermal necrosis."
+    }
+  ]
+}

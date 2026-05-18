@@ -1,0 +1,95 @@
+{
+  "case": "2003 Case 21__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T05:54:57.184819+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23485,
+          23651
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely diagnosis is microscopic polyangiitis (MPA), an ANCA-associated vasculitis affecting small- to medium-sized vessels, including the vertebral arteries."
+    },
+    {
+      "ranges": [
+        [
+          13102,
+          13289
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The challenge lies in distinguishing between atherosclerotic progression, a primary vasculitis, a prothrombotic state, and a systemic connective tissue disorder with vascular involvement."
+    },
+    {
+      "ranges": [
+        [
+          17750,
+          18010
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the rapid progression of strokes over days to weeks, the multifocal nature of new infarcts in the brainstem and cerebellum, and the lack of progression in the anterior circulation (despite mild carotid stenoses) argue against a purely atherosclerotic etiology."
+    },
+    {
+      "ranges": [
+        [
+          18011,
+          18246
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Atherosclerosis tends to progress slowly; the development of multiple acute infarcts in different vascular territories within a week, despite anticoagulation, suggests a hypercoagulable or inflammatory trigger accelerating the process."
+    },
+    {
+      "ranges": [
+        [
+          13646,
+          13948
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of non-calcified, circumferential stenoses at the origin of the left vertebral artery, coupled with elevated intracranial flow velocities on transcranial Doppler and the absence of significant internal carotid disease, suggests a process that is not simply age-related plaque accumulation."
+    },
+    {
+      "ranges": [
+        [
+          23652,
+          23904
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The multifocal, irregular stenoses on angiography, the systemic inflammation (elevated CRP), the positive ANCA serology, the recurrent posterior circulation strokes despite anticoagulation, and the partial response to plasmapheresis all align with MPA."
+    },
+    {
+      "ranges": [
+        [
+          22262,
+          22468
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The absence of other SLE criteria (malar rash, arthritis, renal disease, positive dsDNA) makes primary SLE unlikely, but the possibility of an overlap syndrome with MPA and secondary APS remains compelling."
+    },
+    {
+      "ranges": [
+        [
+          24832,
+          25079
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case underscores the importance of considering vasculitis in any elderly patient with recurrent, multifocal strokes in the posterior circulation, especially when conventional risk factors and therapies fail to explain the clinical trajectory."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "case": "1991 Case 43__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-17T23:15:50.200541+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          14692,
+          14807
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's symptoms and radiographic findings are consistent with PCP, and the diagnosis should be reconsidered."
+    },
+    {
+      "ranges": [
+        [
+          14808,
+          14977
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other opportunistic infections that should be considered include Mycobacterium tuberculosis (TB), Mycobacterium avium complex (MAC), and cytomegalovirus (CMV) pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          15274,
+          15437
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Fungal infections are also a concern in patients with AIDS. The patient's BAL fluid grew Candida albicans, which can cause pneumonia in immunocompromised patients."
+    },
+    {
+      "ranges": [
+        [
+          15714,
+          15880
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Aspergillus can cause a range of diseases, from allergic bronchopulmonary aspergillosis to invasive aspergillosis, and can present with similar symptoms to PCP or TB."
+    },
+    {
+      "ranges": [
+        [
+          18784,
+          18937
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The patient's physical examination revealed scattered crackles in both lungs, and his laboratory results showed anemia, thrombocytosis, and elevated LDH."
+    },
+    {
+      "ranges": [
+        [
+          18118,
+          18245
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient's anemia, thrombocytosis, and elevated LDH suggest a systemic illness, such as a malignancy or a chronic infection."
+    },
+    {
+      "ranges": [
+        [
+          19240,
+          19364
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the patient should be treated empirically for an opportunistic infection or malignancy until a definitive diagnosis is made."
+    },
+    {
+      "ranges": [
+        [
+          19847,
+          19974
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "A thorough evaluation, including repeated sputum examinations, BAL, and imaging studies, is necessary to confirm the diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          23318,
+          23489
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "In terms of prioritizing the differential diagnosis, the most likely diagnoses are PCP, TB, and MAC, given the patient's immunocompromised state and pulmonary infiltrates."
+    },
+    {
+      "ranges": [
+        [
+          19365,
+          19510
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's treatment should be guided by the results of diagnostic tests, and he should be closely monitored for any changes in his condition."
+    },
+    {
+      "ranges": [
+        [
+          14692,
+          14807
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms and radiographic findings are consistent with PCP, and the diagnosis should be reconsidered."
+    },
+    {
+      "ranges": [
+        [
+          20173,
+          20326
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The leading diagnoses in this case include PCP, TB, MAC, CMV pneumonia, and Candida pneumonia, and further testing is necessary to confirm the diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          21381,
+          21489
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's unemployment and lack of access to healthcare may also contribute to his poor health outcomes."
+    }
+  ]
+}

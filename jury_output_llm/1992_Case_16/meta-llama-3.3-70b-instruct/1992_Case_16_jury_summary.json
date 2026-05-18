@@ -1,0 +1,188 @@
+{
+  "case": "1992 Case 16__meta-llama-3.3-70b-instruct.md",
+  "exported_at": "2026-05-17T23:46:43.106581+00:00",
+  "n_voters": 15,
+  "n_successful": 15,
+  "n_failed": 0,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The patient's symptoms of cervical pain radiating to the left shoulder, paresthesias in the left hand, and clumsiness of the left hand, suggest involvement of the spinal cord or nerve roots."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient's symptoms and imaging findings suggest a serious underlying condition, and prompt diagnosis and treatment are essential to prevent further complications and improve outcomes, although the probability of each diagnosis is uncertain."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 20,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however, the patient's symptoms of cervical pain and neurologic deficits make an infectious or neoplastic process more likely."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient's symptoms and imaging findings suggest a serious underlying condition, and prompt diagnosis and treatment are essential to prevent further complications and improve outcomes, which validates the need for a thorough diagnostic evaluation."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned, however the text 'The leading diagnoses at this point include an infectious process, such as osteomyelitis or discitis, and a neoplastic process, either primary or metastatic.' implies an intuition about the case."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is an infectious process, such as osteomyelitis or discitis, although I am troubled by the negative serologic test."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although this diagnosis is not directly applicable to the patient's case, the process of thinking is similar."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "A rare condition such as a spinal hemangioma or aneurysmal bone cyst could be considered, given the patient's age and lack of systemic symptoms."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however, the patient's symptoms and imaging findings suggest a serious underlying condition."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient's symptoms and imaging findings suggest a serious underlying condition, and prompt diagnosis and treatment are essential to prevent further complications and improve outcomes, the probability of a neoplastic process may be higher."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient's symptoms and imaging findings do not support these diagnoses."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the sentence 'The patient's symptoms and imaging findings suggest a serious underlying condition' has the same intuition."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 50,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 14,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, but the patient's symptoms and imaging findings suggest a serious underlying condition."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "A rare condition such as a spinal hemangioma or aneurysmal bone cyst could be considered, given the patient's age and lack of systemic symptoms."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is an infectious process, such as osteomyelitis or discitis, although the patient's lack of systemic symptoms makes it difficult to establish a definitive diagnosis at this point."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "A rare condition such as a spinal hemangioma or aneurysmal bone cyst could be considered, given the patient's age and lack of systemic symptoms."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 56,
+      "n_unresolved": 0,
+      "unresolved": []
+    }
+  ]
+}

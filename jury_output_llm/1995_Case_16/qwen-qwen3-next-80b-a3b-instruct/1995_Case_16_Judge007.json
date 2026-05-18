@@ -1,0 +1,117 @@
+{
+  "case": "1995 Case 16__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T01:30:38.286026+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17029,
+          17171
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "combination of cardiac and pulmonary granulomatous disease** strongly points to either **tuberculosis** or **sarcoidosis** as the leading diag"
+    },
+    {
+      "ranges": [
+        [
+          17178,
+          17442
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Between the two, tuberculosis is more likely given the patient’s Caribbean origin (high TB burden), prior positive TSTs, family history, discontinuation of isoniazid, and the radiographic pattern of nodules centered on bronchovascular bundles with lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          12275,
+          12550
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The myocardial biopsy showing only hypertrophy and no granulomas is a significant counterpoint, but again, biopsy sampling error is common in sarcoidosis—up to 30% of cases require multiple biopsies or endomyocardial biopsy from multiple sites to yield diagnostic granulomas."
+    },
+    {
+      "ranges": [
+        [
+          8071,
+          8349
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The negative TST at presentation is not reassuring: in advanced or disseminated tuberculosis, particularly in the setting of severe malnutrition, immunosuppression (even if not HIV-related), or overwhelming disease burden, anergy can develop, rendering the TST falsely negative."
+    },
+    {
+      "ranges": [
+        [
+          18808,
+          18897
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If these are negative, a lymph node biopsy (e.g., via mediastinoscopy) should be pursued."
+    },
+    {
+      "ranges": [
+        [
+          18545,
+          18716
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The next diagnostic step should be bronchoscopy with bronchoalveolar lavage for AFB smear, culture, and PCR, as well as transbronchial lung biopsy for granuloma detection."
+    },
+    {
+      "ranges": [
+        [
+          18898,
+          19025
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Empiric antituberculous therapy should be initiated pending results, given the high clinical suspicion and risk of progression."
+    },
+    {
+      "ranges": [
+        [
+          8425,
+          8713
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The pulmonary nodules described—10 mm, bilateral, confluent in the right upper lobe, centered on bronchovascular bundles, with bronchial wall thickening and segmental air-space disease—are classic for **tuberculous granulomatous pneumonia**, especially in the setting of reactivation dise"
+    },
+    {
+      "ranges": [
+        [
+          9818,
+          10115
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s night sweats, though mild and without fever, are a classic constitutional symptom of TB, and the elevated AST and alkaline phosphatase may reflect hepatic granulomatous involvement or drug-induced liver injury from prior isoniazid, further supporting a chronic granulomatous process."
+    },
+    {
+      "ranges": [
+        [
+          11762,
+          12086
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The fact that the patient had a positive mumps skin test suggests preserved cell-mediated immunity, which argues against immunosuppression and makes sarcoidosis more plausible than TB in some contexts, but this is not definitive: many patients with TB retain anergic responses in certain antigens while responding to others."
+    }
+  ]
+}

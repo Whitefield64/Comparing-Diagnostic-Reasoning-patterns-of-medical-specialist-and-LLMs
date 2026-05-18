@@ -1,0 +1,84 @@
+{
+  "case": "1990 Case 19__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-17T22:53:16.643638+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          21085,
+          21171
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling unifying diagnosis is **hydatid disease (cystic echinococcosis)**."
+    },
+    {
+      "ranges": [
+        [
+          21847,
+          22057
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Alternative considerations include **pyogenic liver abscess**, though this is typically more acute, with higher transaminases, and often presents with chills and rigors rather than low-grade intermittent fever."
+    },
+    {
+      "ranges": [
+        [
+          23041,
+          23174
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential must remain open, but the clinical, geographic, and radiological data converge most compellingly on hydatid disease."
+    },
+    {
+      "ranges": [
+        [
+          20420,
+          20501
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Could this be a case of right-sided endocarditis with septic emboli to the liver?"
+    },
+    {
+      "ranges": [
+        [
+          9702,
+          9933
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The imaging findings—ultrasound, CT, and MRI—consistently describe a large (14 × 10 cm), well-circumscribed, nonenhancing, heterogeneous mass in the right hepatic lobe with multiple septated cystic components and areas of necrosis."
+    },
+    {
+      "ranges": [
+        [
+          9934,
+          10148
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The lack of contrast enhancement is particularly significant: it argues against highly vascular tumors such as hepatocellular carcinoma (HCC) or hemangioma, which typically show characteristic enhancement patterns."
+    },
+    {
+      "ranges": [
+        [
+          11202,
+          11348
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of AFP data is a gap, but the imaging description of a predominantly cystic, nonenhancing mass is atypical for classic hepatoblastoma."
+    }
+  ]
+}

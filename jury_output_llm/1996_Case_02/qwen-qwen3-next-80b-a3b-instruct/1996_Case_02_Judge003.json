@@ -1,0 +1,139 @@
+{
+  "case": "1996 Case 02__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T02:12:53.865658+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4486,
+          4744
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The absence of jaundice, normal liver enzymes, normal bilirubin, and absence of risk factors for viral hepatitis or alcohol-related liver disease effectively exclude common causes of hepatic dysfunction such as cirrhosis, steatohepatitis, or viral hepatitis."
+    },
+    {
+      "ranges": [
+        [
+          4745,
+          4935
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The normal renal, hematologic, and metabolic parameters further narrow the focus to a primary or metastatic process localized to the liver, with systemic inflammatory or neoplastic features."
+    },
+    {
+      "ranges": [
+        [
+          7420,
+          7546
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The central necrosis could represent tumor outgrowth beyond its blood supply, and the hypervascularity is consistent with HCC."
+    },
+    {
+      "ranges": [
+        [
+          7280,
+          7419
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the chronic inflammatory state suggested by recurrent fevers and weight loss could theoretically create a procarcinogenic microenvironment."
+    },
+    {
+      "ranges": [
+        [
+          5589,
+          5968
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although the prior interpretation of the lesion as a hemangioma was reasonable, it is now highly questionable. Classic hepatic hemangiomas are typically well-circumscribed, hypervascular on arterial phase imaging, but they are usually homogeneous, lack central necrosis, and demonstrate progressive peripheral nodular enhancement on delayed phases, not a persistent central scar."
+    },
+    {
+      "ranges": [
+        [
+          6430,
+          6669
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Vascular bruits over hepatic masses are exceedingly rare and are most classically associated with hypervascular tumors such as hepatocellular carcinoma (HCC), hepatic adenoma, or, less commonly, metastatic disease with rich neovascularity."
+    },
+    {
+      "ranges": [
+        [
+          6872,
+          7086
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Given the patient’s age, absence of cirrhosis, and lack of known etiologies for HCC (hepatitis B or C, alcohol, NAFLD, aflatoxin exposure), hepatocellular carcinoma remains an unlikely but not impossible diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          5969,
+          6176
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of a central scar is more characteristic of focal nodular hyperplasia (FNH), but FNH is typically asymptomatic, does not cause fever or weight loss, and is not associated with systemic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          7552,
+          7829
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the absence of elevated alpha-fetoprotein (AFP)—though not routinely measured here—is a major argument against HCC. AFP is elevated in approximately 70% of HCC cases, and its absence in a patient with a large hypervascular mass should raise suspicion for alternative diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          11584,
+          11759
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Hepatic adenomas are estrogen-dependent tumors, commonly seen in young women on oral contraceptives—this patient is taking an oral contraceptive, which is a major risk factor."
+    },
+    {
+      "ranges": [
+        [
+          15219,
+          15407
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The final and most likely diagnosis, given the constellation of findings, is hepatic adenoma. The patient is a young woman on oral contraceptives, which is the strongest known risk factor."
+    },
+    {
+      "ranges": [
+        [
+          16040,
+          16175
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of malignancy markers, normal liver function, and lack of cirrhosis further support a benign but locally problematic tumor."
+    }
+  ]
+}

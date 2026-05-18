@@ -1,0 +1,51 @@
+{
+  "case": "1991 Case 43__openai-gpt-oss-120b.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-17T23:22:37.891760+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          36519,
+          36758
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The preponderance of evidence points toward CMV as the primary pathogen driving the patient’s pulmonary disease:\n\n1. **Immunologic susceptibility** – CD4⁺ count < 50 cells µL⁻¹ places CMV at the top of the opportunistic infection hierarchy"
+    },
+    {
+      "ranges": [
+        [
+          42743,
+          43105
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s presentation epitomizes the diagnostic complexity of pulmonary disease in advanced AIDS. A systematic appraisal of the data highlights **CMV pneumonitis** as the most compelling diagnosis, supported by the immunologic milieu, characteristic clinical signs (hemoptysis, diffuse nodular infiltrates), and laboratory markers (high LDH, high ferritin)."
+    },
+    {
+      "ranges": [
+        [
+          38402,
+          38621
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If CMV is confirmed, the appropriate therapy would be **intravenous ganciclovir** (5 mg/kg q12h) or **foscarnet** if cytopenias preclude ganciclovir, followed by secondary prophylaxis once clinical response is achieved."
+    },
+    {
+      "ranges": [
+        [
+          37706,
+          38006
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of **mixed bacterial flora and Candida** in BAL likely reflects colonization secondary to the disrupted airway defenses, rather than true infection. The detection of **Mycoplasma species** in BAL further supports a background of polymicrobial colonization in an immunocompromised airway."
+    }
+  ]
+}

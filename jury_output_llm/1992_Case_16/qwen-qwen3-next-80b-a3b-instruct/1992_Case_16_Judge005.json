@@ -1,0 +1,62 @@
+{
+  "case": "1992 Case 16__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T00:03:28.235973+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          17641,
+          17771
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely diagnosis is **vertebral osteomyelitis secondary to *Staphylococcus aureus***, seeded from the chronic paronychia."
+    },
+    {
+      "ranges": [
+        [
+          18142,
+          18294
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The second most likely diagnosis is **Ewing sarcoma**, given the age, the solitary osteolytic lesion with soft-tissue mass, and the neurologic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          18371,
+          18480
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The third consideration is **tuberculosis**, though less likely without systemic signs or pulmonary findings."
+    },
+    {
+      "ranges": [
+        [
+          4692,
+          4927
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of fever, systemic symptoms, or overt signs of infection, combined with an elevated erythrocyte sedimentation rate (ESR) of 50 mm/h, points toward an inflammatory or neoplastic process rather than acute bacterial infection."
+    },
+    {
+      "ranges": [
+        [
+          5568,
+          5744
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The leading diagnostic considerations must be grouped into four major categories: infectious, neoplastic, inflammatory/autoimmune, and rare degenerative or vascular etiologies."
+    }
+  ]
+}

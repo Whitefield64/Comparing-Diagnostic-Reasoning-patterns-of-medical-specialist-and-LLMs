@@ -1,0 +1,95 @@
+{
+  "case": "2001 Case 20__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T03:48:49.500351+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5100,
+          5238
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with fever, gram-negative bacteremia, and a complex medical history raises a wide range of potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          8160,
+          8416
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnoses could include complicated bacteremia due to *Moraxella phenylpyruvica*, possibly related to an underlying source such as the urinary tract or a vascular site, given the patient's medical history and the findings on diagnostic imaging."
+    },
+    {
+      "ranges": [
+        [
+          8897,
+          9107
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient's gram-negative bacteremia could be the result of a breach in the body's natural barriers, such as the skin, urinary tract, or gastrointestinal tract, allowing the bacteria to enter the bloodstream."
+    },
+    {
+      "ranges": [
+        [
+          9108,
+          9289
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of underlying medical conditions, such as diabetes and renal insufficiency, could impair the patient's immune response, making it more difficult to clear the infection."
+    },
+    {
+      "ranges": [
+        [
+          11525,
+          11735
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's response to initial antibiotic treatment with ciprofloxacin, to which the organism was sensitive, was not satisfactory, suggesting either a complicated infection or a different underlying process."
+    },
+    {
+      "ranges": [
+        [
+          11268,
+          11523
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the diagnostic findings do not strongly support infections such as brucellosis or leptospirosis, these conditions should be considered in the differential diagnosis, particularly given the patient's travel history and the presence of fever and bacteremia."
+    },
+    {
+      "ranges": [
+        [
+          12093,
+          12255
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the patient's presentation with fever, gram-negative bacteremia, and a complex medical history requires a thorough and nuanced approach to differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11259,
+          11523
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although the diagnostic findings do not strongly support infections such as brucellosis or leptospirosis, these conditions should be considered in the differential diagnosis, particularly given the patient's travel history and the presence of fever and bacteremia."
+    }
+  ]
+}

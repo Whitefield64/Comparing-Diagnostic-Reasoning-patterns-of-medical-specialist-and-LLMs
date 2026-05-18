@@ -1,0 +1,128 @@
+{
+  "case": "1996 Case 14__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T02:18:37.397122+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7362,
+          7555
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient presented with a complex and severe clinical picture, characterized by toxic epidermal necrolysis (TEN), a life-threatening condition that requires prompt and meticulous management."
+    },
+    {
+      "ranges": [
+        [
+          7556,
+          7874
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's medical history, including primary hypothyroidism, allergy to penicillin, long-standing hypertension, inflammatory arthritis, and chronic renal failure, as well as the recent initiation of methotrexate and subsequent development of oral ulcers, the differential diagnosis is broad and multifaceted."
+    },
+    {
+      "ranges": [
+        [
+          11520,
+          11642
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "he development of TEN is thought to involve a complex interplay between the immune system, the skin, and the medications. "
+    },
+    {
+      "ranges": [
+        [
+          11642,
+          11818
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's history of recent drug exposure, including methotrexate and multiple antibiotics, suggests that a drug-induced reaction may have triggered the development of TEN."
+    },
+    {
+      "ranges": [
+        [
+          8090,
+          8257
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The fact that methotrexate was discontinued two weeks after its initiation, following the appearance of oral ulcers, raises the possibility of a drug-induced reaction."
+    },
+    {
+      "ranges": [
+        [
+          8258,
+          8429
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the subsequent administration of multiple antibiotics, including vancomycin, aztreonam, clindamycin, and fluconazole, expands the list of potential culprit drugs."
+    },
+    {
+      "ranges": [
+        [
+          8431,
+          8554
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The diagnosis of TEN is supported by the clinical presentation and the microscopic examination of the skin biopsy specimen."
+    },
+    {
+      "ranges": [
+        [
+          7887,
+          8089
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the patient's presentation with oral ulcers, cervical lymphadenopathy, and a morbilliform eruption, which later evolved into erythroderma and bullae, suggests a severe cutaneous adverse reaction (SCAR)."
+    },
+    {
+      "ranges": [
+        [
+          10437,
+          10565
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The growth of *Klebsiella pneumoniae* in multiple cultures, including blood, sputum, and bile, confirms the diagnosis of sepsis."
+    },
+    {
+      "ranges": [
+        [
+          10566,
+          10735
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's underlying medical conditions, including chronic renal failure and the use of immunosuppressive therapy, may have contributed to the development of sepsis."
+    },
+    {
+      "ranges": [
+        [
+          10307,
+          10436
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The diagnosis of sepsis is supported by the patient's clinical presentation, including fever, hypotension, and organ dysfunction."
+    }
+  ]
+}

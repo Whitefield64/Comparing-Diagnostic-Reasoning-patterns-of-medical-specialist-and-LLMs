@@ -1,0 +1,51 @@
+{
+  "case": "2001 Case 20__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T04:19:31.956494+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6306,
+          6437
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is infective endocarditis (IE), particularly in its culture-negative or atypical form."
+    },
+    {
+      "ranges": [
+        [
+          17401,
+          18075
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) infective endocarditis due to *Neisseria phenylpyruvica* or a similar fastidious organism, seeded from oral flora or a mucosal source, in the setting of degenerative valvular disease; (2) occult renal abscess or infected cyst, particularly given the renal cysts and chronic kidney disease; (3) tuberculosis, either pulmonary or extrapulmonary, with possible bacteremia or immune-mediated fever; (4) a systemic vasculitis such as polyarteritis nodosa, with secondary renal and systemic manifestations; and (5) an occult malignancy, particularly lymphoma or renal cell carcinoma, with paraneoplastic fever and secondary infection."
+    },
+    {
+      "ranges": [
+        [
+          7474,
+          7646
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The negative TEE does not exclude IE; vegetations may be small, friable, or obscured by calcific deposits, especially in the setting of advanced degenerative valve disease."
+    },
+    {
+      "ranges": [
+        [
+          12494,
+          12732
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The combination of fever, weight loss, proteinuria, and renal insufficiency raises concern for a systemic inflammatory disorder such as polyarteritis nodosa (PAN), microscopic polyangiitis (MPA), or granulomatosis with polyangiitis (GPA)."
+    }
+  ]
+}

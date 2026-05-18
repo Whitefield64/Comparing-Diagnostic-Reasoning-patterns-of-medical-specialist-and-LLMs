@@ -1,0 +1,128 @@
+{
+  "case": "2001 Case 36__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T04:48:20.858629+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6490,
+          6730
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate consideration is **opportunistic pulmonary infection**, particularly given his history of *Pneumocystis jirovecii* pneumonia (formerly *carinii*) on at least two prior occasions, and his current immunosuppressive regimen."
+    },
+    {
+      "ranges": [
+        [
+          16872,
+          17272
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The top three diagnostic possibilities are: (1) *Pneumocystis jirovecii* pneumonia, given his history, current prophylaxis status, and immunosuppressive regimen; (2) an acute flare of antisynthetase syndrome-related organizing pneumonia, triggered by steroid tapering; and (3) viral pneumonia, particularly influenza or RSV, given the prodromal upper respiratory symptoms and immunocompromised state."
+    },
+    {
+      "ranges": [
+        [
+          12158,
+          12333
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s history of prior *P. jirovecii* and bacterial sepsis suggests repeated exposure to healthcare environments, increasing the risk of nosocomial fungal acquisition."
+    },
+    {
+      "ranges": [
+        [
+          7810,
+          8005
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The recent reduction in trimethoprim–sulfamethoxazole prophylaxis and the taper of prednisone from 15 mg to 5 mg likely created a window of relative immunosuppression sufficient for reactivation."
+    },
+    {
+      "ranges": [
+        [
+          8006,
+          8147
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A bronchoalveolar lavage (BAL) with PCR and immunofluorescence for *P. jirovecii* is imperative, even if the patient appears only mildly ill."
+    },
+    {
+      "ranges": [
+        [
+          9500,
+          9591
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A multiplex PCR panel on nasal swab and BAL fluid is essential to rule out viral pathogens."
+    },
+    {
+      "ranges": [
+        [
+          17535,
+          17673
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The critical next step is bronchoscopy with BAL for cell count, culture, PCR for *P. jirovecii*, viral panel, fungal stains, and cytology."
+    },
+    {
+      "ranges": [
+        [
+          18164,
+          18315
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The challenge lies in the fact that this patient’s immune system is so profoundly altered that the usual clinical and radiographic cues are unreliable."
+    },
+    {
+      "ranges": [
+        [
+          7365,
+          7633
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of hypoxemia (SaO₂ 98%) is atypical for severe *P. jirovecii*, but this patient has significant baseline restrictive and obstructive lung disease from prior organizing pneumonia and diffuse alveolar damage, which may blunt the expected degree of hypoxemia."
+    },
+    {
+      "ranges": [
+        [
+          9177,
+          9317
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The radiographic pattern of patchy lower lobe opacities with peribronchial thickening is classic for viral bronchiolitis or viral pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          11980,
+          12059
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The presence of fever, cough, and dyspnea in this context is highly suspicious."
+    }
+  ]
+}

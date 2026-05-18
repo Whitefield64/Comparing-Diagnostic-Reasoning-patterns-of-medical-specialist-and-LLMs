@@ -1,0 +1,106 @@
+{
+  "case": "1996 Case 02__openai-gpt-oss-120b.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T01:56:47.874917+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          12752,
+          12970
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most plausible benign entities—giant hemangioma, FNH, and HCA—each explain some imaging features but fail to account for the systemic inflammatory picture (recurrent fevers, weight loss) and the auscultatory bruit."
+    },
+    {
+      "ranges": [
+        [
+          20652,
+          20837
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The imaging hallmark of a hypervascular lesion with a central scar, coupled with normal liver function and systemic inflammatory symptoms, points most strongly toward fibrolamellar HCC."
+    },
+    {
+      "ranges": [
+        [
+          14844,
+          14928
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "nstitutional symptoms are thought to be mediated by cytokine release from the tumor."
+    },
+    {
+      "ranges": [
+        [
+          33394,
+          33604
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "he standard of care is **surgical resection** (anatomic left‑lobe hepatectomy or extended left hepatectomy) because the tumor typically arises in a non‑cirrhotic liver and patients tolerate major hepatectomy we"
+    },
+    {
+      "ranges": [
+        [
+          33608,
+          33761
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The presence of a solitary lesion, absence of vascular invasion on imaging, and lack of extra‑hepatic disease make the patient a good surgical candidate."
+    },
+    {
+      "ranges": [
+        [
+          31310,
+          31556
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The table underscores that the constellation of a **hypervascular mass with a central scar**, **normal liver enzymes**, **normal tumor markers**, and **systemic constitutional symptoms** is most parsimoniously explained by **fibrolamellar hepatoc"
+    },
+    {
+      "ranges": [
+        [
+          35405,
+          35693
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Fibrolamellar HCC uniquely integrates all observed elements: it occurs in young adults without cirrhosis, presents as a hypervascular mass with a central fibrous scar, often elicits systemic inflammatory symptoms (fever, weight loss), and typically shows normal AFP and liver chemistries."
+    },
+    {
+      "ranges": [
+        [
+          8955,
+          9104
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s age and sex fit the epidemiology of FNH, and the imaging description of a hypervascular mass with a central scar is reminiscent of FNH."
+    },
+    {
+      "ranges": [
+        [
+          27993,
+          28120
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "n inflammatory pseudotumor remains a diagnostic contender because it can produce fever, weight loss, and a hypervascular mass. "
+    }
+  ]
+}

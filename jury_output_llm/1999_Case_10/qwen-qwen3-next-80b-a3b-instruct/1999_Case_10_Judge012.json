@@ -1,0 +1,183 @@
+{
+  "case": "1999 Case 10__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T03:39:50.761651+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9583,
+          9755
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is **antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV)**, particularly **microscopic polyangiitis (MPA)**."
+    },
+    {
+      "ranges": [
+        [
+          11547,
+          11753
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential must also include **polyarteritis nodosa (PAN)**, a medium-vessel vasculitis that classically spares the lungs but can involve the kidneys, gastrointestinal tract, skin, and nervous system."
+    },
+    {
+      "ranges": [
+        [
+          12479,
+          12639
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another critical consideration is **thrombotic microangiopathy (TMA)**, including thrombotic thrombocytopenic purpura (TTP) and hemolytic uremic syndrome (HUS)."
+    },
+    {
+      "ranges": [
+        [
+          15226,
+          15443
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s age, chronic gastritis, left-sided hydronephrosis, and newly palpable supraclavicular and axillary lymphadenopathy raise concern for an occult malignancy, particularly gastric adenocarcinoma or lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          18363,
+          18494
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **renal findings**—bilateral hydronephrosis, decreased nephrogram, and stent placement for nonfilling left ureter—are puzzling."
+    },
+    {
+      "ranges": [
+        [
+          10079,
+          10378
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The renal biopsy findings, though not explicitly described, are strongly implied by the urinalysis: dysmorphic red blood cells (indicative of glomerular injury), proteinuria, granular casts, and low urine sodium with low osmolality (suggesting intrinsic renal failure rather than prerenal azotemia)."
+    },
+    {
+      "ranges": [
+        [
+          10510,
+          10754
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The cortical blindness, confirmed by MRI to involve bilateral occipital lobe infarcts, is a recognized neurological manifestation of MPA, resulting from microvascular thrombosis or necrotizing arteriolitis in the posterior cerebral circulation."
+    },
+    {
+      "ranges": [
+        [
+          21669,
+          21743
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If it shows pauci-immune necrotizing glomerulonephritis, MPA is confirmed."
+    },
+    {
+      "ranges": [
+        [
+          21744,
+          21821
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If it shows thrombotic microangiopathy, TTP or paraneoplastic TMA is favored."
+    },
+    {
+      "ranges": [
+        [
+          21822,
+          21952
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If it reveals granulomatous inflammation or IgG4-positive plasma cell infiltration, then IgG4-related disease becomes more likely."
+    },
+    {
+      "ranges": [
+        [
+          21084,
+          21297
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The absence of ANCA titers, ADAMTS13 activity, IgG4 levels, and definitive tissue diagnosis from the gastric biopsy or renal biopsy (which was not mentioned but would be essential) leaves critical diagnostic gaps."
+    },
+    {
+      "ranges": [
+        [
+          9756,
+          9923
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "MPA is a small-vessel vasculitis that typically affects capillaries, venules, and arterioles, and is classically associated with myeloperoxidase (MPO)-ANCA positivity."
+    },
+    {
+      "ranges": [
+        [
+          12033,
+          12280
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s pulmonary infiltrates, pleural effusions, and evidence of alveolar hemorrhage (suggested by the chest CT findings of air-space disease and the presence of dysmorphic RBCs in urine) strongly argue against PAN as the primary diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11345,
+          11545
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of lymphadenopathy and pararenal soft-tissue thickening may reflect systemic inflammatory infiltration or, less commonly, secondary lymphoid hyperplasia due to chronic immune stimulation."
+    },
+    {
+      "ranges": [
+        [
+          16559,
+          16811
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The rapid progression of renal failure, neurologic decline, and pulmonary infiltrates over weeks is more consistent with a rapidly progressive malignancy than a primary vasculitis, especially given the lymphadenopathy and pararenal soft-tissue changes."
+    },
+    {
+      "ranges": [
+        [
+          19403,
+          19651
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "While small-vessel disease due to hypertension or diabetes can cause such lesions, the patient’s blood pressure was normal until the last days of hospitalization, and the lesions are too acute and bilateral for typical hypertensive microangiopathy."
+    }
+  ]
+}

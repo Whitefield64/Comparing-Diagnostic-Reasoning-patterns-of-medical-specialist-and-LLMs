@@ -1,0 +1,128 @@
+{
+  "case": "2001 Case 20__openai-gpt-oss-120b.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T04:05:49.358792+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23982,
+          24217
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **most compelling working diagnosis** is **subacute infective endocarditis caused by *Moraxella phenylpyruvica***, with the ulcerated atherosclerotic plaque serving either as a secondary nidus or as a conduit for bacterial seeding."
+    },
+    {
+      "ranges": [
+        [
+          31185,
+          31546
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **preponderance of evidence** points toward a **low‑grade, subacute infective process involving the cardiovascular system**, most plausibly **infective endocarditis caused by *Moraxella phenylpyruvica***, with the **ulcerated atherosclerotic plaque** acting either as the primary nidus or as a conduit that facilitated bacterial seeding of the aortic valve."
+    },
+    {
+      "ranges": [
+        [
+          25460,
+          25635
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Ulceration exposes the subendothelial matrix (collagen, fibronectin) and releases tissue factor, promoting platelet aggregation and a local inflammatory milieu rich in fibrin."
+    },
+    {
+      "ranges": [
+        [
+          25637,
+          25748
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Certain Gram‑negative organisms express adhesins (e.g., OmpA, pili) that bind to extracellular matrix proteins."
+    },
+    {
+      "ranges": [
+        [
+          29580,
+          29816
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If infective endocarditis is confirmed**:  \n   - Continue **intravenous cefuroxime** (or switch to a **beta‑lactam/beta‑lactamase inhibitor** such as **piperacillin‑tazobactam**) for a minimum of **4–6 weeks**, guided by repeat blood cu"
+    },
+    {
+      "ranges": [
+        [
+          30114,
+          30403
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If infected aortic plaque (infective aortitis) is the primary source**:  \n   - **Prolonged intravenous β‑lactam therapy** (≥6 weeks) is required; cefuroxime penetrates the aortic wall reasonably well, but **high‑dose ceftriaxone** or a **carbapenem** could be considered for better tissue "
+    },
+    {
+      "ranges": [
+        [
+          31550,
+          31703
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Key points supporting this synthesis:\n\n- **Structural heart disease** (calcified aortic and mitral leaflets) provides a substrate for bacterial adherence"
+    },
+    {
+      "ranges": [
+        [
+          32295,
+          32513
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The **secondary hypotheses** (infected aortic plaque without valve involvement, latent TB, occult malignancy) remain plausible but are **less consistent** with the microbiologic data and the rapid therapeutic response."
+    },
+    {
+      "ranges": [
+        [
+          27427,
+          27537
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s temperature normalized after 48 h of cefuroxime, suggesting **adequate antimicrobial activity**."
+    },
+    {
+      "ranges": [
+        [
+          27548,
+          27806
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "**persistent low‑grade bacteremia (culture positive on day 6)** raises the possibility that the antibiotic penetrates poorly into the **avascular plaque or micro‑vegetations**, or that the bacterial load within the plaque is **protected by a fibrin matrix**."
+    },
+    {
+      "ranges": [
+        [
+          32741,
+          32945
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This diagnosis justifies **continued intravenous β‑lactam therapy** for a minimum of **four weeks**, **serial blood cultures**, and **repeat transesophageal echocardiography** after one week of treatment."
+    }
+  ]
+}
