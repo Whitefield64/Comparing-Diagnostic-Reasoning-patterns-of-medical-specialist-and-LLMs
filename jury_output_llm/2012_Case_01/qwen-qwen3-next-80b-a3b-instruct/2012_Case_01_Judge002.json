@@ -1,0 +1,95 @@
+{
+  "case": "2012 Case 01__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-18T10:54:12.513786+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          19760,
+          19936
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely diagnosis is pyoderma gangrenosum, triggered by the patient’s underlying inflammatory burden, including hidradenitis suppurativa and possibly occult malignancy."
+    },
+    {
+      "ranges": [
+        [
+          20135,
+          20299
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The alternative diagnosis of Sweet’s syndrome with necrotizing features remains plausible, particularly if an underlying hematologic malignancy is later identified."
+    },
+    {
+      "ranges": [
+        [
+          11317,
+          11536
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "It is possible that this represents a variant of Sweet’s syndrome with necrotizing features, sometimes termed “necrotizing neutrophilic dermatosis,” which has been described in association with hematologic malignancies."
+    },
+    {
+      "ranges": [
+        [
+          12056,
+          12200
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The histopathology of PG is often non-specific, showing a dense neutrophilic infiltrate without vasculitis, which aligns with the findings here."
+    },
+    {
+      "ranges": [
+        [
+          10090,
+          10288
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of neutrophilic dermatitis, particularly in the context of recurrent abscesses and hidradenitis suppurativa, immediately raises the possibility of a neutrophilic dermatosis of the skin."
+    },
+    {
+      "ranges": [
+        [
+          12558,
+          12743
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": " history of hidradenitis suppurativa—a condition now recognized as part of the same spectrum of neutrophilic dermatoses as PG—makes the diagnosis of PG even more plausible. The fact tha"
+    },
+    {
+      "ranges": [
+        [
+          8321,
+          8565
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "We must consider primary dermatologic disorders, systemic inflammatory conditions, hematologic malignancies, drug reactions, and rare paraneoplastic syndromes, while carefully weighing the significance of his comorbidities and prior treatments."
+    },
+    {
+      "ranges": [
+        [
+          19937,
+          20134
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The clinical features—pathergy, necrotic ulcers with undermined borders, systemic inflammation, steroid responsiveness, and histopathological neutrophilic infiltrate without vasculitis—are classic."
+    }
+  ]
+}

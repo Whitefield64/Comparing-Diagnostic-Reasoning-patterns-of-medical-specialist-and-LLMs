@@ -1,0 +1,62 @@
+{
+  "case": "2012 Case 17__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T11:32:01.351160+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          15865,
+          15989
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnosis, integrating the imaging, clinical course, and exclusion of systemic disease, is glioblastoma."
+    },
+    {
+      "ranges": [
+        [
+          17525,
+          17714
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical and radiographic features strongly favor a high-grade astrocytic tumor, and the absence of systemic disease, infectious signs, or inflammatory markers supports this conclusion."
+    },
+    {
+      "ranges": [
+        [
+          6040,
+          6211
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of two adjacent masses raises the possibility of multifocal GBM, which occurs in approximately 5–10% of cases and is associated with a more aggressive course."
+    },
+    {
+      "ranges": [
+        [
+          6212,
+          6336
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Heterogeneous enhancement is classic for GBM, reflecting areas of necrosis, viable tumor, and disrupted blood-brain barrier."
+    },
+    {
+      "ranges": [
+        [
+          6738,
+          6850
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The absence of systemic metastases on imaging does not rule out GBM, as it is rarely metastatic outside the CNS."
+    }
+  ]
+}

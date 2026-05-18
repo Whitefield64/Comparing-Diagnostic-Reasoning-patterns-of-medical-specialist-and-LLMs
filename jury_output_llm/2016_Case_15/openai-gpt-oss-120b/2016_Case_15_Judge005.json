@@ -1,0 +1,29 @@
+{
+  "case": "2016 Case 15__openai-gpt-oss-120b.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T13:02:12.016269+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          29350,
+          29631
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The balance of probabilities heavily favors a **low‑grade diffuse glioma**, most plausibly an **oligodendroglioma (WHO grade II, IDH‑mutant, 1p/19q‑codeleted)**, with the caveat that the leptomeningeal nodules may represent early tumor spread or a coincident inflammatory response."
+    },
+    {
+      "ranges": [
+        [
+          29692,
+          29832
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "High‑grade gliomas** would be expected to demonstrate marked perfusion elevation, elevated choline, and a more aggressive clinical trajector"
+    }
+  ]
+}

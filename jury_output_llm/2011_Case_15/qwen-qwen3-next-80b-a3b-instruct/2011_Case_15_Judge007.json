@@ -1,0 +1,84 @@
+{
+  "case": "2011 Case 15__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T10:32:46.370464+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          15926,
+          16054
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are **acute HIV infection**, **primary HSV-2 infection**, and **lymphogranuloma venereum**."
+    },
+    {
+      "ranges": [
+        [
+          16509,
+          16677
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most parsimonious explanation is **acute HIV infection with superimposed HSV-2 reactivation**, as both can explain the prodrome, the ulcer, and the lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          3922,
+          4419
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The sequence—vaginal discharge followed by systemic symptoms (headache, fatigue, sore throat, anorexia), resolution of those symptoms with development of a characteristic genital ulcer, and the presence of generalized lymphadenopathy—demands a broad differential that spans infectious, autoimmune, and neoplastic etiologies, with particular attention to pathogens known to cause mucocutaneous ulceration and systemic prodromes in young, sexually active individuals in high-HIV-prevalence settings."
+    },
+    {
+      "ranges": [
+        [
+          4420,
+          4608
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The negative HIV rapid tests, while reassuring, do not exclude acute HIV infection, particularly given the window period and the limitations of finger-stick assays in early seroconversion."
+    },
+    {
+      "ranges": [
+        [
+          16678,
+          16844
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s history of unprotected sex with a partner who refused condoms, the absence of prior STIs, and the high HIV prevalence in KwaZulu-Natal all support this."
+    },
+    {
+      "ranges": [
+        [
+          12629,
+          12792
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The fact that the patient was treated with doxycycline and then later with erythromycin and penicillin may have partially ameliorated symptoms, delaying diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          7132,
+          7340
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The genital ulcer described—painful, 5 mm by 10 mm, with undermined borders and no surrounding induration—is atypical for a classic syphilitic chancre, which is usually painless, firm, and well-circumscribed."
+    }
+  ]
+}

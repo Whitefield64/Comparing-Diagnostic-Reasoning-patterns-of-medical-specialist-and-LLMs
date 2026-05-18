@@ -1,0 +1,84 @@
+{
+  "case": "2015 Case 40__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T12:26:29.851748+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          18718,
+          18935
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) hypertensive emergency with PRES, (2) pheochromocytoma, (3) neurosyphilis, (4) systemic vasculitis (particularly PACNS or NPSLE), and (5) cerebral venous sinus thrombosis."
+    },
+    {
+      "ranges": [
+        [
+          6128,
+          6359
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of focal neurologic deficits, normal head CT without contrast, normal cardiac biomarkers, and lack of evidence for acute end-organ damage on initial labs complicates the picture but does not eliminate serious diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          7201,
+          7418
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "PRES is a critical diagnosis to consider in patients with acute severe hypertension and headache, particularly in the setting of psychiatric illness, chronic stress, and possible electrolyte or metabolic derangements."
+    },
+    {
+      "ranges": [
+        [
+          8154,
+          8360
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The fact that her blood pressure responded dramatically to labetalol and captopril supports a diagnosis of hypertensive crisis, and PRES remains a plausible, though unconfirmed, contributor to her headache."
+    },
+    {
+      "ranges": [
+        [
+          8909,
+          9075
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of classic triad symptoms—palpitations, sweating, pallor—is not reassuring, as up to 30% of patients with pheochromocytoma present without the full triad."
+    },
+    {
+      "ranges": [
+        [
+          18923,
+          19193
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": " thrombosis. The most likely diagnosis, given the dramatic response to antihypertensives and the absence of other findings, is a hypertensive emergency with underlying chronic, uncontrolled essential hypertension exacerbated by stress, poor nutrition, and noncompliance."
+    },
+    {
+      "ranges": [
+        [
+          19203,
+          19564
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "the presence of a long-standing psychotic illness with grandiose and paranoid features, combined with the acute hypertensive crisis and the lack of definitive diagnostic workup, leaves open the possibility of an underlying organic etiology—particularly pheochromocytoma or neurosyphilis—that may have been misattributed to psychiatric illness for over a decade."
+    }
+  ]
+}

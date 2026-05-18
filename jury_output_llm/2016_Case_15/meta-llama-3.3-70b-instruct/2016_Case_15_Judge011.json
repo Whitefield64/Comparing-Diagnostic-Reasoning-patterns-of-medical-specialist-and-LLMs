@@ -1,0 +1,139 @@
+{
+  "case": "2016 Case 15__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T12:59:11.518002+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3835,
+          4082
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical presentation of this 32-year-old man with olfactory hallucinations, intermittent numbness and paresthesias on the left side, and a mass in the right temporal lobe is complex and multifaceted, suggesting a broad differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          4348,
+          4490
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Initially, the presence of a mass in the right temporal lobe, as identified by MRI, strongly suggests the possibility of a neoplastic process."
+    },
+    {
+      "ranges": [
+        [
+          4491,
+          4655
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the mass is partially enhancing and extends into the insula and basal ganglia raises concerns for a primary brain tumor, such as glioma or meningioma."
+    },
+    {
+      "ranges": [
+        [
+          4656,
+          4793
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "These tumors can cause a variety of symptoms depending on their location, size, and the degree of invasion into surrounding brain tissue."
+    },
+    {
+      "ranges": [
+        [
+          4794,
+          4976
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The enhancement pattern on MRI can provide clues about the nature of the tumor, with some tumors showing homogeneous enhancement and others showing heterogeneous or ring enhancement."
+    },
+    {
+      "ranges": [
+        [
+          4977,
+          5187
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The clinical presentation of olfactory hallucinations and focal neurological symptoms, such as numbness and paresthesias on the left side, could also suggest a seizure disorder, potentially related to the mass."
+    },
+    {
+      "ranges": [
+        [
+          5399,
+          5721
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The normal results of the multivoxel magnetic resonance spectroscopy and the lack of significant findings on perfusion imaging do not strongly support or refute the hypothesis of a primary brain tumor, as these tests can have variable sensitivity and specificity in differentiating tumor types or assessing tumor activity."
+    },
+    {
+      "ranges": [
+        [
+          6202,
+          6325
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Infectious causes, such as brain abscess or encephalitis, could also present with focal neurological deficits and seizures."
+    },
+    {
+      "ranges": [
+        [
+          6326,
+          6580
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "However, the chronic nature of the patient's symptoms, the lack of systemic signs of infection (e.g., fever, elevated white blood cell count), and the normal results of the complete blood count and urinalysis make an acute infectious process less likely."
+    },
+    {
+      "ranges": [
+        [
+          7417,
+          7574
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the patient's symptoms are relatively localized, and there is no mention of optic neuritis, transverse myelitis, or other typical features of these diseases."
+    },
+    {
+      "ranges": [
+        [
+          11015,
+          11224
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Given the information provided, the leading diagnosis or diagnoses would likely revolve around a neoplastic process, such as a primary brain tumor, potentially causing seizures and focal neurological symptoms."
+    },
+    {
+      "ranges": [
+        [
+          11793,
+          12120
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of leptomeningeal nodules of enhancement along the inferior margin of the right basis pontis and along the right side of the medulla oblongata, as seen on sagittal and coronal views of the MRI, suggests the possibility of leptomeningeal spread of disease, which could have implications for treatment and prognosis."
+    }
+  ]
+}

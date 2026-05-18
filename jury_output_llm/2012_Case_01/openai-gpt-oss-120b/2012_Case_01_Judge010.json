@@ -1,0 +1,29 @@
+{
+  "case": "2012 Case 01__openai-gpt-oss-120b.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T10:50:07.534362+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8358,
+          8607
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis must address three broad categories: (1) **Infectious processes**, (2) **Immune‑mediated or drug‑related inflammatory disorders**, and (3) **Systemic diseases that can manifest with neutrophilic dermatoses or vasculitis**."
+    },
+    {
+      "ranges": [
+        [
+          35605,
+          35850
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Apply the **Su et al. criteria** for PG (major criteria: neutrophilic infiltrate on histology, exclusion of infection; minor criteria: pathergy, associated systemic disease, rapid progression, undermined violaceous border, response to steroids)."
+    }
+  ]
+}

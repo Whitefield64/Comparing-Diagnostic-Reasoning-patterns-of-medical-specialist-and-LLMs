@@ -1,0 +1,117 @@
+{
+  "case": "2015 Case 40__openai-gpt-oss-120b.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T12:20:38.397965+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5537,
+          5875
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical picture of a 40‑year‑old woman who is homeless, profoundly under‑nourished, and living in chronic psychosocial stress, who presents with a **severe, acute‑on‑chronic hypertension (BP ≈ 240/130 mm Hg)** accompanied by a **frontal‑predominant headache**, and a **longstanding psychotic disorder**, demands a broad differential."
+    },
+    {
+      "ranges": [
+        [
+          7382,
+          7665
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the **presence of a severe headache in the setting of markedly elevated BP** raises the possibility of **hypertensive encephalopathy** or **posterior reversible encephalopathy syndrome (PRES)**, both of which can present initially with only headache and subtle mental status changes."
+    },
+    {
+      "ranges": [
+        [
+          8025,
+          8141
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient’s headache improved as her BP fell from > 200 mm Hg to ~ 140/65 mm Hg, suggesting a causal relationship."
+    },
+    {
+      "ranges": [
+        [
+          15554,
+          15656
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the **most plausible explanation** is **hypertensive encephalopathy** possibly evolving into **PRES**."
+    },
+    {
+      "ranges": [
+        [
+          15463,
+          15656
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Given the normal non‑contrast CT and the rapid resolution of the headache with BP control, the **most plausible explanation** is **hypertensive encephalopathy** possibly evolving into **PRES**."
+    },
+    {
+      "ranges": [
+        [
+          19964,
+          20191
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the **balance of evidence** points toward a **primary psychotic disorder—most consistent with schizophrenia**—with **possible contributory effects** from chronic untreated hypertension, poor sleep, and nutritional deficiencies."
+    },
+    {
+      "ranges": [
+        [
+          11731,
+          12030
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Overall, **pheochromocytoma** and **renovascular disease** remain the most plausible secondary contributors, although the lack of classic associated findings makes them less likely than “essential” hypertension that has progressed unchecked due to medication non‑adherence and psychosocial barriers."
+    },
+    {
+      "ranges": [
+        [
+          19802,
+          19951
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s psychosis predates the hypertensive crisis by years; chronic features (delusions, disorganization) not typical of acute encephalopathy."
+    },
+    {
+      "ranges": [
+        [
+          6447,
+          6592
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The discussion culminates in a synthesis that identifies the most plausible explanations for this presentation and highlights the key next steps."
+    },
+    {
+      "ranges": [
+        [
+          22593,
+          22836
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "while infectious etiologies are plausible given the social context, the **absence of systemic signs** (fever, leukocytosis) and the **normal neuroimaging** make an acute infectious process unlikely as the primary driver of the current episode."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "case": "2016 Case 15__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T13:07:35.820002+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          15610,
+          15801
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) a high-grade glioma, particularly an IDH-wildtype glioblastoma with unusual imaging features; (2) neurosarcoidosis; and (3) primary CNS lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          15802,
+          16024
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Of these, neurosarcoidosis stands out as the most compelling, given the patient’s ethnicity, the leptomeningeal nodularity, the basal ganglia and brainstem involvement, the chronicity, and the absence of systemic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          4394,
+          4602
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The olfactory hallucinations, in particular, are a classic ictal or interictal phenomenon arising from the uncus or amygdala, regions of the medial temporal lobe that are part of the primary olfactory cortex."
+    },
+    {
+      "ranges": [
+        [
+          4603,
+          4874
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Their persistence over a year, coupled with the development of sensory symptoms and progressive neuroimaging abnormalities, strongly suggests an underlying structural lesion with epileptogenic and infiltrative properties, rather than a functional or psychiatric disorder."
+    },
+    {
+      "ranges": [
+        [
+          6177,
+          6365
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The fact that the lesion enhances irregularly and nodularly on MRI suggests a higher grade of malignancy, possibly an anaplastic astrocytoma (WHO grade III) or glioblastoma (WHO grade IV)."
+    },
+    {
+      "ranges": [
+        [
+          6366,
+          6622
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Glioblastomas frequently exhibit heterogeneous enhancement due to areas of necrosis and neovascularization, and their tendency to spread along white matter tracts, including the internal capsule and cerebral peduncle, aligns with the imaging findings here."
+    },
+    {
+      "ranges": [
+        [
+          4875,
+          5062
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of systemic symptoms—no fever, weight loss, rash, joint pain, or respiratory complaints—makes systemic inflammatory or infectious processes less likely, though not impossible."
+    },
+    {
+      "ranges": [
+        [
+          7160,
+          7358
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The normal magnetic resonance spectroscopy is an important negative finding: elevated choline, reduced N-acetylaspartate, and the presence of lactate or lipid peaks are common in high-grade gliomas."
+    },
+    {
+      "ranges": [
+        [
+          16915,
+          17251
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the pattern of leptomeningeal nodularity, the location in the basal ganglia and brainstem, the patient’s demographic profile, and the absence of typical neoplastic imaging features (e.g., extensive edema, necrosis, pronounced spectroscopic abnormalities) make neurosarcoidosis the most plausible and diagnostically urgent consideration."
+    },
+    {
+      "ranges": [
+        [
+          16660,
+          16846
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The fact that the patient was started on levetiracetam suggests a clinical suspicion of seizure disorder, which is common in both sarcoidosis and glioma, but does not differentiate them."
+    }
+  ]
+}

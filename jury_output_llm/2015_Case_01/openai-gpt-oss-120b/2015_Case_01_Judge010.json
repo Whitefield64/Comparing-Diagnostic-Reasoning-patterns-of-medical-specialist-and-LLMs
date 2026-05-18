@@ -1,0 +1,95 @@
+{
+  "case": "2015 Case 01__openai-gpt-oss-120b.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T12:00:34.449370+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          31759,
+          32007
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The convergence of clinical history, imaging, and cytologic findings makes **a regional recurrence of the original ER‑positive, HER2‑negative invasive ductal carcinoma involving the left internal mammary lymph nodes** the most compelling diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          26283,
+          26430
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The preponderance of evidence points to **a regional recurrence of the original breast carcinoma involving the left internal mammary lymph nodes**."
+    },
+    {
+      "ranges": [
+        [
+          11087,
+          11229
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of two enlarged IMNs after a disease‑free interval strongly points toward a regional recurrence rather than a de novo primary."
+    },
+    {
+      "ranges": [
+        [
+          26747,
+          26909
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the IMN nodes represent isolated regional disease, the patient would be restaged as **M0, N3c** (internal mammary node involvement) under the AJCC 8th edition."
+    },
+    {
+      "ranges": [
+        [
+          26431,
+          26660
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The possibility of a melanoma metastasis remains a diagnostic consideration because the FNA material was insufficient for definitive immunophenotyping; however, the weight of clinical and morphologic data favors breast carcinoma."
+    },
+    {
+      "ranges": [
+        [
+          13763,
+          14128
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "n the morphologic similarity of the cytology to the prior IDC, the typical pattern of spread, the high‑risk pathological features of the primary tumor, and the timing after cessation of endocrine therapy, a **regional recurrence of the original ER‑positive, HER2‑negative breast carcinoma involving the left internal mammary nodes** is the most plausible diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10310,
+          10472
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The internal mammary nodes (IMNs) drain the medial breast, the anterior chest wall, and, to a lesser extent, the upper outer quadrant via intercostal perforators."
+    },
+    {
+      "ranges": [
+        [
+          16418,
+          16605
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "While a metastatic melanoma cannot be entirely excluded, the combination of a low‑risk primary, an atypical nodal basin, and cytology favoring carcinoma makes this diagnosis **unlikely**."
+    }
+  ]
+}

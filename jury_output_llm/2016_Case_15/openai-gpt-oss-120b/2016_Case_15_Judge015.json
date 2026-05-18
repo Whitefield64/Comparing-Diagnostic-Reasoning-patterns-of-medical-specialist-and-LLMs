@@ -1,0 +1,84 @@
+{
+  "case": "2016 Case 15__openai-gpt-oss-120b.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T13:04:00.745642+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          29350,
+          29631
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The balance of probabilities heavily favors a **low‑grade diffuse glioma**, most plausibly an **oligodendroglioma (WHO grade II, IDH‑mutant, 1p/19q‑codeleted)**, with the caveat that the leptomeningeal nodules may represent early tumor spread or a coincident inflammatory response."
+    },
+    {
+      "ranges": [
+        [
+          29692,
+          29832
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "High‑grade gliomas** would be expected to demonstrate marked perfusion elevation, elevated choline, and a more aggressive clinical trajector"
+    },
+    {
+      "ranges": [
+        [
+          29949,
+          30081
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Primary CNS lymphoma** classically shows restricted diffusion, a high lipid/lactate peak on spectroscopy, and homogeneous enhancemen"
+    },
+    {
+      "ranges": [
+        [
+          4827,
+          5041
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The discussion is organized into several headings that reflect the principal disease groups that must be considered in a patient with a solitary, partially enhancing intracranial mass and leptomeningeal nodularity."
+    },
+    {
+      "ranges": [
+        [
+          14819,
+          15006
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of leptomeningeal nodules is unusual but can be explained by early leptomeningeal dissemination, which has been reported in a minority of oligodendrogliomas and astrocytomas."
+    },
+    {
+      "ranges": [
+        [
+          6178,
+          6366
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s age, the indolent one‑year evolution, the modest FLAIR signal, and the essentially normal MR spectroscopy (low choline elevation) are compatible with a low‑grade astrocytoma."
+    },
+    {
+      "ranges": [
+        [
+          31841,
+          32061
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Alternatively, the nodules could represent a **reactive inflammatory response** to the tumor (e.g., peritumoral inflammatory infiltrates) or a coexistent but unrelated process such as **low‑grade sarcoid meningeal involv"
+    }
+  ]
+}

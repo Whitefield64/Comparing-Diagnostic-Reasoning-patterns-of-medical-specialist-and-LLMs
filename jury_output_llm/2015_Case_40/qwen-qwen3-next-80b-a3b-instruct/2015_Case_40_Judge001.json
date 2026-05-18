@@ -1,0 +1,414 @@
+{
+  "case": "2015 Case 40__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T12:22:58.594092+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5724,
+          6127
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The constellation of symptoms—acute hypertensive crisis, headache, psychosis, chronic poor self-care, and multiple somatic comorbidities—demands a broad and nuanced differential diagnosis that considers both primary neurological, cardiovascular, and systemic etiologies, as well as the interplay between chronic psychiatric illness, socioeconomic deprivation, and potential underlying organic pathology."
+    },
+    {
+      "ranges": [
+        [
+          6128,
+          6359
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of focal neurologic deficits, normal head CT without contrast, normal cardiac biomarkers, and lack of evidence for acute end-organ damage on initial labs complicates the picture but does not eliminate serious diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          6520,
+          6714
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate concern is the hypertensive emergency, defined by severe elevation in blood pressure (systolic >180 mm Hg and/or diastolic >120 mm Hg) with evidence of acute end-organ damage."
+    },
+    {
+      "ranges": [
+        [
+          7201,
+          7418
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "PRES is a critical diagnosis to consider in patients with acute severe hypertension and headache, particularly in the setting of psychiatric illness, chronic stress, and possible electrolyte or metabolic derangements."
+    },
+    {
+      "ranges": [
+        [
+          7419,
+          7663
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Although the patient’s neurologic examination was non-focal and the CT was normal, PRES often presents with headache, altered mental status, visual disturbances, and seizures—symptoms that may be masked or misattributed to underlying psychosis."
+    },
+    {
+      "ranges": [
+        [
+          8154,
+          8360
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that her blood pressure responded dramatically to labetalol and captopril supports a diagnosis of hypertensive crisis, and PRES remains a plausible, though unconfirmed, contributor to her headache."
+    },
+    {
+      "ranges": [
+        [
+          8362,
+          8498
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another critical consideration is pheochromocytoma, a catecholamine-secreting tumor of the adrenal medulla or extra-adrenal paraganglia."
+    },
+    {
+      "ranges": [
+        [
+          8499,
+          8767
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Pheochromocytoma classically presents with paroxysmal hypertension, headache, palpitations, and diaphoresis, but in many cases, particularly in atypical or chronic presentations, symptoms can be insidious and mistaken for anxiety, psychosis, or essential hypertension."
+    },
+    {
+      "ranges": [
+        [
+          8909,
+          9075
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The absence of classic triad symptoms—palpitations, sweating, pallor—is not reassuring, as up to 30% of patients with pheochromocytoma present without the full triad."
+    },
+    {
+      "ranges": [
+        [
+          9751,
+          10034
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The dramatic response to labetalol—a non-selective beta-blocker with alpha-blocking properties—is consistent with catecholamine excess, as beta-blockade alone can be dangerous in pheochromocytoma without prior alpha-blockade, but labetalol’s combined action may have been protective."
+    },
+    {
+      "ranges": [
+        [
+          10431,
+          10481
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Renovascular hypertension must also be considered."
+    },
+    {
+      "ranges": [
+        [
+          10482,
+          10595
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s obesity, chronic hypertension, and age place her at risk for atherosclerotic renal artery stenosis."
+    },
+    {
+      "ranges": [
+        [
+          10596,
+          10851
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Although she has no history of renal insufficiency, her chronic venous stasis dermatitis and pitting edema suggest possible volume overload, which could be secondary to renal hypoperfusion and activation of the renin-angiotensin-aldosterone system (RAAS)."
+    },
+    {
+      "ranges": [
+        [
+          10852,
+          10979
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The dramatic response to ACE inhibition with captopril and subsequent lisinopril is consistent with RAAS-mediated hypertension."
+    },
+    {
+      "ranges": [
+        [
+          12025,
+          12099
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another important category is systemic autoimmune or vasculitic disorders."
+    },
+    {
+      "ranges": [
+        [
+          12100,
+          12345
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Although the patient has no fever, weight loss, arthralgias, or rash, the combination of severe hypertension, headache, and psychosis can be the presenting manifestation of central nervous system vasculitis or systemic lupus erythematosus (SLE)."
+    },
+    {
+      "ranges": [
+        [
+          12346,
+          12665
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Primary angiitis of the central nervous system (PACNS) is a rare, underdiagnosed condition that typically presents with headache, cognitive dysfunction, focal deficits, and seizures, but can manifest with psychiatric symptoms such as psychosis or delusions, particularly when the frontal or temporal lobes are involved."
+    },
+    {
+      "ranges": [
+        [
+          12812,
+          12971
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s history of chronic psychosis could represent a late manifestation of an underlying autoimmune process that has been slowly progressing for years."
+    },
+    {
+      "ranges": [
+        [
+          12972,
+          13093
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "SLE can also present with neuropsychiatric lupus (NPSLE), which includes psychosis, seizures, and cerebrovascular events."
+    },
+    {
+      "ranges": [
+        [
+          13094,
+          13272
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "While the patient has no history of malar rash, photosensitivity, or arthralgias, and her ANA and other autoantibodies were not tested, the absence of these does not exclude SLE."
+    },
+    {
+      "ranges": [
+        [
+          13763,
+          13946
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious causes of hypertension and psychosis are less common but must be considered, especially in a patient with a history of injection drug use (even if denied) and poor hygiene."
+    },
+    {
+      "ranges": [
+        [
+          13947,
+          14126
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Neurosyphilis remains a critical consideration in any patient with unexplained psychiatric symptoms, headache, and hypertension, particularly in those with limited access to care."
+    },
+    {
+      "ranges": [
+        [
+          14127,
+          14310
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Tertiary syphilis can present with general paresis (dementia paralytica), tabes dorsalis, or meningovascular syphilis, which can cause stroke-like syndromes, headaches, and psychosis."
+    },
+    {
+      "ranges": [
+        [
+          14311,
+          14463
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The vascular involvement in meningovascular syphilis can lead to stenosis of cerebral arteries, resulting in ischemic events and secondary hypertension."
+    },
+    {
+      "ranges": [
+        [
+          14875,
+          14992
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another infectious consideration is endocarditis, particularly in the context of her history of intravenous drug use."
+    },
+    {
+      "ranges": [
+        [
+          15106,
+          15322
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Right-sided endocarditis can cause septic emboli to the lungs, leading to pulmonary infiltrates or infarcts, but left-sided endocarditis can cause cerebral emboli, leading to stroke, meningitis, or mycotic aneurysms."
+    },
+    {
+      "ranges": [
+        [
+          15323,
+          15406
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s headache and psychosis could represent a septic embolus to the brain."
+    },
+    {
+      "ranges": [
+        [
+          15407,
+          15684
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of fever, murmur progression, or positive blood cultures makes this less likely, but not impossible—culture-negative endocarditis, particularly due to fastidious organisms like *Bartonella* or *HACEK* organisms, can present with neurologic and psychiatric symptoms."
+    },
+    {
+      "ranges": [
+        [
+          16016,
+          16142
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Hypertensive encephalopathy, while often used synonymously with PRES, deserves specific mention as a distinct clinical entity."
+    },
+    {
+      "ranges": [
+        [
+          16143,
+          16319
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "It is characterized by acute hypertension leading to breakdown of cerebral autoregulation, resulting in vasogenic edema, headache, confusion, visual disturbances, and seizures."
+    },
+    {
+      "ranges": [
+        [
+          16721,
+          16806
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A less common but important consideration is cerebral venous sinus thrombosis (CVST)."
+    },
+    {
+      "ranges": [
+        [
+          16807,
+          17022
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Although classically associated with headache, seizures, papilledema, and focal deficits, CVST can present with isolated headache and psychiatric symptoms, especially if the frontal or parietal sinuses are involved."
+    },
+    {
+      "ranges": [
+        [
+          17586,
+          17738
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Lastly, we must consider the possibility that her psychosis and hypertension are both manifestations of an underlying metabolic or toxic encephalopathy."
+    },
+    {
+      "ranges": [
+        [
+          17739,
+          17979
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Chronic thiamine deficiency, common in homeless populations with poor nutrition, can cause Wernicke’s encephalopathy, which presents with confusion, ataxia, and ophthalmoplegia—but can also manifest with psychosis and autonomic instability."
+    },
+    {
+      "ranges": [
+        [
+          18936,
+          19193
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The most likely diagnosis, given the dramatic response to antihypertensives and the absence of other findings, is a hypertensive emergency with underlying chronic, uncontrolled essential hypertension exacerbated by stress, poor nutrition, and noncompliance."
+    },
+    {
+      "ranges": [
+        [
+          19203,
+          19564
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the presence of a long-standing psychotic illness with grandiose and paranoid features, combined with the acute hypertensive crisis and the lack of definitive diagnostic workup, leaves open the possibility of an underlying organic etiology—particularly pheochromocytoma or neurosyphilis—that may have been misattributed to psychiatric illness for over a decade."
+    },
+    {
+      "ranges": [
+        [
+          19832,
+          20010
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The body does not lie: severe hypertension and acute headache in a young woman require rigorous exclusion of life-threatening, treatable, and often overlooked organic etiologies."
+    }
+  ]
+}

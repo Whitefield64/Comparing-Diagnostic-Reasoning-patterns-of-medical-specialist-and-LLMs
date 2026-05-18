@@ -1,0 +1,136 @@
+{
+  "case": "2010 Case 18__qwen-qwen3-next-80b-a3b-instruct.md",
+  "exported_at": "2026-05-18T10:12:20.531778+00:00",
+  "n_voters": 15,
+  "n_successful": 14,
+  "n_failed": 1,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 24,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 25,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 14,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 27,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 14,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 26,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 30,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 29,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 14,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 10,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 14,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 24,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out pre-existing drug resistance, then consider pharmacokinetic issues, and finally evaluate for other chronic infections or immune activation."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of pre-existing drug resistance is high, given the patient's history of prolonged HIV infection and prior suboptimal therapy."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "This case is reminiscent of other pediatric HIV cases where virologic failure was due to a combination of biological, pharmacological, and systemic factors."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not applicable here, but we must first rule out other chronic infections (CMV, EBV) and nutritional status."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of pre-existing drug resistance is high, given the patient’s history of prior tuberculosis (TB) and BCG vaccination, which introduces additional diagnostic and therapeutic complexities."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 14,
+      "n_unresolved": 0,
+      "unresolved": []
+    }
+  ]
+}

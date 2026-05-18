@@ -1,0 +1,327 @@
+{
+  "case": "2011 Case 15__qwen-qwen3-next-80b-a3b-instruct.md",
+  "exported_at": "2026-05-18T10:34:34.971387+00:00",
+  "n_voters": 15,
+  "n_successful": 14,
+  "n_failed": 1,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of systemic symptoms preceding the ulcer, the presence of generalized lymphadenopathy, and the response to broad-spectrum antibiotics are all consistent with **acute HIV infection**."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The clinical presentation described is remarkably consistent with **lymphogranuloma venereum**."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly applicable here, but prioritizing life-threatening diagnoses first, such as HIV and syphilis, is crucial before moving to less serious ones like HSV or LGV."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of systemic symptoms preceding the ulcer, the presence of generalized lymphadenopathy, and the geographic context are all consistent with acute HIV infection."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The patient’s history of unprotected sex with a partner who refused condoms, the absence of prior STIs, and the high HIV prevalence in KwaZulu-Natal all support the likelihood of acute HIV infection."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The negative HIV rapid tests are insufficient to exclude acute HIV, especially given the window period and the limitations of finger-stick assays, thus adjusting the probability of HIV infection based on these new findings."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but this case is more similar to cases of acute HIV infection with genital ulcers and systemic symptoms."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of systemic symptoms preceding the ulcer, the presence of generalized lymphadenopathy, and the response to broad-spectrum antibiotics is consistent with **acute HIV infection**."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of systemic symptoms preceding the ulcer, the presence of generalized lymphadenopathy, and the response to broad-spectrum antibiotics is highly suggestive of **acute HIV infection**."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the statement 'The most parsimonious explanation is **acute HIV infection with superimposed HSV-2 reactivation**' reflects the clinician’s intuition."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The clinical presentation described is remarkably consistent with **lymphogranuloma venereum**."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had acute HIV infection, we would expect to see a flu-like illness with headache, fatigue, sore throat, and anorexia, followed by a genital ulcer and generalized lymphadenopathy."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of systemic symptoms preceding the ulcer, followed by generalized lymphadenopathy, is typical of acute HIV infection."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is **acute HIV infection**."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The clinical presentation described is remarkably consistent with lymphogranuloma venereum (LGV), which typically presents with a transient, often unnoticed genital papule or ulcer that resolves, followed weeks later by regional lymphadenopathy and systemic symptoms such as fever, malaise, and headache."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "The possibility of **Behçet’s disease** must be considered in the differential of recurrent or persistent mucocutaneous ulcers with systemic symptoms."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of systemic symptoms preceding the ulcer, the presence of generalized lymphadenopathy, the response to broad-spectrum antibiotics, and the geographic context are all consistent with **acute HIV infection**."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of systemic symptoms preceding the ulcer, the presence of generalized lymphadenopathy, and the response to broad-spectrum antibiotics is consistent with acute HIV infection."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of systemic symptoms preceding the ulcer, the presence of generalized lymphadenopathy, and the response to broad-spectrum antibiotics is highly suggestive of **acute HIV infection**."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "The possibility of **lymphogranuloma venereum** should also be considered, particularly if chlamydial testing was not performed with nucleic acid amplification tests (NAATs)."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If this were HIV, we would expect to see a high viral load, a low CD4 count, and the presence of symptoms such as fever, headache, and fatigue, which is consistent with the patient’s presentation."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of symptoms, including the prodrome, the genital ulcer, and the lymphadenopathy, is consistent with **acute HIV infection**."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is **acute HIV infection**, given the patient’s high-risk behavior, the presence of systemic symptoms, and the genital ulcer."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of **acute HIV infection** is high, given the patient’s symptoms, the negative rapid tests, and the high prevalence of HIV in the region."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "This case is similar to others I have seen, where patients with **acute HIV infection** presented with similar symptoms, including a prodrome, a genital ulcer, and lymphadenopathy."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 31,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of systemic symptoms preceding the ulcer, the presence of generalized lymphadenopathy, and the response to broad-spectrum antibiotics is consistent with **acute HIV infection**."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had acute HIV infection, we would expect to see a high viral load, a decline in CD4 count, and the presence of systemic symptoms such as fever, headache, and fatigue, which is consistent with the patient’s presentation."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not mentioned, but the clinical presentation and laboratory results are consistent with acute HIV infection."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of systemic symptoms preceding the ulcer, followed by the development of a genital ulcer and generalized lymphadenopathy, is typical of acute HIV infection."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable, but the clinical presentation is highly suggestive of acute HIV infection."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of genital ulcers are caused by herpes simplex virus, the presence of systemic symptoms and generalized lymphadenopathy increases the probability of acute HIV infection."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The clinical presentation of this patient is similar to that of patients with acute HIV infection, who often present with systemic symptoms, genital ulcers, and generalized lymphadenopathy."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If this were acute HIV, we would expect to see a high viral load and a negative HIV rapid test due to the window period, which is consistent with this patient’s presentation."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, such as the presence of a genital ulcer and generalized lymphadenopathy, rule out other diagnoses such as syphilis or chancroid, and support the diagnosis of acute HIV infection."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of genital ulcers are caused by HSV or syphilis, the presence of systemic symptoms and generalized lymphadenopathy increases the probability of acute HIV infection, particularly in a high-prevalence setting."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The clinical presentation of this patient, including the prodrome, genital ulcer, and lymphadenopathy, is typical of acute HIV infection, and the diagnosis should be considered in any patient with these symptoms in a high-prevalence setting."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with acute HIV infection who presented with a genital ulcer and systemic symptoms, and the diagnosis was confirmed by HIV RNA PCR."
+        }
+      ]
+    }
+  ]
+}

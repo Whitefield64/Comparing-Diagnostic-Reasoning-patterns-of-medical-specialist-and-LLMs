@@ -1,0 +1,139 @@
+{
+  "case": "2016 Case 15__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T13:05:44.374485+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          15610,
+          15801
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) a high-grade glioma, particularly an IDH-wildtype glioblastoma with unusual imaging features; (2) neurosarcoidosis; and (3) primary CNS lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          15591,
+          15801
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given all of this, the leading diagnostic possibilities are: (1) a high-grade glioma, particularly an IDH-wildtype glioblastoma with unusual imaging features; (2) neurosarcoidosis; and (3) primary CNS lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          4394,
+          4602
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The olfactory hallucinations, in particular, are a classic ictal or interictal phenomenon arising from the uncus or amygdala, regions of the medial temporal lobe that are part of the primary olfactory cortex."
+    },
+    {
+      "ranges": [
+        [
+          4603,
+          4874
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Their persistence over a year, coupled with the development of sensory symptoms and progressive neuroimaging abnormalities, strongly suggests an underlying structural lesion with epileptogenic and infiltrative properties, rather than a functional or psychiatric disorder."
+    },
+    {
+      "ranges": [
+        [
+          17411,
+          17500
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the lesion and symptoms improve with steroids, neurosarcoidosis is strongly confirmed."
+    },
+    {
+      "ranges": [
+        [
+          17501,
+          17608
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If not, then aggressive glioma or lymphoma must be pursued with surgical resection and molecular profiling."
+    },
+    {
+      "ranges": [
+        [
+          7160,
+          7358
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The normal magnetic resonance spectroscopy is an important negative finding: elevated choline, reduced N-acetylaspartate, and the presence of lactate or lipid peaks are common in high-grade gliomas."
+    },
+    {
+      "ranges": [
+        [
+          13892,
+          14105
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that the patient is on dextroamphetamine, which can cause CNS hyperexcitability, does not explain the structural lesion or the leptomeningeal spread, but it may have masked or exacerbated subtle symptoms."
+    },
+    {
+      "ranges": [
+        [
+          16915,
+          17251
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the pattern of leptomeningeal nodularity, the location in the basal ganglia and brainstem, the patient’s demographic profile, and the absence of typical neoplastic imaging features (e.g., extensive edema, necrosis, pronounced spectroscopic abnormalities) make neurosarcoidosis the most plausible and diagnostically urgent consideration."
+    },
+    {
+      "ranges": [
+        [
+          16544,
+          16659
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The diagnosis would be supported by elevated ACE levels, lymphopenia, or a biopsy showing non-caseating granulomas."
+    },
+    {
+      "ranges": [
+        [
+          13329,
+          13501
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "e. The lack of systemic symptoms such as dry eyes, dry mouth, lung nodules, or skin lesions (e.g., lupus pernio) is concerning, but neurosarcoidosis can occur in isolation."
+    },
+    {
+      "ranges": [
+        [
+          12989,
+          13142
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient’s age and ethnicity make sarcoidosis more plausible, as it is more common in African Americans and typically presents between ages 20 and 40."
+    }
+  ]
+}

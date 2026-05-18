@@ -1,0 +1,40 @@
+{
+  "case": "2015 Case 40__openai-gpt-oss-120b.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T12:17:55.877172+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9097,
+          9315
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the extreme BP values in a relatively young adult, **secondary hypertension** must be actively considered, especially because the patient has never been on chronic antihypertensive therapy for the past several ye"
+    },
+    {
+      "ranges": [
+        [
+          11743,
+          12025
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "heochromocytoma** and **renovascular disease** remain the most plausible secondary contributors, although the lack of classic associated findings makes them less likely than “essential” hypertension that has progressed unchecked due to medication non‑adherence and psychosocial barr"
+    },
+    {
+      "ranges": [
+        [
+          7388,
+          7659
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "presence of a severe headache in the setting of markedly elevated BP** raises the possibility of **hypertensive encephalopathy** or **posterior reversible encephalopathy syndrome (PRES)**, both of which can present initially with only headache and subtle mental status ch"
+    }
+  ]
+}

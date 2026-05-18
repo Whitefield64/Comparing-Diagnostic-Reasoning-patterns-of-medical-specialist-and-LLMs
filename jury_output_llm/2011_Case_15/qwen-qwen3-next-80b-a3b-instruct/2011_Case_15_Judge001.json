@@ -1,0 +1,128 @@
+{
+  "case": "2011 Case 15__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T10:31:22.182409+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          15926,
+          16054
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are **acute HIV infection**, **primary HSV-2 infection**, and **lymphogranuloma venereum**."
+    },
+    {
+      "ranges": [
+        [
+          4893,
+          4995
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is **primary HIV infection (acute retroviral syndrome)**."
+    },
+    {
+      "ranges": [
+        [
+          4996,
+          5249
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The timeline is highly suggestive: the onset of systemic symptoms 5–7 days after the initial vaginal discharge aligns with the typical incubation period of HIV, during which viremia peaks and the immune system mounts a vigorous, often flu-like response."
+    },
+    {
+      "ranges": [
+        [
+          5250,
+          5395
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Headache, fatigue, sore throat, and anorexia are classic components of acute retroviral syndrome, occurring in up to 80% of infected individuals."
+    },
+    {
+      "ranges": [
+        [
+          5396,
+          5679
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The vaginal discharge may represent a coincidental bacterial vaginosis or candidiasis, or, more significantly, an early mucosal manifestation of HIV-induced immune dysregulation that alters the vaginal microbiome and increases susceptibility to opportunistic or inflammatory changes."
+    },
+    {
+      "ranges": [
+        [
+          5680,
+          5922
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The negative rapid HIV tests are not definitive; finger-stick assays, particularly first-generation or even second-generation rapid tests, often remain negative during the first 2–4 weeks post-exposure due to the delay in antibody production."
+    },
+    {
+      "ranges": [
+        [
+          5923,
+          6130
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The window period for antigen/antibody combination assays is approximately 18–22 days, and this patient was tested at day 5 and then again at day 18—placing her squarely within the window for seroconversion."
+    },
+    {
+      "ranges": [
+        [
+          6631,
+          6876
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The fact that the ulcer developed after the systemic symptoms resolved is consistent with the biphasic nature of acute HIV: initial viremia-driven systemic illness, followed by immune-mediated tissue damage as cytotoxic T cells begin to respond."
+    },
+    {
+      "ranges": [
+        [
+          6877,
+          7035
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The negative RPR further argues against syphilis, though it does not rule out early primary syphilis if the test was performed too early in the chancre phase."
+    },
+    {
+      "ranges": [
+        [
+          16678,
+          16844
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s history of unprotected sex with a partner who refused condoms, the absence of prior STIs, and the high HIV prevalence in KwaZulu-Natal all support this."
+    },
+    {
+      "ranges": [
+        [
+          17153,
+          17390
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The case underscores the critical importance of performing HIV RNA PCR or fourth-generation antigen/antibody tests in patients with acute febrile illness and genital ulcers in high-prevalence settings, even when rapid tests are negative."
+    }
+  ]
+}

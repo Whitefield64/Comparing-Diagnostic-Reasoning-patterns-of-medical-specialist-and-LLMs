@@ -1,0 +1,73 @@
+{
+  "case": "2015 Case 40__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T12:22:58.600441+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          18718,
+          18935
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) hypertensive emergency with PRES, (2) pheochromocytoma, (3) neurosyphilis, (4) systemic vasculitis (particularly PACNS or NPSLE), and (5) cerebral venous sinus thrombosis."
+    },
+    {
+      "ranges": [
+        [
+          8487,
+          8767
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "araganglia. Pheochromocytoma classically presents with paroxysmal hypertension, headache, palpitations, and diaphoresis, but in many cases, particularly in atypical or chronic presentations, symptoms can be insidious and mistaken for anxiety, psychosis, or essential hypertension."
+    },
+    {
+      "ranges": [
+        [
+          6556,
+          6735
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "pertensive emergency, defined by severe elevation in blood pressure (systolic >180 mm Hg and/or diastolic >120 mm Hg) with evidence of acute end-organ damage. In this case, the he"
+    },
+    {
+      "ranges": [
+        [
+          8154,
+          8360
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that her blood pressure responded dramatically to labetalol and captopril supports a diagnosis of hypertensive crisis, and PRES remains a plausible, though unconfirmed, contributor to her headache."
+    },
+    {
+      "ranges": [
+        [
+          18923,
+          19193
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": " thrombosis. The most likely diagnosis, given the dramatic response to antihypertensives and the absence of other findings, is a hypertensive emergency with underlying chronic, uncontrolled essential hypertension exacerbated by stress, poor nutrition, and noncompliance."
+    },
+    {
+      "ranges": [
+        [
+          17290,
+          17551
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The normal head CT without contrast is insufficient to rule out CVST, which requires MRI with venography or CT venography. The absence of papilledema or focal signs makes this less likely, but it remains a diagnostic possibility, particularly given the severity"
+    }
+  ]
+}

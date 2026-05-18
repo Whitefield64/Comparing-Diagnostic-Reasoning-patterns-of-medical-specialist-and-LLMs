@@ -1,0 +1,139 @@
+{
+  "case": "2012 Case 17__openai-gpt-oss-120b.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T11:29:31.360244+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          32714,
+          32978
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "*strongest concordance** exists between the imaging phenotype of the lesions (well‑circumscribed, heterogeneously enhancing, diffusion‑restricted, extending along white‑matter tracts) and the radiographic textbook description of **tumefactive demyelinating lesions"
+    },
+    {
+      "ranges": [
+        [
+          32989,
+          33164
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "absence of a detectable systemic primary tumor**, together with **modest edema** and **lack of severe mass effect**, further weakens the metastatic and high‑grade glioma hypot"
+    },
+    {
+      "ranges": [
+        [
+          33172,
+          33492
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Conversely, the **patient’s age** and the **presence of diffusion restriction** are shared by both high‑grade gliomas and primary CNS lymphoma, keeping those entities in the differential, especially because high‑grade neoplasms can occasionally present as relatively small, well‑demarcated masses early in their natural "
+    },
+    {
+      "ranges": [
+        [
+          34323,
+          34424
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s age, rapid symptom progression, and diffusion restriction also fit a high‑grade glioma."
+    },
+    {
+      "ranges": [
+        [
+          34426,
+          34522
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Although the lesions are relatively small and well‑circumscribed, early GBM can appear this way."
+    },
+    {
+      "ranges": [
+        [
+          34524,
+          34601
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The involvement of the splenium raises concern for infiltrative tumor spread."
+    },
+    {
+      "ranges": [
+        [
+          36289,
+          36479
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If non‑invasive studies remain inconclusive, a targeted biopsy of the larger occipital lesion would provide definitive histopathology, distinguishing neoplastic from demyelinating pathology."
+    },
+    {
+      "ranges": [
+        [
+          35626,
+          35765
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Perfusion MRI** – Tumors (glioma, lymphoma) usually show elevated relative cerebral blood volume (rCBV); demyelinating lesions have low rCB"
+    },
+    {
+      "ranges": [
+        [
+          35777,
+          35984
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Magnetic Resonance Spectroscopy (MRS)** – Elevated choline and reduced N‑acetyl‑aspartate (NAA) are typical for neoplasms; a **lipid‑lactate peak** without marked choline elevation favors demyelination or ab"
+    },
+    {
+      "ranges": [
+        [
+          33926,
+          34088
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s age, while slightly older than the classic MS cohort, does not exclude this diagnosis; tumefactive lesions are known to present in the fifth decade."
+    },
+    {
+      "ranges": [
+        [
+          34090,
+          34237
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Moreover, the acute‑on‑sub‑acute visual loss without systemic symptoms aligns with a focal demyelinating process rather than a systemic malignancy."
+    },
+    {
+      "ranges": [
+        [
+          33631,
+          33924
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The imaging pattern (large, well‑circumscribed, heterogeneous enhancement with restricted diffusion and relatively limited edema), the extension of signal abnormality along the splenium, and the clinical presentation limited to a visual field defect are hallmarks of tumefactive demyelination."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "case": "2012 Case 01__openai-gpt-oss-120b.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T10:46:30.666425+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8358,
+          8607
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis must address three broad categories: (1) **Infectious processes**, (2) **Immune‑mediated or drug‑related inflammatory disorders**, and (3) **Systemic diseases that can manifest with neutrophilic dermatoses or vasculitis**."
+    },
+    {
+      "ranges": [
+        [
+          8609,
+          8807
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Each hypothesis will be explored in depth, weighing the supporting and opposing evidence, and considering pathophysiologic mechanisms that could explain the observed cutaneous and systemic findings."
+    },
+    {
+      "ranges": [
+        [
+          10252,
+          10452
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A primary bacterial cellulitis or necrotizing fasciitis is **unlikely** to be the primary driver of the ongoing ulcerations, though a superimposed bacterial colonisation cannot be completely excluded."
+    },
+    {
+      "ranges": [
+        [
+          10454,
+          10591
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The lack of response to broad‑spectrum antibiotics and the sterile cultures shift the focus away from a conventional bacterial infection."
+    },
+    {
+      "ranges": [
+        [
+          26247,
+          26310
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the clinical morphology and course are more consistent with PG."
+    },
+    {
+      "ranges": [
+        [
+          22608,
+          22836
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s clinical course—exacerbation after surgical debridement, dense neutrophilic infiltrate, lack of organisms, and association with hidradenitis suppurativa (another neutrophilic disease)—fits the classic PG phenotype."
+    },
+    {
+      "ranges": [
+        [
+          24738,
+          24984
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The constellation of clinical findings (painful violaceous ulcerative plaques, pathergy, neutrophilic histology, partial steroid response) and the patient’s comorbidities (HS, possible IBD, anemia of chronic disease) make PG the most parsimonious"
+    },
+    {
+      "ranges": [
+        [
+          35605,
+          35850
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Apply the **Su et al. criteria** for PG (major criteria: neutrophilic infiltrate on histology, exclusion of infection; minor criteria: pathergy, associated systemic disease, rapid progression, undermined violaceous border, response to steroids)."
+    },
+    {
+      "ranges": [
+        [
+          22094,
+          22233
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "While a paraneoplastic immune‑complex vasculitis cannot be entirely excluded, it is **less favored** compared with neutrophilic dermatoses."
+    }
+  ]
+}

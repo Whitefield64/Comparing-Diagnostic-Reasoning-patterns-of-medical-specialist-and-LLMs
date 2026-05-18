@@ -1,0 +1,128 @@
+{
+  "case": "2012 Case 17__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-18T11:30:28.758043+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          15865,
+          15989
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnosis, integrating the imaging, clinical course, and exclusion of systemic disease, is glioblastoma."
+    },
+    {
+      "ranges": [
+        [
+          15990,
+          16200
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The two adjacent masses in the left occipital and posterior parietal regions, with heterogeneous enhancement, restricted diffusion, and transcallosal extension to the splenium, are highly characteristic of GBM."
+    },
+    {
+      "ranges": [
+        [
+          16201,
+          16361
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The rapid progression from transient visual symptoms to persistent quadrantanopia suggests a malignant infiltrative process with evolving edema and mass effect."
+    },
+    {
+      "ranges": [
+        [
+          16362,
+          16453
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The elevated LDH and stress hyperglycemia are consistent with a metabolically active tumor."
+    },
+    {
+      "ranges": [
+        [
+          16454,
+          16519
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of systemic metastases supports a primary CNS origin."
+    },
+    {
+      "ranges": [
+        [
+          16520,
+          16708
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The transient episodes may represent transient ischemic attacks from tumor-induced vascular compression or microhemorrhages, or possibly subclinical seizures not recognized by the patient."
+    },
+    {
+      "ranges": [
+        [
+          17525,
+          17714
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The clinical and radiographic features strongly favor a high-grade astrocytic tumor, and the absence of systemic disease, infectious signs, or inflammatory markers supports this conclusion."
+    },
+    {
+      "ranges": [
+        [
+          17715,
+          17867
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The next diagnostic step—biopsy of the lesion—will be definitive, but the constellation of findings points inexorably toward a primary malignant glioma."
+    },
+    {
+      "ranges": [
+        [
+          4819,
+          5064
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "zziness, and two adjacent, heterogeneously enhancing, well-circumscribed intracranial masses with restricted diffusion and extensive perilesional white matter edema extending into the splenium of the corpus callosum—demands a meticulously struct"
+    },
+    {
+      "ranges": [
+        [
+          16822,
+          17028
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "While PCNSL remains a strong differential, the bilateral, asymmetric, and heterogeneous nature of the lesions, along with the lack of homogeneous enhancement and the patient’s age, make GBM the most likely."
+    },
+    {
+      "ranges": [
+        [
+          17143,
+          17410
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The transient nature of the initial symptoms, followed by permanent deficit, is consistent with a malignant glioma evolving over days to weeks, rather than an inflammatory or infectious process, which would typically show more systemic signs or a more gradual course."
+    }
+  ]
+}

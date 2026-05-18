@@ -1,0 +1,294 @@
+{
+  "case": "2012 Case 01__openai-gpt-oss-120b.md",
+  "exported_at": "2026-05-18T10:52:47.492944+00:00",
+  "n_voters": 15,
+  "n_successful": 8,
+  "n_failed": 7,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 2,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process of pathergy (worsening after debridement) and the presence of a dense neutrophilic infiltrate without vasculitis are consistent with pyoderma gangrenosum."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s history of hidradenitis suppurativa, a condition that shares a neutrophil‑driven pathogenesis, may predispose to drug‑triggered neutrophilic dermatoses."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the classic PG phenotype."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned but Pyoderma Gangrenosum is the leading diagnosis."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 6,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 7,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "Since the lesions are seen on both the diffusion-weighted and fluid-attenuated inversion-recovery images, we know that the age of the lesions is greater than about 12 hours."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not applicable here, instead: The patient’s clinical course—exacerbation after surgical debridement, dense neutrophilic infiltrate, lack of organisms, and association with hidradenitis suppurativa (another neutrophilic disease)—fits the classic PG phenotype."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had a primary bacterial cellulitis or necrotizing fasciitis, we would expect to see positive cultures, suppurative microabscesses, or fibrinoid necrosis on histology, which are not present in this case."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, which supports the diagnosis of PG."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of painful, rapidly enlarging ulcerative plaques with violaceous, undermined borders, and the presence of pathergy, fits the classic description of pyoderma gangrenosum (PG)."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary pyoderma gangrenosum (PG), given the combination of clinical and histological features, although I am concerned about the possibility of an underlying systemic disease."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of pyoderma gangrenosum (PG) being the correct diagnosis increases given the presence of dense neutrophilic infiltrate on histology, the absence of organisms, and the patient’s response to systemic steroids, despite the initial consideration of other diagnoses."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with pyoderma gangrenosum (PG) who presented with ulcerative plaques on the hands and responded well to systemic steroids and cyclosporine, which supports the current treatment approach for this patient."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not applicable here but the following text is: The patient’s clinical course—exacerbation after surgical debridement, dense neutrophilic infiltrate, lack of organisms, and association with hidradenitis suppurativa (another neutrophilic disease)—fits the classic PG phenotype."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis is not applicable here but the following text is: Pyoderma Gangrenosum (PG) is a neutrophilic dermatosis characterized by rapidly progressive, painful, necrotic ulcers with violaceous undermined borders."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients is not applicable here but the following text is: The patient meets several major and minor criteria."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis is not applicable here but the following text is: Apply the **Su et al. criteria** for PG (major criteria: neutrophilic infiltrate on histology, exclusion of infection; minor criteria: pathergy, associated systemic disease, rapid progression, undermined violaceous border, response to steroids)."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the following text is: While a paraneoplastic immune‑complex vasculitis cannot be entirely excluded, it is **less favored** compared with neutrophilic dermatoses."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation is not applicable here but the following text is: The patient’s clinical course—exacerbation after surgical debridement, dense neutrophilic infiltrate, lack of organisms, and association with hidradenitis suppurativa (another neutrophilic disease)—fits the classic PG phenotype, which is the most dangerous explanation and should be ruled out first."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated is not applicable here but the following text is: The patient’s known HS, a condition that shares a neutrophil‑driven pathogenesis, may predispose to drug‑triggered neutrophilic dermatoses, which is an unusual presentation."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun is not applicable here but the following text is: PG is a diagnosis of exclusion; infection, vasculitis, and malignancy must be ruled out—this is ongoing but the work‑up so far leans toward PG, which is similar to cases reported in the literature."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "Pyoderma Gangrenosum (PG) is the leading diagnosis."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not applicable here but a similar reasoning for the skin condition is: The patient’s clinical course—exacerbation after surgical debridement, dense neutrophilic infiltrate, lack of organisms, and association with hidradenitis suppurativa (another neutrophilic disease)—fits the classic PG phenotype."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient’s age, diabetes, and prior exposure to multiple antibiotics might predispose to such opportunistic infections, but the lack of response to broad‑spectrum antibiotics and the sterile cultures shift the focus away from a conventional bacterial infection."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description of pyoderma gangrenosum, which is characterized by rapidly progressive, painful, necrotic ulcers with violaceous undermined borders."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, but a similar intuition for the skin condition is: **Pyoderma gangrenosum is the leading diagnosis**."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s known HS, a condition that shares a neutrophil‑driven pathogenesis, may predispose to drug‑triggered neutrophilic dermatoses, similar to cases reported in the literature."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    }
+  ]
+}

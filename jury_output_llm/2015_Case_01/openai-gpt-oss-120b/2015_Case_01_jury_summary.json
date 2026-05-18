@@ -1,0 +1,452 @@
+{
+  "case": "2015 Case 01__openai-gpt-oss-120b.md",
+  "exported_at": "2026-05-18T12:02:47.183392+00:00",
+  "n_voters": 15,
+  "n_successful": 14,
+  "n_failed": 1,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysfunction in the internal mammary nodes could be due to a regional recurrence of the original breast carcinoma, given the morphologic similarity on FNA and the typical pattern of IMN involvement in left‑sided disease."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme‑linked immunosorbent assay for the presence of ANCA is not relevant here, but rather a core needle biopsy with a panel of IHC stains including breast markers (ER, PR, HER2, GATA‑3, mammaglobin, GCDFP‑15), melanoma markers (S100, SOX10, HMB‑45, Melan‑A), and lung markers (TTF‑1, Napsin‑A) would be essential."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of spread to the internal mammary nodes, the morphologic similarity on FNA, and the clinical history all match the expected presentation of a regional recurrence of the original breast carcinoma."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the morphologic similarity on FNA, the typical pattern of IMN involvement in left‑sided disease, and the high‑risk primary features, the probability of a regional recurrence of the original breast carcinoma is higher than that of a metastatic melanoma or a second primary lung adenocarcinoma."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, instead the text describes a strong likelihood of a regional recurrence of the original breast carcinoma."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not present, the document does discuss the potential for other diagnoses but focuses on the breast cancer recurrence."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the sentence 'The preponderance of evidence points to **a regional recurrence of the original breast carcinoma involving the left internal mammary lymph nodes**.' can be considered as an intuitive conclusion based on the evidence presented."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The possibility of a melanoma metastasis remains a diagnostic consideration because the FNA material was insufficient for definitive immunophenotyping, but the weight of clinical and morphologic data favors breast carcinoma, thus updating the probability of breast carcinoma recurrence."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of isolated internal mammary node enlargement, the morphologic similarity to the prior breast carcinoma on cytology, and the clinical context of a recent cessation of endocrine therapy all support the diagnosis of a breast-cancer recurrence."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not applicable here but, The cytologic evidence of carcinoma essentially excludes an infectious cause."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis is not applicable here but,  a core needle biopsy with a panel of immunohistochemical stains can differentiate between breast carcinoma, melanoma, and other malignancies."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun is not applicable here but, the patient’s history of breast cancer and the presence of internal mammary lymphadenopathy are similar to cases reported in the literature."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysfunction in the internal mammary chain, given its role as a sentinel basin in left‑sided tumors, especially when the tumor is located in the upper outer quadrant, as in this case, suggests a high likelihood of regional recurrence."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is not directly relevant here, but the use of specific markers like ER, PR, and HER2 for breast cancer, and S100 and SOX10 for melanoma, follows an algorithmic approach to narrow down the differential diagnosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The possibility of a melanoma metastasis remains a diagnostic consideration because the FNA material was insufficient for definitive immunophenotyping; however, the weight of clinical and morphologic data favors breast carcinoma, indicating a hierarchical approach to diagnosing the most likely condition first."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of isolated internal mammary node enlargement with a history of breast cancer, especially with morphologic similarity on FNA to the original carcinoma, is highly suggestive of a regional recurrence."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The absence of systemic lymphadenopathy, the cytologic appearance, and the strong resemblance to the prior breast carcinoma intuitively suggest that lymphoma is unlikely."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the patient's history of breast cancer, the probability of a regional recurrence is higher than that of a new primary lung cancer or melanoma metastasis, especially considering the timing and the morphologic features of the cytology."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Similar cases of breast cancer recurrence involving the internal mammary nodes, as reported in the literature, support the diagnosis of a regional recurrence in this patient."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is not relevant here, but rather a panel of IHC stains including **Breast markers**: ER, PR, HER2, GATA‑3, mammaglobin, GCDFP‑15, **Melanoma markers**: S100, SOX10, HMB‑45, Melan‑A, and **Lung markers**: TTF‑1, Napsin‑A, should be used to differentiate between breast carcinoma, melanoma, and lung adenocarcinoma."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of spread to the internal mammary nodes, the morphologic similarity to the prior breast carcinoma, and the clinical presentation all suggest a **regional recurrence of the original ER‑positive, HER2‑negative invasive ductal carcinoma**."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not directly relevant here, but rather the cytologic features and imaging findings that support the diagnosis of a regional recurrence of breast carcinoma."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but this is not directly relevant to the current case."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 10,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histologic similarity to the prior breast carcinoma, the typical pattern of IMN involvement, and the timing after endocrine therapy cessation all support the diagnosis of a regional recurrence."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of spread to the internal mammary nodes, the morphologic similarity of the cytology to the prior IDC, and the high‑risk pathological features of the primary tumor all fit with a regional recurrence of the original breast carcinoma."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The patient’s work‑up (CT abdomen/pelvis) showed only benign liver cysts, no masses, which makes a second primary extramammary carcinoma **remote**."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histologic correlation, the imaging characteristics, and the clinical timeline all support the diagnosis of a regional recurrence of the original breast carcinoma."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is not relevant here, but the many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, which is not the case in this scenario."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but are not relevant to this case."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but the presentation of the patient and the imaging findings are more consistent with a regional recurrence of the original breast carcinoma."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histologic similarity to the prior carcinoma, the typical pattern of IMN involvement in left‑sided disease, and the high‑risk primary features support the diagnosis of a regional recurrence of the original breast carcinoma."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of isolated IMN enlargement without mediastinal lymphadenopathy is more consistent with a breast‑cancer recurrence than with a primary lung carcinoma or lymphoma."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The cytologic features of the aspirate, including clusters of malignant epithelioid cells with enlarged, hyperchromatic nuclei, are more consistent with a breast‑cancer recurrence than with a melanoma metastasis or a second primary lung carcinoma."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The patient’s history of breast cancer, the presence of enlarged IMNs, and the cytologic features of the aspirate all suggest a diagnosis of regional recurrence of the original breast carcinoma."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The clinical presentation and imaging findings are consistent with a regional recurrence of the original breast carcinoma, which is a well‑recognized entity in the literature."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The morphological similarity to the prior carcinoma, the typical pattern of spread, and the high‑risk pathological features of the primary tumor all validate the diagnosis of a regional recurrence of the original breast carcinoma."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of spread to the internal mammary nodes, the cytologic correlation, and the imaging characteristics all match the expected pattern for a regional recurrence of breast carcinoma."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but this patient's presentation is more consistent with a regional recurrence of breast carcinoma."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 12,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of spread to the internal mammary nodes, the high‑risk pathological features of the primary tumor, and the timing after cessation of endocrine therapy are all consistent with a regional recurrence of the original breast carcinoma."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 10,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of spread to the internal mammary nodes, the timing after cessation of endocrine therapy, and the morphologic similarity of the cytology to the prior IDC all support a diagnosis of regional recurrence of the original breast carcinoma."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of a regional recurrence of the original breast carcinoma is higher than that of a metastatic melanoma or a second primary lung cancer, given the clinical history, imaging, and cytologic findings."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 10,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "Since the lesions are seen on both the diffusion-weighted and fluid-attenuated inversion-recovery images, we know that the age of the lesions is greater than about 12 hours."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        }
+      ]
+    }
+  ]
+}

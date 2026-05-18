@@ -1,0 +1,18 @@
+{
+  "case": "2015 Case 40__openai-gpt-oss-120b.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T12:19:02.469800+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9097,
+          9315
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the extreme BP values in a relatively young adult, **secondary hypertension** must be actively considered, especially because the patient has never been on chronic antihypertensive therapy for the past several ye"
+    }
+  ]
+}

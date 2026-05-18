@@ -1,0 +1,40 @@
+{
+  "case": "2011 Case 15__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T10:23:02.313609+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3795,
+          4017
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "agnoses. Initially, the symptoms of vaginal discharge, headache, and fatigue could be indicative of a variety of conditions, including sexually transmitted infections (STIs), given the patient's history of sexual activity."
+    },
+    {
+      "ranges": [
+        [
+          5018,
+          5159
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of a painful ulcer, on the other hand, is more consistent with HSV or chancroid, both of which can cause painful genital ulcers."
+    },
+    {
+      "ranges": [
+        [
+          4018,
+          4240
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The administration of doxycycline, metronidazole, and ceftriaxone according to South African guidelines for STIs suggests that the treating clinicians considered infections such as chlamydia, gonorrhea, and trichomoniasis."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "case": "2015 Case 40__openai-gpt-oss-120b.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T12:19:02.469905+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          19955,
+          20179
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Overall, the **balance of evidence** points toward a **primary psychotic disorder—most consistent with schizophrenia**—with **possible contributory effects** from chronic untreated hypertension, poor sleep, and nutritional d"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "case": "2016 Case 03__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T12:48:51.831672+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8904,
+          9332
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnostic consideration must be **abdominal migraine**, given the episodic, paroxysmal nature of the pain, its association with autonomic features (pallor, diaphoresis, vomiting), its lack of association with defecation or meals, the absence of structural pathology on endoscopy and imaging, the response to tricyclic antidepressants (amitriptyline), and the strong family history of migraines in the maternal line."
+    },
+    {
+      "ranges": [
+        [
+          9705,
+          9913
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The fact that this patient’s pain was episodic, not constant, and associated with autonomic symptoms—especially the episodes where she became pale, diaphoretic, and collapsed—strongly supports this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9914,
+          10042
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The partial response to amitriptyline, a medication used for migraine prophylaxis in children, further supports this hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          10927,
+          11038
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "One such category is **pancreatic disorders**, particularly **chronic pancreatitis** or **pancreatic divisum**."
+    },
+    {
+      "ranges": [
+        [
+          12342,
+          12544
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another important differential is **mesenteric ischemia**, particularly **mesenteric artery stenosis or vasospasm**, which can occur in children with underlying vasculopathies or hypercoagulable states."
+    },
+    {
+      "ranges": [
+        [
+          13424,
+          13609
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "We must also consider **hereditary angioedema (HAE)**, particularly type I or II, which presents with recurrent episodes of nonpitting edema, often involving the gastrointestinal tract."
+    },
+    {
+      "ranges": [
+        [
+          14599,
+          14709
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another rare but critical consideration is **porphyria**, particularly **acute intermittent porphyria (AIP)**."
+    },
+    {
+      "ranges": [
+        [
+          8585,
+          8902
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The key to unraveling this case lies in recognizing the patterns: the episodic nature of pain, its association with vomiting and autonomic symptoms, its resistance to standard therapies for reflux and constipation, and its progression to more severe, prolonged, and disabling episodes with postural relief and pallor."
+    },
+    {
+      "ranges": [
+        [
+          11039,
+          11270
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although serum amylase and lipase were repeatedly normal, these enzymes can be normal in chronic or intermittent pancreatic disease, especially in children, where enzyme release may be episodic and not captured during acute phases."
+    },
+    {
+      "ranges": [
+        [
+          11899,
+          12078
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Endoscopic retrograde cholangiopancreatography (ERCP) or magnetic resonance cholangiopancreatography (MRCP) would be required to confirm this, but such studies were not performed."
+    },
+    {
+      "ranges": [
+        [
+          10678,
+          10926
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "However, while abdominal migraine is the most plausible diagnosis, it is a diagnosis of exclusion, and we must rigorously consider other organic etiologies that can mimic it, particularly those that are rare but potentially life-altering if missed."
+    },
+    {
+      "ranges": [
+        [
+          19897,
+          20012
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The normal abdominal ultrasound and endoscopy make structural, infectious, and inflammatory causes highly unlikely."
+    },
+    {
+      "ranges": [
+        [
+          15928,
+          16106
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The fact that the patient had no neurological symptoms, no dark urine, and no history of drug exposure makes this less likely, but it cannot be excluded without specific testing."
+    },
+    {
+      "ranges": [
+        [
+          20169,
+          20496
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient’s clinical course is consistent with a neurogastroenterologic disorder, and while abdominal migraine is the most probable diagnosis, the failure of conventional therapies and the dramatic progression of symptoms warrant a thorough search for these rare organic mimics before accepting a purely functional diagnosis."
+    }
+  ]
+}

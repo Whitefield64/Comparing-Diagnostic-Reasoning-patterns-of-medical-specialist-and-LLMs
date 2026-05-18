@@ -1,0 +1,117 @@
+{
+  "case": "2016 Case 15__openai-gpt-oss-120b.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T13:04:00.744936+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          29350,
+          29631
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The balance of probabilities heavily favors a **low‑grade diffuse glioma**, most plausibly an **oligodendroglioma (WHO grade II, IDH‑mutant, 1p/19q‑codeleted)**, with the caveat that the leptomeningeal nodules may represent early tumor spread or a coincident inflammatory response."
+    },
+    {
+      "ranges": [
+        [
+          29692,
+          29832
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "High‑grade gliomas** would be expected to demonstrate marked perfusion elevation, elevated choline, and a more aggressive clinical trajector"
+    },
+    {
+      "ranges": [
+        [
+          29949,
+          30081
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Primary CNS lymphoma** classically shows restricted diffusion, a high lipid/lactate peak on spectroscopy, and homogeneous enhancemen"
+    },
+    {
+      "ranges": [
+        [
+          30084,
+          30172
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The normal spectroscopy and lack of diffusion data (presumably normal) argue against it."
+    },
+    {
+      "ranges": [
+        [
+          14819,
+          15006
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of leptomeningeal nodules is unusual but can be explained by early leptomeningeal dissemination, which has been reported in a minority of oligodendrogliomas and astrocytomas."
+    },
+    {
+      "ranges": [
+        [
+          31841,
+          32069
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Alternatively, the nodules could represent a **reactive inflammatory response** to the tumor (e.g., peritumoral inflammatory infiltrates) or a coexistent but unrelated process such as **low‑grade sarcoid meningeal involvement**."
+    },
+    {
+      "ranges": [
+        [
+          31203,
+          31392
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "In the setting of a solitary, enhancing intra‑axial temporal lesion with otherwise low‑grade imaging features, the most parsimonious explanation is **tumor‑related leptomeningeal seeding**."
+    },
+    {
+      "ranges": [
+        [
+          14569,
+          14818
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most plausible primary neoplasm is a low‑grade diffuse glioma, particularly an IDH‑mutant, 1p/19q‑codeleted oligodendroglioma, given the patient’s age, relatively subtle imaging features, seizure phenotype, and the pattern of modest enhancement."
+    },
+    {
+      "ranges": [
+        [
+          7650,
+          7727
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s age and the slowly progressive course fit an oligodendroglioma."
+    },
+    {
+      "ranges": [
+        [
+          4827,
+          5041
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The discussion is organized into several headings that reflect the principal disease groups that must be considered in a patient with a solitary, partially enhancing intracranial mass and leptomeningeal nodularity."
+    }
+  ]
+}

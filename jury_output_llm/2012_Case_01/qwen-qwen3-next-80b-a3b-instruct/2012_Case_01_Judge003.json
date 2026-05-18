@@ -1,0 +1,62 @@
+{
+  "case": "2012 Case 01__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T10:54:12.515019+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          19760,
+          19936
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely diagnosis is pyoderma gangrenosum, triggered by the patient’s underlying inflammatory burden, including hidradenitis suppurativa and possibly occult malignancy."
+    },
+    {
+      "ranges": [
+        [
+          20135,
+          20299
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The alternative diagnosis of Sweet’s syndrome with necrotizing features remains plausible, particularly if an underlying hematologic malignancy is later identified."
+    },
+    {
+      "ranges": [
+        [
+          7667,
+          8022
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The evolution of his skin lesions—from a minor abrasion thought to be a dog bite, to hemorrhagic bullae, to diffuse purpuric and ulcerative plaques with necrosis extending to tendons—combined with histopathological findings of neutrophilic dermatitis, leukocytoclastic vasculitis, and sterile cultures, demands a broad and rigorous differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8023,
+          8320
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of infectious agents despite broad-spectrum antibiotic coverage, the lack of serologic markers for classic autoimmune diseases, and the transient response to high-dose corticosteroids and immunosuppressants all point toward a non-infectious, immune-mediated, or paraneoplastic process."
+    },
+    {
+      "ranges": [
+        [
+          8321,
+          8565
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "We must consider primary dermatologic disorders, systemic inflammatory conditions, hematologic malignancies, drug reactions, and rare paraneoplastic syndromes, while carefully weighing the significance of his comorbidities and prior treatments."
+    }
+  ]
+}

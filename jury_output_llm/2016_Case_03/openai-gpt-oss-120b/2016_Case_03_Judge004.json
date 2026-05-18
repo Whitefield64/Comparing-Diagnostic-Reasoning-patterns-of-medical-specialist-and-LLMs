@@ -1,0 +1,40 @@
+{
+  "case": "2016 Case 03__openai-gpt-oss-120b.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T12:41:43.893855+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          40007,
+          40232
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling explanations are **abdominal migraine** and **abdominal epilepsy**, both of which can produce the characteristic episodic pain and autonomic signs, and both are supported by family history and age of onset"
+    },
+    {
+      "ranges": [
+        [
+          10967,
+          11089
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "abdominal migraine remains a strong contender, particularly given the neurologic referral and initiation of amitriptyline."
+    },
+    {
+      "ranges": [
+        [
+          8301,
+          8654
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The chronicity of her symptoms, the episodic nature of the pain, and the lack of overt organic findings direct the differential toward a spectrum that includes functional gastrointestinal disorders, subtle structural or motility abnormalities, intermittent vascular or neuro‑gastroenterologic phenomena, and psychogenic or neuropsychiatric contributors."
+    }
+  ]
+}

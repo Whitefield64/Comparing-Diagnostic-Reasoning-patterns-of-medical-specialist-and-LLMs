@@ -1,0 +1,481 @@
+{
+  "case": "2016 Case 03__openai-gpt-oss-120b.md",
+  "exported_at": "2026-05-18T12:45:29.782441+00:00",
+  "n_voters": 15,
+  "n_successful": 14,
+  "n_failed": 1,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process of abdominal migraine and epilepsy can be understood by the autonomic dysregulation and central sensitization, which leads to the episodic pain and other symptoms."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If abdominal migraine is the correct diagnosis, we would expect to see a response to amitriptyline, as well as a family history of migraine, which is present in this case."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has abdominal epilepsy, we would expect to see epileptiform activity on EEG, which has not been performed yet."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnosis of abdominal migraine can be made based on the criteria of recurrent, severe, episodic abdominal pain, accompanied by autonomic signs such as pallor, diaphoresis, and tachycardia."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "Given the patient’s presentation, we must first consider the possibility of abdominal migraine and abdominal epilepsy, as these are the most likely explanations for the symptoms."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of episodic pain, vomiting, and autonomic signs in this patient is typical of abdominal migraine."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is abdominal migraine, given the patient’s symptoms and family history."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although the probability of abdominal epilepsy is lower than that of abdominal migraine, it is still a possible diagnosis, given the patient’s symptoms and the lack of definitive evidence for migraine."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of abdominal migraine in a child with a family history of migraine, which was successfully treated with amitriptyline."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If abdominal migraine is the correct diagnosis, we would expect to see a response to migraine-specific therapy, such as sumatriptan or preventive agents like topiramate."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis, but this patient’s presentation does not strongly suggest this diagnosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation; tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced, but this patient is a girl with a different set of symptoms."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, and the patient’s symptoms and test results are consistent with this conclusion."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of episodic pain with autonomic features matches the description of abdominal migraine, which is a functional gastrointestinal disorder."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary functional gastrointestinal disorder, such as abdominal migraine or functional abdominal pain syndrome, although I am troubled by the lack of a clear response to treatment."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of abdominal pain in children are due to functional gastrointestinal disorders, the presence of autonomic features and a family history of migraine increases the probability of abdominal migraine, and the patient’s response to amitriptyline suggests a central neuromodulatory component."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with abdominal migraine who responded well to sumatriptan, and this case reminds me of that patient, suggesting that a trial of migraine-specific therapy may be warranted."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If abdominal migraine is the correct diagnosis, we would expect to see a response to amitriptyline, which is often used for prophylaxis."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnosis of abdominal migraine is supported by the presence of episodic pain, autonomic signs, and a family history of migraine, as outlined in the diagnostic criteria for abdominal migraine."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The normal investigations, including labs, imaging, and endoscopy, rule out an organic lesion and support the diagnosis of a functional or neuro-gastroenterologic disorder."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The patient’s symptoms, including recurrent epigastric pain, vomiting, and autonomic manifestations, are consistent with the classic presentation of abdominal migraine."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "Given the patient’s response to a proton pump inhibitor and the trial of amitriptyline, a central neuromodulatory component is evident, suggesting a migraine or epilepsy diagnosis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of abdominal migraine is increased by the presence of a family history of migraine and the patient’s response to amitriptyline, which is often used for migraine prophylaxis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s clinical picture is similar to that of other cases of abdominal migraine, which often present with recurrent epigastric pain, vomiting, and autonomic manifestations."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 15,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If abdominal migraine is the diagnosis, we would expect to see a positive response to amitriptyline and possibly other migraine prophylactics, as well as a family history of migraine, which is present in this case."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "Aortic- or subclavian-wall abnormalities without obvious occlusion from clotting make it unlikely that the patient had antiphospholipid-antibody syndrome, but we must explain the laboratory findings."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 10,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysfunction in the gut–brain axis, possibly involving central sensitization, autonomic dysregulation, and alterations in serotonin signaling, could explain the patient’s symptoms."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If abdominal migraine is the correct diagnosis, we would expect to see improvement with amitriptyline and possibly other migraine prophylactics."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The Rome IV criteria for functional gastrointestinal disorders could be applied to diagnose and categorize the patient’s symptoms."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The patient’s presentation is typical of abdominal migraine, with recurrent episodes of severe abdominal pain and autonomic symptoms."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I suspect that the patient’s symptoms may be related to a migraine disorder, given the family history and episodic nature of the pain."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the patient’s response to omeprazole and amitriptyline, the probability of a migraine or functional gastrointestinal disorder increases."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with abdominal migraine who responded well to amitriptyline and lifestyle modifications."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The patient’s physical examination and laboratory results are unremarkable, which suggests a functional or neurologic disorder rather than a structural gastrointestinal disease."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient’s symptoms and test results are consistent with abdominal migraine, which validates this diagnosis as a possible explanation."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first consider and rule out life-threatening conditions such as inflammatory bowel disease, celiac disease, and pancreatic pathology before attributing the patient’s symptoms to a functional disorder."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If abdominal migraine is the correct diagnosis, we would expect to see a positive response to amitriptyline, which is often used for prophylaxis."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis, but this patient’s presentation does not suggest vasculitis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "Before considering abdominal epilepsy, we must first rule out other causes of episodic pain and autonomic signs, such as abdominal migraine and functional abdominal pain syndrome."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient’s response to omeprazole and amitriptyline, as well as the lack of structural gastrointestinal disease, supports the diagnosis of a functional gastrointestinal disorder."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of episodic pain and autonomic signs in this patient is typical of abdominal migraine, which is characterized by recurrent, severe abdominal pain and associated symptoms such as pallor and diaphoresis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is abdominal migraine, given the patient’s family history and the characteristic episodic pain and autonomic signs."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although the probability of abdominal epilepsy is lower than that of abdominal migraine, the presence of autonomic signs and the patient’s response to amitriptyline increase the likelihood of this diagnosis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with abdominal migraine who presented with episodic pain and autonomic signs, and who responded well to amitriptyline, which supports this diagnosis in the current case."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If abdominal migraine is the correct diagnosis, then we would expect to see a response to migraine‑targeted therapy, such as sumatriptan or preventive agents like topiramate or cyproheptadine."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "A routine EEG may miss focal seizures; prolonged ambulatory monitoring is preferred to confirm or exclude abdominal epilepsy."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The normal investigations and the clinical pattern largely exclude less likely considerations—structural gastrointestinal disease, inflammatory conditions, metabolic derangements, and primary psychiatric disorders."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of episodic pain with autonomic activation, normal structural evaluation, and family history of migraine is typical of abdominal migraine."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary abdominal migraine or abdominal epilepsy, given the combination of episodic pain, autonomic features, and family history."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although the probability of abdominal epilepsy is lower than that of abdominal migraine, the presence of autonomic features and the response to amitriptyline increase the likelihood of this diagnosis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with abdominal migraine who responded well to sumatriptan, which suggests that this patient may also benefit from migraine‑targeted therapy."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of episodic pain, vomiting, and autonomic manifestations is consistent with abdominal migraine."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The patient’s symptoms and family history suggest a possible migraine spectrum disorder."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of abdominal migraine is increased by the patient’s response to amitriptyline and the presence of autonomic features."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The normal investigations and the clinical pattern exclude less likely considerations—structural gastrointestinal disease, inflammatory conditions, metabolic derangements, and primary psychiatric disorders."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The patient’s physical examination and imaging studies do not reveal any structural abnormalities that could explain the symptoms."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s presentation is similar to that of other patients with abdominal migraine, who often have a family history of migraine and experience episodic pain with autonomic features."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 1,
+      "n_unresolved": 11,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysfunction in the gut–brain axis, autonomic dysregulation, and alterations in serotonin signaling are thought to be involved in abdominal migraine."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If abdominal migraine is the correct diagnosis, we would expect to see improvement with amitriptyline, which is often used for prophylaxis."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnostic criteria for abdominal migraine include recurrent episodes of abdominal pain, often accompanied by nausea, vomiting, pallor, and occasional headache."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient’s symptoms and normal investigations are consistent with a diagnosis of abdominal migraine, which is supported by the lack of evidence for other gastrointestinal diseases."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The patient’s presentation is typical of abdominal migraine, with recurrent episodes of severe abdominal pain, vomiting, and autonomic manifestations."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is abdominal migraine, given the patient’s symptoms and the lack of evidence for other conditions."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of abdominal migraine given the patient’s symptoms and normal investigations is high, and this diagnosis is more likely than other possibilities such as abdominal epilepsy or functional abdominal pain syndrome."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of a child with abdominal migraine, who presented with recurrent episodes of severe abdominal pain and vomiting, and responded well to treatment with amitriptyline."
+        },
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "The differential diagnosis for this patient includes abdominal migraine, abdominal epilepsy, functional abdominal pain syndrome, and other less likely possibilities such as inflammatory bowel disease or celiac disease."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The pathophysiology of abdominal migraine is thought to involve dysfunction in the gut–brain axis, autonomic dysregulation, and alterations in serotonin signaling."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out other gastrointestinal diseases, such as inflammatory bowel disease or celiac disease, before considering a diagnosis of abdominal migraine."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The absence of orthostatic symptoms limits confirmation of autonomic dysregulation."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If abdominal migraine is the correct diagnosis, we would expect to see a response to migraine-specific therapy, such as sumatriptan or topiramate."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnostic criteria for abdominal migraine include recurrent episodes of abdominal pain, autonomic symptoms, and a family history of migraine."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "Before considering abdominal epilepsy, we must first rule out other potential causes of the patient's symptoms, such as structural gastrointestinal disease or inflammatory conditions."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The patient's symptoms are consistent with the classic presentation of abdominal migraine, which typically includes episodic abdominal pain, vomiting, and autonomic symptoms."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I have a strong suspicion that the patient's symptoms are related to a migraine disorder, given the family history and the patient's response to amitriptyline."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of abdominal migraine as the correct diagnosis is increased by the patient's response to amitriptyline and the presence of autonomic symptoms, which are more commonly seen in migraine disorders."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of a patient with abdominal migraine who presented with episodic abdominal pain and autonomic symptoms, and who responded well to migraine-specific therapy."
+        }
+      ]
+    }
+  ]
+}

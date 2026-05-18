@@ -1,0 +1,95 @@
+{
+  "case": "2016 Case 15__openai-gpt-oss-120b.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T13:03:02.638504+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          29350,
+          29631
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The balance of probabilities heavily favors a **low‑grade diffuse glioma**, most plausibly an **oligodendroglioma (WHO grade II, IDH‑mutant, 1p/19q‑codeleted)**, with the caveat that the leptomeningeal nodules may represent early tumor spread or a coincident inflammatory response."
+    },
+    {
+      "ranges": [
+        [
+          6178,
+          6476
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s age, the indolent one‑year evolution, the modest FLAIR signal, and the essentially normal MR spectroscopy (low choline elevation) are compatible with a low‑grade astrocytoma. The irregular, nodular enhancement could represent the early “breakthrough” of contrast in a grade‑II lesion."
+    },
+    {
+      "ranges": [
+        [
+          33856,
+          34172
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the biopsy confirms a WHO grade‑II oligodendroglioma, the therapeutic approach would typically involve **maximal safe surgical resection** followed by **adjuvant radiotherapy** (often 54 Gy in 30 fractions) and **PCV chemotherapy** (procarbazine, lomustine, vincristine) or temozolomide, guided by the presence of"
+    },
+    {
+      "ranges": [
+        [
+          4827,
+          5041
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The discussion is organized into several headings that reflect the principal disease groups that must be considered in a patient with a solitary, partially enhancing intracranial mass and leptomeningeal nodularity."
+    },
+    {
+      "ranges": [
+        [
+          11295,
+          11442
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The imaging profile (normal perfusion, normal spectroscopy) and the relatively indolent clinical course argue strongly against a high‑grade glioma."
+    },
+    {
+      "ranges": [
+        [
+          25431,
+          25545
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s presentation is not characteristic; imaging shows a focal mass rather than diffuse cortical changes."
+    },
+    {
+      "ranges": [
+        [
+          14819,
+          15006
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of leptomeningeal nodules is unusual but can be explained by early leptomeningeal dissemination, which has been reported in a minority of oligodendrogliomas and astrocytomas."
+    },
+    {
+      "ranges": [
+        [
+          22297,
+          22427
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "While tumefactive MS remains a remote possibility, the imaging and spectroscopic findings do not support a demyelinating etiology."
+    }
+  ]
+}

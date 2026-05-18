@@ -1,0 +1,29 @@
+{
+  "case": "2016 Case 03__openai-gpt-oss-120b.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T12:45:29.779056+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          40007,
+          40225
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling explanations are **abdominal migraine** and **abdominal epilepsy**, both of which can produce the characteristic episodic pain and autonomic signs, and both are supported by family history and age o"
+    },
+    {
+      "ranges": [
+        [
+          34997,
+          35175
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The episodic nature, autonomic features (pallor, diaphoresis, tachycardia), family history of migraine, and partial response to amitriptyline collectively support this diagnosis."
+    }
+  ]
+}

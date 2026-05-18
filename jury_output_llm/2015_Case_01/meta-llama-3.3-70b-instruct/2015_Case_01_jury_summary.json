@@ -1,0 +1,161 @@
+{
+  "case": "2015 Case 01__meta-llama-3.3-70b-instruct.md",
+  "exported_at": "2026-05-18T11:57:58.648345+00:00",
+  "n_voters": 15,
+  "n_successful": 15,
+  "n_failed": 0,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 17,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 20,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but, the leading diagnosis is metastatic breast cancer, with the development of internal mammary lymph node metastases being the most likely explanation for her current presentation."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 19,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 14,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The small size of the nodules (4 to 5 mm in diameter) makes this less certain."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however, the presence of indeterminate pulmonary nodules requires further evaluation, which could include positron emission tomography (PET) scan, biopsy, or close surveillance with repeat imaging."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 18,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the intuition is that the patient has metastatic breast cancer."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient's history of smoking (20 pack-years) increases her risk for lung cancer, although the small size of the nodules and the lack of other symptoms or findings suggestive of lung cancer make this less likely at present."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The possibility of metastasis from her prior melanoma, although less likely, should also be considered and could be further evaluated with additional diagnostic testing, such as immunohistochemistry for melanoma markers."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present but the leading diagnosis is metastatic breast cancer, with the development of internal mammary lymph node metastases being the most likely explanation for her current presentation."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however, the following text is: Although her bone scan was negative, this does not entirely rule out the possibility of skeletal metastases, as small lesions may not be detectable on bone scan."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however, the leading diagnosis is metastatic breast cancer, with the development of internal mammary lymph node metastases being the most likely explanation for her current presentation."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 30,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 15,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is metastatic breast cancer, with the development of internal mammary lymph node metastases being the most likely explanation for her current presentation."
+        }
+      ]
+    }
+  ]
+}

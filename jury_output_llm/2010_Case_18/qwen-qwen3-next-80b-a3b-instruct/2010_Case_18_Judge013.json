@@ -1,0 +1,117 @@
+{
+  "case": "2010 Case 18__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T10:12:20.530841+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6642,
+          6721
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate consideration is **nonadherence to antiretroviral therapy**."
+    },
+    {
+      "ranges": [
+        [
+          6367,
+          6640
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential must account for both common and uncommon causes of ART failure in pediatric HIV, particularly in a resource-limited setting with a history of prior tuberculosis (TB) and BCG vaccination, which introduces additional diagnostic and therapeutic complexities."
+    },
+    {
+      "ranges": [
+        [
+          9210,
+          9594
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that his viral load remained elevated after switching to a boosted protease inhibitor suggests that the protease inhibitor component may also be compromised—either due to pre-existing protease mutations (e.g., M46I, I54V, V82A) or, more likely, due to the presence of multiple resistance mutations across drug classes that reduce the overall efficacy of even potent regimens."
+    },
+    {
+      "ranges": [
+        [
+          10361,
+          10457
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Chronic HIV infection can cause enteropathy, reducing intestinal absorption of oral medications."
+    },
+    {
+      "ranges": [
+        [
+          11180,
+          11372
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the transition from ritonavir alone to lopinavir–ritonavir may have been poorly timed or inadequately dosed for his body weight, especially if weight-based dosing was not precisely calculated."
+    },
+    {
+      "ranges": [
+        [
+          15424,
+          15599
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the virus is actively replicating, the problem is therapeutic failure; if it is only from reservoirs, then the viral load should be below detection limits on effective ART."
+    },
+    {
+      "ranges": [
+        [
+          17796,
+          17913
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The regimen change to lopinavir–ritonavir was appropriate, but without resistance testing, it may have been a gamble."
+    },
+    {
+      "ranges": [
+        [
+          16431,
+          16559
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that his mother is also HIV-positive confirms vertical transmission, making a primary immunodeficiency highly unlikely."
+    },
+    {
+      "ranges": [
+        [
+          15810,
+          16079
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presentation of recurrent infections, wasting, and failure to suppress HIV despite ART raises the possibility of a primary immunodeficiency, such as severe combined immunodeficiency (SCID) or a disorder of T-cell signaling (e.g., ZAP-70 deficiency, CD3 deficiency)."
+    },
+    {
+      "ranges": [
+        [
+          17398,
+          17795
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "\nIn summary, the most likely explanation for persistent HIV viremia in this child is a combination of **pre-existing drug resistance** (likely to NRTIs, possibly to protease inhibitors) compounded by **suboptimal pharmacokinetics due to malnutrition and prior rifampin exposure**, with possible **persistent immune activation from unresolved or misdiagnosed mycobacterial infection** (BCG vs. TB)."
+    }
+  ]
+}

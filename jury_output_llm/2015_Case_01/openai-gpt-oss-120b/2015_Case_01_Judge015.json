@@ -1,0 +1,40 @@
+{
+  "case": "2015 Case 01__openai-gpt-oss-120b.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T12:02:47.182973+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          31759,
+          32007
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The convergence of clinical history, imaging, and cytologic findings makes **a regional recurrence of the original ER‑positive, HER2‑negative invasive ductal carcinoma involving the left internal mammary lymph nodes** the most compelling diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          13759,
+          14128
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the morphologic similarity of the cytology to the prior IDC, the typical pattern of spread, the high‑risk pathological features of the primary tumor, and the timing after cessation of endocrine therapy, a **regional recurrence of the original ER‑positive, HER2‑negative breast carcinoma involving the left internal mammary nodes** is the most plausible diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          26747,
+          26909
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the IMN nodes represent isolated regional disease, the patient would be restaged as **M0, N3c** (internal mammary node involvement) under the AJCC 8th edition."
+    }
+  ]
+}

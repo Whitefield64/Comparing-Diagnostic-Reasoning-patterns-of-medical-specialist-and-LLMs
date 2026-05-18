@@ -1,0 +1,106 @@
+{
+  "case": "2012 Case 01__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T10:55:25.113630+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          19760,
+          19936
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely diagnosis is pyoderma gangrenosum, triggered by the patient’s underlying inflammatory burden, including hidradenitis suppurativa and possibly occult malignancy."
+    },
+    {
+      "ranges": [
+        [
+          20135,
+          20299
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The alternative diagnosis of Sweet’s syndrome with necrotizing features remains plausible, particularly if an underlying hematologic malignancy is later identified."
+    },
+    {
+      "ranges": [
+        [
+          7667,
+          8022
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The evolution of his skin lesions—from a minor abrasion thought to be a dog bite, to hemorrhagic bullae, to diffuse purpuric and ulcerative plaques with necrosis extending to tendons—combined with histopathological findings of neutrophilic dermatitis, leukocytoclastic vasculitis, and sterile cultures, demands a broad and rigorous differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8023,
+          8320
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of infectious agents despite broad-spectrum antibiotic coverage, the lack of serologic markers for classic autoimmune diseases, and the transient response to high-dose corticosteroids and immunosuppressants all point toward a non-infectious, immune-mediated, or paraneoplastic process."
+    },
+    {
+      "ranges": [
+        [
+          9304,
+          9541
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The initial use of vancomycin and piperacillin-tazobactam, followed by linezolid and ciprofloxacin, would have covered the most likely bacterial pathogens associated with skin and soft tissue infections, especially in a diabetic patient."
+    },
+    {
+      "ranges": [
+        [
+          9542,
+          9653
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The fact that the lesions worsened despite these therapies strongly argues against a simple bacterial etiology."
+    },
+    {
+      "ranges": [
+        [
+          8321,
+          8565
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "We must consider primary dermatologic disorders, systemic inflammatory conditions, hematologic malignancies, drug reactions, and rare paraneoplastic syndromes, while carefully weighing the significance of his comorbidities and prior treatments."
+    },
+    {
+      "ranges": [
+        [
+          11880,
+          12055
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "development of necrotic, undermining, violaceous plaques with gray discoloration at the margins, and the rapid progression despite antibiotics are all highly suggestive of PG."
+    },
+    {
+      "ranges": [
+        [
+          10090,
+          10288
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of neutrophilic dermatitis, particularly in the context of recurrent abscesses and hidradenitis suppurativa, immediately raises the possibility of a neutrophilic dermatosis of the skin."
+    }
+  ]
+}

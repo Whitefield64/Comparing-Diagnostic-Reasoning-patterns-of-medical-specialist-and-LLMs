@@ -1,0 +1,271 @@
+{
+  "case": "2010 Case 18__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T10:12:20.530618+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6172,
+          6366
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The central question is not merely why the viral load remains detectable, but why, despite apparent adherence, clinical improvement, and regimen changes, viral suppression has not been achieved."
+    },
+    {
+      "ranges": [
+        [
+          6642,
+          6721
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate consideration is **nonadherence to antiretroviral therapy**."
+    },
+    {
+      "ranges": [
+        [
+          6928,
+          7131
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Children depend entirely on caregivers for medication administration, and even subtle lapses—such as missed doses during travel, illness, or disruptions in routine—can lead to subtherapeutic drug levels."
+    },
+    {
+      "ranges": [
+        [
+          7132,
+          7320
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the mother had not previously received formal ART training suggests potential gaps in understanding of the necessity of strict daily dosing, especially with complex regimens."
+    },
+    {
+      "ranges": [
+        [
+          7958,
+          8087
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The persistence of detectable viremia despite this switch suggests either pre-existing resistance or ongoing suboptimal exposure."
+    },
+    {
+      "ranges": [
+        [
+          8433,
+          8562
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The patient was diagnosed at age 5, after a severe pneumonia and presumed TB episode, suggesting prolonged undiagnosed infection."
+    },
+    {
+      "ranges": [
+        [
+          8563,
+          8782
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "During that time, he may have been exposed to subtherapeutic ART or even monotherapy (e.g., single-dose nevirapine for prevention of mother-to-child transmission, if administered at birth, though not explicitly stated)."
+    },
+    {
+      "ranges": [
+        [
+          8783,
+          9008
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most common resistance mutations in children exposed to NRTIs are M184V (conferring high-level resistance to lamivudine and emtricitabine) and K70R or thymidine analog mutations (TAMs) conferring resistance to zidovudine."
+    },
+    {
+      "ranges": [
+        [
+          9009,
+          9209
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Given that lamivudine and zidovudine were part of his initial regimen and were later increased in dose, it is plausible that these mutations were already present and rendered the backbone ineffective."
+    },
+    {
+      "ranges": [
+        [
+          9210,
+          9594
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The fact that his viral load remained elevated after switching to a boosted protease inhibitor suggests that the protease inhibitor component may also be compromised—either due to pre-existing protease mutations (e.g., M46I, I54V, V82A) or, more likely, due to the presence of multiple resistance mutations across drug classes that reduce the overall efficacy of even potent regimens."
+    },
+    {
+      "ranges": [
+        [
+          9595,
+          9728
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Resistance testing, though not mentioned, would be critical here, and its absence in the case report is a significant diagnostic gap."
+    },
+    {
+      "ranges": [
+        [
+          9983,
+          10114
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s weight and height are below the fifth percentile, indicating chronic malnutrition or HIV-associated wasting syndrome."
+    },
+    {
+      "ranges": [
+        [
+          10115,
+          10207
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This can profoundly affect the volume of distribution and clearance of antiretroviral drugs."
+    },
+    {
+      "ranges": [
+        [
+          10208,
+          10360
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Lopinavir–ritonavir, for instance, is highly protein-bound and has variable absorption in the setting of malabsorption or gastrointestinal inflammation."
+    },
+    {
+      "ranges": [
+        [
+          10361,
+          10457
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Chronic HIV infection can cause enteropathy, reducing intestinal absorption of oral medications."
+    },
+    {
+      "ranges": [
+        [
+          13463,
+          13536
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The possibility of **another chronic infection** must also be considered."
+    },
+    {
+      "ranges": [
+        [
+          13537,
+          13590
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient had recurrent otitis media and pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          13591,
+          13783
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "While these are common in HIV-infected children due to impaired humoral and cellular immunity, they could also reflect coinfection with other pathogens that contribute to immune dysregulation."
+    },
+    {
+      "ranges": [
+        [
+          13784,
+          13972
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "For example, chronic cytomegalovirus (CMV) infection, common in HIV-infected children with low CD4 counts, can cause systemic inflammation and is associated with increased HIV replication."
+    },
+    {
+      "ranges": [
+        [
+          17914,
+          18079
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The case underscores the critical need for routine genotypic resistance testing in pediatric HIV patients with virologic failure, especially in high-burden settings."
+    },
+    {
+      "ranges": [
+        [
+          17399,
+          17795
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In summary, the most likely explanation for persistent HIV viremia in this child is a combination of **pre-existing drug resistance** (likely to NRTIs, possibly to protease inhibitors) compounded by **suboptimal pharmacokinetics due to malnutrition and prior rifampin exposure**, with possible **persistent immune activation from unresolved or misdiagnosed mycobacterial infection** (BCG vs. TB)."
+    },
+    {
+      "ranges": [
+        [
+          17796,
+          17913
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The regimen change to lopinavir–ritonavir was appropriate, but without resistance testing, it may have been a gamble."
+    },
+    {
+      "ranges": [
+        [
+          18661,
+          18849
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The granulomatous lesion remains enigmatic but likely represents BCG lymphadenitis rather than TB, given the negative cultures and the high prevalence of BCG complications in this setting."
+    },
+    {
+      "ranges": [
+        [
+          18850,
+          19021
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "This case is a stark reminder that in pediatric HIV, virologic failure is rarely due to a single cause—it is a multifactorial failure of biology, pharmacology, and system."
+    }
+  ]
+}

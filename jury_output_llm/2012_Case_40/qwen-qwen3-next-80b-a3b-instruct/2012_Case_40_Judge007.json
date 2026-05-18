@@ -1,0 +1,95 @@
+{
+  "case": "2012 Case 40__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T11:52:57.745253+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          15248,
+          15451
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the differential diagnosis centers on three primary entities: amniotic fluid embolism, massive postpartum hemorrhage (particularly from placenta accreta or uterine atony), and massive pulmonary embolism."
+    },
+    {
+      "ranges": [
+        [
+          15452,
+          15672
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Among these, amniotic fluid embolism is the most compelling given the classic triad of sudden hypoxia, hypotension, and coagulopathy occurring immediately postpartum in a patient with placenta previa—a known risk factor."
+    },
+    {
+      "ranges": [
+        [
+          5414,
+          5716
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of placenta previa, with its associated abnormal placental architecture and potential for placental sinus rupture, creates a direct anatomical pathway for amniotic fluid, fetal squames, lanugo, or other debris to enter the maternal circulation via open venous sinuses in the placental bed."
+    },
+    {
+      "ranges": [
+        [
+          5861,
+          6286
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The abrupt onset of chest pain, cyanosis, and respiratory arrest followed by cardiovascular collapse aligns with the proposed pathophysiology: amniotic fluid components trigger a profound inflammatory cascade, pulmonary vasoconstriction, right heart failure, and systemic release of vasoactive mediators, leading to acute pulmonary hypertension, left ventricular dysfunction, and disseminated intravascular coagulation (DIC)."
+    },
+    {
+      "ranges": [
+        [
+          7775,
+          7992
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the placenta was abnormally adherent, incomplete removal or uterine atony due to overdistension or prolonged labor could lead to concealed retroplacental hemorrhage or uterine rupture with intraperitoneal bleeding."
+    },
+    {
+      "ranges": [
+        [
+          8141,
+          8385
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The hypotension and bradycardia could reflect profound hypovolemia with compensatory vagal activation, leading to reflex bradycardia—a phenomenon well-documented in hypovolemic shock, particularly in pregnant women due to heightened vagal tone."
+    },
+    {
+      "ranges": [
+        [
+          9054,
+          9241
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that the patient had a hematocrit of 30.9% preoperatively suggests significant preexisting anemia, and a further acute drop could have precipitated cardiovascular decompensation."
+    },
+    {
+      "ranges": [
+        [
+          6596,
+          6689
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the ECG showing electrical activity without pulses is consistent with PEA, a hallmark of AFE."
+    }
+  ]
+}

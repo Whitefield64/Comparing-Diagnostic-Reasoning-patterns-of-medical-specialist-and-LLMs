@@ -1,0 +1,51 @@
+{
+  "case": "2016 Case 03__openai-gpt-oss-120b.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T12:43:19.204618+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          40007,
+          40232
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling explanations are **abdominal migraine** and **abdominal epilepsy**, both of which can produce the characteristic episodic pain and autonomic signs, and both are supported by family history and age of onset"
+    },
+    {
+      "ranges": [
+        [
+          10967,
+          11089
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "abdominal migraine remains a strong contender, particularly given the neurologic referral and initiation of amitriptyline."
+    },
+    {
+      "ranges": [
+        [
+          12276,
+          12410
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Functional dyspepsia remains plausible but less convincing than abdominal migraine for explaining the neuro‑vegetative manifestations."
+    },
+    {
+      "ranges": [
+        [
+          34996,
+          35207
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": " The episodic nature, autonomic features (pallor, diaphoresis, tachycardia), family history of migraine, and partial response to amitriptyline collectively support this diagnosis. The lack of headache does not e"
+    }
+  ]
+}

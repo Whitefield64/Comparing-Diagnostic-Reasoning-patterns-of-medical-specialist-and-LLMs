@@ -1,0 +1,139 @@
+{
+  "case": "2012 Case 01__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T10:39:33.257286+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7127,
+          7305
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with persistent ulcers on the hands, accompanied by a complex medical history and multiple systemic symptoms, poses a significant diagnostic challenge."
+    },
+    {
+      "ranges": [
+        [
+          7306,
+          7494
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "To approach this case, it is essential to consider a broad range of potential causes, including malignant, infectious, inflammatory, structural, gynecologic, systemic, and rare conditions."
+    },
+    {
+      "ranges": [
+        [
+          8131,
+          8316
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of leukocytoclastic vasculitis on biopsy, characterized by inflammation of small blood vessels, suggests an autoimmune or inflammatory component to the patient's condition."
+    },
+    {
+      "ranges": [
+        [
+          8506,
+          8600
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's response to glucocorticoids, with partial improvement, supports this hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          8928,
+          9129
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of rheumatoid factor and negative tests for hepatitis A, B, and C viruses, antiphospholipid antibodies, and lupus anticoagulant argue against common autoimmune and rheumatologic conditions."
+    },
+    {
+      "ranges": [
+        [
+          9130,
+          9266
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's laboratory results, including an elevated ferritin level and low serum iron, suggest an inflammatory or malignant process."
+    },
+    {
+      "ranges": [
+        [
+          15917,
+          16065
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of neutrophilic dermatitis on biopsy and the patient's history of hidradenitis suppurativa support a diagnosis of pyoderma gangrenosum."
+    },
+    {
+      "ranges": [
+        [
+          10946,
+          11104
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's response to treatment, including glucocorticoids and antibiotics, will also provide valuable information in establishing a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11700,
+          11909
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of hidradenitis suppurativa and the development of skin lesions following a perineal abscess may indicate a genetic or environmental predisposition to inflammatory or autoimmune diseases."
+    },
+    {
+      "ranges": [
+        [
+          13443,
+          13535
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Rare conditions, such as Sweet syndrome or Behçet's disease, may also be possible diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          11620,
+          11699
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of leukocytoclastic vasculitis on biopsy supports this hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          9941,
+          10103
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "A malignant cause for the patient's skin lesions, such as a paraneoplastic syndrome or a cutaneous manifestation of an underlying cancer, must also be considered."
+    }
+  ]
+}

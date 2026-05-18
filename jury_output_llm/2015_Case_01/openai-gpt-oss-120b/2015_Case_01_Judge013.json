@@ -1,0 +1,73 @@
+{
+  "case": "2015 Case 01__openai-gpt-oss-120b.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T12:02:47.182692+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          31759,
+          32007
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The convergence of clinical history, imaging, and cytologic findings makes **a regional recurrence of the original ER‑positive, HER2‑negative invasive ductal carcinoma involving the left internal mammary lymph nodes** the most compelling diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          26283,
+          26430
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The preponderance of evidence points to **a regional recurrence of the original breast carcinoma involving the left internal mammary lymph nodes**."
+    },
+    {
+      "ranges": [
+        [
+          26747,
+          26909
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the IMN nodes represent isolated regional disease, the patient would be restaged as **M0, N3c** (internal mammary node involvement) under the AJCC 8th edition."
+    },
+    {
+      "ranges": [
+        [
+          27094,
+          27262
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the tumor’s strong ER positivity (≥ 1 % but PR low), resumption of an aromatase inhibitor (e.g., letrozole) is reasonable, especially if the patient tolerates it."
+    },
+    {
+      "ranges": [
+        [
+          11087,
+          11229
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of two enlarged IMNs after a disease‑free interval strongly points toward a regional recurrence rather than a de novo primary."
+    },
+    {
+      "ranges": [
+        [
+          24247,
+          24331
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s work‑up (CT abdomen/pelvis) showed only benign liver cysts, no masses."
+    }
+  ]
+}

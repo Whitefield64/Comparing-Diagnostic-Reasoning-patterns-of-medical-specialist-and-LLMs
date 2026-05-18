@@ -1,0 +1,304 @@
+{
+  "case": "2012 Case 40__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T11:54:55.290250+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4316,
+          4779
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnostic considerations fall into four major categories: obstetric emergencies (particularly amniotic fluid embolism and postpartum hemorrhage with coagulopathy), cardiovascular catastrophes (including peripartum cardiomyopathy, pulmonary embolism, and myocardial infarction), systemic metabolic or toxic insults (such as eclampsia, pheochromocytoma, or anesthetic toxicity), and rare but devastating conditions like maternal sepsis or air embolism."
+    },
+    {
+      "ranges": [
+        [
+          5861,
+          6286
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The abrupt onset of chest pain, cyanosis, and respiratory arrest followed by cardiovascular collapse aligns with the proposed pathophysiology: amniotic fluid components trigger a profound inflammatory cascade, pulmonary vasoconstriction, right heart failure, and systemic release of vasoactive mediators, leading to acute pulmonary hypertension, left ventricular dysfunction, and disseminated intravascular coagulation (DIC)."
+    },
+    {
+      "ranges": [
+        [
+          6441,
+          6582
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The fact that the hematocrit and platelet count were normal at admission does not rule out rapid-onset DIC, which can develop within minutes."
+    },
+    {
+      "ranges": [
+        [
+          6287,
+          6440
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of overt bleeding at the time of collapse does not exclude AFE; coagulopathy may be evolving but not yet clinically apparent on initial labs."
+    },
+    {
+      "ranges": [
+        [
+          5183,
+          5413
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The classic triad—acute hypoxia, hypotension, and coagulopathy—is not always fully manifest, but the temporal proximity to delivery, the rapid progression to PEA, and the absence of prior cardiac disease make AFE highly plausible."
+    },
+    {
+      "ranges": [
+        [
+          10335,
+          10446
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The rapid progression to apnea and arrest without prior respiratory distress is more suggestive of AFE than PE."
+    },
+    {
+      "ranges": [
+        [
+          15236,
+          15451
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In summary, the differential diagnosis centers on three primary entities: amniotic fluid embolism, massive postpartum hemorrhage (particularly from placenta accreta or uterine atony), and massive pulmonary embolism."
+    },
+    {
+      "ranges": [
+        [
+          16182,
+          16313
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Given the clinical context, the leading diagnosis is amniotic fluid embolism, with placenta previa as the probable inciting factor."
+    },
+    {
+      "ranges": [
+        [
+          5414,
+          5716
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of placenta previa, with its associated abnormal placental architecture and potential for placental sinus rupture, creates a direct anatomical pathway for amniotic fluid, fetal squames, lanugo, or other debris to enter the maternal circulation via open venous sinuses in the placental bed."
+    },
+    {
+      "ranges": [
+        [
+          8771,
+          8938
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The key differentiator from AFE is that PPH typically presents with more gradual hemodynamic deterioration, and the bradycardia is less common unless vagally mediated."
+    },
+    {
+      "ranges": [
+        [
+          9510,
+          9600
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The sudden onset of hypoxemia, hypotension, chest pain, and PEA is classic for massive PE."
+    },
+    {
+      "ranges": [
+        [
+          6596,
+          6689
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the ECG showing electrical activity without pulses is consistent with PEA, a hallmark of AFE."
+    },
+    {
+      "ranges": [
+        [
+          9610,
+          9745
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the absence of prior dyspnea, leg swelling, or risk factors such as prolonged immobility makes this less likely, though not impossible."
+    },
+    {
+      "ranges": [
+        [
+          6962,
+          7057
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Postpartum hemorrhage (PPH) must also be considered, though the mechanism here is more nuanced."
+    },
+    {
+      "ranges": [
+        [
+          8141,
+          8385
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hypotension and bradycardia could reflect profound hypovolemia with compensatory vagal activation, leading to reflex bradycardia—a phenomenon well-documented in hypovolemic shock, particularly in pregnant women due to heightened vagal tone."
+    },
+    {
+      "ranges": [
+        [
+          8643,
+          8770
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A ruptured uterine artery aneurysm or other vascular injury during placental removal is also possible, though exceedingly rare."
+    },
+    {
+      "ranges": [
+        [
+          12501,
+          12597
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient had no signs of severe preeclampsia, and her blood pressure was normal on admission."
+    },
+    {
+      "ranges": [
+        [
+          14968,
+          15093
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The sudden collapse with hypotension and PEA could be explained by massive intraperitoneal hemorrhage from a ruptured vessel."
+    },
+    {
+      "ranges": [
+        [
+          15104,
+          15235
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "he absence of abdominal tenderness, back pain, or prior history of vascular disease makes this less likely, though not impossible.\n"
+    },
+    {
+      "ranges": [
+        [
+          15673,
+          15814
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The bradycardia is a late, terminal finding consistent with profound hypoxia and acidosis, not an initial feature, and does not rule out AFE."
+    },
+    {
+      "ranges": [
+        [
+          13379,
+          13555
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other rare but critical diagnoses include air embolism, which can occur during cesarean delivery, particularly in the setting of placental disruption and venous sinus exposure."
+    },
+    {
+      "ranges": [
+        [
+          13556,
+          13702
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Air can enter the maternal circulation through open uterine veins, especially in the Trendelenburg position or with positive pressure ventilation."
+    },
+    {
+      "ranges": [
+        [
+          13703,
+          13816
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Air embolism typically presents with sudden hypotension, hypoxemia, and a “mill-wheel” murmur, and can cause PEA."
+    },
+    {
+      "ranges": [
+        [
+          13817,
+          13936
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The timing—during fascial closure, when the uterus was manipulated and the surgical field exposed—makes this plausible."
+    },
+    {
+      "ranges": [
+        [
+          14103,
+          14174
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The absence of such details makes this less certain but still possible."
+    },
+    {
+      "ranges": [
+        [
+          16490,
+          16622
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The diagnosis of AFE carries profound implications for counseling, future pregnancies, and potential systemic inflammatory sequelae."
+    },
+    {
+      "ranges": [
+        [
+          16623,
+          16757
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Immediate management must be aggressive, multidisciplinary, and supportive, as survival depends on rapid recognition and intervention."
+    }
+  ]
+}

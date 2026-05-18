@@ -1,0 +1,436 @@
+{
+  "case": "2012 Case 01__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T10:36:23.934294+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7127,
+          7494
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with persistent ulcers on the hands, accompanied by a complex medical history and multiple systemic symptoms, poses a significant diagnostic challenge. To approach this case, it is essential to consider a broad range of potential causes, including malignant, infectious, inflammatory, structural, gynecologic, systemic, and rare conditions."
+    },
+    {
+      "ranges": [
+        [
+          7495,
+          7652
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Initially, the patient's history of hidradenitis suppurativa and the development of skin lesions following a perineal abscess suggest an infectious etiology."
+    },
+    {
+      "ranges": [
+        [
+          7653,
+          7835
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The administration of antibiotics, including piperacillin-tazobactam and vancomycin, and the subsequent worsening of the lesions, may indicate a resistant or unconventional pathogen."
+    },
+    {
+      "ranges": [
+        [
+          7836,
+          7950
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the negative cultures and lack of microorganisms on staining argue against a typical bacterial infection."
+    },
+    {
+      "ranges": [
+        [
+          8131,
+          8316
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of leukocytoclastic vasculitis on biopsy, characterized by inflammation of small blood vessels, suggests an autoimmune or inflammatory component to the patient's condition."
+    },
+    {
+      "ranges": [
+        [
+          8506,
+          8600
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's response to glucocorticoids, with partial improvement, supports this hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          8602,
+          8802
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The development of violaceous, edematous, denuded plaques on the metacarpophalangeal joints and elbows, accompanied by bilateral leg edema, suggests a systemic condition with cutaneous manifestations."
+    },
+    {
+      "ranges": [
+        [
+          8803,
+          8927
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's history of weight loss, intermittent diarrhea, and microhematuria further supports a systemic disease process."
+    },
+    {
+      "ranges": [
+        [
+          8928,
+          9129
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of rheumatoid factor and negative tests for hepatitis A, B, and C viruses, antiphospholipid antibodies, and lupus anticoagulant argue against common autoimmune and rheumatologic conditions."
+    },
+    {
+      "ranges": [
+        [
+          9130,
+          9266
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's laboratory results, including an elevated ferritin level and low serum iron, suggest an inflammatory or malignant process."
+    },
+    {
+      "ranges": [
+        [
+          9268,
+          9403
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The normal tests of liver function and lack of evidence for hepatitis or other liver diseases make a primary hepatic cause less likely."
+    },
+    {
+      "ranges": [
+        [
+          9404,
+          9567
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of anemia, with low folate levels, and the patient's history of macrocytic anemia, may indicate a nutritional deficiency or a chronic disease process."
+    },
+    {
+      "ranges": [
+        [
+          12213,
+          12413
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's complex medical history, including diabetes mellitus, hypertension, hyperlipidemia, and chronic obstructive pulmonary disease, may also contribute to the development of the skin lesions."
+    },
+    {
+      "ranges": [
+        [
+          9791,
+          9939
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's history of smoking and the presence of bilateral leg edema may indicate a venous or arterial insufficiency component to the condition."
+    },
+    {
+      "ranges": [
+        [
+          9941,
+          10103
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "A malignant cause for the patient's skin lesions, such as a paraneoplastic syndrome or a cutaneous manifestation of an underlying cancer, must also be considered."
+    },
+    {
+      "ranges": [
+        [
+          10104,
+          10231
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's history of malignant melanoma, although reportedly excised, raises the possibility of a recurrence or metastasis."
+    },
+    {
+      "ranges": [
+        [
+          10232,
+          10318
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of weight loss and microhematuria further supports a malignant diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10355,
+          10489
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "rare conditions, such as pyoderma gangrenosum, a neutrophilic dermatosis characterized by ulcerative skin lesions, must be considered."
+    },
+    {
+      "ranges": [
+        [
+          10490,
+          10617
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's history of hidradenitis suppurativa and the presence of neutrophilic dermatitis on biopsy support this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10619,
+          10788
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Other rare conditions, such as Sweet syndrome, characterized by acute febrile neutrophilic dermatosis, or Behçet's disease, a form of vasculitis, may also be considered."
+    },
+    {
+      "ranges": [
+        [
+          10789,
+          10945
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's symptoms and laboratory results also raise the possibility of a systemic vasculitis, such as Wegener's granulomatosis or polyarteritis nodosa."
+    },
+    {
+      "ranges": [
+        [
+          10946,
+          11104
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's response to treatment, including glucocorticoids and antibiotics, will also provide valuable information in establishing a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11105,
+          11309
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The use of cyclosporine and dapsone, medications commonly used to treat autoimmune and inflammatory conditions, suggests that the patient's healthcare providers are considering an immune-mediated process."
+    },
+    {
+      "ranges": [
+        [
+          11311,
+          11448
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's improvement with glucocorticoids and worsening with antibiotic therapy also support an inflammatory or autoimmune etiology."
+    },
+    {
+      "ranges": [
+        [
+          15917,
+          16065
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of neutrophilic dermatitis on biopsy and the patient's history of hidradenitis suppurativa support a diagnosis of pyoderma gangrenosum."
+    },
+    {
+      "ranges": [
+        [
+          11911,
+          12048
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's systemic symptoms, including weight loss, intermittent diarrhea, and microhematuria, suggest a multisystem disease process."
+    },
+    {
+      "ranges": [
+        [
+          11449,
+          11619
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "In terms of pathophysiologic mechanisms, the patient's condition may be related to an abnormal immune response, characterized by inflammation and autoantibody production."
+    },
+    {
+      "ranges": [
+        [
+          11620,
+          11699
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The presence of leukocytoclastic vasculitis on biopsy supports this hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          11700,
+          11909
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's history of hidradenitis suppurativa and the development of skin lesions following a perineal abscess may indicate a genetic or environmental predisposition to inflammatory or autoimmune diseases."
+    },
+    {
+      "ranges": [
+        [
+          11911,
+          12048
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's systemic symptoms, including weight loss, intermittent diarrhea, and microhematuria, suggest a multisystem disease process."
+    },
+    {
+      "ranges": [
+        [
+          9404,
+          9567
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of anemia, with low folate levels, and the patient's history of macrocytic anemia, may indicate a nutritional deficiency or a chronic disease process."
+    },
+    {
+      "ranges": [
+        [
+          12213,
+          12413
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's complex medical history, including diabetes mellitus, hypertension, hyperlipidemia, and chronic obstructive pulmonary disease, may also contribute to the development of the skin lesions."
+    },
+    {
+      "ranges": [
+        [
+          9791,
+          9939
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's history of smoking and the presence of bilateral leg edema may indicate a venous or arterial insufficiency component to the condition."
+    },
+    {
+      "ranges": [
+        [
+          12719,
+          12863
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "A thorough review of the patient's medical history, including the history of hidradenitis suppurativa and malignant melanoma, is also essential."
+    },
+    {
+      "ranges": [
+        [
+          10946,
+          11104
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's response to treatment, including glucocorticoids and antibiotics, will also provide valuable information in establishing a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          13023,
+          13143
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The leading diagnoses in this case include pyoderma gangrenosum, a systemic inflammatory disease, and a malignant cause."
+    },
+    {
+      "ranges": [
+        [
+          13145,
+          13310
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's response to glucocorticoids and the presence of leukocytoclastic vasculitis on biopsy support an inflammatory or autoimmune component to the condition."
+    },
+    {
+      "ranges": [
+        [
+          13311,
+          13442
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A malignant cause, such as a paraneoplastic syndrome or a cutaneous manifestation of an underlying cancer, must also be considered."
+    },
+    {
+      "ranges": [
+        [
+          13443,
+          13535
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Rare conditions, such as Sweet syndrome or Behçet's disease, may also be possible diagnoses."
+    }
+  ]
+}

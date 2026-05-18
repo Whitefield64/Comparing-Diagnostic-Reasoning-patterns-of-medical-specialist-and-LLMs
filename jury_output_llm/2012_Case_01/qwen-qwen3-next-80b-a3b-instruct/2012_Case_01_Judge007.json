@@ -1,0 +1,128 @@
+{
+  "case": "2012 Case 01__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T10:55:25.112513+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          19760,
+          19936
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely diagnosis is pyoderma gangrenosum, triggered by the patient’s underlying inflammatory burden, including hidradenitis suppurativa and possibly occult malignancy."
+    },
+    {
+      "ranges": [
+        [
+          20135,
+          20299
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The alternative diagnosis of Sweet’s syndrome with necrotizing features remains plausible, particularly if an underlying hematologic malignancy is later identified."
+    },
+    {
+      "ranges": [
+        [
+          10090,
+          10288
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of neutrophilic dermatitis, particularly in the context of recurrent abscesses and hidradenitis suppurativa, immediately raises the possibility of a neutrophilic dermatosis of the skin."
+    },
+    {
+      "ranges": [
+        [
+          9654,
+          9983
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of thrombocytopenia and a purpuric rash early in the course raises concern for a hematologic or vascular disorder, but the negative test for heparin-induced thrombocytopenia (HIT) makes heparin-induced immune-mediated thrombocytopenia unlikely as the primary driver, despite the prior use of subcutaneous heparin."
+    },
+    {
+      "ranges": [
+        [
+          9542,
+          9653
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The fact that the lesions worsened despite these therapies strongly argues against a simple bacterial etiology."
+    },
+    {
+      "ranges": [
+        [
+          9304,
+          9541
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The initial use of vancomycin and piperacillin-tazobactam, followed by linezolid and ciprofloxacin, would have covered the most likely bacterial pathogens associated with skin and soft tissue infections, especially in a diabetic patient."
+    },
+    {
+      "ranges": [
+        [
+          8321,
+          8565
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "We must consider primary dermatologic disorders, systemic inflammatory conditions, hematologic malignancies, drug reactions, and rare paraneoplastic syndromes, while carefully weighing the significance of his comorbidities and prior treatments."
+    },
+    {
+      "ranges": [
+        [
+          19937,
+          20134
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The clinical features—pathergy, necrotic ulcers with undermined borders, systemic inflammation, steroid responsiveness, and histopathological neutrophilic infiltrate without vasculitis—are classic."
+    },
+    {
+      "ranges": [
+        [
+          10387,
+          10611
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Sweet’s syndrome typically presents with tender, erythematous, plaque-like lesions, often on the upper extremities and face, associated with fever, leukocytosis, and a dense dermal neutrophilic infiltrate without vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          20637,
+          20760
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of renal involvement and elevated ferritin further supports a systemic inflammatory or paraneoplastic process."
+    },
+    {
+      "ranges": [
+        [
+          12558,
+          12743
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": " history of hidradenitis suppurativa—a condition now recognized as part of the same spectrum of neutrophilic dermatoses as PG—makes the diagnosis of PG even more plausible. The fact tha"
+    }
+  ]
+}

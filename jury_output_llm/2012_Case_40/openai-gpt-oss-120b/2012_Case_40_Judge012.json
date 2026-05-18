@@ -1,0 +1,29 @@
+{
+  "case": "2012 Case 40__openai-gpt-oss-120b.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T11:50:23.864195+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8281,
+          8413
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": " clinical picture includes **tachycardia, dyspnea, pleuritic chest pain, and hypoxemia**; severe cases may progress to cardiac arres"
+    },
+    {
+      "ranges": [
+        [
+          6521,
+          6616
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the primary problem is **obstructive shock** (acute RV outflow obstruction) rather than volume "
+    }
+  ]
+}

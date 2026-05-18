@@ -1,0 +1,62 @@
+{
+  "case": "2016 Case 03__openai-gpt-oss-120b.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T12:43:19.205543+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          37141,
+          37387
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnoses share three core attributes observed in this patient:\n\n1. **Episodic Pain with Autonomic Activation** – Both abdominal migraine and abdominal epilepsy produce autonomic signs (tachycardia, pallor, diaphoresis) during attacks"
+    },
+    {
+      "ranges": [
+        [
+          40007,
+          40233
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling explanations are **abdominal migraine** and **abdominal epilepsy**, both of which can produce the characteristic episodic pain and autonomic signs, and both are supported by family history and age of onset."
+    },
+    {
+      "ranges": [
+        [
+          34997,
+          35175
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The episodic nature, autonomic features (pallor, diaphoresis, tachycardia), family history of migraine, and partial response to amitriptyline collectively support this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          39366,
+          39468
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If EEG suggests epileptiform activity, agents such as levetiracetam or valproic acid may be initiated."
+    },
+    {
+      "ranges": [
+        [
+          39026,
+          39116
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Validated pediatric migraine scales (e.g., PedMIDAS) to quantify impact and guide therapy."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "case": "2016 Case 03__openai-gpt-oss-120b.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T12:45:29.778126+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          40007,
+          40232
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling explanations are **abdominal migraine** and **abdominal epilepsy**, both of which can produce the characteristic episodic pain and autonomic signs, and both are supported by family history and age of onset"
+    }
+  ]
+}

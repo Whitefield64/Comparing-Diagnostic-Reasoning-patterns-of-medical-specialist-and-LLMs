@@ -1,0 +1,139 @@
+{
+  "case": "2012 Case 17__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T11:16:22.484062+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          10321,
+          10498
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Considering all the above factors, the most likely diagnoses in this case would include primary brain tumors, given the presence of well-circumscribed, enhancing lesions on MRI."
+    },
+    {
+      "ranges": [
+        [
+          10499,
+          10731
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Among primary brain tumors, less aggressive types such as meningiomas or low-grade gliomas could be considered, given the patient's relatively slow progression of symptoms and the absence of significant mass effect or midline shift."
+    },
+    {
+      "ranges": [
+        [
+          9615,
+          9790
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's symptoms of visual-field loss and diplopia could be explained by the location of the lesions, which could be affecting the optic radiations or the visual cortex."
+    },
+    {
+      "ranges": [
+        [
+          11113,
+          11301
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of restricted diffusion within the enhancing portions of the lesions could suggest a higher grade of tumor, but this finding alone is not sufficient to conclude the diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11302,
+          11467
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Further diagnostic procedures, including biopsy or resection of the lesions, would be necessary to establish a definitive diagnosis and guide appropriate management."
+    },
+    {
+      "ranges": [
+        [
+          11468,
+          11760
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's clinical presentation and the imaging characteristics of the lesions will need to be correlated with the histopathological findings to determine the best course of treatment, which could include surgery, radiation therapy, or chemotherapy, depending on the tumor type and grade."
+    },
+    {
+      "ranges": [
+        [
+          10732,
+          10848
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Meningiomas are typically slow-growing and can present with focal neurological deficits depending on their location."
+    },
+    {
+      "ranges": [
+        [
+          9930,
+          10128
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "While this is an important consideration, the lack of a clear pattern of inheritance or other affected family members makes it less likely to be directly relevant to the patient's current condition."
+    },
+    {
+      "ranges": [
+        [
+          6236,
+          6527
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, the absence of systemic symptoms or findings suggestive of a primary cancer, along with normal laboratory tests and imaging of the chest, abdomen, and pelvis, makes this diagnosis less likely, though not impossible, as some primary cancers might not be detectable at an early stage."
+    },
+    {
+      "ranges": [
+        [
+          9792,
+          9929
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The family history of an uncle with an inoperable primary brain tumor raises the possibility of a genetic predisposition to brain tumors."
+    },
+    {
+      "ranges": [
+        [
+          10129,
+          10319
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Certain genetic syndromes, such as Li-Fraumeni syndrome, increase the risk of developing brain tumors, among other cancers, but the patient's family history does not suggest such a syndrome."
+    },
+    {
+      "ranges": [
+        [
+          8013,
+          8173
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's normal erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) levels, if obtained, would further argue against an inflammatory process."
+    }
+  ]
+}

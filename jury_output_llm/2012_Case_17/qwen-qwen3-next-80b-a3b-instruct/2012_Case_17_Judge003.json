@@ -1,0 +1,106 @@
+{
+  "case": "2012 Case 17__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T11:30:28.758189+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          15865,
+          15989
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnosis, integrating the imaging, clinical course, and exclusion of systemic disease, is glioblastoma."
+    },
+    {
+      "ranges": [
+        [
+          15990,
+          16200
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The two adjacent masses in the left occipital and posterior parietal regions, with heterogeneous enhancement, restricted diffusion, and transcallosal extension to the splenium, are highly characteristic of GBM."
+    },
+    {
+      "ranges": [
+        [
+          5402,
+          5582
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of restricted diffusion, heterogeneous enhancement, and splenial involvement raises critical concerns for neoplastic, infectious, inflammatory, or vascular etiologies."
+    },
+    {
+      "ranges": [
+        [
+          16201,
+          16361
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The rapid progression from transient visual symptoms to persistent quadrantanopia suggests a malignant infiltrative process with evolving edema and mass effect."
+    },
+    {
+      "ranges": [
+        [
+          5093,
+          5392
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of systemic symptoms such as headache, nausea, vomiting, seizures, weakness, or bowel/bladder dysfunction, coupled with normal systemic laboratory values and negative imaging of the chest, abdomen, and pelvis, strongly suggests a primary or isolated central nervous system (CNS) process."
+    },
+    {
+      "ranges": [
+        [
+          11068,
+          11283
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The fact that two distinct, adjacent lesions appeared simultaneously over days is more suggestive of a primary CNS process than metastatic seeding, which usually presents with multiple, randomly distributed lesions."
+    },
+    {
+      "ranges": [
+        [
+          4674,
+          5092
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The clinical presentation of this 54-year-old man—with acute, transient, then persistent visual-field loss, bilateral inferior quadrantanopia, dizziness, and two adjacent, heterogeneously enhancing, well-circumscribed intracranial masses with restricted diffusion and extensive perilesional white matter edema extending into the splenium of the corpus callosum—demands a meticulously structured differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          5686,
+          5764
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The most immediately concerning diagnostic category is primary CNS malignancy."
+    },
+    {
+      "ranges": [
+        [
+          16822,
+          17028
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "While PCNSL remains a strong differential, the bilateral, asymmetric, and heterogeneous nature of the lesions, along with the lack of homogeneous enhancement and the patient’s age, make GBM the most likely."
+    }
+  ]
+}

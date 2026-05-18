@@ -1,0 +1,117 @@
+{
+  "case": "2012 Case 01__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T10:56:17.763429+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          19760,
+          19936
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely diagnosis is pyoderma gangrenosum, triggered by the patient’s underlying inflammatory burden, including hidradenitis suppurativa and possibly occult malignancy."
+    },
+    {
+      "ranges": [
+        [
+          20135,
+          20299
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The alternative diagnosis of Sweet’s syndrome with necrotizing features remains plausible, particularly if an underlying hematologic malignancy is later identified."
+    },
+    {
+      "ranges": [
+        [
+          7667,
+          8022
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The evolution of his skin lesions—from a minor abrasion thought to be a dog bite, to hemorrhagic bullae, to diffuse purpuric and ulcerative plaques with necrosis extending to tendons—combined with histopathological findings of neutrophilic dermatitis, leukocytoclastic vasculitis, and sterile cultures, demands a broad and rigorous differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8023,
+          8320
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of infectious agents despite broad-spectrum antibiotic coverage, the lack of serologic markers for classic autoimmune diseases, and the transient response to high-dose corticosteroids and immunosuppressants all point toward a non-infectious, immune-mediated, or paraneoplastic process."
+    },
+    {
+      "ranges": [
+        [
+          8321,
+          8565
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "We must consider primary dermatologic disorders, systemic inflammatory conditions, hematologic malignancies, drug reactions, and rare paraneoplastic syndromes, while carefully weighing the significance of his comorbidities and prior treatments."
+    },
+    {
+      "ranges": [
+        [
+          19937,
+          20134
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The clinical features—pathergy, necrotic ulcers with undermined borders, systemic inflammation, steroid responsiveness, and histopathological neutrophilic infiltrate without vasculitis—are classic."
+    },
+    {
+      "ranges": [
+        [
+          10090,
+          10288
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of neutrophilic dermatitis, particularly in the context of recurrent abscesses and hidradenitis suppurativa, immediately raises the possibility of a neutrophilic dermatosis of the skin."
+    },
+    {
+      "ranges": [
+        [
+          20300,
+          20470
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The profound weight loss and cytopenias necessitate urgent investigation for myelodysplastic syndrome or lymphoma, even in the absence of definitive hematologic findings."
+    },
+    {
+      "ranges": [
+        [
+          19504,
+          19746
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The possibility of a novel or emerging autoimmune syndrome cannot be excluded, particularly given the overlap between hidradenitis suppurativa and other neutrophilic dermatoses, suggesting a shared underlying dysregulation of innate immunity."
+    },
+    {
+      "ranges": [
+        [
+          11317,
+          11536
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "It is possible that this represents a variant of Sweet’s syndrome with necrotizing features, sometimes termed “necrotizing neutrophilic dermatosis,” which has been described in association with hematologic malignancies."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "case": "2016 Case 03__openai-gpt-oss-120b.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T12:45:29.778635+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          40007,
+          40233
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling explanations are **abdominal migraine** and **abdominal epilepsy**, both of which can produce the characteristic episodic pain and autonomic signs, and both are supported by family history and age of onset."
+    },
+    {
+      "ranges": [
+        [
+          37141,
+          37387
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnoses share three core attributes observed in this patient:\n\n1. **Episodic Pain with Autonomic Activation** – Both abdominal migraine and abdominal epilepsy produce autonomic signs (tachycardia, pallor, diaphoresis) during attacks"
+    },
+    {
+      "ranges": [
+        [
+          39366,
+          39468
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If EEG suggests epileptiform activity, agents such as levetiracetam or valproic acid may be initiated."
+    },
+    {
+      "ranges": [
+        [
+          39124,
+          39320
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Trial of Migraine‑Targeted Therapy** – Acute abortive agents such as sumatriptan (nasal or subcutaneous) during an attack, or preventive agents (topiramate, cyproheptadine) if amitriptyline fails."
+    },
+    {
+      "ranges": [
+        [
+          37767,
+          37906
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the patient’s response to a proton pump inhibitor (partial) and the trial of amitriptyline, a central neuromodulatory component is evident."
+    },
+    {
+      "ranges": [
+        [
+          34997,
+          35175
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The episodic nature, autonomic features (pallor, diaphoresis, tachycardia), family history of migraine, and partial response to amitriptyline collectively support this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          36280,
+          36418
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "and autonomic symptoms may indicate an underlying autonomic instability that could amplify pain perception and trigger episodes of “fits.”"
+    },
+    {
+      "ranges": [
+        [
+          38512,
+          38626
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Electroencephalogram (EEG) with Video Monitoring** – Capturing an event would confirm or exclude abdominal epileps"
+    },
+    {
+      "ranges": [
+        [
+          38054,
+          38232
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The escalation of pain severity culminating in a three‑day, radiating episode raises concern for a possible “status migrainosus” (prolonged migraine attack) or a seizure cluster."
+    },
+    {
+      "ranges": [
+        [
+          35805,
+          35923
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The sudden “fits” with pallor, diaphoresis, and brief loss of posture are highly characteristic of autonomic seizures."
+    },
+    {
+      "ranges": [
+        [
+          37429,
+          37585
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The extensive work‑up (labs, imaging, endoscopy) failed to uncover an organic lesion, which is typical for functional and neuro‑gastroenterologic disorders."
+    },
+    {
+      "ranges": [
+        [
+          37907,
+          38053
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Amitriptyline is effective in both migraine prophylaxis and certain seizure disorders, which further blurs the line between the two possibilities."
+    }
+  ]
+}

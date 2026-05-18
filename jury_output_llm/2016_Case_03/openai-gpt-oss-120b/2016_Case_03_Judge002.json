@@ -1,0 +1,62 @@
+{
+  "case": "2016 Case 03__openai-gpt-oss-120b.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-18T12:41:43.893600+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          40007,
+          40233
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling explanations are **abdominal migraine** and **abdominal epilepsy**, both of which can produce the characteristic episodic pain and autonomic signs, and both are supported by family history and age of onset."
+    },
+    {
+      "ranges": [
+        [
+          10967,
+          11089
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "abdominal migraine remains a strong contender, particularly given the neurologic referral and initiation of amitriptyline."
+    },
+    {
+      "ranges": [
+        [
+          12276,
+          12410
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Functional dyspepsia remains plausible but less convincing than abdominal migraine for explaining the neuro‑vegetative manifestations."
+    },
+    {
+      "ranges": [
+        [
+          14802,
+          14932
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "FAPS remains a broad umbrella that may encompass the patient’s presentation if no more specific functional disorder is identified."
+    },
+    {
+      "ranges": [
+        [
+          31311,
+          31430
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Migraine spectrum disorders remain high on the differential, particularly given the family history and autonomic signs."
+    }
+  ]
+}

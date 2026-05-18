@@ -1,0 +1,40 @@
+{
+  "case": "2015 Case 40__openai-gpt-oss-120b.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-18T12:17:55.876869+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          15555,
+          15644
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "he **most plausible explanation** is **hypertensive encephalopathy** possibly evolving in"
+    },
+    {
+      "ranges": [
+        [
+          19970,
+          20071
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "balance of evidence** points toward a **primary psychotic disorder—most consistent with schizophrenia"
+    },
+    {
+      "ranges": [
+        [
+          7388,
+          7569
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "presence of a severe headache in the setting of markedly elevated BP** raises the possibility of **hypertensive encephalopathy** or **posterior reversible encephalopathy syndrome (P"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "case": "2012 Case 40__openai-gpt-oss-120b.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T11:43:15.724191+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3201,
+          3453
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The abrupt cardiovascular collapse of a 43‑year‑old gravida at 36 weeks + 4 days, occurring **20 minutes after delivery of a healthy neonate** and during closure of the abdominal fascia, is a classic presentation of a **catastrophic peripartum event**."
+    },
+    {
+      "ranges": [
+        [
+          4512,
+          4781
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Amniotic fluid embolism, historically called “anaphylactoid syndrome of pregnancy,” is a rare but fulminant disorder in which **amniotic‑derived debris (fetal squamous cells, mucin, lanugo hair, vernix, meconium, and debris) enters the maternal pulmonary circulation**."
+    },
+    {
+      "ranges": [
+        [
+          7389,
+          7726
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the **classic timing**, **rapid progression**, and **hemodynamic pattern**, AFE ranks as the **most likely diagnosis** and will be treated as the leading hypothesis pending confirmatory investigations (e.g., presence of fetal squamous cells in pulmonary microvasculature on autopsy, elevated serum tryptase, or rapid development of DIC)."
+    },
+    {
+      "ranges": [
+        [
+          32640,
+          32785
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A high spinal would have manifested **immediately** after injection, with **loss of motor and sensory function**, **hypotension**, and **apnea**."
+    }
+  ]
+}

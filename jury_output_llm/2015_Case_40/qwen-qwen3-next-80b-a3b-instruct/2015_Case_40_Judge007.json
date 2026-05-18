@@ -1,0 +1,249 @@
+{
+  "case": "2015 Case 40__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T12:26:29.849404+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6520,
+          6714
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate concern is the hypertensive emergency, defined by severe elevation in blood pressure (systolic >180 mm Hg and/or diastolic >120 mm Hg) with evidence of acute end-organ damage."
+    },
+    {
+      "ranges": [
+        [
+          7201,
+          7418
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "PRES is a critical diagnosis to consider in patients with acute severe hypertension and headache, particularly in the setting of psychiatric illness, chronic stress, and possible electrolyte or metabolic derangements."
+    },
+    {
+      "ranges": [
+        [
+          8362,
+          8498
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another critical consideration is pheochromocytoma, a catecholamine-secreting tumor of the adrenal medulla or extra-adrenal paraganglia."
+    },
+    {
+      "ranges": [
+        [
+          10431,
+          10481
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Renovascular hypertension must also be considered."
+    },
+    {
+      "ranges": [
+        [
+          11291,
+          11456
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory causes of renal artery stenosis, such as fibromuscular dysplasia, are more common in younger women and can present with severe, refractory hypertension."
+    },
+    {
+      "ranges": [
+        [
+          12025,
+          12099
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another important category is systemic autoimmune or vasculitic disorders."
+    },
+    {
+      "ranges": [
+        [
+          13763,
+          13946
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious causes of hypertension and psychosis are less common but must be considered, especially in a patient with a history of injection drug use (even if denied) and poor hygiene."
+    },
+    {
+      "ranges": [
+        [
+          13947,
+          14126
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Neurosyphilis remains a critical consideration in any patient with unexplained psychiatric symptoms, headache, and hypertension, particularly in those with limited access to care."
+    },
+    {
+      "ranges": [
+        [
+          14875,
+          14992
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another infectious consideration is endocarditis, particularly in the context of her history of intravenous drug use."
+    },
+    {
+      "ranges": [
+        [
+          16016,
+          16142
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Hypertensive encephalopathy, while often used synonymously with PRES, deserves specific mention as a distinct clinical entity."
+    },
+    {
+      "ranges": [
+        [
+          16721,
+          16806
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A less common but important consideration is cerebral venous sinus thrombosis (CVST)."
+    },
+    {
+      "ranges": [
+        [
+          17586,
+          17738
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Lastly, we must consider the possibility that her psychosis and hypertension are both manifestations of an underlying metabolic or toxic encephalopathy."
+    },
+    {
+      "ranges": [
+        [
+          6128,
+          6359
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of focal neurologic deficits, normal head CT without contrast, normal cardiac biomarkers, and lack of evidence for acute end-organ damage on initial labs complicates the picture but does not eliminate serious diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          8154,
+          8360
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The fact that her blood pressure responded dramatically to labetalol and captopril supports a diagnosis of hypertensive crisis, and PRES remains a plausible, though unconfirmed, contributor to her headache."
+    },
+    {
+      "ranges": [
+        [
+          10852,
+          10979
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The dramatic response to ACE inhibition with captopril and subsequent lisinopril is consistent with RAAS-mediated hypertension."
+    },
+    {
+      "ranges": [
+        [
+          10989,
+          11152
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the absence of a bruit over the renal arteries, normal serum creatinine, and lack of hypokalemia or metabolic alkalosis make this less likely as the primary cause."
+    },
+    {
+      "ranges": [
+        [
+          15407,
+          15684
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of fever, murmur progression, or positive blood cultures makes this less likely, but not impossible—culture-negative endocarditis, particularly due to fastidious organisms like *Bartonella* or *HACEK* organisms, can present with neurologic and psychiatric symptoms."
+    },
+    {
+      "ranges": [
+        [
+          6360,
+          6518
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The resolution of headache and blood pressure with antihypertensive therapy is reassuring but does not elucidate the root cause of the hypertensive emergency."
+    },
+    {
+      "ranges": [
+        [
+          16513,
+          16719
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that her mental status remained “cooperative” and “euthymic” despite disorganized thought process may reflect the masking effect of her chronic psychosis rather than true absence of encephalopathy."
+    },
+    {
+      "ranges": [
+        [
+          19203,
+          19564
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the presence of a long-standing psychotic illness with grandiose and paranoid features, combined with the acute hypertensive crisis and the lack of definitive diagnostic workup, leaves open the possibility of an underlying organic etiology—particularly pheochromocytoma or neurosyphilis—that may have been misattributed to psychiatric illness for over a decade."
+    },
+    {
+      "ranges": [
+        [
+          5724,
+          6127
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The constellation of symptoms—acute hypertensive crisis, headache, psychosis, chronic poor self-care, and multiple somatic comorbidities—demands a broad and nuanced differential diagnosis that considers both primary neurological, cardiovascular, and systemic etiologies, as well as the interplay between chronic psychiatric illness, socioeconomic deprivation, and potential underlying organic pathology."
+    },
+    {
+      "ranges": [
+        [
+          19832,
+          20010
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The body does not lie: severe hypertension and acute headache in a young woman require rigorous exclusion of life-threatening, treatable, and often overlooked organic etiologies."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "case": "2012 Case 01__openai-gpt-oss-120b.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T10:52:47.488655+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8358,
+          8607
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis must address three broad categories: (1) **Infectious processes**, (2) **Immune‑mediated or drug‑related inflammatory disorders**, and (3) **Systemic diseases that can manifest with neutrophilic dermatoses or vasculitis**."
+    },
+    {
+      "ranges": [
+        [
+          10252,
+          10452
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A primary bacterial cellulitis or necrotizing fasciitis is **unlikely** to be the primary driver of the ongoing ulcerations, though a superimposed bacterial colonisation cannot be completely excluded."
+    },
+    {
+      "ranges": [
+        [
+          35851,
+          35902
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient meets several major and minor criteria."
+    },
+    {
+      "ranges": [
+        [
+          22094,
+          22233
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "While a paraneoplastic immune‑complex vasculitis cannot be entirely excluded, it is **less favored** compared with neutrophilic dermatoses."
+    },
+    {
+      "ranges": [
+        [
+          24738,
+          24997
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The constellation of clinical findings (painful violaceous ulcerative plaques, pathergy, neutrophilic histology, partial steroid response) and the patient’s comorbidities (HS, possible IBD, anemia of chronic disease) make PG the most parsimonious explanation."
+    },
+    {
+      "ranges": [
+        [
+          10454,
+          10591
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The lack of response to broad‑spectrum antibiotics and the sterile cultures shift the focus away from a conventional bacterial infection."
+    }
+  ]
+}

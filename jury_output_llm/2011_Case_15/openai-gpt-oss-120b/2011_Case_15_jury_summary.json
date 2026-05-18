@@ -1,0 +1,328 @@
+{
+  "case": "2011 Case 15__openai-gpt-oss-120b.md",
+  "exported_at": "2026-05-18T10:29:20.979607+00:00",
+  "n_voters": 15,
+  "n_successful": 14,
+  "n_failed": 1,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not applicable here but the process of considering each major diagnostic category in depth, with emphasis on epidemiology, pathophysiology, typical clinical features, laboratory considerations, and concordance or discordance with the findings in this patient is an example of causal reasoning"
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation is not applicable here but considering each major diagnostic category in depth, with emphasis on epidemiology, pathophysiology, typical clinical features, laboratory considerations, and concordance or discordance with the findings in this patient is an example of hierarchical reasoning"
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not applicable here but the process of reviewing whether all data fit the working diagnosis is an example of validation"
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis is not applicable here but the ulcer’s morphology (undermined, pink) is highly consistent with HSV ulceration"
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the combination of clinical picture and epidemiology makes a co-infection scenario the most plausible explanation"
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients is not applicable here but given the high prevalence of HIV and HSV in this demographic, the overlap of systemic and mucocutaneous findings, and the limitations of the rapid HIV test performed early, the most plausible single diagnosis is primary genital HSV-2 infection occurring in the context of acute HIV seroconversion"
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not applicable here but the patient’s age and sexual exposure increase the pre-test probability for HIV and HSV far above EBV/CMV as a cause of genital ulceration"
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "The coincidence of a painful genital ulcer and a preceding systemic prodrome raises the possibility of acute HIV infection or primary genital herpes simplex virus type 2 (HSV-2) infection."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the ulcer were syphilitic, one would expect a rapid clinical response to benzathine penicillin G, yet the case description does not comment on ulcer improvement after therapy."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of a painful genital ulcer with undermined edges, preceded by a systemic prodrome, is typical of primary genital HSV-2 infection."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The clinical picture is consistent with previously reported cases of acute HIV seroconversion and primary genital HSV-2 infection."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is not relevant here, but the use of rapid plasma reagin (RPR) test and fourth‑generation antigen/antibody combination assay are examples of applying diagnostic protocols."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but prioritizing HIV and HSV infections due to their high prevalence and the patient’s symptoms is an example of prioritizing life-threatening diagnoses."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not relevant here, but the assessment of the patient’s symptoms and test results to determine the likelihood of each diagnosis is an example of validating a diagnosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of systemic prodrome followed by a painful genital ulcer is typical of an acute viral infection, such as primary HIV infection or primary genital herpes."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant here, but the clinician’s suspicion of HIV or HSV infection based on the patient’s symptoms and risk factors is an example of using intuition."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not relevant here, but the consideration of similar cases or patient profiles to inform the diagnosis is an example of using case-based reasoning."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present but  The leading working diagnosis is acute HIV infection (seroconversion) with a concurrent primary genital HSV‑2 ulcer."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not present but The patient’s age and sexual exposure increase the pre‑test probability for HIV and HSV far above EBV/CMV as a cause of genital ulceration."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present but the clinician thinks the most plausible single diagnosis is **primary genital HSV‑2 infection occurring in the context of acute HIV seroconversion** (co‑infection)."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is not relevant here, but the diagnostic approach involves considering various STIs and their typical presentations."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but the approach involves first considering life-threatening and common conditions such as HIV and syphilis before moving to less common ones like chancroid or LGV."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not directly relevant, but the process of validating the diagnosis involves checking the coherence of all data with the working diagnosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of systemic prodrome followed by a painful genital ulcer is typical of several conditions but most closely aligns with primary genital HSV-2 infection and acute HIV seroconversion."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant here, but the clinician’s intuition based on experience and the specific details of the case points towards a viral etiology, particularly given the patient’s demographic and symptoms."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery, the epidemiology of HIV and HSV in South Africa, together with the patient’s unprotected sexual exposure, makes a co-infection scenario the most plausible explanation for the entire clinical picture, adjusting the probability of each diagnosis based on new evidence."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but more relevant here is the consideration of similar cases of co-infection with HIV and HSV in the literature, which supports the proposed diagnosis."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The ulcer is painful, has undermined borders, and lacks induration—features that are atypical for a chancre."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is not relevant here, but the use of a fourth-generation antigen/antibody combination assay (detecting p24 antigen) is more sensitive in the window period for HIV diagnosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but prioritizing life-threatening diagnoses first, such as acute HIV infection, is crucial."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not directly relevant, but the patient’s clinical presentation and test results validate the diagnosis of acute HIV infection with a superimposed primary genital HSV-2 ulcer."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of systemic prodrome followed by a painful genital ulcer is typical of primary genital HSV-2 infection and also consistent with acute HIV seroconversion."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant here, but the clinician’s intuition that the patient’s symptoms and test results are consistent with acute HIV infection and primary genital HSV-2 infection is a reasonable conclusion."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery, the patient’s age, sexual exposure, and clinical presentation increase the pre-test probability for HIV and HSV far above other diagnoses, such as EBV/CMV."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but the patient’s clinical presentation is more consistent with acute HIV infection and primary genital HSV-2 infection."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries is not directly relevant, but the patient’s symptoms and test results suggest that the underlying pathophysiological mechanism is related to immune dysregulation and viral replication."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the clinician’s intuition is that the patient has a high probability of acute HIV infection and primary genital HSV-2 infection."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not applicable here but the clinician is considering a case-based approach to diagnose the patient."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, instead: The **most plausible single diagnosis** is **primary genital HSV‑2 infection occurring in the context of acute HIV seroconversion** (co‑infection)."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not applicable here, instead: The patient’s age and sexual exposure increase the pre‑test probability for HIV and HSV far above EBV/CMV as a cause of genital ulceration."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present, instead the painful genital ulcer appeared on the left labium majus."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of systemic prodrome, generalized lymphadenopathy, and painful genital ulcer is typical of an acute viral infection, most notably primary HIV infection or primary genital herpes."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant here, instead the combination of acute HIV and HSV best explains all the clinical findings."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but are not relevant to this patient’s presentation."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of systemic prodrome (headache, fatigue, sore throat, anorexia) followed by a painful genital ulcer is highly suggestive of an acute viral infection, such as primary HIV or HSV-2."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The ulcer’s morphology, pain, and rapid evolution are highly characteristic of primary genital HSV-2 infection, and the negative RPR further reduces the likelihood of early syphilis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The clinical picture aligns closely with that of primary genital HSV-2 infection, and the patient’s age and sexual exposure increase the pre-test probability for HIV and HSV far above EBV/CMV as a cause of genital ulceration."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The presence of a painful genital ulcer with undermined edges, generalized lymphadenopathy, and a mononucleosis-like prodrome suggests an infectious etiology, such as acute HIV or primary HSV-2."
+        }
+      ]
+    }
+  ]
+}

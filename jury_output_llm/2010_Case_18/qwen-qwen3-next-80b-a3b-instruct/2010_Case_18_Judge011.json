@@ -1,0 +1,161 @@
+{
+  "case": "2010 Case 18__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T10:12:20.529953+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6642,
+          6721
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate consideration is **nonadherence to antiretroviral therapy**."
+    },
+    {
+      "ranges": [
+        [
+          6367,
+          6640
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential must account for both common and uncommon causes of ART failure in pediatric HIV, particularly in a resource-limited setting with a history of prior tuberculosis (TB) and BCG vaccination, which introduces additional diagnostic and therapeutic complexities."
+    },
+    {
+      "ranges": [
+        [
+          7132,
+          7320
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the mother had not previously received formal ART training suggests potential gaps in understanding of the necessity of strict daily dosing, especially with complex regimens."
+    },
+    {
+      "ranges": [
+        [
+          7958,
+          8087
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The persistence of detectable viremia despite this switch suggests either pre-existing resistance or ongoing suboptimal exposure."
+    },
+    {
+      "ranges": [
+        [
+          8433,
+          8562
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The patient was diagnosed at age 5, after a severe pneumonia and presumed TB episode, suggesting prolonged undiagnosed infection."
+    },
+    {
+      "ranges": [
+        [
+          12186,
+          12309
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The granulomas described could represent BCG-lymphadenitis with secondary necrosis, rather than Mycobacterium tuberculosis."
+    },
+    {
+      "ranges": [
+        [
+          7703,
+          7957
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the prior regimen contained a nucleoside reverse transcriptase inhibitor (NRTI) backbone with low genetic barrier to resistance (e.g., lamivudine monotherapy or suboptimal dosing), resistance mutations may have already been selected before the switch."
+    },
+    {
+      "ranges": [
+        [
+          8783,
+          9008
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The most common resistance mutations in children exposed to NRTIs are M184V (conferring high-level resistance to lamivudine and emtricitabine) and K70R or thymidine analog mutations (TAMs) conferring resistance to zidovudine."
+    },
+    {
+      "ranges": [
+        [
+          13463,
+          13536
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The possibility of **another chronic infection** must also be considered."
+    },
+    {
+      "ranges": [
+        [
+          9210,
+          9594
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that his viral load remained elevated after switching to a boosted protease inhibitor suggests that the protease inhibitor component may also be compromised—either due to pre-existing protease mutations (e.g., M46I, I54V, V82A) or, more likely, due to the presence of multiple resistance mutations across drug classes that reduce the overall efficacy of even potent regimens."
+    },
+    {
+      "ranges": [
+        [
+          15815,
+          16079
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "resentation of recurrent infections, wasting, and failure to suppress HIV despite ART raises the possibility of a primary immunodeficiency, such as severe combined immunodeficiency (SCID) or a disorder of T-cell signaling (e.g., ZAP-70 deficiency, CD3 deficiency)."
+    },
+    {
+      "ranges": [
+        [
+          17472,
+          17839
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "s child is a combination of **pre-existing drug resistance** (likely to NRTIs, possibly to protease inhibitors) compounded by **suboptimal pharmacokinetics due to malnutrition and prior rifampin exposure**, with possible **persistent immune activation from unresolved or misdiagnosed mycobacterial infection** (BCG vs. TB). The regimen change to lopinavir–ritonavir w"
+    },
+    {
+      "ranges": [
+        [
+          15600,
+          15700
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The fact that viral load remains elevated suggests ongoing replication, not just blips from latency."
+    },
+    {
+      "ranges": [
+        [
+          18850,
+          19021
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case is a stark reminder that in pediatric HIV, virologic failure is rarely due to a single cause—it is a multifactorial failure of biology, pharmacology, and system."
+    }
+  ]
+}

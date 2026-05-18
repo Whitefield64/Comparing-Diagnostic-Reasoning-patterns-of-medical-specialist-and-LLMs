@@ -1,0 +1,128 @@
+{
+  "case": "2012 Case 17__openai-gpt-oss-120b.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T11:29:31.359720+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4661,
+          4980
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical picture of a previously healthy 54‑year‑old man who develops an acute, then sub‑acute, right inferior quadrantanopia associated with two adjacent, well‑circumscribed, heterogeneously enhancing lesions in the left occipital‑parietal region forces consideration of a broad spectrum of intracranial processes."
+    },
+    {
+      "ranges": [
+        [
+          5553,
+          5760
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The discussion proceeds from the most common and plausible entities to rarer but still credible alternatives, culminating in an assessment of the most likely diagnosis(s) and suggestions for further work‑up."
+    },
+    {
+      "ranges": [
+        [
+          32714,
+          32978
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "*strongest concordance** exists between the imaging phenotype of the lesions (well‑circumscribed, heterogeneously enhancing, diffusion‑restricted, extending along white‑matter tracts) and the radiographic textbook description of **tumefactive demyelinating lesions"
+    },
+    {
+      "ranges": [
+        [
+          34323,
+          34424
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s age, rapid symptom progression, and diffusion restriction also fit a high‑grade glioma."
+    },
+    {
+      "ranges": [
+        [
+          36289,
+          36479
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If non‑invasive studies remain inconclusive, a targeted biopsy of the larger occipital lesion would provide definitive histopathology, distinguishing neoplastic from demyelinating pathology."
+    },
+    {
+      "ranges": [
+        [
+          36096,
+          36244
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "High FDG uptake in the brain lesions would be more typical of lymphoma or high‑grade glioma, whereas demyelinating lesions often show modest uptake."
+    },
+    {
+      "ranges": [
+        [
+          32989,
+          33164
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "absence of a detectable systemic primary tumor**, together with **modest edema** and **lack of severe mass effect**, further weakens the metastatic and high‑grade glioma hypot"
+    },
+    {
+      "ranges": [
+        [
+          34704,
+          34802
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "ale*: The diffusion restriction and corpus callosum involvement are characteristic of PCNSL.  Howe"
+    },
+    {
+      "ranges": [
+        [
+          33750,
+          33933
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "ted edema), the extension of signal abnormality along the splenium, and the clinical presentation limited to a visual field defect are hallmarks of tumefactive demyelination.  The pat"
+    },
+    {
+      "ranges": [
+        [
+          33926,
+          34088
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s age, while slightly older than the classic MS cohort, does not exclude this diagnosis; tumefactive lesions are known to present in the fifth decade."
+    },
+    {
+      "ranges": [
+        [
+          34941,
+          35044
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "These three entities together account for **>90 %** of the diagnostic probability in this clinical cont"
+    }
+  ]
+}

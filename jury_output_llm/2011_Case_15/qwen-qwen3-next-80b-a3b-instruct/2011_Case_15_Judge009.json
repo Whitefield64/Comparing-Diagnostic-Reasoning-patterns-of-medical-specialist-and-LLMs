@@ -1,0 +1,117 @@
+{
+  "case": "2011 Case 15__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T10:32:46.370858+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          15926,
+          16054
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are **acute HIV infection**, **primary HSV-2 infection**, and **lymphogranuloma venereum**."
+    },
+    {
+      "ranges": [
+        [
+          16509,
+          16677
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most parsimonious explanation is **acute HIV infection with superimposed HSV-2 reactivation**, as both can explain the prodrome, the ulcer, and the lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          3922,
+          4419
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The sequence—vaginal discharge followed by systemic symptoms (headache, fatigue, sore throat, anorexia), resolution of those symptoms with development of a characteristic genital ulcer, and the presence of generalized lymphadenopathy—demands a broad differential that spans infectious, autoimmune, and neoplastic etiologies, with particular attention to pathogens known to cause mucocutaneous ulceration and systemic prodromes in young, sexually active individuals in high-HIV-prevalence settings."
+    },
+    {
+      "ranges": [
+        [
+          4420,
+          4608
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The negative HIV rapid tests, while reassuring, do not exclude acute HIV infection, particularly given the window period and the limitations of finger-stick assays in early seroconversion."
+    },
+    {
+      "ranges": [
+        [
+          4996,
+          5249
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The timeline is highly suggestive: the onset of systemic symptoms 5–7 days after the initial vaginal discharge aligns with the typical incubation period of HIV, during which viremia peaks and the immune system mounts a vigorous, often flu-like response."
+    },
+    {
+      "ranges": [
+        [
+          10319,
+          10531
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The fact that the patient had not been sexually active since the initial visit makes HSV reactivation from prior exposure more plausible than a new acquisition, though primary HSV can occur with minimal exposure."
+    },
+    {
+      "ranges": [
+        [
+          8337,
+          8543
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The administration of penicillin G benzathine was appropriate empiric therapy, and the fact that the ulcer resolved without further intervention supports a bacterial etiology, but does not confirm syphilis."
+    },
+    {
+      "ranges": [
+        [
+          16678,
+          16844
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s history of unprotected sex with a partner who refused condoms, the absence of prior STIs, and the high HIV prevalence in KwaZulu-Natal all support this."
+    },
+    {
+      "ranges": [
+        [
+          17153,
+          17390
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The case underscores the critical importance of performing HIV RNA PCR or fourth-generation antigen/antibody tests in patients with acute febrile illness and genital ulcers in high-prevalence settings, even when rapid tests are negative."
+    },
+    {
+      "ranges": [
+        [
+          16055,
+          16272
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Each fits key elements of the clinical picture: the timing of systemic symptoms preceding the ulcer, the presence of generalized lymphadenopathy, the response to broad-spectrum antibiotics, and the geographic context."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "case": "2015 Case 40__openai-gpt-oss-120b.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T12:20:38.395628+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23033,
+          23101
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s BP spikes are dramatic; headache is a classic symptom."
+    },
+    {
+      "ranges": [
+        [
+          33138,
+          33347
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The temporal relationship between the severe BP surge, the acute frontal headache, and rapid symptom resolution after BP reduction makes this the most compelling explanation for the acute neurologic complaint."
+    },
+    {
+      "ranges": [
+        [
+          19626,
+          19730
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Severe BP exceeds cerebral autoregulation → diffuse cerebral edema, leading to confusion, hallucinations"
+    },
+    {
+      "ranges": [
+        [
+          18380,
+          18427
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Hormonal excess alters neurotransmitter balance"
+    },
+    {
+      "ranges": [
+        [
+          18999,
+          19051
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Direct viral neurotoxicity, opportunistic infections"
+    },
+    {
+      "ranges": [
+        [
+          19264,
+          19358
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Deficits cause neuropsychiatric syndromes (Wernicke’s encephalopathy, megaloblastic psychosis)"
+    }
+  ]
+}

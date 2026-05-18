@@ -1,0 +1,337 @@
+{
+  "case": "2015 Case 01__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T11:57:58.647026+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7977,
+          8120
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Firstly, considering the patient's history of breast cancer and the findings on imaging, the most likely diagnosis is metastatic breast cancer."
+    },
+    {
+      "ranges": [
+        [
+          8121,
+          8336
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of enlarged internal mammary lymph nodes, which are a common site for breast cancer metastasis, especially in medially located primary tumors or those with lymphatic invasion, supports this possibility."
+    },
+    {
+      "ranges": [
+        [
+          8558,
+          8766
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the patient had completed adjuvant endocrine therapy 7 months prior to presentation and had a history of extensive lymphatic invasion in the primary tumor increases the likelihood of recurrence."
+    },
+    {
+      "ranges": [
+        [
+          8768,
+          8899
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another consideration, although less likely given the cytologic findings, is the possibility of metastasis from her prior melanoma."
+    },
+    {
+      "ranges": [
+        [
+          8337,
+          8557
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The cytologic examination of a biopsy specimen from one of these lymph nodes showed clusters of malignant cells with features similar to her prior breast carcinoma, further supporting the diagnosis of metastatic disease."
+    },
+    {
+      "ranges": [
+        [
+          12751,
+          12933
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The possibility of metastasis from her prior melanoma, although less likely, should also be considered and could be further evaluated with additional diagnostic testing if necessary."
+    },
+    {
+      "ranges": [
+        [
+          9383,
+          9552
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "In addition to these malignant possibilities, it is also important to consider benign causes for the enlarged lymph nodes, such as reactive lymphadenopathy or infection."
+    },
+    {
+      "ranges": [
+        [
+          9553,
+          9653
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, given the patient's history and the cytologic findings, these are less likely explanations."
+    },
+    {
+      "ranges": [
+        [
+          10035,
+          10228
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The indeterminate pulmonary nodules seen on CT of the chest could represent metastatic disease from the breast cancer, although their small size (4 to 5 mm in diameter) makes this less certain."
+    },
+    {
+      "ranges": [
+        [
+          10229,
+          10348
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Other possibilities for these nodules include benign lesions such as granulomas or hamartomas, or primary lung lesions."
+    },
+    {
+      "ranges": [
+        [
+          10349,
+          10591
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the patient's history of smoking (20 pack-years), primary lung cancer is also a consideration, although the small size of the nodules and the lack of other symptoms or findings suggestive of lung cancer make this less likely at present."
+    },
+    {
+      "ranges": [
+        [
+          11078,
+          11195
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": " her history of osteopenia may increase her risk for skeletal metastases, which are common in breast cancer. Although"
+    },
+    {
+      "ranges": [
+        [
+          11187,
+          11348
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Although her bone scan was negative, this does not entirely rule out the possibility of skeletal metastases, as small lesions may not be detectable on bone scan."
+    },
+    {
+      "ranges": [
+        [
+          11515,
+          11712
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Sarcoidosis, for example, could cause lymphadenopathy and pulmonary nodules, but there are no other findings suggestive of this disease, such as skin lesions, eye involvement, or systemic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          11969,
+          12078
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Lymphoma is another possibility that could explain the lymphadenopathy and potentially the pulmonary nodules."
+    },
+    {
+      "ranges": [
+        [
+          12079,
+          12212
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, there are no other findings suggestive of lymphoma, such as systemic symptoms, hepatosplenomegaly, or abnormal blood counts."
+    },
+    {
+      "ranges": [
+        [
+          12213,
+          12349
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's complete blood count was normal, which makes lymphoma less likely, although it does not entirely rule out the possibility."
+    },
+    {
+      "ranges": [
+        [
+          12351,
+          12561
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the information available, the leading diagnosis is metastatic breast cancer, with the development of internal mammary lymph node metastases being the most likely explanation for her current presentation."
+    },
+    {
+      "ranges": [
+        [
+          12751,
+          12933
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The possibility of metastasis from her prior melanoma, although less likely, should also be considered and could be further evaluated with additional diagnostic testing if necessary."
+    },
+    {
+      "ranges": [
+        [
+          12562,
+          12750
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of indeterminate pulmonary nodules requires further evaluation, which could include positron emission tomography (PET) scan, biopsy, or close surveillance with repeat imaging."
+    },
+    {
+      "ranges": [
+        [
+          12935,
+          13048
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The next steps in management would depend on confirmation of the diagnosis and staging of any metastatic disease."
+    },
+    {
+      "ranges": [
+        [
+          13049,
+          13306
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "For metastatic breast cancer, treatment options could include systemic therapy such as chemotherapy, hormone therapy (given her tumor's ER positivity), or targeted therapy, depending on the extent of disease and the patient's overall health and preferences."
+    },
+    {
+      "ranges": [
+        [
+          13307,
+          13416
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Localized treatment options, such as radiation therapy to the involved lymph nodes, could also be considered."
+    },
+    {
+      "ranges": [
+        [
+          13417,
+          13581
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Given the complexity of her case and the need for multidisciplinary care, referral to a medical oncologist and possibly a radiation oncologist would be appropriate."
+    },
+    {
+      "ranges": [
+        [
+          13583,
+          13839
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "In conclusion, while there are several possibilities to consider in the differential diagnosis of this patient's presentation, metastatic breast cancer is the most likely explanation, given her history and the findings on imaging and cytologic examination."
+    },
+    {
+      "ranges": [
+        [
+          13840,
+          13953
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Further evaluation and staging are necessary to determine the extent of disease and to guide treatment decisions."
+    },
+    {
+      "ranges": [
+        [
+          13954,
+          14124
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This will likely involve a combination of imaging studies, such as PET scan or MRI, and potentially additional biopsy or fine-needle aspiration for cytologic examination."
+    },
+    {
+      "ranges": [
+        [
+          14125,
+          14259
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's overall health, preferences, and goals of care should also be taken into consideration when developing a treatment plan."
+    },
+    {
+      "ranges": [
+        [
+          14261,
+          14423
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "It is also important to consider the potential impact of metastatic disease on the patient's quality of life and to address any symptoms or concerns she may have."
+    },
+    {
+      "ranges": [
+        [
+          14424,
+          14563
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This may involve referral to supportive care services, such as palliative care or social work, to provide additional support and resources."
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "case": "2012 Case 40__openai-gpt-oss-120b.md",
+  "exported_at": "2026-05-18T11:50:23.868295+00:00",
+  "n_voters": 15,
+  "n_successful": 9,
+  "n_failed": 6,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 0,
+      "n_unresolved": 9,
+      "unresolved": [
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis, which is relatively common, with an incidence of approximately 10 cases per 100,000 persons, but given the clinical picture, Amniotic Fluid Embolism (AFE) ranks as the most likely diagnosis and will be treated as the leading hypothesis pending confirmatory investigations."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction, but in this case, the pathophysiologic rationale for AFE includes the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries, leading to a massive, non-immune inflammatory cascade."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If AFE is true, we would expect to see rapid progression from stable hemodynamics to PEA within minutes, which is consistent with the presentation, and the absence of prior tachycardia or overt bleeding suggests a non-hemorrhagic primary cause."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis, but in this case, the diagnosis of AFE is primarily clinical, and management must proceed without waiting for confirmatory tests, following a protocol that includes airway protection, aggressive circulatory support, and correction of coagulopathy."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of sudden onset after placental removal, rapid progression to PEA, and absence of prior tachycardia or overt bleeding matches the classic presentation of AFE, which is a catastrophic peripartum event."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery, the presentation of AFE, with its high mortality rate, suggests that the probability of this diagnosis is higher given the clinical findings, and the absence of typical ECG changes for MI or SCAD further supports this conclusion."
+        },
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "AFE remains the most widely accepted explanation for the presentation of sudden hypotension, bradycardia, severe hypoxemia, chest pain, and PEA in the immediate postpartum period, especially after placental delivery, making it the leading diagnosis pending further confirmation."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The clinical picture, including the timing, hypoxemia, and bradycardia, is consistent with AFE, and the absence of other findings, such as typical ECG changes for MI or evidence of hemorrhage, rules out other diagnoses, validating AFE as the most likely cause."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is AFE, given the sudden onset and the combination of hypotension, bradycardia, and severe hypoxemia, which, although troubling, fits the pattern of this catastrophic peripartum event."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 1,
+      "n_unresolved": 10,
+      "unresolved": [
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis, which is the most likely diagnosis given the clinical presentation."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction, which can be caused by a variety of factors including AFE."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If AFE is the diagnosis, we would expect to see hypoxemia, hypotension, and bradycardia, which are all present in this case."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnosis of AFE can be made using a combination of clinical criteria, including the presence of hypoxemia, hypotension, and bradycardia, as well as laboratory findings such as elevated D-dimer and decreased fibrinogen."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out other causes of cardiac arrest, such as massive PE or anaphylaxis, before considering AFE as the primary diagnosis."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The clinical presentation of hypoxemia, hypotension, and bradycardia is consistent with AFE, and the absence of other clear causes of cardiac arrest supports this diagnosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of hypoxemia, hypotension, and bradycardia immediately after delivery is typical of AFE."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is AFE, given the clinical presentation and the absence of other clear causes of cardiac arrest."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although the probability of AFE is difficult to quantify, the presence of hypoxemia, hypotension, and bradycardia immediately after delivery makes it the most likely diagnosis, with a probability of greater than 50%."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of AFE that presented with hypoxemia, hypotension, and bradycardia immediately after delivery, which supports the diagnosis in this case."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had a massive pulmonary thromboembolism, we would expect to see **tachycardia, dyspnea, pleuritic chest pain, and hypoxemia**; severe cases may progress to cardiac arrest, most often presenting as **PEA**."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis, but in this case, we need to consider **obstetric causes** first, given the **temporal association with placental removal**."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, but in this case, we must first consider **obstetric emergencies** such as amniotic fluid embolism, given the **immediate postpartum timing** and **hemodynamic instability**."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but in this case, **the clinical picture is more consistent with AFE**."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of **sudden onset of hypotension, bradycardia, severe hypoxemia**, chest pain, and PEA is **typical of amniotic fluid embolism**."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is **amniotic fluid embolism**, given the **classic presentation** and **absence of other clear causes**."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of amniotic fluid embolism involve **hypotension, hypoxemia, and cardiac arrest**, the presence of **bradycardia** and **severe hypoxemia** in this case **raises the probability** of AFE."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of amniotic fluid embolism that presented with **sudden cardiovascular collapse** and **hypoxemia**, which was successfully managed with **aggressive circulatory support** and **coagulopathy correction**."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had a massive pulmonary thromboembolism, we would expect to see signs of obstructive shock, such as hypotension and hypoxemia, which are present in this case."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, but this does not apply to the current case."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, which typically includes abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced, but this is not relevant to the current case."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but this is not directly applicable to the current scenario."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of sudden onset of hypotension, bradycardia, and hypoxemia after placental delivery is typical of an amniotic fluid embolism."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, but this does not apply to the current case; instead, the intuition here is that AFE is the most likely diagnosis given the clinical presentation."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients, but this is not directly relevant to the current case; the relevant probability here is that AFE is more likely given the immediate postpartum timing and clinical findings."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, but this is not applicable to the current scenario; instead, the case-based reasoning here involves recognizing the pattern of AFE in the context of immediate postpartum collapse."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had experienced a massive pulmonary thromboembolism, we would expect to see signs of deep vein thrombosis, such as calf swelling or pain, which were not reported."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The patient’s presentation with sudden onset of hypotension, bradycardia, and hypoxemia, in the context of a recent cesarean delivery, suggests a catastrophic peripartum event, and the differential diagnosis should be guided by a systematic approach to identifying the underlying cause."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "Given the patient’s clinical presentation, the first priority should be to rule out life-threatening conditions such as amniotic fluid embolism, massive pulmonary thromboembolism, and obstetric hemorrhage, as these conditions require immediate intervention."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of sudden onset of hypotension, bradycardia, and hypoxemia, in the context of a recent cesarean delivery, is highly suggestive of amniotic fluid embolism, which is a classic presentation of this condition."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amniotic fluid embolism, given the patient’s presentation and the temporal association with placental removal."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although the patient’s risk factors for venous thromboembolism are present, the probability of a massive pulmonary thromboembolism is lower than that of amniotic fluid embolism, given the patient’s clinical presentation and the timing of the event."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "In my experience with similar cases, the presentation of sudden onset of hypotension, bradycardia, and hypoxemia, in the context of a recent cesarean delivery, is highly suggestive of amniotic fluid embolism, and this diagnosis should be considered as the primary cause of the patient’s condition."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 8,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 9,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 10,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 11,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 10,
+      "unresolved": [
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis is not present, however, the text  \"Amniotic Fluid Embolism (AFE) ranks as the most likely diagnosis\" can be annotated as"
+        },
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "Amniotic Fluid Embolism (AFE) ranks as the most likely diagnosis"
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If AFE is true, then finding of a large, solitary mass within the right lobe of the liver is not present, however, the text \"The most common disease involving both the large and small vessels is atherosclerosis\" is not present, the text \"The clinical picture includes tachycardia, dyspnea, pleuritic chest pain, and hypoxemia; severe cases may progress to cardiac arrest\" can be annotated as"
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis is not present, however the text does not explicitly mention a diagnostic criteria, the text can be annotated with a different label"
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present, however the text \"the primary problem is obstructive shock (acute RV outflow obstruction) rather than volume loss\" can be annotated as"
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients is not present, however the text does not contain a clear example of Bayesian reasoning, the text can be annotated with a different label"
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis is not present, however the text \"the clinical picture is consistent with AFE, which typically presents with rapidly progressive hypotension and hypoxemia\" can be annotated as"
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "the clinical picture is consistent with AFE, which typically presents with rapidly progressive hypotension and hypoxemia"
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not present, however the text \"The patient’s presentation is most consistent with AFE, given the temporal relationship to placental delivery, the hemodynamic profile, and the lack of other clear etiologies\" can be annotated as"
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient’s presentation is most consistent with AFE, given the temporal relationship to placental delivery, the hemodynamic profile, and the lack of other clear etiologies"
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 0,
+      "n_unresolved": 11,
+      "unresolved": [
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis, but in this case, the abrupt cardiovascular collapse of a 43‑year‑old gravida at 36 weeks + 4 days, occurring 20 minutes after delivery of a healthy neonate and during closure of the abdominal fascia, is a classic presentation of a catastrophic peripartum event."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction, but here, the process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries, leading to amniotic fluid embolism."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If amniotic fluid embolism is the diagnosis, we would expect to see a temporal relationship between the event and placental delivery, sudden onset of hypotension, bradycardia, and hypoxia, which is consistent with the patient's presentation."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, but in this case, we must follow the obstetric guidelines for postpartum hemorrhage and amniotic fluid embolism."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out the most life-threatening diagnoses, such as amniotic fluid embolism, pulmonary thromboembolism, and obstetric hemorrhage, before considering less likely causes like anesthetic complications or cardiac events."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis, but in this case, the presentation is more consistent with amniotic fluid embolism, which is a catastrophic peripartum event."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is amniotic fluid embolism, although I am troubled by the absence of overt bleeding and the delayed timing of the event."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of amniotic fluid embolism involve the temporal association with placental delivery, the presence of severe hypoxemia and bradycardia in this case raises the probability of this diagnosis, despite the absence of some typical features."
+        },
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "The clinical picture is dominated by cardiopulmonary collapse, which is consistent with amniotic fluid embolism, but we must also consider other diagnoses like pulmonary thromboembolism and obstetric hemorrhage."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but do not exclude amniotic fluid embolism."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with amniotic fluid embolism may have a catastrophic reaction after high-dose corticosteroid therapy is begun, which is similar to the patient's presentation in this case."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 0,
+      "n_unresolved": 11,
+      "unresolved": [
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis, which is the most likely diagnosis given the patient's presentation."
+        },
+        {
+          "label_name": "ABD_SELECTIVE",
+          "text": "Amniotic Fluid Embolism (AFE) ranks as the most likely diagnosis and will be treated as the leading hypothesis pending confirmatory investigations."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction, which could be caused by a catastrophic peripartum event such as Amniotic Fluid Embolism (AFE)."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had a pulmonary thromboembolism, we would expect to see tachycardia, dyspnea, pleuritic chest pain, and hypoxemia, but the observed bradycardia is atypical for isolated embolic obstruction."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, which helps to narrow down the differential diagnosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out the most dangerous explanations, such as aortic dissection or pulmonary embolism, before considering other diagnoses like Amniotic Fluid Embolism (AFE)."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, which supports the diagnosis of Amniotic Fluid Embolism (AFE)."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of sudden onset of hypotension, bradycardia, severe hypoxemia, chest pain, and cardiac arrest with pulseless electrical activity (PEA) is typical of an Amniotic Fluid Embolism (AFE)."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary Amniotic Fluid Embolism (AFE), although I am troubled by the absence of documented DIC at the moment of arrest."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of Amniotic Fluid Embolism (AFE) involve the temporal association with placental removal, the presence of bradycardic PEA, hypoxemia, and lack of overt bleeding in this case raises the probability of AFE to be the most likely diagnosis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of Amniotic Fluid Embolism (AFE) that presented with sudden cardiac arrest and hypoxemia after placental removal, which reminds me of the importance of considering AFE in the differential diagnosis of peripartum cardiac arrest."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 12,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "Since the lesions are seen on both the diffusion-weighted and fluid-attenuated inversion-recovery images, we know that the age of the lesions is greater than about 12 hours. The lesions vary in signal intensity, indicating that the time of onset of individual lesions probably varied."
+        }
+      ]
+    }
+  ]
+}

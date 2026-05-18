@@ -1,0 +1,117 @@
+{
+  "case": "2015 Case 40__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T12:16:16.871392+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5694,
+          5899
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of psychosis and the presence of disorganized speech and thought content, it is essential to consider psychiatric causes, including exacerbations of her known psychotic illness."
+    },
+    {
+      "ranges": [
+        [
+          6826,
+          7022
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's psychotic symptoms could be attributed to various psychiatric conditions, including schizophrenia, schizoaffective disorder, or a psychotic disorder due to another medical condition."
+    },
+    {
+      "ranges": [
+        [
+          7500,
+          7605
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The severe headache and marked hypertension could be indicative of several organic or medical conditions."
+    },
+    {
+      "ranges": [
+        [
+          7606,
+          7880
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Hypertensive emergencies, such as hypertensive encephalopathy or posterior reversible encephalopathy syndrome (PRES), could present with severe headache and hypertension, although the lack of visual symptoms, seizures, or focal neurological deficits makes these less likely."
+    },
+    {
+      "ranges": [
+        [
+          11385,
+          11519
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "he normal renal function tests and electrolyte levels, including calcium and phosphorus, do not support these diagnoses at this time.\n"
+    },
+    {
+      "ranges": [
+        [
+          10481,
+          10819
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's history of traumatic brain injury could be relevant, especially given her attribution of her impairments to this event. However, the normal CT scan of the head and the lack of specific neurological deficits or symptoms suggestive of a structural brain lesion make this a less likely explanation for her current presentation."
+    },
+    {
+      "ranges": [
+        [
+          13504,
+          13737
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the patient's presentation suggests a range of potential underlying causes, an exacerbation of her chronic psychotic illness, coupled with uncontrolled hypertension, appears to be the most likely explanation for her current symptoms."
+    },
+    {
+      "ranges": [
+        [
+          14187,
+          14328
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's social situation and living conditions also need to be addressed, as they are likely contributing to her overall health status."
+    },
+    {
+      "ranges": [
+        [
+          13003,
+          13211
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The management of her blood pressure with intravenous labetalol and oral captopril, along with the administration of other supportive medications, is appropriate and has led to an improvement in her symptoms."
+    },
+    {
+      "ranges": [
+        [
+          14329,
+          14530
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of living on the streets and her current residence in a homeless shelter suggest a need for social services and support to help her obtain stable housing and access to healthcare."
+    }
+  ]
+}

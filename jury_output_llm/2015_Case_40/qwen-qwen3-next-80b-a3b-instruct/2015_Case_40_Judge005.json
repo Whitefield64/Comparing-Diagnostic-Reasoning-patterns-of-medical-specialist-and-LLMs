@@ -1,0 +1,183 @@
+{
+  "case": "2015 Case 40__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T12:22:58.601594+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          18718,
+          18935
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) hypertensive emergency with PRES, (2) pheochromocytoma, (3) neurosyphilis, (4) systemic vasculitis (particularly PACNS or NPSLE), and (5) cerebral venous sinus thrombosis."
+    },
+    {
+      "ranges": [
+        [
+          6128,
+          6359
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of focal neurologic deficits, normal head CT without contrast, normal cardiac biomarkers, and lack of evidence for acute end-organ damage on initial labs complicates the picture but does not eliminate serious diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          6360,
+          6518
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The resolution of headache and blood pressure with antihypertensive therapy is reassuring but does not elucidate the root cause of the hypertensive emergency."
+    },
+    {
+      "ranges": [
+        [
+          8154,
+          8360
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that her blood pressure responded dramatically to labetalol and captopril supports a diagnosis of hypertensive crisis, and PRES remains a plausible, though unconfirmed, contributor to her headache."
+    },
+    {
+      "ranges": [
+        [
+          8499,
+          8767
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Pheochromocytoma classically presents with paroxysmal hypertension, headache, palpitations, and diaphoresis, but in many cases, particularly in atypical or chronic presentations, symptoms can be insidious and mistaken for anxiety, psychosis, or essential hypertension."
+    },
+    {
+      "ranges": [
+        [
+          8772,
+          8911
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": " patient’s history of episodic hypertension (from 180/110 to 240/130), headache, and a long-standing psychiatric illness raises concern. Th"
+    },
+    {
+      "ranges": [
+        [
+          8909,
+          9075
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of classic triad symptoms—palpitations, sweating, pallor—is not reassuring, as up to 30% of patients with pheochromocytoma present without the full triad."
+    },
+    {
+      "ranges": [
+        [
+          9076,
+          9188
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The fact that she reported a history of being injected with an unknown substance in the past is highly relevant."
+    },
+    {
+      "ranges": [
+        [
+          9291,
+          9636
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Pheochromocytoma can be associated with hereditary syndromes such as multiple endocrine neoplasia type 2 (MEN2), von Hippel-Lindau disease, or neurofibromatosis type 1, but the patient’s unknown family history and lack of other stigmata (e.g., cutaneous neurofibromas, retinal hemangioblastomas, medullary thyroid cancer) make these less likely."
+    },
+    {
+      "ranges": [
+        [
+          10431,
+          10481
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Renovascular hypertension must also be considered."
+    },
+    {
+      "ranges": [
+        [
+          10482,
+          10595
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient’s obesity, chronic hypertension, and age place her at risk for atherosclerotic renal artery stenosis."
+    },
+    {
+      "ranges": [
+        [
+          10852,
+          10979
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The dramatic response to ACE inhibition with captopril and subsequent lisinopril is consistent with RAAS-mediated hypertension."
+    },
+    {
+      "ranges": [
+        [
+          12180,
+          12351
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "ation of severe hypertension, headache, and psychosis can be the presenting manifestation of central nervous system vasculitis or systemic lupus erythematosus (SLE). Prima"
+    },
+    {
+      "ranges": [
+        [
+          13408,
+          13600
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The chronic nature of her psychosis, combined with the acute hypertensive episode, could reflect a flare of underlying autoimmune disease affecting the kidneys (lupus nephritis) and the brain."
+    },
+    {
+      "ranges": [
+        [
+          15407,
+          15684
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The absence of fever, murmur progression, or positive blood cultures makes this less likely, but not impossible—culture-negative endocarditis, particularly due to fastidious organisms like *Bartonella* or *HACEK* organisms, can present with neurologic and psychiatric symptoms."
+    },
+    {
+      "ranges": [
+        [
+          19686,
+          19831
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case underscores the critical importance of not attributing all symptoms in a patient with chronic psychosis to their psychiatric diagnosis."
+    }
+  ]
+}

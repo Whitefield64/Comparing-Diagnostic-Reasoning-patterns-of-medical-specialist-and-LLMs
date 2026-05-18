@@ -1,0 +1,73 @@
+{
+  "case": "2016 Case 15__openai-gpt-oss-120b.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T13:04:00.745327+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          29350,
+          29631
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The balance of probabilities heavily favors a **low‑grade diffuse glioma**, most plausibly an **oligodendroglioma (WHO grade II, IDH‑mutant, 1p/19q‑codeleted)**, with the caveat that the leptomeningeal nodules may represent early tumor spread or a coincident inflammatory response."
+    },
+    {
+      "ranges": [
+        [
+          29692,
+          29832
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "High‑grade gliomas** would be expected to demonstrate marked perfusion elevation, elevated choline, and a more aggressive clinical trajector"
+    },
+    {
+      "ranges": [
+        [
+          4827,
+          5041
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The discussion is organized into several headings that reflect the principal disease groups that must be considered in a patient with a solitary, partially enhancing intracranial mass and leptomeningeal nodularity."
+    },
+    {
+      "ranges": [
+        [
+          30084,
+          30172
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The normal spectroscopy and lack of diffusion data (presumably normal) argue against it."
+    },
+    {
+      "ranges": [
+        [
+          6178,
+          6366
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s age, the indolent one‑year evolution, the modest FLAIR signal, and the essentially normal MR spectroscopy (low choline elevation) are compatible with a low‑grade astrocytoma."
+    },
+    {
+      "ranges": [
+        [
+          32257,
+          32520
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the high index of suspicion for a low‑grade glioma with possible leptomeningeal spread, the next steps should aim to (1) obtain tissue for definitive histopathology and molecular profiling, and (2) assess the CSF for malignant cells or inflammatory markers."
+    }
+  ]
+}

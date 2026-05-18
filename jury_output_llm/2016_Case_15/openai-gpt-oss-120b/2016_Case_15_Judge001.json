@@ -1,0 +1,40 @@
+{
+  "case": "2016 Case 15__openai-gpt-oss-120b.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T13:02:12.015496+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          29350,
+          29631
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The balance of probabilities heavily favors a **low‑grade diffuse glioma**, most plausibly an **oligodendroglioma (WHO grade II, IDH‑mutant, 1p/19q‑codeleted)**, with the caveat that the leptomeningeal nodules may represent early tumor spread or a coincident inflammatory response."
+    },
+    {
+      "ranges": [
+        [
+          14569,
+          14818
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most plausible primary neoplasm is a low‑grade diffuse glioma, particularly an IDH‑mutant, 1p/19q‑codeleted oligodendroglioma, given the patient’s age, relatively subtle imaging features, seizure phenotype, and the pattern of modest enhancement."
+    },
+    {
+      "ranges": [
+        [
+          4129,
+          4382
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": " The imaging characteristics—irregular, nodular enhancement, modest surrounding FLAIR hyper‑signal, essentially normal multivoxel MR spectroscopy, and unhelpful perfusion studies—provide important clues that must be integrated with the clinical timeline"
+    }
+  ]
+}

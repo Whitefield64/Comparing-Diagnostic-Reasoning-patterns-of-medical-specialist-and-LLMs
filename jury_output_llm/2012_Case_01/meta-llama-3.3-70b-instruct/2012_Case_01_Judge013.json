@@ -1,0 +1,216 @@
+{
+  "case": "2012 Case 01__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T10:43:13.247340+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7127,
+          7494
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with persistent ulcers on the hands, accompanied by a complex medical history and multiple systemic symptoms, poses a significant diagnostic challenge. To approach this case, it is essential to consider a broad range of potential causes, including malignant, infectious, inflammatory, structural, gynecologic, systemic, and rare conditions."
+    },
+    {
+      "ranges": [
+        [
+          7495,
+          7652
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Initially, the patient's history of hidradenitis suppurativa and the development of skin lesions following a perineal abscess suggest an infectious etiology."
+    },
+    {
+      "ranges": [
+        [
+          8131,
+          8316
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of leukocytoclastic vasculitis on biopsy, characterized by inflammation of small blood vessels, suggests an autoimmune or inflammatory component to the patient's condition."
+    },
+    {
+      "ranges": [
+        [
+          8506,
+          8600
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's response to glucocorticoids, with partial improvement, supports this hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          8928,
+          9129
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of rheumatoid factor and negative tests for hepatitis A, B, and C viruses, antiphospholipid antibodies, and lupus anticoagulant argue against common autoimmune and rheumatologic conditions."
+    },
+    {
+      "ranges": [
+        [
+          9130,
+          9266
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's laboratory results, including an elevated ferritin level and low serum iron, suggest an inflammatory or malignant process."
+    },
+    {
+      "ranges": [
+        [
+          9941,
+          10103
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "A malignant cause for the patient's skin lesions, such as a paraneoplastic syndrome or a cutaneous manifestation of an underlying cancer, must also be considered."
+    },
+    {
+      "ranges": [
+        [
+          15917,
+          16065
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of neutrophilic dermatitis on biopsy and the patient's history of hidradenitis suppurativa support a diagnosis of pyoderma gangrenosum."
+    },
+    {
+      "ranges": [
+        [
+          11311,
+          11448
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's improvement with glucocorticoids and worsening with antibiotic therapy also support an inflammatory or autoimmune etiology."
+    },
+    {
+      "ranges": [
+        [
+          11105,
+          11309
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The use of cyclosporine and dapsone, medications commonly used to treat autoimmune and inflammatory conditions, suggests that the patient's healthcare providers are considering an immune-mediated process."
+    },
+    {
+      "ranges": [
+        [
+          9791,
+          9939
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of smoking and the presence of bilateral leg edema may indicate a venous or arterial insufficiency component to the condition."
+    },
+    {
+      "ranges": [
+        [
+          13023,
+          13143
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnoses in this case include pyoderma gangrenosum, a systemic inflammatory disease, and a malignant cause."
+    },
+    {
+      "ranges": [
+        [
+          10946,
+          11104
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's response to treatment, including glucocorticoids and antibiotics, will also provide valuable information in establishing a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          14195,
+          14324
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's condition may be related to an abnormal immune response, characterized by inflammation and autoantibody production."
+    },
+    {
+      "ranges": [
+        [
+          11620,
+          11699
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of leukocytoclastic vasculitis on biopsy supports this hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          11911,
+          12048
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's systemic symptoms, including weight loss, intermittent diarrhea, and microhematuria, suggest a multisystem disease process."
+    },
+    {
+      "ranges": [
+        [
+          12213,
+          12413
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's complex medical history, including diabetes mellitus, hypertension, hyperlipidemia, and chronic obstructive pulmonary disease, may also contribute to the development of the skin lesions."
+    },
+    {
+      "ranges": [
+        [
+          11700,
+          11909
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's history of hidradenitis suppurativa and the development of skin lesions following a perineal abscess may indicate a genetic or environmental predisposition to inflammatory or autoimmune diseases."
+    },
+    {
+      "ranges": [
+        [
+          12719,
+          12863
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "A thorough review of the patient's medical history, including the history of hidradenitis suppurativa and malignant melanoma, is also essential."
+    }
+  ]
+}

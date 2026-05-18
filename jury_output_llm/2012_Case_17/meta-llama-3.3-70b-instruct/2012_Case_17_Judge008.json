@@ -1,0 +1,227 @@
+{
+  "case": "2012 Case 17__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T11:16:22.486033+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4668,
+          4924
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with transient visual-field loss and a mass in the brain, as demonstrated by magnetic resonance imaging (MRI), suggests a complex neurologic condition with potential implications for vision, cognition, and overall brain function."
+    },
+    {
+      "ranges": [
+        [
+          5319,
+          5461
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Primary brain tumors, such as gliomas (including glioblastoma), meningiomas, and primitive neuroectodermal tumors (PNETs), must be considered."
+    },
+    {
+      "ranges": [
+        [
+          5586,
+          5768
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient's relatively slow progression of symptoms and the well-circumscribed nature of the lesions might suggest a less aggressive tumor type or a different diagnosis altogether."
+    },
+    {
+      "ranges": [
+        [
+          6002,
+          6114
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Metastatic brain tumors are another consideration, given the patient's age and the presence of multiple lesions."
+    },
+    {
+      "ranges": [
+        [
+          6236,
+          6527
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the absence of systemic symptoms or findings suggestive of a primary cancer, along with normal laboratory tests and imaging of the chest, abdomen, and pelvis, makes this diagnosis less likely, though not impossible, as some primary cancers might not be detectable at an early stage."
+    },
+    {
+      "ranges": [
+        [
+          6813,
+          6992
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious causes, such as brain abscesses or parasitic infections (e.g., toxoplasmosis, particularly in immunocompromised patients), could present with mass lesions in the brain."
+    },
+    {
+      "ranges": [
+        [
+          6993,
+          7122
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the patient's immunocompetent status, lack of fever, and normal white blood cell count make these diagnoses less likely."
+    },
+    {
+      "ranges": [
+        [
+          7475,
+          7629
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory and demyelinating diseases, such as multiple sclerosis (MS), could potentially cause lesions in the brain that might mimic tumors on imaging."
+    },
+    {
+      "ranges": [
+        [
+          7630,
+          7772
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "MS typically presents with more disseminated lesions in time and space, and the patient's symptoms and lesion location are not typical for MS."
+    },
+    {
+      "ranges": [
+        [
+          8013,
+          8173
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's normal erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) levels, if obtained, would further argue against an inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          8175,
+          8361
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Structural causes, including arteriovenous malformations (AVMs) or cavernous malformations, might present with mass-like lesions on imaging, especially if there has been recent bleeding."
+    },
+    {
+      "ranges": [
+        [
+          8362,
+          8483
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the MRI characteristics described do not suggest these diagnoses, and there is no history of trauma or bleeding."
+    },
+    {
+      "ranges": [
+        [
+          8736,
+          8920
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Systemic diseases with neurological manifestations, such as neurofibromatosis type 1 or 2, tuberous sclerosis, or von Hippel-Lindau disease, could potentially explain the brain masses."
+    },
+    {
+      "ranges": [
+        [
+          8921,
+          9059
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the patient's age, lack of other systemic symptoms, and absence of a significant family history make these diagnoses less likely."
+    },
+    {
+      "ranges": [
+        [
+          9615,
+          9790
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's symptoms of visual-field loss and diplopia could be explained by the location of the lesions, which could be affecting the optic radiations or the visual cortex."
+    },
+    {
+      "ranges": [
+        [
+          9491,
+          9614
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the presence of distinct masses on MRI points towards a more localized process rather than a diffuse or vascular condition."
+    },
+    {
+      "ranges": [
+        [
+          10321,
+          10498
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Considering all the above factors, the most likely diagnoses in this case would include primary brain tumors, given the presence of well-circumscribed, enhancing lesions on MRI."
+    },
+    {
+      "ranges": [
+        [
+          10499,
+          10731
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Among primary brain tumors, less aggressive types such as meningiomas or low-grade gliomas could be considered, given the patient's relatively slow progression of symptoms and the absence of significant mass effect or midline shift."
+    },
+    {
+      "ranges": [
+        [
+          11113,
+          11301
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of restricted diffusion within the enhancing portions of the lesions could suggest a higher grade of tumor, but this finding alone is not sufficient to conclude the diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11302,
+          11467
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Further diagnostic procedures, including biopsy or resection of the lesions, would be necessary to establish a definitive diagnosis and guide appropriate management."
+    }
+  ]
+}

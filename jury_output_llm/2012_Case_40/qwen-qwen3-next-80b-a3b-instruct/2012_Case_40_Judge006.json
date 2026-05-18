@@ -1,0 +1,106 @@
+{
+  "case": "2012 Case 40__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T11:52:57.744751+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4316,
+          4779
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnostic considerations fall into four major categories: obstetric emergencies (particularly amniotic fluid embolism and postpartum hemorrhage with coagulopathy), cardiovascular catastrophes (including peripartum cardiomyopathy, pulmonary embolism, and myocardial infarction), systemic metabolic or toxic insults (such as eclampsia, pheochromocytoma, or anesthetic toxicity), and rare but devastating conditions like maternal sepsis or air embolism."
+    },
+    {
+      "ranges": [
+        [
+          5861,
+          6286
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The abrupt onset of chest pain, cyanosis, and respiratory arrest followed by cardiovascular collapse aligns with the proposed pathophysiology: amniotic fluid components trigger a profound inflammatory cascade, pulmonary vasoconstriction, right heart failure, and systemic release of vasoactive mediators, leading to acute pulmonary hypertension, left ventricular dysfunction, and disseminated intravascular coagulation (DIC)."
+    },
+    {
+      "ranges": [
+        [
+          4906,
+          4989
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Amniotic fluid embolism (AFE) remains the most compelling and urgent consideration."
+    },
+    {
+      "ranges": [
+        [
+          5414,
+          5716
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of placenta previa, with its associated abnormal placental architecture and potential for placental sinus rupture, creates a direct anatomical pathway for amniotic fluid, fetal squames, lanugo, or other debris to enter the maternal circulation via open venous sinuses in the placental bed."
+    },
+    {
+      "ranges": [
+        [
+          7775,
+          7992
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the placenta was abnormally adherent, incomplete removal or uterine atony due to overdistension or prolonged labor could lead to concealed retroplacental hemorrhage or uterine rupture with intraperitoneal bleeding."
+    },
+    {
+      "ranges": [
+        [
+          8141,
+          8385
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The hypotension and bradycardia could reflect profound hypovolemia with compensatory vagal activation, leading to reflex bradycardia—a phenomenon well-documented in hypovolemic shock, particularly in pregnant women due to heightened vagal tone."
+    },
+    {
+      "ranges": [
+        [
+          8771,
+          8938
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The key differentiator from AFE is that PPH typically presents with more gradual hemodynamic deterioration, and the bradycardia is less common unless vagally mediated."
+    },
+    {
+      "ranges": [
+        [
+          9503,
+          9721
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": " risk. The sudden onset of hypoxemia, hypotension, chest pain, and PEA is classic for massive PE. However, the absence of prior dyspnea, leg swelling, or risk factors such as prolonged immobility makes this less likely"
+    },
+    {
+      "ranges": [
+        [
+          15236,
+          15451
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In summary, the differential diagnosis centers on three primary entities: amniotic fluid embolism, massive postpartum hemorrhage (particularly from placenta accreta or uterine atony), and massive pulmonary embolism."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "case": "2015 Case 01__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T11:57:58.647430+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7536,
+          7819
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given her history of invasive ductal carcinoma of the breast, which was estrogen receptor (ER)-positive, minimally progesterone receptor (PR)-positive, and human epidermal growth factor receptor 2 (HER2)-negative, the primary concern is recurrence or metastasis of her breast cancer."
+    },
+    {
+      "ranges": [
+        [
+          7977,
+          8120
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Firstly, considering the patient's history of breast cancer and the findings on imaging, the most likely diagnosis is metastatic breast cancer."
+    },
+    {
+      "ranges": [
+        [
+          8121,
+          8336
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of enlarged internal mammary lymph nodes, which are a common site for breast cancer metastasis, especially in medially located primary tumors or those with lymphatic invasion, supports this possibility."
+    },
+    {
+      "ranges": [
+        [
+          8558,
+          8766
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the patient had completed adjuvant endocrine therapy 7 months prior to presentation and had a history of extensive lymphatic invasion in the primary tumor increases the likelihood of recurrence."
+    },
+    {
+      "ranges": [
+        [
+          8768,
+          8899
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another consideration, although less likely given the cytologic findings, is the possibility of metastasis from her prior melanoma."
+    },
+    {
+      "ranges": [
+        [
+          8337,
+          8557
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The cytologic examination of a biopsy specimen from one of these lymph nodes showed clusters of malignant cells with features similar to her prior breast carcinoma, further supporting the diagnosis of metastatic disease."
+    },
+    {
+      "ranges": [
+        [
+          9654,
+          9779
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Reactive lymphadenopathy could occur in response to various stimuli, including infection, autoimmune disease, or vaccination."
+    },
+    {
+      "ranges": [
+        [
+          9870,
+          10033
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Infection is also a possibility, although there are no other symptoms or findings suggestive of an infectious process, such as fever, night sweats, or weight loss."
+    },
+    {
+      "ranges": [
+        [
+          9789,
+          9869
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the presence of malignant cells on cytologic examination makes this less likely."
+    },
+    {
+      "ranges": [
+        [
+          10035,
+          10228
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The indeterminate pulmonary nodules seen on CT of the chest could represent metastatic disease from the breast cancer, although their small size (4 to 5 mm in diameter) makes this less certain."
+    },
+    {
+      "ranges": [
+        [
+          9553,
+          9653
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, given the patient's history and the cytologic findings, these are less likely explanations."
+    },
+    {
+      "ranges": [
+        [
+          10580,
+          10734
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "at present. The patient's history of smoking does increase her risk for lung cancer, and any pulmonary nodules in a smoker should be thoroughly evaluated."
+    },
+    {
+      "ranges": [
+        [
+          11515,
+          11712
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Sarcoidosis, for example, could cause lymphadenopathy and pulmonary nodules, but there are no other findings suggestive of this disease, such as skin lesions, eye involvement, or systemic symptoms."
+    }
+  ]
+}

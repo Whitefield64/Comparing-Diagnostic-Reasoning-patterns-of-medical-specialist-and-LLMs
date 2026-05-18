@@ -1,0 +1,106 @@
+{
+  "case": "2011 Case 15__openai-gpt-oss-120b.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T10:29:20.978919+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4688,
+          5252
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The case raises several diagnostic possibilities that must be considered in parallel: (1) an acute viral infection (most notably primary HIV infection or primary genital herpes), (2) a bacterial STI with atypical presentation (primary syphilis, chancroid, lymphogranuloma venereum, granuloma inguinale), (3) a non‑infectious inflammatory or autoimmune condition (Behçet disease, aphthous ulcer disease, trauma), and (4) systemic infections that can produce both a genital discharge and a later ulcer (e.g., disseminated CMV, EBV, or other opportunistic pathogens)."
+    },
+    {
+      "ranges": [
+        [
+          25962,
+          26109
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the **most plausible single diagnosis** is **primary genital HSV‑2 infection occurring in the context of acute HIV seroconversion** (co‑infection)."
+    },
+    {
+      "ranges": [
+        [
+          20990,
+          21178
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The systemic prodrome aligns with EBV/CMV, but the **absence of fever** (temperature 36 °C) and the later appearance of a **painful genital ulcer** make these entities **less convincing**."
+    },
+    {
+      "ranges": [
+        [
+          10572,
+          10723
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the ulcer were syphilitic, one would expect a rapid clinical response, yet the case description does not comment on ulcer improvement after therapy."
+    },
+    {
+      "ranges": [
+        [
+          3934,
+          4112
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Empiric therapy for bacterial sexually transmitted infections (STIs) (doxycycline, metronidazole, ceftriaxone) was given, yet the systemic symptoms persisted for another 13 days."
+    },
+    {
+      "ranges": [
+        [
+          10745,
+          10987
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "While early syphilis cannot be excluded—particularly because the RPR may be falsely negative early—the **painful nature and undermined edges of the ulcer** argue strongly against primary syphilis as the primary etiology of the genital lesion."
+    },
+    {
+      "ranges": [
+        [
+          13428,
+          13555
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient’s ulcer is solitary; primary HSV often yields multiple clustered lesions, though a single lesion is not unheard of."
+    },
+    {
+      "ranges": [
+        [
+          17524,
+          17666
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The ulcer’s morphology (undermined, pink) is not typical of LGV’s primary lesion, which is usually a shallow, non‑ulcerated papule or fissure."
+    },
+    {
+      "ranges": [
+        [
+          25777,
+          26109
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the **high prevalence of HIV and HSV in this demographic**, the **overlap of systemic and mucocutaneous findings**, and the **limitations of the rapid HIV test performed early**, the **most plausible single diagnosis** is **primary genital HSV‑2 infection occurring in the context of acute HIV seroconversion** (co‑infection)."
+    }
+  ]
+}

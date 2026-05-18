@@ -1,0 +1,139 @@
+{
+  "case": "2012 Case 01__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T10:39:33.256921+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          13023,
+          13143
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnoses in this case include pyoderma gangrenosum, a systemic inflammatory disease, and a malignant cause."
+    },
+    {
+      "ranges": [
+        [
+          13731,
+          13865
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A broad range of potential causes, including infectious, inflammatory, autoimmune, malignant, and rare conditions, must be considered."
+    },
+    {
+      "ranges": [
+        [
+          14195,
+          14324
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's condition may be related to an abnormal immune response, characterized by inflammation and autoantibody production."
+    },
+    {
+      "ranges": [
+        [
+          11620,
+          11699
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of leukocytoclastic vasculitis on biopsy supports this hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          10946,
+          11104
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's response to treatment, including glucocorticoids and antibiotics, will also provide valuable information in establishing a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11311,
+          11448
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's improvement with glucocorticoids and worsening with antibiotic therapy also support an inflammatory or autoimmune etiology."
+    },
+    {
+      "ranges": [
+        [
+          15917,
+          16065
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of neutrophilic dermatitis on biopsy and the patient's history of hidradenitis suppurativa support a diagnosis of pyoderma gangrenosum."
+    },
+    {
+      "ranges": [
+        [
+          13145,
+          13310
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's response to glucocorticoids and the presence of leukocytoclastic vasculitis on biopsy support an inflammatory or autoimmune component to the condition."
+    },
+    {
+      "ranges": [
+        [
+          11105,
+          11309
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The use of cyclosporine and dapsone, medications commonly used to treat autoimmune and inflammatory conditions, suggests that the patient's healthcare providers are considering an immune-mediated process."
+    },
+    {
+      "ranges": [
+        [
+          13443,
+          13535
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Rare conditions, such as Sweet syndrome or Behçet's disease, may also be possible diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          13866,
+          14035
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Further diagnostic testing, including additional biopsies and laboratory studies, is necessary to narrow the differential diagnosis and establish a definitive diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11700,
+          11909
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of hidradenitis suppurativa and the development of skin lesions following a perineal abscess may indicate a genetic or environmental predisposition to inflammatory or autoimmune diseases."
+    }
+  ]
+}

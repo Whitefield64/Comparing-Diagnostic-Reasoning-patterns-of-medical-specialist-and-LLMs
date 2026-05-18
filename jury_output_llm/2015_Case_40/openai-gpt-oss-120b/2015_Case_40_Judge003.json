@@ -1,0 +1,62 @@
+{
+  "case": "2015 Case 40__openai-gpt-oss-120b.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T12:17:55.877028+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9097,
+          9315
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the extreme BP values in a relatively young adult, **secondary hypertension** must be actively considered, especially because the patient has never been on chronic antihypertensive therapy for the past several ye"
+    },
+    {
+      "ranges": [
+        [
+          7388,
+          7659
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "presence of a severe headache in the setting of markedly elevated BP** raises the possibility of **hypertensive encephalopathy** or **posterior reversible encephalopathy syndrome (PRES)**, both of which can present initially with only headache and subtle mental status ch"
+    },
+    {
+      "ranges": [
+        [
+          8025,
+          8141
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient’s headache improved as her BP fell from > 200 mm Hg to ~ 140/65 mm Hg, suggesting a causal relationship."
+    },
+    {
+      "ranges": [
+        [
+          19970,
+          20185
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "balance of evidence** points toward a **primary psychotic disorder—most consistent with schizophrenia**—with **possible contributory effects** from chronic untreated hypertension, poor sleep, and nutritional deficie"
+    },
+    {
+      "ranges": [
+        [
+          19802,
+          19951
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s psychosis predates the hypertensive crisis by years; chronic features (delusions, disorganization) not typical of acute encephalopathy."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "case": "2015 Case 01__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T11:57:00.958249+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7820,
+          7975
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the development of internal mammary lymph nodes and the presence of indeterminate pulmonary nodules also raise the possibility of other diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          7977,
+          8120
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Firstly, considering the patient's history of breast cancer and the findings on imaging, the most likely diagnosis is metastatic breast cancer."
+    },
+    {
+      "ranges": [
+        [
+          8121,
+          8336
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of enlarged internal mammary lymph nodes, which are a common site for breast cancer metastasis, especially in medially located primary tumors or those with lymphatic invasion, supports this possibility."
+    },
+    {
+      "ranges": [
+        [
+          8558,
+          8766
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the patient had completed adjuvant endocrine therapy 7 months prior to presentation and had a history of extensive lymphatic invasion in the primary tumor increases the likelihood of recurrence."
+    },
+    {
+      "ranges": [
+        [
+          8768,
+          8899
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another consideration, although less likely given the cytologic findings, is the possibility of metastasis from her prior melanoma."
+    },
+    {
+      "ranges": [
+        [
+          8337,
+          8557
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The cytologic examination of a biopsy specimen from one of these lymph nodes showed clusters of malignant cells with features similar to her prior breast carcinoma, further supporting the diagnosis of metastatic disease."
+    },
+    {
+      "ranges": [
+        [
+          9383,
+          9552
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "In addition to these malignant possibilities, it is also important to consider benign causes for the enlarged lymph nodes, such as reactive lymphadenopathy or infection."
+    },
+    {
+      "ranges": [
+        [
+          10035,
+          10228
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The indeterminate pulmonary nodules seen on CT of the chest could represent metastatic disease from the breast cancer, although their small size (4 to 5 mm in diameter) makes this less certain."
+    },
+    {
+      "ranges": [
+        [
+          10355,
+          10591
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the patient's history of smoking (20 pack-years), primary lung cancer is also a consideration, although the small size of the nodules and the lack of other symptoms or findings suggestive of lung cancer make this less likely at present."
+    },
+    {
+      "ranges": [
+        [
+          15930,
+          16150
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of prior cancers, including melanoma and breast cancer, also increases her risk for additional malignancies, and she should be closely monitored for any signs or symptoms of new or recurrent cancer."
+    },
+    {
+      "ranges": [
+        [
+          9789,
+          9869
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of malignant cells on cytologic examination makes this less likely."
+    },
+    {
+      "ranges": [
+        [
+          12351,
+          12561
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Given the information available, the leading diagnosis is metastatic breast cancer, with the development of internal mammary lymph node metastases being the most likely explanation for her current presentation."
+    },
+    {
+      "ranges": [
+        [
+          12751,
+          12933
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The possibility of metastasis from her prior melanoma, although less likely, should also be considered and could be further evaluated with additional diagnostic testing if necessary."
+    }
+  ]
+}

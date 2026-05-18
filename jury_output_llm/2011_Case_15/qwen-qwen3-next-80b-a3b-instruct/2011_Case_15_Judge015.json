@@ -1,0 +1,84 @@
+{
+  "case": "2011 Case 15__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T10:34:34.971036+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4893,
+          4995
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is **primary HIV infection (acute retroviral syndrome)**."
+    },
+    {
+      "ranges": [
+        [
+          3922,
+          4419
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The sequence—vaginal discharge followed by systemic symptoms (headache, fatigue, sore throat, anorexia), resolution of those symptoms with development of a characteristic genital ulcer, and the presence of generalized lymphadenopathy—demands a broad differential that spans infectious, autoimmune, and neoplastic etiologies, with particular attention to pathogens known to cause mucocutaneous ulceration and systemic prodromes in young, sexually active individuals in high-HIV-prevalence settings."
+    },
+    {
+      "ranges": [
+        [
+          4996,
+          5249
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The timeline is highly suggestive: the onset of systemic symptoms 5–7 days after the initial vaginal discharge aligns with the typical incubation period of HIV, during which viremia peaks and the immune system mounts a vigorous, often flu-like response."
+    },
+    {
+      "ranges": [
+        [
+          4420,
+          4608
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The negative HIV rapid tests, while reassuring, do not exclude acute HIV infection, particularly given the window period and the limitations of finger-stick assays in early seroconversion."
+    },
+    {
+      "ranges": [
+        [
+          6631,
+          6876
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the ulcer developed after the systemic symptoms resolved is consistent with the biphasic nature of acute HIV: initial viremia-driven systemic illness, followed by immune-mediated tissue damage as cytotoxic T cells begin to respond."
+    },
+    {
+      "ranges": [
+        [
+          16509,
+          16677
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most parsimonious explanation is **acute HIV infection with superimposed HSV-2 reactivation**, as both can explain the prodrome, the ulcer, and the lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          16678,
+          16844
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s history of unprotected sex with a partner who refused condoms, the absence of prior STIs, and the high HIV prevalence in KwaZulu-Natal all support this."
+    }
+  ]
+}

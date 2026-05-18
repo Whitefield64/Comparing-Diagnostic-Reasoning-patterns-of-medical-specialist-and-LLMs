@@ -1,0 +1,106 @@
+{
+  "case": "2016 Case 03__openai-gpt-oss-120b.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T12:43:19.203570+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          40007,
+          40233
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling explanations are **abdominal migraine** and **abdominal epilepsy**, both of which can produce the characteristic episodic pain and autonomic signs, and both are supported by family history and age of onset."
+    },
+    {
+      "ranges": [
+        [
+          35487,
+          35614
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The chronicity, normal investigations, and psychosocial stressors (school environment, anxiety) fit a functional pain syndrome."
+    },
+    {
+      "ranges": [
+        [
+          39366,
+          39468
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If EEG suggests epileptiform activity, agents such as levetiracetam or valproic acid may be initiated."
+    },
+    {
+      "ranges": [
+        [
+          39026,
+          39116
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Validated pediatric migraine scales (e.g., PedMIDAS) to quantify impact and guide therapy."
+    },
+    {
+      "ranges": [
+        [
+          37141,
+          37387
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The leading diagnoses share three core attributes observed in this patient:\n\n1. **Episodic Pain with Autonomic Activation** – Both abdominal migraine and abdominal epilepsy produce autonomic signs (tachycardia, pallor, diaphoresis) during attacks"
+    },
+    {
+      "ranges": [
+        [
+          39655,
+          39853
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "ear‑old girl’s clinical picture is dominated by recurrent, severe epigastric pain with vomiting, autonomic manifestations (pallor, diaphoresis, tachycardia), and a background of chronic constipation"
+    },
+    {
+      "ranges": [
+        [
+          38054,
+          38232
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The escalation of pain severity culminating in a three‑day, radiating episode raises concern for a possible “status migrainosus” (prolonged migraine attack) or a seizure cluster."
+    },
+    {
+      "ranges": [
+        [
+          37761,
+          37906
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the patient’s response to a proton pump inhibitor (partial) and the trial of amitriptyline, a central neuromodulatory component is evident."
+    },
+    {
+      "ranges": [
+        [
+          40656,
+          40936
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "A focused neurophysiologic work‑up (EEG with video, autonomic testing) coupled with therapeutic trials (migraine abortives, antiepileptics, behavioral interventions) will be essential to refine the diagnosis, tailor treatment, and ultimately improve the patient’s quality of life."
+    }
+  ]
+}

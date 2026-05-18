@@ -1,0 +1,18 @@
+{
+  "case": "2012 Case 40__openai-gpt-oss-120b.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-18T11:43:15.724049+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7465,
+          7722
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "AFE ranks as the **most likely diagnosis** and will be treated as the leading hypothesis pending confirmatory investigations (e.g., presence of fetal squamous cells in pulmonary microvasculature on autopsy, elevated serum tryptase, or rapid development of D"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "case": "2011 Case 15__openai-gpt-oss-120b.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T10:26:09.395353+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4688,
+          5252
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The case raises several diagnostic possibilities that must be considered in parallel: (1) an acute viral infection (most notably primary HIV infection or primary genital herpes), (2) a bacterial STI with atypical presentation (primary syphilis, chancroid, lymphogranuloma venereum, granuloma inguinale), (3) a non‑infectious inflammatory or autoimmune condition (Behçet disease, aphthous ulcer disease, trauma), and (4) systemic infections that can produce both a genital discharge and a later ulcer (e.g., disseminated CMV, EBV, or other opportunistic pathogens)."
+    },
+    {
+      "ranges": [
+        [
+          5253,
+          5408
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The temporal sequence—systemic prodrome followed by a resolving discharge and then a painful ulcer—provides important clues for narrowing the differential."
+    },
+    {
+      "ranges": [
+        [
+          10572,
+          10723
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the ulcer were syphilitic, one would expect a rapid clinical response, yet the case description does not comment on ulcer improvement after therapy."
+    },
+    {
+      "ranges": [
+        [
+          3934,
+          4105
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Empiric therapy for bacterial sexually transmitted infections (STIs) (doxycycline, metronidazole, ceftriaxone) was given, yet the systemic symptoms persisted for another 1"
+    },
+    {
+      "ranges": [
+        [
+          30275,
+          30535
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "While other bacterial STIs (syphilis, chancroid, LGV) remain in the differential, their typical clinical signatures (painless chancre, inguinal buboes, rolled ulcer edges) are not observed, and the negative RPR further reduces the likelihood of early syphilis."
+    },
+    {
+      "ranges": [
+        [
+          13428,
+          13555
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient’s ulcer is solitary; primary HSV often yields multiple clustered lesions, though a single lesion is not unheard of."
+    },
+    {
+      "ranges": [
+        [
+          29675,
+          29786
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The ulcer’s morphology, pain, and rapid evolution are **highly characteristic of primary genital HSV‑2 infectio"
+    },
+    {
+      "ranges": [
+        [
+          25957,
+          26109
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "y**, the **most plausible single diagnosis** is **primary genital HSV‑2 infection occurring in the context of acute HIV seroconversion** (co‑infection)."
+    },
+    {
+      "ranges": [
+        [
+          29791,
+          29995
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The epidemiology of both HIV and HSV in South Africa, together with the patient’s unprotected sexual exposure, makes a **co‑infection scenario the most plausible explanation** for the entire clinical pict"
+    }
+  ]
+}

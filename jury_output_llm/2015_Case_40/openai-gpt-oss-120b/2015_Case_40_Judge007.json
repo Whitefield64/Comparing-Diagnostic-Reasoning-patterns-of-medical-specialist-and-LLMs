@@ -1,0 +1,40 @@
+{
+  "case": "2015 Case 40__openai-gpt-oss-120b.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T12:19:02.469316+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          27093,
+          27213
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The acute, severe headache directly correlated with the extreme BP elevation and improved with antihypertensive therapy."
+    },
+    {
+      "ranges": [
+        [
+          33138,
+          33347
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The temporal relationship between the severe BP surge, the acute frontal headache, and rapid symptom resolution after BP reduction makes this the most compelling explanation for the acute neurologic complaint."
+    },
+    {
+      "ranges": [
+        [
+          7388,
+          7659
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "presence of a severe headache in the setting of markedly elevated BP** raises the possibility of **hypertensive encephalopathy** or **posterior reversible encephalopathy syndrome (PRES)**, both of which can present initially with only headache and subtle mental status ch"
+    }
+  ]
+}
