@@ -1,0 +1,117 @@
+{
+  "case": "2005 Case 22__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T07:57:49.288680+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7847,
+          8157
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The key diagnostic challenge lies in distinguishing between primary CNS infection, paraneoplastic or autoimmune encephalopathy, metastatic infiltration, and systemic sepsis with secondary CNS complications—all occurring against a backdrop of profound B-cell immunodeficiency and recurrent bacterial pneumonias."
+    },
+    {
+      "ranges": [
+        [
+          9684,
+          9783
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The progression to altered mental status and neurologic decline is the critical pivot in this case."
+    },
+    {
+      "ranges": [
+        [
+          8159,
+          8397
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The initial presentation—fever, cough, purulent and later hemoptoic sputum—strongly suggests a lower respiratory tract infection, and the isolation of *Pseudomonas aeruginosa* from sputum culture confirms a significant bacterial pathogen."
+    },
+    {
+      "ranges": [
+        [
+          8797,
+          9047
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The radiographic findings—right paratracheal stripe prominence, hilar and axillary lymphadenopathy, and bilateral pleural effusions—suggest a process not limited to the lung parenchyma but involving lymphatic drainage and possibly mediastinal spread."
+    },
+    {
+      "ranges": [
+        [
+          9407,
+          9682
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of parenchymal consolidation on imaging, despite clinical and microbiologic evidence of infection, underscores the atypical presentation of infection in CLL patients, whose immune response is blunted and who may fail to mount a classic inflammatory lung reaction."
+    },
+    {
+      "ranges": [
+        [
+          13017,
+          13111
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The CSF showed no pleocytosis, no elevated protein, and no organisms on Gram stain or culture."
+    },
+    {
+      "ranges": [
+        [
+          14440,
+          14693
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of monoclonal lambda B cells in CSF, identical to the CLL clone, makes a primary CNS lymphoma (PCNSL) less likely, as PCNSL is typically diffuse large B-cell lymphoma (DLBCL), not CLL, and rarely presents with isolated thalamic involvement."
+    },
+    {
+      "ranges": [
+        [
+          17379,
+          17824
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "farcts.\n\nThe most compelling explanation is a triad of events: (1) a severe, treatment-resistant *P. aeruginosa* pneumonia leading to bacteremia and systemic inflammation; (2) concomitant CNS infiltration by the patient’s own CLL clone, which had been quiescent for years but became active due to the inflammatory milieu of systemic infection; and (3) secondary infectious encephalitis, likely viral, triggered by the profound immunosuppression."
+    },
+    {
+      "ranges": [
+        [
+          12247,
+          12416
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The thalamus, with its dense vascular network and proximity to the third ventricle, is a favored site for CLL infiltration due to its role as a lymphoid trafficking hub."
+    },
+    {
+      "ranges": [
+        [
+          19307,
+          19571
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the clinical and CSF data, the most likely primary diagnosis is **CNS infiltration by chronic lymphocytic leukemia**, complicated by **bacteremia from *Pseudomonas aeruginosa*** and possibly **viral encephalitis** (e.g., EBV or CMV) as a contributing factor."
+    }
+  ]
+}

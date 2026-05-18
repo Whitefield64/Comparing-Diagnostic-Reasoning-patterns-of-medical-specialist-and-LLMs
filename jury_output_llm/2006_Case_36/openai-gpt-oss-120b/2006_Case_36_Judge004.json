@@ -1,0 +1,95 @@
+{
+  "case": "2006 Case 36__openai-gpt-oss-120b.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T08:53:57.109910+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          12224,
+          12493
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The biochemical hallmark (UFC ≈ 1 865 µg) establishes hypercortisolism. Distinguishing ACTH‑dependent from ACTH‑independent disease hinges on serum ACTH measurement (high in CD/EAS, low in adrenal adenoma/carcinoma) and on imaging (pituitary MRI versus adrenal CT/MRI)."
+    },
+    {
+      "ranges": [
+        [
+          27290,
+          27486
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the high pre‑test probability of Cushing syndrome, the next steps are aimed at confirming the diagnosis, categorizing the source, and planning definitive therapy while minimizing fetal risk."
+    },
+    {
+      "ranges": [
+        [
+          24218,
+          24534
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cortisol potentiates the vasoconstrictive response of vascular smooth muscle to catecholamines by up‑regulating α‑adrenergic receptors and enhancing the expression of endothelin‑1. In addition, cortisol’s mineralocorticoid activity (via 11β‑HSD2 saturation) promotes sodium retention, expanding intravascular volume."
+    },
+    {
+      "ranges": [
+        [
+          34157,
+          34227
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If ACTH is low, the diagnostic focus would shift to the adrenal gland."
+    },
+    {
+      "ranges": [
+        [
+          32973,
+          33222
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Synthesizing the clinical, laboratory, and epidemiologic data, the leading diagnosis is **Cushing disease—an ACTH‑secreting pituitary corticotroph adenoma**. The key arguments are:\n\n- **Biochemical confirmation of hypercortisolism** (UFC ≈ 1 865 µg)"
+    },
+    {
+      "ranges": [
+        [
+          19131,
+          19268
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s phenotype (hypertension, hyperglycemia, high cortisol) is opposite to that expected in CAH. Therefore, CAH can be excluded."
+    },
+    {
+      "ranges": [
+        [
+          26857,
+          27210
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the presence of CS complicates antihypertensive and antidiabetic therapy in pregnancy. Labetalol is generally safe, but high‑dose β‑blockade can mask hypoglycemia. Nifedipine is also considered safe. Insulin is the preferred agent for glucose control, as oral hypoglycemics (e.g., glyburide) cross the placenta and may exacerbate fetal hyperinsulinemia."
+    },
+    {
+      "ranges": [
+        [
+          20860,
+          21060
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Rare tumors can produce corticotropin‑releasing hormone (CRH), stimulating ACTH release. The clinical picture mirrors ectopic ACTH syndrome, but CRH‑producing tumors often have a more indolent course."
+    }
+  ]
+}

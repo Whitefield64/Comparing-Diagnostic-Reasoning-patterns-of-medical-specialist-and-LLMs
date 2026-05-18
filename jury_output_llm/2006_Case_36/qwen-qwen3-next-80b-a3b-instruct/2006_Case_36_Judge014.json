@@ -1,0 +1,106 @@
+{
+  "case": "2006 Case 36__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T09:07:18.443918+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4574,
+          4735
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is **Cushing’s syndrome**, specifically **pituitary-dependent Cushing’s disease** or **adrenal Cushing’s syndrome**."
+    },
+    {
+      "ranges": [
+        [
+          13036,
+          13215
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s strong family history of type 2 diabetes and hypertension raises the possibility of **polycystic ovary syndrome (PCOS)** as a contributor to her metabolic phenotype."
+    },
+    {
+      "ranges": [
+        [
+          14127,
+          14322
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnosis is **Cushing’s syndrome due to autonomous cortisol secretion**, most likely from an **adrenal adenoma or carcinoma**, with **pituitary Cushing’s disease** as a close second."
+    },
+    {
+      "ranges": [
+        [
+          14865,
+          15034
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If ACTH is suppressed, an adrenal source is confirmed; if ACTH is elevated or normal, further evaluation for pituitary adenoma (e.g., MRI of the pituitary) is indicated."
+    },
+    {
+      "ranges": [
+        [
+          6409,
+          6597
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "the differential must also consider **gestational hypertension with superimposed gestational diabetes mellitus (GDM)**, which is common but cannot account for the severity of the findings."
+    },
+    {
+      "ranges": [
+        [
+          5287,
+          5560
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of classic cutaneous findings does not rule out Cushing’s in pregnancy, as many of the stigmata (e.g., striae, bruising, hirsutism) are masked by the normal physiologic changes of gestation, including skin stretching, increased vascularity, and fluid retention."
+    },
+    {
+      "ranges": [
+        [
+          4096,
+          4280
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": " The constellation of findings—particularly the combination of hypertension, glucose intolerance, central adiposity, and facial plethora—strongly suggests a disorder of cortisol excess"
+    },
+    {
+      "ranges": [
+        [
+          14323,
+          14558
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The extreme elevation in urinary free cortisol, the severity and refractoriness of hypertension and hyperglycemia, the characteristic facial findings, and the timing of onset in early pregnancy all point strongly toward this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          15176,
+          15297
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case illustrates the critical importance of recognizing endocrine disorders that mimic or are unmasked by pregnancy."
+    }
+  ]
+}

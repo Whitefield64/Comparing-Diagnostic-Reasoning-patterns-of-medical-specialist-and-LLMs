@@ -1,0 +1,139 @@
+{
+  "case": "2010 Case 18__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T09:54:07.444890+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5764,
+          5995
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical presentation of this 7-year-old boy with human immunodeficiency virus type 1 (HIV-1) infection is complex, with multiple potential contributing factors to his elevated HIV RNA levels despite antiretroviral medications."
+    },
+    {
+      "ranges": [
+        [
+          5996,
+          6223
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "To approach this case, it is essential to consider various differential diagnoses, including malignant, infectious, inflammatory, structural, gynecologic (although less relevant in this male patient), systemic, and rare causes."
+    },
+    {
+      "ranges": [
+        [
+          6568,
+          6774
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the patient's mother reports good adherence to the antiretroviral medications and trimethoprim–sulfamethoxazole suggests that resistance or inadequate dosing might be more likely explanations."
+    },
+    {
+      "ranges": [
+        [
+          6775,
+          7033
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The change in the antiretroviral regimen to include lopinavir–ritonavir combination therapy, increased doses of zidovudine and lamivudine, and the addition of multivitamins indicates an attempt to address potential resistance or suboptimal viral suppression."
+    },
+    {
+      "ranges": [
+        [
+          7234,
+          7557
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the possibility of latent TB or the development of drug-resistant TB cannot be entirely ruled out, especially given the initial presentation with symptoms suggestive of TB (cough, fever, vomiting, and abdominal pain) and the subsequent development of a supraclavicular abscess with granulomas resembling caseation necrosis."
+    },
+    {
+      "ranges": [
+        [
+          7993,
+          8191
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The prophylactic use of trimethoprim–sulfamethoxazole suggests an attempt to prevent PCP, but the possibility of other opportunistic infections cannot be excluded without further diagnostic testing."
+    },
+    {
+      "ranges": [
+        [
+          8601,
+          8730
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Systemic causes, including malignancies such as lymphoma, which is more common in HIV-infected individuals, should be considered."
+    },
+    {
+      "ranges": [
+        [
+          8395,
+          8600
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's clinical presentation, including bilateral axillary lymphadenopathy and being below the fifth percentile for weight and height, suggests a chronic illness with potential systemic involvement."
+    },
+    {
+      "ranges": [
+        [
+          11138,
+          11368
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The development of opportunistic infections or other systemic illnesses, including malignancies, although possible, seems less likely based on the information provided but cannot be ruled out without further diagnostic evaluation."
+    },
+    {
+      "ranges": [
+        [
+          10920,
+          11161
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "ding diagnosis or diagnoses would likely revolve around issues related to antiretroviral therapy, such as resistance, non-adherence (despite the mother's reports), or inadequate viral suppression due to dosing issues. The development of oppo"
+    },
+    {
+      "ranges": [
+        [
+          11370,
+          11560
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's history of TB and the presence of a supraclavicular abscess suggest a complex clinical scenario that might involve multiple factors contributing to his elevated HIV RNA levels."
+    },
+    {
+      "ranges": [
+        [
+          17189,
+          17432
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's case highlights the importance of careful consideration of the potential causes of elevated HIV RNA levels in the context of antiretroviral therapy, and the need for a thorough and meticulous approach to diagnosis and management."
+    }
+  ]
+}

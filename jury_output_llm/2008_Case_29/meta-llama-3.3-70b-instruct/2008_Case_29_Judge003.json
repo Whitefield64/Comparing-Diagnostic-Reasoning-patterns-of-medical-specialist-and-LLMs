@@ -1,0 +1,40 @@
+{
+  "case": "2008 Case 29__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T09:07:42.486558+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          14156,
+          14362
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnoses appear to be related to the complications of anorexia nervosa, including fecal impaction, potential refeeding syndrome, and the psychiatric management of the patient's eating disorder."
+    },
+    {
+      "ranges": [
+        [
+          8951,
+          9135
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Fecal impaction can cause abdominal pain, distention, and nausea, and it is a known complication in patients with eating disorders, particularly those with restrictive eating patterns."
+    },
+    {
+      "ranges": [
+        [
+          9530,
+          9725
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Refeeding syndrome can lead to severe electrolyte imbalances, particularly hypophosphatemia, hypokalemia, and hypomagnesemia, which can cause cardiac arrhythmias, muscle weakness, and even death."
+    }
+  ]
+}

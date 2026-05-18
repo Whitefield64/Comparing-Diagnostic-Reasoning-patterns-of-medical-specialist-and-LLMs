@@ -1,6 +1,6 @@
 {
   "case": "1999 Case 06__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T03:05:16.104461+00:00",
+  "exported_at": "2026-05-18T07:16:46.239404+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -9,445 +9,106 @@
       "voter_id": 1,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "Another strong candidate is **Relapsing polychondritis (RP)**, a rare autoimmune disorder characterized by recurrent inflammation of cartilaginous structures: ears, nose, trachea, larynx, and occasionally the aortic root."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must first rule out other diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not mentioned, but the elevated ESR and leukocytosis are consistent with active inflammation."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, solitary mass within the right lobe of the liver is not typical of this case, but the combination of aortic root aneurysm, deafness, ocular inflammation, steroid responsiveness, and young female sex makes RP a leading contender."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant, but the combination of findings suggests a rare, systemic disorder with multiorgan involvement."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, the combination of findings in this case suggests a different diagnosis, with a probability that depends on the specific features of the case."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, but this is not directly relevant to the current case."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "Another strong candidate is **relapsing polychondritis**, both of which can involve the eye and the vasculature."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of **Takayasu arteritis**, we would expect to see systemic symptoms, hypertension due to renal artery stenosis, diminished or absent pulses, bruits over major vessels, and aortic regurgitation from root dilation."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must first rule out other possible causes of the patient’s symptoms, such as **Takayasu arteritis** or **relapsing polychondritis**."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not directly relevant, but the elevated ESR and leukocytosis are consistent with active inflammation in **relapsing polychondritis**."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of aortic root aneurysm, sensorineural deafness, and steroid-responsive ocular inflammation with corneal scarring is highly suggestive of **relapsing polychondritis**."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a systemic disorder with multiorgan involvement, likely of genetic or autoimmune etiology, given the combination of aortic aneurysm, deafness, and ocular pathology."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of **Takayasu arteritis** involve the temporal artery, the patient’s presentation is more consistent with a large-vessel vasculitis, given the thoracoabdominal aneurysm and renal artery stenosis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with **relapsing polychondritis** may have a catastrophic reaction after high-dose corticosteroid therapy is begun, which is relevant to this patient’s treatment."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but we must first rule out other more common causes of the patient’s symptoms, such as Takayasu arteritis or relapsing polychondritis, before considering less common diagnoses."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of aortic root aneurysm, sensorineural deafness, and steroid-responsive ocular inflammation with corneal scarring is highly suggestive of relapsing polychondritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a systemic disorder with multiorgan involvement, likely of genetic or autoimmune etiology, given the combination of vascular, immunologic, metabolic, and developmental findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of aortic regurgitation on echo supports root dilation, which in young patients is most commonly due to connective tissue disorders such as Marfan syndrome, Loeys-Dietz syndrome, or Ehlers-Danlos syndrome vascular type, but the patient lacks typical features of these disorders."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "There are case reports of cochlear involvement in large-vessel vasculitis, likely due to microvascular ischemia or immune-mediated inner ear disease, which supports the diagnosis of relapsing polychondritis or Takayasu arteritis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "Another strong candidate is **Relapsing polychondritis (RP)**, a rare autoimmune disorder characterized by recurrent inflammation of cartilaginous structures: ears, nose, trachea, larynx, and occasionally the aortic root."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has Takayasu arteritis, we would expect to see systemic symptoms, hypertension due to renal artery stenosis, diminished or absent pulses, bruits over major vessels, and aortic regurgitation from root dilation."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must first rule out more common causes of the patient’s symptoms, such as infections or autoimmune disorders, before considering rare diseases like relapsing polychondritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant here, but the patient’s presentation suggests a complex, multisystem disease that requires careful consideration of various possibilities."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients, which makes Takayasu arteritis a plausible diagnosis in this case."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, but this is not directly relevant to the current case, which may involve a different disease process."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had Marfan syndrome, we would expect to see tall stature, arachnodactyly, lens dislocation, and aortic root dilation, but this patient lacks these features."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of aortic root aneurysm, sensorineural deafness, and steroid-responsive ocular inflammation with corneal scarring is typical of relapsing polychondritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the text  'The most compelling diagnosis in this context is **Takayasu arteritis (TA)**' shows intuition."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of aortic regurgitation on echo supports root dilation, which in young patients is most commonly due to connective tissue disorders such as Marfan syndrome, Loeys-Dietz syndrome, or Ehlers-Danlos syndrome vascular type, but the probability of these diagnoses is low given the patient’s lack of characteristic features."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, and this patient’s presentation shares some similarities with these cases."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of relapsing polychondritis, we would expect to see aortic root dilation, sensorineural hearing loss, and ocular inflammation, all of which are present in this patient."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The elevated ESR and leukocytosis are consistent with active inflammation, and the patient’s symptoms and findings are consistent with a diagnosis of relapsing polychondritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but rather we must consider the combination of aortic aneurysm, deafness, ocular inflammation, steroid responsiveness, and young female sex, making RP a leading contender."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, solitary mass within the right lobe of the liver is not relevant here, but rather the combination of aortic root aneurysm, sensorineural deafness, and steroid-responsive ocular inflammation with corneal scarring, in a young woman with systemic inflammation and renal artery stenosis, is highly suggestive of relapsing polychondritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but rather the combination of clinical features and diagnostic considerations lead to a probable diagnosis of relapsing polychondritis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of relapsing polychondritis is not explicitly quantified, but rather the combination of clinical features, diagnostic considerations, and the process of elimination lead to a probable diagnosis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s presentation is not typical of any single common disease but rather suggests a rare, systemic disorder with multiorgan involvement, likely of genetic or autoimmune etiology, similar to cases of relapsing polychondritis or other rare vasculitides."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were Takayasu arteritis, we would expect to see systemic symptoms, hypertension, and diminished pulses, which are present in this patient."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not applicable here, but we must first rule out other life-threatening conditions such as aortic dissection or myocardial infarction."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, although not provided, would likely support the diagnosis of relapsing polychondritis, given the clinical presentation."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of aortic root aneurysm, sensorineural deafness, and steroid-responsive ocular inflammation with corneal scarring is typical of relapsing polychondritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable, but the combination of clinical findings points towards an autoimmune or autoinflammatory disorder."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, the patient’s presentation suggests a large-vessel vasculitis, such as Takayasu arteritis, which is more likely given the patient’s age and sex."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, but this patient’s condition is more consistent with relapsing polychondritis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had Marfan syndrome, we would expect to see tall stature, arachnodactyly, lens dislocation, and aortic root dilation, but this patient lacks these features."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not applicable here, but we must first rule out other more common diagnoses such as Takayasu arteritis or Marfan syndrome before considering rarer conditions like relapsing polychondritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the discussion suggests a strong inclination towards relapsing polychondritis based on the unique combination of symptoms."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of blue sclerae, aortic root dilation, and lack of tall stature could represent a variant of Marfan or a related disorder, but the probability of this is lower given the absence of other Marfanoid features."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s presentation is reminiscent of case reports of relapsing polychondritis with atypical features, suggesting a possible diagnosis based on analogies to previous cases."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had Marfan syndrome, we would expect to see tall stature, arachnodactyly, lens dislocation, and aortic root dilation, but this patient lacks tall stature, arachnodactyly, or ectopia lentis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of aortic root aneurysm, sensorineural deafness, and steroid-responsive ocular inflammation with corneal scarring is highly suggestive of relapsing polychondritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, however the clinician’s intuition is that relapsing polychondritis is the most likely diagnosis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of relapsing polychondritis is increased given the combination of aortic aneurysm, deafness, ocular inflammation, steroid responsiveness, and young female sex."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, and this case has some similar features."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had Marfan syndrome, we would expect to see tall stature, arachnodactyly, lens dislocation, and aortic root dilation, but this patient lacks these features."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although this patient’s presentation is highly suggestive of relapsing polychondritis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient’s prognosis depends on early recognition and aggressive immunomodulation, given the clinical trajectory."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, but this patient’s presentation is more consistent with relapsing polychondritis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had Marfan syndrome, we would expect to see tall stature, arachnodactyly, lens dislocation, and aortic root dilation, but this patient lacks these features."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, however the text 'The most compelling diagnosis in this context is **Takayasu arteritis (TA)**' implies a similar intuition."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient’s prognosis depends on early recognition and aggressive immunomodulation, given the clinical trajectory."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The corneal scarring and ghost vessels are highly suggestive of prior interstitial keratitis, which is classically associated with syphilis—but syphilis serology is negative, however this is reminiscent of cases where syphilis presents with isolated ocular disease."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has Takayasu arteritis, we would expect to see systemic symptoms, hypertension due to renal artery stenosis, diminished or absent pulses, bruits over major vessels, and aortic regurgitation from root dilation."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must first rule out other life-threatening conditions such as aortic dissection or myocardial infarction."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, although not described, would likely support the diagnosis of relapsing polychondritis or another autoimmune disorder."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of aortic root aneurysm, sensorineural deafness, and steroid-responsive ocular inflammation with corneal scarring is highly suggestive of relapsing polychondritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary autoimmune disorder, given the combination of systemic inflammation, ocular involvement, and aortic aneurysm."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Given the patient’s age, sex, and clinical presentation, the probability of relapsing polychondritis is higher than that of other diagnoses, such as Takayasu arteritis or sarcoidosis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "A similar case of relapsing polychondritis with aortic aneurysm and ocular involvement was reported in the literature, which supports the diagnosis in this patient."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "Another strong candidate is **relapsing polychondritis**, both of which can involve the eye and the vasculature."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of relapsing polychondritis, we would expect to see aortic root dilation, sensorineural deafness, and steroid-responsive ocular inflammation with corneal scarring."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the phrase 'the most likely diagnosis' is, so: The most likely diagnosis is **relapsing polychondritis**."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient’s prognosis depends on early recognition and aggressive immunomodulation, given the clinical trajectory."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had Marfan syndrome, we would expect to see tall stature, arachnodactyly, lens dislocation, and aortic root dilation, but this patient lacks these features."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had Loeys-Dietz syndrome, we would expect to see aggressive aortic aneurysms, hypertelorism, bifid uvula, and arterial tortuosity, but again, sensorineural deafness and corneal pathology are not features."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of aortic root aneurysm, sensorineural deafness, and steroid-responsive ocular inflammation with corneal scarring is highly suggestive of relapsing polychondritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "The absence of skeletal findings makes Marfan syndrome less likely."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s clinical presentation is similar to that of relapsing polychondritis, which has been reported to cause aortic aneurysms, sensorineural deafness, and ocular inflammation."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

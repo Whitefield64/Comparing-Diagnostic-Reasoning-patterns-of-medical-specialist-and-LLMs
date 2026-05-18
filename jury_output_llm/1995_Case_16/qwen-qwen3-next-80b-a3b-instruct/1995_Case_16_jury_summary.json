@@ -1,6 +1,6 @@
 {
   "case": "1995 Case 16__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T01:36:58.710522+00:00",
+  "exported_at": "2026-05-18T07:15:32.551752+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -9,61 +9,15 @@
       "voter_id": 1,
       "failed": false,
       "n_resolved": 2,
-      "n_unresolved": 10,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If tuberculosis is the correct diagnosis, we would expect to see granulomatous inflammation on myocardial biopsy, which was not found, but this may reflect sampling error—the granulomas may be patchy, and the biopsy may have missed the foci."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, but this patient’s presentation is more suggestive of tuberculosis or sarcoidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but the presentation of this patient with cardiac and pulmonary granulomatous disease requires careful consideration of infectious, inflammatory, infiltrative, and neoplastic etiologies, with tuberculosis and sarcoidosis being the most likely diagnoses."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not directly relevant, but the clinical, radiographic, and epidemiological evidence strongly favors tuberculosis, despite negative initial tests."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of nodules centered on bronchovascular bundles with lymphadenopathy is classic for tuberculous granulomatous pneumonia, especially in the setting of reactivation disease."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is tuberculosis, given the patient’s Caribbean origin, prior positive TSTs, family history, discontinuation of isoniazid, and the radiographic pattern of nodules centered on bronchovascular bundles with lymphadenopathy."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients, but this patient’s presentation is more suggestive of tuberculosis or sarcoidosis, with a higher probability of tuberculosis given the clinical and epidemiological evidence."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, but this patient’s presentation is more similar to cases of tuberculosis or sarcoidosis, with a few reported cases of cardiac involvement in these diseases."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "Dilatation of the aorta could be due to active tuberculosis, but an autoimmune mechanism has also been postulated, and the patient’s presentation could be consistent with either tuberculosis or sarcoidosis."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a lesion in the midbrain, but this patient’s presentation is characterized by cardiac and pulmonary granulomatous disease, with the radiographic pattern of nodules centered on bronchovascular bundles with lymphadenopathy being classic for tuberculous granulomatous pneumonia."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present but the intuition is that tuberculosis is the most likely diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
@@ -90,141 +44,71 @@
       "voter_id": 6,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is tuberculosis, although I am troubled by the negative serologic test and the lack of systemic symptoms."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is tuberculosis, although I am troubled by the negative serologic test and the lack of other systemic symptoms."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is tuberculosis, although I am troubled by the negative serologic test and the need for further diagnostic testing."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s presentation is similar to that of other cases of tuberculosis, with a combination of pulmonary and cardiac involvement, and a history of prior positive TSTs."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present but the conclusion is: In conclusion, tuberculosis is the most likely diagnosis, with sarcoidosis as the principal alternative."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 13,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the intuition that tuberculosis is the most likely diagnosis is present throughout the text, for example:"
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the intuition of the doctor is that tuberculosis is the most likely diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned but, The clinical, radiographic, and epidemiological evidence strongly favors TB, despite negative initial tests."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the following sentence is: The patient’s night sweats, though mild and without fever, are a classic constitutional symptom of TB,"
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If tuberculosis is the correct diagnosis, then we would expect to see granulomas on myocardial biopsy or a positive response to antituberculous therapy."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of nodules centered on bronchovascular bundles with lymphadenopathy is classic for tuberculous granulomatous pneumonia."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is tuberculosis, given the patient’s Caribbean origin and prior positive TSTs."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of tuberculosis is higher given the patient’s demographic characteristics and clinical presentation."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "This case is reminiscent of other cases of tuberculosis that I have seen, where the patient presented with similar symptoms and radiographic findings."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the following sentence is: The patient’s night sweats, though mild and without fever, are a classic constitutional symptom of TB,"
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

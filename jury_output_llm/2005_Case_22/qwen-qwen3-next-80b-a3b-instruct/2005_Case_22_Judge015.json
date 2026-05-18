@@ -1,0 +1,150 @@
+{
+  "case": "2005 Case 22__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T07:59:20.273371+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7847,
+          8157
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The key diagnostic challenge lies in distinguishing between primary CNS infection, paraneoplastic or autoimmune encephalopathy, metastatic infiltration, and systemic sepsis with secondary CNS complications—all occurring against a backdrop of profound B-cell immunodeficiency and recurrent bacterial pneumonias."
+    },
+    {
+      "ranges": [
+        [
+          11104,
+          11428
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of T cells with a normal phenotype (CD4:CD8 ratio preserved) is expected in the context of normal immune surveillance. However, the detection of a small number of B cells with the identical immunophenotype as the patient’s CLL—CD19+, CD20+, CD5+, CD23+, lambda-restricted—constitutes a critical diagnostic clue."
+    },
+    {
+      "ranges": [
+        [
+          12639,
+          12809
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The isolation of *P. aeruginosa* from sputum, combined with the patient’s bacteremia likely secondary to pneumonia, raises the possibility of septic emboli or meningitis."
+    },
+    {
+      "ranges": [
+        [
+          13017,
+          13203
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The CSF showed no pleocytosis, no elevated protein, and no organisms on Gram stain or culture. The absence of neutrophilic pleocytosis argues strongly against acute bacterial meningitis."
+    },
+    {
+      "ranges": [
+        [
+          13387,
+          13606
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient had no prodrome of headache, photophobia, or seizure, which are typical of herpes simplex virus (HSV) or varicella-zoster virus (VZV) encephalitis. However, immunocompromised patients may present atypically."
+    },
+    {
+      "ranges": [
+        [
+          10929,
+          11051
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The MRI findings, therefore, are most consistent with an acute, focal, infectious or inflammatory process in the thalamus."
+    },
+    {
+      "ranges": [
+        [
+          12247,
+          12416
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The thalamus, with its dense vascular network and proximity to the third ventricle, is a favored site for CLL infiltration due to its role as a lymphoid trafficking hub."
+    },
+    {
+      "ranges": [
+        [
+          13204,
+          13331
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s clinical deterioration occurred over days to weeks, not hours, further arguing against acute pyogenic meningitis."
+    },
+    {
+      "ranges": [
+        [
+          14440,
+          14693
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of monoclonal lambda B cells in CSF, identical to the CLL clone, makes a primary CNS lymphoma (PCNSL) less likely, as PCNSL is typically diffuse large B-cell lymphoma (DLBCL), not CLL, and rarely presents with isolated thalamic involvement."
+    },
+    {
+      "ranges": [
+        [
+          16373,
+          16523
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "CLL can be associated with autoimmune phenomena, including autoimmune hemolytic anemia, immune thrombocytopenia, and, rarely, autoimmune encephalitis."
+    },
+    {
+      "ranges": [
+        [
+          17388,
+          17824
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The most compelling explanation is a triad of events: (1) a severe, treatment-resistant *P. aeruginosa* pneumonia leading to bacteremia and systemic inflammation; (2) concomitant CNS infiltration by the patient’s own CLL clone, which had been quiescent for years but became active due to the inflammatory milieu of systemic infection; and (3) secondary infectious encephalitis, likely viral, triggered by the profound immunosuppression."
+    },
+    {
+      "ranges": [
+        [
+          15532,
+          15697
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The calcified spleen and renal cysts suggest chronic, possibly fungal, granulomatous disease, but again, no evidence of disseminated fungal infection was documented."
+    },
+    {
+      "ranges": [
+        [
+          18429,
+          18673
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The failure of antibiotics (ampicillin, gentamicin, metronidazole, ceftriaxone, ceftazidime) to improve neurological status is not surprising if the primary driver is not bacterial meningitis but CNS infiltration by CLL or a viral encephalitis."
+    }
+  ]
+}

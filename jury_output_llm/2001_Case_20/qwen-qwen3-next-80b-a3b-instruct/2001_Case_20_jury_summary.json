@@ -1,6 +1,6 @@
 {
   "case": "2001 Case 20__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T04:23:40.711031+00:00",
+  "exported_at": "2026-05-18T07:16:46.267404+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -16,45 +16,22 @@
       "voter_id": 2,
       "failed": false,
       "n_resolved": 13,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but The patient’s age, diabetes, and chronic illness predispose him to periodontal disease, which is a known source of bacteremia with oral flora, including *Neisseria* and *Moraxella* species."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, instead, The most compelling and likely diagnosis is endocarditis due to *Neisseria phenylpyruvica*."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of prolonged fever, weight loss, and bacteremia is consistent with infective endocarditis, particularly in its subacute form."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, but the combination of fever, weight loss, proteinuria, and renal insufficiency raises concern for a systemic inflammatory disorder."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s denial of meat or unpasteurized milk intake makes foodborne pathogens less likely, but does not eliminate zoonotic or environmental exposures, similar to cases of *Brucella* or *Coxiella* infections."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
@@ -74,17 +51,8 @@
       "voter_id": 7,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of prolonged fever, weight loss, and bacteremia is consistent with endocarditis, particularly in the setting of degenerative valvular disease."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, but the patient’s presentation suggests a complex infection."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
@@ -97,65 +65,29 @@
       "voter_id": 9,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of prolonged fever, weight loss, and bacteremia is consistent with endocarditis, particularly in the setting of degenerative valvular disease."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of prolonged fever, weight loss, and bacteremia is consistent with endocarditis, particularly in the setting of degenerative valvular disease."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of prolonged fever, weight loss, and bacteremia is consistent with endocarditis, particularly in the setting of degenerative valvular disease."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysfunction of the valvular endothelium, as suggested by the thickened mitral and aortic leaflets, calcified posterior mitral annulus, and left atrial dilatation, creates a highly favorable substrate for endocardial colonization."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If endocarditis is present, we would expect to see persistent low-grade fever, new systolic murmur, and elevated ESR, which are all present in this case."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the text 'The most compelling and likely diagnosis is endocarditis due to *Neisseria phenylpyruvica*' represents an intuition."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of *Moraxella phenylpyruvica* in blood culture, though rare, is highly suggestive of a mucosal source of bacteremia, given the patient’s age, diabetes, and chronic illness, which predispose him to periodontal disease."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s presentation is reminiscent of cases of endocarditis due to fastidious organisms, which can present with prolonged fever, weight loss, and bacteremia, despite negative blood cultures or imaging studies."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
@@ -168,29 +100,15 @@
       "voter_id": 14,
       "failed": false,
       "n_resolved": 27,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of prolonged fever, weight loss, and bacteremia is consistent with several diagnoses, including endocarditis, abscess, and tuberculosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the combination of fever, weight loss, proteinuria, and renal insufficiency raises concern for a systemic inflammatory disorder such as polyarteritis nodosa (PAN), microscopic polyangiitis (MPA), or granulomatosis with polyangiitis (GPA)."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of *Moraxella phenylpyruvica* in blood culture, though rare, is highly suggestive of a mucosal source of bacteremia, and the fact that the fever persisted despite ciprofloxacin and metronidazole is consistent with a source that is not responsive to broad-spectrum antibiotics targeting gut flora—suggesting a non-enteric, mucosal origin."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

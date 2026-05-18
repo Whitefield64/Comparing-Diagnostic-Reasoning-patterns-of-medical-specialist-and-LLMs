@@ -1,0 +1,678 @@
+{
+  "case": "2005 Case 34__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T08:27:18.793107+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8422,
+          8579
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical trajectory of this 10-year-old girl is one of the most severe and rapidly progressive mucocutaneous syndromes encountered in pediatric medicine."
+    },
+    {
+      "ranges": [
+        [
+          9317,
+          9457
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnostic consideration is **toxic epidermal necrolysis (TEN)**, a severe, life-threatening form of drug-induced epidermolysis."
+    },
+    {
+      "ranges": [
+        [
+          9597,
+          9848
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The temporal relationship between initiation of carbamazepine and the onset of rash—approximately nine days after dose escalation—is classic for a delayed-type hypersensitivity reaction, consistent with the typical 1–3 week latency period seen in TEN."
+    },
+    {
+      "ranges": [
+        [
+          9849,
+          10065
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Carbamazepine is among the most frequently implicated drugs in TEN, particularly in children and in certain genetic subpopulations (e.g., HLA-B*15:02 in Southeast Asian populations, though less common in Caucasians)."
+    },
+    {
+      "ranges": [
+        [
+          10066,
+          10320
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The family history is highly suggestive: the father’s history of sloughing skin after sulfonamide exposure implies a genetic predisposition to severe cutaneous adverse reactions (SCARs), possibly involving HLA alleles or altered drug metabolism pathways."
+    },
+    {
+      "ranges": [
+        [
+          10321,
+          10457
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The rapid progression from morbilliform rash to vesiculation, positive Nikolsky’s sign, and mucosal sloughing are pathognomonic for TEN."
+    },
+    {
+      "ranges": [
+        [
+          10849,
+          11104
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of prior drug exposure other than carbamazepine, the lack of evidence for an alternative infectious trigger at the time of rash onset, and the absence of other autoimmune or hematologic markers further strengthen the case for drug-induced TEN."
+    },
+    {
+      "ranges": [
+        [
+          10458,
+          10848
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The presence of fever, leukocytosis, and multiorgan involvement—including respiratory failure secondary to airway mucosal denudation, gastrointestinal bleeding from mucosal erosion, and renal dysfunction from tubular injury—are consistent with the systemic inflammatory cascade of TEN, which shares pathophysiology with Stevens-Johnson syndrome (SJS) but represents its more extensive form."
+    },
+    {
+      "ranges": [
+        [
+          11106,
+          11274
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the differential must include **Stevens-Johnson syndrome (SJS)**, which is often considered a variant of TEN but limited to <10% body surface area involvement."
+    },
+    {
+      "ranges": [
+        [
+          11275,
+          11431
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "In this case, however, the extent of epidermal detachment was estimated at 97%, which definitively places the diagnosis in the TEN category rather than SJS."
+    },
+    {
+      "ranges": [
+        [
+          11617,
+          11859
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The critical point is that both are mediated by cytotoxic T-cell–driven apoptosis of keratinocytes, triggered by drug antigens presented via HLA molecules, leading to Fas-Fas ligand–mediated keratinocyte death and epidermal-dermal separation."
+    },
+    {
+      "ranges": [
+        [
+          11860,
+          12023
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of mucosal involvement in multiple sites—oral, ocular, genital, respiratory—is a hallmark of both and distinguishes them from other bullous disorders."
+    },
+    {
+      "ranges": [
+        [
+          12025,
+          12218
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another critical consideration is **Staphylococcal scalded skin syndrome (SSSS)**, a toxin-mediated disease caused by *Staphylococcus aureus* strains producing exfoliative toxins (ETA and ETB)."
+    },
+    {
+      "ranges": [
+        [
+          12219,
+          12373
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "SSSS typically occurs in young children and presents with diffuse erythema, tenderness, and superficial epidermal sloughing with a positive Nikolsky sign."
+    },
+    {
+      "ranges": [
+        [
+          12374,
+          12465
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, SSSS lacks significant mucosal involvement, which is a key distinguishing feature."
+    },
+    {
+      "ranges": [
+        [
+          12466,
+          12648
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "In this patient, the oral, corneal, and respiratory mucosal sloughing is profound and universal, far exceeding what is seen in SSSS, which is confined almost exclusively to the skin."
+    },
+    {
+      "ranges": [
+        [
+          12649,
+          12844
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Furthermore, SSSS typically has a more abrupt onset, often following a mild upper respiratory or skin infection, and is not preceded by a prolonged prodrome of fever and rash evolution over days."
+    },
+    {
+      "ranges": [
+        [
+          12845,
+          13039
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Although *Staphylococcus aureus* was later isolated from blood cultures, this is likely a secondary opportunistic infection in the setting of massive skin barrier loss, not the primary etiology."
+    },
+    {
+      "ranges": [
+        [
+          13040,
+          13195
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of a primary focus of infection (e.g., otitis, impetigo, pharyngitis) prior to rash onset further argues against SSSS as the primary diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          13210,
+          13549
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the histopathology of SSSS shows cleavage within the granular layer of the epidermis, whereas TEN demonstrates full-thickness epidermal necrosis with dermal-epidermal separation at the dermoepidermal junction—a distinction that would be confirmed by biopsy (though not explicitly provided, the clinical description is consistent with TEN)."
+    },
+    {
+      "ranges": [
+        [
+          13551,
+          13652
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "**Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)** is another important consideration."
+    },
+    {
+      "ranges": [
+        [
+          13653,
+          13789
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "DRESS typically presents with fever, rash, lymphadenopathy, eosinophilia, and internal organ involvement (liver, kidneys, lungs, heart)."
+    },
+    {
+      "ranges": [
+        [
+          13790,
+          14055
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "While this patient had fever, rash, and multiorgan failure, the absence of eosinophilia (not reported, but neutropenia and thrombocytopenia were prominent), lymphadenopathy, and the absence of hepatic or renal dysfunction early in the course make DRESS less likely."
+    },
+    {
+      "ranges": [
+        [
+          14056,
+          14275
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Furthermore, DRESS usually has a longer latency (2–8 weeks) and a more indolent progression, with rash evolving over days to weeks rather than the rapid transition from morbilliform to full-thickness necrosis seen here."
+    },
+    {
+      "ranges": [
+        [
+          14276,
+          14385
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The rapid progression to epidermal sloughing within 24–48 hours of rash onset is not characteristic of DRESS."
+    },
+    {
+      "ranges": [
+        [
+          14387,
+          14537
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "**Acute hemorrhagic edema of childhood** and **acute febrile neutrophilic dermatosis (Sweet syndrome)** are also in the differential but are unlikely."
+    },
+    {
+      "ranges": [
+        [
+          14538,
+          14712
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Sweet syndrome typically presents with tender, erythematous plaques, fever, neutrophilia, and neutrophilic infiltration on biopsy, without vesiculation or epidermal necrosis."
+    },
+    {
+      "ranges": [
+        [
+          14713,
+          14929
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Acute hemorrhagic edema of childhood is a leukocytoclastic vasculitis occurring in young children, characterized by purpuric plaques, fever, and edema, but it does not cause mucosal sloughing or epidermal detachment."
+    },
+    {
+      "ranges": [
+        [
+          14931,
+          15008
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "**Infectious causes of mucocutaneous syndromes** must be rigorously excluded."
+    },
+    {
+      "ranges": [
+        [
+          15009,
+          15168
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "**Measles** can present with a morbilliform rash, fever, and mucosal changes (Koplik spots), but it does not cause vesiculation, sloughing, or Nikolsky’s sign."
+    },
+    {
+      "ranges": [
+        [
+          15169,
+          15269
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient was fully immunized, and the rash pattern and progression are inconsistent with measles."
+    },
+    {
+      "ranges": [
+        [
+          15270,
+          15477
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "**Varicella** can cause vesicular lesions, but they are typically centrifugal, discrete, and evolve through stages (macules to papules to vesicles to crusts), not confluent erythema with epidermal sloughing."
+    },
+    {
+      "ranges": [
+        [
+          15478,
+          15586
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of a history of exposure and the rapid progression to systemic collapse argue against varicella."
+    },
+    {
+      "ranges": [
+        [
+          15587,
+          15823
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "**Herpes simplex virus (HSV) mucocutaneous infection**, particularly in immunocompromised hosts, can cause extensive mucosal ulceration and cutaneous vesicles, but it is usually localized and does not cause 97% body surface involvement."
+    },
+    {
+      "ranges": [
+        [
+          15824,
+          16000
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Moreover, HSV typically presents with pain, not systemic toxicity, and would not explain the generalized nature of the eruption or the family history of drug-induced reactions."
+    },
+    {
+      "ranges": [
+        [
+          16002,
+          16114
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "**Kawasaki disease** must be considered in a child with fever, rash, mucosal changes, and systemic inflammation."
+    },
+    {
+      "ranges": [
+        [
+          16115,
+          16340
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, Kawasaki disease typically presents with conjunctival injection, strawberry tongue, cervical lymphadenopathy, and extremity changes (edema, erythema, periungual desquamation), not vesiculation or epidermal sloughing."
+    },
+    {
+      "ranges": [
+        [
+          16341,
+          16512
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of these classic features, along with the presence of Nikolsky’s sign and the temporal relationship to carbamazepine, makes Kawasaki disease highly improbable."
+    },
+    {
+      "ranges": [
+        [
+          16514,
+          16755
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "**Autoimmune blistering diseases** such as **pemphigus vulgaris** or **bullous pemphigoid** are exceedingly rare in children and typically present with chronic, relapsing blistering without the acute systemic inflammatory response seen here."
+    },
+    {
+      "ranges": [
+        [
+          16756,
+          16910
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Pemphigus vulgaris causes flaccid bullae and mucosal erosions, but the onset is insidious, and there is no association with recent drug exposure or fever."
+    },
+    {
+      "ranges": [
+        [
+          16911,
+          17056
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The rapid progression over days, the systemic toxicity, and the family history of drug reaction are inconsistent with autoimmune bullous disease."
+    },
+    {
+      "ranges": [
+        [
+          17057,
+          17307
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Furthermore, pemphigus vulgaris is mediated by autoantibodies against desmoglein 3, which would be detected by direct immunofluorescence—a test not performed here but whose absence in the context of this acute presentation strongly argues against it."
+    },
+    {
+      "ranges": [
+        [
+          17309,
+          17434
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "**Meningococcemia** can present with fever, petechiae, purpura, and rapid progression to septic shock and multiorgan failure."
+    },
+    {
+      "ranges": [
+        [
+          17435,
+          17597
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the rash in meningococcemia is typically non-blanching petechiae and purpura, not a blanching morbilliform eruption evolving into vesicles and sloughing."
+    },
+    {
+      "ranges": [
+        [
+          17598,
+          17864
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of blanching erythema and vesicles, along with the absence of disseminated intravascular coagulation (DIC) as a primary feature (thrombocytopenia was present but likely secondary to systemic inflammation and consumption), makes meningococcemia unlikely."
+    },
+    {
+      "ranges": [
+        [
+          17865,
+          18053
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The later isolation of *Stenotrophomonas maltophilia* and *Candida parapsilosis* reflects nosocomial infection in a profoundly immunocompromised, denuded patient, not the primary etiology."
+    },
+    {
+      "ranges": [
+        [
+          18055,
+          18308
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "**Secondary syphilis** can cause a generalized maculopapular rash and mucosal lesions, but it is extremely rare in this age group in developed countries, and the rash is typically non-pruritic, non-vesicular, and not associated with epidermal sloughing."
+    },
+    {
+      "ranges": [
+        [
+          18309,
+          18466
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The timeline, lack of risk factors, and absence of other syphilitic manifestations (e.g., condylomata lata, lymphadenopathy) make this diagnosis implausible."
+    },
+    {
+      "ranges": [
+        [
+          18468,
+          18506
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The family history is a critical clue."
+    },
+    {
+      "ranges": [
+        [
+          18507,
+          18857
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The father’s history of sloughing skin after sulfonamide exposure and a prior seizure treated with phenytoin suggests a heritable predisposition to severe cutaneous adverse reactions (SCARs), likely mediated by specific HLA alleles (e.g., HLA-B*15:02 for carbamazepine, HLA-B*58:01 for allopurinol, HLA-A*31:01 for carbamazepine in some populations)."
+    },
+    {
+      "ranges": [
+        [
+          18858,
+          19133
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although the specific allele is not identified, the recurrence of severe skin reactions in a first-degree relative after exposure to structurally unrelated drugs (sulfonamides and phenytoin) strongly supports a genetic susceptibility to T-cell–mediated drug hypersensitivity."
+    },
+    {
+      "ranges": [
+        [
+          19134,
+          19242
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "This familial pattern, combined with the clinical course, makes drug-induced TEN the overwhelming diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          19244,
+          19514
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The respiratory failure in this patient is not merely a consequence of aspiration or pneumonia; it is directly related to mucosal sloughing of the tracheobronchial tree, leading to airway obstruction, impaired mucociliary clearance, and secondary bacterial colonization."
+    },
+    {
+      "ranges": [
+        [
+          19515,
+          19749
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patchy infiltrates on chest radiography, later progressing to bilateral effusions and worsening air-space opacities, reflect the systemic inflammatory response and secondary infection in a patient with global mucosal barrier loss."
+    },
+    {
+      "ranges": [
+        [
+          19750,
+          19909
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of sepsis with gram-positive, gram-negative, and fungal pathogens is a complication of the loss of epithelial integrity, not the primary cause."
+    },
+    {
+      "ranges": [
+        [
+          19911,
+          20013
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "In summary, the diagnosis of **toxic epidermal necrolysis secondary to carbamazepine** is unequivocal."
+    },
+    {
+      "ranges": [
+        [
+          20014,
+          20235
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The clinical timeline, the hallmark features of widespread epidermal detachment, mucosal sloughing, Nikolsky’s sign, systemic toxicity, and the family history of drug-induced skin reactions all converge on this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          20236,
+          20357
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The exclusion of infectious, autoimmune, and other drug-induced mimics is robust based on the clinical and temporal data."
+    },
+    {
+      "ranges": [
+        [
+          20358,
+          20542
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "While the patient suffered catastrophic complications—including sepsis, multiorgan failure, and prolonged ICU stay—these are well-documented sequelae of TEN, not alternative diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          20543,
+          20785
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The resolution of skin and mucosal lesions over weeks, the return of normal hematologic and renal parameters, and the eventual weaning from mechanical ventilation are consistent with the natural history of TEN with aggressive supportive care."
+    },
+    {
+      "ranges": [
+        [
+          20786,
+          21032
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "This case underscores the lethal potential of delayed hypersensitivity to anticonvulsants in genetically susceptible individuals and highlights the necessity of avoiding carbamazepine and related agents in patients with a family history of SCARs."
+    }
+  ]
+}

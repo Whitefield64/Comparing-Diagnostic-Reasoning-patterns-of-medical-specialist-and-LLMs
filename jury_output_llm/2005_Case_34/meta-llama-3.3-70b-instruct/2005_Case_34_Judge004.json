@@ -1,0 +1,106 @@
+{
+  "case": "2005 Case 34__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T08:00:50.743826+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          12742,
+          13015
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnosis, based on the information provided, appears to be Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN), given the temporal association with carbamazepine use, the characteristic skin and mucosal lesions, and the severe systemic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          9302,
+          9552
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "One of the primary considerations in this case is the diagnosis of Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN), which are severe cutaneous adverse reactions (SCARs) often associated with medication use, including carbamazepine."
+    },
+    {
+      "ranges": [
+        [
+          11039,
+          11219
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Other systemic conditions, such as severe graft-versus-host disease (GVHD) in the setting of bone marrow transplantation, could also present with similar skin and mucosal findings."
+    },
+    {
+      "ranges": [
+        [
+          9683,
+          9855
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The presence of a morbilliform rash, vesicles, and Nikolsky's sign, along with the progression to skin sloughing and mucosal involvement, is consistent with this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11750,
+          11942
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of respiratory failure in this patient is likely multifactorial, with contributions from the underlying condition, secondary infections, and the systemic inflammatory response."
+    },
+    {
+      "ranges": [
+        [
+          10121,
+          10319
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's positive blood cultures for *Staphylococcus aureus*, *Stenotrophomonas maltophilia*, and *Candida parapsilosis* suggest that an infectious component may be contributing to her illness."
+    },
+    {
+      "ranges": [
+        [
+          11335,
+          11615
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's respiratory failure, which required mechanical ventilation, could be attributed to several factors, including the direct effects of the skin and mucosal lesions, secondary infections, or an inflammatory response leading to acute respiratory distress syndrome (ARDS)."
+    },
+    {
+      "ranges": [
+        [
+          11616,
+          11749
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of patchy infiltrates on chest radiography and the requirement for oxygen supplementation support the diagnosis of ARDS."
+    },
+    {
+      "ranges": [
+        [
+          14833,
+          15091
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the presence of secondary infections and other systemic complications highlights the importance of a multidisciplinary approach to management, taking into account the complex interplay of potential causes and the patient's severe, life-threatening condition."
+    }
+  ]
+}

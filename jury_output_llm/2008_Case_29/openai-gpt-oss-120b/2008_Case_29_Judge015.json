@@ -1,0 +1,62 @@
+{
+  "case": "2008 Case 29__openai-gpt-oss-120b.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T09:14:22.153965+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28506,
+          28695
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most parsimonious and comprehensive explanation is **severe restrictive‑type anorexia nervosa with secondary functional fecal impaction and refeeding‑related electrolyte disturbances**."
+    },
+    {
+      "ranges": [
+        [
+          22637,
+          22786
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s bradycardia, orthostatic changes, and constipation all reflect a global autonomic down‑regulation that is well‑documented in severe AN."
+    },
+    {
+      "ranges": [
+        [
+          21505,
+          21656
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The temporal relationship between caloric restriction and the evolution of symptoms further diminishes the likelihood of a primary neoplastic etiology."
+    },
+    {
+      "ranges": [
+        [
+          33977,
+          34186
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s presentation is a vivid illustration of how severe restrictive‑type anorexia nervosa can evolve from a chronic, insidious weight‑loss disorder into an acute, life‑threatening abdominal emergency."
+    },
+    {
+      "ranges": [
+        [
+          26405,
+          26603
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient’s academic excellence and involvement in sports may represent a compensatory drive for achievement, a common feature in individuals with AN who seek control in domains other than eating."
+    }
+  ]
+}

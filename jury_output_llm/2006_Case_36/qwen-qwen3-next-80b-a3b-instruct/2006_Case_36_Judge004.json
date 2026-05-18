@@ -1,0 +1,183 @@
+{
+  "case": "2006 Case 36__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T09:04:41.108397+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4574,
+          4735
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is **Cushing’s syndrome**, specifically **pituitary-dependent Cushing’s disease** or **adrenal Cushing’s syndrome**."
+    },
+    {
+      "ranges": [
+        [
+          6400,
+          6597
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the differential must also consider **gestational hypertension with superimposed gestational diabetes mellitus (GDM)**, which is common but cannot account for the severity of the findings."
+    },
+    {
+      "ranges": [
+        [
+          7708,
+          7792
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another important consideration is **primary hyperaldosteronism (Conn’s syndrome)**."
+    },
+    {
+      "ranges": [
+        [
+          8758,
+          8882
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "We must also consider **adrenocortical carcinoma** or **large adrenal adenoma** as a cause of autonomous cortisol secretion."
+    },
+    {
+      "ranges": [
+        [
+          10233,
+          10303
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A less common but critical consideration is **ectopic ACTH syndrome**."
+    },
+    {
+      "ranges": [
+        [
+          11308,
+          11436
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another important, though rare, differential is **familial glucocorticoid resistance** or **glucocorticoid receptor mutations**."
+    },
+    {
+      "ranges": [
+        [
+          11813,
+          11929
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "We must also consider **pseudo-Cushing’s states**, which can occur in pregnancy due to physiologic hypercortisolism."
+    },
+    {
+      "ranges": [
+        [
+          12544,
+          12757
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A very rare but important consideration is **ACTH-independent macronodular adrenal hyperplasia (AIMAH)**, which can present in middle-aged women with variable cortisol secretion and often has a familial component."
+    },
+    {
+      "ranges": [
+        [
+          13036,
+          13215
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s strong family history of type 2 diabetes and hypertension raises the possibility of **polycystic ovary syndrome (PCOS)** as a contributor to her metabolic phenotype."
+    },
+    {
+      "ranges": [
+        [
+          13667,
+          13737
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Finally, we must consider **medication-induced or iatrogenic causes**."
+    },
+    {
+      "ranges": [
+        [
+          5287,
+          5560
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of classic cutaneous findings does not rule out Cushing’s in pregnancy, as many of the stigmata (e.g., striae, bruising, hirsutism) are masked by the normal physiologic changes of gestation, including skin stretching, increased vascularity, and fluid retention."
+    },
+    {
+      "ranges": [
+        [
+          5561,
+          5902
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The ruddy complexion and facial puffiness are consistent with the cutaneous manifestations of cortisol excess, and the rapid development of severe insulin resistance—evidenced by the need for high-dose insulin and persistent fasting hyperglycemia despite oral agents—parallels the profound gluconeogenic and anti-insulin effects of cortisol."
+    },
+    {
+      "ranges": [
+        [
+          5903,
+          6222
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hypertension, refractory to multiple antihypertensives including labetalol and nifedipine, is also typical of mineralocorticoid excess secondary to cortisol’s off-target activation of the mineralocorticoid receptor (due to saturation of 11β-hydroxysteroid dehydrogenase type 2 in the kidney during cortisol excess)."
+    },
+    {
+      "ranges": [
+        [
+          10927,
+          11147
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If ACTH is elevated, the next step is to determine whether it is pituitary- or ectopic-derived—using high-dose dexamethasone suppression or petrosal sinus sampling, both of which are technically challenging in pregnancy."
+    },
+    {
+      "ranges": [
+        [
+          14323,
+          14558
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The extreme elevation in urinary free cortisol, the severity and refractoriness of hypertension and hyperglycemia, the characteristic facial findings, and the timing of onset in early pregnancy all point strongly toward this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          6598,
+          6865
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "While GDM occurs in up to 10% of pregnancies and gestational hypertension in 5–8%, the combination of severe, refractory hypertension (BP >180/110 mm Hg), fasting glucose consistently >140 mg/dL, and urinary cortisol >1800 μg is incompatible with either entity alone."
+    }
+  ]
+}

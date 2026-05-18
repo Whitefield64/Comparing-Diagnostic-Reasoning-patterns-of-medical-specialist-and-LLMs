@@ -1,0 +1,95 @@
+{
+  "case": "2009 Case 32__openai-gpt-oss-120b.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T09:44:19.259004+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          25926,
+          26243
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The preponderance of **converging phenotypic elements**—particularly the triad of **oculocutaneous albinism**, **platelet dense‑granule storage‑pool deficiency**, and **progressive UIP‑type interstitial fibrosis with upper‑lobe bronchiectasis**—strongly favors **Hermansky‑Pudlak syndrome** as the unifying diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9652,
+          9814
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "In the lung, absent or dysfunctional lamellar bodies impair surfactant turnover and predispose to chronic alveolar injury, inflammation, and progressive fibrosis."
+    },
+    {
+      "ranges": [
+        [
+          8723,
+          9055
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The differential diagnosis must therefore encompass entities that can produce **(1) interstitial lung disease (ILD) with a fibrotic pattern at a young age**, **(2) bronchiectasis**, **(3) pulmonary hypertension secondary to parenchymal disease**, and **(4) extra‑pulmonary manifestations such as albinism and platelet dysfunction**."
+    },
+    {
+      "ranges": [
+        [
+          29494,
+          29733
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "While some of these conditions can produce elements of the observed phenotype (e.g., early‑onset fibrosis, bronchiectasis, or pulmonary hypertension), none can simultaneously account for the pigmentary abnormality and platelet dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          11427,
+          11583
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The constellation of pigmentation abnormality, platelet storage‑pool deficiency, and early‑onset fibrotic lung disease is essentially pathognomonic for HPS."
+    },
+    {
+      "ranges": [
+        [
+          19081,
+          19212
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s lack of any identifiable exposure and the presence of a genetic albinism syndrome make HP an unlikely primary driver."
+    },
+    {
+      "ranges": [
+        [
+          29735,
+          29888
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The convergence of all major clinical clues therefore points unequivocally to **Hermansky‑Pudlak syndrome (most likely HPS‑1)** as the leading diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          30180,
+          30359
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Early recognition of this rare syndrome not only clarifies the pathogenesis of his respiratory failure but also guides life‑saving therapeutic decisions and informs familial risk."
+    }
+  ]
+}

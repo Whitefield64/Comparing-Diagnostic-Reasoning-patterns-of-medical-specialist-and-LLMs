@@ -1,0 +1,150 @@
+{
+  "case": "2009 Case 32__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T09:50:03.083498+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8470,
+          8773
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The constellation of findings—particularly the combination of albinism, pulmonary fibrosis, bronchiectasis, platelet dysfunction, and a family history of similar respiratory disease in siblings with albinism—strongly suggests a rare, inherited disorder rather than a common acquired pulmonary condition."
+    },
+    {
+      "ranges": [
+        [
+          8975,
+          9181
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic hypothesis is **Hermansky-Pudlak syndrome (HPS)**, a rare autosomal recessive disorder of lysosomal trafficking that belongs to the group of oculocutaneous albinism syndromes."
+    },
+    {
+      "ranges": [
+        [
+          9567,
+          9817
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pulmonary manifestation typically presents in the second to fourth decade with dyspnea, cough, and progressive restrictive lung disease, often accompanied by bronchiectasis and honeycombing on high-resolution CT—exactly as described in this case."
+    },
+    {
+      "ranges": [
+        [
+          9991,
+          10253
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of pulmonary hypertension, right ventricular dilation, and elevated right ventricular systolic pressure (56 mm Hg) further supports the progression of this fibrotic interstitial lung disease to cor pulmonale, a known terminal complication of HPS."
+    },
+    {
+      "ranges": [
+        [
+          8774,
+          8973
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "While infectious, inflammatory, and environmental etiologies must be considered, the chronicity, early onset, multisystem involvement, and familial pattern point decisively toward a genetic syndrome."
+    },
+    {
+      "ranges": [
+        [
+          12493,
+          12629
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The absence of positive microbiologic cultures or immunoglobulin deficiencies makes primary immunodeficiency an unlikely primary driver."
+    },
+    {
+      "ranges": [
+        [
+          12630,
+          12743
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The negative sweat chloride test effectively excludes cystic fibrosis, despite the mother’s historical suspicion."
+    },
+    {
+      "ranges": [
+        [
+          12744,
+          12948
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The normal alpha-1 antitrypsin level also rules out alpha-1 antitrypsin deficiency, another common cause of early-onset emphysema and bronchiectasis, though typically without fibrosis or platelet defects."
+    },
+    {
+      "ranges": [
+        [
+          11466,
+          11550
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of albinism and nystagmus is consistent with ocular involvement in HPS."
+    },
+    {
+      "ranges": [
+        [
+          10412,
+          10576
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that his siblings also have albinism and milder respiratory problems strongly supports an autosomal recessive inheritance pattern, which is typical of HPS."
+    },
+    {
+      "ranges": [
+        [
+          19190,
+          19342
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "pattern of pulmonary disease—particularly the upper lobe predominance with honeycombing—is overwhelmingly consistent with Hermansky-Pudlak syndrome. The"
+    },
+    {
+      "ranges": [
+        [
+          18191,
+          18436
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The combination of albinism, platelet dysfunction, pulmonary fibrosis, and familial occurrence is virtually diagnostic of Hermansky-Pudlak syndrome, particularly subtype HPS-1 or HPS-4, which are most commonly associated with pulmonary fibrosis."
+    },
+    {
+      "ranges": [
+        [
+          18437,
+          18563
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "HPS-1 is the most common subtype in Puerto Ricans, and the patient’s Puerto Rican ancestry further strengthens this diagnosis."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "case": "2010 Case 18__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T09:54:07.443508+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          10913,
+          11137
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnosis or diagnoses would likely revolve around issues related to antiretroviral therapy, such as resistance, non-adherence (despite the mother's reports), or inadequate viral suppression due to dosing issues."
+    },
+    {
+      "ranges": [
+        [
+          11138,
+          11368
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The development of opportunistic infections or other systemic illnesses, including malignancies, although possible, seems less likely based on the information provided but cannot be ruled out without further diagnostic evaluation."
+    },
+    {
+      "ranges": [
+        [
+          11561,
+          11809
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of granulomas with necrosis resembling caseation in the biopsy specimen from the supraclavicular abscess is particularly noteworthy, as it suggests a chronic inflammatory process that could be related to TB or another infectious agent."
+    },
+    {
+      "ranges": [
+        [
+          7993,
+          8191
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The prophylactic use of trimethoprim–sulfamethoxazole suggests an attempt to prevent PCP, but the possibility of other opportunistic infections cannot be excluded without further diagnostic testing."
+    },
+    {
+      "ranges": [
+        [
+          13875,
+          14168
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's immunocompromised state, as indicated by his low weight and height percentiles, and the presence of bilateral axillary lymphadenopathy, underscores the need for a thorough evaluation to identify any underlying conditions that might be contributing to his elevated HIV RNA levels."
+    }
+  ]
+}

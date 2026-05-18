@@ -1,0 +1,73 @@
+{
+  "case": "2006 Case 36__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T09:04:41.107727+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          14127,
+          14322
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnosis is **Cushing’s syndrome due to autonomous cortisol secretion**, most likely from an **adrenal adenoma or carcinoma**, with **pituitary Cushing’s disease** as a close second."
+    },
+    {
+      "ranges": [
+        [
+          4574,
+          4735
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is **Cushing’s syndrome**, specifically **pituitary-dependent Cushing’s disease** or **adrenal Cushing’s syndrome**."
+    },
+    {
+      "ranges": [
+        [
+          5903,
+          6222
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hypertension, refractory to multiple antihypertensives including labetalol and nifedipine, is also typical of mineralocorticoid excess secondary to cortisol’s off-target activation of the mineralocorticoid receptor (due to saturation of 11β-hydroxysteroid dehydrogenase type 2 in the kidney during cortisol excess)."
+    },
+    {
+      "ranges": [
+        [
+          14865,
+          15034
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If ACTH is suppressed, an adrenal source is confirmed; if ACTH is elevated or normal, further evaluation for pituitary adenoma (e.g., MRI of the pituitary) is indicated."
+    },
+    {
+      "ranges": [
+        [
+          4736,
+          5025
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The 24-hour urinary free cortisol level of 1865 μg is profoundly elevated—far exceeding the upper limit of normal in pregnancy (which may rise to 2–3 times the non-pregnant upper limit due to increased cortisol-binding globulin and placental production of corticotropin-releasing hormone)."
+    },
+    {
+      "ranges": [
+        [
+          5287,
+          5560
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of classic cutaneous findings does not rule out Cushing’s in pregnancy, as many of the stigmata (e.g., striae, bruising, hirsutism) are masked by the normal physiologic changes of gestation, including skin stretching, increased vascularity, and fluid retention."
+    }
+  ]
+}

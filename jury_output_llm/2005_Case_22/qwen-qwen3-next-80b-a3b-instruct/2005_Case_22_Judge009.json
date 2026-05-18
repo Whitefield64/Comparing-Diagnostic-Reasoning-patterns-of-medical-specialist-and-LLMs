@@ -1,0 +1,84 @@
+{
+  "case": "2005 Case 22__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T07:57:49.289375+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7847,
+          8157
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The key diagnostic challenge lies in distinguishing between primary CNS infection, paraneoplastic or autoimmune encephalopathy, metastatic infiltration, and systemic sepsis with secondary CNS complications—all occurring against a backdrop of profound B-cell immunodeficiency and recurrent bacterial pneumonias."
+    },
+    {
+      "ranges": [
+        [
+          11104,
+          11428
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of T cells with a normal phenotype (CD4:CD8 ratio preserved) is expected in the context of normal immune surveillance. However, the detection of a small number of B cells with the identical immunophenotype as the patient’s CLL—CD19+, CD20+, CD5+, CD23+, lambda-restricted—constitutes a critical diagnostic clue."
+    },
+    {
+      "ranges": [
+        [
+          8159,
+          8397
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The initial presentation—fever, cough, purulent and later hemoptoic sputum—strongly suggests a lower respiratory tract infection, and the isolation of *Pseudomonas aeruginosa* from sputum culture confirms a significant bacterial pathogen."
+    },
+    {
+      "ranges": [
+        [
+          13387,
+          13606
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient had no prodrome of headache, photophobia, or seizure, which are typical of herpes simplex virus (HSV) or varicella-zoster virus (VZV) encephalitis. However, immunocompromised patients may present atypically."
+    },
+    {
+      "ranges": [
+        [
+          12247,
+          12416
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The thalamus, with its dense vascular network and proximity to the third ventricle, is a favored site for CLL infiltration due to its role as a lymphoid trafficking hub."
+    },
+    {
+      "ranges": [
+        [
+          13010,
+          13203
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": " here. The CSF showed no pleocytosis, no elevated protein, and no organisms on Gram stain or culture. The absence of neutrophilic pleocytosis argues strongly against acute bacterial meningitis."
+    },
+    {
+      "ranges": [
+        [
+          17388,
+          17824
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling explanation is a triad of events: (1) a severe, treatment-resistant *P. aeruginosa* pneumonia leading to bacteremia and systemic inflammation; (2) concomitant CNS infiltration by the patient’s own CLL clone, which had been quiescent for years but became active due to the inflammatory milieu of systemic infection; and (3) secondary infectious encephalitis, likely viral, triggered by the profound immunosuppression."
+    }
+  ]
+}

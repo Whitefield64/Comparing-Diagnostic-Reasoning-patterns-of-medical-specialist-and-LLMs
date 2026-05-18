@@ -1,0 +1,139 @@
+{
+  "case": "2005 Case 22__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T07:33:28.100160+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7614,
+          7848
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's symptoms of cough, fever, and productive sputum, along with the radiographic findings of prominence of the right paratracheal stripe and right hilum and bilateral small pleural effusions, suggest a respiratory infection."
+    },
+    {
+      "ranges": [
+        [
+          7435,
+          7612
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of CLL, immunocompromised state, and presentation with fever and productive cough, an infectious etiology is high on the list of potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          8068,
+          8288
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient's initial treatment with azithromycin and subsequent lack of improvement, followed by treatment with amoxicillin without resolution, raises the possibility of a resistant organism or a more complex infection."
+    },
+    {
+      "ranges": [
+        [
+          12276,
+          12414
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of *Pseudomonas aeruginosa* in the sputum and the patient's clinical presentation suggest a significant infectious component."
+    },
+    {
+      "ranges": [
+        [
+          22326,
+          22496
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the patient's underlying CLL and the presence of CLL cells in the CSF suggest that the CNS involvement could be related to the leukemia or a secondary infection."
+    },
+    {
+      "ranges": [
+        [
+          8730,
+          9056
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the flow cytometry results from the CSF showing predominantly T cells with a normal immunophenotype and a small number of B cells with an immunophenotype identical to that of cells associated with CLL do not strongly support an infectious meningitis but rather suggest possible CNS involvement by the patient's underlying CLL."
+    },
+    {
+      "ranges": [
+        [
+          16556,
+          16738
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's clinical presentation and laboratory findings are consistent with sepsis, and the presence of *Pseudomonas aeruginosa* in the sputum suggests a possible infectious caus"
+    },
+    {
+      "ranges": [
+        [
+          21706,
+          21901
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, the patient's clinical presentation and laboratory findings are not typical of a paraneoplastic syndrome, and other diagnoses, such as infectious or inflammatory causes, are more likely."
+    },
+    {
+      "ranges": [
+        [
+          18424,
+          18656
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's history of CLL and the presence of CLL cells in the CSF also raise the possibility of a Richter's transformation, which is a transformation of CLL into a more aggressive lymphoma, such as diffuse large B-cell lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          17367,
+          17554
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's clinical presentation and laboratory findings are consistent with CNS vasculitis, and the presence of CLL cells in the CSF suggests a possible malignant or autoimmune cause."
+    },
+    {
+      "ranges": [
+        [
+          14181,
+          14420
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The integration of clinical findings, laboratory results, and radiographic imaging, along with consideration of the patient's medical history and treatment, is crucial for establishing a definitive diagnosis and guiding further management."
+    },
+    {
+      "ranges": [
+        [
+          15604,
+          15855
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's clinical presentation and laboratory findings also suggest the possibility of a systemic inflammatory response syndrome (SIRS), which can be caused by a variety of conditions, including infections, malignancies, and autoimmune disorders."
+    }
+  ]
+}

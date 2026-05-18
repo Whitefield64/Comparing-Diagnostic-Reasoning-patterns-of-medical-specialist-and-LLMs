@@ -1,0 +1,149 @@
+{
+  "case": "2006 Case 36__meta-llama-3.3-70b-instruct.md",
+  "exported_at": "2026-05-18T08:52:14.229771+00:00",
+  "n_voters": 15,
+  "n_successful": 5,
+  "n_failed": 10,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 2,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 17,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary endocrine disorder, given the combination of hypertension, diabetes, and other clinical features suggestive of Cushing's syndrome."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If Cushing's syndrome is the underlying diagnosis, we would expect to see additional clinical features such as weight gain, hirsutism, and purple striae, as well as laboratory evidence of excessive cortisol production."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnosis of Cushing's syndrome can be confirmed by a combination of clinical evaluation, laboratory testing, and imaging studies, according to established diagnostic criteria."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient's clinical presentation and laboratory findings are consistent with the diagnosis of Cushing's syndrome, and further evaluation and management should be guided by this diagnosis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Similar cases of Cushing's syndrome in pregnancy have been reported in the literature, and the management of these cases typically involves a multidisciplinary approach with close monitoring and timely intervention."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 5,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 6,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 7,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 14,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however, Cushing's syndrome should be considered as a potential underlying cause."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The elevated 24-hour urinary cortisol measurement of 1865 μg is a strong indicator of Cushing's syndrome, which could account for her hypertension, diabetes, and other clinical features."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 10,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the patient's recent onset of symptoms, including significant hypertension and diabetes, in the context of pregnancy, also raises considerations about the potential impact of these conditions on both maternal and fetal health is an example of intuition."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 13,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 52,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 21,
+      "n_unresolved": 0,
+      "unresolved": []
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "case": "2005 Case 22__qwen-qwen3-next-80b-a3b-instruct.md",
+  "exported_at": "2026-05-18T07:59:20.273787+00:00",
+  "n_voters": 15,
+  "n_successful": 14,
+  "n_failed": 1,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, instead: The patient’s clinical deterioration occurred over days to weeks, not hours, further arguing against acute pyogenic meningitis."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many potential causes of encephalopathy in this patient, including primary CNS infection, paraneoplastic or autoimmune encephalopathy, metastatic infiltration, and systemic sepsis with secondary CNS complications, must be systematically evaluated using a combination of clinical, laboratory, and imaging findings."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of fever, productive cough with hemoptysis, worsening confusion, focal neurological deficits, and eventual coma in the setting of profound immunosuppression is most consistent with an acute, focal, infectious or inflammatory process in the thalamus."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but the process of ruling out other diagnoses is: The patient’s clinical deterioration occurred over days to weeks, not hours, further arguing against acute pyogenic meningitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is not explicitly stated in the provided text, but the reasoning leads to: The most compelling explanation is a triad of events: (1) a severe, treatment-resistant *P. aeruginosa* pneumonia leading to bacteremia and systemic inflammation; (2) concomitant CNS infiltration by the patient’s own CLL clone, which had been quiescent for years but became active due to the inflammatory milieu of systemic infection; and (3) secondary infectious encephalitis, likely viral, triggered by the profound immunosuppression."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of neurological decline—initial mild confusion, evolving to somnolence, then to right-sided weakness, nuchal rigidity, and finally coma—points to a process involving the CNS."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary CNS lymphoma or an infectious encephalitis, but the presence of CLL cells in CSF makes CNS infiltration by CLL a more compelling explanation."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s clinical deterioration occurred over days to weeks, not hours, further arguing against acute pyogenic meningitis, and the MRI findings of restricted diffusion in the thalamus with surrounding edema are not typical of embolic stroke, which usually shows more circumscribed, wedge-shaped infarcts."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly applicable here, but the process of considering multiple diagnoses and ruling out the most life-threatening first is relevant, as seen in: The progression to altered mental status and neurologic decline is the critical pivot in this case."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of fever, productive cough with hemoptysis, worsening confusion, focal neurological deficits, and eventual coma in the setting of profound immunosuppression is most consistent with an infectious or inflammatory process."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is not explicitly stated here, but the reasoning process suggests an intuition about the diagnosis based on the patient’s complex presentation."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s prolonged immunosuppression, prior fludarabine therapy, hypogammaglobulinemia, and history of recurrent infections created the perfect storm for this rare but devastating complication, similar to cases where immunosuppression leads to unusual infections or malignancies."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many potential causes of encephalopathy in this patient, including primary CNS infection, paraneoplastic or autoimmune encephalopathy, metastatic infiltration, and systemic sepsis with secondary CNS complications, must be considered and systematically evaluated."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of neurological decline, with initial mild confusion evolving to somnolence, then to right-sided weakness, nuchal rigidity, and finally coma, points to a process involving the CNS."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of encephalitis can be grouped on the basis of underlying cause, such as infection, autoimmune disease, or paraneoplastic syndromes."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary CNS lymphoma or an infectious encephalitis, although the patient had no history of autoimmune disorders."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary CNS lymphoma or an infectious encephalitis, but the presence of CLL cells in CSF makes CNS infiltration by CLL a more compelling explanation."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many potential causes of encephalopathy in this patient can be grouped based on underlying mechanisms, such as infection, autoimmune processes, and direct CNS infiltration by CLL."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The initial consideration must be infectious causes, given the patient’s immunosuppressed state and recent severe bacterial infection, followed by consideration of autoimmune and malignant processes."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The CSF findings, including the presence of CLL cells, and the MRI results showing restricted diffusion in the thalamus, are consistent with CNS infiltration by CLL, and rule out other potential causes such as bacterial meningitis or viral encephalitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The clinical presentation of progressive neurological decline following a severe bacterial infection, combined with the presence of CLL cells in CSF, is consistent with CNS infiltration by CLL."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "This case is reminiscent of previously reported cases of CNS infiltration by CLL, where the leukemic cells infiltrate the CNS and cause neurological dysfunction."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 0,
+      "unresolved": []
+    }
+  ]
+}

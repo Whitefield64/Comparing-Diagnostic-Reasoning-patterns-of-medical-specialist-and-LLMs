@@ -1,6 +1,6 @@
 {
   "case": "1996 Case 02__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T02:17:57.554773+00:00",
+  "exported_at": "2026-05-18T07:15:32.564714+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -9,361 +9,106 @@
       "voter_id": 1,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of liver masses can be grouped based on their imaging characteristics and clinical presentation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological and imaging findings, as well as the clinical presentation, rule out common causes of hepatic dysfunction such as cirrhosis, steatohepatitis, or viral hepatitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, hypervascular, solid hepatic mass with central necrosis on imaging is atypical for a simple hemangioma."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary hepatic adenoma, given the patient’s demographics and oral contraceptive use."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of liver masses can be grouped based on their imaging characteristics and clinical presentation."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, and we must first rule out other more common causes of hepatic masses."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, and this case is consistent with hepatic adenoma."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, hypervascular hepatic mass with central necrosis and a systolic bruit is highly suggestive of hepatic adenoma."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary hepatic adenoma, given the patient’s demographics and oral contraceptive use."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of hepatic adenoma do not cause systemic symptoms, the presence of intermittent fevers and weight loss in this case raises the probability of a more serious underlying condition."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The presence of a systolic bruit in this patient is reminiscent of cases of hepatic adenoma with arteriovenous shunting, and this diagnosis should be considered."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not considered here but the description of the patient’s symptoms and imaging findings is highly suggestive of a specific diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, hypervascular mass with central necrosis and a bruit is classic for hepatic adenoma."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary hepatic adenoma, given the patient’s demographics and oral contraceptive use."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient requires immediate surgical or interventional evaluation, regardless of biopsy results, based on similar cases of hepatic adenoma with high risk of rupture."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the intuition that the patient has a locally aggressive tumor is consistent with hepatic adenoma."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 13,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The presence of a systolic bruit over the mass is perhaps the most telling physical sign."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned but the most compelling diagnosis here is hepatic adenoma given the patient’s demographics, oral contraceptive use, hypervascular mass with central scar, and systemic symptoms likely related to tumor necrosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, hypervascular, solid hepatic mass with central necrosis on imaging is consistent with adenoma."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, although not yet available, will be crucial in confirming the diagnosis and ruling out malignancy."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, hypervascular mass with central necrosis is consistent with several diagnoses, including hepatic adenoma and metastatic renal cell carcinoma."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of hepatic adenoma is increased by the patient’s demographics, oral contraceptive use, and hypervascular mass with central scar."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The clinical presentation is reminiscent of cases of hepatic adenoma, which can present with pain, fever, and weight loss due to intratumoral necrosis or hemorrhage."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a hypervascular mass with central necrosis, and the MRI signal characteristics are consistent with adenoma: hypointense on T1 (due to fat or hemorrhage), isointense on T2."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, hypervascular mass with central necrosis is consistent with adenoma."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary hepatic adenoma, given the patient’s demographics and oral contraceptive use."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s presentation is similar to that of other reported cases of hepatic adenoma, which often present with pain and fever."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The intermittent fevers could be due to small, self-resolving hemorrhagic or necrotic events within the tumor."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, although not yet obtained, will be crucial in confirming the diagnosis and ruling out other possibilities."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of symptoms and imaging findings is consistent with a hepatic adenoma, particularly given the patient's age and use of oral contraceptives."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary hepatic adenoma, given the patient's demographics and the characteristics of the lesion."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of a systolic bruit over the mass increases the likelihood of a hepatic adenoma, as this is a rare but classic finding in large adenomas."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's presentation is reminiscent of cases of hepatic adenoma, which can present with intermittent fevers, weight loss, and a hypervascular mass with central necrosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of intermittent fevers, weight loss, and a single large liver lesion is consistent with a diagnosis of hepatic adenoma or metastatic renal cell carcinoma."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary hepatic adenoma, given the patient’s demographics, oral contraceptive use, hypervascular mass with central scar, and systemic symptoms likely related to tumor necrosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of liver masses can be grouped on the basis of underlying cause, such as infection, inflammation, neoplasm, trauma, or vascular malformations."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, solitary mass with central necrosis and fever is more typical of a focal infectious or inflammatory process."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of HCC involve the liver in a cirrhotic background, the absence of cirrhosis here lowers the probability of HCC."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The intermittent fevers could be due to small, self-resolving hemorrhagic or necrotic events within the tumor."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of symptoms and imaging findings is most consistent with a hepatic adenoma."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the intuition is that this patient has a tumor related to her oral contraceptive use."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, solitary mass with central necrosis and fever is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

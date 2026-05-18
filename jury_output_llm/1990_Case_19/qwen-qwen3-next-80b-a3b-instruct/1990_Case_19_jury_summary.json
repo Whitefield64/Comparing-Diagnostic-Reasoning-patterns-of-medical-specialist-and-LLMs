@@ -1,111 +1,108 @@
 {
   "case": "1990 Case 19__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-17T22:55:20.098197+00:00",
+  "exported_at": "2026-05-18T07:13:56.775864+00:00",
   "n_voters": 15,
-  "n_successful": 14,
-  "n_failed": 1,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 10,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to be related to the accumulation of signs that point toward a systemic, likely infectious or neoplastic, process with secondary hepatic involvement."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of hydatid disease, we would expect to see a large, well-circumscribed, multiseptated, nonenhancing hepatic cystic mass on imaging, which is consistent with the patient’s presentation."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "Amebic abscesses typically present with fever, hepatomegaly, right upper quadrant pain (often referred to the shoulder), weight loss, and systemic symptoms, which is partially consistent with the patient’s presentation."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of liver masses can be grouped on the basis of underlying cause, such as infection, neoplasm, trauma, or vascular abnormalities."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, which typically includes abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected liver, and the absence of antibodies specific to certain pathogens rule out some diagnoses and support others."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of presentation matches the description of hydatid disease, which typically presents with a large, well-circumscribed, multiseptated, nonenhancing hepatic cystic mass on imaging."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary infectious or neoplastic process with secondary hepatic involvement, given the combination of systemic symptoms and imaging findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although the negative amebic serology supports the diagnosis of hydatid disease, the lack of response to metronidazole and the presence of certain clinical features increase the probability of this diagnosis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with hydatid disease may present with a large, well-circumscribed, multiseptated, nonenhancing hepatic cystic mass on imaging, which is consistent with the patient’s presentation."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If an occult primary exists, this is unlikely."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had hepatoblastoma, we would expect to see a solid, enhancing component on imaging, often with calcifications, and may have elevated alpha-fetoprotein (AFP)."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The lack of response to metronidazole makes amebiasis less likely, but the clinical presentation and imaging findings still suggest a possible infectious etiology."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
       "failed": false,
       "n_resolved": 15,
-      "n_unresolved": 9,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 8,
       "unresolved": [
         {
           "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of hepatoblastoma, we would expect to see a solid, enhancing component on imaging, often with calcifications, and may have elevated alpha-fetoprotein (AFP), which is not reported here."
+          "text": "If an occult primary exists, this could be a case of metastatic disease, but in a 12-year-old with no prior malignancy, this is unlikely."
         },
         {
           "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of liver masses can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+          "text": "The many types of liver masses can be grouped on the basis of underlying cause, such as infection, neoplasm, or inflammation."
         },
         {
           "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
         },
         {
           "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but in this case, the clinical and radiological data converge most compellingly on hydatid disease."
         },
         {
           "label_name": "IND_PATTERN",
@@ -113,424 +110,38 @@
         },
         {
           "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, but the lack of response to metronidazole and negative serology makes this less likely."
         },
         {
           "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients."
+          "text": "The probability of hydatid disease is high given the epidemiology and imaging findings, and the absence of a clearly defined capsule on MRI is somewhat atypical, but this may be due to rupture, infection, or degeneration."
         },
         {
           "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of hydatid disease, we would expect to see a large, well-circumscribed, multiseptated, nonenhancing hepatic cystic mass on imaging."
+          "text": "It has been reported that patients with hydatid disease may have a catastrophic reaction after high-dose corticosteroid therapy is begun, and this patient’s history of swimming in freshwater and exposure to rural environments in multiple endemic countries supports this diagnosis."
         }
       ]
-    },
-    {
-      "voter_id": 5,
-      "failed": false,
-      "n_resolved": 6,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of hydatid disease, we would expect to see a large, well-circumscribed, multiseptated, nonenhancing hepatic cystic mass on imaging, which is consistent with the patient's presentation."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of liver masses can be grouped on the basis of underlying cause, such as infection, neoplasm, trauma, or congenital anomaly."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, and we must first rule out infectious or inflammatory causes before considering neoplastic etiologies."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not mentioned, but the clinical and radiological data converge most compellingly on hydatid disease."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, complex, nonhomogeneous hepatic mass with cystic and solid components is typical of a hydatid cyst."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary hydatid cyst of the liver, given the patient's travel history and the imaging findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although the negative amebic serology supports the diagnosis of hydatid disease, the lack of response to metronidazole and the presence of systemic symptoms make it less likely that this is a simple case of amebiasis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar case of a patient with a large hepatic cyst who was diagnosed with hydatid disease after returning from travel to an endemic region."
-        }
-      ]
-    },
-    {
-      "voter_id": 6,
-      "failed": false,
-      "n_resolved": 7,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of amebic liver abscess, we would expect to see a single, large, right-lobe abscess with a “flask-shaped” appearance on imaging, often with internal septations and necrotic debris."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of liver masses can be grouped on the basis of underlying cause, such as infection, neoplasm, or vascular disease."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but in this case, the clinical, geographic, and radiological data converge most compellingly on hydatid disease."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, well-circumscribed, multiseptated, nonenhancing hepatic cystic mass is classic for hydatid disease."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, though hydatid disease is also possible."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of hydatid disease is increased by the patient’s history of travel to endemic regions and the presence of a large, well-circumscribed, multiseptated, nonenhancing hepatic cystic mass."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with hydatid disease may have a catastrophic reaction after high-dose corticosteroid therapy is begun, but this is not typically a consideration in the diagnosis of liver masses."
-        }
-      ]
-    },
-    {
-      "voter_id": 7,
-      "failed": false,
-      "n_resolved": 6,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If hydatid disease is present, we would expect to see a large, well-circumscribed, multiseptated, nonenhancing hepatic cystic mass on imaging, which is consistent with the patient’s presentation."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, which typically includes abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not explicitly mentioned, but the clinical, geographic, and radiological data converge most compellingly on hydatid disease."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, complex, nonhomogeneous hepatic mass with cystic and solid components, combined with the patient’s travel history and laboratory findings, is highly suggestive of a parasitic infection such as hydatid disease."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of hydatid disease involve the liver, the presence of a large, well-circumscribed, multiseptated, nonenhancing hepatic cystic mass on imaging increases the probability of this diagnosis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with hydatid disease may have a catastrophic reaction after high-dose corticosteroid therapy is begun, which is a consideration in this patient’s treatment."
-        }
-      ]
-    },
-    {
-      "voter_id": 8,
-      "failed": false,
-      "n_resolved": 8,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of amebic liver abscess, we would expect to see a more typical presentation with fever, hepatomegaly, right upper quadrant pain, and weight loss, often with a history of travel to endemic areas."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not mentioned, but the imaging findings and clinical presentation are consistent with hydatid disease."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "The patient’s history of travel to regions with high TB burden (Turkey, Tunisia) and the presence of systemic symptoms make this plausible, though less likely than hydatid disease."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The lack of response to metronidazole and the negative amebic serology decrease the probability of amebic liver abscess, while the imaging findings and epidemiology increase the probability of hydatid disease."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The clinical presentation and imaging findings are reminiscent of cases of hydatid disease reported in the literature, which often present with fever, weight loss, and hepatomegaly, and are typically associated with a history of travel to endemic areas."
-        }
-      ]
-    },
-    {
-      "voter_id": 9,
-      "failed": false,
-      "n_resolved": 7,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of hydatid disease, we would expect to see a large, well-circumscribed, multiseptated, nonenhancing hepatic cystic mass on imaging."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of liver masses can be grouped on the basis of underlying cause, such as infection, neoplasm, or vascular anomaly."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, and we must first rule out infectious or inflammatory causes."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not applicable here, but the clinical and radiological data are consistent with hydatid disease."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, well-circumscribed, cystic mass with septations is classic for hydatid disease."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a parasitic infection, given the patient’s travel history and the imaging findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of hepatic masses in children are due to malignant tumors, the probability of hydatid disease is increased given the patient’s travel history and the characteristic imaging findings."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar case of a patient with a large hepatic cystic mass who was diagnosed with hydatid disease after traveling to an endemic region."
-        }
-      ]
-    },
-    {
-      "voter_id": 10,
-      "failed": false,
-      "n_resolved": 9,
-      "n_unresolved": 10,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of hepatoblastoma, we would expect to see solid, enhancing components on imaging, often with calcifications, and may have elevated alpha-fetoprotein (AFP)."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of amebic liver abscess, we would expect to see a single, large, right-lobe abscess with a “flask-shaped” appearance on imaging, often with internal septations and necrotic debris."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of hydatid disease, we would expect to see a large, well-circumscribed, unilocular or multilocular, nonenhancing hepatic mass with internal septations, calcifications, and daughter cysts."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of liver masses can be grouped on the basis of underlying cause, such as infection, neoplasm, trauma, or congenital anomalies."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, complex, nonhomogeneous hepatic mass with cystic and solid components is typical of a hydatid cyst."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of hydatid disease is increased by the patient’s travel history to endemic regions and the presence of a large, well-circumscribed, nonenhancing hepatic mass with internal septations."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with hydatid disease may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        }
-      ]
-    },
-    {
-      "voter_id": 11,
-      "failed": false,
-      "n_resolved": 6,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of amebic liver abscess, we would expect to see a more rapid response to metronidazole, which is not the case here."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not explicitly mentioned, however, the clinical and radiological data converge most compellingly on hydatid disease."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, complex, nonhomogeneous hepatic mass with cystic and solid components is typical of a hydatid cyst."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of hydatid disease involve the liver, the involvement of other organs such as the lung, spleen, or kidney is possible, and the probability of such involvement should be considered in the diagnostic workup."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with hydatid disease may have a catastrophic reaction after high-dose corticosteroid therapy is begun, which should be taken into account when considering treatment options."
-        }
-      ]
-    },
-    {
-      "voter_id": 12,
-      "failed": true,
-      "n_resolved": 0,
-      "n_unresolved": 0,
-      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 9,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of amebic liver abscess, we would expect to see a single, large, right-lobe abscess with a “flask-shaped” appearance on imaging, often with internal septations and necrotic debris."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The absence of diarrhea at the time of presentation does not rule out amebic liver abscess, as up to 50% of patients with amebic liver abscess have no concurrent intestinal symptoms."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of liver masses can be grouped on the basis of underlying cause, such as infection, neoplasm, or autoimmune disease."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, complex, nonhomogeneous hepatic mass with cystic and solid components is typical of a hydatid cyst."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of hydatid disease involve the liver, involvement of other organs such as the lungs, spleen, or kidney has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with hydatid disease may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 9,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The prolonged PTT and bleeding time may reflect hepatic compression or vitamin K malabsorption due to biliary compression."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has a hydatid cyst, we would expect to see a large, well-circumscribed, nonenhancing hepatic mass with internal septations, calcifications, and daughter cysts on imaging."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of liver masses can be grouped on the basis of underlying cause, such as infection, neoplasm, or parasitic disease."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, which typically includes abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but in this case, the imaging findings and travel history are consistent with hydatid disease."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, complex, nonhomogeneous hepatic mass with cystic and solid components, combined with fever, weight loss, and hepatomegaly, is typical of a systemic, likely infectious or neoplastic, process with secondary hepatic involvement."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although the negative serologic test and lack of response to metronidazole raise concerns."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of hydatid disease involve the liver, the patient’s history of travel to regions with high TB burden and the presence of systemic symptoms make tuberculosis a plausible diagnosis, but the imaging findings are more suggestive of hydatid disease."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar case of a patient with a large hepatic cystic mass, who was later diagnosed with hydatid disease, and the clinical presentation and imaging findings in this case are reminiscent of that case."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of hepatoblastoma, we would expect to see a solid, enhancing component on imaging, often with calcifications, and may have elevated alpha-fetoprotein (AFP)."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of liver masses can be grouped on the basis of underlying cause, such as infection, neoplasm, trauma, or congenital anomalies."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, which typically includes abdominal masses, often with abdominal discomfort and weight loss; fever is rare."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not mentioned, but the clinical and radiological data converge most compellingly on hydatid disease."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The classic presentation of amebic liver abscess includes a single, large, right-lobe abscess with a “flask-shaped” appearance on imaging, often with internal septations and necrotic debris."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The lack of response to metronidazole and the negative amebic serology make hydatid disease more likely than amebic abscess."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but this patient’s presentation is more consistent with hydatid disease."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

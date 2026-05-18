@@ -1,0 +1,579 @@
+{
+  "case": "2006 Case 36__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T08:52:14.227769+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3852,
+          4072
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given her recent onset of symptoms, family history of hypertension and type 2 diabetes, and the presence of polyuria, polydipsia, and increased facial puffiness, a comprehensive differential diagnosis must be considered."
+    },
+    {
+      "ranges": [
+        [
+          4074,
+          4230
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Firstly, the new-onset hypertension in pregnancy suggests several possibilities, including preeclampsia, gestational hypertension, and chronic hypertension."
+    },
+    {
+      "ranges": [
+        [
+          4231,
+          4387
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Preeclampsia is a condition characterized by the onset of hypertension and often proteinuria after 20 weeks of gestation in a previously normotensive woman."
+    },
+    {
+      "ranges": [
+        [
+          4388,
+          4560
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "However, the patient's symptoms began at 19 weeks, which is slightly earlier than typical for preeclampsia, but still within a plausible range given individual variability."
+    },
+    {
+      "ranges": [
+        [
+          4561,
+          4738
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Gestational hypertension, on the other hand, refers to hypertension that develops after 20 weeks of gestation without the presence of proteinuria or other signs of preeclampsia."
+    },
+    {
+      "ranges": [
+        [
+          4739,
+          4937
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Chronic hypertension, defined as hypertension that predates pregnancy or develops before 20 weeks of gestation, is another possibility, especially given the patient's family history of hypertension."
+    },
+    {
+      "ranges": [
+        [
+          4939,
+          5128
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of diabetes in this patient, particularly with a blood glucose level of 346 mg per deciliter 1 hour after a glucose challenge, indicates gestational diabetes mellitus (GDM)."
+    },
+    {
+      "ranges": [
+        [
+          5129,
+          5262
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "GDM is defined as diabetes diagnosed for the first time during pregnancy, and it typically develops in the second or third trimester."
+    },
+    {
+      "ranges": [
+        [
+          5263,
+          5420
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the patient's significant hyperglycemia and the need for insulin therapy suggest a more pronounced metabolic derangement than typically seen in GDM."
+    },
+    {
+      "ranges": [
+        [
+          5422,
+          5621
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Considering the patient's clinical presentation, including hypertension, diabetes, polyuria, polydipsia, and facial puffiness, Cushing's syndrome should be considered as a potential underlying cause."
+    },
+    {
+      "ranges": [
+        [
+          5622,
+          5814
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cushing's syndrome is a rare endocrine disorder caused by excess cortisol production, which can lead to hypertension, glucose intolerance or diabetes, weight gain, and other metabolic changes."
+    },
+    {
+      "ranges": [
+        [
+          5815,
+          5954
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's ruddy complexion and mild periorbital edema could be indicative of cortisol excess, although these findings are not specific."
+    },
+    {
+      "ranges": [
+        [
+          5955,
+          6142
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The elevated 24-hour urinary cortisol measurement of 1865 μg is a critical piece of evidence supporting the diagnosis of Cushing's syndrome, as it indicates excessive cortisol production."
+    },
+    {
+      "ranges": [
+        [
+          6144,
+          6277
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other endocrine disorders, such as pheochromocytoma or hyperaldosteronism, could also potentially explain the patient's hypertension."
+    },
+    {
+      "ranges": [
+        [
+          6278,
+          6482
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Pheochromocytoma, a catecholamine-secreting tumor, typically presents with episodic hypertension, headaches, palpitations, and diaphoresis, which are not prominent features in this patient's presentation."
+    },
+    {
+      "ranges": [
+        [
+          6483,
+          6751
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Hyperaldosteronism, characterized by excess aldosterone production leading to hypertension and hypokalemia, is another possibility, although the patient's presentation lacks specific indicators of this condition, such as significant hypokalemia or metabolic alkalosis."
+    },
+    {
+      "ranges": [
+        [
+          6753,
+          6930
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the patient's family history of type 2 diabetes and hypertension, it is also important to consider genetic or familial syndromes that could predispose to these conditions."
+    },
+    {
+      "ranges": [
+        [
+          6931,
+          7104
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "However, without more specific information on the patient's family history or genetic testing, it is difficult to speculate on the presence of a particular genetic syndrome."
+    },
+    {
+      "ranges": [
+        [
+          7105,
+          7351
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "For instance, familial hyperinsulinism or other genetic forms of diabetes could potentially contribute to the patient's metabolic presentation, but these would not directly explain the hypertension or other signs suggestive of Cushing's syndrome."
+    },
+    {
+      "ranges": [
+        [
+          7353,
+          7579
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Inflammatory or autoimmune causes of hypertension and diabetes, such as autoimmune adrenalitis or thyroiditis, are less likely given the patient's clinical presentation and lack of specific indicators of an autoimmune process."
+    },
+    {
+      "ranges": [
+        [
+          7580,
+          7814
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Autoimmune thyroiditis, for example, could lead to thyroid dysfunction, which in turn might affect glucose metabolism, but the patient's thyroid examination was normal, and there is no mention of thyroid function tests being abnormal."
+    },
+    {
+      "ranges": [
+        [
+          7816,
+          8028
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Structural causes, such as renal artery stenosis or coarctation of the aorta, could potentially explain the hypertension but would not account for the diabetes or other metabolic changes observed in this patient."
+    },
+    {
+      "ranges": [
+        [
+          8029,
+          8202
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Renal artery stenosis, for instance, is a cause of secondary hypertension due to decreased renal perfusion leading to activation of the renin-angiotensin-aldosterone system."
+    },
+    {
+      "ranges": [
+        [
+          8203,
+          8346
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "However, this condition would not directly cause the significant hyperglycemia or the other clinical features suggestive of Cushing's syndrome."
+    },
+    {
+      "ranges": [
+        [
+          8348,
+          8543
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Systemic diseases, such as systemic lupus erythematosus (SLE) or scleroderma, can cause hypertension and potentially affect glucose metabolism indirectly through inflammation or other mechanisms."
+    },
+    {
+      "ranges": [
+        [
+          8544,
+          8693
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "However, the patient's presentation lacks specific features of these diseases, such as a characteristic rash, arthralgias, or esophageal dysmotility."
+    },
+    {
+      "ranges": [
+        [
+          8694,
+          8893
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "SLE, for example, can cause a wide range of systemic symptoms, including renal disease that might lead to hypertension, but the patient's presentation does not suggest an autoimmune systemic disease."
+    },
+    {
+      "ranges": [
+        [
+          8895,
+          9099
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Rare causes, including multiple endocrine neoplasia (MEN) syndromes or other genetic disorders affecting endocrine function, should also be considered, especially given the patient's complex presentation."
+    },
+    {
+      "ranges": [
+        [
+          9100,
+          9271
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "MEN syndromes are characterized by the occurrence of tumors in multiple endocrine glands, and some forms can include Cushing's syndrome as part of their clinical spectrum."
+    },
+    {
+      "ranges": [
+        [
+          9272,
+          9376
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, without more specific findings or a suggestive family history, these diagnoses are less likely."
+    },
+    {
+      "ranges": [
+        [
+          9378,
+          9604
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's recent onset of symptoms, including significant hypertension and diabetes, in the context of pregnancy, also raises considerations about the potential impact of these conditions on both maternal and fetal health."
+    },
+    {
+      "ranges": [
+        [
+          9605,
+          9837
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Pregnancy itself can exacerbate or unveil underlying metabolic or cardiovascular conditions due to the significant physiological changes it entails, including alterations in blood volume, vascular resistance, and glucose metabolism."
+    },
+    {
+      "ranges": [
+        [
+          9839,
+          9950
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "In conclusion, the patient's presentation suggests a complex interplay of metabolic and endocrine disturbances."
+    },
+    {
+      "ranges": [
+        [
+          9951,
+          10191
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "While several diagnoses could potentially explain aspects of her presentation, the elevated urinary cortisol level is a strong indicator of Cushing's syndrome, which could account for her hypertension, diabetes, and other clinical features."
+    },
+    {
+      "ranges": [
+        [
+          10192,
+          10349
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Further evaluation, including imaging studies and potentially additional endocrine testing, would be necessary to confirm the diagnosis and guide management."
+    },
+    {
+      "ranges": [
+        [
+          10351,
+          10536
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The presence of Cushing's syndrome in pregnancy poses significant challenges for both mother and fetus, necessitating careful monitoring and multidisciplinary care to optimize outcomes."
+    },
+    {
+      "ranges": [
+        [
+          10537,
+          10718
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "This includes close surveillance of blood pressure and glucose levels, as well as consideration of the potential effects of excess cortisol on fetal development and maternal health."
+    },
+    {
+      "ranges": [
+        [
+          10719,
+          10897
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Given the potential for significant morbidity associated with uncontrolled hypertension and diabetes in pregnancy, prompt and effective management of these conditions is crucial."
+    },
+    {
+      "ranges": [
+        [
+          10899,
+          11089
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "This may involve the use of antihypertensive medications that are safe in pregnancy, such as methyldopa, labetalol, or nifedipine, as well as insulin therapy to control blood glucose levels."
+    },
+    {
+      "ranges": [
+        [
+          11090,
+          11409
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Additionally, considering the potential for Cushing's syndrome, the use of medications that can counteract the effects of excess cortisol, such as metyrapone, might be considered in certain cases, although this would require careful evaluation and monitoring due to the potential risks and side effects of such therapy."
+    },
+    {
+      "ranges": [
+        [
+          11411,
+          11614
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The diagnosis and management of Cushing's syndrome in pregnancy also underscore the importance of a multidisciplinary approach, involving obstetricians, endocrinologists, and other specialists as needed."
+    },
+    {
+      "ranges": [
+        [
+          11615,
+          11819
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "This collaborative approach can help ensure that the complex needs of the patient are met, balancing the control of the underlying endocrine disorder with the unique considerations and risks of pregnancy."
+    },
+    {
+      "ranges": [
+        [
+          11821,
+          12010
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Ultimately, a thorough understanding of the patient's condition, combined with careful management and monitoring, will be essential in optimizing outcomes for both the mother and the fetus."
+    },
+    {
+      "ranges": [
+        [
+          12011,
+          12301
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The complexity of this case highlights the need for a comprehensive and nuanced approach to diagnosis and treatment, taking into account the interplay between the patient's endocrine, metabolic, and cardiovascular systems, as well as the specific challenges and considerations of pregnancy."
+    },
+    {
+      "ranges": [
+        [
+          12303,
+          12438
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the potential for significant maternal and fetal morbidity, it is crucial to prioritize close monitoring and timely intervention."
+    },
+    {
+      "ranges": [
+        [
+          12439,
+          12595
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "This may involve regular assessments of blood pressure, glucose levels, and fetal well-being, as well as prompt adjustments to the treatment plan as needed."
+    },
+    {
+      "ranges": [
+        [
+          12596,
+          12876
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's care should be coordinated by a team of specialists, including obstetricians, endocrinologists, and potentially other experts, to ensure that all aspects of her condition are addressed and that she receives comprehensive and supportive care throughout her pregnancy."
+    },
+    {
+      "ranges": [
+        [
+          12878,
+          13077
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "In addition to the medical management of the patient's condition, it is also important to consider the potential psychological and emotional impacts of a diagnosis of Cushing's syndrome in pregnancy."
+    },
+    {
+      "ranges": [
+        [
+          13078,
+          13223
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient may experience significant stress and anxiety related to her condition, as well as concerns about the potential effects on her fetus."
+    },
+    {
+      "ranges": [
+        [
+          13224,
+          13424
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Providing emotional support and counseling, as well as educating the patient about her condition and the treatment options available, can help to mitigate these effects and promote a positive outcome."
+    },
+    {
+      "ranges": [
+        [
+          13426,
+          13707
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Overall, the diagnosis and management of Cushing's syndrome in pregnancy require a thoughtful and multidisciplinary approach, taking into account the complex interplay of metabolic, endocrine, and cardiovascular factors, as well as the unique considerations and risks of pregnancy."
+    },
+    {
+      "ranges": [
+        [
+          13708,
+          13922
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "By prioritizing close monitoring, timely intervention, and comprehensive care, it is possible to optimize outcomes for both the mother and the fetus, despite the challenges posed by this complex and rare condition."
+    }
+  ]
+}

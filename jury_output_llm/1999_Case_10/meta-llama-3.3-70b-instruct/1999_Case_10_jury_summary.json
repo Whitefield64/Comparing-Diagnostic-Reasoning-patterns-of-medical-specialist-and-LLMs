@@ -1,6 +1,6 @@
 {
   "case": "1999 Case 10__meta-llama-3.3-70b-instruct.md",
-  "exported_at": "2026-05-18T03:16:42.166000+00:00",
+  "exported_at": "2026-05-18T07:16:46.243763+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -9,85 +9,22 @@
       "voter_id": 1,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of symptoms, including renal failure, cortical blindness, and respiratory distress, alongside the skin and lymph node findings, is consistent with a diagnosis of systemic vasculitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the intuition is that the patient has a systemic vasculitis given the broad range of symptoms."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of lymphadenopathy, as indicated by the small left supraclavicular and axillary lymph nodes, and the mediastinal, hilar, and axillary lymphadenopathy seen on the CT scan of the chest, increases the probability of a malignant process, but the absence of systemic symptoms like fever and weight loss makes this less likely."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's symptoms, including renal failure, cortical blindness, and respiratory distress, alongside the skin and lymph node findings, are similar to those seen in cases of granulomatosis with polyangiitis or microscopic polyangiitis."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "The patient's history of smoking and the presence of *Helicobacter pylori* infection could be related to the development of the systemic vasculitis through an unknown mechanism."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The use of methylprednisolone, a corticosteroid, suggests an empirical treatment approach for an inflammatory or autoimmune condition, following a standard protocol for such cases."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient's history of smoking and the presence of *Helicobacter pylori* infection may also play a role in the development of the systemic vasculitis, potentially due to its effects on the immune system and the vascular endothelium."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of systemic vasculitis, renal failure, cortical blindness, and respiratory distress, alongside the skin and lymph node findings, is consistent with a diagnosis of granulomatosis with polyangiitis or microscopic polyangiitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis, given the combination of renal failure, cortical blindness, respiratory distress, and a vasculitic rash."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, which could be considered in this patient's treatment plan."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The use of methylprednisolone, a corticosteroid, suggests an empirical treatment approach for an inflammatory or autoimmune condition, following established clinical guidelines for the treatment of systemic vasculitis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of symptoms, including renal failure, cortical blindness, respiratory distress, and a vasculitic rash, alongside lymphadenopathy and evidence of intravascular coagulation, is consistent with a diagnosis of a systemic vasculitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although the patient's presentation is more complex and suggestive of a systemic vasculitis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of ANCA in many cases of systemic vasculitides, such as granulomatosis with polyangiitis or microscopic polyangiitis, increases the likelihood of these diagnoses in this patient."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's presentation is similar to that of other cases of systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis, which have been reported in the literature."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
@@ -100,225 +37,78 @@
       "voter_id": 5,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned but the following text is: However, the lack of a complete response and the persistence of some symptoms indicate that further diagnostic evaluation and potentially additional immunosuppressive therapy may be necessary."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's treatment with methylprednisolone and the initial response in terms of improved urinary output suggest that an inflammatory or autoimmune process is likely, similar to cases of systemic vasculitis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the sentence 'However, the lack of a complete response and the persistence of some symptoms indicate that further diagnostic evaluation and potentially additional immunosuppressive therapy may be necessary.' shows intuition about the next steps in diagnosis and treatment."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's history of smoking and the presence of *Helicobacter pylori* infection may also play a role in the development of the systemic vasculitis, as has been reported in similar cases."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of systemic vasculitis, renal failure, cortical blindness, and respiratory distress, alongside the skin and lymph node findings, is consistent with a diagnosis of granulomatosis with polyangiitis or microscopic polyangiitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, however, the overall clinical picture suggests a systemic vasculitis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's presentation is similar to that of other cases of systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis, which have been reported in the literature."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of systemic vasculitis, renal failure, cortical blindness, and respiratory distress, alongside the skin and lymph node findings, is typical of a systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the sentence 'However, the lack of a complete response and the persistence of some symptoms indicate that further diagnostic evaluation and potentially additional immunosuppressive therapy may be necessary' shows intuition about the disease."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of symptoms, including renal failure, cortical blindness, and respiratory distress, is consistent with a systemic vasculitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the intuition that the patient has a systemic vasculitis is present."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's presentation is similar to that of other cases of systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis, which have been reported in the literature."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although this is not directly applicable to the provided document, the overall reasoning is similar to the one presented in the text."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's treatment with methylprednisolone and the initial response in terms of improved urinary output suggest that an inflammatory or autoimmune process is likely, similar to cases of systemic vasculitis that have been reported in the literature."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "The absence of systemic symptoms like fever and weight loss, and the prominent inflammatory and vasculitic features, make this less likely as a primary diagnosis, but still worth considering alternative explanations."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly applicable, but the reasoning of ruling out other diagnoses before considering the most likely one is present in the text, as the authors discuss the possibility of other conditions, such as lymphoma or infectious diseases, before focusing on systemic vasculitis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of systemic vasculitis, renal failure, cortical blindness, and respiratory distress, alongside the skin and lymph node findings, is typical of a systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's presentation is similar to that of other patients with systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis, who have been reported to have a wide range of symptoms, including renal failure, respiratory distress, and neurological manifestations."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has a systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis, we would expect to see renal failure, respiratory distress, and a vasculitic rash, alongside lymphadenopathy and evidence of intravascular coagulation."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The patient's history of smoking and the presence of *Helicobacter pylori* infection may also play a role in the development of the systemic vasculitis, but the absence of typical features of other conditions, such as joint involvement or skin photosensitivity, makes them less likely."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's complex presentation, involving renal failure, cortical blindness, respiratory distress, and a vasculitic rash, alongside lymphadenopathy and evidence of intravascular coagulation, is typical of a systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, which could be considered in this patient's management."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but the presence of lymphadenopathy, as indicated by the small left supraclavicular and axillary lymph nodes, and the mediastinal, hilar, and axillary lymphadenopathy seen on the CT scan of the chest, could suggest a malignant process, such as lymphoma."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not mentioned, but the improvement in some of the patient's symptoms, such as the urinary output, and the lack of progression of others, could indicate a response to this treatment, further supporting the consideration of an autoimmune or inflammatory diagnosis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has not been reported in this patient, but the presence of ANCA in many cases of systemic vasculitides suggests an autoimmune mechanism."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, but this is not directly relevant to the current patient."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of systemic vasculitis, renal failure, cortical blindness, and respiratory distress, alongside the skin and lymph node findings, is typical of a systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's treatment with methylprednisolone and the initial response in terms of improved urinary output suggest that an inflammatory or autoimmune process is likely, similar to other cases of systemic vasculitis."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "The possibility of a primary pulmonary condition, such as idiopathic pulmonary fibrosis or sarcoidosis, could be considered, given the patient's respiratory symptoms, including pulmonary edema or infiltrates."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The diagnosis of a systemic vasculitis, such as granulomatosis with polyangiitis or microscopic polyangiitis, would necessitate further confirmation through specific diagnostic tests and would guide the use of immunosuppressive therapy beyond corticosteroids."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "The lack of a complete response and the persistence of some symptoms indicate that further diagnostic evaluation and potentially additional immunosuppressive therapy may be necessary, based on the patient's complex presentation and the potential for underlying conditions."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although this patient's case does not exactly fit this description, it is not considered due to other evidence."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "However, the absence of systemic symptoms like fever and weight loss, and the prominent inflammatory and vasculitic features, make this less likely as a primary diagnosis, suggesting a need to consider other possibilities."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

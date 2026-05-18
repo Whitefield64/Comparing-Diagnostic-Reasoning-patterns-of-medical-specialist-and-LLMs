@@ -1,0 +1,95 @@
+{
+  "case": "2006 Case 36__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T09:04:41.108274+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          14127,
+          14322
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnosis is **Cushing’s syndrome due to autonomous cortisol secretion**, most likely from an **adrenal adenoma or carcinoma**, with **pituitary Cushing’s disease** as a close second."
+    },
+    {
+      "ranges": [
+        [
+          4574,
+          4735
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is **Cushing’s syndrome**, specifically **pituitary-dependent Cushing’s disease** or **adrenal Cushing’s syndrome**."
+    },
+    {
+      "ranges": [
+        [
+          5903,
+          6222
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hypertension, refractory to multiple antihypertensives including labetalol and nifedipine, is also typical of mineralocorticoid excess secondary to cortisol’s off-target activation of the mineralocorticoid receptor (due to saturation of 11β-hydroxysteroid dehydrogenase type 2 in the kidney during cortisol excess)."
+    },
+    {
+      "ranges": [
+        [
+          14865,
+          15034
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If ACTH is suppressed, an adrenal source is confirmed; if ACTH is elevated or normal, further evaluation for pituitary adenoma (e.g., MRI of the pituitary) is indicated."
+    },
+    {
+      "ranges": [
+        [
+          6409,
+          6597
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "the differential must also consider **gestational hypertension with superimposed gestational diabetes mellitus (GDM)**, which is common but cannot account for the severity of the findings."
+    },
+    {
+      "ranges": [
+        [
+          14323,
+          14558
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The extreme elevation in urinary free cortisol, the severity and refractoriness of hypertension and hyperglycemia, the characteristic facial findings, and the timing of onset in early pregnancy all point strongly toward this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9384,
+          9615
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The degree of cortisol excess here is more consistent with a tumor than with pituitary disease, though pituitary Cushing’s can also present with severe manifestations, especially in the setting of pregnancy-induced CRH stimulation."
+    },
+    {
+      "ranges": [
+        [
+          4096,
+          4280
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": " The constellation of findings—particularly the combination of hypertension, glucose intolerance, central adiposity, and facial plethora—strongly suggests a disorder of cortisol excess"
+    }
+  ]
+}

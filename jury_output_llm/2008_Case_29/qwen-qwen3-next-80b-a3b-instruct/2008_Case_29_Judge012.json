@@ -1,0 +1,128 @@
+{
+  "case": "2008 Case 29__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T09:26:57.747706+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9311,
+          9463
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnosis for the acute presentation is **functional ileus due to chronic fecal impaction secondary to severe, prolonged anorexia nervosa**."
+    },
+    {
+      "ranges": [
+        [
+          19684,
+          20015
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s history of weight loss after cessation of growth at age 11, his intense focus on caloric restriction despite normal appetite (he reported early satiety, which is likely a consequence of gastric atrophy and delayed emptying), and his denial of illness are inconsistent with ARFID and strongly support anorexia nervosa."
+    },
+    {
+      "ranges": [
+        [
+          11118,
+          11339
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The fact that his ileus resolved completely with bowel evacuation and refeeding argues against a primary myopathic or neuropathic gut disorder; in true CIPO, refeeding alone rarely resolves the underlying motility defect."
+    },
+    {
+      "ranges": [
+        [
+          8724,
+          9017
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The CT scan revealed massive dilatation of the stomach and distal small bowel with abundant stool in the colon and no transition point—a classic radiographic constellation of functional ileus secondary to chronic fecal impaction, not a mechanical obstruction from tumor, adhesion, or volvulus."
+    },
+    {
+      "ranges": [
+        [
+          15741,
+          15990
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient developed profound hypophosphatemia during refeeding, requiring phosphate replacement. This is a hallmark of refeeding syndrome, a life-threatening condition occurring when nutrition is reintroduced to a severely malnourished individual."
+    },
+    {
+      "ranges": [
+        [
+          12628,
+          12821
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if celiac were the primary driver, one would expect more consistent malabsorption, steatorrhea, and failure to gain weight since childhood, not a period of weight stability followed by decline."
+    },
+    {
+      "ranges": [
+        [
+          9018,
+          9174
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The absence of air-fluid levels, free air, or vascular compromise on imaging argues strongly against acute mechanical obstruction, ischemia, or perforation."
+    },
+    {
+      "ranges": [
+        [
+          9175,
+          9293
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The resolution of symptoms with bowel evacuation and nasogastric decompression further supports a functional etiology."
+    },
+    {
+      "ranges": [
+        [
+          20175,
+          20345
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The constellation of bradycardia, hypothermia, orthostatic hypotension, constipation, muscle wasting, and poor insight forms a diagnostic triad specific to this disorder."
+    },
+    {
+      "ranges": [
+        [
+          16220,
+          16601
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "ns. The patient’s bradycardia, arrhythmias, and hypothermia are consistent with electrolyte derangements and metabolic depression from prolonged starvation. The fact that his heart rate improved slowly over weeks with nutritional rehabilitation confirms that his bradycardia was not due to primary cardiac disease but to autonomic dysregulation secondary to chronic energy deficit."
+    },
+    {
+      "ranges": [
+        [
+          21195,
+          21354
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case is a stark reminder that in eating disorders, the body’s most vital systems—gut, heart, brain—are not merely affected; they are remade by starvation."
+    }
+  ]
+}

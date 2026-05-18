@@ -1,6 +1,6 @@
 {
   "case": "1996 Case 02__openai-gpt-oss-120b.md",
-  "exported_at": "2026-05-18T02:10:05.190537+00:00",
+  "exported_at": "2026-05-18T07:15:32.560659+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -9,149 +9,50 @@
       "voter_id": 1,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the lesion is a hypervascular metastasis, serum chromogranin A and 5-HIAA would be elevated to screen for a neuroendocrine tumor."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, and tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of fibrolamellar HCC is markedly higher than that for conventional HCC, given the patient’s age, lack of cirrhosis, and normal AFP."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but the patient’s presentation does not fit this diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the lesion is a hypervascular metastasis, serum Chromogranin A and 5-HIAA would be elevated."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability is markedly lower than that for FL-HCC, given the absence of any known liver disease, normal AFP, and the imaging pattern with a central scar."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present but the text  'The patient’s age and sex fit the epidemiology of FNH, and the imaging description of a hypervascular mass with a central scar is reminiscent of FNH.' suggests an intuition about the case"
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of a systolic bruit could be explained by the tumor’s arterial neovascularity, which raises the likelihood of FL-HCC."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The case resembles that of a patient with fibrolamellar hepatocellular carcinoma due to the hypervascular mass with a central scar and the clinical presentation of fever, weight loss, and a palpable mass."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the lesion is a hemangioma, we would expect to see peripheral nodular enhancement and centripetal fill‑in on delayed phases, which is not described in the case."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "The presence of an audible bruit over the lesion further supports a highly arterial tumor, which is more in line with fibrolamellar HCC than a benign vascular lesion."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Given the patient’s demographic profile, clinical course, laboratory data, and detailed imaging findings, the probability of fibrolamellar HCC is higher than that of other considered diagnoses, such as inflammatory pseudotumor or giant hemangioma."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The case resembles previously reported instances of fibrolamellar HCC, which often present with systemic symptoms and a characteristic hypervascular mass with a central scar on imaging."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned, however, the clinician’s suspicion of a malignant process, such as fibrolamellar HCC, given the patient’s presentation and imaging findings, can be inferred as an intuitive process."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of a well-defined central scar that persists on delayed images is more characteristic of fibrolamellar HCC than IPT, thus increasing the probability of this diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the lesion is a hypervascular metastasis, serum Chromogranin A and 5‑HIAA would be elevated to screen for a neuroendocrine tumor."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability is markedly lower than that for FL‑HCC, given the absence of any known liver disease, normal AFP, and the imaging pattern with a central scar."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The case is reminiscent of other reported cases of fibrolamellar HCC in young adults with no underlying liver disease, which often present with systemic symptoms and a hypervascular mass with a central scar."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
@@ -164,85 +65,29 @@
       "voter_id": 9,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the lesion is a hypervascular metastasis, serum Chromogranin A and 5‑HIAA would be elevated to screen for a neuroendocrine tumor."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of an audible bruit over the lesion further supports a highly arterial tumor, thus raising the probability of fibrolamellar HCC."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the lesion is a hypervascular metastasis, serum Chromogranin A and 5-HIAA would be elevated to screen for a neuroendocrine tumor."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a hypervascular mass with a central scar is reminiscent of fibrolamellar hepatocellular carcinoma."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of fibrolamellar HCC is markedly higher than that for conventional HCC, given the absence of any known liver disease, normal AFP, and the imaging pattern with a central scar."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The presence of a well-defined central scar that persists on delayed images is more characteristic of fibrolamellar HCC than IPT, based on prior cases."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the lesion is a hypervascular metastasis, serum chromogranin A and 5-HIAA would be elevated to screen for a neuroendocrine tumor."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability is markedly lower than that for FL-HCC, given the absence of any known liver disease, normal AFP, and the imaging pattern with a central scar."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the lesion is a hypervascular metastasis, serum Chromogranin A and 5-HIAA would be elevated."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, but the imaging description lacks the classic peripheral nodular enhancement and centripetal fill-in; instead, the CT report emphasizes “focal areas of increased enhancement” and a central scar-like region, which is more suggestive of a lesion with a true fibrous scar rather than simple necrosis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the text 'The imaging hallmark of a hypervascular lesion with a central scar, coupled with normal liver function and systemic inflammatory symptoms, points most strongly toward fibrolamellar HCC' suggests an intuition for FL-HCC."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of a well-defined central scar that persists on delayed images is more characteristic of fibrolamellar HCC than IPT, thus raising the probability of FL-HCC."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s age and sex fit the epidemiology of FNH, and the imaging description of a hypervascular mass with a central scar is reminiscent of FNH, suggesting a prior case or knowledge of FNH influencing the reasoning."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
@@ -255,37 +100,15 @@
       "voter_id": 14,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the lesion is a hypervascular metastasis, serum Chromogranin A and 5-HIAA would be elevated."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of a well-defined central scar that persists on delayed images is more characteristic of fibrolamellar HCC than IPT, making FL-HCC more likely."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The systemic manifestations are thought to be mediated by cytokine release from the tumor."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the lesion is a hypervascular metastasis, serum chromogranin A and 5-HIAA should be screened to evaluate for a neuroendocrine tumor."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability is markedly lower than that for FL-HCC, given the absence of any known liver disease, normal AFP, and the imaging pattern with a central scar."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

@@ -1,0 +1,106 @@
+{
+  "case": "2008 Case 29__openai-gpt-oss-120b.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T09:14:22.153597+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28506,
+          28695
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most parsimonious and comprehensive explanation is **severe restrictive‑type anorexia nervosa with secondary functional fecal impaction and refeeding‑related electrolyte disturbances**."
+    },
+    {
+      "ranges": [
+        [
+          28696,
+          28769
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "All organ‑system findings can be integrated into this unifying diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9003,
+          9177
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient’s weight plateaued at ~45 kg by age 15, then declined again after a 2‑year period of relative stability, with a 2.3 kg loss in the two months preceding admission."
+    },
+    {
+      "ranges": [
+        [
+          9178,
+          9335
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The early‑onset restriction, documented by an adolescent‑medicine specialist, and the lack of binge‑purge behaviors are textbook for the restrictive subtype."
+    },
+    {
+      "ranges": [
+        [
+          9370,
+          9583
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Severe sinus bradycardia (38 bpm on presentation, dropping to 29–35 bpm after refeeding), orthostatic hypotension, and a core temperature of 35 °C are hallmark autonomic adaptations to chronic caloric deprivation."
+    },
+    {
+      "ranges": [
+        [
+          10306,
+          10437
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of anemia, leukopenia, and thrombocytopenia (if present) would be consistent with marrow hypoplasia seen in severe AN."
+    },
+    {
+      "ranges": [
+        [
+          12215,
+          12361
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient’s low‑normal free T₃ (euthyroid sick syndrome), low gonadal steroids, and possibly reduced cortisol response are typical in severe AN."
+    },
+    {
+      "ranges": [
+        [
+          24319,
+          24452
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s bone age lag (15 y 6 m versus 19 y) and low BMD (as indicated by densitometry) are classic complications of chronic AN."
+    },
+    {
+      "ranges": [
+        [
+          22637,
+          22786
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s bradycardia, orthostatic changes, and constipation all reflect a global autonomic down‑regulation that is well‑documented in severe AN."
+    }
+  ]
+}

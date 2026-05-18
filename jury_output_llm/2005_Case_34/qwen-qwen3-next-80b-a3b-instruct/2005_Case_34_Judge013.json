@@ -1,0 +1,117 @@
+{
+  "case": "2005 Case 34__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T08:32:43.046817+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8422,
+          9065
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical trajectory of this 10-year-old girl is one of the most severe and rapidly progressive mucocutaneous syndromes encountered in pediatric medicine. The constellation of a preceding febrile illness, abrupt onset of a diffuse erythematous rash evolving into widespread vesiculation and epidermal sloughing, extensive mucosal involvement (oral, ocular, genital, respiratory), systemic inflammatory response with multiorgan dysfunction, and a family history of cutaneous reaction to sulfonamides and a prior seizure disorder treated with anticonvulsants, collectively point to a diagnosis of extreme immune-mediated epidermal necrolysis."
+    },
+    {
+      "ranges": [
+        [
+          9317,
+          9457
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnostic consideration is **toxic epidermal necrolysis (TEN)**, a severe, life-threatening form of drug-induced epidermolysis."
+    },
+    {
+      "ranges": [
+        [
+          9597,
+          9848
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The temporal relationship between initiation of carbamazepine and the onset of rash—approximately nine days after dose escalation—is classic for a delayed-type hypersensitivity reaction, consistent with the typical 1–3 week latency period seen in TEN."
+    },
+    {
+      "ranges": [
+        [
+          10066,
+          10320
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The family history is highly suggestive: the father’s history of sloughing skin after sulfonamide exposure implies a genetic predisposition to severe cutaneous adverse reactions (SCARs), possibly involving HLA alleles or altered drug metabolism pathways."
+    },
+    {
+      "ranges": [
+        [
+          10849,
+          11104
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of prior drug exposure other than carbamazepine, the lack of evidence for an alternative infectious trigger at the time of rash onset, and the absence of other autoimmune or hematologic markers further strengthen the case for drug-induced TEN."
+    },
+    {
+      "ranges": [
+        [
+          11446,
+          11616
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "the distinction is important clinically, as the underlying pathophysiology and management are identical; the boundary between SJS and TEN is one of degree, not mechanism."
+    },
+    {
+      "ranges": [
+        [
+          11106,
+          11274
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "However, the differential must include **Stevens-Johnson syndrome (SJS)**, which is often considered a variant of TEN but limited to <10% body surface area involvement."
+    },
+    {
+      "ranges": [
+        [
+          11860,
+          12023
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of mucosal involvement in multiple sites—oral, ocular, genital, respiratory—is a hallmark of both and distinguishes them from other bullous disorders."
+    },
+    {
+      "ranges": [
+        [
+          10321,
+          10457
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The rapid progression from morbilliform rash to vesiculation, positive Nikolsky’s sign, and mucosal sloughing are pathognomonic for TEN."
+    },
+    {
+      "ranges": [
+        [
+          20786,
+          21032
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case underscores the lethal potential of delayed hypersensitivity to anticonvulsants in genetically susceptible individuals and highlights the necessity of avoiding carbamazepine and related agents in patients with a family history of SCARs."
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "case": "2010 Case 18__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T10:10:25.956355+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6642,
+          6721
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate consideration is **nonadherence to antiretroviral therapy**."
+    },
+    {
+      "ranges": [
+        [
+          9210,
+          9594
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that his viral load remained elevated after switching to a boosted protease inhibitor suggests that the protease inhibitor component may also be compromised—either due to pre-existing protease mutations (e.g., M46I, I54V, V82A) or, more likely, due to the presence of multiple resistance mutations across drug classes that reduce the overall efficacy of even potent regimens."
+    },
+    {
+      "ranges": [
+        [
+          10361,
+          10457
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Chronic HIV infection can cause enteropathy, reducing intestinal absorption of oral medications."
+    },
+    {
+      "ranges": [
+        [
+          10671,
+          10821
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the long-term effects of rifampin on hepatic enzyme induction may have persisted, particularly if the patient’s liver function was not fully restored."
+    },
+    {
+      "ranges": [
+        [
+          13463,
+          13536
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The possibility of **another chronic infection** must also be considered."
+    },
+    {
+      "ranges": [
+        [
+          14291,
+          14450
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Chronic viral coinfections can act as reservoirs of immune stimulation, preventing full immune reconstitution and sustaining low-level HIV viremia despite ART."
+    },
+    {
+      "ranges": [
+        [
+          14452,
+          14559
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another less common but important consideration is **HIV reservoir dynamics and latency reversal failure**."
+    },
+    {
+      "ranges": [
+        [
+          15132,
+          15270
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "However, this does not explain why the viral load remains detectable on ART—it should be undetectable if the regimen is fully suppressive."
+    },
+    {
+      "ranges": [
+        [
+          15702,
+          15757
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "We must also consider **diagnostic misclassification**."
+    },
+    {
+      "ranges": [
+        [
+          16089,
+          16235
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of positive HIV antibody tests, detectable HIV RNA, and a clinical course consistent with HIV infection strongly argues against this."
+    },
+    {
+      "ranges": [
+        [
+          17411,
+          17795
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the most likely explanation for persistent HIV viremia in this child is a combination of **pre-existing drug resistance** (likely to NRTIs, possibly to protease inhibitors) compounded by **suboptimal pharmacokinetics due to malnutrition and prior rifampin exposure**, with possible **persistent immune activation from unresolved or misdiagnosed mycobacterial infection** (BCG vs. TB)."
+    },
+    {
+      "ranges": [
+        [
+          18309,
+          18499
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If resistance is confirmed, a regimen based on integrase inhibitors (e.g., dolutegravir) or newer agents with high genetic barriers and activity against resistant strains would be indicated."
+    },
+    {
+      "ranges": [
+        [
+          17914,
+          18079
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The case underscores the critical need for routine genotypic resistance testing in pediatric HIV patients with virologic failure, especially in high-burden settings."
+    },
+    {
+      "ranges": [
+        [
+          18661,
+          18849
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The granulomatous lesion remains enigmatic but likely represents BCG lymphadenitis rather than TB, given the negative cultures and the high prevalence of BCG complications in this setting."
+    }
+  ]
+}

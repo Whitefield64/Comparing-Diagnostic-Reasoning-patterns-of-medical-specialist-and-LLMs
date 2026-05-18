@@ -1,0 +1,106 @@
+{
+  "case": "2005 Case 34__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T08:07:50.874560+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          12742,
+          13015
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnosis, based on the information provided, appears to be Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN), given the temporal association with carbamazepine use, the characteristic skin and mucosal lesions, and the severe systemic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          9302,
+          9552
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "One of the primary considerations in this case is the diagnosis of Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN), which are severe cutaneous adverse reactions (SCARs) often associated with medication use, including carbamazepine."
+    },
+    {
+      "ranges": [
+        [
+          9009,
+          9300
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of a rash, initially diagnosed as a hypersensitivity reaction to carbamazepine, and the subsequent progression to a severe bullous eruption with sloughing of the skin, mucosal involvement, and respiratory failure, suggests a severe and potentially life-threatening condition."
+    },
+    {
+      "ranges": [
+        [
+          9941,
+          10120
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Infectious etiologies, such as staphylococcal scalded skin syndrome (SSSS) or severe infections like sepsis, could also present with widespread skin lesions and systemic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          9683,
+          9855
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The presence of a morbilliform rash, vesicles, and Nikolsky's sign, along with the progression to skin sloughing and mucosal involvement, is consistent with this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11335,
+          11615
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's respiratory failure, which required mechanical ventilation, could be attributed to several factors, including the direct effects of the skin and mucosal lesions, secondary infections, or an inflammatory response leading to acute respiratory distress syndrome (ARDS)."
+    },
+    {
+      "ranges": [
+        [
+          11616,
+          11749
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of patchy infiltrates on chest radiography and the requirement for oxygen supplementation support the diagnosis of ARDS."
+    },
+    {
+      "ranges": [
+        [
+          10320,
+          10473
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, the initial presentation and the lack of response to antibiotics alone make it less likely that an infection is the sole cause of her condition."
+    },
+    {
+      "ranges": [
+        [
+          12014,
+          12219
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "he patient's family history, which includes a father with a history of sloughing of the skin after taking a sulfa drug and a seizure disorder. While this history could suggest a genetic predisposition to c"
+    }
+  ]
+}

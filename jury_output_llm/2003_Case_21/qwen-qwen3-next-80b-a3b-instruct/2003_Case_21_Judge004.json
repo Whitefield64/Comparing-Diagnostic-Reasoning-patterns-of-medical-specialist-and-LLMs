@@ -1,0 +1,95 @@
+{
+  "case": "2003 Case 21__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T07:19:28.401533+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          23485,
+          23651
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the most likely diagnosis is microscopic polyangiitis (MPA), an ANCA-associated vasculitis affecting small- to medium-sized vessels, including the vertebral arteries."
+    },
+    {
+      "ranges": [
+        [
+          13363,
+          13645
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the multifocal, irregular nature of the vertebral artery stenoses, particularly their asymmetry and distribution along the dural ring and mid-vertebral segments—regions less commonly affected by typical atherosclerotic plaques, which tend to localize at ostial or bifurcation sites."
+    },
+    {
+      "ranges": [
+        [
+          13646,
+          13948
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of non-calcified, circumferential stenoses at the origin of the left vertebral artery, coupled with elevated intracranial flow velocities on transcranial Doppler and the absence of significant internal carotid disease, suggests a process that is not simply age-related plaque accumulation."
+    },
+    {
+      "ranges": [
+        [
+          21636,
+          21741
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "According to the Sydney criteria, this meets the serologic threshold for antiphospholipid syndrome (APS)."
+    },
+    {
+      "ranges": [
+        [
+          13102,
+          13289
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The challenge lies in distinguishing between atherosclerotic progression, a primary vasculitis, a prothrombotic state, and a systemic connective tissue disorder with vascular involvement."
+    },
+    {
+      "ranges": [
+        [
+          16467,
+          16653
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The angiographic findings here—diffuse irregular stenoses of the vertebral arteries, particularly at the dural ring—do not align with the concentric, long-segment stenoses typical of TA."
+    },
+    {
+      "ranges": [
+        [
+          24832,
+          25079
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case underscores the importance of considering vasculitis in any elderly patient with recurrent, multifocal strokes in the posterior circulation, especially when conventional risk factors and therapies fail to explain the clinical trajectory."
+    },
+    {
+      "ranges": [
+        [
+          20488,
+          20626
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The possibility of a paraneoplastic vasculopathy must be considered, particularly given the small pulmonary nodules and the patient’s age."
+    }
+  ]
+}

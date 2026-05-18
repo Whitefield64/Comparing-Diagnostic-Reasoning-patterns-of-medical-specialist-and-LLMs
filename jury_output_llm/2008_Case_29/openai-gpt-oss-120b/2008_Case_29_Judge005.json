@@ -1,0 +1,51 @@
+{
+  "case": "2008 Case 29__openai-gpt-oss-120b.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T09:10:26.419476+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28506,
+          28695
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most parsimonious and comprehensive explanation is **severe restrictive‑type anorexia nervosa with secondary functional fecal impaction and refeeding‑related electrolyte disturbances**."
+    },
+    {
+      "ranges": [
+        [
+          33977,
+          34186
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s presentation is a vivid illustration of how severe restrictive‑type anorexia nervosa can evolve from a chronic, insidious weight‑loss disorder into an acute, life‑threatening abdominal emergency."
+    },
+    {
+      "ranges": [
+        [
+          17747,
+          17858
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s low temperature, bradycardia, and likely low T₃ (even if total T₃ not measured) fit this pattern."
+    },
+    {
+      "ranges": [
+        [
+          18672,
+          18810
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Overall, endocrine and metabolic disorders are largely *secondary* to the severe caloric deficit rather than independent primary diseases."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "case": "2006 Case 36__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T09:04:41.108540+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4574,
+          4735
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is **Cushing’s syndrome**, specifically **pituitary-dependent Cushing’s disease** or **adrenal Cushing’s syndrome**."
+    },
+    {
+      "ranges": [
+        [
+          5287,
+          5560
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The absence of classic cutaneous findings does not rule out Cushing’s in pregnancy, as many of the stigmata (e.g., striae, bruising, hirsutism) are masked by the normal physiologic changes of gestation, including skin stretching, increased vascularity, and fluid retention."
+    },
+    {
+      "ranges": [
+        [
+          5561,
+          5902
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The ruddy complexion and facial puffiness are consistent with the cutaneous manifestations of cortisol excess, and the rapid development of severe insulin resistance—evidenced by the need for high-dose insulin and persistent fasting hyperglycemia despite oral agents—parallels the profound gluconeogenic and anti-insulin effects of cortisol."
+    },
+    {
+      "ranges": [
+        [
+          5903,
+          6222
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hypertension, refractory to multiple antihypertensives including labetalol and nifedipine, is also typical of mineralocorticoid excess secondary to cortisol’s off-target activation of the mineralocorticoid receptor (due to saturation of 11β-hydroxysteroid dehydrogenase type 2 in the kidney during cortisol excess)."
+    },
+    {
+      "ranges": [
+        [
+          6598,
+          6865
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "While GDM occurs in up to 10% of pregnancies and gestational hypertension in 5–8%, the combination of severe, refractory hypertension (BP >180/110 mm Hg), fasting glucose consistently >140 mg/dL, and urinary cortisol >1800 μg is incompatible with either entity alone."
+    },
+    {
+      "ranges": [
+        [
+          7218,
+          7319
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The lack of proteinuria, edema, or other signs of preeclampsia further argues against this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          5026,
+          5286
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "In non-pregnant individuals, levels above 150–200 μg/24 h are diagnostic of Cushing’s; in pregnancy, values above 500–700 μg/24 h are considered highly suggestive, and values exceeding 1500 μg/24 h are virtually pathognomonic for autonomous cortisol secretion."
+    },
+    {
+      "ranges": [
+        [
+          6866,
+          7043
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient’s prior pregnancy had mild, diet-controlled GDM; this episode is dramatically more severe and accompanied by systemic signs not attributable to pregnancy physiology."
+    },
+    {
+      "ranges": [
+        [
+          8573,
+          8756
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The elevated urinary cortisol is a critical diagnostic clue that redirects the focus away from primary mineralocorticoid excess and toward cortisol-mediated mineralocorticoid effects."
+    },
+    {
+      "ranges": [
+        [
+          4097,
+          4281
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The constellation of findings—particularly the combination of hypertension, glucose intolerance, central adiposity, and facial plethora—strongly suggests a disorder of cortisol excess,"
+    },
+    {
+      "ranges": [
+        [
+          9384,
+          9615
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The degree of cortisol excess here is more consistent with a tumor than with pituitary disease, though pituitary Cushing’s can also present with severe manifestations, especially in the setting of pregnancy-induced CRH stimulation."
+    },
+    {
+      "ranges": [
+        [
+          15176,
+          15297
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case illustrates the critical importance of recognizing endocrine disorders that mimic or are unmasked by pregnancy."
+    }
+  ]
+}

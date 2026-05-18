@@ -1,0 +1,40 @@
+{
+  "case": "2009 Case 32__openai-gpt-oss-120b.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T09:37:00.929933+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          25926,
+          26243
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The preponderance of **converging phenotypic elements**—particularly the triad of **oculocutaneous albinism**, **platelet dense‑granule storage‑pool deficiency**, and **progressive UIP‑type interstitial fibrosis with upper‑lobe bronchiectasis**—strongly favors **Hermansky‑Pudlak syndrome** as the unifying diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9521,
+          9813
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The defect lies in biogenesis of melanosomes, platelet dense granules, and lysosome‑related organelles of alveolar type II cells.  In the lung, absent or dysfunctional lamellar bodies impair surfactant turnover and predispose to chronic alveolar injury, inflammation, and progressive fibrosis"
+    },
+    {
+      "ranges": [
+        [
+          11427,
+          11816
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The constellation of pigmentation abnormality, platelet storage‑pool deficiency, and early‑onset fibrotic lung disease is essentially pathognomonic for HPS.  The only other hereditary albinism that can be associated with lung disease is Chediak‑Higashi syndrome, but it is characterized by giant lysosomal granules, severe immunodeficiency, and neurologic decline—features not evident here"
+    }
+  ]
+}

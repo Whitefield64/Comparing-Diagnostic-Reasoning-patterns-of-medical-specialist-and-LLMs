@@ -1,0 +1,332 @@
+{
+  "case": "2008 Case 29__qwen-qwen3-next-80b-a3b-instruct.md",
+  "exported_at": "2026-05-18T09:26:57.752892+00:00",
+  "n_voters": 15,
+  "n_successful": 14,
+  "n_failed": 1,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not applicable here, but we must first rule out other gastrointestinal disorders capable of producing similar findings, such as chronic constipation and megacolon."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the narrative suggests a strong suspicion of anorexia nervosa based on the clinical presentation and history."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "This case is a stark reminder that in eating disorders, the body’s most vital systems—gut, heart, brain—are not merely affected; they are remade by starvation, similar to previously reported cases of anorexia nervosa with severe medical complications."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but the process of ruling out other diagnoses is: first, we must consider whether there are other gastrointestinal disorders capable of producing similar findings."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines, is not directly stated but the thought process is similar to: The patient’s history of weight stabilization followed by gradual decline, coupled with behavioral restriction of food intake, strongly points to a behavioral-psychiatric etiology rather than a primary motility disorder."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must first rule out other gastrointestinal disorders capable of producing similar findings, such as chronic constipation and megacolon."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I agree that the patient’s denial of illness, poor insight, and continued caloric restriction despite medical deterioration are diagnostic hallmarks of anorexia nervosa."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but we must first rule out other gastrointestinal disorders capable of producing similar findings, such as chronic constipation and megacolon, before considering anorexia nervosa as the primary cause."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines, is not directly relevant but the overall clinical context and the combination of symptoms presented are most consistent with anorexia nervosa."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient’s acute presentation was one of dilatation, not obstruction, and the resolution with evacuation further argues against structural pathology, increasing the likelihood of a functional cause such as anorexia nervosa."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s denial of illness, poor insight, and continued caloric restriction despite medical deterioration are diagnostic hallmarks reminiscent of classic cases of anorexia nervosa, where patients often deny the severity of their condition."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must first rule out other gastrointestinal disorders capable of producing similar findings."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the clinical narrative suggests that the patient’s symptoms are most consistent with anorexia nervosa."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s academic excellence and solitary living situation may have facilitated isolation and concealment of his behaviors, similar to other cases of eating disorders."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but we must consider whether there are other gastrointestinal disorders capable of producing similar findings."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines, is not directly stated but the overall tone suggests an intuitive approach."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "The patient’s “exercise” was not recreational but pathological, used to offset caloric intake and maintain low weight, suggesting a complex interplay between behavioral and physiological factors."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images and clinical findings are not directly described in detail but the mention of CT scan and MRI suggests that visual inspection of these images contributed to the diagnostic reasoning."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but we must first rule out other gastrointestinal disorders capable of producing similar findings, such as chronic constipation and megacolon, which can occur in Hirschsprung disease."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is not explicitly stated in the provided text, but the narrative suggests a strong intuitive inclination towards anorexia nervosa based on the comprehensive analysis of symptoms and history."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "This case is a stark reminder that in eating disorders, the body’s most vital systems—gut, heart, brain—are not merely affected; they are remade by starvation, a phenomenon well-documented in the context of anorexia nervosa."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must first rule out other gastrointestinal disorders capable of producing similar findings, such as chronic constipation and megacolon, which can occur in Hirschsprung disease."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the clinical narrative suggests that the diagnosis of restrictive anorexia nervosa is the most plausible explanation."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient’s bradycardia, arrhythmias, and hypothermia are consistent with electrolyte derangements and metabolic depression from prolonged starvation, and the resolution of symptoms with refeeding and the gradual normalization of vital signs confirm that this was a functional, reversible consequence of starvation—not a primary structural or infectious disease."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "This case is a stark reminder that in eating disorders, the body’s most vital systems—gut, heart, brain—are not merely affected; they are remade by starvation, a phenomenon that has been documented in prior cases of anorexia nervosa."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but the process of ruling out other possibilities, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, is similar to the approach taken in this case."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant, but the clinician’s intuition that the patient’s presentation is consistent with anorexia nervosa is: The patient’s denial of illness, poor insight, and continued caloric restriction despite medical deterioration are diagnostic hallmarks."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient’s bradycardia, arrhythmias, and hypothermia are consistent with electrolyte derangements and metabolic depression from prolonged starvation, and the probability of this being due to anorexia nervosa is high given the patient’s history and behavior."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s academic excellence and solitary living situation may have facilitated isolation and concealment of his behaviors, similar to other cases of anorexia nervosa."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, but this case does not fit neatly into any of these categories."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must first rule out other gastrointestinal disorders capable of producing similar findings, such as Hirschsprung disease, neurogenic bowel, or CIPO."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable, but the patient’s denial of illness, poor insight, and continued caloric restriction despite medical deterioration are diagnostic hallmarks of anorexia nervosa."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient’s acute presentation was one of dilatation, not obstruction, and the resolution with evacuation further argues against structural pathology, increasing the likelihood of a functional etiology."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s history of weight stabilization followed by gradual decline, coupled with behavioral restriction of food intake, strongly points to a behavioral-psychiatric etiology rather than a primary motility disorder, similar to other cases of anorexia nervosa."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must first consider whether there are other gastrointestinal disorders capable of producing similar findings."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the patient’s denial of illness, poor insight, and continued caloric restriction despite medical deterioration are diagnostic hallmarks of anorexia nervosa."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly applicable here, however, the process of ruling out other gastrointestinal disorders capable of producing similar findings is relevant."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the reasoning process suggests a strong inclination towards anorexia nervosa based on the clinical presentation and exclusion of other possibilities."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient’s history of weight loss after cessation of growth at age 11, his intense focus on caloric restriction despite normal appetite, and his denial of illness are inconsistent with ARFID and strongly support anorexia nervosa, increasing the probability of this diagnosis."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s academic excellence and solitary living situation may have facilitated isolation and concealment of his behaviors, reminiscent of patterns seen in other cases of anorexia nervosa."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "The consideration of refeeding syndrome as a life-threatening condition occurring when nutrition is reintroduced to a severely malnourished individual is a creative hypothesis that explains the patient’s hypophosphatemia and other metabolic disturbances."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must consider whether there are other gastrointestinal disorders capable of producing similar findings."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the narrative suggests that anorexia nervosa is the primary consideration."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient’s bradycardia, arrhythmias, and hypothermia are consistent with electrolyte derangements and metabolic depression from prolonged starvation, and the probability of this being due to anorexia nervosa is high given the clinical context."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "This case is a stark reminder that in eating disorders, the body’s most vital systems—gut, heart, brain—are not merely affected; they are remade by starvation, similar to other reported cases of anorexia nervosa."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is not relevant here, but the diagnostic criteria for anorexia nervosa and refeeding syndrome are central to this case."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but the consideration of other gastrointestinal disorders capable of producing similar findings is crucial."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the narrative suggests a strong clinical intuition that anorexia nervosa is the underlying diagnosis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient’s bradycardia, arrhythmias, and hypothermia are consistent with electrolyte derangements and metabolic depression from prolonged starvation, which raises the probability of refeeding syndrome."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "This case is a stark reminder that in eating disorders, the body’s most vital systems—gut, heart, brain—are not merely affected; they are remade by starvation, a phenomenon observed in similar cases of anorexia nervosa."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "case": "2008 Case 29__meta-llama-3.3-70b-instruct.md",
+  "exported_at": "2026-05-18T09:09:28.618365+00:00",
+  "n_voters": 15,
+  "n_successful": 9,
+  "n_failed": 6,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary complication of anorexia nervosa, including fecal impaction and potential refeeding syndrome."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient's history of anorexia nervosa and the physical findings of temporal wasting, dry lips, and cool hands and feet, suggest severe malnutrition, which increases the likelihood of complications such as cardiac problems, osteoporosis, and impaired immune function."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has anorexia nervosa, we would expect to see significant weight loss, electrolyte imbalances, and potential cardiac complications, which is consistent with the patient's presentation."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The patient's low body mass index (BMI), delayed puberty, and the family history of delayed puberty and hypercholesterolemia raise questions about potential endocrine abnormalities, which can be evaluated using standardized criteria and diagnostic tests."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The patient's condition necessitates a careful and multidisciplinary approach to management, considering both the medical and psychiatric aspects of his illness, and prioritizing the most critical complications, such as refeeding syndrome and cardiac dysfunction."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The patient's presentation with abdominal pain, weight loss, and a history of anorexia nervosa is consistent with the typical pattern of complications seen in patients with eating disorders, particularly those with restrictive eating patterns."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary complication of anorexia nervosa, given the patient's history and presentation, although other potential causes, such as inflammatory bowel disease or infectious causes, should also be considered."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of refeeding syndrome in this patient is high, given the presence of significant weight loss, electrolyte imbalances, and cardiac complications, which increases the likelihood of this diagnosis and guides the initial management strategy."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with anorexia nervosa who developed refeeding syndrome and cardiac complications, which suggests that this patient may be at risk for similar complications and requires close monitoring and aggressive management."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary complication of anorexia nervosa, including fecal impaction and potential refeeding syndrome."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient's low body mass index (BMI), delayed puberty, and the family history of delayed puberty and hypercholesterolemia raise questions about potential endocrine abnormalities, although the likelihood of these conditions is lower given the patient's presentation."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient's condition is reminiscent of other cases of anorexia nervosa with severe malnutrition and potential refeeding syndrome, highlighting the importance of a comprehensive and supportive approach to management."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Other potential diagnoses to consider include gastrointestinal motility disorders, which could contribute to the patient's symptoms of abdominal pain and distention, although these would be less common in a patient with this clinical presentation."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, although this is not directly relevant to the patient's current presentation."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is less relevant in this case, given the patient's history and presentation, which are more suggestive of complications related to anorexia nervosa."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, although this is not directly relevant to the patient's current presentation, which is more focused on the complications of anorexia nervosa."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has refeeding syndrome, we would expect to see severe electrolyte imbalances, particularly hypophosphatemia, hypokalemia, and hypomagnesemia, which can cause cardiac arrhythmias, muscle weakness, and even death."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but the patient's presentation with acute abdominal pain, weight loss, and a history of anorexia nervosa (restrictive form) diagnosed 4 years earlier, raises a complex differential diagnosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary complication of anorexia nervosa, given the patient's history and presentation."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of anorexia nervosa do not result in severe medical complications, the patient's significant weight loss and malnutrition have far-reaching consequences on his overall health, necessitating a thorough evaluation and management strategy that addresses all aspects of his condition."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly applicable here, but we must consider the potential for other systemic effects of anorexia nervosa, such as osteoporosis, as indicated by the bone densitometry results, and cardiac complications, as suggested by the electrocardiogram findings and echocardiography results showing mild mitral and aortic regurgitation."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary complication of anorexia nervosa, including fecal impaction and potential refeeding syndrome, although I am concerned about the potential for other systemic effects."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient's significant weight loss and malnutrition have far-reaching consequences on his overall health, necessitating a thorough evaluation and management strategy that addresses all aspects of his condition, with the probability of complications increasing given his condition."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary complication of anorexia nervosa, including fecal impaction and potential refeeding syndrome."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the patient's history of anorexia nervosa and significant weight loss points towards complications related to malnutrition and potential gastrointestinal dysfunction associated with eating disorders."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 28,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 13,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 14,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary complication of anorexia nervosa, including fecal impaction and potential refeeding syndrome."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The patient's low body mass index (BMI), delayed puberty, and the family history of delayed puberty and hypercholesterolemia raise questions about potential endocrine abnormalities, although the absence of specific symptoms makes this less likely."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient's condition necessitates a careful and multidisciplinary approach to management, considering both the medical and psychiatric aspects of his illness, similar to cases of anorexia nervosa with significant medical complications."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Other potential diagnoses to consider include gastrointestinal motility disorders, which could contribute to the patient's symptoms of abdominal pain and distention, although this would require further evaluation."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The patient's history of anorexia nervosa and significant weight loss points towards complications related to malnutrition and potential gastrointestinal dysfunction associated with eating disorders, which should be prioritized in the differential diagnosis."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "case": "2010 Case 18__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T10:08:40.895593+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6172,
+          6366
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The central question is not merely why the viral load remains detectable, but why, despite apparent adherence, clinical improvement, and regimen changes, viral suppression has not been achieved."
+    },
+    {
+      "ranges": [
+        [
+          6367,
+          6640
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential must account for both common and uncommon causes of ART failure in pediatric HIV, particularly in a resource-limited setting with a history of prior tuberculosis (TB) and BCG vaccination, which introduces additional diagnostic and therapeutic complexities."
+    },
+    {
+      "ranges": [
+        [
+          7132,
+          7320
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the mother had not previously received formal ART training suggests potential gaps in understanding of the necessity of strict daily dosing, especially with complex regimens."
+    },
+    {
+      "ranges": [
+        [
+          7958,
+          8087
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The persistence of detectable viremia despite this switch suggests either pre-existing resistance or ongoing suboptimal exposure."
+    },
+    {
+      "ranges": [
+        [
+          8433,
+          8562
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The patient was diagnosed at age 5, after a severe pneumonia and presumed TB episode, suggesting prolonged undiagnosed infection."
+    },
+    {
+      "ranges": [
+        [
+          13463,
+          13536
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The possibility of **another chronic infection** must also be considered."
+    },
+    {
+      "ranges": [
+        [
+          15424,
+          15599
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if the virus is actively replicating, the problem is therapeutic failure; if it is only from reservoirs, then the viral load should be below detection limits on effective ART."
+    },
+    {
+      "ranges": [
+        [
+          7321,
+          7593
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The initial regimen included ritonavir alone, later replaced with lopinavir–ritonavir, and zidovudine and lamivudine doses were increased—this indicates a prior regimen that may have been suboptimal in potency or pharmacokinetic profile for a child of this age and weight."
+    },
+    {
+      "ranges": [
+        [
+          6642,
+          6721
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The most immediate consideration is **nonadherence to antiretroviral therapy**."
+    },
+    {
+      "ranges": [
+        [
+          9210,
+          9594
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that his viral load remained elevated after switching to a boosted protease inhibitor suggests that the protease inhibitor component may also be compromised—either due to pre-existing protease mutations (e.g., M46I, I54V, V82A) or, more likely, due to the presence of multiple resistance mutations across drug classes that reduce the overall efficacy of even potent regimens."
+    },
+    {
+      "ranges": [
+        [
+          15815,
+          16079
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "resentation of recurrent infections, wasting, and failure to suppress HIV despite ART raises the possibility of a primary immunodeficiency, such as severe combined immunodeficiency (SCID) or a disorder of T-cell signaling (e.g., ZAP-70 deficiency, CD3 deficiency)."
+    },
+    {
+      "ranges": [
+        [
+          17398,
+          17795
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "\nIn summary, the most likely explanation for persistent HIV viremia in this child is a combination of **pre-existing drug resistance** (likely to NRTIs, possibly to protease inhibitors) compounded by **suboptimal pharmacokinetics due to malnutrition and prior rifampin exposure**, with possible **persistent immune activation from unresolved or misdiagnosed mycobacterial infection** (BCG vs. TB)."
+    },
+    {
+      "ranges": [
+        [
+          14986,
+          15131
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "on. The size and diversity of the reservoir are likely substantial. While ART suppresses active replication, it does not eliminate the reservoir."
+    },
+    {
+      "ranges": [
+        [
+          18850,
+          19021
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case is a stark reminder that in pediatric HIV, virologic failure is rarely due to a single cause—it is a multifactorial failure of biology, pharmacology, and system."
+    }
+  ]
+}

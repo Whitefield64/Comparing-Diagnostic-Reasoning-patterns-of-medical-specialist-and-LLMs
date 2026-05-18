@@ -1,0 +1,139 @@
+{
+  "case": "2005 Case 22__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T07:56:15.502050+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7847,
+          8157
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The key diagnostic challenge lies in distinguishing between primary CNS infection, paraneoplastic or autoimmune encephalopathy, metastatic infiltration, and systemic sepsis with secondary CNS complications—all occurring against a backdrop of profound B-cell immunodeficiency and recurrent bacterial pneumonias."
+    },
+    {
+      "ranges": [
+        [
+          11104,
+          11428
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of T cells with a normal phenotype (CD4:CD8 ratio preserved) is expected in the context of normal immune surveillance. However, the detection of a small number of B cells with the identical immunophenotype as the patient’s CLL—CD19+, CD20+, CD5+, CD23+, lambda-restricted—constitutes a critical diagnostic clue."
+    },
+    {
+      "ranges": [
+        [
+          12639,
+          12809
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The isolation of *P. aeruginosa* from sputum, combined with the patient’s bacteremia likely secondary to pneumonia, raises the possibility of septic emboli or meningitis."
+    },
+    {
+      "ranges": [
+        [
+          9407,
+          9682
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The absence of parenchymal consolidation on imaging, despite clinical and microbiologic evidence of infection, underscores the atypical presentation of infection in CLL patients, whose immune response is blunted and who may fail to mount a classic inflammatory lung reaction."
+    },
+    {
+      "ranges": [
+        [
+          9684,
+          9939
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The progression to altered mental status and neurologic decline is the critical pivot in this case. The initial mild confusion, evolving to somnolence, then to right-sided weakness, nuchal rigidity, and finally coma, points to a process involving the CNS."
+    },
+    {
+      "ranges": [
+        [
+          13017,
+          13203
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The CSF showed no pleocytosis, no elevated protein, and no organisms on Gram stain or culture. The absence of neutrophilic pleocytosis argues strongly against acute bacterial meningitis."
+    },
+    {
+      "ranges": [
+        [
+          16584,
+          16715
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": " the timing of neurological decline—immediately following a severe bacterial infection—suggests a more direct pathogenic mechanism."
+    },
+    {
+      "ranges": [
+        [
+          17375,
+          17824
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "d infarcts.\n\nThe most compelling explanation is a triad of events: (1) a severe, treatment-resistant *P. aeruginosa* pneumonia leading to bacteremia and systemic inflammation; (2) concomitant CNS infiltration by the patient’s own CLL clone, which had been quiescent for years but became active due to the inflammatory milieu of systemic infection; and (3) secondary infectious encephalitis, likely viral, triggered by the profound immunosuppression."
+    },
+    {
+      "ranges": [
+        [
+          17825,
+          18027
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of CLL cells in CSF confirms CNS involvement, and the thalamic lesion is most consistent with direct tumor infiltration causing local inflammation, edema, and disruption of neural circuits."
+    },
+    {
+      "ranges": [
+        [
+          19689,
+          19887
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient’s prolonged immunosuppression, prior fludarabine therapy, hypogammaglobulinemia, and history of recurrent infections created the perfect storm for this rare but devastating complication."
+    },
+    {
+      "ranges": [
+        [
+          12247,
+          12416
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The thalamus, with its dense vascular network and proximity to the third ventricle, is a favored site for CLL infiltration due to its role as a lymphoid trafficking hub."
+    },
+    {
+      "ranges": [
+        [
+          8797,
+          9047
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The radiographic findings—right paratracheal stripe prominence, hilar and axillary lymphadenopathy, and bilateral pleural effusions—suggest a process not limited to the lung parenchyma but involving lymphatic drainage and possibly mediastinal spread."
+    }
+  ]
+}

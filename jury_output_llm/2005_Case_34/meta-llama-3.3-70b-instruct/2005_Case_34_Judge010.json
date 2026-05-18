@@ -1,0 +1,106 @@
+{
+  "case": "2005 Case 34__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T08:06:56.488967+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9302,
+          9552
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "One of the primary considerations in this case is the diagnosis of Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN), which are severe cutaneous adverse reactions (SCARs) often associated with medication use, including carbamazepine."
+    },
+    {
+      "ranges": [
+        [
+          9683,
+          9855
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of a morbilliform rash, vesicles, and Nikolsky's sign, along with the progression to skin sloughing and mucosal involvement, is consistent with this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9941,
+          10120
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Infectious etiologies, such as staphylococcal scalded skin syndrome (SSSS) or severe infections like sepsis, could also present with widespread skin lesions and systemic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          10762,
+          10882
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Autoimmune disorders, such as pemphigus vulgaris or bullous pemphigoid, could also present with blistering skin lesions."
+    },
+    {
+      "ranges": [
+        [
+          10121,
+          10319
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The patient's positive blood cultures for *Staphylococcus aureus*, *Stenotrophomonas maltophilia*, and *Candida parapsilosis* suggest that an infectious component may be contributing to her illness."
+    },
+    {
+      "ranges": [
+        [
+          11750,
+          11942
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of respiratory failure in this patient is likely multifactorial, with contributions from the underlying condition, secondary infections, and the systemic inflammatory response."
+    },
+    {
+      "ranges": [
+        [
+          15823,
+          16049
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's clinical presentation, laboratory results, and response to treatment will need to be carefully evaluated and monitored, with adjustments to the management plan made as necessary to optimize the patient's outcome."
+    },
+    {
+      "ranges": [
+        [
+          14098,
+          14306
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's requirement for mechanical ventilation, vasopressor support, and total parenteral nutrition underscores the severity of her condition and the need for a multidisciplinary approach to management."
+    },
+    {
+      "ranges": [
+        [
+          13567,
+          13809
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's clinical course, with the development of secondary infections, organ dysfunction, and the requirement for prolonged intensive care, highlights the severity of her condition and the importance of prompt and aggressive management."
+    }
+  ]
+}

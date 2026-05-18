@@ -1,0 +1,161 @@
+{
+  "case": "2009 Case 32__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T09:35:14.417563+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8764,
+          8991
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's history of albinism, easy bruising, and nearsightedness, along with a family history of similar conditions, raises the possibility of a genetic or systemic disorder affecting multiple systems, including the lungs."
+    },
+    {
+      "ranges": [
+        [
+          9512,
+          9734
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the interstitial changes and bronchiectasis on imaging, along with the patient's progressive dyspnea and decreased exercise tolerance, conditions that cause pulmonary fibrosis and bronchiectasis should be considered."
+    },
+    {
+      "ranges": [
+        [
+          11030,
+          11171
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of digital clubbing and the significant desaturation with exercise further support the presence of a severe pulmonary condition."
+    },
+    {
+      "ranges": [
+        [
+          8992,
+          9145
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The diagnosis of cystic fibrosis (CF) was considered due to the patient's respiratory symptoms and the mention that his mother was told he might have CF."
+    },
+    {
+      "ranges": [
+        [
+          9146,
+          9221
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the negative sweat chloride test makes this diagnosis less likely."
+    },
+    {
+      "ranges": [
+        [
+          9222,
+          9510
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "CF typically presents with chronic respiratory infections, pancreatic insufficiency, and salty sweat, and while the patient has some respiratory symptoms consistent with CF, the absence of other key features and the negative diagnostic test result reduce the likelihood of this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9735,
+          9912
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Idiopathic pulmonary fibrosis (IPF) is a condition characterized by progressive fibrosis of the lung parenchyma, leading to symptoms similar to those experienced by the patient."
+    },
+    {
+      "ranges": [
+        [
+          9913,
+          10017
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "However, IPF typically affects older adults, making this diagnosis less likely in a 27-year-old patient."
+    },
+    {
+      "ranges": [
+        [
+          10335,
+          10524
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's history of easy bruising and the findings of impaired platelet function on platelet-aggregation studies suggest a bleeding disorder or a condition affecting platelet function."
+    },
+    {
+      "ranges": [
+        [
+          10525,
+          10749
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This, combined with the patient's albinism, raises the possibility of Hermansky-Pudlak syndrome (HPS), a rare genetic disorder characterized by albinism, bleeding tendency due to platelet dysfunction, and pulmonary fibrosis."
+    },
+    {
+      "ranges": [
+        [
+          12593,
+          12838
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the patient's symptoms and findings are not typical for asthma, despite the use of bronchodilators and inhaled corticosteroids, which were likely prescribed for symptomatic relief rather than as a treatment for an underlying asthmatic condition."
+    },
+    {
+      "ranges": [
+        [
+          15665,
+          15823
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "the patient's clinical presentation and diagnostic findings also warrant consideration of other rare genetic disorders that may present with similar symptoms."
+    },
+    {
+      "ranges": [
+        [
+          15824,
+          16102
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "For instance, Chédiak-Higashi syndrome, another rare genetic disorder, is characterized by albinism, bleeding tendency, and recurrent infections, but it typically presents with more pronounced immunodeficiency and is less likely given the patient's lack of recurrent infections."
+    },
+    {
+      "ranges": [
+        [
+          11172,
+          11498
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The findings on cardiac ultrasonography, including an estimated right ventricular systolic pressure of 56 mm Hg and dilation of the main and right pulmonary arteries, suggest pulmonary hypertension, which can be a complication of chronic lung diseases, including those causing interstitial lung disease and pulmonary fibrosis."
+    }
+  ]
+}

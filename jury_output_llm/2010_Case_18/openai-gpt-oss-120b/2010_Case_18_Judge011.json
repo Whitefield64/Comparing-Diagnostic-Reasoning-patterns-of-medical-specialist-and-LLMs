@@ -1,0 +1,106 @@
+{
+  "case": "2010 Case 18__openai-gpt-oss-120b.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T10:07:08.902929+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          31300,
+          32183
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The key data points are:\n\n1. **Persistent high HIV‑1 RNA** despite a regimen that theoretically contains three active agents (LPV/r, AZT, 3TC).  \n2. **Reported good adherence** but limited objective adherence data.  \n3. **History of sub‑optimal prior ART** (ritonavir monotherapy) and **possible incomplete NRTI activity** (M184V, TAMs).  \n4. **Weight‑based dosing** in a child with severe growth failure (potential for under‑dosing).  \n5. **Potential pharmacokinetic pitfalls** (liquid formulation, food requirement, possible CYP3A5 ultra‑rapid metabolism).  \n6. **No overt clinical evidence of active TB, NTM, fungal infection, or lymphoma** at present, though prior granulomatous disease raises the specter of occult infection or misdiagnosed malignancy.  \n7. **Mild anemia and macrocytosis** that could be AZT‑related or nutritional, potentially affecting drug metabolism and imm"
+    },
+    {
+      "ranges": [
+        [
+          32489,
+          33351
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The sequence of events supports this:\n\n- The child was placed on **ritonavir alone** (a weak PI) plus zidovudine/lamivudine, which likely failed to fully suppress viral replication.  \n- During this period, **M184V** (lamivudine resistance) and **TAMs** (zidovudine resistance) could have accumulated, rendering the NRTI backbone ineffective.  \n- When switched to **LPV/r**, the PI component may have been **under‑dosed** (due to weight‑based miscalculation or poor absorption), leaving essentially **monotherapy** with a compromised PI.  \n- The resulting **functional monotherapy** provides a low genetic barrier, facilitating the selection of **protease resistance mutations**.  \n\nThus, the virus may now harbor **mutations in both RT and protease genes**, explaining the inability of the current regimen to achieve virologic suppression despite good reported a"
+    },
+    {
+      "ranges": [
+        [
+          34048,
+          34209
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the mother’s reports are inaccurate, the child may be receiving **intermittent dosing**, which would both select for resistance and result in low drug levels."
+    },
+    {
+      "ranges": [
+        [
+          13980,
+          14401
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of **M184V** can paradoxically increase susceptibility to zidovudine (by reducing excision of AZT‑TP) but also reduces the efficacy of lamivudine.  If multiple TAMs are present, the NRTI backbone may be essentially inactive, leaving lopinavir as the sole active agent.  In the setting of **sub‑therapeutic lopinavir levels** (see Section 1.1), the virus could replicate unchecked, resulting in high RNA level"
+    },
+    {
+      "ranges": [
+        [
+          32247,
+          32485
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Acquired multi‑class antiretroviral resistance** emerging from the earlier **ritonavir‑only regimen** combined with **sub‑therapeutic drug exposure** (due to formulation, dosing, and possible rapid metabolism) is the **leading hypothesis*"
+    },
+    {
+      "ranges": [
+        [
+          20569,
+          20733
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The child’s **mild anemia**, **persistent lymphadenopathy**, and **lack of response to anti‑TB drugs** (if the abscess persisted despite therapy) could hint at NTM."
+    },
+    {
+      "ranges": [
+        [
+          17747,
+          17881
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the pattern of **repeatedly high RNA levels** despite regimen changes argues against a laboratory artifact as the primary explanation."
+    },
+    {
+      "ranges": [
+        [
+          11979,
+          12165
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The child’s history of prior rifampin exposure, although temporally remote, may have sensitized clinicians to drug interactions, but is less likely to be a direct cause at this juncture."
+    },
+    {
+      "ranges": [
+        [
+          27022,
+          27394
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The supraclavicular abscess with granulomas was interpreted as TB; however, **granulomatous inflammation can be seen in lymphoma** (especially Hodgkin).  The absence of systemic symptoms and the resolution of the mass after anti‑TB therapy argue against active lymphoma, but a **biopsy limited to histology without immunophenotyping** could have missed a malignant process"
+    }
+  ]
+}

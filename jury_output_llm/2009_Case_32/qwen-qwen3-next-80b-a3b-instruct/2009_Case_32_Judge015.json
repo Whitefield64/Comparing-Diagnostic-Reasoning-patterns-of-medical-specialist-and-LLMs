@@ -1,0 +1,117 @@
+{
+  "case": "2009 Case 32__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T09:51:41.955637+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8470,
+          8773
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The constellation of findings—particularly the combination of albinism, pulmonary fibrosis, bronchiectasis, platelet dysfunction, and a family history of similar respiratory disease in siblings with albinism—strongly suggests a rare, inherited disorder rather than a common acquired pulmonary condition."
+    },
+    {
+      "ranges": [
+        [
+          8975,
+          9181
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic hypothesis is **Hermansky-Pudlak syndrome (HPS)**, a rare autosomal recessive disorder of lysosomal trafficking that belongs to the group of oculocutaneous albinism syndromes."
+    },
+    {
+      "ranges": [
+        [
+          18812,
+          18952
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The pulmonary fibrosis is thought to result from defective surfactant processing, chronic epithelial injury, and aberrant repair mechanisms."
+    },
+    {
+      "ranges": [
+        [
+          8774,
+          8973
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "While infectious, inflammatory, and environmental etiologies must be considered, the chronicity, early onset, multisystem involvement, and familial pattern point decisively toward a genetic syndrome."
+    },
+    {
+      "ranges": [
+        [
+          19339,
+          19527
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The absence of other systemic features (e.g., colitis, immunodeficiency, neurological decline) does not exclude HPS, as phenotypic expression can vary even within the same genetic subtype."
+    },
+    {
+      "ranges": [
+        [
+          15201,
+          15393
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The possibility of an undiagnosed connective tissue disease must be considered, particularly since interstitial lung disease can occur in scleroderma, rheumatoid arthritis, or dermatomyositis."
+    },
+    {
+      "ranges": [
+        [
+          18191,
+          18436
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The combination of albinism, platelet dysfunction, pulmonary fibrosis, and familial occurrence is virtually diagnostic of Hermansky-Pudlak syndrome, particularly subtype HPS-1 or HPS-4, which are most commonly associated with pulmonary fibrosis."
+    },
+    {
+      "ranges": [
+        [
+          19190,
+          19342
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "pattern of pulmonary disease—particularly the upper lobe predominance with honeycombing—is overwhelmingly consistent with Hermansky-Pudlak syndrome. The"
+    },
+    {
+      "ranges": [
+        [
+          18492,
+          18563
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the patient’s Puerto Rican ancestry further strengthens this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          16887,
+          17067
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The finding of poor R-wave progression on ECG and nonspecific ST-T changes is consistent with chronic right heart strain and pulmonary hypertension, not primary myocardial disease."
+    }
+  ]
+}

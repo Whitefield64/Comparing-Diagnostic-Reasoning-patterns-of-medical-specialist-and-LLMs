@@ -1,0 +1,128 @@
+{
+  "case": "2006 Case 36__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T09:06:08.905593+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4574,
+          4735
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is **Cushing’s syndrome**, specifically **pituitary-dependent Cushing’s disease** or **adrenal Cushing’s syndrome**."
+    },
+    {
+      "ranges": [
+        [
+          5287,
+          5560
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of classic cutaneous findings does not rule out Cushing’s in pregnancy, as many of the stigmata (e.g., striae, bruising, hirsutism) are masked by the normal physiologic changes of gestation, including skin stretching, increased vascularity, and fluid retention."
+    },
+    {
+      "ranges": [
+        [
+          5561,
+          5902
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The ruddy complexion and facial puffiness are consistent with the cutaneous manifestations of cortisol excess, and the rapid development of severe insulin resistance—evidenced by the need for high-dose insulin and persistent fasting hyperglycemia despite oral agents—parallels the profound gluconeogenic and anti-insulin effects of cortisol."
+    },
+    {
+      "ranges": [
+        [
+          6598,
+          6865
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "While GDM occurs in up to 10% of pregnancies and gestational hypertension in 5–8%, the combination of severe, refractory hypertension (BP >180/110 mm Hg), fasting glucose consistently >140 mg/dL, and urinary cortisol >1800 μg is incompatible with either entity alone."
+    },
+    {
+      "ranges": [
+        [
+          6866,
+          7043
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient’s prior pregnancy had mild, diet-controlled GDM; this episode is dramatically more severe and accompanied by systemic signs not attributable to pregnancy physiology."
+    },
+    {
+      "ranges": [
+        [
+          4736,
+          5025
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The 24-hour urinary free cortisol level of 1865 μg is profoundly elevated—far exceeding the upper limit of normal in pregnancy (which may rise to 2–3 times the non-pregnant upper limit due to increased cortisol-binding globulin and placental production of corticotropin-releasing hormone)."
+    },
+    {
+      "ranges": [
+        [
+          6400,
+          6597
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "However, the differential must also consider **gestational hypertension with superimposed gestational diabetes mellitus (GDM)**, which is common but cannot account for the severity of the findings."
+    },
+    {
+      "ranges": [
+        [
+          7215,
+          7319
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "y. The lack of proteinuria, edema, or other signs of preeclampsia further argues against this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          4097,
+          4572
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The constellation of findings—particularly the combination of hypertension, glucose intolerance, central adiposity, and facial plethora—strongly suggests a disorder of cortisol excess, but the timing of onset in early pregnancy, the absence of classic stigmata of Cushing’s syndrome (such as purple striae, easy bruising, or proximal myopathy), and the presence of a prior history of gestational diabetes necessitate careful discrimination among several overlapping entities."
+    },
+    {
+      "ranges": [
+        [
+          12391,
+          12542
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The degree of cortisol excess here is orders of magnitude beyond physiologic adaptation and is incompatible with a benign pregnancy-related phenomenon."
+    },
+    {
+      "ranges": [
+        [
+          15176,
+          15297
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case illustrates the critical importance of recognizing endocrine disorders that mimic or are unmasked by pregnancy."
+    }
+  ]
+}

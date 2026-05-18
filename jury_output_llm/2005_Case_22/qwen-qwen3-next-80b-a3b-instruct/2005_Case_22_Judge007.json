@@ -1,0 +1,150 @@
+{
+  "case": "2005 Case 22__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T07:57:49.289025+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7847,
+          8157
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The key diagnostic challenge lies in distinguishing between primary CNS infection, paraneoplastic or autoimmune encephalopathy, metastatic infiltration, and systemic sepsis with secondary CNS complications—all occurring against a backdrop of profound B-cell immunodeficiency and recurrent bacterial pneumonias."
+    },
+    {
+      "ranges": [
+        [
+          8644,
+          8796
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the failure of azithromycin and amoxicillin to improve symptoms is entirely consistent with the intrinsic resistance of *P. aeruginosa* to these agents."
+    },
+    {
+      "ranges": [
+        [
+          8797,
+          9047
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The radiographic findings—right paratracheal stripe prominence, hilar and axillary lymphadenopathy, and bilateral pleural effusions—suggest a process not limited to the lung parenchyma but involving lymphatic drainage and possibly mediastinal spread."
+    },
+    {
+      "ranges": [
+        [
+          9407,
+          9682
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The absence of parenchymal consolidation on imaging, despite clinical and microbiologic evidence of infection, underscores the atypical presentation of infection in CLL patients, whose immune response is blunted and who may fail to mount a classic inflammatory lung reaction."
+    },
+    {
+      "ranges": [
+        [
+          9684,
+          9783
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The progression to altered mental status and neurologic decline is the critical pivot in this case."
+    },
+    {
+      "ranges": [
+        [
+          9940,
+          10071
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The normal initial head CT, followed by the development of restricted diffusion in the left thalamus on MRI, is highly significant."
+    },
+    {
+      "ranges": [
+        [
+          11104,
+          11235
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of T cells with a normal phenotype (CD4:CD8 ratio preserved) is expected in the context of normal immune surveillance."
+    },
+    {
+      "ranges": [
+        [
+          11245,
+          11428
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "the detection of a small number of B cells with the identical immunophenotype as the patient’s CLL—CD19+, CD20+, CD5+, CD23+, lambda-restricted—constitutes a critical diagnostic clue."
+    },
+    {
+      "ranges": [
+        [
+          11815,
+          12055
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The fact that these cells were detected in CSF and not in the blood at the time of lumbar puncture suggests a compartmentalized process—CLL cells have crossed the blood-brain barrier and established a localized proliferation within the CNS."
+    },
+    {
+      "ranges": [
+        [
+          12056,
+          12246
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This is distinct from leukemia cutis or lymphomatous meningitis; it represents true parenchymal infiltration, likely seeding the thalamus and contributing to the restricted diffusion lesion."
+    },
+    {
+      "ranges": [
+        [
+          15699,
+          15798
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The possibility of autoimmune encephalitis must be entertained, particularly in the context of CLL."
+    },
+    {
+      "ranges": [
+        [
+          10929,
+          11051
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The MRI findings, therefore, are most consistent with an acute, focal, infectious or inflammatory process in the thalamus."
+    },
+    {
+      "ranges": [
+        [
+          17388,
+          17824
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The most compelling explanation is a triad of events: (1) a severe, treatment-resistant *P. aeruginosa* pneumonia leading to bacteremia and systemic inflammation; (2) concomitant CNS infiltration by the patient’s own CLL clone, which had been quiescent for years but became active due to the inflammatory milieu of systemic infection; and (3) secondary infectious encephalitis, likely viral, triggered by the profound immunosuppression."
+    }
+  ]
+}

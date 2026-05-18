@@ -1,6 +1,6 @@
 {
   "case": "1991 Case 14__openai-gpt-oss-120b.md",
-  "exported_at": "2026-05-17T23:07:24.855664+00:00",
+  "exported_at": "2026-05-18T07:13:56.785679+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -37,85 +37,22 @@
       "voter_id": 5,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If a sequestration, the absence of a demonstrable systemic feeding artery on CT would not exclude sequestration (rarely, the arterial supply may be too small), but would increase suspicion for a neurogenic tumor."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If non-invasive studies remain inconclusive, image-guided core needle biopsy (or surgical excision) would differentiate vascular malformation from neuroblastoma, and immunohistochemistry (e.g., synaptophysin, chromogranin, PHOX2B) would confirm neuroblastic differentiation."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If a sequestration, one would expect to find a systemic arterial supply to the mass, which could be confirmed by contrast‑enhanced CT angiography or MR angiography."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a posterior, left paravertebral mass with the described imaging characteristics is typical for an extralobar bronchopulmonary sequestration."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, instead, the intuition is that given the posterior mediastinal location and T2 hyperintensity, neuroblastoma cannot be dismissed."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, the involvement of the larger arteries has been reported in about 10 percent of patients, similarly, the probability of having a neuroblastoma given the age and location is higher than other neoplasms."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, similarly, there are reports of neuroblastoma presenting with a posterior mediastinal mass in infants."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
@@ -128,153 +65,50 @@
       "voter_id": 9,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If a sequestration, the absence of a demonstrable systemic feeding artery on CT would not exclude sequestration (rarely, the arterial supply may be too small), but would increase suspicion for a neurogenic tumor."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the lesion is a sequestration, one would expect to find a systemic arterial supply on dedicated angiographic imaging."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If a sequestration, the arterial supply can be confirmed with a dedicated CT angiogram or MR angiography."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Given the posterior mediastinal location and T2 hyperintensity, neuroblastoma cannot be dismissed, but the lack of documented catecholamine excess, the static size, and the classic imaging plane separating the mass from the pleura slightly tip the balance away from neuroblastoma."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, instead: The most compelling diagnosis is an **extralobar bronchopulmonary sequestration**, a congenital anomaly that classically presents as a left‑sided, posterior mediastinal mass, is often asymptomatic, and may be discovered incidentally on chest imaging."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not applicable here, instead: A **neuroblastoma**—particularly the infant‑type, biologically favorable variant—remains a serious alternative that must be excluded because of its potential for systemic spread and the need for oncologic management."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a well‑defined, posterior‑paravertebral intrathoracic mass that has remained radiographically stable for at least 10 weeks, is non‑enhancing on contrast CT, lacks calcification, and appears hyperintense on T2‑weighted MRI is typical for an extralobar bronchopulmonary sequestration."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with congenital malformations have been published, but the current case presentation does not fit these scenarios well."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If a sequestration, one would expect to find a systemic arterial supply, which could be confirmed by contrast‑enhanced CT angiography or MR angiography."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnostic approach should include contrast‑enhanced CT angiography or MR angiography to identify a systemic arterial supply, urinary catecholamine metabolite assay, image‑guided core needle biopsy, laboratory work‑up for anemia etiology, and serial imaging to monitor growth."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a posterior left intrathoracic mass that has remained unchanged for several weeks and exhibits imaging features characteristic of a non‑vascular, fluid‑rich lesion is typical of an extralobar bronchopulmonary sequestration."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "Given the posterior mediastinal location and T2 hyperintensity, neuroblastoma cannot be dismissed, although the lack of documented catecholamine excess and static size slightly tip the balance away from neuroblastoma."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of extralobar bronchopulmonary sequestration is higher given the imaging characteristics and clinical presentation, while the probability of neuroblastoma, although possible, is lower due to the lack of certain diagnostic features."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The thin dark line separating the mass from paraspinal muscles on MRI is compatible with a pleural plane that isolates an extralobar sequestration from the surrounding structures."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The absence of calcifications, lack of rapid growth, and the infant’s overall well‑being further support the diagnosis of an extralobar sequestration."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Similar cases of extralobar bronchopulmonary sequestration have presented with a posterior mediastinal mass and have been diagnosed based on imaging characteristics and clinical presentation."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the mass were a neuroblastoma, we would expect to see signs of catecholamine excess or other paraneoplastic phenomena, which are not clearly evident here."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnostic approach should include contrast‑enhanced CT angiography or MR angiography to identify a systemic arterial supply, which would be diagnostic of EBPS."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The absence of calcifications, the lack of rapid growth, and the infant’s overall well‑being further support the diagnosis of an extralobar sequestration."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "Given the posterior mediastinal location and T2 hyperintensity, neuroblastoma cannot be dismissed, but the lack of documented catecholamine excess and static size slightly tip the balance away from neuroblastoma."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of neuroblastoma is lowered by the absence of systemic symptoms and the lack of growth over 10 weeks, but it remains a close contender due to the imaging characteristics and potential for paraneoplastic phenomena."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "This case resembles others where a posterior mediastinal mass in an infant has been diagnosed as an extralobar sequestration, highlighting the importance of considering congenital anomalies in the differential diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If non‑invasive studies remain inconclusive, image‑guided core needle biopsy (or surgical excision) would differentiate vascular malformation from neuroblastoma, and immunohistochemistry (e.g., synaptophysin, chromogranin, PHOX2B) would confirm neuroblastic differentiation."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Contrast‑enhanced CT angiography or MR angiography to identify a systemic arterial supply, which would clinch the diagnosis of EBPS."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

@@ -1,0 +1,95 @@
+{
+  "case": "2008 Case 29__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T09:09:28.617836+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7789,
+          7976
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with acute abdominal pain, weight loss, and a history of anorexia nervosa (restrictive form) diagnosed 4 years earlier, raises a complex differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          7977,
+          8184
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The key features to consider are the abdominal pain, the patient's significant weight loss, the history of anorexia nervosa, and the findings of fecal impaction and small bowel dilatation on imaging studies."
+    },
+    {
+      "ranges": [
+        [
+          8951,
+          9135
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Fecal impaction can cause abdominal pain, distention, and nausea, and it is a known complication in patients with eating disorders, particularly those with restrictive eating patterns."
+    },
+    {
+      "ranges": [
+        [
+          9136,
+          9277
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This condition can lead to severe constipation due to decreased food intake, reduced fiber consumption, and potentially altered gut motility."
+    },
+    {
+      "ranges": [
+        [
+          9278,
+          9529
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Given the patient's history of anorexia nervosa and the physical findings, it is crucial to consider the potential for refeeding syndrome, a condition that can occur in individuals who are malnourished when they begin to receive nutrition too quickly."
+    },
+    {
+      "ranges": [
+        [
+          9727,
+          9913
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's bradycardia, orthostatic hypotension, and the findings on electrocardiograms are consistent with potential electrolyte imbalances and cardiac effects of refeeding syndrome."
+    },
+    {
+      "ranges": [
+        [
+          12297,
+          12449
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's history of anorexia nervosa and the physical findings of temporal wasting, dry lips, and cool hands and feet, suggest severe malnutrition."
+    },
+    {
+      "ranges": [
+        [
+          11513,
+          11787
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Inflammatory bowel disease (IBD), including Crohn's disease and ulcerative colitis, should also be considered in the differential diagnosis, as these conditions can present with abdominal pain, weight loss, and changes in bowel habits. However, the absence of specific sympt"
+    }
+  ]
+}

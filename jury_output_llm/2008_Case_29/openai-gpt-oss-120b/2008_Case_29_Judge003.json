@@ -1,0 +1,73 @@
+{
+  "case": "2008 Case 29__openai-gpt-oss-120b.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T09:10:26.419218+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28506,
+          28695
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most parsimonious and comprehensive explanation is **severe restrictive‑type anorexia nervosa with secondary functional fecal impaction and refeeding‑related electrolyte disturbances**."
+    },
+    {
+      "ranges": [
+        [
+          22637,
+          22786
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s bradycardia, orthostatic changes, and constipation all reflect a global autonomic down‑regulation that is well‑documented in severe AN."
+    },
+    {
+      "ranges": [
+        [
+          23463,
+          23577
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Chronic caloric deprivation leads to loss of myocardial mass, reduced stroke volume, and compensatory bradycardia."
+    },
+    {
+      "ranges": [
+        [
+          31484,
+          31599
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If constipation recurs despite weight restoration, anorectal manometry or colonic transit studies may be warranted."
+    },
+    {
+      "ranges": [
+        [
+          31939,
+          32112
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "A **graded caloric increase** (starting at 1,200–1,500 kcal/day and advancing by 200–300 kcal every 2–3 days) with close electrolyte monitoring mitigates refeeding syndrome."
+    },
+    {
+      "ranges": [
+        [
+          33977,
+          34186
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s presentation is a vivid illustration of how severe restrictive‑type anorexia nervosa can evolve from a chronic, insidious weight‑loss disorder into an acute, life‑threatening abdominal emergency."
+    }
+  ]
+}

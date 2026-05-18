@@ -1,0 +1,153 @@
+{
+  "case": "2009 Case 32__meta-llama-3.3-70b-instruct.md",
+  "exported_at": "2026-05-18T09:35:14.421060+00:00",
+  "n_voters": 15,
+  "n_successful": 13,
+  "n_failed": 2,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary condition that explains the combination of the patient's pulmonary symptoms, bleeding tendency, and albinism, as well as the presence of pulmonary fibrosis and bronchiectasis."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 16,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 16,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had cystic fibrosis, we would expect to see chronic respiratory infections, pancreatic insufficiency, and salty sweat, but the absence of other key features and the negative diagnostic test result reduce the likelihood of this diagnosis."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 8,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 12,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 16,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 11,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 17,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient has Hermansky-Pudlak syndrome, we would expect to see interstitial lung disease and pulmonary fibrosis, which is consistent with the patient's imaging findings."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnosis of HPS would have significant implications for the patient's management and prognosis, and would require a multidisciplinary approach, including pulmonology, genetics, and hematology."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The patient's clinical presentation and diagnostic findings are consistent with Hermansky-Pudlak syndrome, and the diagnosis would explain the combination of the patient's pulmonary symptoms, bleeding tendency, and albinism."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The patient's symptoms and findings are consistent with a pattern of Hermansky-Pudlak syndrome, which is characterized by albinism, bleeding tendency, and pulmonary fibrosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is Hermansky-Pudlak syndrome, given the patient's complex presentation and the presence of multiple systemic symptoms."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of Hermansky-Pudlak syndrome is increased given the patient's family history of albinism and respiratory problems, and the presence of interstitial lung disease and pulmonary fibrosis on imaging."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar case of a patient with Hermansky-Pudlak syndrome, who presented with albinism, bleeding tendency, and pulmonary fibrosis, and the patient's symptoms and findings are consistent with this diagnosis."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 14,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 40,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 0,
+      "unresolved": []
+    }
+  ]
+}

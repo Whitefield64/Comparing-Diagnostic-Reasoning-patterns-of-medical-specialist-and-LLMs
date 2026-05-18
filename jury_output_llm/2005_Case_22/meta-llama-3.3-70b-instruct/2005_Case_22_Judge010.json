@@ -1,0 +1,150 @@
+{
+  "case": "2005 Case 22__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T07:33:28.109246+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7298,
+          7434
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis for this patient is broad and encompasses various malignant, infectious, inflammatory, and structural causes."
+    },
+    {
+      "ranges": [
+        [
+          7435,
+          7612
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of CLL, immunocompromised state, and presentation with fever and productive cough, an infectious etiology is high on the list of potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          7614,
+          7848
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's symptoms of cough, fever, and productive sputum, along with the radiographic findings of prominence of the right paratracheal stripe and right hilum and bilateral small pleural effusions, suggest a respiratory infection."
+    },
+    {
+      "ranges": [
+        [
+          7849,
+          7936
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The growth of *Pseudomonas aeruginosa* from the sputum culture supports this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8068,
+          8288
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient's initial treatment with azithromycin and subsequent lack of improvement, followed by treatment with amoxicillin without resolution, raises the possibility of a resistant organism or a more complex infection."
+    },
+    {
+      "ranges": [
+        [
+          8455,
+          8599
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of nuchal rigidity and the patient's inability to follow commands or respond to pain suggest meningeal irritation or CNS pathology."
+    },
+    {
+      "ranges": [
+        [
+          12276,
+          12414
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of *Pseudomonas aeruginosa* in the sputum and the patient's clinical presentation suggest a significant infectious component."
+    },
+    {
+      "ranges": [
+        [
+          12415,
+          12546
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the CNS findings and the patient's underlying CLL also suggest potential malignant or inflammatory involvement of the CNS."
+    },
+    {
+      "ranges": [
+        [
+          15171,
+          15372
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's clinical presentation, laboratory results, and radiographic imaging must be carefully evaluated, and all potential diagnoses must be considered and weighed against the available evidence."
+    },
+    {
+      "ranges": [
+        [
+          18424,
+          18656
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's history of CLL and the presence of CLL cells in the CSF also raise the possibility of a Richter's transformation, which is a transformation of CLL into a more aggressive lymphoma, such as diffuse large B-cell lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          16556,
+          16738
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's clinical presentation and laboratory findings are consistent with sepsis, and the presence of *Pseudomonas aeruginosa* in the sputum suggests a possible infectious caus"
+    },
+    {
+      "ranges": [
+        [
+          22326,
+          22496
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, the patient's underlying CLL and the presence of CLL cells in the CSF suggest that the CNS involvement could be related to the leukemia or a secondary infection."
+    },
+    {
+      "ranges": [
+        [
+          21518,
+          21705
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of multiple cancers and treatments raises the possibility of a paraneoplastic syndrome, and the presence of CLL cells in the CSF suggests a possible malignant cause."
+    }
+  ]
+}

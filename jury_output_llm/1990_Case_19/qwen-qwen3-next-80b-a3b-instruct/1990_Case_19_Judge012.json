@@ -1,0 +1,95 @@
+{
+  "case": "1990 Case 19__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T07:13:56.769798+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          21085,
+          21171
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling unifying diagnosis is **hydatid disease (cystic echinococcosis)**."
+    },
+    {
+      "ranges": [
+        [
+          8622,
+          8752
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical presentation of this 12-year-old boy is complex, multifaceted, and demands a systematic, layered diagnostic approach."
+    },
+    {
+      "ranges": [
+        [
+          9368,
+          9654
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of classic signs of acute infection—such as cough, sore throat, rash, or gastrointestinal symptoms beyond transient diarrhea—combined with the chronicity and progression of his illness, suggests a subacute to chronic process rather than an acute bacterial or viral syndrome."
+    },
+    {
+      "ranges": [
+        [
+          9934,
+          10148
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The lack of contrast enhancement is particularly significant: it argues against highly vascular tumors such as hepatocellular carcinoma (HCC) or hemangioma, which typically show characteristic enhancement patterns."
+    },
+    {
+      "ranges": [
+        [
+          10149,
+          10276
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "HCC is exceedingly rare in children without underlying cirrhosis or chronic viral hepatitis, neither of which are present here."
+    },
+    {
+      "ranges": [
+        [
+          10447,
+          10550
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The normal bilirubin and albumin further argue against cirrhosis or advanced parenchymal liver disease."
+    },
+    {
+      "ranges": [
+        [
+          11349,
+          11482
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The presence of multiple septations and cystic components is more suggestive of a necrotic or abscessed lesion than a solid neoplasm."
+    },
+    {
+      "ranges": [
+        [
+          9702,
+          9933
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The imaging findings—ultrasound, CT, and MRI—consistently describe a large (14 × 10 cm), well-circumscribed, nonenhancing, heterogeneous mass in the right hepatic lobe with multiple septated cystic components and areas of necrosis."
+    }
+  ]
+}

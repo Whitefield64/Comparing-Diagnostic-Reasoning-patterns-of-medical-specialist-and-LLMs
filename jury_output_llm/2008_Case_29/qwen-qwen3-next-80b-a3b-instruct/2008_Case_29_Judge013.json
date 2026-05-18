@@ -1,0 +1,84 @@
+{
+  "case": "2008 Case 29__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T09:26:57.749722+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9311,
+          9463
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnosis for the acute presentation is **functional ileus due to chronic fecal impaction secondary to severe, prolonged anorexia nervosa**."
+    },
+    {
+      "ranges": [
+        [
+          9018,
+          9174
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of air-fluid levels, free air, or vascular compromise on imaging argues strongly against acute mechanical obstruction, ischemia, or perforation."
+    },
+    {
+      "ranges": [
+        [
+          9175,
+          9293
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The resolution of symptoms with bowel evacuation and nasogastric decompression further supports a functional etiology."
+    },
+    {
+      "ranges": [
+        [
+          9740,
+          10053
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Chronic constipation and megacolon can occur in Hirschsprung disease, but this is typically diagnosed in infancy or early childhood with failure to pass meconium, and the patient’s developmental history—including normal bowel movements until recently and normal Tanner staging—is inconsistent with this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11118,
+          11339
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that his ileus resolved completely with bowel evacuation and refeeding argues against a primary myopathic or neuropathic gut disorder; in true CIPO, refeeding alone rarely resolves the underlying motility defect."
+    },
+    {
+      "ranges": [
+        [
+          20175,
+          20345
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The constellation of bradycardia, hypothermia, orthostatic hypotension, constipation, muscle wasting, and poor insight forms a diagnostic triad specific to this disorder."
+    },
+    {
+      "ranges": [
+        [
+          19085,
+          19332
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The MRI findings of ventricular and sulcal prominence are consistent with cerebral atrophy from chronic malnutrition, a known neuroanatomical consequence of prolonged anorexia nervosa, and correlate with impaired insight and executive dysfunction."
+    }
+  ]
+}

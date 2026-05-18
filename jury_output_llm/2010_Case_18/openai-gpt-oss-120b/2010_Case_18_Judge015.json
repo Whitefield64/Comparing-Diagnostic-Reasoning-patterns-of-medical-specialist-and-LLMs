@@ -1,0 +1,106 @@
+{
+  "case": "2010 Case 18__openai-gpt-oss-120b.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T10:07:08.904169+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          31300,
+          32183
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The key data points are:\n\n1. **Persistent high HIV‑1 RNA** despite a regimen that theoretically contains three active agents (LPV/r, AZT, 3TC).  \n2. **Reported good adherence** but limited objective adherence data.  \n3. **History of sub‑optimal prior ART** (ritonavir monotherapy) and **possible incomplete NRTI activity** (M184V, TAMs).  \n4. **Weight‑based dosing** in a child with severe growth failure (potential for under‑dosing).  \n5. **Potential pharmacokinetic pitfalls** (liquid formulation, food requirement, possible CYP3A5 ultra‑rapid metabolism).  \n6. **No overt clinical evidence of active TB, NTM, fungal infection, or lymphoma** at present, though prior granulomatous disease raises the specter of occult infection or misdiagnosed malignancy.  \n7. **Mild anemia and macrocytosis** that could be AZT‑related or nutritional, potentially affecting drug metabolism and imm"
+    },
+    {
+      "ranges": [
+        [
+          32489,
+          33350
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The sequence of events supports this:\n\n- The child was placed on **ritonavir alone** (a weak PI) plus zidovudine/lamivudine, which likely failed to fully suppress viral replication.  \n- During this period, **M184V** (lamivudine resistance) and **TAMs** (zidovudine resistance) could have accumulated, rendering the NRTI backbone ineffective.  \n- When switched to **LPV/r**, the PI component may have been **under‑dosed** (due to weight‑based miscalculation or poor absorption), leaving essentially **monotherapy** with a compromised PI.  \n- The resulting **functional monotherapy** provides a low genetic barrier, facilitating the selection of **protease resistance mutations**.  \n\nThus, the virus may now harbor **mutations in both RT and protease genes**, explaining the inability of the current regimen to achieve virologic suppression despite good reported "
+    },
+    {
+      "ranges": [
+        [
+          35958,
+          36346
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If resistance testing confirms **multi‑class resistance**, the regimen must be **overhauled** according to WHO pediatric guidelines:\n\n- **Switch to an integrase inhibitor–based regimen** (e.g., dolutegravir + lamivudine + tenofovir disoproxil fumarate) if the child’s weight permits.  Integrase inhibitors have a **high barrier to resistance** and are **less affected by CYP interactions*"
+    },
+    {
+      "ranges": [
+        [
+          7078,
+          7651
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential for virologic failure can be organized into **four major mechanistic categories**:\n\n1. **Suboptimal drug exposure** (pharmacokinetic issues, drug–drug interactions, formulation problems, malabsorption, dosing errors).  \n2. **Viral resistance** (pre‑existing transmitted resistance or acquired resistance due to prior inadequate therapy).  \n3. **Inadequate adherence** (true non‑adherence or “white‑coat” adherence that does not translate into sufficient drug levels).  \n4. **Laboratory or sampling error** (pre‑analytical, analytical, or post‑analytical fa"
+    },
+    {
+      "ranges": [
+        [
+          9713,
+          10085
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The child’s weight is below the 5th percentile (approximately 12–14 kg for a 7‑year‑old).  Pediatric ART dosing is weight‑based, and small errors in weight measurement or rounding can produce **clinically significant under‑dosing**.  The regimen was adjusted with **increased doses of zidovudine (AZT) and lamivudine (3TC)**, but the absolute doses (mg/kg) are not provide"
+    },
+    {
+      "ranges": [
+        [
+          11979,
+          12165
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The child’s history of prior rifampin exposure, although temporally remote, may have sensitized clinicians to drug interactions, but is less likely to be a direct cause at this juncture."
+    },
+    {
+      "ranges": [
+        [
+          10276,
+          10617
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Chronic HIV infection in children is associated with **enteropathy**, including villous atrophy, crypt hyperplasia, and increased intestinal permeability.  Recurrent infections (e.g., prior pneumonia, possible TB, suppurative otitis media) and **nutritional deficiencies** (low BMI, micronutrient deficits) can further impair drug absorption"
+    },
+    {
+      "ranges": [
+        [
+          13980,
+          14260
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of **M184V** can paradoxically increase susceptibility to zidovudine (by reducing excision of AZT‑TP) but also reduces the efficacy of lamivudine.  If multiple TAMs are present, the NRTI backbone may be essentially inactive, leaving lopinavir as the sole active agent"
+    },
+    {
+      "ranges": [
+        [
+          16581,
+          16896
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "While the mother’s report is reassuring, **objective adherence measures** (pill counts, pharmacy refill data, or drug level monitoring) are lacking.  In the absence of such data, non‑adherence remains a viable contributor, especially when combined with other risk factors (sub‑optimal formulation, complex schedule)"
+    }
+  ]
+}

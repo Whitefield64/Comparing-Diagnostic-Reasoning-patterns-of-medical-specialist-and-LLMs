@@ -1,0 +1,51 @@
+{
+  "case": "2008 Case 29__openai-gpt-oss-120b.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T09:12:39.474768+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28506,
+          28695
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most parsimonious and comprehensive explanation is **severe restrictive‑type anorexia nervosa with secondary functional fecal impaction and refeeding‑related electrolyte disturbances**."
+    },
+    {
+      "ranges": [
+        [
+          28696,
+          28769
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "All organ‑system findings can be integrated into this unifying diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9003,
+          9177
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient’s weight plateaued at ~45 kg by age 15, then declined again after a 2‑year period of relative stability, with a 2.3 kg loss in the two months preceding admission."
+    },
+    {
+      "ranges": [
+        [
+          8206,
+          8583
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the breadth of his clinical picture—particularly the acute abdominal pain with massive gastric and small‑bowel dilatation, the persistent sinus bradycardia (as low as 29 bpm), the episodic hypophosphatemia and hypokalemia, the evidence of osteopenia, and subtle endocrine abnormalities—demands a systematic exploration of alternative and co‑existing pathophysiologic processes."
+    }
+  ]
+}

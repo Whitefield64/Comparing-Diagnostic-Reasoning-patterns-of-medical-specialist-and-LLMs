@@ -1,21 +1,16 @@
 {
   "case": "1995 Case 16__meta-llama-3.3-70b-instruct.md",
-  "exported_at": "2026-05-18T01:16:05.742096+00:00",
+  "exported_at": "2026-05-18T07:15:32.543744+00:00",
   "n_voters": 15,
-  "n_successful": 14,
-  "n_failed": 1,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
       "failed": false,
       "n_resolved": 16,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy could be related to a genetic or familial condition, such as hypertrophic cardiomyopathy or arrhythmogenic right ventricular cardiomyopathy."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
@@ -28,57 +23,22 @@
       "voter_id": 3,
       "failed": false,
       "n_resolved": 16,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "However, the lack of specific symptoms, such as fever or weight loss, and the absence of specific findings on laboratory studies and imaging examinations make these diagnoses less likely."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy could be related to a tropical or infectious disease, such as Chagas disease or leprosy."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy could be related to a genetic or familial condition, such as hypertrophic cardiomyopathy or arrhythmogenic right ventricular cardiomyopathy."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
       "failed": false,
       "n_resolved": 16,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "However, the lack of specific symptoms, such as fever or weight loss, and the absence of specific findings on laboratory studies and imaging examinations make these diagnoses less likely."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy could be related to a tropical or infectious disease, such as Chagas disease or leprosy."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy could be related to a genetic or familial condition, such as hypertrophic cardiomyopathy or arrhythmogenic right ventricular cardiomyopathy."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy requires immediate attention."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy could be related to a rare or atypical presentation of lymphoma, and further evaluation, including imaging studies and biopsy, may be necessary to rule out this diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
@@ -98,13 +58,8 @@
       "voter_id": 8,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy requires immediate attention."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
@@ -117,45 +72,15 @@
       "voter_id": 10,
       "failed": false,
       "n_resolved": 25,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The lack of specific symptoms, such as fever or weight loss, and the absence of specific findings on laboratory studies and imaging examinations make some diagnoses less likely."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has tuberculosis, we would expect to see positive tuberculin skin tests and pulmonary lesions, which is consistent with the patient's presentation."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy requires immediate attention, and the use of antiarrhythmic medications and the implantation of an automatic, implantable cardioverter-defibrillator are essential to prevent sudden cardiac death."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with recurrent ventricular tachycardia, dilated cardiomyopathy, and pulmonary lesions is consistent with a systemic disease process, which could be related to an infectious, inflammatory, or malignant condition."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient's history of positive tuberculin skin tests and his previous treatment with isoniazid also raise the possibility of a drug-related side effect or an allergic reaction, but the lack of specific symptoms and findings on laboratory studies and imaging examinations makes these diagnoses less likely."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's case is complex and multifactorial, and a definitive diagnosis can only be made after a comprehensive evaluation and diagnostic testing, similar to other cases of systemic disease processes."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient's history, physical examination, laboratory studies, and imaging examinations all suggest a systemic disease process, which could be related to an infectious, inflammatory, or malignant condition, and this is consistent with the patient's presentation."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
@@ -166,10 +91,15 @@
     },
     {
       "voter_id": 13,
-      "failed": true,
-      "n_resolved": 0,
-      "n_unresolved": 0,
-      "unresolved": []
+      "failed": false,
+      "n_resolved": 23,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy could be related to a genetic or familial condition, such as hypertrophic cardiomyopathy or arrhythmogenic right ventricular cardiomyopathy."
+        }
+      ]
     },
     {
       "voter_id": 14,
@@ -182,21 +112,8 @@
       "voter_id": 15,
       "failed": false,
       "n_resolved": 13,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not applicable in this case, however,  The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy requires immediate attention."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The lack of specific symptoms, such as fever or weight loss, and the absence of specific findings on laboratory studies and imaging examinations make these diagnoses less likely."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "case": "2001 Case 20__meta-llama-3.3-70b-instruct.md",
-  "exported_at": "2026-05-18T03:51:22.512615+00:00",
+  "exported_at": "2026-05-18T07:16:46.257727+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -9,333 +9,106 @@
       "voter_id": 1,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but considering the patient's travel history, underlying medical conditions, and the results of diagnostic tests is essential to determine the underlying cause of the patient's symptoms."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with fever, gram-negative bacteremia, and a complex medical history is typical of a complicated infection, and the presence of *Moraxella phenylpyruvica* suggests a possible source of the infection."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient's response to treatment should be closely monitored, and adjustments to the treatment regimen should be made as necessary, given the complexity of the case and the potential for complications."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's case is complex and requires a multidisciplinary approach to management, similar to other cases involving complicated infections and multiple underlying medical conditions."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with fever, gram-negative bacteremia, and a complex medical history is consistent with a number of potential diagnoses, including complicated bacteremia due to *Moraxella phenylpyruvica* and endocarditis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's case is complex and requires a multidisciplinary approach to management, similar to other cases involving fever, gram-negative bacteremia, and complex medical histories."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "The patient's weight loss and fatigue, which have been progressive over the past year, could be indicative of a chronic infection or a systemic disease process, and the patient's overall health and well-being should be carefully evaluated."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with fever, gram-negative bacteremia, and a complex medical history is consistent with a number of potential diagnoses, including complicated bacteremia and endocarditis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary infection, although I am troubled by the negative serologic test and the lack of symptoms suggestive of cholecystitis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of gram-negative bacteremia involve the urinary tract or a vascular site, the patient's presentation and diagnostic findings suggest that the infection may be more complicated."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with gram-negative bacteremia may have a catastrophic reaction after high-dose corticosteroid therapy is begun, which should be considered in the patient's management."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with fever, gram-negative bacteremia, and a complex medical history is consistent with a number of potential diagnoses, including complicated bacteremia due to *Moraxella phenylpyruvica* and endocarditis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's case is complex and requires a multidisciplinary approach to management, with careful consideration of the patient's infectious disease, cardiovascular, and renal diseases."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with fever, gram-negative bacteremia, and a complex medical history is consistent with a number of potential diagnoses, including complicated bacteremia due to *Moraxella phenylpyruvica* and endocarditis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's case is similar to other cases of complicated bacteremia, in which the patient's underlying medical conditions and response to treatment are critical factors in determining the outcome."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The diagnostic findings, including the patient's response to initial antibiotic treatment and the results of diagnostic imaging, are consistent with a diagnosis of complicated bacteremia due to *Moraxella phenylpyruvica*."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has endocarditis, we would expect to see evidence of vegetations or paravalvular abscesses on the transesophageal echocardiogram."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with fever, gram-negative bacteremia, and a complex medical history is consistent with a pattern of complicated bacteremia."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary infection, although I am troubled by the negative serologic test."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's case is similar to other cases of complicated bacteremia, where the patient's underlying medical conditions and travel history played a significant role in the development of the infection."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has endocarditis, we would expect to see evidence of vegetations or paravalvular abscesses on the transesophageal echocardiogram."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with fever, gram-negative bacteremia, and a complex medical history is consistent with a pattern of complicated bacteremia due to *Moraxella phenylpyruvica*."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary infection due to *Moraxella phenylpyruvica*, although the patient's underlying medical conditions and travel history raise the possibility of other infectious etiologies."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of the patient having endocarditis is lower given the negative transesophageal echocardiogram, but it cannot be entirely ruled out without further evaluation."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's case is similar to other cases of complicated bacteremia due to *Moraxella phenylpyruvica*, which have been reported in the literature."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with fever, gram-negative bacteremia, and a complex medical history is consistent with a number of potential diagnoses, including complicated bacteremia and endocarditis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient's response to treatment should be closely monitored, and adjustments to the treatment regimen should be made as necessary, based on the patient's clinical response and the results of ongoing diagnostic testing."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's case is complex and requires a multidisciplinary approach to management, similar to other cases involving complicated bacteremia and endocarditis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has endocarditis, we would expect to see evidence of vegetations or paravalvular abscesses on the transesophageal echocardiogram."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with fever, gram-negative bacteremia, and a complex medical history is consistent with a pattern of complicated bacteremia."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary infection, although I am troubled by the negative serologic test."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of endocarditis is lower given the negative transesophageal echocardiogram, but it cannot be entirely ruled out without further evaluation."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's case is similar to other cases of complicated bacteremia, where the patient's underlying medical conditions and travel history play a significant role in the development of the infection."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however, the patient's weight loss and fatigue, which have been progressive over the past year, could be indicative of a chronic infection or a systemic disease process."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's case is complex and requires a multidisciplinary approach to management, with careful consideration of the patient's infectious disease, cardiovascular, and renal diseases."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with fever, gram-negative bacteremia, and a complex medical history is typical of a patient with a complicated infection."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary infection, although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's case is similar to other cases of complicated bacteremia, which have been reported in the literature, and the patient's response to treatment should be closely monitored."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with fever, gram-negative bacteremia, and a complex medical history is typical of a complicated infection."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary infection, although I am troubled by the negative serologic test."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's case is similar to other cases of complicated bacteremia, which have been reported in the literature."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with fever, gram-negative bacteremia, and a complex medical history is consistent with a number of potential diagnoses, including complicated bacteremia and endocarditis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although this is not strongly supported by the diagnostic findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient's response to treatment should be closely monitored, and adjustments to the treatment regimen should be made as necessary, based on the patient's clinical response and the results of ongoing diagnostic testing."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's case is similar to other cases of complicated bacteremia, in which the patient's underlying medical conditions and response to treatment are critical factors in determining the outcome."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with fever, gram-negative bacteremia, and a complex medical history is consistent with a number of potential diagnoses, including complicated bacteremia and endocarditis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary infection, although the patient's underlying medical conditions and travel history must also be considered."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient's weight loss and fatigue, which have been progressive over the past year, could be indicative of a chronic infection or a systemic disease process, and the probability of this diagnosis should be considered in the context of the patient's overall clinical picture."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's case is similar to other cases of complicated bacteremia, and the management of this patient should be guided by the principles of treatment for this condition."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The diagnostic findings, including the positive blood culture and the patient's response to initial antibiotic treatment, are consistent with the diagnosis of complicated bacteremia due to *Moraxella phenylpyruvica*."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with fever, gram-negative bacteremia, and a complex medical history is consistent with a number of potential diagnoses, including complicated bacteremia due to *Moraxella phenylpyruvica* and endocarditis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's case highlights the importance of a thorough and nuanced approach to diagnosis and management, and the need for careful consideration of the patient's underlying medical conditions, travel history, and diagnostic findings."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient's treatment plan should be individualized and based on the patient's specific needs and underlying medical conditions, and should include close monitoring of the patient's response to treatment and adjustments to the treatment regimen as necessary."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

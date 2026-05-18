@@ -1,0 +1,150 @@
+{
+  "case": "2006 Case 36__openai-gpt-oss-120b.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T09:04:02.067916+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          24218,
+          24398
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cortisol potentiates the vasoconstrictive response of vascular smooth muscle to catecholamines by up‑regulating α‑adrenergic receptors and enhancing the expression of endothelin‑1."
+    },
+    {
+      "ranges": [
+        [
+          24412,
+          24534
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "cortisol’s mineralocorticoid activity (via 11β‑HSD2 saturation) promotes sodium retention, expanding intravascular volume."
+    },
+    {
+      "ranges": [
+        [
+          24535,
+          24746
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The net effect is a rise in systemic vascular resistance and arterial pressure, which is evident in the patient’s refractory hypertension despite β‑blockade (labetalol) and calcium‑channel blockade (nifedipine)."
+    },
+    {
+      "ranges": [
+        [
+          24777,
+          24898
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cortisol stimulates hepatic gluconeogenesis, antagonizes peripheral glucose uptake, and impairs β‑cell insulin secretion."
+    },
+    {
+      "ranges": [
+        [
+          24899,
+          25066
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The resultant insulin resistance manifests as polyuria, polydipsia, and fasting glucose in the 140–180 mg/dL range, as well as a 1‑hour post‑load glucose of 346 mg/dL."
+    },
+    {
+      "ranges": [
+        [
+          25217,
+          25374
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cortisol promotes adipocyte differentiation and preferential central fat deposition, producing the classic “moon face” and modest periorbital edema observed."
+    },
+    {
+      "ranges": [
+        [
+          25375,
+          25528
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s BMI of 28 (overweight) and a 6.8 kg gain in less than five months are consistent with cortisol‑driven fluid retention and fat accumulation."
+    },
+    {
+      "ranges": [
+        [
+          25562,
+          25690
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The vasodilatory effect of cortisol combined with increased cutaneous capillary fragility can cause a flushed, ruddy appearance."
+    },
+    {
+      "ranges": [
+        [
+          25798,
+          26255
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Although the case does not explicitly state hypokalemia, the prescription of potassium supplements suggests low serum potassium, a frequent accompaniment of ACTH‑dependent CS due to cortisol’s activation of mineralocorticoid receptors (cortisol binds the mineralocorticoid receptor with comparable affinity to aldosterone; normally, 11β‑HSD2 converts cortisol to cortisone in the renal tubule, but overwhelming cortisol concentrations saturate this enzyme)."
+    },
+    {
+      "ranges": [
+        [
+          34157,
+          34227
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If ACTH is low, the diagnostic focus would shift to the adrenal gland."
+    },
+    {
+      "ranges": [
+        [
+          34241,
+          34297
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the preponderance of evidence favors a pituitary source."
+    },
+    {
+      "ranges": [
+        [
+          32973,
+          33130
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Synthesizing the clinical, laboratory, and epidemiologic data, the leading diagnosis is **Cushing disease—an ACTH‑secreting pituitary corticotroph adenoma**."
+    },
+    {
+      "ranges": [
+        [
+          34049,
+          34156
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Adrenal adenoma remains a viable second‑most likely diagnosis pending ACTH measurement and adrenal imaging."
+    }
+  ]
+}

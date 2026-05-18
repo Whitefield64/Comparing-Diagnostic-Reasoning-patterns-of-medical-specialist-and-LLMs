@@ -1,6 +1,6 @@
 {
   "case": "2001 Case 36__meta-llama-3.3-70b-instruct.md",
-  "exported_at": "2026-05-18T04:35:59.967858+00:00",
+  "exported_at": "2026-05-18T07:16:46.271241+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -9,365 +9,106 @@
       "voter_id": 1,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient's complex medical history and the presence of multiple potential causes for the current illness highlight the need for a systematic approach to diagnosis, including consideration of the patient's symptoms, physical examination findings, and diagnostic test results."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's symptoms and physical examination findings are consistent with a pattern of acute febrile respiratory illness, which could be due to a variety of causes, including infectious and non-infectious processes."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a complex interplay of infectious and inflammatory processes, given the patient's immunocompromised state and history of autoimmune diseases."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient's history of recurrent infections and opportunistic infections, such as *Pneumocystis carinii* pneumonia, increases the likelihood of an infectious cause for the current illness."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's presentation is similar to that of other patients with immunocompromised states and complex medical histories, who have developed acute febrile respiratory illnesses due to a variety of causes."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The patient's immunocompromised state due to the use of corticosteroids, cyclophosphamide, and cyclosporine, increases the risk of opportunistic infections."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's symptoms of cough and dyspnea, along with the presence of patchy and linear opacities on the chest radiograph, suggest an infiltrative process in the lungs."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary infection, although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of infections, including bacterial, viral, and fungal, can be grouped on the basis of underlying cause, such as infection, autoimmune disease, trauma, cancer, ischemia, and metabolic complications."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary respiratory illness is the presentation, which typically presents as acute febrile respiratory illness, often with cough and dyspnea; fever is common, particularly the type of fever that this patient experienced."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of symptoms, including malaise, nonproductive cough, sore throat, and rhinorrhea, is typical of a viral upper respiratory infection, although the severity of the illness and the patient's immunocompromised state suggest that other causes should also be considered."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary respiratory illness, although I am troubled by the complexity of the case and the multitude of potential diagnoses."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of acute febrile respiratory illness involve common causes, the patient's immunocompromised state and history of opportunistic infections increase the likelihood of rare causes, such as opportunistic infections or exacerbations of underlying autoimmune diseases."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's history of bronchiolitis obliterans with organizing pneumonia and polymyositis is similar to cases reported in the literature, which suggests that an inflammatory or immune-mediated process could be contributing to the current illness."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The patient's immunocompromised state due to the use of corticosteroids, cyclophosphamide, and cyclosporine increases the risk of opportunistic infections, which could be the cause of the current illness."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The presence of patchy and linear opacities on the chest radiograph suggests an infiltrative process in the lungs, which could be consistent with an infectious pneumonia, an exacerbation of BOOP, or another inflammatory process."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient's complex medical history and the presence of multiple potential causes for the current illness highlight the need for a systematic approach to diagnosis, including consideration of the patient's symptoms, physical examination findings, and diagnostic test results."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The patient's immunocompromised state due to the use of corticosteroids, cyclophosphamide, and cyclosporine, increases the risk of opportunistic infections."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The presence of patchy and linear opacities on the chest radiograph suggests an infiltrative process in the lungs."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of infections that the patient is at risk for can be grouped on the basis of underlying cause, such as opportunistic infections, bacterial infections, viral infections, and fungal infections."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary infectious process, although I am troubled by the negative serologic test, and there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of opportunistic infections involve the lungs, involvement of other organs has been reported in about 10 percent of patients, and an elevated level of C-reactive protein is 100 percent sensitive for opportunistic infections."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with bronchiolitis obliterans with organizing pneumonia may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The patient's immunocompromised state due to the use of corticosteroids, cyclophosphamide, and cyclosporine, increases the risk of opportunistic infections."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has an opportunistic infection, we would expect to see a positive culture or PCR result, and empiric antibiotic therapy may be necessary, pending the results of diagnostic tests."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The patient's immunocompromised state and history of opportunistic infections also highlight the need for empiric antibiotic therapy, pending the results of diagnostic tests, before considering other potential causes of the illness."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient's symptoms, physical examination findings, and diagnostic test results are consistent with a respiratory illness, and further evaluation, including pulmonary function tests and muscle enzyme levels, may be necessary to guide management."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with acute febrile respiratory illness, in the context of a complex medical history and immunocompromised state, is consistent with a pattern of opportunistic infections."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is an opportunistic infection, although the patient's history of autoimmune diseases and the presence of organizing pneumonia also raise the possibility of an inflammatory or immune-mediated process contributing to the current illness."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Given the patient's history of opportunistic infections, the probability of an opportunistic infection in this case is high, although the patient's symptoms and diagnostic test results also suggest the possibility of other potential causes."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's presentation is similar to that of other patients with immunocompromised states and opportunistic infections, and the management of these patients may provide insight into the diagnosis and treatment of this patient."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
       "failed": false,
       "n_resolved": 16,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient's complex medical history and the presence of multiple potential causes for the current illness highlight the need for a systematic approach to diagnosis, including consideration of the patient's symptoms, physical examination findings, and diagnostic test results."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient's complex medical history and the presence of multiple potential causes for the current illness highlight the need for a systematic approach to diagnosis, including consideration of the patient's symptoms, physical examination findings, and diagnostic test results."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient's complex medical history and the presence of multiple potential causes for the current illness highlight the need for a systematic approach to diagnosis and management."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but the patient's complex medical history and the presence of multiple potential causes for the current illness highlight the need for a systematic approach to diagnosis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of symptoms, including malaise, nonproductive cough, sore throat, and rhinorrhea, could suggest a viral upper respiratory infection."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the patient's complex medical history and the presence of multiple potential causes for the current illness suggest that a systematic approach to diagnosis is necessary."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient's history of *Pneumocystis carinii* pneumonia and other infections suggests that the patient is at high risk for opportunistic infections, and prophylactic measures against these infections are crucial, although the exact probability is not quantified."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The patient's immunocompromised state due to the use of corticosteroids, cyclophosphamide, and cyclosporine, increases the risk of opportunistic infections."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The presence of patchy and linear opacities on the chest radiograph suggests an infiltrative process in the lungs."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 9,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The patient's immunocompromised state due to the use of corticosteroids, cyclophosphamide, and cyclosporine, increases the risk of opportunistic infections."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has an opportunistic infection, we would expect to see symptoms such as fever, cough, and dyspnea, which are present in this case."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient's symptoms and physical examination findings, such as fever, cough, and patchy and linear opacities on the chest radiograph, suggest an infiltrative process in the lungs."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "Given the patient's complex medical history and immunocompromised state, it is essential to consider both infectious and non-infectious causes, including opportunistic infections, exacerbations of underlying autoimmune diseases, and metabolic complications."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient's history of bronchiolitis obliterans with organizing pneumonia and polymyositis, along with the current symptoms and physical examination findings, suggests that an inflammatory or immune-mediated process could be contributing to the current illness."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with acute febrile respiratory illness, in the context of a complex medical history and immunocompromised state, is consistent with a pattern of opportunistic infections."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is an opportunistic infection, given the patient's immunocompromised state and history of recurrent infections."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient's history of *Pneumocystis carinii* pneumonia and other infections increases the probability of an opportunistic infection, given the patient's immunocompromised state."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's presentation is similar to that of other patients with opportunistic infections, such as *Pneumocystis carinii* pneumonia, which suggests that an opportunistic infection could be the cause of the current illness."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but the patient's complex medical history and the presence of multiple potential causes for the current illness highlight the need for a systematic approach to diagnosis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the patient's complex medical history and the presence of multiple potential causes for the current illness suggest that a systematic approach to diagnosis is necessary."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "The patient's complex medical history and the presence of multiple potential causes for the current illness highlight the need for a multidisciplinary approach to care, and careful consideration of the potential benefits and risks of immunosuppressive therapy is essential to guide management."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The patient's immunocompromised state due to the use of corticosteroids, cyclophosphamide, and cyclosporine, increases the risk of opportunistic infections."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient's symptoms, physical examination findings, and diagnostic test results suggest that the current illness is primarily respiratory in nature."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's complex medical history and the presence of multiple potential causes for the current illness highlight the need for a multidisciplinary approach to care, and careful consideration of the potential benefits and risks of immunosuppressive therapy is essential to guide management."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The patient's immunocompromised state due to the use of corticosteroids, cyclophosphamide, and cyclosporine, increases the risk of opportunistic infections."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's symptoms of cough and dyspnea, along with the presence of patchy and linear opacities on the chest radiograph, suggest an infiltrative process in the lungs."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

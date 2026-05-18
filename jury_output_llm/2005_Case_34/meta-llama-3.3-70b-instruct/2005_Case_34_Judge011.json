@@ -1,0 +1,128 @@
+{
+  "case": "2005 Case 34__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T08:07:50.873686+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9302,
+          9552
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "One of the primary considerations in this case is the diagnosis of Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN), which are severe cutaneous adverse reactions (SCARs) often associated with medication use, including carbamazepine."
+    },
+    {
+      "ranges": [
+        [
+          9941,
+          10120
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious etiologies, such as staphylococcal scalded skin syndrome (SSSS) or severe infections like sepsis, could also present with widespread skin lesions and systemic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          10762,
+          10882
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Autoimmune disorders, such as pemphigus vulgaris or bullous pemphigoid, could also present with blistering skin lesions."
+    },
+    {
+      "ranges": [
+        [
+          11039,
+          11219
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other systemic conditions, such as severe graft-versus-host disease (GVHD) in the setting of bone marrow transplantation, could also present with similar skin and mucosal findings."
+    },
+    {
+      "ranges": [
+        [
+          9009,
+          9300
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of a rash, initially diagnosed as a hypersensitivity reaction to carbamazepine, and the subsequent progression to a severe bullous eruption with sloughing of the skin, mucosal involvement, and respiratory failure, suggests a severe and potentially life-threatening condition."
+    },
+    {
+      "ranges": [
+        [
+          9683,
+          9855
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of a morbilliform rash, vesicles, and Nikolsky's sign, along with the progression to skin sloughing and mucosal involvement, is consistent with this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10121,
+          10319
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's positive blood cultures for *Staphylococcus aureus*, *Stenotrophomonas maltophilia*, and *Candida parapsilosis* suggest that an infectious component may be contributing to her illness."
+    },
+    {
+      "ranges": [
+        [
+          10320,
+          10473
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the initial presentation and the lack of response to antibiotics alone make it less likely that an infection is the sole cause of her condition."
+    },
+    {
+      "ranges": [
+        [
+          11616,
+          11749
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of patchy infiltrates on chest radiography and the requirement for oxygen supplementation support the diagnosis of ARDS."
+    },
+    {
+      "ranges": [
+        [
+          13561,
+          13809
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "cine. The patient's clinical course, with the development of secondary infections, organ dysfunction, and the requirement for prolonged intensive care, highlights the severity of her condition and the importance of prompt and aggressive management."
+    },
+    {
+      "ranges": [
+        [
+          12519,
+          12741
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the complexity of this case and the multitude of potential diagnoses, it is crucial to consider all available information, including the patient's clinical presentation, laboratory results, and response to treatment."
+    }
+  ]
+}

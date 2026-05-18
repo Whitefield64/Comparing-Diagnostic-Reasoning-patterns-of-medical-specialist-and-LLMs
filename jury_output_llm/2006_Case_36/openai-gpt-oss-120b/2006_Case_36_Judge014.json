@@ -1,0 +1,117 @@
+{
+  "case": "2006 Case 36__openai-gpt-oss-120b.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T09:04:02.068092+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          12224,
+          12493
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The biochemical hallmark (UFC ≈ 1 865 µg) establishes hypercortisolism. Distinguishing ACTH‑dependent from ACTH‑independent disease hinges on serum ACTH measurement (high in CD/EAS, low in adrenal adenoma/carcinoma) and on imaging (pituitary MRI versus adrenal CT/MRI)."
+    },
+    {
+      "ranges": [
+        [
+          27290,
+          27486
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the high pre‑test probability of Cushing syndrome, the next steps are aimed at confirming the diagnosis, categorizing the source, and planning definitive therapy while minimizing fetal risk."
+    },
+    {
+      "ranges": [
+        [
+          24218,
+          24534
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cortisol potentiates the vasoconstrictive response of vascular smooth muscle to catecholamines by up‑regulating α‑adrenergic receptors and enhancing the expression of endothelin‑1. In addition, cortisol’s mineralocorticoid activity (via 11β‑HSD2 saturation) promotes sodium retention, expanding intravascular volume."
+    },
+    {
+      "ranges": [
+        [
+          34157,
+          34227
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If ACTH is low, the diagnostic focus would shift to the adrenal gland."
+    },
+    {
+      "ranges": [
+        [
+          32973,
+          33130
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Synthesizing the clinical, laboratory, and epidemiologic data, the leading diagnosis is **Cushing disease—an ACTH‑secreting pituitary corticotroph adenoma**."
+    },
+    {
+      "ranges": [
+        [
+          23851,
+          24108
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of hypokalemia (implied by potassium supplementation) tilts slightly toward an ACTH‑dependent source, because ACTH‑driven cortisol has more potent mineralocorticoid activity than cortisol produced by an adrenal adenoma where ACTH is suppressed."
+    },
+    {
+      "ranges": [
+        [
+          19131,
+          19236
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s phenotype (hypertension, hyperglycemia, high cortisol) is opposite to that expected in CAH."
+    },
+    {
+      "ranges": [
+        [
+          20834,
+          21057
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Ectopic CRH Production  \n\nRare tumors can produce corticotropin‑releasing hormone (CRH), stimulating ACTH release. The clinical picture mirrors ectopic ACTH syndrome, but CRH‑producing tumors often have a more indolent cour"
+    },
+    {
+      "ranges": [
+        [
+          12745,
+          12909
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The next logical step—presumably the “diagnostic procedure” mentioned—would be a high‑dose dexamethasone suppression test or an MRI of the pituitary/adrenal glands."
+    },
+    {
+      "ranges": [
+        [
+          26720,
+          26840
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s fetal ultrasound was “normal for gestational age,” which is reassuring, but close monitoring is essential."
+    }
+  ]
+}

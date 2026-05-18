@@ -1,0 +1,84 @@
+{
+  "case": "2009 Case 32__openai-gpt-oss-120b.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T09:40:40.018304+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          25926,
+          26243
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The preponderance of **converging phenotypic elements**—particularly the triad of **oculocutaneous albinism**, **platelet dense‑granule storage‑pool deficiency**, and **progressive UIP‑type interstitial fibrosis with upper‑lobe bronchiectasis**—strongly favors **Hermansky‑Pudlak syndrome** as the unifying diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          29735,
+          29888
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The convergence of all major clinical clues therefore points unequivocally to **Hermansky‑Pudlak syndrome (most likely HPS‑1)** as the leading diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          17843,
+          18002
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "ertension, the lack of any rheumatologic signs or serologic evidence, together with the distinctive albinism/platelet phenotype, makes these diagnoses unlikely"
+    },
+    {
+      "ranges": [
+        [
+          14743,
+          14838
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the strong extra‑pulmonary phenotype, surfactant protein deficiency is lower on the list."
+    },
+    {
+      "ranges": [
+        [
+          11427,
+          11583
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The constellation of pigmentation abnormality, platelet storage‑pool deficiency, and early‑onset fibrotic lung disease is essentially pathognomonic for HPS."
+    },
+    {
+      "ranges": [
+        [
+          9675,
+          9814
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "dysfunctional lamellar bodies impair surfactant turnover and predispose to chronic alveolar injury, inflammation, and progressive fibrosis."
+    },
+    {
+      "ranges": [
+        [
+          11656,
+          11845
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "ease is Chediak‑Higashi syndrome, but it is characterized by giant lysosomal granules, severe immunodeficiency, and neurologic decline—features not evident here.  Therefore, the leading dia"
+    }
+  ]
+}

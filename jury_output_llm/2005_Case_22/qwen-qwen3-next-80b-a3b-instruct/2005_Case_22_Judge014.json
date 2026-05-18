@@ -1,0 +1,62 @@
+{
+  "case": "2005 Case 22__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T07:59:20.273238+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7847,
+          8157
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The key diagnostic challenge lies in distinguishing between primary CNS infection, paraneoplastic or autoimmune encephalopathy, metastatic infiltration, and systemic sepsis with secondary CNS complications—all occurring against a backdrop of profound B-cell immunodeficiency and recurrent bacterial pneumonias."
+    },
+    {
+      "ranges": [
+        [
+          11104,
+          11428
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of T cells with a normal phenotype (CD4:CD8 ratio preserved) is expected in the context of normal immune surveillance. However, the detection of a small number of B cells with the identical immunophenotype as the patient’s CLL—CD19+, CD20+, CD5+, CD23+, lambda-restricted—constitutes a critical diagnostic clue."
+    },
+    {
+      "ranges": [
+        [
+          12639,
+          12809
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The isolation of *P. aeruginosa* from sputum, combined with the patient’s bacteremia likely secondary to pneumonia, raises the possibility of septic emboli or meningitis."
+    },
+    {
+      "ranges": [
+        [
+          19689,
+          19887
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s prolonged immunosuppression, prior fludarabine therapy, hypogammaglobulinemia, and history of recurrent infections created the perfect storm for this rare but devastating complication."
+    },
+    {
+      "ranges": [
+        [
+          19307,
+          19571
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the clinical and CSF data, the most likely primary diagnosis is **CNS infiltration by chronic lymphocytic leukemia**, complicated by **bacteremia from *Pseudomonas aeruginosa*** and possibly **viral encephalitis** (e.g., EBV or CMV) as a contributing factor."
+    }
+  ]
+}

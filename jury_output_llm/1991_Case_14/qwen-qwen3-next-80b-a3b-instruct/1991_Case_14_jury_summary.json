@@ -1,6 +1,6 @@
 {
   "case": "1991 Case 14__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-17T23:13:35.811624+00:00",
+  "exported_at": "2026-05-18T07:13:56.789881+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -9,53 +9,15 @@
       "voter_id": 1,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysfunction due to mass effect from the lesion could explain the transient grunting in the neonatal period, likely due to mild compression of the left lung or diaphragm by the cyst,"
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a neuroblastoma, we would expect to see vivid enhancement on contrast imaging due to its rich vascularity and possibly calcifications, which are absent here."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The clinical stability and lack of systemic signs further reduce the probability of a malignant process such as neuroblastoma or lymphoma, making a benign congenital anomaly more likely."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a nonenhancing, T2 hyperintense mass with a well-defined cleavage plane is highly suggestive of a congenital anomaly such as CPAM or esophageal duplication cyst."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "The clinical presentation and imaging characteristics intuitively suggest a benign congenital lesion rather than a malignant or infectious process."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Given the posterior location, cystic appearance, and lack of enhancement or calcification, the probability of this being a CPAM or esophageal duplication cyst is significantly higher than other considered diagnoses."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "This case resembles others where CPAM or esophageal duplication cysts have presented similarly in infants, with a preference for a benign, expectant management approach due to the low risk of complications."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, solitary mass within the left paravertebral gutter, posterior to the heart and abutting the left hemidiaphragm, with no evidence of spinal canal invasion, vascular encasement, or mediastinal shift, is highly suggestive of a congenital, non-neoplastic, developmental anomaly."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "The clinical course is classic for a benign, congenital lesion, and the imaging findings are too characteristic for a simple inflammatory or infectious process."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
@@ -68,21 +30,8 @@
       "voter_id": 4,
       "failed": false,
       "n_resolved": 22,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, solitary mass within the right lobe of the liver is not mentioned in the provided document, however, the description of CPAM and esophageal duplication cyst matches the description of these conditions."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of CPAM or esophageal duplication cyst is higher given the clinical presentation and imaging characteristics."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Similar cases of CPAM and esophageal duplication cyst have been reported in the literature, with similar clinical presentations and imaging characteristics."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
@@ -95,313 +44,71 @@
       "voter_id": 6,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a neuroblastoma, we would expect to see vivid enhancement on contrast imaging due to its rich vascularity, and the presence of calcifications, which are absent in this case."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The absence of systemic symptoms, normal neurologic exam, and lack of progression over time strongly argue against aggressive, infiltrative, or infectious etiologies, and suggest a benign, congenital lesion."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The clinical stability and lack of symptoms suggest that the lesion is benign and non-life-threatening, but its persistence warrants definitive diagnosis and planned intervention, with consideration of CPAM and esophageal duplication cyst as the primary differential diagnoses."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The mass is located in the left paravertebral gutter, posterior to the heart and abutting the left hemidiaphragm, with no evidence of spinal canal invasion, vascular encasement, or mediastinal shift, which is consistent with a congenital, non-neoplastic lesion."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "The fact that the mass was detected neonatally, caused transient grunting, and resolved respiratory symptoms with antibiotics, supports a benign, noninfectious origin, and suggests that the lesion is likely a congenital anomaly."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of CPAM or esophageal duplication cyst is high, given the posterior location, cystic appearance, T2 hyperintensity, lack of enhancement or calcification, and clinical stability, and further diagnostic workup would ideally involve endoscopic ultrasound or bronchoscopy to assess for communication with the airway or esophagus."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The clinical presentation and imaging findings are similar to those of previously reported cases of CPAM and esophageal duplication cyst, which supports the diagnosis of a congenital, non-neoplastic lesion."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a neuroblastoma, we would expect to see vivid enhancement on contrast imaging due to its rich vascularity, and the presence of calcifications, which are absent here."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The absence of systemic symptoms, normal neurologic exam, and lack of progression over time strongly argue against aggressive, infiltrative, or infectious etiologies."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not applicable here, but the process of elimination of other diagnoses such as neuroblastoma, teratoma, and lymphangioma, due to their atypical features, supports the likelihood of CPAM or esophageal duplication cyst."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a congenital, non-neoplastic, developmental anomaly, particularly CPAM or esophageal duplication cyst, is highly suggestive given the mass’s persistence, location, and imaging characteristics."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of CPAM or esophageal duplication cyst is high given the posterior location, cystic appearance, T2 hyperintensity, lack of enhancement or calcification, and clinical stability, making these the most likely diagnoses."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The fact that the mass has remained stable for over 15 weeks supports a benign, noncommunicating cystic lesion, making CPAM or esophageal duplication cyst strong contenders, similar to cases of congenital anomalies with stable clinical courses."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysfunction due to mass effect from the lesion could explain the transient grunting in the neonatal period, likely due to mechanical compression of the left lung or diaphragm by the cyst,"
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a neuroblastoma, we would expect to see vivid enhancement on contrast imaging due to its rich vascularity and possibly calcifications, which are absent here."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The clinical stability and lack of systemic signs further reduce the probability of a malignant process such as neuroblastoma or lymphoma, making a benign congenital anomaly more likely."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a posterior mediastinal mass with T2 hyperintensity and a cleavage plane is highly suggestive of either a congenital pulmonary airway malformation (CPAM) or an esophageal duplication cyst."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "The clinical course and imaging characteristics intuitively suggest a benign, congenital lesion rather than a malignant or infectious process."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Given the absence of enhancement, calcification, and systemic symptoms, the probability of this lesion being a neuroblastoma is significantly lowered, making CPAM or esophageal duplication cyst more likely."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "This case resembles previously reported cases of congenital pulmonary airway malformations (CPAM) or esophageal duplication cysts in terms of location, imaging characteristics, and clinical stability."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
       "failed": false,
       "n_resolved": 2,
-      "n_unresolved": 9,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysfunction in the development of the fetal lung bud during the pseudoglandular stage (weeks 5–17 of gestation) could lead to the formation of a congenital pulmonary airway malformation (CPAM)."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a neuroblastoma, we would expect to see vivid enhancement on contrast imaging due to its rich vascularity and possibly calcifications, which are absent in this case."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The clinical presentation and imaging characteristics of this case can be evaluated using a systematic approach to differential diagnosis, considering the age of the patient, location of the mass, and presence or absence of specific features such as enhancement, calcification, or systemic symptoms."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first consider and rule out malignant or aggressive conditions such as neuroblastoma or lymphoma, given the potential for these to cause significant morbidity or mortality, before considering benign congenital anomalies like CPAM or esophageal duplication cyst."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The absence of systemic symptoms, normal neurologic exam, and lack of progression over time strongly argue against aggressive, infiltrative, or infectious etiologies and are consistent with a benign congenital condition."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The combination of a posterior mediastinal mass, T2 hyperintensity, and lack of enhancement or calcification is highly suggestive of a congenital pulmonary airway malformation (CPAM) or an esophageal duplication cyst."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "Given the clinical stability and lack of symptoms, it seems unlikely that this lesion is malignant or poses an immediate threat to the patient's health, suggesting a more benign condition."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of this being a CPAM or esophageal duplication cyst is higher given the specific imaging characteristics and clinical presentation, while the likelihood of it being a neuroblastoma or other malignant process is lower due to the absence of typical features for these conditions."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Similar cases of congenital pulmonary airway malformations or esophageal duplication cysts presenting with posterior mediastinal masses in infants have been reported in the literature, supporting these diagnoses as plausible explanations for the clinical and imaging findings in this patient."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a posterior mediastinal mass with T2 hyperintensity and lack of enhancement is highly suggestive of a congenital, non-neoplastic, developmental anomaly."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary congenital anomaly, given the clinical presentation and imaging characteristics."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of a congenital pulmonary airway malformation (CPAM) or esophageal duplication cyst is high, given the posterior location, cystic appearance, and clinical stability."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but the process of elimination based on symptoms and imaging is similar."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a congenital, non-neoplastic, developmental anomaly, particularly a **congenital cystic adenomatoid malformation (CCAM), now termed congenital pulmonary airway malformation (CPAM)**, is highly suggestive given the clinical presentation and imaging characteristics."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of CPAM or esophageal duplication cyst is high given the posterior location, cystic appearance, T2 hyperintensity, lack of enhancement or calcification, and clinical stability, making other diagnoses less likely."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The fact that the mass has remained stable for over 15 weeks supports a benign, noncommunicating cystic lesion, making this a strong contender for CPAM or esophageal duplication cyst."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "Another critical consideration is a **teratoma**, particularly a mediastinal or posterior mediastinal germ cell tumor, although the absence of calcification and fat on CT makes this less likely."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a lesion in the posterior thoracic compartment, with a thin dark cleavage plane separating it from paraspinal structures, providing critical clues for the diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of congenital anomalies can be grouped on the basis of underlying cause, such as developmental, neoplastic, or infectious."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is less relevant here, as the clinical presentation and imaging findings suggest a benign, congenital lesion."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not directly relevant, but the imaging findings and clinical course validate the diagnosis of a congenital anomaly."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a posterior mediastinal mass with T2 hyperintensity and lack of enhancement is highly suggestive of a congenital pulmonary airway malformation (CPAM) or esophageal duplication cyst."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a congenital anomaly, given the clinical stability and lack of systemic symptoms."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of neuroblastoma involve the adrenal medulla, the absence of enhancement, calcification, and systemic symptoms in this case makes it less likely, with a probability of less than 10%."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The clinical presentation and imaging findings are reminiscent of previously reported cases of congenital pulmonary airway malformations (CPAM) and esophageal duplication cysts."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a neuroblastoma, we would expect to see vivid enhancement on contrast imaging due to its rich vascularity; the absence of enhancement in this case is highly atypical."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, solitary mass within the left hemithorax, with nonenhancing and T2 hyperintense characteristics, is highly suggestive of a congenital anomaly."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of a congenital pulmonary airway malformation (CPAM) or esophageal duplication cyst is high, given the posterior location, cystic appearance, and clinical stability."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the sentence 'The most likely diagnosis is a **congenital pulmonary airway malformation (CPAM) Type I**' can be annotated with ABD_SELECTIVE as it was, but another option could be 'The clinical stability and lack of symptoms suggest that the lesion is benign and non-life-threatening, but its persistence warrants definitive diagnosis and planned intervention.'"
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

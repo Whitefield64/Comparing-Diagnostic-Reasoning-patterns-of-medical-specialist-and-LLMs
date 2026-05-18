@@ -1,0 +1,447 @@
+{
+  "case": "2009 Case 32__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T09:35:14.418598+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8098,
+          8307
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient presents with a complex array of symptoms, including progressive dyspnea, decreased exercise tolerance, and a history of hemoptysis, wheezing, and chronic cough productive of clear-to-green sputum."
+    },
+    {
+      "ranges": [
+        [
+          8308,
+          8447
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical findings, laboratory results, and imaging studies reveal a multifaceted picture with numerous potential diagnoses to consider."
+    },
+    {
+      "ranges": [
+        [
+          8459,
+          8762
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of diffuse bronchiectatic changes, especially in the upper lung zones, with increased lung markings bilaterally and features consistent with an interstitial process on chest radiograph and CT of the chest, suggests a pulmonary condition with both bronchiectatic and interstitial components."
+    },
+    {
+      "ranges": [
+        [
+          8764,
+          8991
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's history of albinism, easy bruising, and nearsightedness, along with a family history of similar conditions, raises the possibility of a genetic or systemic disorder affecting multiple systems, including the lungs."
+    },
+    {
+      "ranges": [
+        [
+          8992,
+          9145
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The diagnosis of cystic fibrosis (CF) was considered due to the patient's respiratory symptoms and the mention that his mother was told he might have CF."
+    },
+    {
+      "ranges": [
+        [
+          9146,
+          9221
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the negative sweat chloride test makes this diagnosis less likely."
+    },
+    {
+      "ranges": [
+        [
+          9512,
+          9734
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the interstitial changes and bronchiectasis on imaging, along with the patient's progressive dyspnea and decreased exercise tolerance, conditions that cause pulmonary fibrosis and bronchiectasis should be considered."
+    },
+    {
+      "ranges": [
+        [
+          9735,
+          9912
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Idiopathic pulmonary fibrosis (IPF) is a condition characterized by progressive fibrosis of the lung parenchyma, leading to symptoms similar to those experienced by the patient."
+    },
+    {
+      "ranges": [
+        [
+          9913,
+          10017
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "However, IPF typically affects older adults, making this diagnosis less likely in a 27-year-old patient."
+    },
+    {
+      "ranges": [
+        [
+          10018,
+          10333
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other forms of interstitial lung disease (ILD), such as those associated with connective tissue diseases (e.g., rheumatoid arthritis, systemic lupus erythematosus), could be considered, but there is no clear evidence of such diseases in this patient (e.g., no joint symptoms, no rash, normal autoimmune serologies)."
+    },
+    {
+      "ranges": [
+        [
+          10335,
+          10524
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's history of easy bruising and the findings of impaired platelet function on platelet-aggregation studies suggest a bleeding disorder or a condition affecting platelet function."
+    },
+    {
+      "ranges": [
+        [
+          10525,
+          10749
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "This, combined with the patient's albinism, raises the possibility of Hermansky-Pudlak syndrome (HPS), a rare genetic disorder characterized by albinism, bleeding tendency due to platelet dysfunction, and pulmonary fibrosis."
+    },
+    {
+      "ranges": [
+        [
+          10750,
+          10885
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The syndrome affects the production of melanin, leading to albinism, and affects platelet dense granules, leading to bleeding problems."
+    },
+    {
+      "ranges": [
+        [
+          10886,
+          11028
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The pulmonary involvement in HPS can include interstitial lung disease and pulmonary fibrosis, consistent with the patient's imaging findings."
+    },
+    {
+      "ranges": [
+        [
+          11030,
+          11171
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of digital clubbing and the significant desaturation with exercise further support the presence of a severe pulmonary condition."
+    },
+    {
+      "ranges": [
+        [
+          11172,
+          11498
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The findings on cardiac ultrasonography, including an estimated right ventricular systolic pressure of 56 mm Hg and dilation of the main and right pulmonary arteries, suggest pulmonary hypertension, which can be a complication of chronic lung diseases, including those causing interstitial lung disease and pulmonary fibrosis."
+    },
+    {
+      "ranges": [
+        [
+          11499,
+          11668
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Pulmonary hypertension can lead to right ventricular dysfunction and failure, which may contribute to the patient's symptoms of dyspnea and decreased exercise tolerance."
+    },
+    {
+      "ranges": [
+        [
+          11670,
+          11847
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In addition to HPS, other genetic disorders that affect the lungs and could be considered in the differential diagnosis include tuberous sclerosis complex and neurofibromatosis."
+    },
+    {
+      "ranges": [
+        [
+          11848,
+          12014
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "However, these conditions typically present with other systemic features and do not as closely align with the patient's specific combination of symptoms and findings."
+    },
+    {
+      "ranges": [
+        [
+          12015,
+          12187
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's family history of albinism and respiratory problems also supports the consideration of a genetic disorder, further pointing towards HPS as a likely diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          12189,
+          12395
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's history of smoking, although stopped 9 months prior to evaluation, could contribute to the development of chronic obstructive pulmonary disease (COPD) or other smoking-related lung conditions."
+    },
+    {
+      "ranges": [
+        [
+          12396,
+          12579
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the patient's age, the presence of interstitial changes on imaging, and the absence of other typical COPD symptoms (e.g., chronic bronchitis) make this diagnosis less likely."
+    },
+    {
+      "ranges": [
+        [
+          12580,
+          12838
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Furthermore, the patient's symptoms and findings are not typical for asthma, despite the use of bronchodilators and inhaled corticosteroids, which were likely prescribed for symptomatic relief rather than as a treatment for an underlying asthmatic condition."
+    },
+    {
+      "ranges": [
+        [
+          12840,
+          13024
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Infectious causes of the patient's symptoms, such as tuberculosis or fungal infections, must also be considered, especially given the patient's history of hemoptysis and chronic cough."
+    },
+    {
+      "ranges": [
+        [
+          13025,
+          13188
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the negative skin testing for tuberculosis and the absence of other diagnostic evidence for infectious diseases reduce the likelihood of these conditions."
+    },
+    {
+      "ranges": [
+        [
+          13189,
+          13356
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's history of occasional headaches could suggest a neurological component to the disease, but there is no clear evidence of a primary neurological disorder."
+    },
+    {
+      "ranges": [
+        [
+          13358,
+          13557
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The findings of a moderately echogenic liver texture consistent with fatty infiltration on abdominal ultrasonography could suggest a systemic condition affecting multiple organs, including the liver."
+    },
+    {
+      "ranges": [
+        [
+          13558,
+          13703
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, this finding is nonspecific and could be related to various conditions, including metabolic disorders or the use of certain medications."
+    },
+    {
+      "ranges": [
+        [
+          13790,
+          14003
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's complex presentation, including albinism, easy bruising, impaired platelet function, and interstitial lung disease with bronchiectasis, Hermansky-Pudlak syndrome emerges as a leading diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          14004,
+          14184
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This condition would explain the combination of the patient's pulmonary symptoms, bleeding tendency, and albinism, as well as the presence of pulmonary fibrosis and bronchiectasis."
+    },
+    {
+      "ranges": [
+        [
+          14185,
+          14425
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Other diagnoses, such as idiopathic pulmonary fibrosis or connective tissue disease-associated ILD, seem less likely given the patient's age, the specific combination of symptoms, and the absence of diagnostic criteria for these conditions."
+    },
+    {
+      "ranges": [
+        [
+          16316,
+          16496
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's pulmonary function tests and exercise testing results also provide valuable insights into the severity of the pulmonary disease and the patient's functional capacity."
+    },
+    {
+      "ranges": [
+        [
+          16497,
+          16676
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The significant desaturation with exercise and the poor exercise tolerance suggest a severe pulmonary condition that is limiting the patient's ability to perform daily activities."
+    },
+    {
+      "ranges": [
+        [
+          16677,
+          16838
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The findings of pulmonary hypertension and right ventricular dysfunction on cardiac ultrasonography further support the presence of a severe pulmonary condition."
+    },
+    {
+      "ranges": [
+        [
+          16840,
+          16968
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "In addition to the diagnostic considerations, the patient's management and treatment options should also be carefully evaluated."
+    },
+    {
+      "ranges": [
+        [
+          16969,
+          17263
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the likely diagnosis of HPS, the patient may benefit from treatments aimed at managing the pulmonary fibrosis and pulmonary hypertension, such as oxygen therapy, pulmonary rehabilitation, and pharmacological treatments to reduce pulmonary pressures and improve right ventricular function."
+    },
+    {
+      "ranges": [
+        [
+          17264,
+          17470
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's bleeding tendency and impaired platelet function may also require specific management strategies, such as avoidance of bleeding risks and use of bleeding precautions during medical procedures."
+    },
+    {
+      "ranges": [
+        [
+          17472,
+          17623
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Overall, the patient's complex presentation and diagnostic findings require a comprehensive and multidisciplinary approach to diagnosis and management."
+    },
+    {
+      "ranges": [
+        [
+          17624,
+          17900
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "A thorough evaluation of the patient's symptoms, laboratory results, and imaging findings, combined with a careful consideration of the patient's medical history and family history, is essential to establishing an accurate diagnosis and developing an effective treatment plan."
+    },
+    {
+      "ranges": [
+        [
+          17901,
+          18135
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Further diagnostic testing and evaluation may be necessary to confirm the diagnosis and guide management, and a long-term follow-up plan should be established to monitor the patient's condition and adjust the treatment plan as needed."
+    }
+  ]
+}

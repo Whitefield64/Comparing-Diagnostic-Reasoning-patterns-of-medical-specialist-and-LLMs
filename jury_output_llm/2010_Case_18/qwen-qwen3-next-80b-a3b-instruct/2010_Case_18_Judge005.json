@@ -1,0 +1,161 @@
+{
+  "case": "2010 Case 18__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T10:08:40.897786+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6642,
+          6721
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate consideration is **nonadherence to antiretroviral therapy**."
+    },
+    {
+      "ranges": [
+        [
+          6172,
+          6366
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The central question is not merely why the viral load remains detectable, but why, despite apparent adherence, clinical improvement, and regimen changes, viral suppression has not been achieved."
+    },
+    {
+      "ranges": [
+        [
+          9983,
+          10114
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s weight and height are below the fifth percentile, indicating chronic malnutrition or HIV-associated wasting syndrome."
+    },
+    {
+      "ranges": [
+        [
+          10361,
+          10457
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Chronic HIV infection can cause enteropathy, reducing intestinal absorption of oral medications."
+    },
+    {
+      "ranges": [
+        [
+          12477,
+          12612
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the granulomas were truly due to TB, then the patient may have had concurrent active TB disease during the period of ART initiation."
+    },
+    {
+      "ranges": [
+        [
+          9210,
+          9594
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The fact that his viral load remained elevated after switching to a boosted protease inhibitor suggests that the protease inhibitor component may also be compromised—either due to pre-existing protease mutations (e.g., M46I, I54V, V82A) or, more likely, due to the presence of multiple resistance mutations across drug classes that reduce the overall efficacy of even potent regimens."
+    },
+    {
+      "ranges": [
+        [
+          7321,
+          7593
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The initial regimen included ritonavir alone, later replaced with lopinavir–ritonavir, and zidovudine and lamivudine doses were increased—this indicates a prior regimen that may have been suboptimal in potency or pharmacokinetic profile for a child of this age and weight."
+    },
+    {
+      "ranges": [
+        [
+          13463,
+          13536
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The possibility of **another chronic infection** must also be considered."
+    },
+    {
+      "ranges": [
+        [
+          7132,
+          7320
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that the mother had not previously received formal ART training suggests potential gaps in understanding of the necessity of strict daily dosing, especially with complex regimens."
+    },
+    {
+      "ranges": [
+        [
+          13537,
+          13590
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient had recurrent otitis media and pneumonia."
+    },
+    {
+      "ranges": [
+        [
+          17472,
+          17839
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "s child is a combination of **pre-existing drug resistance** (likely to NRTIs, possibly to protease inhibitors) compounded by **suboptimal pharmacokinetics due to malnutrition and prior rifampin exposure**, with possible **persistent immune activation from unresolved or misdiagnosed mycobacterial infection** (BCG vs. TB). The regimen change to lopinavir–ritonavir w"
+    },
+    {
+      "ranges": [
+        [
+          14124,
+          14290
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although the case does not report serologies or PCR for these agents, their presence would be plausible in a child with prolonged HIV infection and immune compromise."
+    },
+    {
+      "ranges": [
+        [
+          18850,
+          19021
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case is a stark reminder that in pediatric HIV, virologic failure is rarely due to a single cause—it is a multifactorial failure of biology, pharmacology, and system."
+    },
+    {
+      "ranges": [
+        [
+          18661,
+          18849
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The granulomatous lesion remains enigmatic but likely represents BCG lymphadenitis rather than TB, given the negative cultures and the high prevalence of BCG complications in this setting."
+    }
+  ]
+}

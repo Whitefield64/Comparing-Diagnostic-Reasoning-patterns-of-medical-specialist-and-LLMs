@@ -1,0 +1,95 @@
+{
+  "case": "2008 Case 29__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T09:26:57.751674+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9311,
+          9463
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnosis for the acute presentation is **functional ileus due to chronic fecal impaction secondary to severe, prolonged anorexia nervosa**."
+    },
+    {
+      "ranges": [
+        [
+          19684,
+          20015
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s history of weight loss after cessation of growth at age 11, his intense focus on caloric restriction despite normal appetite (he reported early satiety, which is likely a consequence of gastric atrophy and delayed emptying), and his denial of illness are inconsistent with ARFID and strongly support anorexia nervosa."
+    },
+    {
+      "ranges": [
+        [
+          15741,
+          15990
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient developed profound hypophosphatemia during refeeding, requiring phosphate replacement. This is a hallmark of refeeding syndrome, a life-threatening condition occurring when nutrition is reintroduced to a severely malnourished individual."
+    },
+    {
+      "ranges": [
+        [
+          15991,
+          16223
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Refeeding syndrome is driven by insulin-driven intracellular shifts of phosphate, potassium, and magnesium, leading to hypophosphatemia, hypokalemia, hypomagnesemia, and subsequent cardiac, neurologic, and respiratory complications."
+    },
+    {
+      "ranges": [
+        [
+          9018,
+          9174
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of air-fluid levels, free air, or vascular compromise on imaging argues strongly against acute mechanical obstruction, ischemia, or perforation."
+    },
+    {
+      "ranges": [
+        [
+          9175,
+          9293
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The resolution of symptoms with bowel evacuation and nasogastric decompression further supports a functional etiology."
+    },
+    {
+      "ranges": [
+        [
+          11118,
+          11339
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that his ileus resolved completely with bowel evacuation and refeeding argues against a primary myopathic or neuropathic gut disorder; in true CIPO, refeeding alone rarely resolves the underlying motility defect."
+    },
+    {
+      "ranges": [
+        [
+          20175,
+          20345
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The constellation of bradycardia, hypothermia, orthostatic hypotension, constipation, muscle wasting, and poor insight forms a diagnostic triad specific to this disorder."
+    }
+  ]
+}

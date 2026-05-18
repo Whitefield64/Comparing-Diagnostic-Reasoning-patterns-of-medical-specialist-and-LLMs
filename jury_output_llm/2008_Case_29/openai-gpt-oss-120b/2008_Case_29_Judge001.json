@@ -1,0 +1,128 @@
+{
+  "case": "2008 Case 29__openai-gpt-oss-120b.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T09:10:26.418859+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28506,
+          28695
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most parsimonious and comprehensive explanation is **severe restrictive‑type anorexia nervosa with secondary functional fecal impaction and refeeding‑related electrolyte disturbances**."
+    },
+    {
+      "ranges": [
+        [
+          12761,
+          13017
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Overall, the primary diagnosis of restrictive‑type AN not only accounts for the chronic weight loss and systemic signs but also provides a coherent pathophysiologic framework for the acute abdominal emergency and the cardiovascular/ metabolic derangements."
+    },
+    {
+      "ranges": [
+        [
+          16309,
+          16416
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient’s heart rate is markedly low, not high; temperature is low; thyroid function tests were normal."
+    },
+    {
+      "ranges": [
+        [
+          23163,
+          23310
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The bradycardia is extreme (as low as 29 bpm) but improves with refeeding and correction of electrolytes, suggesting a reversible, secondary cause."
+    },
+    {
+      "ranges": [
+        [
+          28696,
+          28769
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "All organ‑system findings can be integrated into this unifying diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          24780,
+          24918
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of osteopenia is not an independent diagnostic entity here but serves as a corroborative marker of chronic energy deficiency."
+    },
+    {
+      "ranges": [
+        [
+          11762,
+          11886
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Chronic malnutrition reduces myocardial mass, blunts β‑adrenergic responsiveness, and predisposes to sinus node dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          21505,
+          21656
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The temporal relationship between caloric restriction and the evolution of symptoms further diminishes the likelihood of a primary neoplastic etiology."
+    },
+    {
+      "ranges": [
+        [
+          33977,
+          34186
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s presentation is a vivid illustration of how severe restrictive‑type anorexia nervosa can evolve from a chronic, insidious weight‑loss disorder into an acute, life‑threatening abdominal emergency."
+    },
+    {
+      "ranges": [
+        [
+          19056,
+          19237
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "In a young adult presenting with weight loss and abdominal pain, chronic infections must be entertained, especially when a history of travel or exposures is absent, as in this case."
+    },
+    {
+      "ranges": [
+        [
+          26405,
+          26603
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient’s academic excellence and involvement in sports may represent a compensatory drive for achievement, a common feature in individuals with AN who seek control in domains other than eating."
+    }
+  ]
+}

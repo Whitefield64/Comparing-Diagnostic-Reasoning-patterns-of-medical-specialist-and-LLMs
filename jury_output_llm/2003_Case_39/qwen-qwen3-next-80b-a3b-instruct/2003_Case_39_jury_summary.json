@@ -1,45 +1,16 @@
 {
   "case": "2003 Case 39__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T06:54:39.901065+00:00",
+  "exported_at": "2026-05-18T07:23:02.006264+00:00",
   "n_voters": 15,
-  "n_successful": 14,
-  "n_failed": 1,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
       "failed": false,
       "n_resolved": 13,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has a malignant bladder tumor, we would expect to see a discrete mass on imaging and persistent hematuria despite antibiotic therapy."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary bladder neoplasm is the presentation, and we must first rule out infectious or inflammatory causes before considering neoplastic etiologies."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected bladder, and the absence of systemic signs of infection rule out an infectious etiology and support a neoplastic diagnosis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of painless gross hematuria, bladder mass, and nonenhancement on CT is typical of a malignant bladder tumor."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary bladder neoplasm, given the classic presentation and risk profile."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of bladder cancer involve the trigone and lateral walls, the presence of a mass in the dome of the bladder increases the likelihood of urachal adenocarcinoma."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar patient with a bladder mass and hematuria, who was diagnosed with urothelial carcinoma, and this case has a similar presentation."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
@@ -52,29 +23,8 @@
       "voter_id": 3,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has a primary bladder neoplasm, we would expect to see a discrete mass on imaging and persistent hematuria despite antibiotic therapy."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of painless gross hematuria, bladder mass, and age-appropriate risk profile is typical of urothelial carcinoma."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary bladder neoplasm, given the classic presentation and risk factors."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of a discrete bladder mass and persistent hematuria despite antibiotic therapy increases the likelihood of a neoplastic etiology."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s presentation is reminiscent of cases of urachal adenocarcinoma, which can present with hematuria and a dome-based mass."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
@@ -87,49 +37,22 @@
       "voter_id": 5,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of painless gross hematuria, bladder mass, and age-appropriate risk profile is classic for urothelial carcinoma."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has a neoplastic process, we would expect to see a discrete mass on imaging, which is consistent with the CT and cystoscopy findings."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary bladder neoplasm, given the combination of hematuria, bladder mass, and the patient’s risk profile."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s origin in Hong Kong does not preclude prior exposure to environmental or dietary carcinogens, and the presence of bacteria in the urine culture could represent chronic colonization secondary to underlying bladder pathology rather than a primary infectious etiology."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the discussion implies a strong consideration for urothelial carcinoma or urachal adenocarcinoma based on the clinical presentation and imaging findings."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The presence of ketones and mild proteinuria on urinalysis may suggest a systemic inflammatory state, but these are nonspecific and could reflect dehydration or stress response, similar to cases where underlying conditions lead to secondary bladder involvement."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
@@ -142,17 +65,8 @@
       "voter_id": 9,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of painless gross hematuria, bladder mass, and age-appropriate risk profile is classic for urothelial carcinoma."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Eosinophilic cystitis can present with hematuria, dysuria, urinary frequency, and bladder mass formation that mimics malignancy, as seen in some case reports."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
@@ -165,84 +79,41 @@
       "voter_id": 11,
       "failed": false,
       "n_resolved": 13,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of painless gross hematuria, bladder mass, and age-appropriate risk profile is typical of urothelial carcinoma."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The presence of mixed bacteria on culture could represent a coincidental contamination or secondary infection in a bladder already compromised by granulomatous inflammation, similar to cases of genitourinary TB."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary bladder neoplasm, given the combination of hematuria, bladder mass, and the patient’s risk profile."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The presence of ketones and mild proteinuria on urinalysis may suggest a systemic inflammatory state, but these are nonspecific and could reflect dehydration or stress response, similar to cases of eosinophilic cystitis or other inflammatory conditions."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the clinical picture strongly favors a neoplastic etiology, with urothelial carcinoma as the most probable diagnosis, followed closely by urachal adenocarcinoma due to the dome location."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not applicable here but  The patient’s origin in Hong Kong does not preclude prior exposure to environmental or dietary carcinogens."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
-      "failed": true,
-      "n_resolved": 0,
-      "n_unresolved": 0,
-      "unresolved": []
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the dome of the bladder, so a nuclear third- or fourth-nerve palsy is the probable explanation is not present, instead: The location of the mass in the dome of the bladder is not atypical for TCC, which can arise anywhere along the urothelium but is common in the trigone and lateral walls; however, the dome is also a recognized site."
+        }
+      ]
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the mass is a solid tumor, we would expect to see nonenhancement on CT, which is consistent with the findings."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of painless gross hematuria, bladder mass, and age-appropriate risk profile is typical of urothelial carcinoma."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary bladder neoplasm, given the clinical presentation and imaging findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of mixed bacteria in urine culture and the nonenhancing nature of the mass on CT increase the likelihood of a malignant or granulomatous process."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s origin in Hong Kong and the chronicity of symptoms are reminiscent of cases of granulomatous cystitis, particularly tuberculosis, which should be considered in the differential diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

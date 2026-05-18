@@ -1,6 +1,6 @@
 {
   "case": "2003 Case 21__openai-gpt-oss-120b.md",
-  "exported_at": "2026-05-18T05:50:10.233615+00:00",
+  "exported_at": "2026-05-18T07:17:47.211514+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -9,1081 +9,106 @@
       "voter_id": 1,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 17,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If atherosclerotic disease were the sole cause, one would expect to see more calcified plaques and a greater degree of stenosis to account for the recurrent embolic events despite anticoagulation."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first rule out cardio-embolic sources, given the potential for atrial fibrillation or left-ventricular thrombus, before considering other mechanisms."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multifocal, bilateral stenoses of the vertebral artery, most severe along the dural ring on the left side, is consistent with a vasculitic process."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary CNS vasculitis, given the combination of clinical presentation, imaging findings, and laboratory results."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients, which raises the probability of this diagnosis given the patient’s age and presentation."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar patient with a diagnosis of primary angiitis of the central nervous system, who presented with multifocal strokes and a similar angiographic pattern, which suggests that this diagnosis should be considered in the differential."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries, leading to inflammation and damage to the vessel wall."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had a primary CNS vasculitis, one would expect to see a more pronounced inflammatory response in the CSF, which is not present in this case."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnosis of antiphospholipid syndrome is based on the presence of antiphospholipid antibodies and clinical manifestations such as arterial or venous thrombosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "Before considering a diagnosis of giant cell arteritis, we must rule out other causes of large-vessel vasculitis, such as Takayasu arteritis."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The absence of systemic infection, normal CSF, and no overt systemic vasculitis signs support the diagnosis of a primary CNS vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The clinical presentation of recurrent, multifocal posterior-circulation infarcts despite anticoagulation/antiplatelet therapy is consistent with a diagnosis of antiphospholipid syndrome."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "My instinct is that the patient has a combination of atherosclerotic disease and an inflammatory vasculopathy, given the presence of risk factors for atherosclerosis and the inflammatory laboratory findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of high-titer antiphospholipid antibodies raises the probability of antiphospholipid syndrome, given the patient’s clinical presentation and laboratory findings."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I remember a case of a patient with a similar presentation, who was diagnosed with primary angiitis of the central nervous system and responded well to immunosuppressive therapy."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 13,
-      "n_unresolved": 38,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "Aortic- or subclavian-wall abnormalities without obvious occlusion from clotting make it unlikely that the patient had antiphospholipid-antibody syndrome, but we must explain the laboratory findings."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor"
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "In the absence of other findings, hemorrhoids are common and not necessarily worrisome. However, the presence of other anorectal abnormalities in this patient raises doubts about whether he really had hemorrhoids."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The angiographic pattern, elevated CRP, and positive ANCA suggest an inflammatory vasculopathy affecting the vessel wall."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of PACNS, we would expect to see multifocal stenoses and a positive ANCA screen."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although the patient has a positive ANCA screen, the lack of systemic symptoms and normal CSF makes ANCA-associated vasculitis less likely."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The differential diagnosis includes a spectrum of arterial pathologies, ranging from atherosclerotic disease to immune-mediated vasculitis and hypercoagulable states."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of atherosclerotic vertebro-basilar disease, we would expect to see diffuse, irregular, non-calcified stenoses of the vertebral arteries."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "Aortic- or subclavian-wall abnormalities without obvious occlusion from clotting make it unlikely that the patient had antiphospholipid-antibody syndrome, but we must explain the laboratory findings."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor"
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "In the absence of other findings, hemorrhoids are common and not necessarily worrisome. However, the presence of other anorectal abnormalities in this patient raises doubts about whether he really had hemorrhoids."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The angiographic pattern, elevated CRP, and positive ANCA suggest an inflammatory vasculopathy affecting the vessel wall."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of PACNS, we would expect to see multifocal stenoses and a positive ANCA screen."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although the patient has a positive ANCA screen, the lack of systemic symptoms and normal CSF makes ANCA-associated vasculitis less likely."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 11,
-      "unresolved": [
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "Since the lesions are seen on both the diffusion-weighted and fluid-attenuated inversion-recovery images, we know that the age of the lesions is greater than about 12 hours."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
       "failed": false,
       "n_resolved": 2,
-      "n_unresolved": 10,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If atherosclerotic vertebro‑basilar disease is the primary cause, we would expect to see more classic atherosclerotic risk factors and a greater degree of stenosis to account for the recurrent embolic events despite anticoagulation."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multiple acute and subacute infarcts in the cerebellar hemispheres, the midbrain, and the occipital lobes is typical for vertebro‑basilar embolic disease."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "Dilatation of the aorta could be due to active tuberculosis, but an autoimmune mechanism has also been postulated."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
       "failed": false,
       "n_resolved": 15,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient’s age and risk factors are sufficient to explain advanced atherosclerosis."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The patient’s age and elevated CRP are classic laboratory hallmarks of GCA."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The angiographic pattern of multifocal bilateral stenoses of the vertebral artery, most severe along the dural ring on the left side, aligns with the classic “string‑of‑beads” appearance of CNS vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s clinical presentation and laboratory findings are most consistent with a diagnosis of APS, with possible coexistence of an inflammatory vasculopathy."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "The absence of systemic infection, normal CSF, and no overt systemic vasculitis signs (no scalp tenderness, no renal involvement) argue against infectious vasculitis and systemic vasculitis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s age, elevated CRP, and left subclavian involvement are consistent with a diagnosis of GCA, but the lack of hallmark cranial symptoms and the absence of temporal artery tenderness make GCA less convincing as the sole explanation."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If atherosclerotic vertebro‑basilar disease is the primary cause, we would expect to see more prominent calcifications on imaging and a stronger correlation between the degree of stenosis and the occurrence of infarcts."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multiple acute and subacute infarcts in the cerebellar hemispheres, the midbrain, and the occipital lobes is typical for vertebro‑basilar embolic disease."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Given the patient’s age, elevated CRP, and left subclavian involvement, the likelihood of GCA as a contributor increases, but the lack of hallmark cranial symptoms and the absence of temporal artery tenderness make GCA less convincing as the sole explanation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, supporting the consideration of other vasculitic processes."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test, there are certainly precedents for its occurrence, and the clinical presentation is highly suggestive."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients, which raises the probability of GCA in this patient given the age and elevated CRP."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 2,
-      "n_unresolved": 10,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If atherosclerotic vertebro‑basilar disease is the primary cause, we would expect to see more severe stenoses, possibly with calcification, and a greater response to antithrombotic therapy."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multiple acute and subacute infarcts in the cerebellar hemispheres, the midbrain, and the occipital lobes is typical for vertebro‑basilar embolic disease."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of high-titer anticardiolipin antibodies increases the likelihood of antiphospholipid syndrome, which can cause arterial thrombosis and stroke."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s presentation is reminiscent of a case I encountered previously, in which a patient with similar symptoms was diagnosed with primary CNS vasculitis."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "Dilatation of the aorta could be due to active tuberculosis, but an autoimmune mechanism has also been postulated."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first rule out the more common and life-threatening causes of stroke, such as cardio-embolic sources and large-vessel vasculitis, before considering less common entities like primary CNS vasculitis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 19,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If atherosclerotic vertebro‑basilar disease were the sole explanation, we would expect to see more calcified plaques and a greater degree of stenosis to account for the recurrent embolic phenomena."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme‑linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first rule out cardio‑embolic sources, such as atrial fibrillation or left‑ventricular thrombus, before considering other diagnoses."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA‑related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multiple acute and subacute infarcts in the cerebellar hemispheres, the midbrain, and the occipital lobes is typical for vertebro‑basilar embolic disease."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant‑cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant‑cell arteritis may have a catastrophic reaction after high‑dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon‑secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "Aortic‑ or subclavian‑wall abnormalities without obvious occlusion from clotting make it unlikely that the patient had antiphospholipid‑antibody syndrome, but we must explain the laboratory findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant‑cell arteritis, and an elevated level of C‑reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "Dilatation of the aorta could be due to active tuberculosis, but an autoimmune mechanism has also been postulated."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a lesion in the midbrain, so a nuclear third‑ or fourth‑nerve palsy is the probable explanation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "In the absence of other findings, hemorrhoids are common and not necessarily worrisome. However, the presence of other anorectal abnormalities in this patient raises doubts about whether he really had hemorrhoids."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although this elderly, hypertensive man probably did have some atheromatous disease, the vessels involved and the laboratory evidence suggest that he had giant‑cell arteritis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
       "failed": false,
       "n_resolved": 2,
-      "n_unresolved": 14,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If atherosclerotic vertebro‑basilar disease is the primary cause, we would expect to see more pronounced stenoses, possibly with calcification, and a stronger response to antithrombotic therapy, which is not entirely the case here."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme‑linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multiple acute and subacute infarcts in the cerebellar hemispheres, the midbrain, and the occipital lobes is typical for vertebro‑basilar embolic disease."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        },
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "Dilatation of the aorta could be due to active tuberculosis, but an autoimmune mechanism has also been postulated."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "Since the lesions are seen on both the diffusion-weighted and fluid-attenuated inversion-recovery images, we know that the age of the lesions is greater than about 12 hours. The lesions vary in signal intensity, indicating that the time of onset of individual lesions probably varied."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "Aortic- or subclavian-wall abnormalities without obvious occlusion from clotting make it unlikely that the patient had antiphospholipid-antibody syndrome, but we must explain the laboratory findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 34,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If atherosclerotic vertebro‑basilar disease is the primary cause, we would expect to see more widespread calcification of the vertebral arteries, which is not the case here."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multiple acute and subacute infarcts in the cerebellar hemispheres, the midbrain, and the occipital lobes is typical for vertebro‑basilar embolic disease."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If antiphospholipid syndrome is the primary cause, we would expect to see more evidence of venous thrombosis, which is not the case here."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        },
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor"
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If primary CNS vasculitis is the primary cause, we would expect to see more evidence of inflammation in the CSF, which is not the case here."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnostic criteria for giant cell arteritis include age greater than 50 years, new onset of localized headache, temporal artery tenderness, elevated erythrocyte sedimentation rate, and abnormal temporal artery biopsy."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multiple acute and subacute infarcts in the cerebellar hemispheres, the midbrain, and the occipital lobes is typical for vertebro‑basilar embolic disease."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If antiphospholipid syndrome is the primary cause, we would expect to see more evidence of venous thrombosis, which is not the case here."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnostic criteria for giant cell arteritis include age greater than 50 years, new onset of localized headache, temporal artery tenderness, elevated erythrocyte sedimentation rate, and abnormal temporal artery biopsy."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If atherosclerotic vertebro‑basilar disease is the primary cause, we would expect to see more typical atherosclerotic risk factors and a response to antithrombotic therapy, which is not entirely the case here."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multiple acute and subacute infarcts in the cerebellar hemispheres, the midbrain, and the occipital lobes is typical for vertebro‑basilar embolic disease."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 2,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If atherosclerotic vertebro‑basilar disease is the primary cause, we would expect to see more typical atherosclerotic risk factors and a response to antithrombotic therapy, which is not entirely the case here."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first rule out the more common and life-threatening conditions such as cardio-embolic sources and infectious vasculitis before considering less common entities like PACNS or ANCA-associated vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multiple acute and subacute infarcts in the cerebellar hemispheres, the midbrain, and the occipital lobes is typical for vertebro‑basilar embolic disease."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a combination of atherosclerotic vertebro‑basilar disease and antiphospholipid syndrome, given the patient’s age, risk factors, and laboratory findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, the presence of elevated CRP and a positive ANCA screen in this patient raises the probability of a vasculitic process, and the lack of classic cranial symptoms does not entirely rule out GCA."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar patient with multifocal vertebro‑basilar infarcts who was found to have a combination of atherosclerotic disease and antiphospholipid syndrome, which suggests that this could be a plausible explanation for the current patient’s presentation."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 9,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multiple acute and subacute infarcts in the cerebellar hemispheres, the midbrain, and the occipital lobes is typical for vertebro‑basilar embolic disease."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If atherosclerotic vertebro‑basilar disease were the sole cause, one would expect to see more pronounced stenoses or near‑occlusive disease to account for the recurrent embolic events despite anticoagulation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multiple acute and subacute infarcts in the cerebellar hemispheres, the midbrain, and the occipital lobes is typical for vertebro‑basilar embolic disease."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Given the patient’s age, elevated CRP, and left subclavian involvement, the likelihood of giant cell arteritis (GCA) is moderate, but it is less convincing as the sole explanation due to the lack of hallmark cranial symptoms and the absence of temporal artery tenderness."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries, which could explain the inflammatory vasculopathy."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 2,
-      "n_unresolved": 43,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "Aortic- or subclavian-wall abnormalities without obvious occlusion from clotting make it unlikely that the patient had antiphospholipid-antibody syndrome, but we must explain the laboratory findings."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
-        },
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "Several features of this patient’s presentation are suggestive of Crohn’s disease, which is relatively common, with an incidence of approximately 10 cases per 100,000 persons."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were X, we would expect to see Y, this diagnosis requires Z."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "In the absence of other findings, hemorrhoids are common and not necessarily worrisome. However, the presence of other anorectal abnormalities in this patient raises doubts about whether he really had hemorrhoids."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "This symptom is caused by, because of X, the mechanism is Y, explaining WHY something happened."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although this elderly, hypertensive man probably did have some atheromatous disease, the vessels involved and the laboratory evidence suggest that he had giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar patient, this reminds me of, in my experience with cases like this."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor"
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "Since the lesions are seen on both the diffusion-weighted and fluid-attenuated inversion-recovery images, we know that the age of the lesions is greater than about 12 hours. The lesions vary in signal intensity, indicating that the time of onset of individual lesions probably varied."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "Something about this case concerns me, this doesn't feel right, my instinct is."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The classic presentation of, this is the typical picture of, immediately suggests."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, this is consistent with, all findings fit, this explains why, summarizing evidence for a diagnosis already reached."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "This raises/lowers the probability of, more likely given, prior probability, percentages or odds."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, I recall a similar patient, this reminds me of, in my experience with cases like this."
-        },
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "Several features of this patient’s presentation are suggestive of Crohn’s disease, which is relatively common, with an incidence of approximately 10 cases per 100,000 persons, the most likely, best explains, fits with, listing differentials and narrowing down."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated, rare diseases, unusual presentations, another disease to consider, though uncommon."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation, physical exam findings that directly suggest a diagnosis, skin findings, auscultation, palpation."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were X, we would expect to see Y, this diagnosis requires Z, if this were X, then finding F should be present."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis, explicit criteria, staging systems, diagnostic criteria."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first rule out, the most dangerous explanation is, before considering X, we must exclude Y."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The classic presentation of, this is the typical picture of, immediately suggests, the classic review of giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "Something about this case concerns me, this doesn't feel right, my instinct is, I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients, a rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, I recall a similar patient, this reminds me of, in my experience with cases like this, occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

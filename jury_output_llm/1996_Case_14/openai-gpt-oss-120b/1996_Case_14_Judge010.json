@@ -1,0 +1,40 @@
+{
+  "case": "1996 Case 14__openai-gpt-oss-120b.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T07:16:46.216290+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          35592,
+          35781
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most defensible primary diagnosis in this patient is **drug‑induced toxic epidermal necrolysis**, most likely triggered by vancomycin, with a possible contributory role of methotrexate."
+    },
+    {
+      "ranges": [
+        [
+          30763,
+          30994
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The preponderance of evidence points to **drug‑induced toxic epidermal necrolysis** as the primary dermatologic event, precipitated most plausibly by vancomycin (with possible contribution from methotrexate and other beta‑lactams)."
+    },
+    {
+      "ranges": [
+        [
+          35782,
+          35976
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The extensive epidermal loss set the stage for catastrophic **Gram‑negative sepsis**, predominantly caused by Klebsiella pneumoniae, which persisted despite broad‑spectrum antimicrobial therapy."
+    }
+  ]
+}

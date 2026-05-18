@@ -1,0 +1,62 @@
+{
+  "case": "2005 Case 22__openai-gpt-oss-120b.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T07:52:18.734812+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          29429,
+          29598
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most plausible neoplastic processes are (a) **Richter transformation** with secondary CNS involvement, (b) **primary CNS lymphoma**, and (c) **metastatic melanoma**."
+    },
+    {
+      "ranges": [
+        [
+          35376,
+          35619
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most plausible non‑infectious contributors are **septic encephalopathy** (as a systemic effect of severe pneumonia and bacteremia) and **cerebrovascular embolic phenomena** (possible cardio‑embolic stroke secondary to atrial fibrillation)."
+    },
+    {
+      "ranges": [
+        [
+          7336,
+          7877
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The differential diagnosis must therefore integrate three broad domains: (1) **Infectious processes** that can involve both the lung and the central nervous system (CNS) in an immunocompromised host; (2) **Neoplastic or leukemic infiltration** of the brain, either primary (e.g., CNS lymphoma, Richter transformation) or metastatic (e.g., melanoma, lung carcinoma); and (3) **Non‑infectious, non‑neoplastic mechanisms** such as vascular events, metabolic encephalopathy, drug‑related neurotoxicity, or paraneoplastic/autoimmune encephalitis."
+    },
+    {
+      "ranges": [
+        [
+          7093,
+          7334
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The clinical picture that evolved in this 81‑year‑old man with chronic lymphocytic leukemia (CLL) is that of a rapidly progressive, febrile encephalopathy with focal neurologic deficits, respiratory infection, and widespread lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          12696,
+          13038
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The isolation of *Pseudomonas* from sputum and the presence of a focal thalamic lesion raise the possibility of *Pseudomonas* meningo‑encephalitis or a septic brain abscess.  However, the lack of classic CSF findings, the absence of neutropenia, and the relatively indolent radiologic evolution make a primary bacterial meningitis less likely"
+    }
+  ]
+}

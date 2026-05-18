@@ -1,0 +1,29 @@
+{
+  "case": "2009 Case 32__openai-gpt-oss-120b.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T09:44:19.254113+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          25926,
+          26243
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The preponderance of **converging phenotypic elements**—particularly the triad of **oculocutaneous albinism**, **platelet dense‑granule storage‑pool deficiency**, and **progressive UIP‑type interstitial fibrosis with upper‑lobe bronchiectasis**—strongly favors **Hermansky‑Pudlak syndrome** as the unifying diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11427,
+          11583
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The constellation of pigmentation abnormality, platelet storage‑pool deficiency, and early‑onset fibrotic lung disease is essentially pathognomonic for HPS."
+    }
+  ]
+}

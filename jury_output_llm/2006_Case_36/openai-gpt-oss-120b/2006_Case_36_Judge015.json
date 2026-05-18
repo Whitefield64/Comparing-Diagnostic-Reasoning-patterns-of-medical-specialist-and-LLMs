@@ -1,0 +1,117 @@
+{
+  "case": "2006 Case 36__openai-gpt-oss-120b.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T09:04:02.068225+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          12224,
+          12493
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The biochemical hallmark (UFC ≈ 1 865 µg) establishes hypercortisolism. Distinguishing ACTH‑dependent from ACTH‑independent disease hinges on serum ACTH measurement (high in CD/EAS, low in adrenal adenoma/carcinoma) and on imaging (pituitary MRI versus adrenal CT/MRI)."
+    },
+    {
+      "ranges": [
+        [
+          24218,
+          24534
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cortisol potentiates the vasoconstrictive response of vascular smooth muscle to catecholamines by up‑regulating α‑adrenergic receptors and enhancing the expression of endothelin‑1. In addition, cortisol’s mineralocorticoid activity (via 11β‑HSD2 saturation) promotes sodium retention, expanding intravascular volume."
+    },
+    {
+      "ranges": [
+        [
+          34157,
+          34297
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If ACTH is low, the diagnostic focus would shift to the adrenal gland. Nonetheless, the preponderance of evidence favors a pituitary source."
+    },
+    {
+      "ranges": [
+        [
+          12745,
+          12909
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The next logical step—presumably the “diagnostic procedure” mentioned—would be a high‑dose dexamethasone suppression test or an MRI of the pituitary/adrenal glands."
+    },
+    {
+      "ranges": [
+        [
+          32973,
+          33222
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Synthesizing the clinical, laboratory, and epidemiologic data, the leading diagnosis is **Cushing disease—an ACTH‑secreting pituitary corticotroph adenoma**. The key arguments are:\n\n- **Biochemical confirmation of hypercortisolism** (UFC ≈ 1 865 µg)"
+    },
+    {
+      "ranges": [
+        [
+          19131,
+          19236
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The patient’s phenotype (hypertension, hyperglycemia, high cortisol) is opposite to that expected in CAH."
+    },
+    {
+      "ranges": [
+        [
+          23851,
+          24108
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of hypokalemia (implied by potassium supplementation) tilts slightly toward an ACTH‑dependent source, because ACTH‑driven cortisol has more potent mineralocorticoid activity than cortisol produced by an adrenal adenoma where ACTH is suppressed."
+    },
+    {
+      "ranges": [
+        [
+          33217,
+          33401
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "5 µg).  \n- **Early‑onset, severe hypertension and hyperglycemia** that are refractory to conventional antihypertensive and antidiabetic therapy, a pattern typical of ACTH‑dependent CS."
+    },
+    {
+      "ranges": [
+        [
+          26720,
+          26840
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s fetal ultrasound was “normal for gestational age,” which is reassuring, but close monitoring is essential."
+    },
+    {
+      "ranges": [
+        [
+          31137,
+          31507
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Given the severity of the hypertension (180/110 mm Hg) and hyperglycemia despite maximal medical therapy, definitive treatment (surgical removal of the cortisol‑producing lesion) is likely required before the pregnancy reaches term, to prevent maternal complications (eclampsia, stroke, myocardial infarction) and fetal complications (growth restriction, preterm birth)."
+    }
+  ]
+}

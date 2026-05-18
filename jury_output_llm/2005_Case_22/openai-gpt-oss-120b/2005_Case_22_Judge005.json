@@ -1,0 +1,62 @@
+{
+  "case": "2005 Case 22__openai-gpt-oss-120b.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T07:41:40.388284+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7093,
+          7334
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical picture that evolved in this 81‑year‑old man with chronic lymphocytic leukemia (CLL) is that of a rapidly progressive, febrile encephalopathy with focal neurologic deficits, respiratory infection, and widespread lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          7336,
+          7877
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis must therefore integrate three broad domains: (1) **Infectious processes** that can involve both the lung and the central nervous system (CNS) in an immunocompromised host; (2) **Neoplastic or leukemic infiltration** of the brain, either primary (e.g., CNS lymphoma, Richter transformation) or metastatic (e.g., melanoma, lung carcinoma); and (3) **Non‑infectious, non‑neoplastic mechanisms** such as vascular events, metabolic encephalopathy, drug‑related neurotoxicity, or paraneoplastic/autoimmune encephalitis."
+    },
+    {
+      "ranges": [
+        [
+          8927,
+          9093
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of high fever, nuchal rigidity, and a focal thalamic lesion with diffusion restriction is compatible with a bacterial abscess that has begun to cavitate."
+    },
+    {
+      "ranges": [
+        [
+          9095,
+          9203
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The thalamus, being richly vascularized, can be seeded hematogenously from a distant focus such as the lung."
+    },
+    {
+      "ranges": [
+        [
+          29429,
+          29598
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most plausible neoplastic processes are (a) **Richter transformation** with secondary CNS involvement, (b) **primary CNS lymphoma**, and (c) **metastatic melanoma**."
+    }
+  ]
+}

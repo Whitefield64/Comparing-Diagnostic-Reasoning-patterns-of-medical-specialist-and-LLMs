@@ -1,0 +1,226 @@
+{
+  "case": "2006 Case 36__openai-gpt-oss-120b.md",
+  "exported_at": "2026-05-18T09:04:02.068690+00:00",
+  "n_voters": 15,
+  "n_successful": 13,
+  "n_failed": 2,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
+        },
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Paraneoplastic syndromes (other than ectopic ACTH) are unlikely given the lack of systemic signs and the rarity in this demographic."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of severe hypertension, hyperglycemia, and Cushingoid features in a young woman is highly suggestive of Cushing disease."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of small‑cell lung carcinoma is low, especially in a non‑smoker, and the patient’s age and lack of symptoms suggestive of ectopic ACTH make this diagnosis less likely."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The clinical presentation and laboratory findings are more consistent with a diagnosis of Cushing disease than with other causes of hypertension and hyperglycemia in pregnancy."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Similar cases of Cushing disease in pregnancy have been reported, and the diagnosis should be considered in any pregnant woman with unexplained hypertension and hyperglycemia."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Paraneoplastic syndromes (other than ectopic ACTH) are unlikely given the absence of systemic signs and the rarity in this demographic."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but the differential diagnosis of new‑onset hypertension and hyperglycemia must always include CS because the glucocorticoid excess can mimic, precipitate, or exacerbate gestational hypertension, gestational diabetes mellitus (GDM), and the metabolic syndrome."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but this is not directly relevant to the current case."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 14,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the expected presentation of Cushing syndrome, with severe hypertension, hyperglycemia, and Cushingoid features."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The diagnostic work‑up for pheochromocytoma would have included plasma/urine metanephrines; their absence suggests low suspicion."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the reasoning that the most likely diagnosis is **Cushing disease—an ACTH‑secreting pituitary corticotroph adenoma** is an example of this type of reasoning."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images are not provided but the description of the patient’s physical examination (e.g. rounded face, periorbital edema, ruddy complexion) is an example of this type of reasoning."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If CD, we would expect to see a pituitary adenoma on MRI and an inappropriately normal or high ACTH level. If an adrenal adenoma, we would expect to see a unilateral adrenal mass on imaging and a suppressed ACTH level."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of severe hypertension, hyperglycemia, and Cushingoid features, particularly in the context of early pregnancy, is highly suggestive of Cushing syndrome."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "The clinical presentation and laboratory findings suggest that the patient is at high risk for complications from Cushing syndrome, and therefore, prompt diagnosis and treatment are necessary."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 13,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "ABD_CREATIVE",
+          "text": "Paraneoplastic syndromes (other than ectopic ACTH) could be considered, but are unlikely in this demographic and without systemic signs."
+        }
+      ]
+    }
+  ]
+}

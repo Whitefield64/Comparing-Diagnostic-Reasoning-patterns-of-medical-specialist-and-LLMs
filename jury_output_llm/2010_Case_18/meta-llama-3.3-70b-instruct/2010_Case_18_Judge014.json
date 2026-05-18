@@ -1,0 +1,117 @@
+{
+  "case": "2010 Case 18__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T10:01:17.757735+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          10913,
+          11137
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnosis or diagnoses would likely revolve around issues related to antiretroviral therapy, such as resistance, non-adherence (despite the mother's reports), or inadequate viral suppression due to dosing issues."
+    },
+    {
+      "ranges": [
+        [
+          10833,
+          11137
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's elevated HIV RNA levels despite antiretroviral medications, the leading diagnosis or diagnoses would likely revolve around issues related to antiretroviral therapy, such as resistance, non-adherence (despite the mother's reports), or inadequate viral suppression due to dosing issues."
+    },
+    {
+      "ranges": [
+        [
+          11561,
+          11809
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of granulomas with necrosis resembling caseation in the biopsy specimen from the supraclavicular abscess is particularly noteworthy, as it suggests a chronic inflammatory process that could be related to TB or another infectious agent."
+    },
+    {
+      "ranges": [
+        [
+          11370,
+          11560
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's history of TB and the presence of a supraclavicular abscess suggest a complex clinical scenario that might involve multiple factors contributing to his elevated HIV RNA levels."
+    },
+    {
+      "ranges": [
+        [
+          7993,
+          8191
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The prophylactic use of trimethoprim–sulfamethoxazole suggests an attempt to prevent PCP, but the possibility of other opportunistic infections cannot be excluded without further diagnostic testing."
+    },
+    {
+      "ranges": [
+        [
+          13875,
+          14168
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's immunocompromised state, as indicated by his low weight and height percentiles, and the presence of bilateral axillary lymphadenopathy, underscores the need for a thorough evaluation to identify any underlying conditions that might be contributing to his elevated HIV RNA levels."
+    },
+    {
+      "ranges": [
+        [
+          8395,
+          8600
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's clinical presentation, including bilateral axillary lymphadenopathy and being below the fifth percentile for weight and height, suggests a chronic illness with potential systemic involvement."
+    },
+    {
+      "ranges": [
+        [
+          12302,
+          12544
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Although the patient's symptoms and laboratory findings do not strongly suggest IRIS at this time, it is a possibility that should be considered in the context of his immunocompromised state and the presence of a chronic inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          8206,
+          8393
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the patient's history of pneumonia and the development of a supraclavicular abscess could indicate a predisposition to certain types of infections, which might be opportunistic in nature."
+    },
+    {
+      "ranges": [
+        [
+          17189,
+          17432
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's case highlights the importance of careful consideration of the potential causes of elevated HIV RNA levels in the context of antiretroviral therapy, and the need for a thorough and meticulous approach to diagnosis and management."
+    }
+  ]
+}

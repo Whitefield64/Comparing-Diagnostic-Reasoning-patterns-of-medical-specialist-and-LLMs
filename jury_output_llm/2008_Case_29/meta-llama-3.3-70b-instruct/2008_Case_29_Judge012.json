@@ -1,0 +1,315 @@
+{
+  "case": "2008 Case 29__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T09:09:28.617625+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7789,
+          7976
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with acute abdominal pain, weight loss, and a history of anorexia nervosa (restrictive form) diagnosed 4 years earlier, raises a complex differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          7977,
+          8184
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The key features to consider are the abdominal pain, the patient's significant weight loss, the history of anorexia nervosa, and the findings of fecal impaction and small bowel dilatation on imaging studies."
+    },
+    {
+      "ranges": [
+        [
+          8951,
+          9135
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Fecal impaction can cause abdominal pain, distention, and nausea, and it is a known complication in patients with eating disorders, particularly those with restrictive eating patterns."
+    },
+    {
+      "ranges": [
+        [
+          9136,
+          9277
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This condition can lead to severe constipation due to decreased food intake, reduced fiber consumption, and potentially altered gut motility."
+    },
+    {
+      "ranges": [
+        [
+          9278,
+          9529
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of anorexia nervosa and the physical findings, it is crucial to consider the potential for refeeding syndrome, a condition that can occur in individuals who are malnourished when they begin to receive nutrition too quickly."
+    },
+    {
+      "ranges": [
+        [
+          9530,
+          9725
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Refeeding syndrome can lead to severe electrolyte imbalances, particularly hypophosphatemia, hypokalemia, and hypomagnesemia, which can cause cardiac arrhythmias, muscle weakness, and even death."
+    },
+    {
+      "ranges": [
+        [
+          9727,
+          9913
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's bradycardia, orthostatic hypotension, and the findings on electrocardiograms are consistent with potential electrolyte imbalances and cardiac effects of refeeding syndrome."
+    },
+    {
+      "ranges": [
+        [
+          9914,
+          10132
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In addition to these considerations, the patient's low body mass index (BMI), delayed puberty, and the family history of delayed puberty and hypercholesterolemia raise questions about potential endocrine abnormalities."
+    },
+    {
+      "ranges": [
+        [
+          10133,
+          10257
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Anorexia nervosa can lead to hypothalamic amenorrhea in females and hypogonadism in males, affecting growth and development."
+    },
+    {
+      "ranges": [
+        [
+          10258,
+          10507
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's Tanner stage 4 development with no chest hair, sparse facial hair, and the reported bone age of 15 years 6 months on the 15th hospital day, suggest delayed puberty, which could be related to his nutritional status and anorexia nervosa."
+    },
+    {
+      "ranges": [
+        [
+          11056,
+          11221
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Other potential diagnoses to consider include gastrointestinal motility disorders, which could contribute to the patient's symptoms of abdominal pain and distention."
+    },
+    {
+      "ranges": [
+        [
+          11222,
+          11372
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Conditions such as gastroparesis or intestinal pseudo-obstruction could be related to the malnutrition and potentially to the anorexia nervosa itself."
+    },
+    {
+      "ranges": [
+        [
+          11373,
+          11511
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, these diagnoses would require further evaluation, including gastric emptying studies or other tests of gastrointestinal motility."
+    },
+    {
+      "ranges": [
+        [
+          11513,
+          11748
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory bowel disease (IBD), including Crohn's disease and ulcerative colitis, should also be considered in the differential diagnosis, as these conditions can present with abdominal pain, weight loss, and changes in bowel habits."
+    },
+    {
+      "ranges": [
+        [
+          11749,
+          11879
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the absence of specific symptoms such as diarrhea, blood in the stool, or a family history of IBD makes this less likely."
+    },
+    {
+      "ranges": [
+        [
+          12297,
+          12449
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's history of anorexia nervosa and the physical findings of temporal wasting, dry lips, and cool hands and feet, suggest severe malnutrition."
+    },
+    {
+      "ranges": [
+        [
+          12450,
+          12572
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Malnutrition can lead to a range of complications, including cardiac problems, osteoporosis, and impaired immune function."
+    },
+    {
+      "ranges": [
+        [
+          12573,
+          12753
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's electrocardiogram findings and echocardiography results showing mild mitral and aortic regurgitation, suggest potential cardiac complications related to malnutrition."
+    },
+    {
+      "ranges": [
+        [
+          12754,
+          12881
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The bone densitometry results indicating osteoporosis also highlight the systemic effects of malnutrition and anorexia nervosa."
+    },
+    {
+      "ranges": [
+        [
+          13090,
+          13276
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's laboratory results, including electrolyte levels, liver function tests, and complete blood count, should be carefully evaluated to assess for these potential complications."
+    },
+    {
+      "ranges": [
+        [
+          13277,
+          13431
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's medication regimen, including famotidine, should also be considered, although it is unlikely to be contributing to his current presentation."
+    },
+    {
+      "ranges": [
+        [
+          13895,
+          14155
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In conclusion, the differential diagnosis for this patient is multifaceted, involving considerations of acute abdominal pain, complications of anorexia nervosa, potential refeeding syndrome, endocrine abnormalities, and psychiatric aspects of eating disorders."
+    },
+    {
+      "ranges": [
+        [
+          14156,
+          14362
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The leading diagnoses appear to be related to the complications of anorexia nervosa, including fecal impaction, potential refeeding syndrome, and the psychiatric management of the patient's eating disorder."
+    },
+    {
+      "ranges": [
+        [
+          14363,
+          14537
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "A comprehensive treatment plan would need to address the patient's nutritional deficiencies, psychiatric care, and potential medical complications arising from his condition."
+    },
+    {
+      "ranges": [
+        [
+          14538,
+          14699
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's condition necessitates a careful and multidisciplinary approach to management, considering both the medical and psychiatric aspects of his illness."
+    },
+    {
+      "ranges": [
+        [
+          19843,
+          20025
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The importance of ongoing monitoring and support cannot be overstated, as the recovery process can be long and challenging, and may require ongoing adjustments to the treatment plan."
+    },
+    {
+      "ranges": [
+        [
+          20027,
+          20202
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's condition also highlights the need for increased awareness and education about eating disorders, as well as the importance of early recognition and intervention."
+    },
+    {
+      "ranges": [
+        [
+          20203,
+          20426
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "By promoting healthy eating habits and body image, and by providing support and resources for individuals struggling with eating disorders, we can work to prevent the development of these complex and challenging conditions."
+    }
+  ]
+}

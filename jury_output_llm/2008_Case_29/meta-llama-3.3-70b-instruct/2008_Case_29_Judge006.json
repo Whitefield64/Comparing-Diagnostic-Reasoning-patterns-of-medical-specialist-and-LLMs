@@ -1,0 +1,84 @@
+{
+  "case": "2008 Case 29__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T09:08:22.495760+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          14156,
+          14362
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnoses appear to be related to the complications of anorexia nervosa, including fecal impaction, potential refeeding syndrome, and the psychiatric management of the patient's eating disorder."
+    },
+    {
+      "ranges": [
+        [
+          8563,
+          8762
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient's history of anorexia nervosa and significant weight loss points towards complications related to malnutrition and potential gastrointestinal dysfunction associated with eating disorders."
+    },
+    {
+      "ranges": [
+        [
+          9951,
+          10132
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "the patient's low body mass index (BMI), delayed puberty, and the family history of delayed puberty and hypercholesterolemia raise questions about potential endocrine abnormalities."
+    },
+    {
+      "ranges": [
+        [
+          12297,
+          12449
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's history of anorexia nervosa and the physical findings of temporal wasting, dry lips, and cool hands and feet, suggest severe malnutrition."
+    },
+    {
+      "ranges": [
+        [
+          17586,
+          17852
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's condition highlights the importance of early recognition and treatment of eating disorders, as well as the need for a comprehensive and supportive approach to management that addresses the physical and psychological aspects of these complex conditions."
+    },
+    {
+      "ranges": [
+        [
+          11056,
+          11221
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Other potential diagnoses to consider include gastrointestinal motility disorders, which could contribute to the patient's symptoms of abdominal pain and distention."
+    },
+    {
+      "ranges": [
+        [
+          12573,
+          12753
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's electrocardiogram findings and echocardiography results showing mild mitral and aortic regurgitation, suggest potential cardiac complications related to malnutrition."
+    }
+  ]
+}

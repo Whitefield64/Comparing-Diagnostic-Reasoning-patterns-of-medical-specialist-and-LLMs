@@ -1,0 +1,150 @@
+{
+  "case": "2005 Case 22__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T07:26:51.607506+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7435,
+          7612
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of CLL, immunocompromised state, and presentation with fever and productive cough, an infectious etiology is high on the list of potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          7614,
+          7848
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's symptoms of cough, fever, and productive sputum, along with the radiographic findings of prominence of the right paratracheal stripe and right hilum and bilateral small pleural effusions, suggest a respiratory infection."
+    },
+    {
+      "ranges": [
+        [
+          8455,
+          8599
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of nuchal rigidity and the patient's inability to follow commands or respond to pain suggest meningeal irritation or CNS pathology."
+    },
+    {
+      "ranges": [
+        [
+          7849,
+          7936
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The growth of *Pseudomonas aeruginosa* from the sputum culture supports this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9372,
+          9494
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of CLL cells in the CSF could indicate CNS involvement by the leukemia, which is a known complication of CLL."
+    },
+    {
+      "ranges": [
+        [
+          16556,
+          16738
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's clinical presentation and laboratory findings are consistent with sepsis, and the presence of *Pseudomonas aeruginosa* in the sputum suggests a possible infectious caus"
+    },
+    {
+      "ranges": [
+        [
+          22132,
+          22325
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's clinical presentation and laboratory findings are consistent with a CNS infection, and the presence of *Pseudomonas aeruginosa* in the sputum suggests a possible infectious cause."
+    },
+    {
+      "ranges": [
+        [
+          22326,
+          22496
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, the patient's underlying CLL and the presence of CLL cells in the CSF suggest that the CNS involvement could be related to the leukemia or a secondary infection."
+    },
+    {
+      "ranges": [
+        [
+          16556,
+          16740
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's clinical presentation and laboratory findings are consistent with sepsis, and the presence of *Pseudomonas aeruginosa* in the sputum suggests a possible infectious cause."
+    },
+    {
+      "ranges": [
+        [
+          25490,
+          25725
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The patient's clinical presentation and laboratory findings also suggest the possibility of a rare or unusual condition, such as a CNS infection caused by a rare bacterium or fungus, or a paraneoplastic syndrome caused by a rare tumor."
+    },
+    {
+      "ranges": [
+        [
+          14786,
+          14960
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The use of diagnostic algorithms and decision support tools can also be helpful in guiding the diagnostic process and ensuring that all relevant possibilities are considered."
+    },
+    {
+      "ranges": [
+        [
+          12130,
+          12275
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The leading diagnosis or diagnoses can only be determined after careful consideration of all the clinical, laboratory, and radiographic findings."
+    },
+    {
+      "ranges": [
+        [
+          21715,
+          21901
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "the patient's clinical presentation and laboratory findings are not typical of a paraneoplastic syndrome, and other diagnoses, such as infectious or inflammatory causes, are more likely."
+    }
+  ]
+}

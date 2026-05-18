@@ -1,328 +1,131 @@
 {
   "case": "2003 Case 21__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T05:57:47.267178+00:00",
+  "exported_at": "2026-05-18T07:19:28.406766+00:00",
   "n_voters": 15,
-  "n_successful": 14,
-  "n_failed": 1,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s presentation is consistent with a diagnosis of microscopic polyangiitis (MPA), an ANCA-associated vasculitis affecting small- to medium-sized vessels, including the vertebral arteries."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary vasculitis, given the clinical presentation and the lack of response to anticoagulation and antiplatelet therapy."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of ANCA and CRP elevation is not explained by old TB, and the antiphospholipid antibody profile is significant, suggesting a prothrombotic state."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had atherosclerosis, we would expect to see more typical atherosclerotic plaques, which tend to localize at ostial or bifurcation sites, but the multifocal, irregular stenoses on angiography suggest a process that is not simply age-related plaque accumulation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not explicitly mentioned, but the presence of ANCA and CRP elevation is consistent with an autoimmune vasculitis, such as MPA."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multifocal vasculopathy, with recurrent posterior circulation strokes despite anticoagulation, and the partial response to plasmapheresis, is consistent with MPA."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of ANCA and CRP elevation increases the likelihood of an autoimmune vasculitis, such as MPA, and the absence of other SLE criteria makes primary SLE unlikely, but the possibility of an overlap syndrome with MPA and secondary APS remains compelling."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had atherosclerosis, we would expect to see more typical atherosclerotic plaques, but the multifocal, irregular stenoses on angiography suggest a different process."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The Sydney criteria, which define antiphospholipid syndrome (APS), are met by the patient’s serologic profile, but the clinical presentation is not typical of APS."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multifocal, posterior circulation strokes, along with the systemic inflammation and positive ANCA serology, is consistent with microscopic polyangiitis (MPA)."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary vasculitis, given the combination of clinical, radiological, and serological findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of MPA is increased by the presence of ANCA positivity, systemic inflammation, and the multifocal nature of the strokes, despite the absence of typical renal or pulmonary involvement."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
-      "failed": true,
-      "n_resolved": 0,
-      "n_unresolved": 0,
-      "unresolved": []
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of multifocal vasculopathy, the temporal association with ANCA positivity, and the absence of other SLE criteria make an overlap syndrome with MPA and secondary APS a compelling consideration."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary vasculitis, given the patient’s age, the multifocal nature of the strokes, and the absence of conventional risk factors."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The elevated CRP and ANCA positivity make MPA a more likely diagnosis than atherosclerosis or primary APS, given the patient’s clinical presentation and the absence of other explanatory factors."
+        },
+        {
+          "label_name": "ABD_VISUAL",
+          "text": "The images show multifocal, irregular stenoses of the vertebral arteries, which is not typical of atherosclerosis or other vasculitides."
+        }
+      ]
     },
     {
       "voter_id": 5,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multifocal vasculopathy, the temporal association with ANCA positivity, and the absence of other SLE criteria make an overlap syndrome with MPA and secondary APS a compelling consideration."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The fact that plasmapheresis was initiated strongly implies clinical suspicion of vasculitis, particularly given the lack of response to anticoagulation and antiplatelet therapy."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s presentation is consistent with a diagnosis of microscopic polyangiitis (MPA), an ANCA-associated vasculitis affecting small- to medium-sized vessels, including the vertebral arteries."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The fact that plasmapheresis was initiated strongly implies clinical suspicion of vasculitis, and the patient’s response to therapy also informs the differential."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had atherosclerosis, we would expect to see more typical atherosclerotic plaques, which tend to localize at ostial or bifurcation sites, rather than the multifocal, irregular stenoses seen here."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but the clinical presentation and laboratory findings are consistent with MPA."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multifocal, irregular stenoses on angiography, the systemic inflammation (elevated CRP), the positive ANCA serology, and the recurrent posterior circulation strokes despite anticoagulation are all consistent with MPA."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is microscopic polyangiitis (MPA), given the combination of clinical and laboratory findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of bilateral, small pulmonary nodules on CT, although too small to characterize, raises the possibility of systemic vasculitis with pulmonary involvement, such as granulomatosis with polyangiitis (GPA), but the absence of current sinonasal symptoms, hemoptysis, or renal dysfunction makes GPA less likely."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multifocal vasculopathy, the temporal association with ANCA positivity, and the absence of other SLE criteria make an overlap syndrome with MPA and secondary APS a compelling diagnosis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "The patient’s response to therapy also informs the differential, suggesting an active inflammatory vasculitis rather than a simple hypercoagulable state."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of bilateral, small pulmonary nodules on CT—too small to characterize—raises the possibility of systemic vasculitis with pulmonary involvement, such as granulomatosis with polyangiitis (GPA), formerly Wegener’s, but the ANCA pattern and clinical presentation make MPA more likely."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were atherosclerosis, we would expect to see more typical atherosclerotic plaques, which tend to localize at ostial or bifurcation sites, rather than the multifocal, irregular stenoses seen here."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The Sydney criteria, which define antiphospholipid syndrome (APS), are met by the patient’s serologic profile, but APS typically causes thrombosis in large vessels and is less commonly associated with the diffuse, irregular stenoses seen here."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multifocal, posterior circulation strokes, despite anticoagulation, is consistent with microscopic polyangiitis (MPA), an ANCA-associated vasculitis affecting small- to medium-sized vessels, including the vertebral arteries."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary vasculitis, given the patient’s age, the absence of cardiac embolic sources, and the presence of multifocal, irregular stenoses of bilateral vertebral arteries."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had atherosclerosis, we would expect to see more typical atherosclerotic plaques, but the multifocal, irregular stenoses on angiography suggest an alternative diagnosis."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The Sydney criteria, which define antiphospholipid syndrome (APS), are met by the patient’s serologic profile, but APS typically causes thrombosis in large vessels and is less commonly associated with the diffuse, irregular stenoses seen here."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multifocal, irregular stenoses on angiography, coupled with the patient’s clinical presentation and laboratory findings, is consistent with microscopic polyangiitis (MPA)."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary vasculitis, given the patient’s clinical presentation and the lack of response to conventional therapies."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of ANCA and CRP elevation increases the likelihood of an autoimmune vasculitis, such as MPA, and decreases the likelihood of atherosclerosis or primary APS."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "This case is reminiscent of previously reported cases of MPA with predominant neurological involvement, which underscores the importance of considering vasculitis in any elderly patient with recurrent, multifocal strokes in the posterior circulation."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had atherosclerosis, we would expect to see more typical atherosclerotic plaques, which tend to localize at ostial or bifurcation sites, rather than the multifocal, irregular stenoses seen here."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s presentation is consistent with microscopic polyangiitis (MPA), which commonly affects small- to medium-sized vessels, including the vertebral and basilar arteries, and can present with multifocal posterior circulation strokes without renal or pulmonary involvement in early stages."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient’s age, long-standing hypertension, hyperlipidemia, and evidence of microangiopathic white matter disease make atherosclerosis a dominant consideration, but the multifocal, irregular nature of the vertebral artery stenoses, particularly their asymmetry and distribution along the dural ring and mid-vertebral segments, raises the probability of a non-atherosclerotic, inflammatory, or autoimmune vasculopathy."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nystagmus, ataxia, and cranial nerve dysfunction all suggest brain-stem dysfunction, given the vertebrobasilar territory involvement."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had atherosclerosis, we would expect to see more typical atherosclerotic plaques, which tend to localize at ostial or bifurcation sites, rather than the multifocal, irregular stenoses seen here."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but the clinical picture and ANCA positivity suggest MPA."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multifocal, irregular stenoses on angiography, the systemic inflammation (elevated CRP), the positive ANCA serology, and the recurrent posterior circulation strokes despite anticoagulation are all consistent with microscopic polyangiitis (MPA)."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is microscopic polyangiitis (MPA), given the combination of clinical, radiological, and serological findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of ANCA and CRP elevation increases the likelihood of an autoimmune vasculitis, such as MPA, particularly in the context of recurrent posterior circulation strokes."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multifocal vasculopathy, the temporal association with ANCA positivity, and the absence of other SLE criteria make an overlap syndrome with MPA and secondary APS a compelling consideration."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The fact that plasmapheresis was initiated strongly implies clinical suspicion of vasculitis, and the partial response to this treatment aligns with MPA."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multifocal vasculopathy, the temporal association with ANCA positivity, and the absence of other SLE criteria make an overlap syndrome with MPA and secondary APS a compelling consideration."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary vasculitis, given the clinical presentation and the lack of response to conventional therapies."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of MPA is increased by the presence of ANCA positivity, systemic inflammation, and the multifocal nature of the strokes, despite the absence of renal or pulmonary symptoms."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multifocal vasculopathy, the positive ANCA serology, and the absence of other SLE criteria make an overlap syndrome with MPA and secondary APS a compelling consideration."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show multifocal, irregular stenoses on angiography, which is consistent with an inflammatory or autoimmune process."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }
