@@ -1,0 +1,40 @@
+{
+  "case": "2016 Case 25__openai-gpt-oss-120b.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T13:35:30.902387+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3753,
+          4193
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis must incorporate common anorectal disorders (anal fissure, hemorrhoids), infectious etiologies (sexually transmitted proctitis), inflammatory bowel disease (ulcerative proctitis or Crohn’s proctitis), neoplastic processes (anal squamous cell carcinoma, rectal adenocarcinoma), and less frequent entities (solitary rectal ulcer syndrome, ischemic or medication‑related colitis, vasculitic or autoimmune disorders)."
+    },
+    {
+      "ranges": [
+        [
+          7054,
+          7193
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Anal fissure, especially a chronic fissure with sentinel tags, is the most straightforward explanation for the patient’s pain and bleeding."
+    },
+    {
+      "ranges": [
+        [
+          6076,
+          6378
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The anal canal is supplied by the superior, middle, and inferior rectal arteries, creating a watershed area at the distal anal canal.  Ischemia and sphincter spasm at the site of a mucosal tear impair healing, establishing a vicious cycle of pain → sphincter spasm → reduced perfusion → delayed healing"
+    }
+  ]
+}

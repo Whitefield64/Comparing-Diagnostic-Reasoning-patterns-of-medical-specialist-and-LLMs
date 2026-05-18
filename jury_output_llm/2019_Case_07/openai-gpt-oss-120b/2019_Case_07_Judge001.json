@@ -1,0 +1,62 @@
+{
+  "case": "2019 Case 07__openai-gpt-oss-120b.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T13:54:44.674914+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28108,
+          28244
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "most compelling explanation** is a **superimposed infectious process (bacterial or mycobacterial) within a CLL‑infiltrated inguinal node"
+    },
+    {
+      "ranges": [
+        [
+          8788,
+          9116
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis therefore must encompass a broad spectrum of malignant, infectious, inflammatory, and iatrogenic processes that can involve inguinal lymph nodes in an immunocompromised host, while also taking into account the specific histopathologic finding of a monomorphic small‑cell infiltrate consistent with CLL"
+    },
+    {
+      "ranges": [
+        [
+          28361,
+          28538
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "CLL provides a fertile substrate for bacterial colonization, and the patient’s hypogammaglobulinemia and prior chemotherapy further impair her ability to contain such infections"
+    },
+    {
+      "ranges": [
+        [
+          9379,
+          9569
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The goal is to narrow the possibilities to the most plausible explanation(s) for this patient’s presentation and to identify the key investigations that will ultimately confirm the diagnosis"
+    },
+    {
+      "ranges": [
+        [
+          8608,
+          8786
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The problem is compounded by a long history of immune dysregulation (hypogammaglobulinemia, repeated chemotherapy, and biologic therapy) and multiple prior cutaneous malignancies"
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "case": "2016 Case 25__openai-gpt-oss-120b.md",
+  "exported_at": "2026-05-18T13:37:26.982823+00:00",
+  "n_voters": 15,
+  "n_successful": 11,
+  "n_failed": 4,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had a classic LGV, we would expect to see more pronounced ulceration and exudate, which is not the case here."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is not mentioned, but the approach to diagnosis involves ruling out other causes of proctitis, such as infectious etiologies, before considering inflammatory bowel disease."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but the approach to diagnosing this patient’s condition involves first considering the most common and treatable causes, such as anal fissure and hemorrhoids, before moving on to less common but clinically significant entities like IBD or STI-related proctitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The finding of a large, solitary mass within the right lobe of the liver is not relevant to this case, but the patient’s presentation of painful defecation, bright‑red bleeding, and physical examination findings is consistent with a classic anal fissure."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a chronic anal fissure with sentinel skin tags, complicated by mild distal reactive proctitis, although I must consider other possibilities, such as infectious proctitis or IBD."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of anal fissure do not have a clear precipitating factor, the presence of a recent MSM encounter raises the possibility of an STI, but the lack of characteristic symptoms and signs makes this less likely."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s presentation is consistent with other cases of chronic anal fissure, and the presence of sentinel skin tags and mild distal proctitis suggests a possible secondary inflammatory or infectious process."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 2,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had a classic case of ulcerative proctitis, we would expect to see ulcerations, loss of vascular pattern, and more pronounced mucosal inflammation, which is not present in this case."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly applicable here, but we must first rule out infectious and inflammatory causes before considering neoplastic processes."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, which is not directly applicable to this case but demonstrates the process of validation."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of painful defecation, bright-red bleeding, and sentinel skin tags matches the description of a classic anal fissure, which is the most likely diagnosis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary anal fissure with possible secondary proctitis, given the combination of symptoms and physical findings."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of anal fissures are not associated with systemic symptoms, the presence of mild distal proctitis raises the probability of a secondary infectious or inflammatory process, which needs to be further investigated."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with anal fissure and secondary proctitis, which was successfully treated with topical therapy and bowel habits modification, suggesting a similar approach may be effective in this case."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had a classic LGV, we would expect to see more pronounced ulceration and exudate on endoscopy."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis, but in this case, we are considering anorectal disorders, so we will follow the diagnostic criteria for those conditions."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must first rule out infectious proctitis, then consider inflammatory bowel disease, and finally, neoplastic processes."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not relevant in this case, but the presence of mild distal proctitis suggests either a concomitant process or a secondary inflammatory reaction to the fissure."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of painful defecation, bright-red bleeding, and sentinel skin tags matches the description of a chronic anal fissure."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a chronic anal fissure with sentinel skin tags, complicated by mild distal reactive proctitis, although I am concerned about the possibility of an infectious or inflammatory process."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of anal fissures are not associated with systemic symptoms, the presence of mild distal proctitis raises the probability of a concomitant infectious or inflammatory process, but the lack of classic endoscopic features and systemic symptoms makes it less likely."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with a chronic anal fissure and mild distal proctitis, who was found to have a concomitant infectious proctitis, so we should consider that possibility in this case."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 7,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had a classic LGV, we would expect to see more pronounced ulceration and exudate on endoscopy."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly applicable here but the process of ruling out other diagnoses first is relevant, thus we must first rule out infectious proctitis, IBD, and neoplastic processes before attributing the patient’s symptoms to a fissure."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of symptoms, including painful defecation, bright-red bleeding, and the presence of large superficial fissures with sentinel skin tags, is typical for a chronic anal fissure."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a chronic anal fissure with sentinel skin tags, complicated by mild distal reactive proctitis, although I must consider other possibilities such as infectious proctitis and IBD."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the patient’s age, symptoms, and endoscopic findings, the probability of a chronic anal fissure is high, while the probability of other diagnoses such as IBD or neoplastic processes is lower but cannot be excluded without further testing."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with chronic anal fissure and mild distal proctitis, who responded well to fissure-specific therapy and had a good outcome, which informs my approach to this case."
+        }
+      ]
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the fissure is the primary cause, then we would expect the pain to be severe and localized, and the bleeding to be bright red and confined to the toilet paper, which is consistent with the patient’s symptoms."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but in general, when considering the differential diagnosis of anorectal disorders, one must first rule out life-threatening conditions such as neoplasms before moving on to less serious ones like hemorrhoids or fissures."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not directly relevant to this case, but in general, one must validate a diagnosis by checking if all the data fit the working diagnosis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of symptoms and physical findings in this patient matches the typical presentation of a chronic anal fissure with sentinel skin tags, which is a common condition in young adults."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a chronic anal fissure with sentinel skin tags, although I am also considering the possibility of an infectious or inflammatory process given the patient’s recent MSM exposure and the presence of mild distal proctitis."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of anal fissures are not associated with systemic symptoms, the presence of mild distal proctitis and the patient’s recent MSM exposure raise the probability of an infectious or inflammatory process, which should be further investigated with targeted testing."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with a chronic anal fissure and sentinel skin tags who presented with similar symptoms and was successfully treated with topical nitroglycerin and sitz baths, which suggests that this patient may also benefit from a similar approach."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 4,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had ulcerative proctitis, we would expect to see ulcerations, loss of vascular pattern, and mucous discharge, which are not present in this case."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 10,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had a classic LGV, we would expect to see more pronounced ulceration and exudate on endoscopy, which is not the case here."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of painful defecation, bright-red bleeding, and the presence of sentinel skin tags is highly suggestive of a chronic anal fissure."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If an infectious proctitis is present, we would expect to see more pronounced endoscopic findings such as ulceration, which is not the case here."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The presence of sentinel skin tags raises the possibility of early Crohn’s disease, but the overall picture is milder than typical Crohn’s disease."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 6,
+      "n_unresolved": 11,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had a classic LGV, we would expect to see more pronounced ulceration and exudate on endoscopy, as well as systemic symptoms such as fever and lymphadenopathy."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        },
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the fissure is the primary cause of the patient’s symptoms, then we would expect to see improvement with fissure-focused therapy, such as topical nitroglycerin or diltiazem, and behavioral modifications like increased fiber intake and sitz baths."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the patient’s age, lack of systemic symptoms, and normal endoscopy, the probability of rectal adenocarcinoma is very low."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had a fissure, we would expect to see severe pain during defecation, and the presence of sentinel skin tags and large superficial fissures supports this hypothesis."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of painful defecation, bright-red bleeding, and sentinel skin tags matches the classic presentation of an anal fissure."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary anal fissure, although I am troubled by the presence of mild distal proctitis, which could suggest an infectious or inflammatory component."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of anal fissures are associated with pain and bleeding, the presence of sentinel skin tags and large superficial fissures increases the likelihood of this diagnosis, given the patient’s symptoms and physical examination findings."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "I recall a similar patient with an anal fissure who presented with severe pain and bleeding, and the presence of sentinel skin tags and large superficial fissures in this case reminds me of that previous case."
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the fissure is the primary cause, then addressing it therapeutically should lead to improvement in symptoms."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out infectious proctitis and inflammatory bowel disease before attributing the patient’s symptoms solely to an anal fissure."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary anal fissure, given the characteristic pain and bleeding pattern."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Given the patient’s age and lack of systemic symptoms, the probability of anal carcinoma is low, but it cannot be excluded without further investigation."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but this patient’s presentation does not fit that pattern."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 3,
+      "n_unresolved": 8,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient had a fissure, we would expect to see pain during defecation and bright-red blood on the toilet paper, which is consistent with the patient’s symptoms."
+        },
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        }
+      ]
+    },
+    {
+      "voter_id": 15,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    }
+  ]
+}

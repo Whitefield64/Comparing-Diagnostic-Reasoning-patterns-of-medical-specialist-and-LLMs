@@ -1,0 +1,73 @@
+{
+  "case": "2020 Case 35__openai-gpt-oss-120b.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T14:20:36.511644+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          30288,
+          30408
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "After systematic evaluation, **Acute Necrotizing Encephalopathy (ANE)** emerges as the most coherent unifying diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          30409,
+          30455
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The key points aligning the case with ANE are:"
+    },
+    {
+      "ranges": [
+        [
+          34216,
+          34312
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If ANE is indeed the underlying pathology, treatment is largely **supportive**, with a focus on:"
+    },
+    {
+      "ranges": [
+        [
+          31610,
+          31863
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although a definitive viral trigger was not identified, this is not uncommon. The patient’s immunosuppressed state could have blunted systemic signs, allowing a subclinical infection to precipitate a cytokine‑mediated necrotizing process within the CNS."
+    },
+    {
+      "ranges": [
+        [
+          31688,
+          31863
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s immunosuppressed state could have blunted systemic signs, allowing a subclinical infection to precipitate a cytokine‑mediated necrotizing process within the CNS."
+    },
+    {
+      "ranges": [
+        [
+          12103,
+          12290
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "A rare entity, “hyperglycemic basal ganglia disease,” presents with unilateral or bilateral T1 hyperintensity of the putamen and caudate due to petechial hemorrhage or mineral deposition."
+    }
+  ]
+}

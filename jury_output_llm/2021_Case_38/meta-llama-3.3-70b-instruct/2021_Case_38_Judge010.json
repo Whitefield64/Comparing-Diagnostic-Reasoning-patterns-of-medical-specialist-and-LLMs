@@ -1,0 +1,139 @@
+{
+  "case": "2021 Case 38__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T14:32:00.179942+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6978,
+          7253
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's complex presentation of abdominal pain, weight loss, memory impairment, and suicidal ideation, along with laboratory and imaging findings, suggests a multifaceted diagnosis that could involve malignant, infectious, inflammatory, structural, and systemic causes."
+    },
+    {
+      "ranges": [
+        [
+          7254,
+          7516
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Initially, the differential diagnosis should consider common causes of abdominal pain and weight loss, such as gastrointestinal malignancies, chronic infections (e.g., tuberculosis), inflammatory bowel disease (IBD), and structural issues like bowel obstruction."
+    },
+    {
+      "ranges": [
+        [
+          10055,
+          10271
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's symptoms of abdominal pain, constipation, and vomiting are consistent with a bowel obstruction, and the resolution of these symptoms following surgical intervention would further support this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          7795,
+          7918
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the absence of a mass or stricture on surgical exploration reduces the likelihood of a primary gastrointestinal malignancy."
+    },
+    {
+      "ranges": [
+        [
+          7919,
+          8046
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Metastatic disease could still be a consideration, but the lack of specific findings on imaging studies makes this less likely."
+    },
+    {
+      "ranges": [
+        [
+          8048,
+          8233
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Infectious causes, including chronic infections like tuberculosis or parasitic infections, could explain some of the patient's symptoms, particularly the weight loss and abdominal pain."
+    },
+    {
+      "ranges": [
+        [
+          8420,
+          8595
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's laboratory results do not indicate a significant inflammatory response that would typically accompany an infectious process, making this diagnosis less probable."
+    },
+    {
+      "ranges": [
+        [
+          9110,
+          9409
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "While it is possible for IBD to present with constipation, especially if there is a significant stricture or narrowing of the bowel lumen, the lack of other supportive findings (such as inflammatory markers in the blood or characteristic endoscopic lesions) reduces the likelihood of this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10386,
+          10569
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The elevated urinary porphyrin levels are particularly noteworthy, as they suggest a diagnosis of porphyria, a group of disorders that result from defects in the biosynthesis of heme."
+    },
+    {
+      "ranges": [
+        [
+          10775,
+          10942
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's response to hemin administration supports this diagnosis, as hemin is used to treat acute porphyrias by reducing the production of toxic heme precursors."
+    },
+    {
+      "ranges": [
+        [
+          15481,
+          15715
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Other rare conditions that could potentially explain some of the patient's symptoms, such as mitochondrial disorders or other metabolic diseases, should also be considered, although they are less likely given the information provided."
+    },
+    {
+      "ranges": [
+        [
+          13288,
+          13582
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's significant weight loss, anemia, and evidence of possible hemolysis or bone marrow dysfunction add complexity to the case and suggest that a comprehensive approach, including further investigation into the porphyria diagnosis and management of the bowel obstruction, is necessary."
+    }
+  ]
+}

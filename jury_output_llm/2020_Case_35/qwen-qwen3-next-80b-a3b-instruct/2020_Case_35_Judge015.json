@@ -1,0 +1,249 @@
+{
+  "case": "2020 Case 35__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T14:28:49.557634+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          10105,
+          10318
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling and specific imaging finding is the symmetric, bilateral hypointensity on T2-weighted and susceptibility-weighted MRI in the basal ganglia, thalami, dentate nuclei, and leptomeningeal surfaces."
+    },
+    {
+      "ranges": [
+        [
+          10319,
+          10496
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "This pattern is classically associated with manganese toxicity, but it is also seen in hepatic encephalopathy, mitochondrial disorders, and certain inherited metabolic diseases."
+    },
+    {
+      "ranges": [
+        [
+          10497,
+          10667
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "However, the patient has no known liver disease—her liver function tests are normal, and there is no history of cirrhosis, portal hypertension, or portosystemic shunting."
+    },
+    {
+      "ranges": [
+        [
+          10668,
+          10823
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Furthermore, the acute presentation with hyperglycemia and ketonuria, rather than hyperammonemia or lactic acidosis, makes hepatic encephalopathy unlikely."
+    },
+    {
+      "ranges": [
+        [
+          10824,
+          11035
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Manganese toxicity, while a strong candidate, must be weighed against the patient’s lack of occupational exposure (e.g., welding, mining) or parenteral nutrition, which are the usual contexts for this condition."
+    },
+    {
+      "ranges": [
+        [
+          11036,
+          11387
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "However, in patients with chronic liver disease or biliary obstruction, manganese accumulates due to impaired excretion; in the absence of liver dysfunction, one must consider whether there is an alternative mechanism of manganese retention—such as altered blood-brain barrier permeability, chronic inflammation, or an underlying hematologic disorder."
+    },
+    {
+      "ranges": [
+        [
+          11947,
+          12176
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The blood glucose level of 321 mg/dL is markedly elevated, yet the patient was not in diabetic ketoacidosis (DKA) by standard criteria—there is no significant acidosis, no elevated anion gap reported, and no ketonemia quantified."
+    },
+    {
+      "ranges": [
+        [
+          12177,
+          12318
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the presence of ketones in urine and a high specific gravity suggests a state of relative insulin deficiency with ongoing lipolysis."
+    },
+    {
+      "ranges": [
+        [
+          13126,
+          13258
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The CSF findings are equally revealing. The opening pressure is normal (14 cm H2O), ruling out idiopathic intracranial hypertension."
+    },
+    {
+      "ranges": [
+        [
+          13259,
+          13422
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The cell count is minimally elevated with rare neutrophils and rare atypical cells—this is inconsistent with bacterial meningitis, viral encephalitis, or lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          9840,
+          10103
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The differential diagnosis must be approached systematically, considering malignant, metabolic, autoimmune, neurodegenerative, and rare toxic causes, while rigorously excluding common mimics such as infectious encephalitis, vascular events, or structural lesions."
+    },
+    {
+      "ranges": [
+        [
+          19458,
+          19685
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most plausible unifying diagnosis is a metabolic encephalopathy secondary to manganese toxicity, likely secondary to chronic liver dysfunction from an occult cause, or possibly due to a genetic disorder of metal metabolism."
+    },
+    {
+      "ranges": [
+        [
+          19748,
+          19918
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another possibility is a disorder of copper metabolism, such as Wilson disease, which can present with basal ganglia lesions, psychiatric symptoms, and cognitive decline."
+    },
+    {
+      "ranges": [
+        [
+          20318,
+          20402
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of chronic anemia could reflect hemolysis, a feature of Wilson disease."
+    },
+    {
+      "ranges": [
+        [
+          20403,
+          20458
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The symmetric basal ganglia signal changes are classic."
+    },
+    {
+      "ranges": [
+        [
+          20459,
+          20556
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The lack of response to antimicrobials and the progressive neurobehavioral course are consistent."
+    },
+    {
+      "ranges": [
+        [
+          20557,
+          20653
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "A serum ceruloplasmin level and 24-hour urinary copper were not reported—this is a critical gap."
+    },
+    {
+      "ranges": [
+        [
+          14241,
+          14333
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The symmetric, non-enhancing, susceptibility-based signal changes are atypical for lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          21959,
+          22114
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s age, while atypical, does not exclude Wilson disease, particularly in women with milder mutations or those who have had partial compensation."
+    },
+    {
+      "ranges": [
+        [
+          22444,
+          22539
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "If these were low ceruloplasmin and elevated urinary copper, Wilson disease would be confirmed."
+    },
+    {
+      "ranges": [
+        [
+          22248,
+          22379
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The key diagnostic test that was not performed but would be definitive is serum ceruloplasmin and 24-hour urinary copper excretion."
+    },
+    {
+      "ranges": [
+        [
+          23706,
+          24142
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In conclusion, while multiple etiologies are possible, the constellation of symmetric basal ganglia signal changes on MRI, the prolonged neurobehavioral prodrome, the absence of infection or malignancy, and the lack of response to antimicrobials most strongly support a diagnosis of **Wilson disease** as the leading consideration, with **atypical Creutzfeldt-Jakob disease** and **corticobasal degeneration** as important alternatives."
+    }
+  ]
+}

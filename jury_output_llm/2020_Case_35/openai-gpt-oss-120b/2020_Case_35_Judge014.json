@@ -1,0 +1,62 @@
+{
+  "case": "2020 Case 35__openai-gpt-oss-120b.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T14:23:45.404367+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          30288,
+          30408
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "After systematic evaluation, **Acute Necrotizing Encephalopathy (ANE)** emerges as the most coherent unifying diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          31688,
+          31863
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s immunosuppressed state could have blunted systemic signs, allowing a subclinical infection to precipitate a cytokine‑mediated necrotizing process within the CNS."
+    },
+    {
+      "ranges": [
+        [
+          34216,
+          34419
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If ANE is indeed the underlying pathology, treatment is largely **supportive**, with a focus on:\n\n* **Neurocritical care** – Airway protection, hemodynamic stability, and control of intracranial pressure"
+    },
+    {
+      "ranges": [
+        [
+          9981,
+          10191
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The differential diagnosis must therefore encompass a broad spectrum of entities that can produce:  \n\n1. **Diffuse, symmetric deep gray‑matter and cerebellar involvement** (basal ganglia, thalami, dentate nucle"
+    },
+    {
+      "ranges": [
+        [
+          33006,
+          33263
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Each of these alternatives fails to simultaneously explain the **triad** of (a) symmetric deep gray‑matter and cerebellar hemorrhagic lesions, (b) bland CSF, and (c) the clinical trajectory of an abrupt coma superimposed on a chronic neurocognitive decline."
+    }
+  ]
+}

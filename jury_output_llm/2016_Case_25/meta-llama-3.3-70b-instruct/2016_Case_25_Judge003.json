@@ -1,0 +1,139 @@
+{
+  "case": "2016 Case 25__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T13:26:28.384987+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3265,
+          3469
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation of rectal pain and bleeding, particularly the bright red blood on the toilet paper after wiping, suggests a differential diagnosis that encompasses various anorectal conditions."
+    },
+    {
+      "ranges": [
+        [
+          3470,
+          3651
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Initially, the presence of a tender external hemorrhoid and the subsequent finding of bleeding hemorrhoids around the anal opening point towards a diagnosis of hemorrhoidal disease."
+    },
+    {
+      "ranges": [
+        [
+          3943,
+          4102
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "One of the primary considerations in this case is the possibility of anorectal infections, given the patient's history of a recent sexual encounter with a man."
+    },
+    {
+      "ranges": [
+        [
+          4629,
+          4738
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another important consideration is the diagnosis of anal fissures, which are tears in the lining of the anus."
+    },
+    {
+      "ranges": [
+        [
+          5125,
+          5286
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory bowel disease (IBD), including conditions such as ulcerative proctitis and Crohn's disease, should also be considered in the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          5287,
+          5449
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's symptoms of rectal bleeding and pain, as well as the finding of mild-to-moderate mucosal inflammation of the distal rectum, are consistent with IBD."
+    },
+    {
+      "ranges": [
+        [
+          5011,
+          5123
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of a sentinel pile, or skin tag, at the edge of the fissure is also consistent with this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          5574,
+          5741
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Other conditions that should be considered in the differential diagnosis include proctitis, which is an inflammation of the rectum, and solitary rectal ulcer syndrome."
+    },
+    {
+      "ranges": [
+        [
+          6129,
+          6383
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "er systemic conditions that may cause rectal bleeding and pain. For example, bleeding disorders such as hemophilia or von Willebrand disease can cause rectal bleeding, although these conditions are typically associated with more widespread bleeding sympt"
+    },
+    {
+      "ranges": [
+        [
+          4254,
+          4515
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's negative tests for HIV and other viruses do not entirely rule out the possibility of an STI, as the window period for seroconversion may not have been reached at the time of testing, or the patient may have been infected with a different pathogen."
+    },
+    {
+      "ranges": [
+        [
+          7627,
+          7846
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": " Further evaluation and testing, such as a complete blood count, stool tests for infection, and possibly a colonoscopy, may be necessary to determine the underlying cause of the patient's symptoms.\n\nThe presence of mild"
+    },
+    {
+      "ranges": [
+        [
+          10461,
+          10636
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of emigrating from Brazil 16 years earlier and his current residence in an urban area of New England may also be relevant to the diagnosis and treatment."
+    }
+  ]
+}

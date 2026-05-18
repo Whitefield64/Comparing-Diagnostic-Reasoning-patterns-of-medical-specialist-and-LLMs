@@ -1,0 +1,172 @@
+{
+  "case": "2021 Case 38__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T14:42:55.939366+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7898,
+          8241
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The elevated urinary porphyrins are the pivotal clue — they are not incidental, nor are they a nonspecific marker of liver dysfunction. Their presence demands a reevaluation of the entire clinical picture through the lens of porphyria, specifically acute intermittent porphyria (AIP), which, though rare, is the most likely unifying diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8439,
+          8657
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The enzyme defect leads to accumulation of the neurotoxic precursors δ-aminolevulinic acid (ALA) and porphobilinogen (PBG), which are excreted in excess in the urine and are responsible for the characteristic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          9112,
+          9353
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of findings on endoscopy, CT, and MRCP in the early phase is consistent with AIP, as these imaging modalities are typically unremarkable during acute attacks unless secondary complications such as ileus or bowel distension occur."
+    },
+    {
+      "ranges": [
+        [
+          9354,
+          9693
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of mechanical obstruction later in the course was likely a consequence of prolonged ileus and adhesion formation secondary to recurrent neurogenic bowel dysmotility — a well-documented phenomenon in porphyria, where autonomic neuropathy leads to paralytic ileus that can evolve into chronic adhesions and, rarely, volvulus."
+    },
+    {
+      "ranges": [
+        [
+          9791,
+          10091
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient’s memory impairment, difficulty with word finding, tangential speech, inability to perform serial sevens, and inconsistent orientation are not consistent with primary neurodegenerative disease such as Alzheimer’s or frontotemporal dementia, which typically progress over years, not weeks."
+    },
+    {
+      "ranges": [
+        [
+          10092,
+          10251
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Nor are they typical of post-traumatic stress disorder alone, which does not cause cognitive decline of this severity or the constellation of somatic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          10977,
+          11159
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that the psychiatric symptoms resolved with sedation but cognitive deficits persisted is classic — the underlying neurotoxic insult remains even as acute agitation subsides."
+    },
+    {
+      "ranges": [
+        [
+          8658,
+          8799
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The classic triad of AIP includes abdominal pain, neuropsychiatric manifestations, and autonomic dysfunction — all of which are present here."
+    },
+    {
+      "ranges": [
+        [
+          14200,
+          14529
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s daughter, well-intentioned but medically uninformed, may have inadvertently precipitated or exacerbated the crisis by encouraging a diet that depleted glycogen stores and stimulated hepatic heme synthesis. This is a critical point: dietary interventions, even those perceived as healthy, can be deadly in porphyria."
+    },
+    {
+      "ranges": [
+        [
+          12617,
+          12905
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "te porphyria. It is typically caused by inappropriate antidiuretic hormone secretion (SIADH), which is triggered by autonomic nervous system dysregulation during acute attacks. ALA and PBG may directly stimulate the hypothalamic osmoregulatory centers or induce neurogenic release of ADH."
+    },
+    {
+      "ranges": [
+        [
+          15132,
+          15341
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Other differential diagnoses must be considered and ruled out. Gastrointestinal malignancies, particularly gastric or small-bowel adenocarcinoma or lymphoma, can present with weight loss, anorexia, and anemia."
+    },
+    {
+      "ranges": [
+        [
+          17096,
+          17172
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of rash, arthritis, or renal dysfunction makes these improbable."
+    },
+    {
+      "ranges": [
+        [
+          17174,
+          17391
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Chronic liver disease from alcohol or non-alcoholic fatty liver disease is excluded by the patient’s abstention from alcohol and lack of risk factors for NAFLD beyond diabetes and obesity (she is cachectic, BMI 18.5)."
+    },
+    {
+      "ranges": [
+        [
+          18207,
+          18509
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The temporal relationship — the onset of somatic symptoms two months after the psychological stressor — is consistent with stress triggering an underlying porphyria, as psychological stress is a known precipitant of acute attacks via increased cortisol and catecholamines, which stimulate ALA synthase."
+    },
+    {
+      "ranges": [
+        [
+          19002,
+          19209
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In summary, the diagnosis of acute intermittent porphyria is strongly supported by the triad of abdominal pain, neuropsychiatric symptoms, and hyponatremia, confirmed by markedly elevated urinary porphyrins."
+    }
+  ]
+}

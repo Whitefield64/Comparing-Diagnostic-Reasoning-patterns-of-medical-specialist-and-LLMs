@@ -1,0 +1,95 @@
+{
+  "case": "2021 Case 38__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T14:46:58.002548+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7898,
+          8241
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The elevated urinary porphyrins are the pivotal clue — they are not incidental, nor are they a nonspecific marker of liver dysfunction. Their presence demands a reevaluation of the entire clinical picture through the lens of porphyria, specifically acute intermittent porphyria (AIP), which, though rare, is the most likely unifying diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8439,
+          8657
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The enzyme defect leads to accumulation of the neurotoxic precursors δ-aminolevulinic acid (ALA) and porphobilinogen (PBG), which are excreted in excess in the urine and are responsible for the characteristic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          9112,
+          9353
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of findings on endoscopy, CT, and MRCP in the early phase is consistent with AIP, as these imaging modalities are typically unremarkable during acute attacks unless secondary complications such as ileus or bowel distension occur."
+    },
+    {
+      "ranges": [
+        [
+          8658,
+          8799
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The classic triad of AIP includes abdominal pain, neuropsychiatric manifestations, and autonomic dysfunction — all of which are present here."
+    },
+    {
+      "ranges": [
+        [
+          15132,
+          15341
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Other differential diagnoses must be considered and ruled out. Gastrointestinal malignancies, particularly gastric or small-bowel adenocarcinoma or lymphoma, can present with weight loss, anorexia, and anemia."
+    },
+    {
+      "ranges": [
+        [
+          13145,
+          13295
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that the hyponatremia developed acutely during the course of her illness, not as a consequence of dehydration or diuretic use, is diagnostic."
+    },
+    {
+      "ranges": [
+        [
+          19014,
+          19209
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the diagnosis of acute intermittent porphyria is strongly supported by the triad of abdominal pain, neuropsychiatric symptoms, and hyponatremia, confirmed by markedly elevated urinary porphyrins."
+    },
+    {
+      "ranges": [
+        [
+          19684,
+          19927
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case exemplifies how porphyria, though rare, must be considered in any elderly patient presenting with unexplained abdominal pain, neuropsychiatric symptoms, and porphyrinuria — especially when conventional investigations are unrevealing."
+    }
+  ]
+}

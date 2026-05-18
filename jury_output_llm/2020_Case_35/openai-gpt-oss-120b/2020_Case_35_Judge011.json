@@ -1,0 +1,29 @@
+{
+  "case": "2020 Case 35__openai-gpt-oss-120b.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T14:23:45.403635+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          30288,
+          30408
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "After systematic evaluation, **Acute Necrotizing Encephalopathy (ANE)** emerges as the most coherent unifying diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10860,
+          10975
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Severe hyperglycemia and hyperosmolarity can cause neuronal dehydration, cerebral edema, and focal vascular injury."
+    }
+  ]
+}

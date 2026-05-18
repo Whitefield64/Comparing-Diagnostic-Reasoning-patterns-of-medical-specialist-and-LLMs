@@ -1,0 +1,150 @@
+{
+  "case": "2020 Case 35__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T14:18:10.523194+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          14765,
+          14919
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history, symptoms, and findings on imaging studies, a leading diagnosis is a disorder of metal metabolism, such as aceruloplasminemia."
+    },
+    {
+      "ranges": [
+        [
+          15363,
+          15572
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "While other diagnoses, such as mitochondrial disorder or diabetic encephalopathy, are possible, the patient's history, symptoms, and findings on imaging studies make aceruloplasminemia a more likely diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          15043,
+          15166
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of abnormal signal in the basal ganglia, thalami, and dentate nuclei on MRI is consistent with this condition."
+    },
+    {
+      "ranges": [
+        [
+          15167,
+          15362
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's symptoms of confusion, suspicious and paranoid beliefs, and difficulty with basic diabetes management, which progressed over several months, are also consistent with this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          15940,
+          16161
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The findings on CT and MRI of the head, including symmetric increased attenuation in the basal ganglia, thalami, and dentate nuclei, and extensive signal loss in these areas, are highly suggestive of a specific diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          16396,
+          16641
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the patient's presentation with obtundation, symmetric increased attenuation in the basal ganglia, thalami, and dentate nuclei on CT of the head, and extensive signal loss in these areas on MRI of the head, raises a broad differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          16642,
+          16843
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "While infectious, metabolic, and toxic causes are possible, the patient's history, symptoms, and findings on imaging studies suggest a possible disorder of metal metabolism, such as aceruloplasminemia."
+    },
+    {
+      "ranges": [
+        [
+          13222,
+          13369
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's history of type 1 diabetes mellitus and the presence of diabetic retinopathy suggest a possible diagnosis of diabetic encephalopathy."
+    },
+    {
+      "ranges": [
+        [
+          9528,
+          9719
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Initially, infectious causes, such as meningitis or encephalitis, must be considered, given the patient's presentation with obtundation and the findings on cerebrospinal fluid (CSF) analysis."
+    },
+    {
+      "ranges": [
+        [
+          12160,
+          12380
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of abnormal susceptibility signal throughout the basal ganglia, thalami, dentate nuclei, and cortical surfaces of the cerebral hemispheres on susceptibility-weighted images further supports this possibility."
+    },
+    {
+      "ranges": [
+        [
+          15745,
+          15939
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's slow neurologic improvement with supportive care and the lack of specific findings suggestive of a particular diagnosis make it essential to consider a wide range of possibilities."
+    },
+    {
+      "ranges": [
+        [
+          15167,
+          15362
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's symptoms of confusion, suspicious and paranoid beliefs, and difficulty with basic diabetes management, which progressed over several months, are also consistent with this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          14447,
+          14611
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of chronic lymphocytic leukemia and treatment with rituximab raises the possibility of a paraneoplastic syndrome, such as limbic encephalitis."
+    }
+  ]
+}

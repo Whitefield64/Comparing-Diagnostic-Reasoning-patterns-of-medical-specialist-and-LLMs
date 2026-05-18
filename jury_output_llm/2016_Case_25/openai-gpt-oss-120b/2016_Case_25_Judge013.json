@@ -1,0 +1,62 @@
+{
+  "case": "2016 Case 25__openai-gpt-oss-120b.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T13:37:26.982170+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3753,
+          4193
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis must incorporate common anorectal disorders (anal fissure, hemorrhoids), infectious etiologies (sexually transmitted proctitis), inflammatory bowel disease (ulcerative proctitis or Crohn’s proctitis), neoplastic processes (anal squamous cell carcinoma, rectal adenocarcinoma), and less frequent entities (solitary rectal ulcer syndrome, ischemic or medication‑related colitis, vasculitic or autoimmune disorders)."
+    },
+    {
+      "ranges": [
+        [
+          7054,
+          7193
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Anal fissure, especially a chronic fissure with sentinel tags, is the most straightforward explanation for the patient’s pain and bleeding."
+    },
+    {
+      "ranges": [
+        [
+          6211,
+          6379
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Ischemia and sphincter spasm at the site of a mucosal tear impair healing, establishing a vicious cycle of pain → sphincter spasm → reduced perfusion → delayed healing."
+    },
+    {
+      "ranges": [
+        [
+          17208,
+          17324
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The presence of **sentinel tags** raises the possibility of early CD, but the overall picture is milder than typical"
+    },
+    {
+      "ranges": [
+        [
+          5232,
+          5410
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s pain is described as “painful bowel movements” that have persisted for months; this aligns with the typical fissure‑related pain that is triggered by stool passage."
+    }
+  ]
+}

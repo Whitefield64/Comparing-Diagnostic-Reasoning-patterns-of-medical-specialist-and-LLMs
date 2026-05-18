@@ -1,0 +1,150 @@
+{
+  "case": "2016 Case 25__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T13:29:46.136293+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3265,
+          3469
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation of rectal pain and bleeding, particularly the bright red blood on the toilet paper after wiping, suggests a differential diagnosis that encompasses various anorectal conditions."
+    },
+    {
+      "ranges": [
+        [
+          3943,
+          4102
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "One of the primary considerations in this case is the possibility of anorectal infections, given the patient's history of a recent sexual encounter with a man."
+    },
+    {
+      "ranges": [
+        [
+          4629,
+          4738
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another important consideration is the diagnosis of anal fissures, which are tears in the lining of the anus."
+    },
+    {
+      "ranges": [
+        [
+          5125,
+          5286
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory bowel disease (IBD), including conditions such as ulcerative proctitis and Crohn's disease, should also be considered in the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          3481,
+          3651
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the presence of a tender external hemorrhoid and the subsequent finding of bleeding hemorrhoids around the anal opening point towards a diagnosis of hemorrhoidal disease."
+    },
+    {
+      "ranges": [
+        [
+          5287,
+          5449
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's symptoms of rectal bleeding and pain, as well as the finding of mild-to-moderate mucosal inflammation of the distal rectum, are consistent with IBD."
+    },
+    {
+      "ranges": [
+        [
+          4254,
+          4515
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's negative tests for HIV and other viruses do not entirely rule out the possibility of an STI, as the window period for seroconversion may not have been reached at the time of testing, or the patient may have been infected with a different pathogen."
+    },
+    {
+      "ranges": [
+        [
+          5574,
+          5741
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Other conditions that should be considered in the differential diagnosis include proctitis, which is an inflammation of the rectum, and solitary rectal ulcer syndrome."
+    },
+    {
+      "ranges": [
+        [
+          9906,
+          10158
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the patient's symptoms of rectal pain and bleeding, as well as the finding of mild-to-moderate mucosal inflammation of the distal rectum, suggest that treatment with anti-inflammatory medications, such as mesalamine or sulfasalazine, may be beneficial."
+    },
+    {
+      "ranges": [
+        [
+          8835,
+          9033
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The diagnosis of anal fissures is supported by the patient's symptoms of painful bowel movements and the finding of large, superficial anal fissures at the anterior and posterior midline anal verge."
+    },
+    {
+      "ranges": [
+        [
+          4529,
+          4627
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "the patient's report of no previous STIs does not preclude the possibility of a current infection."
+    },
+    {
+      "ranges": [
+        [
+          10778,
+          10917
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "he patient's lack of travel history and the absence of other symptoms such as abdominal pain and diarrhea make this diagnosis less likely.\n"
+    },
+    {
+      "ranges": [
+        [
+          6759,
+          6889
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Certain infections, such as schistosomiasis, are more common in certain geographic regions and may cause rectal bleeding and pain."
+    }
+  ]
+}

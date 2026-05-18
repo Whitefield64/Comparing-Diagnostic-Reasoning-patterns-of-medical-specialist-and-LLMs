@@ -1,0 +1,84 @@
+{
+  "case": "2020 Case 35__openai-gpt-oss-120b.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T14:20:36.511766+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          30288,
+          30408
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "After systematic evaluation, **Acute Necrotizing Encephalopathy (ANE)** emerges as the most coherent unifying diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          31688,
+          31863
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s immunosuppressed state could have blunted systemic signs, allowing a subclinical infection to precipitate a cytokine‑mediated necrotizing process within the CNS."
+    },
+    {
+      "ranges": [
+        [
+          34216,
+          34419
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If ANE is indeed the underlying pathology, treatment is largely **supportive**, with a focus on:\n\n* **Neurocritical care** – Airway protection, hemodynamic stability, and control of intracranial pressure"
+    },
+    {
+      "ranges": [
+        [
+          30409,
+          30509
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The key points aligning the case with ANE are:\n\n| Feature | ANE Typical Finding | Patient’s Finding "
+    },
+    {
+      "ranges": [
+        [
+          31610,
+          31863
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Although a definitive viral trigger was not identified, this is not uncommon. The patient’s immunosuppressed state could have blunted systemic signs, allowing a subclinical infection to precipitate a cytokine‑mediated necrotizing process within the CNS."
+    },
+    {
+      "ranges": [
+        [
+          19217,
+          19341
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": " **Imaging** – Symmetric susceptibility in thalami, basal ganglia, dentate nuclei, and cortical surfaces is classic for ANE."
+    },
+    {
+      "ranges": [
+        [
+          10860,
+          10975
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Severe hyperglycemia and hyperosmolarity can cause neuronal dehydration, cerebral edema, and focal vascular injury."
+    }
+  ]
+}

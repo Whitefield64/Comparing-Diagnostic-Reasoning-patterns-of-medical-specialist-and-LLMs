@@ -1,0 +1,271 @@
+{
+  "case": "2020 Case 35__qwen-qwen3-next-80b-a3b-instruct.md",
+  "exported_at": "2026-05-18T14:28:49.558471+00:00",
+  "n_voters": 15,
+  "n_successful": 14,
+  "n_failed": 1,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 9,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the doctor is troubled by the negative serologic test and the patient’s presentation."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not applicable here, however the patient’s chronic anemia and CLL raises the possibility of secondary mitochondrial dysfunction due to chronic inflammation or chemotherapy (rituximab)."
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the sentence 'The most plausible unifying diagnosis is a metabolic encephalopathy secondary to manganese toxicity...' can be considered as an intuition."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not applicable here but the sentence 'The patient’s chronic anemia could reflect hemolysis from copper toxicity, similar to some reported cases of Wilson disease' can be considered as a case-based reasoning."
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the combination of findings points towards a few key diagnoses, with Wilson disease being the most probable."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The absence of liver disease makes this less likely, but the patient’s age, while atypical, does not exclude Wilson disease, particularly in women with milder mutations or those who have had partial compensation."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s presentation is reminiscent of cases with Wilson disease, particularly those with late-onset, atypical presentations."
+        }
+      ]
+    },
+    {
+      "voter_id": 4,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 3,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned but the most plausible unifying diagnosis is a metabolic encephalopathy secondary to manganese toxicity or Wilson disease."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of Wilson disease is increased given the symmetric basal ganglia lesions, the psychiatric symptoms, the cognitive decline, and the absence of infectious or neoplastic etiologies."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but this case resembles more the cases of Wilson disease or other metabolic disorders."
+        }
+      ]
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 16,
+      "n_unresolved": 1,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present here, instead the most compelling and likely diagnosis, given the totality of the clinical and radiologic findings, is **Wilson disease with late-onset, atypical presentation**."
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly applicable here, but the systematic approach to ruling out other causes is relevant."
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of symmetric basal ganglia lesions on MRI is classically associated with manganese toxicity, but it is also seen in hepatic encephalopathy, mitochondrial disorders, and certain inherited metabolic diseases."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is not explicitly stated by the author, but the detailed analysis suggests a strong inclination towards Wilson disease."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The presence of chronic anemia could reflect hemolysis from copper toxicity, which increases the probability of Wilson disease given the other clinical findings."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The case should be urgently evaluated with ceruloplasmin, urinary copper, and genetic testing for ATP7B mutations, similar to how one would approach a suspected case of Wilson disease based on prior knowledge and experience with the condition."
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned but the intuition of the doctor is that the patient may have a rare inherited neurodegenerative disorder with autosomal recessive inheritance, such as neurodegeneration with brain iron accumulation (NBIA), particularly pantothenate kinase-associated neurodegeneration (PKAN)."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not mentioned but the case-based reasoning here is that the patient may have a rare disease such as Wilson disease, which typically presents earlier in life, often before age 40, and is associated with Kayser-Fleischer rings, liver disease, and low ceruloplasmin."
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the analysis points toward a diagnosis of Wilson disease as the leading consideration."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The absence of liver disease makes this less likely, but the patient’s age, while atypical, does not exclude Wilson disease, particularly in women with milder mutations or those who have had partial compensation."
+        },
+        {
+          "label_name": "ABD_CAUSAL",
+          "text": "The process of chronic liver dysfunction or a genetic disorder of metal metabolism leading to manganese toxicity or a disorder of copper metabolism, such as Wilson disease, could explain the patient’s presentation."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The patient’s presentation is reminiscent of cases with symmetric basal ganglia lesions and neurodegenerative features, such as those seen in Wilson disease or frontotemporal dementia."
+        }
+      ]
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 11,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the detailed analysis suggests a strong inclination towards Wilson disease."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The presence of chronic anemia could reflect hemolysis, a feature of Wilson disease, and the symmetric basal ganglia signal changes are classic, which raises the probability of this diagnosis."
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned, however the following text implies an intuition: The patient’s age, while atypical, does not exclude Wilson disease, particularly in women with milder mutations or those who have had partial compensation."
+        }
+      ]
+    },
+    {
+      "voter_id": 12,
+      "failed": false,
+      "n_resolved": 10,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned but the text  The most compelling and likely diagnosis, given the totality of the clinical and radiologic findings, is **Wilson disease with late-onset, atypical presentation** is similar in structure and can be annotated with ABD_SELECTIVE"
+        },
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not mentioned but the text The patient has diabetic retinopathy, which could be confused with pigmentary retinopathy, but PKAN typically presents in childhood or adolescence is similar in structure and can be annotated with DED_HIERARCHICAL"
+        }
+      ]
+    },
+    {
+      "voter_id": 13,
+      "failed": false,
+      "n_resolved": 7,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but we must first rule out infectious encephalitis, vascular events, or structural lesions before considering other diagnoses."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the analysis suggests a strong consideration for Wilson disease."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The presence of chronic anemia and CLL raises the possibility of secondary mitochondrial dysfunction due to chronic inflammation or chemotherapy (rituximab), but this is speculative, and the likelihood of this diagnosis is lower than that of Wilson disease or other primary neurodegenerative disorders."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "The case should be urgently evaluated with ceruloplasmin, urinary copper, and genetic testing for ATP7B mutations, based on the similarity to known cases of Wilson disease."
+        }
+      ]
+    },
+    {
+      "voter_id": 14,
+      "failed": false,
+      "n_resolved": 13,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 15,
+      "failed": false,
+      "n_resolved": 22,
+      "n_unresolved": 4,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
+        }
+      ]
+    }
+  ]
+}

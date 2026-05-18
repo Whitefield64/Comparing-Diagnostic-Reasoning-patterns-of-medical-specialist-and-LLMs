@@ -1,0 +1,240 @@
+{
+  "case": "2019 Case 07__openai-gpt-oss-120b.md",
+  "exported_at": "2026-05-18T14:01:57.823277+00:00",
+  "n_voters": 15,
+  "n_successful": 6,
+  "n_failed": 9,
+  "voters": [
+    {
+      "voter_id": 1,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "DED_HYPOTHETICO",
+          "text": "If the patient does not improve with empiric antimicrobial therapy, an excisional biopsy of the dominant node, or repeat core sampling from a different region of the node, would be prudent"
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not applicable here but The biopsy did not reveal such cells, and the pathology report explicitly notes the absence of large-cell transformation"
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of rapidly enlarging, tender, necrotic lymph node with high-grade FDG uptake and systemic B-symptoms is typical of an infectious or malignant process"
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but The most plausible explanation is a superimposed infectious necrotizing lymphadenitis—most likely bacterial, but mycobacterial infection remains a credible alternative"
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of a bacterial abscess or a mycobacterial focus is higher given the necrotic node and the patient’s immune dysfunction, whereas the probability of Richter transformation is lower given the lack of large cells on biopsy"
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not applicable here but There are precedents for similar cases of infectious necrotizing lymphadenitis in immunocompromised patients with CLL"
+        }
+      ]
+    },
+    {
+      "voter_id": 2,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out infectious etiologies, such as bacterial abscess or mycobacterial disease, before considering malignant transformation"
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis"
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of rapidly enlarging, tender, necrotic lymph node with high-grade FDG uptake is typical of an infectious or malignant process"
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a superimposed infectious process, given the patient’s immune dysfunction and the acute clinical presentation"
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of a bacterial abscess or mycobacterial infection is higher than that of Richter transformation, given the clinical and radiographic findings"
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "This case is reminiscent of previously reported cases of infectious necrotizing lymphadenitis in immunocompromised patients with CLL"
+        }
+      ]
+    },
+    {
+      "voter_id": 3,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 4,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 5,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_ALGORITHMIC",
+          "text": "Order GMS/PAS stains for fungi"
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis"
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess"
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive"
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published"
+        }
+      ]
+    },
+    {
+      "voter_id": 6,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 7,
+      "failed": false,
+      "n_resolved": 8,
+      "n_unresolved": 2,
+      "unresolved": [
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The clinical picture is classic for an infectious nidus"
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published"
+        }
+      ]
+    },
+    {
+      "voter_id": 8,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 5,
+      "unresolved": [
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis"
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of rapid nodal enlargement, necrosis, and high FDG uptake is typical of an infectious or malignant process"
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a superimposed infectious necrotizing lymphadenitis—most likely bacterial, but mycobacterial infection remains a credible alternative"
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of a bacterial abscess or mycobacterial disease is higher given the patient's immune dysfunction and the presence of necrosis on imaging"
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published"
+        }
+      ]
+    },
+    {
+      "voter_id": 9,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 10,
+      "failed": false,
+      "n_resolved": 5,
+      "n_unresolved": 6,
+      "unresolved": [
+        {
+          "label_name": "DED_HIERARCHICAL",
+          "text": "We must first rule out bacterial lymphadenitis/abscess, mycobacterial (TB/NTM) lymphadenitis, and fungal infection (Histoplasma) before considering Richter transformation or pure CLL progression"
+        },
+        {
+          "label_name": "DED_VALIDATION",
+          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis"
+        },
+        {
+          "label_name": "IND_PATTERN",
+          "text": "The pattern of rapidly enlarging, tender, necrotic lymph node with high-grade FDG uptake and systemic B-symptoms is typical of an infectious process, such as bacterial or mycobacterial lymphadenitis"
+        },
+        {
+          "label_name": "IND_INTUITION",
+          "text": "I think that the most likely diagnosis in this case is a superimposed infectious necrotizing lymphadenitis—most likely bacterial, but mycobacterial infection remains a credible alternative"
+        },
+        {
+          "label_name": "IND_BAYESIAN",
+          "text": "The probability of bacterial lymphadenitis/abscess is moderate, given the patient’s immunocompromised state, rapid nodal enlargement, and necrotic core, while the probability of mycobacterial infection is possible, considering the geographic exposure and systemic symptoms"
+        },
+        {
+          "label_name": "IND_CASEBASED",
+          "text": "Occasional single case reports of aortitis or basilar occlusion in association with CLL have been published, but the clinical presentation and histology in this case are more consistent with a superimposed infectious process"
+        }
+      ]
+    },
+    {
+      "voter_id": 11,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 12,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 13,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 14,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    },
+    {
+      "voter_id": 15,
+      "failed": true,
+      "n_resolved": 0,
+      "n_unresolved": 0,
+      "unresolved": []
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "case": "2019 Case 07__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T13:48:47.405753+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8322,
+          8532
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation of right inguinal lymphadenopathy, fever, and drenching night sweats, in the context of a 27-year history of chronic lymphocytic leukemia (CLL), raises a broad differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8533,
+          8761
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's complex medical history, including multiple treatments for CLL, hypogammaglobulinemia, and recurrent infections, it is essential to consider various malignant, infectious, inflammatory, and structural causes."
+    },
+    {
+      "ranges": [
+        [
+          8885,
+          9022
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's history of CLL, with multiple treatments and periods of remission, suggests that the disease may be active or transforming."
+    },
+    {
+      "ranges": [
+        [
+          9023,
+          9181
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of monoclonal B cells with an immunophenotype characteristic of CLL on flow cytometry and immunohistochemical staining supports this possibility."
+    },
+    {
+      "ranges": [
+        [
+          9182,
+          9336
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the absence of large-cell transformation on the core biopsy specimen does not entirely rule out the possibility of transformation in other areas."
+    },
+    {
+      "ranges": [
+        [
+          9338,
+          9471
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In addition to CLL-related complications, it is essential to consider other malignant causes, such as lymphoma or metastatic disease."
+    },
+    {
+      "ranges": [
+        [
+          9472,
+          9592
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's history of squamous-cell carcinoma and basal-cell carcinomas increases the risk of secondary malignancies."
+    },
+    {
+      "ranges": [
+        [
+          9593,
+          9801
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The presence of multiple enlarged lymph nodes, including those in the mediastinum and hilar regions, as well as the nodule in the peripheral lung, raises concern for a possible lymphoma or metastatic disease."
+    },
+    {
+      "ranges": [
+        [
+          9802,
+          9923
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the lack of specific imaging or biopsy findings supporting these diagnoses makes them less likely at this point."
+    },
+    {
+      "ranges": [
+        [
+          9924,
+          10066
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "It is also important to consider the possibility of a second primary malignancy, given the patient's history of multiple skin cancers and CLL."
+    },
+    {
+      "ranges": [
+        [
+          10067,
+          10276
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of a nodule in the peripheral lung, as seen on computed tomography (CT), could suggest a possible primary lung malignancy, although the lack of specific diagnostic findings makes this less likely."
+    },
+    {
+      "ranges": [
+        [
+          10278,
+          10456
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Infectious causes, such as abscesses or infected lymph nodes, must also be considered, particularly given the patient's history of hypogammaglobulinemia and recurrent infections."
+    },
+    {
+      "ranges": [
+        [
+          10457,
+          10554
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of fever, night sweats, and lymphadenopathy suggests a possible infectious etiology."
+    },
+    {
+      "ranges": [
+        [
+          10555,
+          10753
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the absence of specific symptoms, such as cough, abdominal pain, or vaginal discharge, and the lack of positive blood cultures or other diagnostic findings, make this diagnosis less likely."
+    },
+    {
+      "ranges": [
+        [
+          10754,
+          10878
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "It is also important to consider the possibility of an opportunistic infection, given the patient's immunocompromised state."
+    },
+    {
+      "ranges": [
+        [
+          10879,
+          11133
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of hypogammaglobulinemia and recurrent infections increases the risk of opportunistic infections, such as Pneumocystis jirovecii pneumonia or toxoplasmosis, although the lack of specific diagnostic findings makes these diagnoses less likely."
+    },
+    {
+      "ranges": [
+        [
+          11135,
+          11286
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory causes, such as sarcoidosis or autoimmune disorders, are also possible, although less likely given the patient's presentation and history."
+    },
+    {
+      "ranges": [
+        [
+          11287,
+          11427
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of multiple enlarged lymph nodes and systemic symptoms, such as fever and night sweats, could suggest an inflammatory etiology."
+    },
+    {
+      "ranges": [
+        [
+          11428,
+          11560
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the lack of specific diagnostic findings, such as granulomas on biopsy or autoantibodies, makes this diagnosis less likely."
+    },
+    {
+      "ranges": [
+        [
+          11850,
+          12011
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Structural causes, such as lymphatic obstruction or vascular malformations, are also possible, although less likely given the patient's presentation and history."
+    },
+    {
+      "ranges": [
+        [
+          12012,
+          12147
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of multiple enlarged lymph nodes, particularly in the right inguinal region, could suggest a possible structural etiology."
+    },
+    {
+      "ranges": [
+        [
+          12148,
+          12273
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the lack of specific imaging or diagnostic findings supporting these diagnoses makes them less likely at this point."
+    },
+    {
+      "ranges": [
+        [
+          12486,
+          12644
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Gynecologic causes, such as ovarian cancer or other gynecologic malignancies, must also be considered, given the patient's history of ovarian surgery and CLL."
+    },
+    {
+      "ranges": [
+        [
+          12645,
+          12833
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the lack of specific symptoms, such as abdominal pain, vaginal discharge, or pelvic mass, and the absence of diagnostic findings supporting these diagnoses, make them less likely."
+    },
+    {
+      "ranges": [
+        [
+          13153,
+          13329
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Systemic causes, such as systemic lupus erythematosus (SLE) or other autoimmune disorders, are also possible, although less likely given the patient's presentation and history."
+    },
+    {
+      "ranges": [
+        [
+          13330,
+          13421
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of fever, night sweats, and lymphadenopathy could suggest a systemic etiology."
+    },
+    {
+      "ranges": [
+        [
+          13422,
+          13560
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the lack of specific diagnostic findings, such as autoantibodies or characteristic skin rashes, makes this diagnosis less likely."
+    },
+    {
+      "ranges": [
+        [
+          13760,
+          13925
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Rare causes, such as Castleman disease or other lymphoproliferative disorders, must also be considered, given the patient's complex medical history and presentation."
+    },
+    {
+      "ranges": [
+        [
+          13926,
+          14057
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of multiple enlarged lymph nodes, systemic symptoms, and a history of CLL raises concern for a possible rare etiology."
+    },
+    {
+      "ranges": [
+        [
+          14058,
+          14236
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the lack of specific diagnostic findings, such as characteristic histopathological features or laboratory abnormalities, makes these diagnoses less likely at this point."
+    },
+    {
+      "ranges": [
+        [
+          14423,
+          14631
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "In terms of pathophysiologic mechanisms, the patient's presentation and history suggest that the CLL may be progressing or transforming, leading to the development of lymphadenopathy, fever, and night sweats."
+    },
+    {
+      "ranges": [
+        [
+          14632,
+          14739
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of monoclonal B cells with an immunophenotype characteristic of CLL supports this possibility."
+    },
+    {
+      "ranges": [
+        [
+          9182,
+          9336
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "However, the absence of large-cell transformation on the core biopsy specimen does not entirely rule out the possibility of transformation in other areas."
+    },
+    {
+      "ranges": [
+        [
+          16844,
+          17045
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's history of multiple treatments for CLL, including chlorambucil, fludarabine, and rituximab, as well as idelalisib, suggests that the disease may be resistant to treatment or transforming."
+    },
+    {
+      "ranges": [
+        [
+          17046,
+          17194
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of hypogammaglobulinemia and recurrent infections also increases the risk of complications, such as infections or autoimmune disorders."
+    },
+    {
+      "ranges": [
+        [
+          15282,
+          15560
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Overall, the patient's presentation and history suggest a complex and multifactorial etiology, with CLL-related complications, malignant causes, infectious causes, inflammatory causes, structural causes, gynecologic causes, systemic causes, and rare causes all being considered."
+    },
+    {
+      "ranges": [
+        [
+          16063,
+          16183
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "urther evaluation and diagnostic testing are necessary to confirm this diagnosis and rule out other possible etiologies."
+    },
+    {
+      "ranges": [
+        [
+          15683,
+          15824
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The leading diagnosis, based on the patient's presentation and history, is a CLL-related complication, such as transformation or progression."
+    },
+    {
+      "ranges": [
+        [
+          15825,
+          16052
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of monoclonal B cells with an immunophenotype characteristic of CLL on flow cytometry and immunohistochemical staining, combined with the patient's history of CLL and multiple treatments, supports this possibility."
+    },
+    {
+      "ranges": [
+        [
+          16053,
+          16183
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, further evaluation and diagnostic testing are necessary to confirm this diagnosis and rule out other possible etiologies."
+    },
+    {
+      "ranges": [
+        [
+          16185,
+          16355
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In terms of weighing evidence for and against each diagnosis, the patient's presentation and history suggest that a CLL-related complication is the most likely diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          17325,
+          17516
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's history of CLL and multiple treatments also suggests that the disease may be progressing or transforming, leading to the development of lymphadenopathy, fever, and night sweats."
+    },
+    {
+      "ranges": [
+        [
+          14632,
+          14739
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of monoclonal B cells with an immunophenotype characteristic of CLL supports this possibility."
+    },
+    {
+      "ranges": [
+        [
+          9182,
+          9336
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, the absence of large-cell transformation on the core biopsy specimen does not entirely rule out the possibility of transformation in other areas."
+    },
+    {
+      "ranges": [
+        [
+          17780,
+          17938
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Further evaluation and diagnostic testing, such as imaging studies and biopsy, are necessary to confirm this diagnosis and rule out other possible etiologies."
+    },
+    {
+      "ranges": [
+        [
+          17940,
+          18217
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "In conclusion, the patient's presentation and history suggest a broad differential diagnosis, with CLL-related complications, malignant causes, infectious causes, inflammatory causes, structural causes, gynecologic causes, systemic causes, and rare causes all being considered."
+    },
+    {
+      "ranges": [
+        [
+          18218,
+          18538
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, the presence of monoclonal B cells with an immunophenotype characteristic of CLL on flow cytometry and immunohistochemical staining, combined with the patient's history of CLL and multiple treatments, suggests that a CLL-related complication, such as transformation or progression, is the most likely diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          18539,
+          18660
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Further evaluation and diagnostic testing are necessary to confirm this diagnosis and rule out other possible etiologies."
+    },
+    {
+      "ranges": [
+        [
+          16844,
+          17045
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's history of multiple treatments for CLL, including chlorambucil, fludarabine, and rituximab, as well as idelalisib, suggests that the disease may be resistant to treatment or transforming."
+    },
+    {
+      "ranges": [
+        [
+          17046,
+          17194
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of hypogammaglobulinemia and recurrent infections also increases the risk of complications, such as infections or autoimmune disorders."
+    },
+    {
+      "ranges": [
+        [
+          17195,
+          17323
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Therefore, it is essential to consider these factors when evaluating the patient's presentation and developing a treatment plan."
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "case": "2019 Case 07__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T13:48:47.406010+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8322,
+          8532
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation of right inguinal lymphadenopathy, fever, and drenching night sweats, in the context of a 27-year history of chronic lymphocytic leukemia (CLL), raises a broad differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8533,
+          8761
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's complex medical history, including multiple treatments for CLL, hypogammaglobulinemia, and recurrent infections, it is essential to consider various malignant, infectious, inflammatory, and structural causes."
+    },
+    {
+      "ranges": [
+        [
+          8885,
+          9022
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's history of CLL, with multiple treatments and periods of remission, suggests that the disease may be active or transforming."
+    },
+    {
+      "ranges": [
+        [
+          9023,
+          9181
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of monoclonal B cells with an immunophenotype characteristic of CLL on flow cytometry and immunohistochemical staining supports this possibility."
+    },
+    {
+      "ranges": [
+        [
+          9593,
+          9801
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of multiple enlarged lymph nodes, including those in the mediastinum and hilar regions, as well as the nodule in the peripheral lung, raises concern for a possible lymphoma or metastatic disease."
+    },
+    {
+      "ranges": [
+        [
+          9802,
+          9923
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the lack of specific imaging or biopsy findings supporting these diagnoses makes them less likely at this point."
+    },
+    {
+      "ranges": [
+        [
+          10278,
+          10456
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Infectious causes, such as abscesses or infected lymph nodes, must also be considered, particularly given the patient's history of hypogammaglobulinemia and recurrent infections."
+    },
+    {
+      "ranges": [
+        [
+          10457,
+          10554
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The presence of fever, night sweats, and lymphadenopathy suggests a possible infectious etiology."
+    },
+    {
+      "ranges": [
+        [
+          10555,
+          10753
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the absence of specific symptoms, such as cough, abdominal pain, or vaginal discharge, and the lack of positive blood cultures or other diagnostic findings, make this diagnosis less likely."
+    },
+    {
+      "ranges": [
+        [
+          14464,
+          14631
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the patient's presentation and history suggest that the CLL may be progressing or transforming, leading to the development of lymphadenopathy, fever, and night sweats."
+    },
+    {
+      "ranges": [
+        [
+          14632,
+          14739
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The presence of monoclonal B cells with an immunophenotype characteristic of CLL supports this possibility."
+    },
+    {
+      "ranges": [
+        [
+          16844,
+          17045
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's history of multiple treatments for CLL, including chlorambucil, fludarabine, and rituximab, as well as idelalisib, suggests that the disease may be resistant to treatment or transforming."
+    },
+    {
+      "ranges": [
+        [
+          17046,
+          17194
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The presence of hypogammaglobulinemia and recurrent infections also increases the risk of complications, such as infections or autoimmune disorders."
+    },
+    {
+      "ranges": [
+        [
+          18218,
+          18538
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the presence of monoclonal B cells with an immunophenotype characteristic of CLL on flow cytometry and immunohistochemical staining, combined with the patient's history of CLL and multiple treatments, suggests that a CLL-related complication, such as transformation or progression, is the most likely diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          18539,
+          18660
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Further evaluation and diagnostic testing are necessary to confirm this diagnosis and rule out other possible etiologies."
+    }
+  ]
+}

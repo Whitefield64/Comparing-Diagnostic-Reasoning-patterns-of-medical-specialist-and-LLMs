@@ -1,0 +1,128 @@
+{
+  "case": "2019 Case 07__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T13:45:36.207041+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8322,
+          8532
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation of right inguinal lymphadenopathy, fever, and drenching night sweats, in the context of a 27-year history of chronic lymphocytic leukemia (CLL), raises a broad differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8533,
+          8761
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's complex medical history, including multiple treatments for CLL, hypogammaglobulinemia, and recurrent infections, it is essential to consider various malignant, infectious, inflammatory, and structural causes."
+    },
+    {
+      "ranges": [
+        [
+          9023,
+          9181
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of monoclonal B cells with an immunophenotype characteristic of CLL on flow cytometry and immunohistochemical staining supports this possibility."
+    },
+    {
+      "ranges": [
+        [
+          9182,
+          9336
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the absence of large-cell transformation on the core biopsy specimen does not entirely rule out the possibility of transformation in other areas."
+    },
+    {
+      "ranges": [
+        [
+          9472,
+          9592
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's history of squamous-cell carcinoma and basal-cell carcinomas increases the risk of secondary malignancies."
+    },
+    {
+      "ranges": [
+        [
+          9924,
+          10066
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "It is also important to consider the possibility of a second primary malignancy, given the patient's history of multiple skin cancers and CLL."
+    },
+    {
+      "ranges": [
+        [
+          9593,
+          9801
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of multiple enlarged lymph nodes, including those in the mediastinum and hilar regions, as well as the nodule in the peripheral lung, raises concern for a possible lymphoma or metastatic disease."
+    },
+    {
+      "ranges": [
+        [
+          16356,
+          16601
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of monoclonal B cells with an immunophenotype characteristic of CLL on flow cytometry and immunohistochemical staining, combined with the patient's history of CLL and multiple treatments, provides strong evidence for this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          17325,
+          17516
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of CLL and multiple treatments also suggests that the disease may be progressing or transforming, leading to the development of lymphadenopathy, fever, and night sweats."
+    },
+    {
+      "ranges": [
+        [
+          17043,
+          17200
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "g. The presence of hypogammaglobulinemia and recurrent infections also increases the risk of complications, such as infections or autoimmune disorders. There"
+    },
+    {
+      "ranges": [
+        [
+          18539,
+          18660
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Further evaluation and diagnostic testing are necessary to confirm this diagnosis and rule out other possible etiologies."
+    }
+  ]
+}

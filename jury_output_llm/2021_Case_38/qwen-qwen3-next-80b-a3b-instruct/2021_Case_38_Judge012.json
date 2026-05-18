@@ -1,0 +1,128 @@
+{
+  "case": "2021 Case 38__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T14:46:58.002126+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7898,
+          8241
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The elevated urinary porphyrins are the pivotal clue — they are not incidental, nor are they a nonspecific marker of liver dysfunction. Their presence demands a reevaluation of the entire clinical picture through the lens of porphyria, specifically acute intermittent porphyria (AIP), which, though rare, is the most likely unifying diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8439,
+          8657
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The enzyme defect leads to accumulation of the neurotoxic precursors δ-aminolevulinic acid (ALA) and porphobilinogen (PBG), which are excreted in excess in the urine and are responsible for the characteristic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          10385,
+          10611
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "ALA is structurally similar to the inhibitory neurotransmitter GABA and can act as a false neurotransmitter, interfering with neuronal signaling. It also induces oxidative stress and disrupts mitochondrial function in neurons."
+    },
+    {
+      "ranges": [
+        [
+          9112,
+          9353
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of findings on endoscopy, CT, and MRCP in the early phase is consistent with AIP, as these imaging modalities are typically unremarkable during acute attacks unless secondary complications such as ileus or bowel distension occur."
+    },
+    {
+      "ranges": [
+        [
+          10977,
+          11159
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that the psychiatric symptoms resolved with sedation but cognitive deficits persisted is classic — the underlying neurotoxic insult remains even as acute agitation subsides."
+    },
+    {
+      "ranges": [
+        [
+          8658,
+          8799
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The classic triad of AIP includes abdominal pain, neuropsychiatric manifestations, and autonomic dysfunction — all of which are present here."
+    },
+    {
+      "ranges": [
+        [
+          13783,
+          14106
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s attempt to follow a ketogenic diet — high in fat and protein, low in carbohydrates — may have been catastrophic. Carbohydrate restriction is a known trigger for acute porphyria attacks because low glucose availability reduces the inhibition of hepatic ALA synthase, the rate-limiting enzyme in heme synthesis."
+    },
+    {
+      "ranges": [
+        [
+          19014,
+          19209
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the diagnosis of acute intermittent porphyria is strongly supported by the triad of abdominal pain, neuropsychiatric symptoms, and hyponatremia, confirmed by markedly elevated urinary porphyrins."
+    },
+    {
+      "ranges": [
+        [
+          15132,
+          15341
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Other differential diagnoses must be considered and ruled out. Gastrointestinal malignancies, particularly gastric or small-bowel adenocarcinoma or lymphoma, can present with weight loss, anorexia, and anemia."
+    },
+    {
+      "ranges": [
+        [
+          15435,
+          15606
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The absence of occult bleeding on stool testing (implied by lack of mention of melena or occult blood positivity) and the lack of a palpable mass make malignancy unlikely."
+    },
+    {
+      "ranges": [
+        [
+          19684,
+          19927
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case exemplifies how porphyria, though rare, must be considered in any elderly patient presenting with unexplained abdominal pain, neuropsychiatric symptoms, and porphyrinuria — especially when conventional investigations are unrevealing."
+    }
+  ]
+}

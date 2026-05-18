@@ -1,0 +1,40 @@
+{
+  "case": "2021 Case 38__openai-gpt-oss-120b.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T14:42:02.912085+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          29122,
+          29363
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "only condition that simultaneously accounts for the urinary porphyrin elevation, hyponatremia, neuropsychiatric symptoms, abdominal pain, and basophilic stippling** is an **acute hepatic porphyria**—most plausibly **acute intermittent porphy"
+    },
+    {
+      "ranges": [
+        [
+          33546,
+          33906
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s presentation is best explained by a **dual pathology**:\n\n1. **Acute intermittent porphyria (or a related acute hepatic porphyria)**—the dominant systemic process, manifesting as recurrent, severe abdominal pain, constipation, profound hyponatremia, neurocognitive decline, suicidal ideation, basophilic stippling, and markedly elevated urinary po"
+    },
+    {
+      "ranges": [
+        [
+          31476,
+          31703
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If acute intermittent porphyria is the leading diagnosis**, the therapeutic priorities are:\n\n1. **Hemin infusion** (administered in this case) to down‑regulate ALA‑synthase and halt the accumulation of neurotoxic porphyrin prec"
+    }
+  ]
+}

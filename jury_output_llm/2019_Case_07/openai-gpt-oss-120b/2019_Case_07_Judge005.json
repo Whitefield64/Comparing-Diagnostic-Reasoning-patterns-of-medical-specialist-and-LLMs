@@ -1,0 +1,95 @@
+{
+  "case": "2019 Case 07__openai-gpt-oss-120b.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T13:54:44.678332+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28108,
+          28244
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "most compelling explanation** is a **superimposed infectious process (bacterial or mycobacterial) within a CLL‑infiltrated inguinal node"
+    },
+    {
+      "ranges": [
+        [
+          31632,
+          31812
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "This hypothesis best reconciles the rapid nodal enlargement, tenderness, central necrosis, intense FDG uptake, and systemic B‑symptoms in a patient with profound immune dysfunction"
+    },
+    {
+      "ranges": [
+        [
+          31814,
+          32006
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The necrotic node likely harbors a bacterial abscess (e.g., Staphylococcus aureus) or a mycobacterial focus; the dominant CLL infiltrate accounts for the immunophenotype seen on flow cytometry"
+    },
+    {
+      "ranges": [
+        [
+          31001,
+          31142
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If mycobacterial infection is strongly suspected (e.g., positive IGRA, exposure history), add **rifampin + isoniazid** pending definitive tes"
+    },
+    {
+      "ranges": [
+        [
+          29472,
+          29562
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Request **Gram stain, bacterial culture, and anaerobic culture** on any residual core mate"
+    },
+    {
+      "ranges": [
+        [
+          29575,
+          29681
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Perform **acid‑fast bacilli (Ziehl‑Neelsen) staining** and **mycobacterial PCR** on the biopsy to detect T"
+    },
+    {
+      "ranges": [
+        [
+          8608,
+          8786
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The problem is compounded by a long history of immune dysregulation (hypogammaglobulinemia, repeated chemotherapy, and biologic therapy) and multiple prior cutaneous malignancies"
+    },
+    {
+      "ranges": [
+        [
+          8315,
+          8606
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The clinical picture of an elderly woman with chronic lymphocytic leukemia (CLL) who presents with a rapidly enlarging, tender right inguinal mass, systemic “B‑symptoms” (daily fever, drenching night sweats, weight loss), and a high‑grade fluorodeoxyglucose (FDG) signal on PET‑CT is complex"
+    }
+  ]
+}

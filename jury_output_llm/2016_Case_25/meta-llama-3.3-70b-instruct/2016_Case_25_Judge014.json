@@ -1,0 +1,183 @@
+{
+  "case": "2016 Case 25__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T13:29:46.136158+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3265,
+          3469
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation of rectal pain and bleeding, particularly the bright red blood on the toilet paper after wiping, suggests a differential diagnosis that encompasses various anorectal conditions."
+    },
+    {
+      "ranges": [
+        [
+          3470,
+          3651
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Initially, the presence of a tender external hemorrhoid and the subsequent finding of bleeding hemorrhoids around the anal opening point towards a diagnosis of hemorrhoidal disease."
+    },
+    {
+      "ranges": [
+        [
+          3943,
+          4102
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "One of the primary considerations in this case is the possibility of anorectal infections, given the patient's history of a recent sexual encounter with a man."
+    },
+    {
+      "ranges": [
+        [
+          4629,
+          4738
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another important consideration is the diagnosis of anal fissures, which are tears in the lining of the anus."
+    },
+    {
+      "ranges": [
+        [
+          5125,
+          5286
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory bowel disease (IBD), including conditions such as ulcerative proctitis and Crohn's disease, should also be considered in the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          5574,
+          5741
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other conditions that should be considered in the differential diagnosis include proctitis, which is an inflammation of the rectum, and solitary rectal ulcer syndrome."
+    },
+    {
+      "ranges": [
+        [
+          6056,
+          6192
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In addition to these anorectal conditions, it is also important to consider systemic conditions that may cause rectal bleeding and pain."
+    },
+    {
+      "ranges": [
+        [
+          13258,
+          13422
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of mild-to-moderate mucosal inflammation of the distal rectum, as seen on flexible sigmoidoscopy, is an important finding that supports this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          7628,
+          7824
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Further evaluation and testing, such as a complete blood count, stool tests for infection, and possibly a colonoscopy, may be necessary to determine the underlying cause of the patient's symptoms."
+    },
+    {
+      "ranges": [
+        [
+          8835,
+          9033
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The diagnosis of anal fissures is supported by the patient's symptoms of painful bowel movements and the finding of large, superficial anal fissures at the anterior and posterior midline anal verge."
+    },
+    {
+      "ranges": [
+        [
+          4245,
+          4515
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "mmation. The patient's negative tests for HIV and other viruses do not entirely rule out the possibility of an STI, as the window period for seroconversion may not have been reached at the time of testing, or the patient may have been infected with a different pathogen."
+    },
+    {
+      "ranges": [
+        [
+          13064,
+          13257
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's symptoms and findings suggest that the diagnosis may be related to an inflammatory or infectious condition, rather than a purely structural condition such as hemorrhoidal disease."
+    },
+    {
+      "ranges": [
+        [
+          11775,
+          11925
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "It is also important to consider the potential for other conditions that may cause rectal pain and bleeding, such as rectal cancer or rectal lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          9147,
+          9336
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's symptoms of rectal bleeding and pain, as well as the finding of mild-to-moderate mucosal inflammation of the distal rectum, are also consistent with the diagnosis of anal fiss"
+    },
+    {
+      "ranges": [
+        [
+          8580,
+          8833
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's history, physical examination, and findings on sigmoidoscopy all contribute to the differential diagnosis, and highlight the importance of considering a wide range of possible causes when evaluating a patient with rectal pain and bleeding."
+    },
+    {
+      "ranges": [
+        [
+          12050,
+          12195
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's age and lack of other symptoms make these diagnoses less likely, but they should still be considered in the differential diagnosis."
+    }
+  ]
+}

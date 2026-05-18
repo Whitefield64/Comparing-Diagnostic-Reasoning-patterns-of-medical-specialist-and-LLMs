@@ -1,0 +1,161 @@
+{
+  "case": "2016 Case 25__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T13:39:39.622392+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4229,
+          4355
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most straightforward and statistically most likely diagnosis is chronic anal fissure with associated hemorrhoidal disease."
+    },
+    {
+      "ranges": [
+        [
+          13680,
+          13908
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s sexual history, the timing of symptom onset, the refractory nature of the fissures and inflammation, and the lack of response to standard hemorrhoid/fissure therapy all point strongly toward an infectious etiology."
+    },
+    {
+      "ranges": [
+        [
+          6582,
+          6771
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "LGV proctitis can mimic inflammatory bowel disease (IBD) or nonspecific proctitis and may be associated with sentinel tags and fissure-like lesions due to chronic inflammation and fibrosis."
+    },
+    {
+      "ranges": [
+        [
+          12837,
+          12917
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The presence of sentinel tags could represent a reaction to a subclinical tumor."
+    },
+    {
+      "ranges": [
+        [
+          6930,
+          7094
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The patchy erythema and edema seen on sigmoidoscopy are consistent with LGV-induced mucosal inflammation, and the absence of systemic symptoms does not rule it out."
+    },
+    {
+      "ranges": [
+        [
+          14094,
+          14153
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The patchy erythema and edema on sigmoidoscopy are classic."
+    },
+    {
+      "ranges": [
+        [
+          4964,
+          5062
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the persistence of symptoms for over 10 weeks despite appropriate conservative therapy is unusual."
+    },
+    {
+      "ranges": [
+        [
+          5462,
+          5717
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that topical hydrocortisone provided only minimal relief raises the possibility that the underlying pathology is not purely mechanical or inflammatory in the typical sense, but may be driven by an alternative etiology that mimics fissure disease."
+    },
+    {
+      "ranges": [
+        [
+          11587,
+          11806
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Biopsy of the inflamed mucosa during sigmoidoscopy would be critical here: if granulomas are present, Crohn’s is strongly supported; if crypt architectural distortion and basal plasmacytosis are seen, UC is more likely."
+    },
+    {
+      "ranges": [
+        [
+          3684,
+          3887
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of systemic symptoms such as fever, weight loss, or abdominal pain, along with negative serologies for HIV, hepatitis B, and hepatitis C, initially supports a localized, non-systemic process."
+    },
+    {
+      "ranges": [
+        [
+          15166,
+          15365
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient’s clinical course underscores the importance of considering STIs in all patients with persistent anorectal symptoms, regardless of HIV status or the apparent benign appearance of lesions."
+    },
+    {
+      "ranges": [
+        [
+          12156,
+          12307
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": ", the patient’s symptoms—painful defecation, bright red blood on wiping, and absence of weight loss or change in bowel habits—make malignancy unlikely."
+    },
+    {
+      "ranges": [
+        [
+          14350,
+          14496
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s negative HIV test may have led to a false sense of security regarding STIs, but LGV is a distinct entity requiring specific testing."
+    },
+    {
+      "ranges": [
+        [
+          13022,
+          13112
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "the patient’s sexual history elevates this possibility beyond mere statistical likelihood."
+    }
+  ]
+}

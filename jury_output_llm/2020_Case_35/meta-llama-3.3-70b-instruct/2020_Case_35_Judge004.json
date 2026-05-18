@@ -1,0 +1,216 @@
+{
+  "case": "2020 Case 35__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T14:15:48.106270+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8952,
+          9248
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with obtundation, symmetric increased attenuation in the basal ganglia, thalami, and dentate nuclei on computed tomography (CT) of the head, and extensive signal loss in these areas on magnetic resonance imaging (MRI) of the head, raises a broad differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9540,
+          9720
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "nfectious causes, such as meningitis or encephalitis, must be considered, given the patient's presentation with obtundation and the findings on cerebrospinal fluid (CSF) analysis. "
+    },
+    {
+      "ranges": [
+        [
+          10138,
+          10341
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Metabolic and electrolyte disorders, such as diabetic ketoacidosis or hyperosmolar hyperglycemic state, could also contribute to the patient's presentation, given her history of type 1 diabetes mellitus."
+    },
+    {
+      "ranges": [
+        [
+          10503,
+          10672
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of protein, glucose, and ketones in the urinalysis could be related to her diabetes, but the specific gravity of the urine was high, suggesting dehydration."
+    },
+    {
+      "ranges": [
+        [
+          11022,
+          11203
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Toxic or metabolic causes, such as carbon monoxide poisoning or methemoglobinemia, could also be considered, given the patient's symptoms and the findings on CT and MRI of the head."
+    },
+    {
+      "ranges": [
+        [
+          11371,
+          11584
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's symptoms of confusion, suspicious and paranoid beliefs, and difficulty with basic diabetes management, which progressed over several months, suggest a possible neurodegenerative or dementing illness."
+    },
+    {
+      "ranges": [
+        [
+          12381,
+          12613
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history, symptoms, and findings on imaging studies, a diagnosis of mitochondrial disorder, such as mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes (MELAS) syndrome, could be considered."
+    },
+    {
+      "ranges": [
+        [
+          12769,
+          12940
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another possible diagnosis is a disorder of metal metabolism, such as Wilson's disease or aceruloplasminemia, given the patient's symptoms and findings on imaging studies."
+    },
+    {
+      "ranges": [
+        [
+          13222,
+          13369
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's history of type 1 diabetes mellitus and the presence of diabetic retinopathy suggest a possible diagnosis of diabetic encephalopathy."
+    },
+    {
+      "ranges": [
+        [
+          13514,
+          13640
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In addition to these possibilities, other diagnoses, such as vascular dementia or multi-infarct dementia, could be considered."
+    },
+    {
+      "ranges": [
+        [
+          14020,
+          14261
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's symptoms of confusion, suspicious and paranoid beliefs, and difficulty with basic diabetes management, which progressed over several months, also suggest a possible psychiatric diagnosis, such as depression or anxiety disorder."
+    },
+    {
+      "ranges": [
+        [
+          14447,
+          14611
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's history of chronic lymphocytic leukemia and treatment with rituximab raises the possibility of a paraneoplastic syndrome, such as limbic encephalitis."
+    },
+    {
+      "ranges": [
+        [
+          12941,
+          13066
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of abnormal signal in the basal ganglia, thalami, and dentate nuclei on MRI is consistent with these conditions."
+    },
+    {
+      "ranges": [
+        [
+          9720,
+          9930
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the negative results of CSF tests for herpes simplex virus types 1 and 2 DNA, syphilis, and other infectious agents, as well as the lack of growth on CSF cultures, make an infectious cause less likely."
+    },
+    {
+      "ranges": [
+        [
+          9931,
+          10136
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The administration of vancomycin, ceftriaxone, and acyclovir, followed by the discontinuation of these medications due to negative test results, further supports the consideration of non-infectious causes."
+    },
+    {
+      "ranges": [
+        [
+          11585,
+          11752
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's Mini–Mental State Examination (MMSE) score of 24, with errors in short-term object recall, attention, and calculation, further supports this possibility."
+    },
+    {
+      "ranges": [
+        [
+          15940,
+          16161
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The findings on CT and MRI of the head, including symmetric increased attenuation in the basal ganglia, thalami, and dentate nuclei, and extensive signal loss in these areas, are highly suggestive of a specific diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          15363,
+          15572
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "While other diagnoses, such as mitochondrial disorder or diabetic encephalopathy, are possible, the patient's history, symptoms, and findings on imaging studies make aceruloplasminemia a more likely diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          20925,
+          21158
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history, symptoms, and findings on imaging studies are consistent with a diagnosis of aceruloplasminemia. This condition is characterized by a deficiency of ceruloplasmin, a protein that plays a critical role in iron me"
+    }
+  ]
+}

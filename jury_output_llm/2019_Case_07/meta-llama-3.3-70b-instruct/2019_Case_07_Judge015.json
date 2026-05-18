@@ -1,0 +1,128 @@
+{
+  "case": "2019 Case 07__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T13:51:23.916248+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8322,
+          8532
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation of right inguinal lymphadenopathy, fever, and drenching night sweats, in the context of a 27-year history of chronic lymphocytic leukemia (CLL), raises a broad differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8533,
+          8761
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's complex medical history, including multiple treatments for CLL, hypogammaglobulinemia, and recurrent infections, it is essential to consider various malignant, infectious, inflammatory, and structural causes."
+    },
+    {
+      "ranges": [
+        [
+          9023,
+          9181
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of monoclonal B cells with an immunophenotype characteristic of CLL on flow cytometry and immunohistochemical staining supports this possibility."
+    },
+    {
+      "ranges": [
+        [
+          9182,
+          9336
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the absence of large-cell transformation on the core biopsy specimen does not entirely rule out the possibility of transformation in other areas."
+    },
+    {
+      "ranges": [
+        [
+          9472,
+          9592
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's history of squamous-cell carcinoma and basal-cell carcinomas increases the risk of secondary malignancies."
+    },
+    {
+      "ranges": [
+        [
+          9924,
+          10066
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "It is also important to consider the possibility of a second primary malignancy, given the patient's history of multiple skin cancers and CLL."
+    },
+    {
+      "ranges": [
+        [
+          10067,
+          10276
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of a nodule in the peripheral lung, as seen on computed tomography (CT), could suggest a possible primary lung malignancy, although the lack of specific diagnostic findings makes this less likely."
+    },
+    {
+      "ranges": [
+        [
+          15291,
+          15560
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the patient's presentation and history suggest a complex and multifactorial etiology, with CLL-related complications, malignant causes, infectious causes, inflammatory causes, structural causes, gynecologic causes, systemic causes, and rare causes all being considered."
+    },
+    {
+      "ranges": [
+        [
+          18218,
+          18538
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, the presence of monoclonal B cells with an immunophenotype characteristic of CLL on flow cytometry and immunohistochemical staining, combined with the patient's history of CLL and multiple treatments, suggests that a CLL-related complication, such as transformation or progression, is the most likely diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          16844,
+          17045
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's history of multiple treatments for CLL, including chlorambucil, fludarabine, and rituximab, as well as idelalisib, suggests that the disease may be resistant to treatment or transforming."
+    },
+    {
+      "ranges": [
+        [
+          17046,
+          17194
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The presence of hypogammaglobulinemia and recurrent infections also increases the risk of complications, such as infections or autoimmune disorders."
+    }
+  ]
+}

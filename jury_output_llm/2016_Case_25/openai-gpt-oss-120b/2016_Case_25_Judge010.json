@@ -1,0 +1,73 @@
+{
+  "case": "2016 Case 25__openai-gpt-oss-120b.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T13:35:30.904169+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3753,
+          4193
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis must incorporate common anorectal disorders (anal fissure, hemorrhoids), infectious etiologies (sexually transmitted proctitis), inflammatory bowel disease (ulcerative proctitis or Crohn’s proctitis), neoplastic processes (anal squamous cell carcinoma, rectal adenocarcinoma), and less frequent entities (solitary rectal ulcer syndrome, ischemic or medication‑related colitis, vasculitic or autoimmune disorders)."
+    },
+    {
+      "ranges": [
+        [
+          4195,
+          4440
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Each possibility will be examined in turn, weighing the supporting and opposing clinical data, pathophysiologic plausibility, and epidemiologic considerations, with the goal of identifying the most likely cause(s) of this patient’s presentation."
+    },
+    {
+      "ranges": [
+        [
+          6076,
+          6378
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The anal canal is supplied by the superior, middle, and inferior rectal arteries, creating a watershed area at the distal anal canal.  Ischemia and sphincter spasm at the site of a mucosal tear impair healing, establishing a vicious cycle of pain → sphincter spasm → reduced perfusion → delayed healing"
+    },
+    {
+      "ranges": [
+        [
+          11001,
+          11180
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The lack of systemic symptoms (fever, malaise) and the relatively mild endoscopic appearance argue against classic LGV, which usually shows more pronounced ulceration and exudate."
+    },
+    {
+      "ranges": [
+        [
+          29265,
+          29421
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The **dominant pathology**—a chronic anal fissure with sentinel skin tags—explains the hallmark symptoms of **defecatory pain** and **bright‑red bleeding**."
+    },
+    {
+      "ranges": [
+        [
+          19497,
+          19725
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "s, the clinical and endoscopic findings argue against a neoplastic etiology at this stage.  A high‑resolution anoscopic examination with biopsy of any suspicious area would be prudent if symptoms persist despite medical therapy."
+    }
+  ]
+}

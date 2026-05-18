@@ -1,0 +1,117 @@
+{
+  "case": "2016 Case 25__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T13:38:05.361147+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4229,
+          4355
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most straightforward and statistically most likely diagnosis is chronic anal fissure with associated hemorrhoidal disease."
+    },
+    {
+      "ranges": [
+        [
+          4964,
+          5062
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the persistence of symptoms for over 10 weeks despite appropriate conservative therapy is unusual."
+    },
+    {
+      "ranges": [
+        [
+          5462,
+          5717
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that topical hydrocortisone provided only minimal relief raises the possibility that the underlying pathology is not purely mechanical or inflammatory in the typical sense, but may be driven by an alternative etiology that mimics fissure disease."
+    },
+    {
+      "ranges": [
+        [
+          5719,
+          5855
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "One critical consideration is infectious etiologies, particularly sexually transmitted infections (STIs) involving the anorectal mucosa."
+    },
+    {
+      "ranges": [
+        [
+          6341,
+          6581
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Lymphogranuloma venereum (LGV), a highly invasive serovar of *C. trachomatis*, can present with proctitis characterized by rectal pain, bleeding, tenesmus, and mucosal inflammation—often with a delayed onset of several weeks after exposure."
+    },
+    {
+      "ranges": [
+        [
+          11587,
+          11806
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Biopsy of the inflamed mucosa during sigmoidoscopy would be critical here: if granulomas are present, Crohn’s is strongly supported; if crypt architectural distortion and basal plasmacytosis are seen, UC is more likely."
+    },
+    {
+      "ranges": [
+        [
+          11226,
+          11372
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient’s age, lack of family history of IBD, and absence of systemic symptoms or abdominal pain make Crohn’s less likely, but not impossible."
+    },
+    {
+      "ranges": [
+        [
+          6930,
+          7094
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patchy erythema and edema seen on sigmoidoscopy are consistent with LGV-induced mucosal inflammation, and the absence of systemic symptoms does not rule it out."
+    },
+    {
+      "ranges": [
+        [
+          12158,
+          12307
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the patient’s symptoms—painful defecation, bright red blood on wiping, and absence of weight loss or change in bowel habits—make malignancy unlikely."
+    },
+    {
+      "ranges": [
+        [
+          15166,
+          15391
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient’s clinical course underscores the importance of considering STIs in all patients with persistent anorectal symptoms, regardless of HIV status or the apparent benign appearance of lesions. A targeted workup with re"
+    }
+  ]
+}

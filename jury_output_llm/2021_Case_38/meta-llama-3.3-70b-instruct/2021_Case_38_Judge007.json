@@ -1,0 +1,139 @@
+{
+  "case": "2021 Case 38__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T14:32:00.178537+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          6978,
+          7253
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's complex presentation of abdominal pain, weight loss, memory impairment, and suicidal ideation, along with laboratory and imaging findings, suggests a multifaceted diagnosis that could involve malignant, infectious, inflammatory, structural, and systemic causes."
+    },
+    {
+      "ranges": [
+        [
+          7254,
+          7516
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Initially, the differential diagnosis should consider common causes of abdominal pain and weight loss, such as gastrointestinal malignancies, chronic infections (e.g., tuberculosis), inflammatory bowel disease (IBD), and structural issues like bowel obstruction."
+    },
+    {
+      "ranges": [
+        [
+          10055,
+          10271
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's symptoms of abdominal pain, constipation, and vomiting are consistent with a bowel obstruction, and the resolution of these symptoms following surgical intervention would further support this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11138,
+          11462
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of normocytic anemia, elevated bilirubin, and the findings on the peripheral-blood smear (normochromic red cells with occasional burr cells) could be related to the patient's underlying condition, possibly indicating a component of hemolysis or a disorder affecting the bone marrow or red blood cell production."
+    },
+    {
+      "ranges": [
+        [
+          7795,
+          7918
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the absence of a mass or stricture on surgical exploration reduces the likelihood of a primary gastrointestinal malignancy."
+    },
+    {
+      "ranges": [
+        [
+          7919,
+          8046
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Metastatic disease could still be a consideration, but the lack of specific findings on imaging studies makes this less likely."
+    },
+    {
+      "ranges": [
+        [
+          9570,
+          9802
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The structural cause of bowel obstruction is strongly supported by the imaging findings of dilated, fluid-filled loops of small bowel, air–fluid levels, and an abrupt transition point, which are classic for a mechanical obstruction."
+    },
+    {
+      "ranges": [
+        [
+          10775,
+          10942
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's response to hemin administration supports this diagnosis, as hemin is used to treat acute porphyrias by reducing the production of toxic heme precursors."
+    },
+    {
+      "ranges": [
+        [
+          8609,
+          8801
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the patient's symptoms and laboratory findings do not align closely with common infectious diseases that cause abdominal pain and weight loss, such as gastrointestinal infections or abscesses."
+    },
+    {
+      "ranges": [
+        [
+          9110,
+          9409
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "While it is possible for IBD to present with constipation, especially if there is a significant stricture or narrowing of the bowel lumen, the lack of other supportive findings (such as inflammatory markers in the blood or characteristic endoscopic lesions) reduces the likelihood of this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10386,
+          10569
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The elevated urinary porphyrin levels are particularly noteworthy, as they suggest a diagnosis of porphyria, a group of disorders that result from defects in the biosynthesis of heme."
+    },
+    {
+      "ranges": [
+        [
+          16474,
+          16573
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "the patient's case is complex and multifaceted, involving both physical and psychiatric components."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "case": "2020 Case 35__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T14:27:36.947012+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          19458,
+          19685
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most plausible unifying diagnosis is a metabolic encephalopathy secondary to manganese toxicity, likely secondary to chronic liver dysfunction from an occult cause, or possibly due to a genetic disorder of metal metabolism."
+    },
+    {
+      "ranges": [
+        [
+          21379,
+          21542
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling and likely diagnosis, given the totality of the clinical and radiologic findings, is **Wilson disease with late-onset, atypical presentation**."
+    },
+    {
+      "ranges": [
+        [
+          11624,
+          11862
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient’s chronic anemia raises the possibility of iron metabolism disorders, which may have downstream effects on manganese homeostasis, as both metals share transport pathways via divalent metal transporter 1 (DMT1) and ferroportin."
+    },
+    {
+      "ranges": [
+        [
+          23603,
+          23704
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hyperglycemia and ketonuria may have been a stress response to the encephalopathy, not the cause."
+    },
+    {
+      "ranges": [
+        [
+          22444,
+          22539
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If these were low ceruloplasmin and elevated urinary copper, Wilson disease would be confirmed."
+    },
+    {
+      "ranges": [
+        [
+          10516,
+          10667
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "t has no known liver disease—her liver function tests are normal, and there is no history of cirrhosis, portal hypertension, or portosystemic shunting."
+    },
+    {
+      "ranges": [
+        [
+          9840,
+          10103
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The differential diagnosis must be approached systematically, considering malignant, metabolic, autoimmune, neurodegenerative, and rare toxic causes, while rigorously excluding common mimics such as infectious encephalitis, vascular events, or structural lesions."
+    },
+    {
+      "ranges": [
+        [
+          22248,
+          22379
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The key diagnostic test that was not performed but would be definitive is serum ceruloplasmin and 24-hour urinary copper excretion."
+    },
+    {
+      "ranges": [
+        [
+          15336,
+          15641
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This pattern—slowly progressive cognitive decline with behavioral disinhibition, executive dysfunction, and visuomotor deterioration—is characteristic of neurodegenerative dementias, particularly frontotemporal dementia (FTD) variants, such as the behavioral variant (bvFTD) or corticobasal syndrome (CBS)"
+    },
+    {
+      "ranges": [
+        [
+          16438,
+          16577
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, some atypical variants, such as the VV2 subtype or the newer “multisystemic” prion diseases, can present with prolonged prodromes."
+    }
+  ]
+}

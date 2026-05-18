@@ -1,0 +1,106 @@
+{
+  "case": "2020 Case 35__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T14:25:21.259261+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          19458,
+          19685
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most plausible unifying diagnosis is a metabolic encephalopathy secondary to manganese toxicity, likely secondary to chronic liver dysfunction from an occult cause, or possibly due to a genetic disorder of metal metabolism."
+    },
+    {
+      "ranges": [
+        [
+          19748,
+          19918
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another possibility is a disorder of copper metabolism, such as Wilson disease, which can present with basal ganglia lesions, psychiatric symptoms, and cognitive decline."
+    },
+    {
+      "ranges": [
+        [
+          20789,
+          21039
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Alternatively, the patient may have a rare inherited neurodegenerative disorder with autosomal recessive inheritance, such as neurodegeneration with brain iron accumulation (NBIA), particularly pantothenate kinase-associated neurodegeneration (PKAN)."
+    },
+    {
+      "ranges": [
+        [
+          20318,
+          20402
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of chronic anemia could reflect hemolysis, a feature of Wilson disease."
+    },
+    {
+      "ranges": [
+        [
+          21959,
+          22114
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s age, while atypical, does not exclude Wilson disease, particularly in women with milder mutations or those who have had partial compensation."
+    },
+    {
+      "ranges": [
+        [
+          22444,
+          22539
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If these were low ceruloplasmin and elevated urinary copper, Wilson disease would be confirmed."
+    },
+    {
+      "ranges": [
+        [
+          21543,
+          21895
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The symmetric basal ganglia hypointensity on susceptibility MRI, the progressive cognitive and behavioral decline over two years, the absence of infectious or neoplastic etiologies, the lack of response to antibiotics, and the normal liver function tests (which can be misleading in early or compensated Wilson disease) all point toward this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          15336,
+          15641
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "This pattern—slowly progressive cognitive decline with behavioral disinhibition, executive dysfunction, and visuomotor deterioration—is characteristic of neurodegenerative dementias, particularly frontotemporal dementia (FTD) variants, such as the behavioral variant (bvFTD) or corticobasal syndrome (CBS)"
+    },
+    {
+      "ranges": [
+        [
+          22971,
+          23166
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the symmetry, the lack of infectious or neoplastic causes, the non-responsive nature to standard therapies, and the insidious progression, the most probable diagnosis is **Wilson disease**."
+    }
+  ]
+}
