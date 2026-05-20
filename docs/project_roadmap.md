@@ -157,89 +157,128 @@ The immediate priority is to generate a reliable comparative dataset:
 - LLM-generated differential diagnosis reasoning, labeled by the same jury;
 - comparable distributions of reasoning types across both groups.
 
-## 6. Next Major Phase: Generate LLM Differential Diagnoses
+## 6. LLM Differential Diagnosis Generation
 
-The next stage is to make LLMs generate their own differential diagnoses for each clinical case.
+### 6.1 Design Decision: Input Restriction
 
-For each case, the system should take only the Presentation of Case as input and ask multiple models to produce a differential diagnosis. The generated output should be a reasoning trace comparable to the human expert discussion.
+The generation step gives each model only the `## Presentation of Case` section. The model never sees the human expert discussion. This ensures that the generated reasoning is independent of the reference and that any differences observed in the comparison reflect genuine differences in how humans and LLMs reason, not imitation.
 
-The planned setup is:
+The generated output must be a free-form differential diagnosis discussion structurally comparable to the human-written reasoning sections. Models are not asked to produce a structured list or a summary. They are asked to reason through the case as a clinician would.
 
-- 32 source cases from `cases/`;
-- 3 differential diagnosis generations per case;
-- 3 different LLMs, if feasible;
-- each model receives the Presentation of Case;
-- each model returns a differential diagnosis with reasoning.
+### 6.2 Model Selection
 
-The generated cases should be stored in a new folder, tentatively named `cases_llm/`.
+Three models were selected for generation, all accessed through the NVIDIA Inference Microservices API:
 
-This folder should mirror the structure of `cases/`, but replace the human-written differential diagnosis section with the model-generated differential diagnosis.
+| Model identifier | Short name |
+|---|---|
+| `meta/llama-3.3-70b-instruct` | Llama 70B |
+| `openai/gpt-oss-120b` | GPT 120B |
+| `qwen/qwen3-next-80b-a3b-instruct` | Qwen 80B |
 
-Conceptually:
+These three were chosen after a broader evaluation of available catalog models. Several alternatives were ruled out during testing: `mistralai/mixtral-8x22b-instruct-v0.1` consistently returned outputs that were too short; `google/gemma-4-31b-it` and `deepseek-ai/deepseek-v4-pro` timed out on long-form generation; `Palmyra` and `Jamba` endpoints returned account-level errors.
+
+The three selected models represent different training lineages (Meta, OpenAI, Alibaba/Qwen) and different parameter scales, which gives the comparison structural diversity without introducing low-quality outputs.
+
+### 6.3 Output Structure
+
+The generated cases are stored in `cases_llm/`. Each case gets its own folder, and within that folder there is one file per model:
 
 ```text
-cases/
-    2003 Case 21.md
-    2016 Case 25.md
-    ...
-
 cases_llm/
-    2003 Case 21/
-        2003 Case 21_ModelA.md
-        2003 Case 21_ModelB.md
-        2003 Case 21_ModelC.md
-    2016 Case 25/
-        2016 Case 25_ModelA.md
-        2016 Case 25_ModelB.md
-        2016 Case 25_ModelC.md
+    1990 Case 19/
+        1990 Case 19__meta-llama-3.3-70b-instruct.md
+        1990 Case 19__openai-gpt-oss-120b.md
+        1990 Case 19__qwen-qwen3-next-80b-a3b-instruct.md
+    1991 Case 14/
+        ...
 ```
 
-The exact naming convention can still be adjusted, but the structure should preserve the original case identity and the model identity.
+Each output file is a complete markdown document that contains the original case title, the original Presentation of Case (copied verbatim), and the model-generated `## Differential Diagnosis` section. The title and presentation are added by the local writer module, not by the model. This structure makes each file readable as a stand-alone case and compatible with the downstream jury annotation pipeline without any modifications.
 
-## 7. Next Pipeline Extension: Label LLM-Generated Reasoning
+### 6.4 Generation Parameters
 
-Once the LLM-generated differential diagnoses exist, they should be passed through the same jury annotation system.
+The generation pipeline uses a temperature of 0.7 and a maximum of 8192 output tokens. A minimum word count of 1400 words per generation is enforced, with one expansion attempt if the first generation falls short. This threshold ensures that generated outputs are comparable in length and depth to the human-written discussions.
 
-This will produce a new output folder, tentatively named `jury_output_llm/`, analogous to the current `jury_output/` folder.
+The generation module is implemented in `llm_generation/` and documented in `llm_generation/README.md`.
 
-Expected structure:
+Final output: 32 cases × 3 models = **96 generated differential diagnosis documents**.
+
+## 7. Jury Annotation of LLM-Generated Cases
+
+### 7.1 Design Principle: Same Classifier, Same Prompt
+
+The LLM-generated differential diagnoses are annotated by the exact same jury system used for the human-written cases. The taxonomy, the jury prompt, the few-shot examples, the number of judges (15), and the output schema are all unchanged. This symmetry is essential for the comparison to be fair.
+
+### 7.2 Output Structure
+
+The jury outputs for LLM-generated cases are stored in `jury_output_llm/`. The structure mirrors `jury_output/`, with an additional nesting level for the model identity:
 
 ```text
 jury_output_llm/
-    2003_Case_21_ModelA/
-        2003_Case_21_ModelA_Judge001.json
-        ...
-        2003_Case_21_ModelA_Judge015.json
-        2003_Case_21_ModelA_jury_summary.json
+    1990_Case_19/
+        meta-llama-3.3-70b-instruct/
+            1990_Case_19_Judge001.json
+            ...
+            1990_Case_19_Judge015.json
+            1990_Case_19_jury_summary.json
+        openai-gpt-oss-120b/
+            ...
+        qwen-qwen3-next-80b-a3b-instruct/
+            ...
 ```
 
-This step is critical because it keeps the comparison fair: both human-written reasoning and LLM-generated reasoning are labeled by the same automatic classifier, with the same taxonomy, prompt structure, and output schema.
+Each judge file and each summary file follow the same JSON schema as the human-case outputs. This means the same loading and aggregation code works across both output trees.
 
-## 8. Final Analysis Plan
+### 7.3 Scale
 
-After both human and LLM-generated differential diagnoses have been annotated, the final step is to compare reasoning patterns.
+32 cases × 3 models × 15 judges = **1440 judge annotation files**, plus 96 jury summary files.
 
-The first analysis should remain simple and interpretable. The most useful starting point is the distribution of reasoning labels:
+## 8. Comparative Analysis
 
-- count of each reasoning label per source type;
-- proportion of abduction, deduction, and induction;
-- subtype-level distribution across the 12 labels;
-- per-case differences between human and LLM reasoning;
-- per-model differences between generated diagnoses;
-- overall human vs LLM reasoning profile.
+### 8.1 Analysis Groups
 
-The analysis should initially avoid complex agreement logic. Consensus may be useful for visualization or filtering, but it is not the main research object. The most important output is a clear comparison of reasoning-type distributions.
+After both the human-written and LLM-generated cases have been annotated, the analysis compares four groups:
 
-Potential metrics:
-
-| Metric | Purpose |
+| Group | Source |
 |---|---|
-| Label counts | How often each reasoning subtype appears. |
-| Mode proportions | Relative use of abduction, deduction, and induction. |
-| Case-normalized proportions | Prevents longer cases from dominating the analysis. |
-| Model-level profiles | Shows whether different LLMs reason differently. |
-| Human vs LLM deltas | Highlights reasoning types overused or underused by models. |
-| Span length by label | Optional proxy for how much textual space each reasoning type occupies. |
+| Human | `jury_output/` — the 32 human-written cases |
+| Llama 70B | `jury_output_llm/` — model `meta-llama-3.3-70b-instruct` |
+| GPT 120B | `jury_output_llm/` — model `openai-gpt-oss-120b` |
+| Qwen 80B | `jury_output_llm/` — model `qwen-qwen3-next-80b-a3b-instruct` |
+
+All four groups are compared using identical aggregation logic. The unit of analysis is the annotated span after consensus filtering.
+
+### 8.2 Consensus Filtering
+
+Before computing any metric, the jury summary files are filtered by a consensus threshold. For a given span and a given candidate label, the threshold defines the minimum fraction of covering judges that must agree on the label for it to be accepted. Three threshold levels are used:
+
+| Threshold | Meaning |
+|---|---|
+| 0.0 | No filter — all spans from any judge are included |
+| 0.5 | Majority — a label is accepted only if more than 50% of covering judges agree |
+| 0.7 | Strong majority — a label is accepted only if at least 70% of covering judges agree |
+
+A minimum covering count (`MIN_COVERING = 5`) is enforced at non-zero thresholds: a span is only subject to the ratio filter if at least 5 judges annotated it. Spans covered by fewer judges are excluded rather than passed through, to prevent isolated annotations from appearing artificially high-confidence.
+
+All three threshold levels are run and their outputs are saved independently. This allows the presentation to show how robust the results are to different filtering choices.
+
+### 8.3 Metrics
+
+The analysis computes four metrics for each group and each threshold setting:
+
+**DDx Coverage.** The fraction of the differential diagnosis text that is covered by at least one accepted annotation. This measures how densely each group's reasoning is annotated. A low coverage score may indicate sparse reasoning or reasoning expressed in a way the jury does not label confidently.
+
+**Macro distribution (ABD / DED / IND).** The proportion of accepted annotations that fall into each of the three main reasoning modes. This is the primary high-level comparison: it shows whether humans and LLMs differ in their overall balance of hypothesis generation, hypothesis testing, and probabilistic reasoning.
+
+**Micro distribution (12-label breakdown).** The proportion of accepted annotations for each of the 12 subtype labels. This provides a finer view, showing not just that LLMs use more or less induction than humans, but which specific inductive subtypes drive the difference.
+
+**Inter-judge agreement (IAA).** The average pairwise agreement among the 15 jury judges on the annotated spans, computed per group. This is a quality signal for the annotation rather than a primary research metric: it indicates how consistently the jury labels each group's reasoning. Lower IAA on LLM-generated cases would suggest that those cases contain more ambiguous or unusual reasoning spans.
+
+### 8.4 Implementation
+
+The analysis is implemented as a Jupyter notebook, `analysis.ipynb`, structured into clearly separated sections: imports, parameter configuration, data loading, and one section per metric. The notebook is designed to be re-run with different threshold settings by changing a single cell.
+
+Plots are saved to `plots/` with the threshold value and minimum covering count encoded in the filename, for example `macro_thr0.7_mincov5.png`. This makes it straightforward to include specific plots in the presentation without ambiguity about which filtering settings produced them.
 
 ## 9. Complete Roadmap
 
@@ -301,59 +340,83 @@ Status: complete.
 
 ### Phase 7: Generate LLM Differential Diagnoses
 
-Status: next.
+Status: complete.
 
-- Build a new generation module for LLM differential diagnoses.
+- Build the `llm_generation/` module.
 - Extract only the Presentation of Case from each source case.
-- Prompt three LLMs to generate a differential diagnosis for each case.
-- Store generated cases in `cases_llm/`.
-- Preserve source case identity and model identity in filenames.
+- Select three generation models: Llama 3.3 70B, GPT 120B, Qwen 80B (via NVIDIA API).
+- Generate a differential diagnosis for each of the 32 cases with each model.
+- Store results in `cases_llm/` with per-case subfolders and per-model files.
+- Enforce a minimum output length of 1400 words with one expansion attempt.
 
 ### Phase 8: Annotate LLM-Generated Diagnoses with the Jury
 
-Status: planned.
+Status: complete.
 
-- Run the existing jury classifier on the generated LLM cases.
-- Save outputs under `jury_output_llm/`.
+- Run the existing jury classifier on all 96 generated cases.
+- Save outputs under `jury_output_llm/` with model identity as a nested subfolder.
 - Keep the same 15-judge structure and JSON schema.
-- Check a sample manually in the comparison tool.
+- Produce 1440 judge files and 96 summary files.
 
 ### Phase 9: Compare Human and LLM Reasoning
 
-Status: planned.
+Status: complete.
 
-- Aggregate labels from `jury_output/` and `jury_output_llm/`.
-- Compute label counts and proportions.
-- Compare human vs LLM reasoning distributions.
-- Compare model-specific reasoning profiles.
-- Identify which reasoning modes are overrepresented or underrepresented in LLM-generated differential diagnoses.
+- Implement `analysis.ipynb` for four-group comparison (Human, Llama 70B, GPT 120B, Qwen 80B).
+- Apply consensus filtering at three thresholds (0.0, 0.5, 0.7).
+- Compute DDx coverage, macro distribution, micro distribution, and inter-judge agreement.
+- Save all plots to `plots/` with threshold settings encoded in filenames.
 
 ### Phase 10: Prepare Presentation and Research Narrative
 
-Status: planned.
+Status: in progress.
 
 - Explain the motivation: comparing reasoning, not just answers.
 - Show the taxonomy and examples.
 - Show the manual annotation workflow.
 - Show the jury pipeline.
 - Present the human-case annotation results.
-- Present the planned LLM-generation and comparison stages.
-- Discuss why agreement metrics are not the central focus at this stage.
+- Present the LLM-generation and comparison stages.
+- Show the comparative analysis results.
+- Discuss why agreement metrics are not the central focus.
 
-## 10. Immediate Team To-Do List
+## 10. Final System Architecture
 
-1. Decide the final set of LLMs for differential diagnosis generation.
-2. Decide whether the jury should remain a single-model jury or use multiple classifier models.
-3. Implement the LLM differential diagnosis generation module.
-4. Create the `cases_llm/` folder structure.
-5. Generate three model diagnoses for each of the 32 cases.
-6. Run the jury on the generated diagnoses.
-7. Create aggregation scripts for label counts and distributions.
-8. Produce initial plots or tables for human vs LLM reasoning comparison.
+The complete workflow, from raw cases to comparative analysis, is:
 
-## 11. Suggested Presentation Storyline
+```text
+cases/*.md
+    |
+    |--> annotation_tool
+    |       |--> annotated_cases/*.json
+    |
+    |--> comparison_tool
+    |       |--> human annotation review
+    |       |--> human vs jury inspection
+    |
+    |--> jury pipeline
+    |       |--> jury_output/{case_id}/{case_id}_Judge001.json
+    |       |--> ...
+    |       |--> jury_output/{case_id}/{case_id}_Judge015.json
+    |       |--> jury_output/{case_id}/{case_id}_jury_summary.json
+    |
+    |--> llm_generation
+    |       |--> cases_llm/{case_name}/{case_name}__{model}.md
+    |
+    |--> jury pipeline (same, applied to LLM cases)
+    |       |--> jury_output_llm/{case_id}/{model}/{case_id}_Judge001.json
+    |       |--> ...
+    |       |--> jury_output_llm/{case_id}/{model}/{case_id}_jury_summary.json
+    |
+    |--> analysis.ipynb
+            |--> plots/{metric}_thr{threshold}_mincov{n}.png
+```
 
-The presentation can follow this structure:
+The most important architectural principle remains the same throughout: human annotations and machine annotations use the same output schema. The jury pipeline itself is used both to label human-written reasoning and to label LLM-generated reasoning, ensuring that any observed differences in label distributions are attributable to differences in the reasoning content, not to differences in the annotation method.
+
+## 11. Presentation Storyline
+
+The presentation follows this structure:
 
 1. Diagnostic reasoning is more than a final answer.
 2. We define a taxonomy of epistemic reasoning modes.
@@ -361,27 +424,11 @@ The presentation can follow this structure:
 4. We compare and curate examples using a dedicated comparison tool.
 5. We scale annotation using an LLM jury with 15 judges.
 6. We validate the outputs qualitatively through manual inspection.
-7. We use the jury as a classifier to label both human and model reasoning.
-8. We generate LLM differential diagnoses from the same case presentations.
-9. We compare the reasoning distributions of humans and LLMs.
+7. We generate LLM differential diagnoses from the same case presentations.
+8. We run the same jury on both human and LLM-generated reasoning.
+9. We compare reasoning distributions across four groups and three consensus thresholds.
 10. The final contribution is a reproducible framework for studying diagnostic reasoning patterns rather than only diagnostic accuracy.
 
-## 12. Expected Final Deliverables
+## 12. Core Message
 
-By the end of the project, the repository should contain:
-
-- the original human-written cases;
-- manually annotated reference examples;
-- a working manual annotation interface;
-- a working comparison interface;
-- a working LLM jury classifier;
-- jury annotations for human-written cases;
-- LLM-generated differential diagnoses;
-- jury annotations for LLM-generated diagnoses;
-- aggregation scripts for reasoning-label distributions;
-- tables or plots comparing human and LLM reasoning;
-- a clear methodological narrative for presentation and reporting.
-
-## 13. Core Message
-
-This project builds a pipeline for comparing the reasoning patterns of clinicians and LLMs. The central object is not the final diagnosis, but the structure of diagnostic reasoning itself. By annotating human and LLM reasoning with the same epistemic taxonomy, the project makes it possible to compare how different agents generate hypotheses, test them, validate them, and draw probabilistic conclusions.
+This project builds a pipeline for comparing the reasoning patterns of clinicians and LLMs. The central object is not the final diagnosis, but the structure of diagnostic reasoning itself. By annotating human and LLM reasoning with the same epistemic taxonomy and the same automatic classifier, the project makes it possible to compare how different agents generate hypotheses, test them, validate them, and draw probabilistic conclusions.
