@@ -1,0 +1,95 @@
+{
+  "case": "2006 Case 36__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T16:37:40.764091+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4574,
+          4735
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic consideration is **Cushing’s syndrome**, specifically **pituitary-dependent Cushing’s disease** or **adrenal Cushing’s syndrome**."
+    },
+    {
+      "ranges": [
+        [
+          5903,
+          6222
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The hypertension, refractory to multiple antihypertensives including labetalol and nifedipine, is also typical of mineralocorticoid excess secondary to cortisol’s off-target activation of the mineralocorticoid receptor (due to saturation of 11β-hydroxysteroid dehydrogenase type 2 in the kidney during cortisol excess)."
+    },
+    {
+      "ranges": [
+        [
+          10927,
+          11147
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If ACTH is elevated, the next step is to determine whether it is pituitary- or ectopic-derived—using high-dose dexamethasone suppression or petrosal sinus sampling, both of which are technically challenging in pregnancy."
+    },
+    {
+      "ranges": [
+        [
+          4736,
+          5025
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The 24-hour urinary free cortisol level of 1865 μg is profoundly elevated—far exceeding the upper limit of normal in pregnancy (which may rise to 2–3 times the non-pregnant upper limit due to increased cortisol-binding globulin and placental production of corticotropin-releasing hormone)."
+    },
+    {
+      "ranges": [
+        [
+          5287,
+          5560
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of classic cutaneous findings does not rule out Cushing’s in pregnancy, as many of the stigmata (e.g., striae, bruising, hirsutism) are masked by the normal physiologic changes of gestation, including skin stretching, increased vascularity, and fluid retention."
+    },
+    {
+      "ranges": [
+        [
+          4097,
+          4572
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The constellation of findings—particularly the combination of hypertension, glucose intolerance, central adiposity, and facial plethora—strongly suggests a disorder of cortisol excess, but the timing of onset in early pregnancy, the absence of classic stigmata of Cushing’s syndrome (such as purple striae, easy bruising, or proximal myopathy), and the presence of a prior history of gestational diabetes necessitate careful discrimination among several overlapping entities."
+    },
+    {
+      "ranges": [
+        [
+          9384,
+          9615
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The degree of cortisol excess here is more consistent with a tumor than with pituitary disease, though pituitary Cushing’s can also present with severe manifestations, especially in the setting of pregnancy-induced CRH stimulation."
+    },
+    {
+      "ranges": [
+        [
+          15176,
+          15297
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case illustrates the critical importance of recognizing endocrine disorders that mimic or are unmasked by pregnancy."
+    }
+  ]
+}

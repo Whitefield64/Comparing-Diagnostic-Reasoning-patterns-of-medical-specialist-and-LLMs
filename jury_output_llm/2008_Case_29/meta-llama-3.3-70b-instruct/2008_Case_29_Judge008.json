@@ -1,0 +1,139 @@
+{
+  "case": "2008 Case 29__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T16:39:50.714754+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7789,
+          7976
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with acute abdominal pain, weight loss, and a history of anorexia nervosa (restrictive form) diagnosed 4 years earlier, raises a complex differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          7977,
+          8184
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The key features to consider are the abdominal pain, the patient's significant weight loss, the history of anorexia nervosa, and the findings of fecal impaction and small bowel dilatation on imaging studies."
+    },
+    {
+      "ranges": [
+        [
+          8951,
+          9135
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Fecal impaction can cause abdominal pain, distention, and nausea, and it is a known complication in patients with eating disorders, particularly those with restrictive eating patterns."
+    },
+    {
+      "ranges": [
+        [
+          9136,
+          9277
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This condition can lead to severe constipation due to decreased food intake, reduced fiber consumption, and potentially altered gut motility."
+    },
+    {
+      "ranges": [
+        [
+          9278,
+          9529
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Given the patient's history of anorexia nervosa and the physical findings, it is crucial to consider the potential for refeeding syndrome, a condition that can occur in individuals who are malnourished when they begin to receive nutrition too quickly."
+    },
+    {
+      "ranges": [
+        [
+          9530,
+          9725
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Refeeding syndrome can lead to severe electrolyte imbalances, particularly hypophosphatemia, hypokalemia, and hypomagnesemia, which can cause cardiac arrhythmias, muscle weakness, and even death."
+    },
+    {
+      "ranges": [
+        [
+          9727,
+          9913
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's bradycardia, orthostatic hypotension, and the findings on electrocardiograms are consistent with potential electrolyte imbalances and cardiac effects of refeeding syndrome."
+    },
+    {
+      "ranges": [
+        [
+          9951,
+          10132
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "the patient's low body mass index (BMI), delayed puberty, and the family history of delayed puberty and hypercholesterolemia raise questions about potential endocrine abnormalities."
+    },
+    {
+      "ranges": [
+        [
+          10133,
+          10257
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Anorexia nervosa can lead to hypothalamic amenorrhea in females and hypogonadism in males, affecting growth and development."
+    },
+    {
+      "ranges": [
+        [
+          12297,
+          12449
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's history of anorexia nervosa and the physical findings of temporal wasting, dry lips, and cool hands and feet, suggest severe malnutrition."
+    },
+    {
+      "ranges": [
+        [
+          15532,
+          15745
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's significant weight loss and malnutrition have far-reaching consequences on his overall health, necessitating a thorough evaluation and management strategy that addresses all aspects of his condition."
+    },
+    {
+      "ranges": [
+        [
+          17586,
+          17852
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's condition highlights the importance of early recognition and treatment of eating disorders, as well as the need for a comprehensive and supportive approach to management that addresses the physical and psychological aspects of these complex conditions."
+    }
+  ]
+}

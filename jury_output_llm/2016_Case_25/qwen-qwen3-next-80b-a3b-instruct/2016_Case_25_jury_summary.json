@@ -1,94 +1,35 @@
 {
   "case": "2016 Case 25__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T13:42:16.288701+00:00",
+  "exported_at": "2026-05-20T14:08:45.980660+00:00",
   "n_voters": 15,
-  "n_successful": 10,
-  "n_failed": 5,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had a classic case of LGV proctitis, we would expect to see rectal pain, bleeding, mucopurulent discharge, and tenesmus, which aligns with the patient’s symptoms."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of symptoms, including rectal pain, bleeding, and mucosal inflammation, is highly suggestive of an infectious etiology, particularly LGV proctitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most compelling diagnostic hypothesis is lymphogranuloma venereum (LGV) proctitis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient’s negative HIV test may have led to a false sense of security regarding STIs, but LGV is a distinct entity requiring specific testing, and the probability of LGV proctitis is increased given the patient’s sexual history and symptoms."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s presentation is reminiscent of other cases of LGV proctitis, which often present with rectal pain, bleeding, and mucopurulent discharge, and can cause chronic inflammation leading to fibrosis, stricture, and fissure formation."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had a sexually transmitted infection, we would expect to see symptoms such as rectal pain, bleeding, and mucopurulent discharge, which are present in this case."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most compelling diagnostic hypothesis is lymphogranuloma venereum (LGV) proctitis."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a lesion in the anorectum, so a nuclear third- or fourth-nerve palsy is the probable explanation is not present, instead: The presence of sentinel tags and mild internal hemorrhoids supports this diagnosis, as these are classic sequelae of chronic fissures."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has LGV proctitis, we would expect to see rectal pain, bleeding, mucopurulent discharge, and tenesmus, and can cause chronic inflammation leading to fibrosis, stricture, and fissure formation."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly applicable here, but we must first rule out infectious and inflammatory causes before considering neoplastic causes."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of symptoms and findings matches the description of LGV proctitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary anorectal infection, given the patient’s sexual history and the refractory nature of the symptoms."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Given the patient’s sexual history, the timing of symptom onset, and the mucosal inflammation seen on sigmoidoscopy, the probability of LGV proctitis is higher than that of other diagnoses."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar patient with LGV proctitis who presented with rectal pain, bleeding, and mucopurulent discharge, and was diagnosed with rectal NAAT testing."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 13,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -96,95 +37,48 @@
       "voter_id": 5,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If LGV proctitis is present, we would expect to see rectal pain, bleeding, mucopurulent discharge, and tenesmus, and can cause chronic inflammation leading to fibrosis, stricture, and fissure formation."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is lymphogranuloma venereum (LGV) proctitis, given the patient’s sexual history, the timing of symptom onset, the refractory nature of the fissures and inflammation, and the lack of response to standard hemorrhoid/fissure therapy."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient’s negative HIV test may have led to a false sense of security regarding STIs, but LGV is a distinct entity requiring specific testing, and the probability of LGV should be considered high given the clinical presentation."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 14,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has LGV proctitis, we would expect to see rectal pain, bleeding, mucopurulent discharge, and tenesmus, and can cause chronic inflammation leading to fibrosis, stricture, and fissure formation."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most compelling diagnostic hypothesis is lymphogranuloma venereum (LGV) proctitis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has LGV proctitis, we would expect to see rectal pain, bleeding, mucopurulent discharge, and tenesmus, and can cause chronic inflammation leading to fibrosis, stricture, and fissure formation."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly applicable here, but we must first rule out infectious and inflammatory causes before considering neoplastic causes."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of symptoms and findings in this patient is highly suggestive of LGV proctitis, which often presents with rectal pain, bleeding, mucopurulent discharge, and tenesmus."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most compelling diagnostic hypothesis is lymphogranuloma venereum (LGV) proctitis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient’s sexual history, the timing of symptom onset, and the mucosal inflammation seen on sigmoidoscopy all increase the likelihood of an infectious etiology, particularly LGV proctitis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Similar cases of LGV proctitis have been reported in the literature, often presenting with chronic inflammation and fibrosis, and highlighting the importance of considering STIs in patients with persistent anorectal symptoms."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 12,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 9,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 8,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 10,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 7,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 11,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 8,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -192,113 +86,29 @@
       "voter_id": 12,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had a sexually transmitted infection, we would expect to see symptoms such as rectal pain, bleeding, and mucosal inflammation, which are present in this case."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most compelling diagnostic hypothesis is lymphogranuloma venereum (LGV) proctitis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had a typical anal fissure, we would expect to see resolution of symptoms with conservative measures, but the persistence of symptoms suggests an alternative diagnosis."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must first rule out infectious and inflammatory causes before considering neoplastic causes."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, such as the presence of sentinel tags and mild internal hemorrhoids, support the diagnosis of chronic anal fissure, but the persistence of symptoms despite conservative therapy validates the need for an alternative diagnosis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of symptoms, including rectal pain, bleeding, and mucosal inflammation, is highly suggestive of an infectious etiology, particularly LGV proctitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is an infectious etiology, given the patient’s sexual history and the refractory nature of the symptoms."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of anal fissures resolve with conservative therapy, the probability of an infectious etiology, such as LGV proctitis, is increased given the patient’s sexual history and the persistence of symptoms."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar case of a patient with persistent anorectal symptoms, who was later diagnosed with LGV proctitis, which suggests that this diagnosis should be considered in the present case."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has LGV proctitis, we would expect to see rectal pain, bleeding, mucopurulent discharge, and tenesmus, and can cause chronic inflammation leading to fibrosis, stricture, and fissure formation."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must first rule out infectious causes, such as LGV and syphilis, before considering less common etiologies like IBD or malignancy."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of symptoms and findings in this patient matches the description of LGV proctitis, with rectal pain, bleeding, and mucosal inflammation."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is LGV proctitis, given the patient’s sexual history and the refractory nature of his symptoms."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of LGV proctitis involve the rectum, the presence of systemic symptoms such as fever or lymphadenopathy is not required for the diagnosis, and the patient’s lack of these symptoms does not decrease the likelihood of LGV."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with LGV proctitis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, which should be considered when treating this patient."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had a fissure, we would expect to see improvement with topical nitroglycerin, calcium channel blockers, or botulinum toxin."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but we must first rule out infectious and inflammatory causes before considering neoplastic etiologies."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most compelling diagnostic hypothesis is lymphogranuloma venereum (LGV) proctitis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Given the patient’s sexual history and the refractory nature of his symptoms, the probability of an infectious etiology, particularly LGV, is significantly increased."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

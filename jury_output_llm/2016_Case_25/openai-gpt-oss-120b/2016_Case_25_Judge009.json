@@ -1,0 +1,51 @@
+{
+  "case": "2016 Case 25__openai-gpt-oss-120b.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T18:12:17.194765+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3753,
+          4193
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis must incorporate common anorectal disorders (anal fissure, hemorrhoids), infectious etiologies (sexually transmitted proctitis), inflammatory bowel disease (ulcerative proctitis or Crohn’s proctitis), neoplastic processes (anal squamous cell carcinoma, rectal adenocarcinoma), and less frequent entities (solitary rectal ulcer syndrome, ischemic or medication‑related colitis, vasculitic or autoimmune disorders)."
+    },
+    {
+      "ranges": [
+        [
+          4195,
+          4440
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Each possibility will be examined in turn, weighing the supporting and opposing clinical data, pathophysiologic plausibility, and epidemiologic considerations, with the goal of identifying the most likely cause(s) of this patient’s presentation."
+    },
+    {
+      "ranges": [
+        [
+          6076,
+          6378
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The anal canal is supplied by the superior, middle, and inferior rectal arteries, creating a watershed area at the distal anal canal.  Ischemia and sphincter spasm at the site of a mucosal tear impair healing, establishing a vicious cycle of pain → sphincter spasm → reduced perfusion → delayed healing"
+    },
+    {
+      "ranges": [
+        [
+          17364,
+          17635
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A **limited ulcerative proctitis** remains a plausible explanation for the distal mucosal changes, but the lack of classic endoscopic features, the predominance of pain over urgency, and the presence of a clear anatomic fissure point toward a **non‑IBD** primary process."
+    }
+  ]
+}

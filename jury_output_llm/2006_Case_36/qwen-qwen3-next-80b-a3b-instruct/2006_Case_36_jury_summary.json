@@ -1,53 +1,23 @@
 {
   "case": "2006 Case 36__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T09:07:18.444711+00:00",
+  "exported_at": "2026-05-20T14:08:45.826539+00:00",
   "n_voters": 15,
-  "n_successful": 14,
-  "n_failed": 1,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but the differential must also consider **gestational hypertension with superimposed gestational diabetes mellitus (GDM)**, which is common but cannot account for the severity of the findings."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of severe, refractory hypertension, fasting glucose consistently >140 mg/dL, and urinary cortisol >1800 μg is incompatible with either entity alone, suggesting a diagnosis of Cushing’s syndrome."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant here, but the patient’s strong family history of type 2 diabetes and hypertension raises the possibility of **polycystic ovary syndrome (PCOS)** as a contributor to her metabolic phenotype."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The degree of cortisol excess here is orders of magnitude beyond physiologic adaptation and is incompatible with a benign pregnancy-related phenomenon, suggesting a high probability of Cushing’s syndrome."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "This case illustrates the critical importance of recognizing endocrine disorders that mimic or are unmasked by pregnancy, similar to previously reported cases of Cushing’s syndrome in pregnancy."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 19,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but the process of ruling out other diagnoses is: we must first rule out **gestational hypertension with superimposed gestational diabetes mellitus (GDM)** and **primary hyperaldosteronism** before considering **Cushing’s syndrome**."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but this is not directly relevant to the current case."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
@@ -60,54 +30,34 @@
       "voter_id": 4,
       "failed": false,
       "n_resolved": 16,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of findings in this patient, including the severe hypertension, hyperglycemia, and elevated urinary cortisol, is most consistent with Cushing’s syndrome."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, instead the text suggests  **Cushing’s syndrome due to autonomous cortisol secretion**, most likely from an **adrenal adenoma or carcinoma**, with **pituitary Cushing’s disease** as a close second."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the detailed analysis suggests that Cushing’s syndrome is the most probable diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with other diagnoses, such as gestational hypertension with superimposed gestational diabetes mellitus (GDM), is that they cannot account for the severity of the findings, particularly the combination of severe, refractory hypertension and hyperglycemia."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 8,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -122,13 +72,8 @@
       "voter_id": 10,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, however the text 'The leading diagnosis is **Cushing’s syndrome due to autonomous cortisol secretion**, most likely from an **adrenal adenoma or carcinoma**, with **pituitary Cushing’s disease** as a close second.' can be annotated with this label"
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
@@ -141,21 +86,8 @@
       "voter_id": 12,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly applicable here, but we must first rule out the most severe and life-threatening conditions, such as preeclampsia and Cushing’s syndrome."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is not explicitly stated by the author, but based on the information provided, Cushing’s syndrome due to autonomous cortisol secretion seems to be the most plausible explanation."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "This case illustrates the critical importance of recognizing endocrine disorders that mimic or are unmasked by pregnancy, and it reminds us of the need to consider Cushing’s syndrome in the differential diagnosis of severe hypertension and hyperglycemia in pregnancy."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
@@ -168,41 +100,15 @@
       "voter_id": 14,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is not relevant here, but the many types of endocrine disorders can be grouped on the basis of underlying cause, such as cortisol excess, aldosterone excess, or insulin resistance."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the combination of clinical features and laboratory results suggests Cushing’s syndrome."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo are not present, but the patient’s symptoms can be explained by the effects of cortisol excess on various bodily systems."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process of cortisol excess leading to hypertension, glucose intolerance, and other symptoms is complex and multifactorial, involving various physiological pathways."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly applicable here, but we must first rule out other diagnoses such as **gestational hypertension with superimposed gestational diabetes mellitus (GDM)**, which is common but cannot account for the severity of the findings."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is not directly stated, but the discussion implies a strong suspicion of Cushing’s syndrome based on the clinical presentation."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

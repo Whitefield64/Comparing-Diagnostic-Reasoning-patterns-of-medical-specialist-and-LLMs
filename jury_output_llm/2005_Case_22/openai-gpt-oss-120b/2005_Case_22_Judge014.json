@@ -1,0 +1,40 @@
+{
+  "case": "2005 Case 22__openai-gpt-oss-120b.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T16:22:44.834103+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          29429,
+          29598
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most plausible neoplastic processes are (a) **Richter transformation** with secondary CNS involvement, (b) **primary CNS lymphoma**, and (c) **metastatic melanoma**."
+    },
+    {
+      "ranges": [
+        [
+          35376,
+          35619
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most plausible non‑infectious contributors are **septic encephalopathy** (as a systemic effect of severe pneumonia and bacteremia) and **cerebrovascular embolic phenomena** (possible cardio‑embolic stroke secondary to atrial fibrillation)."
+    },
+    {
+      "ranges": [
+        [
+          9205,
+          9333
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s immunoglobulin deficiency (low serum globulin, falling Ig levels) predisposes to invasive *Pseudomonas* infection."
+    }
+  ]
+}

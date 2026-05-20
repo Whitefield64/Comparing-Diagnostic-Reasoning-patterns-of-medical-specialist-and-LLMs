@@ -1,28 +1,28 @@
 {
   "case": "2012 Case 40__meta-llama-3.3-70b-instruct.md",
-  "exported_at": "2026-05-18T11:40:15.774768+00:00",
+  "exported_at": "2026-05-20T14:08:45.907256+00:00",
   "n_voters": 15,
-  "n_successful": 4,
-  "n_failed": 11,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 11,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 2,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 10,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 3,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 12,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -49,8 +49,8 @@
     },
     {
       "voter_id": 7,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 61,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -63,50 +63,50 @@
     },
     {
       "voter_id": 9,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 11,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 10,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 35,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 11,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 38,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 12,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 35,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 13,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 9,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 14,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 9,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 15,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 16,
       "n_unresolved": 0,
       "unresolved": []
     }

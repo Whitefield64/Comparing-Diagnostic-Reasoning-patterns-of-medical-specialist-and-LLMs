@@ -1,0 +1,282 @@
+{
+  "case": "2005 Case 22__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T16:21:26.648008+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7100,
+          7297
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient presented with a complex clinical picture characterized by fever, cough, productive sputum, diffuse weakness, altered mental status, and a history of chronic lymphocytic leukemia (CLL)."
+    },
+    {
+      "ranges": [
+        [
+          7435,
+          7612
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of CLL, immunocompromised state, and presentation with fever and productive cough, an infectious etiology is high on the list of potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          7614,
+          7848
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's symptoms of cough, fever, and productive sputum, along with the radiographic findings of prominence of the right paratracheal stripe and right hilum and bilateral small pleural effusions, suggest a respiratory infection."
+    },
+    {
+      "ranges": [
+        [
+          7849,
+          7936
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The growth of *Pseudomonas aeruginosa* from the sputum culture supports this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8068,
+          8288
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the patient's initial treatment with azithromycin and subsequent lack of improvement, followed by treatment with amoxicillin without resolution, raises the possibility of a resistant organism or a more complex infection."
+    },
+    {
+      "ranges": [
+        [
+          8455,
+          8599
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of nuchal rigidity and the patient's inability to follow commands or respond to pain suggest meningeal irritation or CNS pathology."
+    },
+    {
+      "ranges": [
+        [
+          8600,
+          8720
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The cerebrospinal fluid (CSF) analysis would be crucial in diagnosing CNS infections such as meningitis or encephalitis."
+    },
+    {
+      "ranges": [
+        [
+          8721,
+          9056
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the flow cytometry results from the CSF showing predominantly T cells with a normal immunophenotype and a small number of B cells with an immunophenotype identical to that of cells associated with CLL do not strongly support an infectious meningitis but rather suggest possible CNS involvement by the patient's underlying CLL."
+    },
+    {
+      "ranges": [
+        [
+          9058,
+          9187
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's history of CLL, a malignancy of the immune system, raises the possibility of disease progression or transformation."
+    },
+    {
+      "ranges": [
+        [
+          9188,
+          9371
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The flow cytometry of peripheral-blood lymphocytes revealing CD19+ and CD20+ B cells coexpressing CD5 and CD23 and monotypic lambda immunoglobulin light chains is consistent with CLL."
+    },
+    {
+      "ranges": [
+        [
+          9372,
+          9494
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of CLL cells in the CSF could indicate CNS involvement by the leukemia, which is a known complication of CLL."
+    },
+    {
+      "ranges": [
+        [
+          9495,
+          9589
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "CNS involvement in CLL can manifest as meningitis, encephalitis, or parenchymal brain lesions."
+    },
+    {
+      "ranges": [
+        [
+          9591,
+          9734
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In addition to infectious and malignant causes, the patient's presentation could also be consistent with an inflammatory or autoimmune process."
+    },
+    {
+      "ranges": [
+        [
+          9735,
+          10013
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's history of multiple cutaneous squamous-cell carcinomas and melanomas, treated with surgery, and prostatic adenocarcinoma, treated with radiation therapy, suggests a possible paraneoplastic syndrome, although this would be less likely given the patient's known CLL."
+    },
+    {
+      "ranges": [
+        [
+          10301,
+          10494
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's altered mental status and eventual coma, in conjunction with the findings on MRI of the brain showing a region of restricted diffusion in the left thalamus, suggest CNS pathology."
+    },
+    {
+      "ranges": [
+        [
+          10495,
+          10688
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The thalamic lesion could be consistent with an infectious process, such as abscess or encephalitis, a malignant process, such as metastasis or primary CNS lymphoma, or an inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          18424,
+          18656
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's history of CLL and the presence of CLL cells in the CSF also raise the possibility of a Richter's transformation, which is a transformation of CLL into a more aggressive lymphoma, such as diffuse large B-cell lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          18657,
+          18825
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Richter's transformation is a rare but serious complication of CLL, and it can present with a wide range of symptoms, including fever, weight loss, and lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          18826,
+          19009
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's clinical presentation and laboratory findings are consistent with Richter's transformation, and the presence of CLL cells in the CSF suggests a possible malignant cause."
+    },
+    {
+      "ranges": [
+        [
+          21706,
+          21901
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, the patient's clinical presentation and laboratory findings are not typical of a paraneoplastic syndrome, and other diagnoses, such as infectious or inflammatory causes, are more likely."
+    },
+    {
+      "ranges": [
+        [
+          15604,
+          15855
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's clinical presentation and laboratory findings also suggest the possibility of a systemic inflammatory response syndrome (SIRS), which can be caused by a variety of conditions, including infections, malignancies, and autoimmune disorders."
+    },
+    {
+      "ranges": [
+        [
+          15856,
+          16041
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of fever, tachycardia, tachypnea, and altered mental status, along with the laboratory findings of leukocytosis and elevated inflammatory markers, are consistent with SIRS."
+    },
+    {
+      "ranges": [
+        [
+          21518,
+          21705
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of multiple cancers and treatments raises the possibility of a paraneoplastic syndrome, and the presence of CLL cells in the CSF suggests a possible malignant cause."
+    },
+    {
+      "ranges": [
+        [
+          25490,
+          25725
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The patient's clinical presentation and laboratory findings also suggest the possibility of a rare or unusual condition, such as a CNS infection caused by a rare bacterium or fungus, or a paraneoplastic syndrome caused by a rare tumor."
+    },
+    {
+      "ranges": [
+        [
+          25726,
+          25915
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The patient's history of multiple cancers and treatments raises the possibility of a rare or unusual condition, and the presence of CLL cells in the CSF suggests a possible malignant cause."
+    }
+  ]
+}

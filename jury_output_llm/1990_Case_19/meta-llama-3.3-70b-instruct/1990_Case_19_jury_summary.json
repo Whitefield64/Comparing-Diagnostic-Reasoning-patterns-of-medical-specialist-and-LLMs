@@ -1,9 +1,9 @@
 {
   "case": "1990 Case 19__meta-llama-3.3-70b-instruct.md",
-  "exported_at": "2026-05-18T07:12:36.475445+00:00",
+  "exported_at": "2026-05-20T14:08:45.624274+00:00",
   "n_voters": 15,
-  "n_successful": 13,
-  "n_failed": 2,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
@@ -28,8 +28,8 @@
     },
     {
       "voter_id": 4,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 23,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -91,8 +91,8 @@
     },
     {
       "voter_id": 13,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 25,
       "n_unresolved": 0,
       "unresolved": []
     },

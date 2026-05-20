@@ -1,0 +1,161 @@
+{
+  "case": "2016 Case 03__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T18:02:24.057308+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8904,
+          9332
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnostic consideration must be **abdominal migraine**, given the episodic, paroxysmal nature of the pain, its association with autonomic features (pallor, diaphoresis, vomiting), its lack of association with defecation or meals, the absence of structural pathology on endoscopy and imaging, the response to tricyclic antidepressants (amitriptyline), and the strong family history of migraines in the maternal line."
+    },
+    {
+      "ranges": [
+        [
+          9705,
+          9913
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The fact that this patient’s pain was episodic, not constant, and associated with autonomic symptoms—especially the episodes where she became pale, diaphoretic, and collapsed—strongly supports this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9914,
+          10042
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The partial response to amitriptyline, a medication used for migraine prophylaxis in children, further supports this hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          10927,
+          11038
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "One such category is **pancreatic disorders**, particularly **chronic pancreatitis** or **pancreatic divisum**."
+    },
+    {
+      "ranges": [
+        [
+          12342,
+          12544
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another important differential is **mesenteric ischemia**, particularly **mesenteric artery stenosis or vasospasm**, which can occur in children with underlying vasculopathies or hypercoagulable states."
+    },
+    {
+      "ranges": [
+        [
+          13424,
+          13609
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "We must also consider **hereditary angioedema (HAE)**, particularly type I or II, which presents with recurrent episodes of nonpitting edema, often involving the gastrointestinal tract."
+    },
+    {
+      "ranges": [
+        [
+          14599,
+          14709
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another rare but critical consideration is **porphyria**, particularly **acute intermittent porphyria (AIP)**."
+    },
+    {
+      "ranges": [
+        [
+          8585,
+          8902
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The key to unraveling this case lies in recognizing the patterns: the episodic nature of pain, its association with vomiting and autonomic symptoms, its resistance to standard therapies for reflux and constipation, and its progression to more severe, prolonged, and disabling episodes with postural relief and pallor."
+    },
+    {
+      "ranges": [
+        [
+          11039,
+          11270
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although serum amylase and lipase were repeatedly normal, these enzymes can be normal in chronic or intermittent pancreatic disease, especially in children, where enzyme release may be episodic and not captured during acute phases."
+    },
+    {
+      "ranges": [
+        [
+          11899,
+          12078
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Endoscopic retrograde cholangiopancreatography (ERCP) or magnetic resonance cholangiopancreatography (MRCP) would be required to confirm this, but such studies were not performed."
+    },
+    {
+      "ranges": [
+        [
+          11676,
+          11898
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of steatorrhea, weight loss, or diabetes makes chronic pancreatitis less likely, but pancreatic divisum can present with recurrent, severe episodes of pain without long-term exocrine or endocrine insufficiency."
+    },
+    {
+      "ranges": [
+        [
+          12079,
+          12340
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that the pain was episodic, not progressive, and associated with vomiting rather than steatorrhea makes this less likely than abdominal migraine, but it remains a critical consideration given the back radiation and the failure of standard GI therapies."
+    },
+    {
+      "ranges": [
+        [
+          19465,
+          19663
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the severity of the final episode, with radiation to the back and prolonged duration, necessitates ruling out **pancreatic divisum**, **hereditary angioedema**, and **acute intermittent porphyria**."
+    },
+    {
+      "ranges": [
+        [
+          20169,
+          20496
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient’s clinical course is consistent with a neurogastroenterologic disorder, and while abdominal migraine is the most probable diagnosis, the failure of conventional therapies and the dramatic progression of symptoms warrant a thorough search for these rare organic mimics before accepting a purely functional diagnosis."
+    }
+  ]
+}

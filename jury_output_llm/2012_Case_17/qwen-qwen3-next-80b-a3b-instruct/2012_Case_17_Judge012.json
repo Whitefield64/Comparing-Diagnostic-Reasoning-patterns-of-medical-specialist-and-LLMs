@@ -1,0 +1,106 @@
+{
+  "case": "2012 Case 17__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T17:21:45.994303+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          15865,
+          15989
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnosis, integrating the imaging, clinical course, and exclusion of systemic disease, is glioblastoma."
+    },
+    {
+      "ranges": [
+        [
+          5093,
+          5392
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The absence of systemic symptoms such as headache, nausea, vomiting, seizures, weakness, or bowel/bladder dysfunction, coupled with normal systemic laboratory values and negative imaging of the chest, abdomen, and pelvis, strongly suggests a primary or isolated central nervous system (CNS) process."
+    },
+    {
+      "ranges": [
+        [
+          5402,
+          5582
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the presence of restricted diffusion, heterogeneous enhancement, and splenial involvement raises critical concerns for neoplastic, infectious, inflammatory, or vascular etiologies."
+    },
+    {
+      "ranges": [
+        [
+          5686,
+          5764
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The most immediately concerning diagnostic category is primary CNS malignancy."
+    },
+    {
+      "ranges": [
+        [
+          5765,
+          5890
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Glioblastoma multiforme (GBM) is the most common malignant primary brain tumor in adults and remains a leading consideration."
+    },
+    {
+      "ranges": [
+        [
+          6040,
+          6211
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The presence of two adjacent masses raises the possibility of multifocal GBM, which occurs in approximately 5–10% of cases and is associated with a more aggressive course."
+    },
+    {
+      "ranges": [
+        [
+          7032,
+          7255
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The transient visual symptoms preceding the persistent deficit may reflect transient ischemic events due to tumor-induced vascular compression or microhemorrhages, or alternatively, epileptiform activity from cortical irrit"
+    },
+    {
+      "ranges": [
+        [
+          16201,
+          16361
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The rapid progression from transient visual symptoms to persistent quadrantanopia suggests a malignant infiltrative process with evolving edema and mass effect."
+    },
+    {
+      "ranges": [
+        [
+          16822,
+          17028
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "While PCNSL remains a strong differential, the bilateral, asymmetric, and heterogeneous nature of the lesions, along with the lack of homogeneous enhancement and the patient’s age, make GBM the most likely."
+    }
+  ]
+}

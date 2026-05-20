@@ -1,0 +1,40 @@
+{
+  "case": "2021 Case 38__openai-gpt-oss-120b.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T19:36:04.997520+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          29122,
+          29363
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "only condition that simultaneously accounts for the urinary porphyrin elevation, hyponatremia, neuropsychiatric symptoms, abdominal pain, and basophilic stippling** is an **acute hepatic porphyria**—most plausibly **acute intermittent porphy"
+    },
+    {
+      "ranges": [
+        [
+          26962,
+          27068
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the context, **SIADH due to an acute porphyric crisis** is the most plausible cause of the hyponatre"
+    },
+    {
+      "ranges": [
+        [
+          32901,
+          33094
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If lead poisoning were the primary cause**, chelation therapy with agents such as **dimercaprol** or **edetate calcium disodium (CaNa₂EDTA)** would be indicated, together with removal of the le"
+    }
+  ]
+}

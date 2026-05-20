@@ -1,0 +1,84 @@
+{
+  "case": "2016 Case 25__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T18:13:14.744828+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4229,
+          4355
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most straightforward and statistically most likely diagnosis is chronic anal fissure with associated hemorrhoidal disease."
+    },
+    {
+      "ranges": [
+        [
+          13680,
+          13908
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s sexual history, the timing of symptom onset, the refractory nature of the fissures and inflammation, and the lack of response to standard hemorrhoid/fissure therapy all point strongly toward an infectious etiology."
+    },
+    {
+      "ranges": [
+        [
+          6341,
+          6581
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Lymphogranuloma venereum (LGV), a highly invasive serovar of *C. trachomatis*, can present with proctitis characterized by rectal pain, bleeding, tenesmus, and mucosal inflammation—often with a delayed onset of several weeks after exposure."
+    },
+    {
+      "ranges": [
+        [
+          7350,
+          7623
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another critical infectious consideration is syphilis. Primary syphilis typically presents as a painless chancre, but secondary syphilis can manifest with mucocutaneous lesions, including painless or painful anorectal ulcers, condylomata lata, or even fissure-like lesions."
+    },
+    {
+      "ranges": [
+        [
+          6930,
+          7094
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The patchy erythema and edema seen on sigmoidoscopy are consistent with LGV-induced mucosal inflammation, and the absence of systemic symptoms does not rule it out."
+    },
+    {
+      "ranges": [
+        [
+          4964,
+          5304
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the persistence of symptoms for over 10 weeks despite appropriate conservative therapy is unusual. While up to 80% of acute fissures heal within six weeks with conservative measures, chronic fissures—defined as those persisting beyond six to eight weeks—are less likely to resolve spontaneously and may require more aggressive intervention."
+    },
+    {
+      "ranges": [
+        [
+          11587,
+          11806
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Biopsy of the inflamed mucosa during sigmoidoscopy would be critical here: if granulomas are present, Crohn’s is strongly supported; if crypt architectural distortion and basal plasmacytosis are seen, UC is more likely."
+    }
+  ]
+}

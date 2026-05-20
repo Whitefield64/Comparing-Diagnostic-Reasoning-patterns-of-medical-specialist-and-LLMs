@@ -1,14 +1,14 @@
 {
   "case": "2009 Case 32__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T09:51:41.956030+00:00",
+  "exported_at": "2026-05-20T14:08:45.851644+00:00",
   "n_voters": 15,
-  "n_successful": 13,
-  "n_failed": 2,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 10,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -16,25 +16,15 @@
       "voter_id": 2,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present but the intuition that the patient has a rare genetic disorder is."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If Hermansky-Pudlak syndrome is the correct diagnosis, we would expect to see a combination of albinism, platelet dysfunction, and pulmonary fibrosis, which is consistent with the patient’s presentation."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
@@ -61,66 +51,27 @@
       "voter_id": 7,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If Hermansky-Pudlak syndrome is the correct diagnosis, we would expect to find a combination of albinism, platelet dysfunction, and pulmonary fibrosis, as well as a familial pattern of similar respiratory disease."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of pulmonary disease, with upper lobe predominance and honeycombing, is typical of Hermansky-Pudlak syndrome."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of albinism, platelet dysfunction, and pulmonary fibrosis, combined with the familial pattern of similar respiratory disease, makes Hermansky-Pudlak syndrome a highly likely diagnosis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s Puerto Rican ancestry further strengthens the diagnosis of Hermansky-Pudlak syndrome, as HPS-1 is the most common subtype in Puerto Ricans."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned, however the doctor has a strong intuition about Hermansky-Pudlak syndrome."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient has no signs of HLH, and his immune testing is normal, similar to other cases of Hermansky-Pudlak syndrome."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary diagnosis of Hermansky-Pudlak syndrome, given the unique combination of clinical features and family history."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient’s Puerto Rican ancestry further strengthens this diagnosis, as HPS-1 is the most common subtype in Puerto Ricans."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The fact that the patient’s oxygen saturation improved dramatically with supplemental oxygen (from 76% to 98%) confirms that hypoxemia is primarily due to impaired gas exchange rather than hypoventilation or shunt, similar to what is seen in other cases of advanced interstitial lung disease."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 10,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -128,17 +79,8 @@
       "voter_id": 11,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, but this is not directly relevant to the current case."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant to the current case, but the physician’s intuition is that Hermansky-Pudlak syndrome is the most likely diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
@@ -158,25 +100,8 @@
       "voter_id": 14,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description of Hermansky-Pudlak syndrome, with the combination of albinism, platelet dysfunction, and pulmonary fibrosis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary diagnosis of Hermansky-Pudlak syndrome, given the unique constellation of findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of albinism, platelet dysfunction, and pulmonary fibrosis increases the likelihood of Hermansky-Pudlak syndrome, particularly in the context of a family history of similar respiratory disease."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s presentation is reminiscent of other cases of Hermansky-Pudlak syndrome, which typically present with a combination of albinism, platelet dysfunction, and pulmonary fibrosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,

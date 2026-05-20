@@ -1,0 +1,62 @@
+{
+  "case": "2011 Case 15__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-19T08:47:12.556549+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3825,
+          4030
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "ms of vaginal discharge, headache, and fatigue could be indicative of a variety of conditions, including sexually transmitted infections (STIs), given the patient's history of sexual activity. The administ"
+    },
+    {
+      "ranges": [
+        [
+          4492,
+          4717
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The development of a painful genital ulcer is a critical aspect of the patient's presentation. Genital ulcers can be caused by a range of conditions, including STIs such as syphilis, herpes simplex virus (HSV), and chancroid."
+    },
+    {
+      "ranges": [
+        [
+          8650,
+          8793
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of a painful genital ulcer, in particular, narrows the differential diagnosis to conditions that are known to cause such symptoms."
+    },
+    {
+      "ranges": [
+        [
+          4018,
+          4240
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The administration of doxycycline, metronidazole, and ceftriaxone according to South African guidelines for STIs suggests that the treating clinicians considered infections such as chlamydia, gonorrhea, and trichomoniasis."
+    },
+    {
+      "ranges": [
+        [
+          5616,
+          5852
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's response to penicillin G benzathine and erythromycin, which are treatments for syphilis and potentially other bacterial infections, will be important in determining the effectiveness of the treatment for the genital ulcer."
+    }
+  ]
+}

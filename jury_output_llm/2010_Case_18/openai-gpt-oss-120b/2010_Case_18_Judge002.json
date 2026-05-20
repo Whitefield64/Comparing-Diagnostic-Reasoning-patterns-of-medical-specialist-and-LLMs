@@ -1,0 +1,95 @@
+{
+  "case": "2010 Case 18__openai-gpt-oss-120b.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-18T16:49:09.359898+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          31300,
+          32183
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The key data points are:\n\n1. **Persistent high HIV‑1 RNA** despite a regimen that theoretically contains three active agents (LPV/r, AZT, 3TC).  \n2. **Reported good adherence** but limited objective adherence data.  \n3. **History of sub‑optimal prior ART** (ritonavir monotherapy) and **possible incomplete NRTI activity** (M184V, TAMs).  \n4. **Weight‑based dosing** in a child with severe growth failure (potential for under‑dosing).  \n5. **Potential pharmacokinetic pitfalls** (liquid formulation, food requirement, possible CYP3A5 ultra‑rapid metabolism).  \n6. **No overt clinical evidence of active TB, NTM, fungal infection, or lymphoma** at present, though prior granulomatous disease raises the specter of occult infection or misdiagnosed malignancy.  \n7. **Mild anemia and macrocytosis** that could be AZT‑related or nutritional, potentially affecting drug metabolism and imm"
+    },
+    {
+      "ranges": [
+        [
+          32489,
+          33350
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The sequence of events supports this:\n\n- The child was placed on **ritonavir alone** (a weak PI) plus zidovudine/lamivudine, which likely failed to fully suppress viral replication.  \n- During this period, **M184V** (lamivudine resistance) and **TAMs** (zidovudine resistance) could have accumulated, rendering the NRTI backbone ineffective.  \n- When switched to **LPV/r**, the PI component may have been **under‑dosed** (due to weight‑based miscalculation or poor absorption), leaving essentially **monotherapy** with a compromised PI.  \n- The resulting **functional monotherapy** provides a low genetic barrier, facilitating the selection of **protease resistance mutations**.  \n\nThus, the virus may now harbor **mutations in both RT and protease genes**, explaining the inability of the current regimen to achieve virologic suppression despite good reported "
+    },
+    {
+      "ranges": [
+        [
+          34048,
+          34209
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the mother’s reports are inaccurate, the child may be receiving **intermittent dosing**, which would both select for resistance and result in low drug levels."
+    },
+    {
+      "ranges": [
+        [
+          36053,
+          36347
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "ccording to WHO pediatric guidelines:\n\n- **Switch to an integrase inhibitor–based regimen** (e.g., dolutegravir + lamivudine + tenofovir disoproxil fumarate) if the child’s weight permits.  Integrase inhibitors have a **high barrier to resistance** and are **less affected by CYP interactions**"
+    },
+    {
+      "ranges": [
+        [
+          28405,
+          28545
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": " loss, the clinical course (resolution of the abscess, lack of systemic B‑symptoms) makes an active lymphoma **less probable** at this stage"
+    },
+    {
+      "ranges": [
+        [
+          17747,
+          17881
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the pattern of **repeatedly high RNA levels** despite regimen changes argues against a laboratory artifact as the primary explanation."
+    },
+    {
+      "ranges": [
+        [
+          20569,
+          20733
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The child’s **mild anemia**, **persistent lymphadenopathy**, and **lack of response to anti‑TB drugs** (if the abscess persisted despite therapy) could hint at NTM."
+    },
+    {
+      "ranges": [
+        [
+          20223,
+          20382
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In children with advanced immunosuppression (CD4 < 15 %), disseminated MAC can present with **fever, weight loss, lymphadenopathy, and granulomatous disease**."
+    }
+  ]
+}

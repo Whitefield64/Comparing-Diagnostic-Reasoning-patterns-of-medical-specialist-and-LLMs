@@ -1,186 +1,49 @@
 {
   "case": "2009 Case 32__openai-gpt-oss-120b.md",
-  "exported_at": "2026-05-18T09:44:19.261080+00:00",
+  "exported_at": "2026-05-20T14:08:45.847564+00:00",
   "n_voters": 15,
-  "n_successful": 11,
-  "n_failed": 4,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were Hermansky-Pudlak syndrome, we would expect to see oculocutaneous albinism, platelet dense-granule deficiency, and early-onset UIP-type interstitial fibrosis with upper-lobe bronchiectasis, which is consistent with the patient’s presentation."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s presentation is dominated by severe, rapidly progressive interstitial lung disease with a UIP-type pattern, upper-lobe bronchiectasis, digital clubbing, secondary polycythemia, and pulmonary hypertension, which is typical of Hermansky-Pudlak syndrome."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Given the strong extra-pulmonary phenotype, surfactant protein deficiency is lower on the list, and the probability of Hermansky-Pudlak syndrome increases due to the presence of albinism and platelet dysfunction."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must first consider genetic disorders that can cause interstitial lung disease, such as Hermansky-Pudlak syndrome, before moving on to other possibilities."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is Hermansky-Pudlak syndrome, given the combination of oculocutaneous albinism, platelet dysfunction, and interstitial lung disease."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The defect lies in biogenesis of melanosomes, platelet dense granules, and lysosome-related organelles of alveolar type II cells, leading to impaired surfactant turnover and predisposing to chronic alveolar injury, inflammation, and progressive fibrosis."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnosis of Hermansky-Pudlak syndrome can be confirmed through platelet electron microscopy and genetic testing for HPS1, which is a specific and sensitive test for this condition."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were HPS, we would expect to see albinism, platelet dense‑granule deficiency, and early‑onset UIP‑type fibrosis with upper‑lobe bronchiectasis, which is consistent with the patient’s presentation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The presence of albinism and platelet dysfunction points to an alternative etiology, and the broader clinical context argues for a *secondary* cause, most likely HPS."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of UIP‑type interstitial fibrosis, upper‑lobe bronchiectasis, and pulmonary hypertension, combined with oculocutaneous albinism and platelet storage‑pool deficiency, is highly suggestive of Hermansky‑Pudlak syndrome."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The defect lies in biogenesis of melanosomes, platelet dense granules, and lysosome‑related organelles of alveolar type II cells, leading to chronic alveolar injury, inflammation, and progressive fibrosis."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnosis of HPS is supported by the presence of albinism, platelet dense‑granule deficiency, and early‑onset UIP‑type fibrosis with upper‑lobe bronchiectasis, which are all consistent with the diagnostic criteria for HPS."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "The combination of oculocutaneous albinism, platelet storage‑pool deficiency, and progressive UIP‑type interstitial fibrosis with upper‑lobe bronchiectasis is so distinctive that it strongly suggests Hermansky‑Pudlak syndrome, despite the rarity of this condition."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "The presence of albinism and platelet dysfunction, in combination with the pulmonary findings, suggests a rare genetic disorder such as Hermansky‑Pudlak syndrome, which is not typically considered in the differential diagnosis of interstitial lung disease."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The patient’s presentation is dominated by severe, rapidly progressive interstitial lung disease with a UIP‑type pattern, upper‑lobe bronchiectasis, digital clubbing, secondary polycythemia, and pulmonary hypertension, which suggests a primary pulmonary disorder such as HPS."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 2,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were Hermansky-Pudlak syndrome, we would expect to see oculocutaneous albinism, platelet dense-granule deficiency, and early-onset UIP-type interstitial fibrosis with upper-lobe bronchiectasis."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnosis of Hermansky-Pudlak syndrome is based on the presence of oculocutaneous albinism, platelet dense-granule storage-pool deficiency, and progressive UIP-type interstitial fibrosis with upper-lobe bronchiectasis, which are all characteristic features of this disorder."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, and the presence of albinism and platelet dysfunction confirms the diagnosis of Hermansky-Pudlak syndrome."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of oculocutaneous albinism, platelet dense-granule storage-pool deficiency, and progressive UIP-type interstitial fibrosis with upper-lobe bronchiectasis is typical of Hermansky-Pudlak syndrome."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is Hermansky-Pudlak syndrome, given the combination of oculocutaneous albinism, platelet dysfunction, and early-onset interstitial lung disease."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although the patient has some features of familial telomeropathy, the presence of albinism and platelet dysfunction makes Hermansky-Pudlak syndrome more likely, with a probability of greater than 90%."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar patient with Hermansky-Pudlak syndrome who presented with oculocutaneous albinism, platelet dense-granule storage-pool deficiency, and progressive UIP-type interstitial fibrosis with upper-lobe bronchiectasis, which suggests that this diagnosis should be considered in this case."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were Hermansky-Pudlak syndrome, we would expect to see oculocutaneous albinism, platelet dense-granule deficiency, and progressive interstitial fibrosis, which is consistent with the patient’s presentation."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of oculocutaneous albinism, platelet dysfunction, and interstitial lung disease is typical of Hermansky-Pudlak syndrome."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Given the patient’s Puerto Rican ancestry, the likelihood of Hermansky-Pudlak syndrome is increased due to the founder mutation in the HPS1 gene, which further supports this diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 3,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -188,45 +51,20 @@
       "voter_id": 7,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If HPS is the correct diagnosis, we would expect to see absent or dysfunctional lamellar bodies in alveolar type II cells, leading to impaired surfactant turnover and predisposing to chronic alveolar injury, inflammation, and progressive fibrosis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of UIP‑type fibrosis, upper‑lobe bronchiectasis, and pulmonary hypertension is consistent with HPS, and the presence of albinism and platelet dysfunction further supports this diagnosis."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process of alveolar injury, inflammation, and progressive fibrosis in HPS is caused by the defective biogenesis of melanosomes, platelet dense granules, and lysosome‑related organelles of alveolar type II cells."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnosis of HPS can be confirmed through platelet electron microscopy and HPS1 genetic testing, which are essential for establishing the diagnosis and guiding management."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "Given the patient’s clinical presentation and the lack of alternative explanations, it is likely that the patient has HPS, and further testing is needed to confirm the diagnosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The patient’s presentation is dominated by severe, rapidly progressive interstitial lung disease with a UIP‑type pattern, upper‑lobe bronchiectasis, digital clubbing, secondary polycythemia, and pulmonary hypertension, which suggests a primary pulmonary process rather than a secondary cause."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 2,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 9,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 4,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -234,138 +72,41 @@
       "voter_id": 10,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were Hermansky-Pudlak syndrome, we would expect to see oculocutaneous albinism, platelet dense-granule deficiency, and early-onset UIP-type interstitial fibrosis with upper-lobe bronchiectasis, which is consistent with the patient’s presentation."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first rule out cystic fibrosis, given its high prevalence and potential to cause bronchiectasis and pulmonary hypertension."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 2,
-      "n_unresolved": 10,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were Hermansky-Pudlak syndrome, we would expect to see oculocutaneous albinism, platelet dense-granule deficiency, and progressive interstitial fibrosis, which is consistent with the patient’s presentation."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The presence of albinism and platelet dysfunction makes a primary surfactant disorder unlikely, as these features are not typical of surfactant protein deficiency."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not mentioned, but the presence of a genetic albinism syndrome and the clinical presentation support the diagnosis of Hermansky-Pudlak syndrome."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Given the strong extra‑pulmonary phenotype, particularly the combination of oculocutaneous albinism and platelet dysfunction, the probability of Hermansky-Pudlak syndrome is significantly increased, making it the most likely diagnosis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of upper-lobe predominant bronchiectasis, interstitial fibrosis with honeycombing, and pulmonary hypertension, combined with oculocutaneous albinism and platelet dysfunction, is highly suggestive of Hermansky-Pudlak syndrome."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The defect in biogenesis of melanosomes, platelet dense granules, and lysosome‑related organelles of alveolar type II cells leads to impaired surfactant turnover, predisposing to chronic alveolar injury, inflammation, and progressive fibrosis, which explains the patient’s pulmonary findings."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "According to the diagnostic criteria for Hermansky-Pudlak syndrome, the presence of oculocutaneous albinism, platelet dense-granule deficiency, and progressive interstitial fibrosis meets the requirements for a diagnosis of this condition."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is Hermansky-Pudlak syndrome, given the unique combination of clinical features, despite the rarity of this condition."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a pattern of interstitial fibrosis with honeycombing, consistent with the diagnosis of Hermansky-Pudlak syndrome, and the physical examination findings of oculocutaneous albinism and digital clubbing further support this diagnosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "Before considering other diagnoses, such as familial telomeropathy or surfactant protein deficiency, it is essential to rule out Hermansky-Pudlak syndrome, given its distinctive clinical features and the patient’s demographic background."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were Hermansky‑Pudlak syndrome, we would expect to see oculocutaneous albinism, platelet dense‑granule deficiency, and interstitial fibrosis, which is consistent with the patient’s presentation."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of oculocutaneous albinism, platelet dysfunction, and interstitial lung disease is typical of Hermansky‑Pudlak syndrome."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were Hermansky-Pudlak syndrome, we would expect to see oculocutaneous albinism, platelet dense-granule deficiency, and early-onset UIP-type interstitial fibrosis with upper-lobe bronchiectasis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s presentation is dominated by severe, rapidly progressive interstitial lung disease with a UIP-type pattern, upper-lobe bronchiectasis, digital clubbing, secondary polycythemia, and pulmonary hypertension, which is typical of Hermansky-Pudlak syndrome."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Given the strong extra-pulmonary phenotype, surfactant protein deficiency is lower on the list, and the probability of Hermansky-Pudlak syndrome is higher due to the combination of albinism, platelet dysfunction, and pulmonary fibrosis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "The patient lacks any identifiable exposure, and the presence of a genetic albinism syndrome makes HP an unlikely primary driver, suggesting that the diagnosis is more likely related to a genetic disorder."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnosis of Hermansky-Pudlak syndrome is supported by the presence of oculocutaneous albinism, platelet dense-granule deficiency, and early-onset UIP-type interstitial fibrosis with upper-lobe bronchiectasis, which are all characteristic features of this disorder."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were Hermansky-Pudlak syndrome, we would expect to see oculocutaneous albinism, platelet dense-granule deficiency, and early-onset UIP-type interstitial fibrosis with upper-lobe bronchiectasis, which is consistent with the patient’s presentation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not applicable here, instead: The patient’s presentation is dominated by severe, rapidly progressive interstitial lung disease with a UIP‑type pattern, upper‑lobe bronchiectasis, digital clubbing, secondary polycythemia, and pulmonary hypertension, which validates the diagnosis of Hermansky-Pudlak syndrome."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 3,
       "n_unresolved": 0,
       "unresolved": []
     }

@@ -1,0 +1,29 @@
+{
+  "case": "2012 Case 40__openai-gpt-oss-120b.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T17:31:53.745960+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7395,
+          7586
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "classic timing**, **rapid progression**, and **hemodynamic pattern**, AFE ranks as the **most likely diagnosis** and will be treated as the leading hypothesis pending confirmatory investigati"
+    },
+    {
+      "ranges": [
+        [
+          12657,
+          12831
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient received a **spinal anesthetic** for the cesarean, which is a known trigger for high spinal if dosing is excessive or if there is inadvertent intravascular inject"
+    }
+  ]
+}

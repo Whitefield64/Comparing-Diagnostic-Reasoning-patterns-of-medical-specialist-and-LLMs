@@ -1,0 +1,139 @@
+{
+  "case": "2015 Case 01__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-20T10:54:49.344768+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8446,
+          8565
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling and statistically likely diagnosis is **metastatic recurrence of luminal B-type breast carcinoma**."
+    },
+    {
+      "ranges": [
+        [
+          9475,
+          9718
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The internal mammary chain is a recognized, though less commonly emphasized, site of nodal spread in breast cancer, particularly in centrally located or large tumors with lymphatic invasion, as was present in this patient’s original pathology."
+    },
+    {
+      "ranges": [
+        [
+          19870,
+          19987
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If breast markers are positive and melanoma markers negative, the diagnosis of breast cancer recurrence is confirmed."
+    },
+    {
+      "ranges": [
+        [
+          19988,
+          20237
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If melanoma markers are positive and breast markers negative, the diagnosis shifts to metastatic melanoma, which would require a complete dermatologic and ophthalmologic evaluation, and potentially molecular testing for BRAF, NRAS, or KIT mutations."
+    },
+    {
+      "ranges": [
+        [
+          9044,
+          9181
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The median time to recurrence for ER-positive breast cancer is approximately 5–7 years, with a persistent risk extending beyond 15 years."
+    },
+    {
+      "ranges": [
+        [
+          10377,
+          10613
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Breast cancer, particularly ER-positive subtypes, commonly metastasizes to the lungs, often as small, multiple, well-circumscribed nodules, sometimes with a predilection for the lower lobes—though this distribution is not pathognomonic."
+    },
+    {
+      "ranges": [
+        [
+          8644,
+          8819
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the histologic and cytologic features of the IMLN aspirate are described as “similar to those of the patient’s prior breast carcinoma,” which is a highly specific observation."
+    },
+    {
+      "ranges": [
+        [
+          9719,
+          10075
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the internal mammary nodes were not detected on initial staging (T2N1M0) but have now appeared 5 years after treatment is not unexpected; the internal mammary chain is not routinely assessed by standard staging modalities such as CT or bone scan, and its involvement may represent progression of subclinical disease or late lymphatic seeding."
+    },
+    {
+      "ranges": [
+        [
+          10077,
+          10167
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The presence of multiple small pulmonary nodules (4–5 mm) further supports this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8820,
+          9043
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Invasive ductal carcinoma of the breast, particularly of the luminal B subtype, has a well-documented propensity for late recurrence—often beyond five years after initial diagnosis, even in the setting of endocrine therapy."
+    },
+    {
+      "ranges": [
+        [
+          19233,
+          19499
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The possibility of **metastatic melanoma** remains a critical differential due to the patient’s history, but is less likely given the low-risk profile of her prior melanomas, the unusual timing of recurrence, and the cytologic resemblance to her prior breast cancer."
+    },
+    {
+      "ranges": [
+        [
+          12868,
+          13157
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The absence of cutaneous lesions on examination does not rule out melanoma recurrence—metastatic melanoma may present with nodal or visceral disease without visible skin lesions, particularly if the primary was completely excised and the patient is under regular dermatologic surveillance."
+    }
+  ]
+}

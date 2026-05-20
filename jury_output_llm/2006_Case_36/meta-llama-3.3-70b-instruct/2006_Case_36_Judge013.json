@@ -1,0 +1,139 @@
+{
+  "case": "2006 Case 36__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T16:33:48.490619+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3663,
+          3851
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical presentation of this 35-year-old pregnant woman with new-onset hypertension and diabetes at 19 weeks of gestation is complex and suggests multiple potential underlying causes."
+    },
+    {
+      "ranges": [
+        [
+          3852,
+          4072
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given her recent onset of symptoms, family history of hypertension and type 2 diabetes, and the presence of polyuria, polydipsia, and increased facial puffiness, a comprehensive differential diagnosis must be considered."
+    },
+    {
+      "ranges": [
+        [
+          4939,
+          5128
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of diabetes in this patient, particularly with a blood glucose level of 346 mg per deciliter 1 hour after a glucose challenge, indicates gestational diabetes mellitus (GDM)."
+    },
+    {
+      "ranges": [
+        [
+          5622,
+          5814
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cushing's syndrome is a rare endocrine disorder caused by excess cortisol production, which can lead to hypertension, glucose intolerance or diabetes, weight gain, and other metabolic changes."
+    },
+    {
+      "ranges": [
+        [
+          6278,
+          6482
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Pheochromocytoma, a catecholamine-secreting tumor, typically presents with episodic hypertension, headaches, palpitations, and diaphoresis, which are not prominent features in this patient's presentation."
+    },
+    {
+      "ranges": [
+        [
+          9378,
+          9604
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's recent onset of symptoms, including significant hypertension and diabetes, in the context of pregnancy, also raises considerations about the potential impact of these conditions on both maternal and fetal health."
+    },
+    {
+      "ranges": [
+        [
+          10351,
+          10536
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The presence of Cushing's syndrome in pregnancy poses significant challenges for both mother and fetus, necessitating careful monitoring and multidisciplinary care to optimize outcomes."
+    },
+    {
+      "ranges": [
+        [
+          5955,
+          6142
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The elevated 24-hour urinary cortisol measurement of 1865 μg is a critical piece of evidence supporting the diagnosis of Cushing's syndrome, as it indicates excessive cortisol production."
+    },
+    {
+      "ranges": [
+        [
+          5815,
+          5954
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's ruddy complexion and mild periorbital edema could be indicative of cortisol excess, although these findings are not specific."
+    },
+    {
+      "ranges": [
+        [
+          9951,
+          10191
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "While several diagnoses could potentially explain aspects of her presentation, the elevated urinary cortisol level is a strong indicator of Cushing's syndrome, which could account for her hypertension, diabetes, and other clinical features."
+    },
+    {
+      "ranges": [
+        [
+          5272,
+          5420
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the patient's significant hyperglycemia and the need for insulin therapy suggest a more pronounced metabolic derangement than typically seen in GDM."
+    },
+    {
+      "ranges": [
+        [
+          9100,
+          9271
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "MEN syndromes are characterized by the occurrence of tumors in multiple endocrine glands, and some forms can include Cushing's syndrome as part of their clinical spectrum."
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "case": "2015 Case 01__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T17:43:39.233501+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8446,
+          8565
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling and statistically likely diagnosis is **metastatic recurrence of luminal B-type breast carcinoma**."
+    },
+    {
+      "ranges": [
+        [
+          8820,
+          9043
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Invasive ductal carcinoma of the breast, particularly of the luminal B subtype, has a well-documented propensity for late recurrence—often beyond five years after initial diagnosis, even in the setting of endocrine therapy."
+    },
+    {
+      "ranges": [
+        [
+          9475,
+          9718
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The internal mammary chain is a recognized, though less commonly emphasized, site of nodal spread in breast cancer, particularly in centrally located or large tumors with lymphatic invasion, as was present in this patient’s original pathology."
+    },
+    {
+      "ranges": [
+        [
+          9719,
+          10075
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The fact that the internal mammary nodes were not detected on initial staging (T2N1M0) but have now appeared 5 years after treatment is not unexpected; the internal mammary chain is not routinely assessed by standard staging modalities such as CT or bone scan, and its involvement may represent progression of subclinical disease or late lymphatic seeding."
+    },
+    {
+      "ranges": [
+        [
+          10377,
+          10613
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Breast cancer, particularly ER-positive subtypes, commonly metastasizes to the lungs, often as small, multiple, well-circumscribed nodules, sometimes with a predilection for the lower lobes—though this distribution is not pathognomonic."
+    },
+    {
+      "ranges": [
+        [
+          11498,
+          11567
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The second major diagnostic consideration is **metastatic melanoma**."
+    },
+    {
+      "ranges": [
+        [
+          11824,
+          11916
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Melanoma is notorious for its unpredictable, often late, and bizarre patterns of metastasis."
+    },
+    {
+      "ranges": [
+        [
+          13240,
+          13383
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the original melanoma was very thin (0.46 mm) with no ulceration, placing it in a very low-risk category for metastasis (<1% risk at 10 years)."
+    },
+    {
+      "ranges": [
+        [
+          14844,
+          14934
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A third, less likely but still important, consideration is **a second primary carcinoma**."
+    },
+    {
+      "ranges": [
+        [
+          15341,
+          15569
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the cytologic similarity to the prior breast cancer strongly argues against a new primary, as different histologic subtypes (e.g., invasive lobular, metaplastic, or mucinous carcinoma) would have different cytologic appearances."
+    },
+    {
+      "ranges": [
+        [
+          14709,
+          14842
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The absence of any new skin lesions, ocular or mucosal symptoms, or neurological findings further reduces the likelihood of melanoma."
+    },
+    {
+      "ranges": [
+        [
+          16384,
+          16616
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another rare but important consideration is **lymphoma**, particularly indolent B-cell lymphomas such as follicular lymphoma or marginal zone lymphoma, which can present with isolated lymphadenopathy and mimic carcinoma on cytology."
+    },
+    {
+      "ranges": [
+        [
+          16807,
+          17049
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "lymphoma typically presents with multiple lymph node groups (e.g., cervical, axillary, mediastinal), and the absence of B symptoms (fever, night sweats, weight loss), normal CBC, and lack of splenomegaly or hepatomegaly make this less likely."
+    },
+    {
+      "ranges": [
+        [
+          20238,
+          20427
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The therapeutic implications are profound: endocrine therapy may still be effective in recurrent ER-positive breast cancer, whereas melanoma would require immunotherapy or targeted therapy."
+    },
+    {
+      "ranges": [
+        [
+          20428,
+          20644
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of multiple pulmonary nodules suggests systemic disease, and the absence of bone metastases suggests a relatively indolent course, making systemic therapy the mainstay of management regardless of origin."
+    },
+    {
+      "ranges": [
+        [
+          19870,
+          19987
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "If breast markers are positive and melanoma markers negative, the diagnosis of breast cancer recurrence is confirmed."
+    },
+    {
+      "ranges": [
+        [
+          19988,
+          20237
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "If melanoma markers are positive and breast markers negative, the diagnosis shifts to metastatic melanoma, which would require a complete dermatologic and ophthalmologic evaluation, and potentially molecular testing for BRAF, NRAS, or KIT mutations."
+    }
+  ]
+}

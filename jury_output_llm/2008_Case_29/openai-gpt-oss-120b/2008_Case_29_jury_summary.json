@@ -1,30 +1,21 @@
 {
   "case": "2008 Case 29__openai-gpt-oss-120b.md",
-  "exported_at": "2026-05-18T09:14:22.154440+00:00",
+  "exported_at": "2026-05-20T14:08:45.835274+00:00",
   "n_voters": 15,
-  "n_successful": 13,
-  "n_failed": 2,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the patient’s refusal to increase caloric intake despite medical advice suggests an intense fear of gaining weight."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis is not directly applicable but a similar process of categorization is used for differential diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 3,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -32,614 +23,48 @@
       "voter_id": 3,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but the process of ruling out other diagnoses based on the presentation is similar to how we must first consider and then exclude other potential diagnoses in this case."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is not explicitly stated in the provided text, but the detailed analysis of the patient’s condition suggests a high likelihood of severe restrictive‑type anorexia nervosa."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The likelihood of **severe restrictive‑type anorexia nervosa** is **Very High** given the comprehensive analysis of the patient’s symptoms, laboratory findings, and response to treatment."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of similar presentations in the context of anorexia nervosa have been published, supporting the notion that this condition can lead to severe and life-threatening complications."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
       "failed": false,
       "n_resolved": 1,
-      "n_unresolved": 9,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysfunction in these systems can lead to the observed constipation, bradycardia, and hypothermia, which are classic signs of severe AN."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had a primary cardiac conduction disease, we would expect to see a persistent bradycardia unresponsive to nutritional support, which is not the case here."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnostic criteria for anorexia nervosa include a significantly low body weight, intense fear of gaining weight, and body-image disturbance, all of which are met in this patient."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "Given the patient’s presentation, we must first rule out life-threatening conditions such as cardiac disease or infectious processes before considering less acute diagnoses like anorexia nervosa."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient’s improvement with nutritional rehabilitation and the resolution of electrolyte disturbances support the diagnosis of refeeding syndrome as a complication of anorexia nervosa."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s clinical picture, including severe weight loss, bradycardia, and hypothermia, is typical of severe anorexia nervosa and suggests a high likelihood of this diagnosis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary anorexia nervosa, given the patient’s age, sex, and clinical presentation."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of anorexia nervosa do not present with such severe autonomic dysfunction, the presence of bradycardia, orthostatic hypotension, and hypothermia increases the probability of this diagnosis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "This case is reminiscent of previously reported cases of anorexia nervosa with severe autonomic dysfunction, which supports the likelihood of this diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of anorexia nervosa, we would expect to see severe weight loss, bradycardia, orthostatic hypotension, and hypothermia, which are all present in this patient."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 95,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "Since the lesions are seen on both the diffusion-weighted and fluid-attenuated inversion-recovery images, we know that the age of the lesions is greater than about 12 hours."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although this elderly, hypertensive man probably did have some atheromatous disease, the vessels involved and the laboratory evidence suggest that he had giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "Something about this case concerns me."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "This raises the probability of giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar patient."
-        },
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "Several features of this patient’s presentation are suggestive of Crohn’s disease, which is relatively common, with an incidence of approximately 10 cases per 100,000 persons."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were X, we would expect to see Y."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The Duke criteria are used to diagnose infective endocarditis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first rule out the most dangerous explanation, which is X."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "This is consistent with the diagnosis of X."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "This is the typical picture of X."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "My instinct is that this patient has X."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "This increases the probability of X."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "This reminds me of a similar case I had before."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The patient’s symptoms are caused by X."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has X, then we would expect to see Y."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of X is increased by the presence of Y."
-        },
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The patient’s symptoms are most consistent with X."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "A possible explanation for the patient’s symptoms is X."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The patient’s physical examination findings suggest X."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient meets the criteria for X."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We should first consider X, then Y, then Z."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient’s symptoms and test results are consistent with X."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s symptoms are consistent with the typical presentation of X."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I have a feeling that the patient has X."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of X is Y%."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I have seen a similar case before, which was diagnosed with X."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The patient’s symptoms are due to the underlying mechanism of X."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If X is true, then we should see Y."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient meets the diagnostic criteria for X."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We should consider X first, as it is the most likely explanation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient’s symptoms and test results confirm the diagnosis of X."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s symptoms are consistent with the typical presentation of X."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think the patient has X."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of X is increased by the presence of Y."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I have seen a similar case before, which was diagnosed with X."
-        },
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The patient’s symptoms are most consistent with X, given the differential diagnosis."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "A possible explanation for the patient’s symptoms is X, which is not typically considered."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The patient’s physical examination findings suggest X, based on the visual inspection."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If X is true, then we should expect to see Y, based on the underlying mechanism."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient meets the diagnostic criteria for X, based on the established protocol."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We should consider X first, as it is the most likely explanation, given the patient’s presentation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient’s symptoms and test results confirm the diagnosis of X, based on the expected findings."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s symptoms are consistent with the typical presentation of X, based on the established pattern."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think the patient has X, based on my clinical experience."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of X is increased by the presence of Y, based on the Bayesian analysis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I have seen a similar case before, which was diagnosed with X, and this case has similar characteristics."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The patient’s symptoms are due to the underlying mechanism of X, which is the primary cause."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If X is true, then we should expect to see Y, based on the underlying pathophysiology."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient meets the diagnostic criteria for X, based on the established guidelines."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We should consider X first, as it is the most likely explanation, given the patient’s presentation and medical history."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient’s symptoms and test results confirm the diagnosis of X, based on the expected findings and clinical presentation."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s symptoms are consistent with the typical presentation of X, based on the established pattern and clinical experience."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think the patient has X, based on my clinical intuition and experience."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of X is increased by the presence of Y, based on the Bayesian analysis and clinical data."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I have seen a similar case before, which was diagnosed with X, and this case has similar characteristics and presentation."
-        },
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The patient’s symptoms are most consistent with X, given the differential diagnosis and clinical presentation."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "A possible explanation for the patient’s symptoms is X, which is not typically considered but is plausible based on the clinical data."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The patient’s physical examination findings suggest X, based on the visual inspection and clinical experience."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If X is true, then we should expect to see Y, based on the underlying mechanism and pathophysiology."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient meets the diagnostic criteria for X, based on the established protocol and guidelines."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We should consider X first, as it is the most likely explanation, given the patient’s presentation, medical history, and clinical data."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient’s symptoms and test results confirm the diagnosis of X, based on the expected findings, clinical presentation, and established criteria."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s symptoms are consistent with the typical presentation of X, based on the established pattern, clinical experience, and medical literature."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think the patient has X, based on my clinical intuition, experience, and knowledge of the medical literature."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of X is increased by the presence of Y, based on the Bayesian analysis, clinical data, and medical literature."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I have seen a similar case before, which was diagnosed with X, and this case has similar characteristics, presentation, and clinical data."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The patient’s symptoms are due to the underlying mechanism of X, which is the primary cause, based on the pathophysiology and clinical data."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If X is true, then we should expect to see Y, based on the underlying pathophysiology, clinical presentation, and medical literature."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient meets the diagnostic criteria for X, based on the established guidelines, protocol, and medical literature."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We should consider X first, as it is the most likely explanation, given the patient’s presentation, medical history, clinical data, and medical literature."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient’s symptoms and test results confirm the diagnosis of X, based on the expected findings, clinical presentation, established criteria, and medical literature."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s symptoms are consistent with the typical presentation of X, based on the established pattern, clinical experience, medical literature, and knowledge of similar cases."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think the patient has X, based on my clinical intuition, experience, knowledge of the medical literature, and familiarity with similar cases."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of X is increased by the presence of Y, based on the Bayesian analysis, clinical data, medical literature, and knowledge of similar cases."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I have seen a similar case before, which was diagnosed with X, and this case has similar characteristics, presentation, clinical data, and medical literature."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 16,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The classic presentation of giant-cell arteritis includes headache, scalp tenderness, jaw claudication, and visual disturbances."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of anorexia nervosa, we would expect to see severe bradycardia, orthostatic hypotension, hypothermia, and delayed skeletal maturation."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnosis of anorexia nervosa is based on the presence of persistent restriction of energy intake leading to a significantly low body weight, intense fear of gaining weight, and body‑image disturbance."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, which typically includes abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s weight loss, bradycardia, and hypothermia are all consistent with the diagnosis of anorexia nervosa."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 13,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -647,233 +72,43 @@
       "voter_id": 10,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had a primary cardiac conduction disease, we would expect to see a persistent bradycardia despite nutritional support, which is not the case here."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient meets the core diagnostic criteria for restrictive‑type anorexia nervosa, including persistent restriction of energy intake leading to a significantly low body weight, intense fear of gaining weight, and body‑image disturbance."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "Given the absence of systemic signs (fever, lymphadenopathy), normal organ‑function panels, and a comprehensive negative infectious work‑up, infectious causes are unlikely to account for the primary clinical picture."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient’s bone age lag (15 y 6 m versus 19 y) and low BMD (as indicated by densitometry) are classic complications of chronic AN, supporting the primary diagnosis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary anorexia nervosa, given the patient’s chronic weight loss, autonomic dysfunction, and psychosocial profile."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The likelihood of restrictive‑type anorexia nervosa is very high, given the comprehensive metabolic panel, complete blood count with differential, thyroid panel, sex hormone profile, and cortisol assessment."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had a primary cardiac conduction disease, we would expect to see a family history of sudden cardiac death or known channelopathy, which is not present."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient’s heart rate is markedly low, not high; temperature is low; thyroid function tests were normal, which rules out hyperthyroidism."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "Given the absence of systemic signs (fever, lymphadenopathy), normal organ‑function panels, and a comprehensive negative infectious work‑up, infectious causes are unlikely to account for the primary clinical picture."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The likelihood of restrictive‑type anorexia nervosa is very high given the chronic weight loss, severe bradycardia, orthostatic hypotension, hypothermia, delayed bone age, and low BMD."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The patient’s low temperature, bradycardia, and likely low T₃ (even if total T₃ not measured) fit the pattern of euthyroid sick syndrome, which is a secondary phenomenon of AN."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, which is not relevant in this case but demonstrates the process of ruling out alternative diagnoses."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s clinical picture aligns with hypogonadotropic hypogonadism secondary to energy deficiency, which is a common complication of severe AN."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the patient’s refusal to increase caloric intake despite medical advice suggests an intense fear of gaining weight."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not applicable here but the case of severe restrictive‑type anorexia nervosa with secondary functional fecal impaction is a classic presentation."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not applicable here but the patient’s autonomic dysfunction (bradycardia, orthostatic hypotension, hypothermia) can be explained by a combination of atrophic myocardium, electrolyte disturbances, and a “low-output” state."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a lesion in the midbrain is not applicable here but the CT findings of massive gastric and small-bowel dilatation without a discrete transition point, together with abundant fecal material throughout the colon, are most parsimoniously attributed to a functional obstruction caused by fecal impaction."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is not applicable here but the patient’s diagnosis can be confirmed by the presence of persistent restriction of energy intake, intense fear of gaining weight, and body-image disturbance."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not applicable here but the patient’s presentation demands a systematic exploration of alternative and co-existing pathophysiologic processes, starting with the most life-threatening conditions."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 1,
-      "n_unresolved": 9,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysfunction in this system can lead to reduced colonic motility, decreased bulk of stool, and relative dehydration, which in turn causes severe functional constipation and fecal impaction."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had a primary cardiac conduction disease, we would expect to see persistent bradycardia despite nutritional support, which is not the case here."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnostic criteria for anorexia nervosa include persistent restriction of energy intake leading to a significantly low body weight, intense fear of gaining weight, and body‑image disturbance."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first rule out other potential causes of weight loss and abdominal pain, such as inflammatory bowel disease, celiac disease, and neoplastic obstruction, before attributing the patient’s symptoms to anorexia nervosa."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient’s improvement with refeeding and the resolution of the obstruction with laxatives support the diagnosis of anorexia nervosa with secondary functional fecal impaction."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s presentation is a classic example of severe restrictive‑type anorexia nervosa, with symptoms including profound weight loss, bradycardia, orthostatic hypotension, hypothermia, and delayed linear growth."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I suspect that the patient’s reluctance to increase caloric intake despite medical advice suggests a deep‑seated fear of gaining weight, which is a hallmark of anorexia nervosa."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Given the patient’s severe malnutrition and the presence of refeeding syndrome, the probability of anorexia nervosa as the primary diagnosis is very high, while the probability of other potential diagnoses, such as primary cardiac conduction disease, is low."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar case of a patient with anorexia nervosa who presented with functional fecal impaction and refeeding syndrome, which supports the diagnosis in this patient."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 1,
-      "n_unresolved": 10,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysfunction in the autonomic nervous system secondary to severe malnutrition leads to reduced colonic motility, decreased bulk of stool, and relative dehydration, causing severe functional constipation and fecal impaction."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had a primary cardiac conduction disease, we would expect to see persistent bradycardia despite nutritional support and possibly a family history of sudden cardiac death or known channelopathy."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnosis of refeeding syndrome is based on the presence of hypophosphatemia, hypokalemia, and hypomagnesemia after the initiation of nutrition support in a patient with severe malnutrition."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The patient’s presentation with weight loss, abdominal pain, and systemic symptoms requires a systematic exploration of alternative and co‑existing pathophysiologic processes, starting with the most life-threatening conditions such as bowel obstruction or acute abdominal emergency."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s clinical picture—characterized by profound weight loss, severe bradycardia, orthostatic hypotension, hypothermia, delayed bone age, and low bone density—is typical of severe restrictive‑type anorexia nervosa."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary anorexia nervosa, given the patient’s history of restrictive eating, fear of gaining weight, and body-image disturbance."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of anorexia nervosa given the patient’s presentation with weight loss, bradycardia, and hypothermia is very high, as these symptoms are commonly seen in patients with this condition."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process of refeeding syndrome seems to begin with the accumulation of insulin-secreting cells and the driving of phosphate, potassium, and magnesium intracellularly, leading to hypophosphatemia, hypokalemia, and hypomagnesemia."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis and support the diagnosis of anorexia nervosa."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar patient with anorexia nervosa who presented with severe bradycardia and hypothermia, and the patient’s clinical course was similar to the one described here."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had a primary cardiac conduction disease, we would expect the bradycardia to be persistent despite nutritional support, which is not the case here."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not applicable here but, All organ‑system findings can be integrated into this unifying diagnosis of severe restrictive‑type anorexia nervosa."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Given the absence of systemic signs (fever, lymphadenopathy), normal organ‑function panels, and a comprehensive negative infectious work‑up, infectious causes are unlikely to account for the primary clinical picture."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is not explicitly stated but, the patient’s clinical picture aligns with hypogonadotropic hypogonadism secondary to energy deficiency."
-        },
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The coincidence of sinus pain and lung nodules is not present here but, the patient’s weight loss, abdominal pain, and autonomic dysfunction are classic for severe restrictive‑type anorexia nervosa."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient’s bone age lag of ~3 years and low BMD are compatible with GH/IGF‑1 suppression, and necessitate calcium, vitamin D, and eventual weight‑bearing rehabilitation."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The patient’s low temperature, bradycardia, and likely low T₃ fit this pattern of euthyroid sick syndrome, which is better viewed as a secondary phenomenon of AN."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first rule out life-threatening diagnoses such as primary cardiac conduction disease, infections, and neoplasia, before considering less serious conditions like functional constipation."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

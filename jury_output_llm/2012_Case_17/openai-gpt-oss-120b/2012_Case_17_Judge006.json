@@ -1,0 +1,29 @@
+{
+  "case": "2012 Case 17__openai-gpt-oss-120b.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T17:15:28.785107+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4661,
+          4980
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical picture of a previously healthy 54‑year‑old man who develops an acute, then sub‑acute, right inferior quadrantanopia associated with two adjacent, well‑circumscribed, heterogeneously enhancing lesions in the left occipital‑parietal region forces consideration of a broad spectrum of intracranial processes."
+    },
+    {
+      "ranges": [
+        [
+          5553,
+          5760
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The discussion proceeds from the most common and plausible entities to rarer but still credible alternatives, culminating in an assessment of the most likely diagnosis(s) and suggestions for further work‑up."
+    }
+  ]
+}

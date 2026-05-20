@@ -1,0 +1,62 @@
+{
+  "case": "2019 Case 07__openai-gpt-oss-120b.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T18:18:47.181887+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28108,
+          28244
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "most compelling explanation** is a **superimposed infectious process (bacterial or mycobacterial) within a CLL‑infiltrated inguinal node"
+    },
+    {
+      "ranges": [
+        [
+          8788,
+          9116
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis therefore must encompass a broad spectrum of malignant, infectious, inflammatory, and iatrogenic processes that can involve inguinal lymph nodes in an immunocompromised host, while also taking into account the specific histopathologic finding of a monomorphic small‑cell infiltrate consistent with CLL"
+    },
+    {
+      "ranges": [
+        [
+          15338,
+          15536
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The necrotic center could represent a bacterial abscess, but the absence of overt skin infection and the presence of a dense CLL infiltrate make pure bacterial lymphadenitis somewhat less compelling"
+    },
+    {
+      "ranges": [
+        [
+          23075,
+          23227
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "the core biopsy identified CLL cells, it is worth considering whether a **second, distinct lymphoma** could be present concurrently (composite lymphoma)"
+    },
+    {
+      "ranges": [
+        [
+          8608,
+          8786
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The problem is compounded by a long history of immune dysregulation (hypogammaglobulinemia, repeated chemotherapy, and biologic therapy) and multiple prior cutaneous malignancies"
+    }
+  ]
+}

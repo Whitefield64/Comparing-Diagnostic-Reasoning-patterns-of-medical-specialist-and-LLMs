@@ -1,0 +1,139 @@
+{
+  "case": "2011 Case 15__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T20:28:04.904540+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3825,
+          4030
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "ms of vaginal discharge, headache, and fatigue could be indicative of a variety of conditions, including sexually transmitted infections (STIs), given the patient's history of sexual activity. The administ"
+    },
+    {
+      "ranges": [
+        [
+          4492,
+          4717
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The development of a painful genital ulcer is a critical aspect of the patient's presentation. Genital ulcers can be caused by a range of conditions, including STIs such as syphilis, herpes simplex virus (HSV), and chancroid."
+    },
+    {
+      "ranges": [
+        [
+          5018,
+          5159
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of a painful ulcer, on the other hand, is more consistent with HSV or chancroid, both of which can cause painful genital ulcers."
+    },
+    {
+      "ranges": [
+        [
+          11871,
+          11986
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the patient responds well to treatment for a specific STI, this will provide strong evidence for that diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11236,
+          11420
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "a range of tests should be considered, including nucleic acid amplification tests (NAATs) for chlamydia, gonorrhea, and trichomoniasis, as well as serologic tests for syphilis and HIV."
+    },
+    {
+      "ranges": [
+        [
+          9604,
+          9801
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "ymptoms of headache, fatigue, sore throat, and anorexia, which preceded the development of the genital ulcer, could be indicative of a systemic infection or an early stage of an STI. Acute retrovir"
+    },
+    {
+      "ranges": [
+        [
+          11746,
+          11870
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's response to treatment will be an important factor in determining the diagnosis and guiding further management."
+    },
+    {
+      "ranges": [
+        [
+          4718,
+          4870
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The description of the ulcer as painful with undermined borders and without surrounding induration is more suggestive of certain conditions over others."
+    },
+    {
+      "ranges": [
+        [
+          8128,
+          8259
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's age, sexual history, and the fact that her partner reportedly refused to use condoms also increase her risk for STIs."
+    },
+    {
+      "ranges": [
+        [
+          14446,
+          14697
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "cal presentation and the epidemiological context suggest that STIs, including HIV, should be considered high on the list of potential diagnoses, with a comprehensive approach to diagnosis and treatment being crucial for optimal patient care.\n\nGiven th"
+    },
+    {
+      "ranges": [
+        [
+          6248,
+          6448
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The development of a genital ulcer could also be related to HIV, either as a direct manifestation of the infection or due to immunosuppression leading to reactivation of latent infections such as HSV."
+    },
+    {
+      "ranges": [
+        [
+          6912,
+          7009
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "a genital ulcer makes an STI or a condition related to sexual health more likely. The patient's h"
+    }
+  ]
+}

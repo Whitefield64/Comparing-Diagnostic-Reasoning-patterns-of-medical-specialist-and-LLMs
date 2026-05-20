@@ -1,0 +1,172 @@
+{
+  "case": "2005 Case 34__openai-gpt-oss-120b.md",
+  "annotator": "Judge002",
+  "exported_at": "2026-05-18T16:25:42.005995+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8409,
+          8829
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical picture of a previously healthy 10‑year‑old who develops a rapidly progressive, confluent erythematous‑macular rash that evolves into widespread vesicles, bullae, and full‑thickness epidermal detachment involving >90 % of body surface area, with prominent mucosal involvement (oral, ocular, genital), fever, hypotension, and multiorgan dysfunction, is classic for a severe cutaneous adverse reaction (SCAR)."
+    },
+    {
+      "ranges": [
+        [
+          9108,
+          9361
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The discussion below evaluates each major diagnostic category, weighing the supporting and opposing evidence provided by the chronology, physical findings, laboratory data, and epidemiologic clues, and then narrows to the most plausible final diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9535,
+          9730
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "TEN and SJS represent a spectrum of keratinocyte apoptosis triggered by drug‑specific cytotoxic T‑cell–mediated immune responses, with release of granulysin, perforin, granzyme B, and Fas‑ligand."
+    },
+    {
+      "ranges": [
+        [
+          10042,
+          10182
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The latency from drug exposure to onset of rash in TEN is typically 5–21 days, but can be longer with carbamazepine, especially in children."
+    },
+    {
+      "ranges": [
+        [
+          10430,
+          10590
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient had no prior exposure to sulfonamides (although her father had a sulfa reaction, suggesting a familial propensity for severe drug hypersensitivity)."
+    },
+    {
+      "ranges": [
+        [
+          10674,
+          10821
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The description of a “second‑degree‑burn‑like” denudation involving 97 % of the epidermis, with a positive Nikolsky sign, is pathognomonic for TEN."
+    },
+    {
+      "ranges": [
+        [
+          9732,
+          9836
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The result is full‑thickness epidermal necrosis, leading to detachment of the epidermis from the dermis."
+    },
+    {
+      "ranges": [
+        [
+          14436,
+          14620
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "hough SSSS remains a theoretical consideration in any bullous eruption with a positive Nikolsky sign, the constellation of findings in this case makes it an unlikely primary diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11345,
+          11547
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient developed neutropenia, thrombocytopenia, and anemia within days of skin detachment, consistent with bone‑marrow suppression secondary to widespread inflammation and sepsis often seen in TEN."
+    },
+    {
+      "ranges": [
+        [
+          26160,
+          26373
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The severe epidermal loss in TEN predisposes to:\n\n* **Fluid and electrolyte derangements** – Massive trans‑epidermal fluid loss manifested as hypotension, oliguria, and the need for albumin and vasopressor support"
+    },
+    {
+      "ranges": [
+        [
+          29012,
+          29143
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The hierarchy clearly places carbamazepine‑induced TEN at the apex, with other entities relegated to low or negligible probability."
+    },
+    {
+      "ranges": [
+        [
+          29305,
+          29454
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The clinical course fulfills the diagnostic criteria for TEN:\n\n1. **Skin involvement** – >90 % BSA epidermal detachment with a positive Nikolsky sign"
+    },
+    {
+      "ranges": [
+        [
+          29779,
+          29944
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The subsequent infections, respiratory complications, and multiorgan failure represent sequelae of the primary TEN process rather than alternative primary diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          30610,
+          30761
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of mucosal erosions, a positive Nikolsky sign, and rapid skin denudation should trigger a TEN work‑up even before laboratory confirmation."
+    },
+    {
+      "ranges": [
+        [
+          31567,
+          31847
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A thorough differential diagnosis of a pediatric patient with a bullous, sloughing skin eruption and acute respiratory failure must prioritize drug‑induced toxic epidermal necrolysis, particularly when an aromatic anticonvulsant such as carbamazepine has been recently introduced."
+    }
+  ]
+}

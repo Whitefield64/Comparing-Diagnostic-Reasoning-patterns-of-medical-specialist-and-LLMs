@@ -1,0 +1,73 @@
+{
+  "case": "2006 Case 36__openai-gpt-oss-120b.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T16:36:51.673161+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          12224,
+          12493
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The biochemical hallmark (UFC ≈ 1 865 µg) establishes hypercortisolism. Distinguishing ACTH‑dependent from ACTH‑independent disease hinges on serum ACTH measurement (high in CD/EAS, low in adrenal adenoma/carcinoma) and on imaging (pituitary MRI versus adrenal CT/MRI)."
+    },
+    {
+      "ranges": [
+        [
+          24218,
+          24534
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cortisol potentiates the vasoconstrictive response of vascular smooth muscle to catecholamines by up‑regulating α‑adrenergic receptors and enhancing the expression of endothelin‑1. In addition, cortisol’s mineralocorticoid activity (via 11β‑HSD2 saturation) promotes sodium retention, expanding intravascular volume."
+    },
+    {
+      "ranges": [
+        [
+          32973,
+          33222
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Synthesizing the clinical, laboratory, and epidemiologic data, the leading diagnosis is **Cushing disease—an ACTH‑secreting pituitary corticotroph adenoma**. The key arguments are:\n\n- **Biochemical confirmation of hypercortisolism** (UFC ≈ 1 865 µg)"
+    },
+    {
+      "ranges": [
+        [
+          19131,
+          19268
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient’s phenotype (hypertension, hyperglycemia, high cortisol) is opposite to that expected in CAH. Therefore, CAH can be excluded."
+    },
+    {
+      "ranges": [
+        [
+          24777,
+          25066
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cortisol stimulates hepatic gluconeogenesis, antagonizes peripheral glucose uptake, and impairs β‑cell insulin secretion. The resultant insulin resistance manifests as polyuria, polydipsia, and fasting glucose in the 140–180 mg/dL range, as well as a 1‑hour post‑load glucose of 346 mg/dL."
+    },
+    {
+      "ranges": [
+        [
+          34049,
+          34227
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Adrenal adenoma remains a viable second‑most likely diagnosis pending ACTH measurement and adrenal imaging. If ACTH is low, the diagnostic focus would shift to the adrenal gland."
+    }
+  ]
+}

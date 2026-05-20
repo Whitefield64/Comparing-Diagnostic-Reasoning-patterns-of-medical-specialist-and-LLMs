@@ -1,0 +1,95 @@
+{
+  "case": "2012 Case 01__openai-gpt-oss-120b.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T17:04:44.362306+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8358,
+          8607
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis must address three broad categories: (1) **Infectious processes**, (2) **Immune‑mediated or drug‑related inflammatory disorders**, and (3) **Systemic diseases that can manifest with neutrophilic dermatoses or vasculitis**."
+    },
+    {
+      "ranges": [
+        [
+          22303,
+          22456
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "m (PG)  \n\n*Rationale.*  PG is a neutrophilic dermatosis characterized by rapidly progressive, painful, necrotic ulcers with violaceous undermined borders"
+    },
+    {
+      "ranges": [
+        [
+          22608,
+          22836
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s clinical course—exacerbation after surgical debridement, dense neutrophilic infiltrate, lack of organisms, and association with hidradenitis suppurativa (another neutrophilic disease)—fits the classic PG phenotype."
+    },
+    {
+      "ranges": [
+        [
+          10252,
+          10452
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A primary bacterial cellulitis or necrotizing fasciitis is **unlikely** to be the primary driver of the ongoing ulcerations, though a superimposed bacterial colonisation cannot be completely excluded."
+    },
+    {
+      "ranges": [
+        [
+          22094,
+          22233
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "While a paraneoplastic immune‑complex vasculitis cannot be entirely excluded, it is **less favored** compared with neutrophilic dermatoses."
+    },
+    {
+      "ranges": [
+        [
+          21946,
+          22077
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The clinical morphology (pathergy, deep ulceration) aligns better with neutrophilic dermatoses than with immune‑complex vasculitis."
+    },
+    {
+      "ranges": [
+        [
+          10454,
+          10591
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The lack of response to broad‑spectrum antibiotics and the sterile cultures shift the focus away from a conventional bacterial infection."
+    },
+    {
+      "ranges": [
+        [
+          35612,
+          35847
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "he **Su et al. criteria** for PG (major criteria: neutrophilic infiltrate on histology, exclusion of infection; minor criteria: pathergy, associated systemic disease, rapid progression, undermined violaceous border, response to steroid"
+    }
+  ]
+}

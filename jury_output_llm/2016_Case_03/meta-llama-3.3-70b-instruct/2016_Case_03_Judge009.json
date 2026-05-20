@@ -1,0 +1,315 @@
+{
+  "case": "2016 Case 03__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T21:07:26.097735+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7819,
+          7995
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation of intermittent abdominal pain, nonbilious vomiting, and chronic constipation is complex and multifaceted, suggesting a range of potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          7996,
+          8176
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "To approach this case, it is essential to consider various categories of disease, including malignant, infectious, inflammatory, structural, gynecologic, systemic, and rare causes."
+    },
+    {
+      "ranges": [
+        [
+          8177,
+          8339
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Initially, it is crucial to consider infectious causes, such as gastroenteritis or Helicobacter pylori infection, which could lead to abdominal pain and vomiting."
+    },
+    {
+      "ranges": [
+        [
+          8340,
+          8497
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the patient's negative serologic testing for H. pylori infection and the lack of fever, diarrhea, or bloody stools make these diagnoses less likely."
+    },
+    {
+      "ranges": [
+        [
+          8498,
+          8623
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Additionally, the sterile urine culture and normal abdominal radiograph further reduce the likelihood of an infectious cause."
+    },
+    {
+      "ranges": [
+        [
+          8625,
+          8744
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory bowel disease (IBD), including Crohn's disease and ulcerative colitis, is another important consideration."
+    },
+    {
+      "ranges": [
+        [
+          8846,
+          8990
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the patient's normal complete blood count, white-cell differential count, and negative testing for celiac disease make IBD less likely."
+    },
+    {
+      "ranges": [
+        [
+          8991,
+          9168
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Furthermore, the absence of blood, mucus, or greasy stools in the patient's history, as well as the normal esophagogastroduodenoscopy and biopsy results, also argue against IBD."
+    },
+    {
+      "ranges": [
+        [
+          9364,
+          9458
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Structural causes, such as intestinal obstruction or intussusception, must also be considered."
+    },
+    {
+      "ranges": [
+        [
+          9459,
+          9620
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's abdominal radiograph showed a nonobstructive bowel-gas pattern, and the ultrasound image was normal, reducing the likelihood of a structural cause."
+    },
+    {
+      "ranges": [
+        [
+          9621,
+          9783
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Moreover, the absence of abdominal guarding, rebound tenderness, or a palpable mass on physical examination further supports the lack of a structural abnormality."
+    },
+    {
+      "ranges": [
+        [
+          9989,
+          10092
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Gynecologic causes, such as ovarian torsion or ovarian cysts, are unlikely in this prepubertal patient."
+    },
+    {
+      "ranges": [
+        [
+          10093,
+          10272
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, it is essential to consider other potential gynecologic causes, such as precocious puberty or other endocrine disorders, which could contribute to the patient's symptoms."
+    },
+    {
+      "ranges": [
+        [
+          10273,
+          10424
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Systemic causes, including diabetes mellitus or thyroid disease, are also unlikely given the patient's normal blood glucose and thyroid function tests."
+    },
+    {
+      "ranges": [
+        [
+          10425,
+          10563
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's normal growth and development, as well as the lack of other systemic symptoms, further support the lack of a systemic cause."
+    },
+    {
+      "ranges": [
+        [
+          10565,
+          10653
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Rare causes, such as abdominal migraine or cyclic vomiting syndrome, must be considered."
+    },
+    {
+      "ranges": [
+        [
+          10654,
+          10852
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms of intermittent abdominal pain, vomiting, and pallor, as well as the lack of response to traditional gastrointestinal therapies, suggest the possibility of abdominal migraine."
+    },
+    {
+      "ranges": [
+        [
+          10853,
+          10994
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's family history of migraines and the presence of asthma, which is often comorbid with migraines, further support this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10995,
+          11159
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Abdominal migraine is a condition characterized by recurrent episodes of abdominal pain, often accompanied by other symptoms such as vomiting, pallor, and headache."
+    },
+    {
+      "ranges": [
+        [
+          11160,
+          11288
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's symptoms are consistent with this diagnosis, and the lack of other explanatory causes makes it a plausible option."
+    },
+    {
+      "ranges": [
+        [
+          14450,
+          14594
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Autonomic dysfunction can lead to a range of symptoms, including abdominal pain, nausea, vomiting, and changes in heart rate and blood pressure."
+    },
+    {
+      "ranges": [
+        [
+          14215,
+          14449
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms of pallor, diaphoresis, and falling suggest that she may be experiencing a degree of autonomic dysfunction, which is often seen in patients with abdominal migraine or other functional gastrointestinal disorders."
+    },
+    {
+      "ranges": [
+        [
+          15195,
+          15422
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's response to therapy with amitriptyline, which is often used to treat abdominal migraine and other functional gastrointestinal disorders, suggests that she may be experiencing a degree of neuromuscular dysfunction."
+    },
+    {
+      "ranges": [
+        [
+          15423,
+          15595
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Amitriptyline is a tricyclic antidepressant that can help to reduce symptoms of abdominal pain, nausea, and vomiting in patients with functional gastrointestinal disorders."
+    },
+    {
+      "ranges": [
+        [
+          15596,
+          15789
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's response to this therapy, as well as her symptoms and test results, suggest that she may be experiencing a functional gastrointestinal disorder, such as abdominal migraine or IBS."
+    },
+    {
+      "ranges": [
+        [
+          12559,
+          12672
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In conclusion, the patient's presentation is complex and multifaceted, suggesting a range of potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          12673,
+          12911
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "While infectious, inflammatory, structural, gynecologic, and systemic causes are possible, the patient's symptoms and test results suggest that abdominal migraine or a functional gastrointestinal disorder may be the most likely diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          16141,
+          16320
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "A comprehensive and multidisciplinary approach, including pediatric gastroenterology, neurology, and psychology, is necessary to fully diagnose and manage the patient's condition."
+    }
+  ]
+}

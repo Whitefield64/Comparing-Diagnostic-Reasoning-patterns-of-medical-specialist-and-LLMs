@@ -1,9 +1,9 @@
 {
   "case": "2015 Case 40__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T12:30:08.437879+00:00",
+  "exported_at": "2026-05-20T14:08:45.942054+00:00",
   "n_voters": 15,
-  "n_successful": 8,
-  "n_failed": 7,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
@@ -23,38 +23,13 @@
       "voter_id": 3,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysfunction of the endothelial autoregulation, including chronic hypertension, preeclampsia, immunosuppressive therapy, and renal disease, could be due to the patient’s chronic poor nutrition, possible volume overload from sodium retention, and long-standing uncontrolled hypertension."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The most immediate concern is the hypertensive emergency, and we must first rule out other life-threatening diagnoses, such as pheochromocytoma, neurosyphilis, and systemic vasculitis, before considering less serious ones."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s presentation with severe hypertension, headache, and psychosis is typical of a hypertensive emergency, and the presence of a long-standing psychotic illness with grandiose and paranoid features raises the possibility of an underlying organic etiology."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients, and the patient’s age and lack of other symptoms make this less likely, but not impossible."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "This case is reminiscent of other cases where patients with chronic psychosis have been found to have underlying organic etiologies, such as pheochromocytoma or neurosyphilis, that have been misattributed to psychiatric illness for years."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "The possibility that her psychosis and hypertension are both manifestations of an underlying metabolic or toxic encephalopathy, such as chronic thiamine deficiency or lead poisoning, is an important consideration that requires further evaluation."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 9,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -67,8 +42,8 @@
     },
     {
       "voter_id": 6,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 15,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -83,56 +58,27 @@
       "voter_id": 8,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process of hypertensive emergency, defined by severe elevation in blood pressure with evidence of acute end-organ damage, could be related to several factors including chronic hypertension, preeclampsia, immunosuppressive therapy, and renal disease."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, but this patient’s presentation does not fit neatly into one category."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The most immediate concern is the hypertensive emergency, defined by severe elevation in blood pressure with evidence of acute end-organ damage."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of severe hypertension, headache, and psychosis could represent a septic embolus to the brain, particularly in the context of her history of intravenous drug use."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients, which informs our consideration of this patient’s presentation."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "Another critical consideration is pheochromocytoma, a catecholamine-secreting tumor of the adrenal medulla or extra-adrenal paraganglia, which could explain the patient’s episodic hypertension and headache."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images and physical examination findings, such as the presence of venous stasis dermatitis and tinea pedis, suggest chronic skin breakdown and possible bacteremia, raising the possibility of occult infection seeding the valves."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 10,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 10,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 7,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 11,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 13,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -140,30 +86,13 @@
       "voter_id": 12,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries, is not present in this text, however,  the fact that her blood pressure responded dramatically to labetalol and captopril supports a diagnosis of hypertensive crisis, and PRES remains a plausible, though unconfirmed, contributor to her headache."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had pheochromocytoma, we would expect to see paroxysmal hypertension, headache, palpitations, and diaphoresis, but in this case, the symptoms can be insidious and mistaken for anxiety, psychosis, or essential hypertension."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis, is not present in this text, however,  a renal artery Doppler or CT angiography would be needed to exclude renovascular hypertension."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s history of chronic psychosis could represent a late manifestation of an underlying autoimmune process that has been slowly progressing for years, similar to cases of systemic lupus erythematosus (SLE) presenting with neuropsychiatric manifestations."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 9,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -171,38 +100,13 @@
       "voter_id": 14,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has pheochromocytoma, we would expect to see paroxysmal hypertension, headache, palpitations, and diaphoresis, but in many cases, particularly in atypical or chronic presentations, symptoms can be insidious and mistaken for anxiety, psychosis, or essential hypertension."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but the same logic applies: we must first rule out life-threatening conditions such as hypertensive emergency, pheochromocytoma, and neurosyphilis."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not available in this case, but the clinical presentation and lab results are consistent with a hypertensive emergency."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a hypertensive emergency with underlying chronic, uncontrolled essential hypertension exacerbated by stress, poor nutrition, and noncompliance, although I am concerned about the possibility of an underlying organic etiology such as pheochromocytoma or neurosyphilis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The dramatic response to antihypertensives and the absence of other findings increase the likelihood of a hypertensive emergency, but the presence of a long-standing psychotic illness with grandiose and paranoid features, combined with the acute hypertensive crisis, leaves open the possibility of an underlying organic etiology."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "This case is reminiscent of other cases where patients with chronic psychosis have been found to have underlying organic etiologies, such as pheochromocytoma or neurosyphilis, that have been misattributed to psychiatric illness for years."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 10,
       "n_unresolved": 0,
       "unresolved": []
     }

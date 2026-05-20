@@ -1,9 +1,9 @@
 {
   "case": "2016 Case 15__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T13:07:35.820409+00:00",
+  "exported_at": "2026-05-20T14:08:45.966788+00:00",
   "n_voters": 15,
-  "n_successful": 12,
-  "n_failed": 3,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
@@ -14,15 +14,15 @@
     },
     {
       "voter_id": 2,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 12,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 3,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 17,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -30,13 +30,8 @@
       "voter_id": 4,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of neoplastic etiologies can be grouped into primary CNS neoplasms, primary CNS lymphoma, and metastatic tumors."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
@@ -49,29 +44,8 @@
       "voter_id": 6,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of neoplastic, infectious, and inflammatory processes can be grouped on the basis of underlying cause and imaging characteristics, such as location, enhancement pattern, and involvement of adjacent structures."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of leptomeningeal nodularity, the location in the basal ganglia and brainstem, the patient’s demographic profile, and the absence of typical neoplastic imaging features make neurosarcoidosis the most plausible and diagnostically urgent consideration."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary inflammatory process, given the combination of clinical and radiologic features."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The fact that the patient is on dextroamphetamine, which can cause CNS hyperexcitability, does not explain the structural lesion or the leptomeningeal spread, but it may have masked or exacerbated subtle symptoms, thus reducing the probability of a purely neoplastic process."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s clinical presentation and imaging findings are reminiscent of cases of neurosarcoidosis, which can present with leptomeningeal enhancement, parenchymal granulomas, and cranial nerve involvement."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
@@ -91,17 +65,8 @@
       "voter_id": 9,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of neoplastic etiologies can be grouped on the basis of underlying pathology, such as primary CNS neoplasms, metastatic tumors, or primary CNS lymphomas."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary inflammatory process, given the patient’s young age and the absence of systemic symptoms."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
@@ -114,25 +79,8 @@
       "voter_id": 11,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present here but the intuition of the clinician towards neurosarcoidosis is: The patient’s young age also makes demyelinating disease unlikely to present with such a focal, enhancing, infiltrative mass."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The fact that the patient is on dextroamphetamine, which can cause CNS hyperexcitability, does not explain the structural lesion or the leptomeningeal spread, but it may have masked or exacerbated subtle symptoms, thus reducing the probability of other diagnosis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Neurosarcoidosis can present with cranial nerve palsies, leptomeningeal enhancement, and parenchymal granulomas, particularly in the basal ganglia and brainstem, this presentation is similar to the one described in this case."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
@@ -145,38 +93,20 @@
       "voter_id": 13,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, instead the most likely is neurosarcoidosis given the patient’s ethnicity, the leptomeningeal nodularity, the basal ganglia and brainstem involvement, the chronicity, and the absence of systemic symptoms."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of neoplastic etiologies can be grouped on the basis of underlying pathology, such as gliomas, primary CNS lymphoma, and metastatic tumor."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary inflammatory process, particularly neurosarcoidosis, given the patient’s ethnicity and the leptomeningeal nodularity."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The temporal lobe mass could represent a granulomatous infiltrate with secondary gliosis and enhancement, similar to what is seen in neurosarcoidosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 10,
       "n_unresolved": 0,
       "unresolved": []
     }

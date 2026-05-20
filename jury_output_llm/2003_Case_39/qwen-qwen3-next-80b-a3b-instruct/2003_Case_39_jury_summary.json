@@ -1,6 +1,6 @@
 {
   "case": "2003 Case 39__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T07:23:02.006264+00:00",
+  "exported_at": "2026-05-20T14:08:45.786375+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -100,13 +100,8 @@
       "voter_id": 14,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a lesion in the dome of the bladder, so a nuclear third- or fourth-nerve palsy is the probable explanation is not present, instead: The location of the mass in the dome of the bladder is not atypical for TCC, which can arise anywhere along the urothelium but is common in the trigone and lateral walls; however, the dome is also a recognized site."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,

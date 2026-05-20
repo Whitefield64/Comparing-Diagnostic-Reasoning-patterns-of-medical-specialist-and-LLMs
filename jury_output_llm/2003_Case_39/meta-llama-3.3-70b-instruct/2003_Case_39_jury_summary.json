@@ -1,6 +1,6 @@
 {
   "case": "2003 Case 39__meta-llama-3.3-70b-instruct.md",
-  "exported_at": "2026-05-18T07:20:13.383064+00:00",
+  "exported_at": "2026-05-20T14:08:45.777298+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -44,17 +44,8 @@
       "voter_id": 6,
       "failed": false,
       "n_resolved": 13,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with gross hematuria and a bladder mass is consistent with a diagnosis of bladder cancer."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the sentence 'The patient's anxiety and the fact that she appears well despite her symptoms suggest that she may be experiencing significant psychological distress related to her illness' can be annotated as IND_INTUITION."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,

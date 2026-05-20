@@ -1,0 +1,95 @@
+{
+  "case": "2019 Case 07__openai-gpt-oss-120b.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T18:18:47.181624+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28108,
+          28244
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "most compelling explanation** is a **superimposed infectious process (bacterial or mycobacterial) within a CLL‑infiltrated inguinal node"
+    },
+    {
+      "ranges": [
+        [
+          31632,
+          31812
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "This hypothesis best reconciles the rapid nodal enlargement, tenderness, central necrosis, intense FDG uptake, and systemic B‑symptoms in a patient with profound immune dysfunction"
+    },
+    {
+      "ranges": [
+        [
+          31814,
+          32006
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The necrotic node likely harbors a bacterial abscess (e.g., Staphylococcus aureus) or a mycobacterial focus; the dominant CLL infiltrate accounts for the immunophenotype seen on flow cytometry"
+    },
+    {
+      "ranges": [
+        [
+          31001,
+          31142
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If mycobacterial infection is strongly suspected (e.g., positive IGRA, exposure history), add **rifampin + isoniazid** pending definitive tes"
+    },
+    {
+      "ranges": [
+        [
+          31155,
+          31250
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "For possible histoplasmosis (positive antigen or granulomatous features), consider **itraconazo"
+    },
+    {
+      "ranges": [
+        [
+          8608,
+          8786
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The problem is compounded by a long history of immune dysregulation (hypogammaglobulinemia, repeated chemotherapy, and biologic therapy) and multiple prior cutaneous malignancies"
+    },
+    {
+      "ranges": [
+        [
+          34067,
+          34161
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "ms. Histology confirms the presence of CLL cells but does not reveal large‑cell transformation"
+    },
+    {
+      "ranges": [
+        [
+          34380,
+          34527
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "mptoms. Richter transformation, although less likely given current pathology, cannot be entirely excluded without a larger tissue sample. Pure CLL "
+    }
+  ]
+}

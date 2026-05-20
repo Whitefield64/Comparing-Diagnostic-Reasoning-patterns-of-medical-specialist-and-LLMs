@@ -1,0 +1,326 @@
+{
+  "case": "2008 Case 29__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T16:39:50.714921+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7789,
+          7976
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with acute abdominal pain, weight loss, and a history of anorexia nervosa (restrictive form) diagnosed 4 years earlier, raises a complex differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          7977,
+          8184
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The key features to consider are the abdominal pain, the patient's significant weight loss, the history of anorexia nervosa, and the findings of fecal impaction and small bowel dilatation on imaging studies."
+    },
+    {
+      "ranges": [
+        [
+          8951,
+          9135
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Fecal impaction can cause abdominal pain, distention, and nausea, and it is a known complication in patients with eating disorders, particularly those with restrictive eating patterns."
+    },
+    {
+      "ranges": [
+        [
+          9136,
+          9277
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This condition can lead to severe constipation due to decreased food intake, reduced fiber consumption, and potentially altered gut motility."
+    },
+    {
+      "ranges": [
+        [
+          9727,
+          9913
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's bradycardia, orthostatic hypotension, and the findings on electrocardiograms are consistent with potential electrolyte imbalances and cardiac effects of refeeding syndrome."
+    },
+    {
+      "ranges": [
+        [
+          14156,
+          14362
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnoses appear to be related to the complications of anorexia nervosa, including fecal impaction, potential refeeding syndrome, and the psychiatric management of the patient's eating disorder."
+    },
+    {
+      "ranges": [
+        [
+          12291,
+          12449
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "ion.\n\nThe patient's history of anorexia nervosa and the physical findings of temporal wasting, dry lips, and cool hands and feet, suggest severe malnutrition."
+    },
+    {
+      "ranges": [
+        [
+          10133,
+          10257
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Anorexia nervosa can lead to hypothalamic amenorrhea in females and hypogonadism in males, affecting growth and development."
+    },
+    {
+      "ranges": [
+        [
+          9951,
+          10132
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient's low body mass index (BMI), delayed puberty, and the family history of delayed puberty and hypercholesterolemia raise questions about potential endocrine abnormalities."
+    },
+    {
+      "ranges": [
+        [
+          18992,
+          19184
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The use of medications, such as antidepressants or anti-anxiety agents, may be considered in some cases, although this should be done under the guidance of a qualified healthcare professional."
+    },
+    {
+      "ranges": [
+        [
+          17586,
+          17852
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's condition highlights the importance of early recognition and treatment of eating disorders, as well as the need for a comprehensive and supportive approach to management that addresses the physical and psychological aspects of these complex conditions."
+    },
+    {
+      "ranges": [
+        [
+          13910,
+          14155
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the differential diagnosis for this patient is multifaceted, involving considerations of acute abdominal pain, complications of anorexia nervosa, potential refeeding syndrome, endocrine abnormalities, and psychiatric aspects of eating disorders."
+    },
+    {
+      "ranges": [
+        [
+          10768,
+          11055
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's denial of the severity of his condition, continued limitation of caloric intake, and observed exercising behavior despite being hospitalized, highlight the complexity of treating eating disorders and the need for a multidisciplinary approach that includes psychiatric care."
+    },
+    {
+      "ranges": [
+        [
+          8764,
+          8950
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The finding of fecal impaction, as suggested by the abdominal radiographs and CT scan showing stool throughout the colon and small bowel without a clear transition point, is significant."
+    },
+    {
+      "ranges": [
+        [
+          12573,
+          12753
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's electrocardiogram findings and echocardiography results showing mild mitral and aortic regurgitation, suggest potential cardiac complications related to malnutrition."
+    },
+    {
+      "ranges": [
+        [
+          14538,
+          14699
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's condition necessitates a careful and multidisciplinary approach to management, considering both the medical and psychiatric aspects of his illness."
+    },
+    {
+      "ranges": [
+        [
+          15532,
+          15745
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's significant weight loss and malnutrition have far-reaching consequences on his overall health, necessitating a thorough evaluation and management strategy that addresses all aspects of his condition."
+    },
+    {
+      "ranges": [
+        [
+          12297,
+          12449
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's history of anorexia nervosa and the physical findings of temporal wasting, dry lips, and cool hands and feet, suggest severe malnutrition."
+    },
+    {
+      "ranges": [
+        [
+          13277,
+          13431
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's medication regimen, including famotidine, should also be considered, although it is unlikely to be contributing to his current presentation."
+    },
+    {
+      "ranges": [
+        [
+          13432,
+          13519
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's social and family history is also relevant to the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          13719,
+          13893
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's academic success and athletic activities may also be relevant, as they could be contributing to his stress levels and potentially influencing his eating habits."
+    },
+    {
+      "ranges": [
+        [
+          18217,
+          18404
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The use of specialized treatments, such as cognitive-behavioral therapy (CBT) or family-based therapy (FBT), may be beneficial in addressing the psychological aspects of anorexia nervosa."
+    },
+    {
+      "ranges": [
+        [
+          18587,
+          18775
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The involvement of a registered dietitian or nutritionist can be helpful in developing a personalized meal plan that meets the patient's nutritional needs and promotes healthy weight gain."
+    },
+    {
+      "ranges": [
+        [
+          17586,
+          17852
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's condition highlights the importance of early recognition and treatment of eating disorders, as well as the need for a comprehensive and supportive approach to management that addresses the physical and psychological aspects of these complex conditions."
+    },
+    {
+      "ranges": [
+        [
+          19185,
+          19332
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's bone health should also be monitored, with consideration given to the use of supplements or medications to prevent further bone loss."
+    },
+    {
+      "ranges": [
+        [
+          19843,
+          20025
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The importance of ongoing monitoring and support cannot be overstated, as the recovery process can be long and challenging, and may require ongoing adjustments to the treatment plan."
+    },
+    {
+      "ranges": [
+        [
+          20027,
+          20202
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's condition also highlights the need for increased awareness and education about eating disorders, as well as the importance of early recognition and intervention."
+    },
+    {
+      "ranges": [
+        [
+          20203,
+          20426
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "By promoting healthy eating habits and body image, and by providing support and resources for individuals struggling with eating disorders, we can work to prevent the development of these complex and challenging conditions."
+    },
+    {
+      "ranges": [
+        [
+          20440,
+          20651
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "the development of new and innovative treatments, such as specialized therapies or medications, may help to improve outcomes and promote recovery for individuals with anorexia nervosa and other eating disorders."
+    }
+  ]
+}

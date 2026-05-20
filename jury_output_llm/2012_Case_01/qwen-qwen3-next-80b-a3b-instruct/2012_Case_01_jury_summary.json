@@ -1,110 +1,42 @@
 {
   "case": "2012 Case 01__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T10:56:17.764009+00:00",
+  "exported_at": "2026-05-20T14:08:45.889467+00:00",
   "n_voters": 15,
-  "n_successful": 14,
-  "n_failed": 1,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present but the statement The most likely diagnosis is pyoderma gangrenosum can be considered as an intuition based on the information provided."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun is not present but the statement The possibility of a novel or emerging autoimmune syndrome cannot be excluded can be related to this."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has pyoderma gangrenosum, we would expect to see a dense neutrophilic infiltrate on biopsy and a response to immunosuppressive therapy."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of necrotic ulcers with undermined borders and systemic inflammation is typical of pyoderma gangrenosum."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary inflammatory process, given the patient’s response to immunosuppressive therapy."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of renal involvement and elevated ferritin further supports a systemic inflammatory or paraneoplastic process, increasing the probability of an underlying malignancy."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "This case is reminiscent of previously reported cases of pyoderma gangrenosum associated with hematologic malignancies, which often present with similar clinical features."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has a hematologic malignancy, we would expect to see cytopenias, weight loss, and possibly hepatosplenomegaly or lymphadenopathy, which are present in this case."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of neutrophilic dermatoses can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected skin, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description of pyoderma gangrenosum, with painful, rapidly expanding ulcers with undermined, violaceous borders, often following minor trauma—a phenomenon known as pathergy."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary neutrophilic dermatosis, possibly pyoderma gangrenosum or Sweet’s syndrome, given the clinical presentation and histopathological findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of pyoderma gangrenosum involve the lower extremities, the presence of lesions on the trunk and thighs in this patient, combined with the history of hidradenitis suppurativa, increases the likelihood of this diagnosis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with pyoderma gangrenosum may have a catastrophic reaction after high-dose corticosteroid therapy is begun, which is consistent with this patient’s clinical course."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned but the sentence  The most likely diagnosis is pyoderma gangrenosum can be used as an example of this type of reasoning"
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 7,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -112,237 +44,71 @@
       "voter_id": 6,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of necrotic, ulcerative, and purpuric plaques with neutrophilic infiltrates is consistent with pyoderma gangrenosum."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary inflammatory process, given the patient’s underlying conditions and the response to immunosuppressive therapy."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of follicular perforation and folliculitis on biopsy may represent a secondary phenomenon or a variant form of PG with follicular involvement, which has been reported in the literature, and thus increases the likelihood of pyoderma gangrenosum."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The clinical features—pathergy, necrotic ulcers with undermined borders, systemic inflammation, steroid responsiveness, and histopathological neutrophilic infiltrate without vasculitis—are classic for pyoderma gangrenosum, as seen in similar cases."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present here, however the sentence: The profound weight loss and cytopenias necessitate urgent investigation for myelodysplastic syndrome or lymphoma, even in the absence of definitive hematologic findings, suggests an intuitive process."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has pyoderma gangrenosum, we would expect to see a dense neutrophilic infiltrate without vasculitis on biopsy, and the patient’s history of a minor abrasion preceding the eruption, the development of necrotic, undermining, violaceous plaques with gray discoloration at the margins, and the rapid progression despite antibiotics are all highly suggestive of this diagnosis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary inflammatory process, given the patient’s profound weight loss and cytopenias, which necessitate urgent investigation for myelodysplastic syndrome or lymphoma."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of follicular perforation and folliculitis on biopsy may represent a secondary phenomenon or a variant form of pyoderma gangrenosum with follicular involvement, which has been reported in the literature, and this finding increases the probability of pyoderma gangrenosum in this patient."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s history of hidradenitis suppurativa—a condition now recognized as part of the same spectrum of neutrophilic dermatoses as pyoderma gangrenosum—makes the diagnosis of pyoderma gangrenosum even more plausible, given the overlap between these conditions."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the intuition that the patient has a severe underlying condition such as pyoderma gangrenosum is a consideration."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of follicular perforation and folliculitis on biopsy may represent a secondary phenomenon or a variant form of PG with follicular involvement, which has been reported in the literature, thus updating the probability of pyoderma gangrenosum."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s history of hidradenitis suppurativa—a condition now recognized as part of the same spectrum of neutrophilic dermatoses as PG—makes the diagnosis of PG even more plausible, based on prior cases and literature."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The histopathological findings of neutrophilic dermatitis, leukocytoclastic vasculitis, and sterile cultures, are directly suggestive of a diagnosis of pyoderma gangrenosum or Sweet’s syndrome."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The clinical features—pathergy, necrotic ulcers with undermined borders, systemic inflammation, steroid responsiveness, and histopathological neutrophilic infiltrate without vasculitis—are classic for pyoderma gangrenosum, validating the diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned, instead the text states: The most likely diagnosis is pyoderma gangrenosum, triggered by the patient’s underlying inflammatory burden, including hidradenitis suppurativa and possibly occult malignancy."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, this is not mentioned in the text instead: The fact that the lesions improved transiently with high-dose corticosteroids and cyclosporine, and then worsened again with dose reduction, is classic for PG."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned but the text has: The most likely diagnosis is pyoderma gangrenosum, triggered by the patient’s underlying inflammatory burden, including hidradenitis suppurativa and possibly occult malignancy."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not mentioned but the text has: It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun is not mentioned but the text has:  The possibility of a novel or emerging autoimmune syndrome cannot be excluded, particularly given the overlap between hidradenitis suppurativa and other neutrophilic dermatoses, suggesting a shared underlying dysregulation of innate immunity."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has pyoderma gangrenosum, we would expect to see painful, rapidly expanding ulcers with undermined, violaceous borders, often following minor trauma—a phenomenon known as pathergy."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The fact that the lesions worsened despite broad-spectrum antibiotic coverage strongly argues against a simple bacterial etiology."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of neutrophilic dermatoses can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of necrotic, ulcerative plaques with neutrophilic infiltrates is highly suggestive of pyoderma gangrenosum or Sweet’s syndrome."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary neutrophilic dermatosis, such as pyoderma gangrenosum or Sweet’s syndrome, although I am troubled by the negative serologic test and the absence of classic features."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of follicular perforation and folliculitis on biopsy may represent a secondary phenomenon or a variant form of pyoderma gangrenosum with follicular involvement, which has been reported in the literature, and this possibility raises the probability of pyoderma gangrenosum."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with pyoderma gangrenosum may have a catastrophic reaction after high-dose corticosteroid therapy is begun, and this case may represent a similar scenario."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not applicable here but, The presence of neutrophilic dermatitis, particularly in the context of recurrent abscesses and hidradenitis suppurativa, immediately raises the possibility of a neutrophilic dermatosis of the skin."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is not explicitly stated but, The presence of follicular perforation and folliculitis on biopsy may represent a secondary phenomenon or a variant form of PG with follicular involvement, which has been reported in the literature."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient’s weight loss of 2.3 kg per week over a month is profound and alarming, which raises suspicion for an underlying malignancy."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not applicable here but, The possibility of a novel or emerging autoimmune syndrome cannot be excluded, particularly given the overlap between hidradenitis suppurativa and other neutrophilic dermatoses, suggesting a shared underlying dysregulation of innate immunity."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has pyoderma gangrenosum, we would expect to see a dense neutrophilic infiltrate without vasculitis, and a response to high-dose corticosteroids, which is consistent with the patient’s presentation."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnosis of pyoderma gangrenosum is based on the presence of characteristic skin lesions, including necrotic ulcers with undermined borders, and a histopathological findings of neutrophilic dermatitis without vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of skin lesions, including necrotic ulcers with undermined borders, and the presence of neutrophilic dermatitis without vasculitis, is highly suggestive of pyoderma gangrenosum."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is pyoderma gangrenosum, given the patient’s underlying inflammatory burden and the characteristic skin lesions."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of pyoderma gangrenosum is increased by the presence of hidradenitis suppurativa, which is a known risk factor for this condition."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar case of pyoderma gangrenosum in a patient with hidradenitis suppurativa, which suggests that this diagnosis should be considered in this patient."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the sentence 'The most likely diagnosis is pyoderma gangrenosum...' is an example of intuition and was already annotated as ABD_SELECTIVE"
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not applicable here but the sentence 'We must consider primary dermatologic disorders, systemic inflammatory conditions, hematologic malignancies, drug reactions, and rare paraneoplastic syndromes...' was already annotated as DED_ALGORITHMIC"
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

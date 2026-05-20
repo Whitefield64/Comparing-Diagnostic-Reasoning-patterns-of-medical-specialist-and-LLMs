@@ -1,0 +1,117 @@
+{
+  "case": "2015 Case 40__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T17:47:02.406904+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          18718,
+          18935
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) hypertensive emergency with PRES, (2) pheochromocytoma, (3) neurosyphilis, (4) systemic vasculitis (particularly PACNS or NPSLE), and (5) cerebral venous sinus thrombosis."
+    },
+    {
+      "ranges": [
+        [
+          6128,
+          6359
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of focal neurologic deficits, normal head CT without contrast, normal cardiac biomarkers, and lack of evidence for acute end-organ damage on initial labs complicates the picture but does not eliminate serious diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          7201,
+          7418
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "PRES is a critical diagnosis to consider in patients with acute severe hypertension and headache, particularly in the setting of psychiatric illness, chronic stress, and possible electrolyte or metabolic derangements."
+    },
+    {
+      "ranges": [
+        [
+          6520,
+          6714
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The most immediate concern is the hypertensive emergency, defined by severe elevation in blood pressure (systolic >180 mm Hg and/or diastolic >120 mm Hg) with evidence of acute end-organ damage."
+    },
+    {
+      "ranges": [
+        [
+          6927,
+          6978
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "the absence of evidence is not evidence of absence."
+    },
+    {
+      "ranges": [
+        [
+          8154,
+          8360
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that her blood pressure responded dramatically to labetalol and captopril supports a diagnosis of hypertensive crisis, and PRES remains a plausible, though unconfirmed, contributor to her headache."
+    },
+    {
+      "ranges": [
+        [
+          8499,
+          8767
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Pheochromocytoma classically presents with paroxysmal hypertension, headache, palpitations, and diaphoresis, but in many cases, particularly in atypical or chronic presentations, symptoms can be insidious and mistaken for anxiety, psychosis, or essential hypertension."
+    },
+    {
+      "ranges": [
+        [
+          18923,
+          19193
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": " thrombosis. The most likely diagnosis, given the dramatic response to antihypertensives and the absence of other findings, is a hypertensive emergency with underlying chronic, uncontrolled essential hypertension exacerbated by stress, poor nutrition, and noncompliance."
+    },
+    {
+      "ranges": [
+        [
+          9751,
+          10034
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The dramatic response to labetalol—a non-selective beta-blocker with alpha-blocking properties—is consistent with catecholamine excess, as beta-blockade alone can be dangerous in pheochromocytoma without prior alpha-blockade, but labetalol’s combined action may have been protective."
+    },
+    {
+      "ranges": [
+        [
+          8772,
+          8911
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": " patient’s history of episodic hypertension (from 180/110 to 240/130), headache, and a long-standing psychiatric illness raises concern. Th"
+    }
+  ]
+}

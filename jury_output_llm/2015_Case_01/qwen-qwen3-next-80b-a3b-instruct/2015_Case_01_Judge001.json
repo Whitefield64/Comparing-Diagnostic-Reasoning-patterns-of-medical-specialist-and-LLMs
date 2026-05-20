@@ -1,0 +1,227 @@
+{
+  "case": "2015 Case 01__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T20:58:22.312385+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8446,
+          8565
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling and statistically likely diagnosis is **metastatic recurrence of luminal B-type breast carcinoma**."
+    },
+    {
+      "ranges": [
+        [
+          8644,
+          8819
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the histologic and cytologic features of the IMLN aspirate are described as “similar to those of the patient’s prior breast carcinoma,” which is a highly specific observation."
+    },
+    {
+      "ranges": [
+        [
+          8820,
+          9043
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Invasive ductal carcinoma of the breast, particularly of the luminal B subtype, has a well-documented propensity for late recurrence—often beyond five years after initial diagnosis, even in the setting of endocrine therapy."
+    },
+    {
+      "ranges": [
+        [
+          9475,
+          9718
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The internal mammary chain is a recognized, though less commonly emphasized, site of nodal spread in breast cancer, particularly in centrally located or large tumors with lymphatic invasion, as was present in this patient’s original pathology."
+    },
+    {
+      "ranges": [
+        [
+          9719,
+          10075
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The fact that the internal mammary nodes were not detected on initial staging (T2N1M0) but have now appeared 5 years after treatment is not unexpected; the internal mammary chain is not routinely assessed by standard staging modalities such as CT or bone scan, and its involvement may represent progression of subclinical disease or late lymphatic seeding."
+    },
+    {
+      "ranges": [
+        [
+          10077,
+          10167
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of multiple small pulmonary nodules (4–5 mm) further supports this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10377,
+          10613
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Breast cancer, particularly ER-positive subtypes, commonly metastasizes to the lungs, often as small, multiple, well-circumscribed nodules, sometimes with a predilection for the lower lobes—though this distribution is not pathognomonic."
+    },
+    {
+      "ranges": [
+        [
+          10614,
+          10811
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The absence of pleural effusion, lymphangitic spread, or large masses makes a more aggressive, rapidly proliferating process less likely, which aligns with the indolent biology of luminal B cancer."
+    },
+    {
+      "ranges": [
+        [
+          10812,
+          11078
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The fact that the bone scan is negative further supports a pattern of metastatic spread consistent with breast cancer, which typically involves bone, liver, lung, and lymph nodes in descending order of frequency, but in this case, bone involvement has been excluded."
+    },
+    {
+      "ranges": [
+        [
+          11498,
+          11567
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The second major diagnostic consideration is **metastatic melanoma**."
+    },
+    {
+      "ranges": [
+        [
+          11824,
+          11916
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Melanoma is notorious for its unpredictable, often late, and bizarre patterns of metastasis."
+    },
+    {
+      "ranges": [
+        [
+          12060,
+          12317
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The internal mammary lymph nodes, while unusual for melanoma, are not impossible; melanoma can metastasize to any lymphatic basin, including the internal mammary chain, particularly if the primary lesion was on the ipsilateral upper extremity or chest wall."
+    },
+    {
+      "ranges": [
+        [
+          12318,
+          12486
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The cytologic description of “clusters of malignant cells with enlarged, hyperchromatic nuclei” is non-specific and could easily represent either melanoma or carcinoma."
+    },
+    {
+      "ranges": [
+        [
+          13159,
+          13232
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "However, several factors argue against melanoma as the primary diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          13233,
+          13383
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "First, the original melanoma was very thin (0.46 mm) with no ulceration, placing it in a very low-risk category for metastasis (<1% risk at 10 years)."
+    },
+    {
+      "ranges": [
+        [
+          14249,
+          14379
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "the clinical course—five years after cessation of endocrine therapy—is far more typical of breast cancer recurrence than melanoma."
+    },
+    {
+      "ranges": [
+        [
+          14709,
+          14842
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of any new skin lesions, ocular or mucosal symptoms, or neurological findings further reduces the likelihood of melanoma."
+    },
+    {
+      "ranges": [
+        [
+          15570,
+          15899
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "A new lung primary is also improbable: the pulmonary nodules are too small and too numerous to represent a single primary lung cancer, and the histology from the IMLN is not consistent with lung adenocarcinoma or squamous cell carcinoma, which would typically show different nuclear features, keratinization, or mucin production."
+    },
+    {
+      "ranges": [
+        [
+          20238,
+          20427
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The therapeutic implications are profound: endocrine therapy may still be effective in recurrent ER-positive breast cancer, whereas melanoma would require immunotherapy or targeted therapy."
+    },
+    {
+      "ranges": [
+        [
+          20428,
+          20644
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of multiple pulmonary nodules suggests systemic disease, and the absence of bone metastases suggests a relatively indolent course, making systemic therapy the mainstay of management regardless of origin."
+    }
+  ]
+}

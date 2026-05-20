@@ -1,0 +1,117 @@
+{
+  "case": "2019 Case 07__openai-gpt-oss-120b.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T18:17:27.655781+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28108,
+          28244
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "most compelling explanation** is a **superimposed infectious process (bacterial or mycobacterial) within a CLL‑infiltrated inguinal node"
+    },
+    {
+      "ranges": [
+        [
+          8788,
+          9116
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The differential diagnosis therefore must encompass a broad spectrum of malignant, infectious, inflammatory, and iatrogenic processes that can involve inguinal lymph nodes in an immunocompromised host, while also taking into account the specific histopathologic finding of a monomorphic small‑cell infiltrate consistent with CLL"
+    },
+    {
+      "ranges": [
+        [
+          28361,
+          28538
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "CLL provides a fertile substrate for bacterial colonization, and the patient’s hypogammaglobulinemia and prior chemotherapy further impair her ability to contain such infections"
+    },
+    {
+      "ranges": [
+        [
+          31001,
+          31142
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If mycobacterial infection is strongly suspected (e.g., positive IGRA, exposure history), add **rifampin + isoniazid** pending definitive tes"
+    },
+    {
+      "ranges": [
+        [
+          31155,
+          31250
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "For possible histoplasmosis (positive antigen or granulomatous features), consider **itraconazo"
+    },
+    {
+      "ranges": [
+        [
+          9379,
+          9569
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The goal is to narrow the possibilities to the most plausible explanation(s) for this patient’s presentation and to identify the key investigations that will ultimately confirm the diagnosis"
+    },
+    {
+      "ranges": [
+        [
+          8608,
+          8786
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The problem is compounded by a long history of immune dysregulation (hypogammaglobulinemia, repeated chemotherapy, and biologic therapy) and multiple prior cutaneous malignancies"
+    },
+    {
+      "ranges": [
+        [
+          31814,
+          32006
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The necrotic node likely harbors a bacterial abscess (e.g., Staphylococcus aureus) or a mycobacterial focus; the dominant CLL infiltrate accounts for the immunophenotype seen on flow cytometry"
+    },
+    {
+      "ranges": [
+        [
+          32987,
+          33204
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Necrotic lymph nodes** on imaging in an immunocompromised host should immediately raise suspicion for **bacterial abscess, mycobacterial disease, or high‑grade lymphoma**; histology alone may be insufficient to discri"
+    },
+    {
+      "ranges": [
+        [
+          28651,
+          28869
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The absence of granulomas on core biopsy does not exclude mycobacterial infection because the sample may have been dominated by the CLL infiltrate; special stains and molecular tests are required to detect mycobacteria"
+    }
+  ]
+}

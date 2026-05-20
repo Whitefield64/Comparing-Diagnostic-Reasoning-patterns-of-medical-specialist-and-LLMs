@@ -1,9 +1,9 @@
 {
   "case": "2010 Case 18__meta-llama-3.3-70b-instruct.md",
-  "exported_at": "2026-05-18T10:01:17.760339+00:00",
+  "exported_at": "2026-05-20T14:08:45.855772+00:00",
   "n_voters": 15,
-  "n_successful": 7,
-  "n_failed": 8,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
@@ -23,33 +23,8 @@
       "voter_id": 3,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has antiretroviral resistance, we would expect to see elevated HIV RNA levels despite antiretroviral medications, which is consistent with his clinical presentation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient's clinical presentation, including bilateral axillary lymphadenopathy and being below the fifth percentile for weight and height, suggests a chronic illness with potential systemic involvement, which is consistent with his history of TB and HIV-1 infection."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's history of TB and the presence of a supraclavicular abscess suggest a complex clinical scenario that might involve multiple factors contributing to his elevated HIV RNA levels, which is reminiscent of cases with chronic infections and immunosuppression."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary issue related to antiretroviral therapy, although I am troubled by the possibility of opportunistic infections or other systemic illnesses."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of antiretroviral resistance involve the development of specific mutations, the possibility of other mechanisms, such as inadequate dosing or non-adherence, cannot be excluded without further diagnostic evaluation, and the probability of these alternative explanations should be considered in the context of the patient's clinical presentation."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's case is similar to those of other HIV-infected individuals who have developed antiretroviral resistance or opportunistic infections, and the management of his condition should be guided by the principles of care that have been effective in these cases."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
@@ -60,15 +35,15 @@
     },
     {
       "voter_id": 5,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 17,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 6,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 13,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -81,8 +56,8 @@
     },
     {
       "voter_id": 8,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 13,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -95,29 +70,29 @@
     },
     {
       "voter_id": 10,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 18,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 11,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 10,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 12,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 12,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 13,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 12,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -130,8 +105,8 @@
     },
     {
       "voter_id": 15,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 14,
       "n_unresolved": 0,
       "unresolved": []
     }

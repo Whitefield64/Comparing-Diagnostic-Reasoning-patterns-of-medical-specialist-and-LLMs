@@ -1,0 +1,117 @@
+{
+  "case": "2015 Case 40__openai-gpt-oss-120b.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T17:45:23.611011+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          27093,
+          27213
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The acute, severe headache directly correlated with the extreme BP elevation and improved with antihypertensive therapy."
+    },
+    {
+      "ranges": [
+        [
+          23033,
+          23101
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s BP spikes are dramatic; headache is a classic symptom."
+    },
+    {
+      "ranges": [
+        [
+          19626,
+          19730
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Severe BP exceeds cerebral autoregulation → diffuse cerebral edema, leading to confusion, hallucinations"
+    },
+    {
+      "ranges": [
+        [
+          31479,
+          31661
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If catecholamine testing is positive, surgical resection of a pheochromocytoma would be curative; otherwise, treat the underlying cause (e.g., angioplasty for renal artery stenosis)."
+    },
+    {
+      "ranges": [
+        [
+          30180,
+          30271
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "To assess for end‑organ damage from chronic hypertension (LV hypertrophy, atherosclerosis)."
+    },
+    {
+      "ranges": [
+        [
+          28287,
+          28428
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "the absence of fever, normal inflammatory markers, and normal CT head make meningitis, encephalitis, and autoimmune encephalitis less likely."
+    },
+    {
+      "ranges": [
+        [
+          33138,
+          33347
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The temporal relationship between the severe BP surge, the acute frontal headache, and rapid symptom resolution after BP reduction makes this the most compelling explanation for the acute neurologic complaint."
+    },
+    {
+      "ranges": [
+        [
+          19802,
+          19951
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s psychosis predates the hypertensive crisis by years; chronic features (delusions, disorganization) not typical of acute encephalopathy."
+    },
+    {
+      "ranges": [
+        [
+          33876,
+          34024
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "While not yet proven, the degree of BP elevation and the lack of a clear pharmacologic cause warrant biochemical screening for catecholamine excess."
+    },
+    {
+      "ranges": [
+        [
+          19970,
+          20185
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "balance of evidence** points toward a **primary psychotic disorder—most consistent with schizophrenia**—with **possible contributory effects** from chronic untreated hypertension, poor sleep, and nutritional deficie"
+    }
+  ]
+}

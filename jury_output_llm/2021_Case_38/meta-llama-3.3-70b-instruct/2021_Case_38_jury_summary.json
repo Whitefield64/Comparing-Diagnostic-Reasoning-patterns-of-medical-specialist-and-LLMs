@@ -1,9 +1,9 @@
 {
   "case": "2021 Case 38__meta-llama-3.3-70b-instruct.md",
-  "exported_at": "2026-05-18T14:34:50.158021+00:00",
+  "exported_at": "2026-05-20T14:08:46.010639+00:00",
   "n_voters": 15,
-  "n_successful": 14,
-  "n_failed": 1,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
@@ -30,26 +30,13 @@
       "voter_id": 4,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The structural cause of bowel obstruction is strongly supported by the imaging findings and the surgical findings of a loop of small bowel tethered underneath an adhesion band with volvulization of the cecum."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "While it is possible for IBD to present with constipation, especially if there is a significant stricture or narrowing of the bowel lumen, the lack of other supportive findings reduces the likelihood of this diagnosis."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient's symptoms and laboratory findings are consistent with a diagnosis of porphyria, and the response to treatment and the evolution of her condition over time will be critical in confirming the diagnosis and guiding further management."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 13,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -78,33 +65,15 @@
       "voter_id": 9,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has a mechanical bowel obstruction, we would expect to see dilated, fluid-filled loops of small bowel, air–fluid levels, and an abrupt transition point on imaging, which are classic for a mechanical obstruction."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of abdominal pain and weight loss can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly applicable here, but we must first rule out life-threatening causes such as bowel obstruction before considering less common diagnoses like porphyria."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The finding of a large, solitary mass within the right lobe of the liver is not present in this case, but the patient's symptoms and laboratory findings are consistent with a bowel obstruction and porphyria."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
@@ -131,13 +100,8 @@
       "voter_id": 14,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's case is complex and multifaceted, involving both physical and psychiatric components, similar to other cases of porphyria that have been reported in the literature."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,

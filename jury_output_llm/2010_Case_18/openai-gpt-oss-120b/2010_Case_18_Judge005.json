@@ -1,0 +1,172 @@
+{
+  "case": "2010 Case 18__openai-gpt-oss-120b.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T16:49:09.360336+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          11979,
+          12165
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The child’s history of prior rifampin exposure, although temporally remote, may have sensitized clinicians to drug interactions, but is less likely to be a direct cause at this juncture."
+    },
+    {
+      "ranges": [
+        [
+          19827,
+          20116
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "While TB cannot be definitively excluded, the lack of ongoing symptoms, the resolution of the abscess, and the absence of radiologic or microbiologic evidence make **active TB a less likely primary driver of virologic failure**, though it may still contribute to chronic immune activation."
+    },
+    {
+      "ranges": [
+        [
+          20864,
+          21022
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "NTM remains a **remote possibility**, particularly if the child’s immune status is severely compromised, but the clinical course does not strongly support it."
+    },
+    {
+      "ranges": [
+        [
+          21994,
+          22161
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Chronic viral co‑infections could modestly increase viral replication, but there is insufficient evidence to prioritize them as the primary cause of virologic failure."
+    },
+    {
+      "ranges": [
+        [
+          22815,
+          22964
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Fungal infection is a plausible contributor, especially given the child’s immunosuppressed state, but the clinical picture is not overtly suggestive."
+    },
+    {
+      "ranges": [
+        [
+          28301,
+          28546
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "While malignancy remains a serious consideration in any child with persistent lymphadenopathy and weight loss, the clinical course (resolution of the abscess, lack of systemic B‑symptoms) makes an active lymphoma **less probable** at this stage."
+    },
+    {
+      "ranges": [
+        [
+          32530,
+          32670
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The child was placed on **ritonavir alone** (a weak PI) plus zidovudine/lamivudine, which likely failed to fully suppress viral replication."
+    },
+    {
+      "ranges": [
+        [
+          32675,
+          32830
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "During this period, **M184V** (lamivudine resistance) and **TAMs** (zidovudine resistance) could have accumulated, rendering the NRTI backbone ineffective."
+    },
+    {
+      "ranges": [
+        [
+          12309,
+          12450
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the mother had **undetectable viral load** on ART during pregnancy and delivery, the risk of transmitting a resistant strain would be low."
+    },
+    {
+      "ranges": [
+        [
+          19088,
+          19220
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If TB persisted or relapsed, it could explain the **persistent low‑grade cough** reported later and contribute to immune activation."
+    },
+    {
+      "ranges": [
+        [
+          6712,
+          6936
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Virologic failure in a child receiving ART is defined, per WHO and NIH guidelines, as a confirmed HIV‑1 RNA level > 1000 copies/mL after at least six months of therapy on a regimen that includes at least three active agents."
+    },
+    {
+      "ranges": [
+        [
+          17747,
+          17881
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the pattern of **repeatedly high RNA levels** despite regimen changes argues against a laboratory artifact as the primary explanation."
+    },
+    {
+      "ranges": [
+        [
+          20569,
+          20733
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The child’s **mild anemia**, **persistent lymphadenopathy**, and **lack of response to anti‑TB drugs** (if the abscess persisted despite therapy) could hint at NTM."
+    },
+    {
+      "ranges": [
+        [
+          32489,
+          32669
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The sequence of events supports this:\n\n- The child was placed on **ritonavir alone** (a weak PI) plus zidovudine/lamivudine, which likely failed to fully suppress viral replication"
+    },
+    {
+      "ranges": [
+        [
+          30441,
+          30588
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In many South African communities, **herbal remedies** (e.g., St. John’s wort, African “moringa” extracts) are used and can **induce CYP enzymes**."
+    }
+  ]
+}

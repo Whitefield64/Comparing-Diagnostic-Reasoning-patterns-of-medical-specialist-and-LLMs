@@ -1,0 +1,73 @@
+{
+  "case": "2012 Case 17__openai-gpt-oss-120b.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T17:15:28.788486+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4661,
+          4980
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical picture of a previously healthy 54‑year‑old man who develops an acute, then sub‑acute, right inferior quadrantanopia associated with two adjacent, well‑circumscribed, heterogeneously enhancing lesions in the left occipital‑parietal region forces consideration of a broad spectrum of intracranial processes."
+    },
+    {
+      "ranges": [
+        [
+          5553,
+          5760
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The discussion proceeds from the most common and plausible entities to rarer but still credible alternatives, culminating in an assessment of the most likely diagnosis(s) and suggestions for further work‑up."
+    },
+    {
+      "ranges": [
+        [
+          32714,
+          32978
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "*strongest concordance** exists between the imaging phenotype of the lesions (well‑circumscribed, heterogeneously enhancing, diffusion‑restricted, extending along white‑matter tracts) and the radiographic textbook description of **tumefactive demyelinating lesions"
+    },
+    {
+      "ranges": [
+        [
+          34699,
+          34939
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "ationale*: The diffusion restriction and corpus callosum involvement are characteristic of PCNSL.  However, the heterogeneous enhancement and the presence of two adjacent lesions reduce its likelihood compared with the other top contenders."
+    },
+    {
+      "ranges": [
+        [
+          34323,
+          34521
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s age, rapid symptom progression, and diffusion restriction also fit a high‑grade glioma.  Although the lesions are relatively small and well‑circumscribed, early GBM can appear this way"
+    },
+    {
+      "ranges": [
+        [
+          33631,
+          33924
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The imaging pattern (large, well‑circumscribed, heterogeneous enhancement with restricted diffusion and relatively limited edema), the extension of signal abnormality along the splenium, and the clinical presentation limited to a visual field defect are hallmarks of tumefactive demyelination."
+    }
+  ]
+}

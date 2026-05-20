@@ -1,91 +1,42 @@
 {
   "case": "2005 Case 34__openai-gpt-oss-120b.md",
-  "exported_at": "2026-05-18T08:23:17.416639+00:00",
+  "exported_at": "2026-05-20T14:08:45.809614+00:00",
   "n_voters": 15,
-  "n_successful": 9,
-  "n_failed": 6,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 12,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "Aortic- or subclavian-wall abnormalities without obvious occlusion from clotting make it unlikely that the patient had antiphospholipid-antibody syndrome, but we must explain the laboratory findings."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 15,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 3,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 13,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 4,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 7,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 5,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 7,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -93,110 +44,13 @@
       "voter_id": 6,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 24,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "Aortic- or subclavian-wall abnormalities without obvious occlusion from clotting make it unlikely that the patient had antiphospholipid-antibody syndrome, but we must explain the laboratory findings."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "In the absence of other findings, hemorrhoids are common and not necessarily worrisome. However, the presence of other anorectal abnormalities in this patient raises doubts about whether he really had hemorrhoids."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnosis of TEN requires the presence of widespread skin necrosis and detachment, and a positive Nikolsky sign, with mucosal involvement."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, supporting the diagnosis of TEN."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of skin and mucosal involvement, along with the temporal relationship to carbamazepine, is consistent with TEN, and not with other bullous dermatoses."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is carbamazepine-induced TEN, given the clinical presentation and the temporal relationship to the drug."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of TEN given the clinical presentation and the temporal relationship to carbamazepine is very high, given the known association between the drug and the disease."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "There have been reports of TEN associated with carbamazepine in the literature, which supports the diagnosis in this case."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 5,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -204,310 +58,48 @@
       "voter_id": 8,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not present in the text, instead we have: The patient developed neutropenia, thrombocytopenia, and anemia within days of skin detachment, consistent with bone‑marrow suppression secondary to widespread inflammation and sepsis often seen in TEN."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of extensive epidermal detachment, mucosal involvement, and systemic toxicity is typical of Toxic Epidermal Necrolysis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of carbamazepine-induced TEN is very high given the temporal relationship between drug exposure and rash onset, as well as the presence of characteristic clinical features such as extensive epidermal detachment and mucosal involvement."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "The father’s prior drug reaction underscores the need for a detailed drug allergy history and possibly referral for HLA testing for the patient’s future medication choices, suggesting an intuitive sense of the potential genetic predisposition to severe drug reactions."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 10,
-      "unresolved": [
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of extensive epidermal detachment, mucosal involvement, and systemic toxicity is typical of TEN."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries, but this is not directly applicable to the provided text."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable, instead the text states: The most parsimonious and evidence‑based diagnosis is **Toxic Epidermal Necrolysis precipitated by carbamazepine**."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, but this is not applicable to the provided text."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is not mentioned but the discussion below evaluates each major diagnostic category, weighing the supporting and opposing evidence provided by the chronology, physical findings, laboratory data, and epidemiologic clues, and then narrows to the most plausible final diagnosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here but the discussion prioritizes drug‑induced toxic epidermal necrolysis, particularly when an aromatic anticonvulsant such as carbamazepine has been recently introduced."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not mentioned but the clinical picture, the temporal relationship to carbamazepine, and the presence of mucosal involvement support the diagnosis of TEN."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description of a severe cutaneous adverse reaction, specifically Toxic Epidermal Necrolysis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant here but the clinical picture and the temporal relationship to carbamazepine make TEN the most plausible diagnosis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, the clinical picture and the temporal relationship to carbamazepine make TEN the most plausible diagnosis with a very high relative likelihood."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun is not relevant here but the clinical picture and the temporal relationship to carbamazepine are similar to previously reported cases of TEN."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries is not relevant here but the discussion explains the pathophysiology of TEN."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 20,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "Aortic- or subclavian-wall abnormalities without obvious occlusion from clotting make it unlikely that the patient had antiphospholipid-antibody syndrome, but we must explain the laboratory findings."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of skin involvement, mucosal lesions, and systemic features is consistent with Toxic Epidermal Necrolysis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "The patient’s presentation is consistent with a severe cutaneous adverse reaction, and the temporal relationship to carbamazepine suggests a drug-induced reaction."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of Toxic Epidermal Necrolysis given the patient’s symptoms and history is very high, given the temporal relationship to carbamazepine and the presence of mucosal involvement and systemic toxicity."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s presentation is similar to previously reported cases of Toxic Epidermal Necrolysis, which suggests a similar diagnosis and treatment approach."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 17,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "Aortic- or subclavian-wall abnormalities without obvious occlusion from clotting make it unlikely that the patient had antiphospholipid-antibody syndrome, but we must explain the laboratory findings."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "In the absence of other findings, hemorrhoids are common and not necessarily worrisome. However, the presence of other anorectal abnormalities in this patient raises doubts about whether he really had hemorrhoids."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Recognition of TEN as a clinical emergency, immediate withdrawal of the offending agent, and aggressive multidisciplinary supportive care are essential to reduce morbidity and mortality, as illustrated by the protracted but ultimately successful recovery of this patient after 91 days of intensive management."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 10,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -515,29 +107,8 @@
       "voter_id": 15,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

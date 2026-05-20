@@ -1,28 +1,28 @@
 {
   "case": "2020 Case 35__meta-llama-3.3-70b-instruct.md",
-  "exported_at": "2026-05-18T14:19:27.636079+00:00",
+  "exported_at": "2026-05-20T14:08:45.998685+00:00",
   "n_voters": 15,
-  "n_successful": 11,
-  "n_failed": 4,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 10,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 2,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 34,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 3,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 13,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -30,18 +30,13 @@
       "voter_id": 4,
       "failed": false,
       "n_resolved": 19,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of symmetric increased attenuation in the basal ganglia, thalami, and dentate nuclei on CT and MRI is consistent with a disorder of metal metabolism, such as aceruloplasminemia."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 39,
       "n_unresolved": 0,
       "unresolved": []
     },

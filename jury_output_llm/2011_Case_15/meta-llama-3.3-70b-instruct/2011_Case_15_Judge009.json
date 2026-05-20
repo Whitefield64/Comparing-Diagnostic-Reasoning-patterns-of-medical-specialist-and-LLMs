@@ -1,0 +1,84 @@
+{
+  "case": "2011 Case 15__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T16:57:02.007344+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3609,
+          3803
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with headache, fatigue, vaginal discharge, and subsequent development of a painful genital ulcer suggests a complex clinical picture with multiple potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          3804,
+          4017
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Initially, the symptoms of vaginal discharge, headache, and fatigue could be indicative of a variety of conditions, including sexually transmitted infections (STIs), given the patient's history of sexual activity."
+    },
+    {
+      "ranges": [
+        [
+          4492,
+          4586
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The development of a painful genital ulcer is a critical aspect of the patient's presentation."
+    },
+    {
+      "ranges": [
+        [
+          4718,
+          4870
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The description of the ulcer as painful with undermined borders and without surrounding induration is more suggestive of certain conditions over others."
+    },
+    {
+      "ranges": [
+        [
+          4884,
+          5017
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the absence of induration makes syphilis less likely, as the classic chancre of primary syphilis is typically painless and indurated."
+    },
+    {
+      "ranges": [
+        [
+          4018,
+          4240
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The administration of doxycycline, metronidazole, and ceftriaxone according to South African guidelines for STIs suggests that the treating clinicians considered infections such as chlamydia, gonorrhea, and trichomoniasis."
+    },
+    {
+      "ranges": [
+        [
+          5616,
+          5852
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's response to penicillin G benzathine and erythromycin, which are treatments for syphilis and potentially other bacterial infections, will be important in determining the effectiveness of the treatment for the genital ulcer."
+    }
+  ]
+}

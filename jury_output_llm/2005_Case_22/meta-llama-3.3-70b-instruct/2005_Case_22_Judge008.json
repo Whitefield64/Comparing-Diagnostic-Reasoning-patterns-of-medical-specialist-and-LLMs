@@ -1,0 +1,326 @@
+{
+  "case": "2005 Case 22__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T16:19:37.764736+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7100,
+          7434
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient presented with a complex clinical picture characterized by fever, cough, productive sputum, diffuse weakness, altered mental status, and a history of chronic lymphocytic leukemia (CLL). The differential diagnosis for this patient is broad and encompasses various malignant, infectious, inflammatory, and structural causes."
+    },
+    {
+      "ranges": [
+        [
+          7435,
+          7612
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of CLL, immunocompromised state, and presentation with fever and productive cough, an infectious etiology is high on the list of potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          7614,
+          7848
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's symptoms of cough, fever, and productive sputum, along with the radiographic findings of prominence of the right paratracheal stripe and right hilum and bilateral small pleural effusions, suggest a respiratory infection."
+    },
+    {
+      "ranges": [
+        [
+          7849,
+          7936
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The growth of *Pseudomonas aeruginosa* from the sputum culture supports this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          7937,
+          8058
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "*Pseudomonas aeruginosa* is a common pathogen in hospital-acquired pneumonia, particularly in immunocompromised patients."
+    },
+    {
+      "ranges": [
+        [
+          8059,
+          8288
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "However, the patient's initial treatment with azithromycin and subsequent lack of improvement, followed by treatment with amoxicillin without resolution, raises the possibility of a resistant organism or a more complex infection."
+    },
+    {
+      "ranges": [
+        [
+          8455,
+          8599
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of nuchal rigidity and the patient's inability to follow commands or respond to pain suggest meningeal irritation or CNS pathology."
+    },
+    {
+      "ranges": [
+        [
+          8600,
+          8720
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The cerebrospinal fluid (CSF) analysis would be crucial in diagnosing CNS infections such as meningitis or encephalitis."
+    },
+    {
+      "ranges": [
+        [
+          8721,
+          9056
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the flow cytometry results from the CSF showing predominantly T cells with a normal immunophenotype and a small number of B cells with an immunophenotype identical to that of cells associated with CLL do not strongly support an infectious meningitis but rather suggest possible CNS involvement by the patient's underlying CLL."
+    },
+    {
+      "ranges": [
+        [
+          9058,
+          9187
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's history of CLL, a malignancy of the immune system, raises the possibility of disease progression or transformation."
+    },
+    {
+      "ranges": [
+        [
+          15856,
+          16041
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of fever, tachycardia, tachypnea, and altered mental status, along with the laboratory findings of leukocytosis and elevated inflammatory markers, are consistent with SIRS."
+    },
+    {
+      "ranges": [
+        [
+          9735,
+          10013
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of multiple cutaneous squamous-cell carcinomas and melanomas, treated with surgery, and prostatic adenocarcinoma, treated with radiation therapy, suggests a possible paraneoplastic syndrome, although this would be less likely given the patient's known CLL."
+    },
+    {
+      "ranges": [
+        [
+          12130,
+          12275
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnosis or diagnoses can only be determined after careful consideration of all the clinical, laboratory, and radiographic findings."
+    },
+    {
+      "ranges": [
+        [
+          14786,
+          14960
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The use of diagnostic algorithms and decision support tools can also be helpful in guiding the diagnostic process and ensuring that all relevant possibilities are considered."
+    },
+    {
+      "ranges": [
+        [
+          15171,
+          15372
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's clinical presentation, laboratory results, and radiographic imaging must be carefully evaluated, and all potential diagnoses must be considered and weighed against the available evidence."
+    },
+    {
+      "ranges": [
+        [
+          15373,
+          15602
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "By taking a thorough and systematic approach to the differential diagnosis, clinicians can increase the likelihood of establishing an accurate diagnosis and guiding effective treatment for this complex and critically ill patient."
+    },
+    {
+      "ranges": [
+        [
+          18424,
+          18656
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's history of CLL and the presence of CLL cells in the CSF also raise the possibility of a Richter's transformation, which is a transformation of CLL into a more aggressive lymphoma, such as diffuse large B-cell lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          18657,
+          18825
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Richter's transformation is a rare but serious complication of CLL, and it can present with a wide range of symptoms, including fever, weight loss, and lymphadenopathy."
+    },
+    {
+      "ranges": [
+        [
+          18826,
+          19009
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's clinical presentation and laboratory findings are consistent with Richter's transformation, and the presence of CLL cells in the CSF suggests a possible malignant cause."
+    },
+    {
+      "ranges": [
+        [
+          14181,
+          14420
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The integration of clinical findings, laboratory results, and radiographic imaging, along with consideration of the patient's medical history and treatment, is crucial for establishing a definitive diagnosis and guiding further management."
+    },
+    {
+      "ranges": [
+        [
+          21903,
+          22131
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "In addition to the potential diagnoses mentioned earlier, other conditions that could be considered in the differential diagnosis include CNS infections, such as meningitis or encephalitis, caused by bacteria, viruses, or fungi."
+    },
+    {
+      "ranges": [
+        [
+          23918,
+          24130
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's clinical presentation and laboratory findings also suggest the possibility of a systemic infection, such as sepsis or bacteremia, caused by a variety of bacteria, including *Pseudomonas aeruginosa*."
+    },
+    {
+      "ranges": [
+        [
+          24131,
+          24329
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's clinical presentation and laboratory findings are consistent with a systemic infection, and the presence of *Pseudomonas aeruginosa* in the sputum suggests a possible infectious cause."
+    },
+    {
+      "ranges": [
+        [
+          22326,
+          22496
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the patient's underlying CLL and the presence of CLL cells in the CSF suggest that the CNS involvement could be related to the leukemia or a secondary infection."
+    },
+    {
+      "ranges": [
+        [
+          13299,
+          13547
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's history of multiple medical conditions, including atrial fibrillation, diabetes mellitus, hypertension, and prostatic adenocarcinoma, also raises the possibility of other systemic conditions contributing to the patient's presentation."
+    },
+    {
+      "ranges": [
+        [
+          13548,
+          13753
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's use of medications such as warfarin, which can increase the risk of bleeding, and the presence of an enlarged spleen, which can increase the risk of sepsis, are also important considerations."
+    },
+    {
+      "ranges": [
+        [
+          17556,
+          17722
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "In summary, the differential diagnosis for this patient is broad and complex, and it includes a variety of infectious, malignant, inflammatory, and structural causes."
+    },
+    {
+      "ranges": [
+        [
+          24672,
+          25018
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "A thorough evaluation of all potential causes, including SIRS, sepsis, multi-organ failure, CNS vasculitis, Richter's transformation, CNS lymphoma, CNS leukemia, CNS metastases, paraneoplastic syndromes, and systemic infections, is necessary to determine the underlying diagnosis or diagnoses responsible for the patient's clinical deterioration."
+    },
+    {
+      "ranges": [
+        [
+          15373,
+          15602
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "By taking a thorough and systematic approach to the differential diagnosis, clinicians can increase the likelihood of establishing an accurate diagnosis and guiding effective treatment for this complex and critically ill patient."
+    }
+  ]
+}

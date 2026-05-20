@@ -1,0 +1,128 @@
+{
+  "case": "2008 Case 29__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T16:39:50.714571+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7789,
+          7976
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with acute abdominal pain, weight loss, and a history of anorexia nervosa (restrictive form) diagnosed 4 years earlier, raises a complex differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8764,
+          8950
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The finding of fecal impaction, as suggested by the abdominal radiographs and CT scan showing stool throughout the colon and small bowel without a clear transition point, is significant."
+    },
+    {
+      "ranges": [
+        [
+          8951,
+          9135
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Fecal impaction can cause abdominal pain, distention, and nausea, and it is a known complication in patients with eating disorders, particularly those with restrictive eating patterns."
+    },
+    {
+      "ranges": [
+        [
+          9278,
+          9529
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Given the patient's history of anorexia nervosa and the physical findings, it is crucial to consider the potential for refeeding syndrome, a condition that can occur in individuals who are malnourished when they begin to receive nutrition too quickly."
+    },
+    {
+      "ranges": [
+        [
+          9727,
+          9913
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's bradycardia, orthostatic hypotension, and the findings on electrocardiograms are consistent with potential electrolyte imbalances and cardiac effects of refeeding syndrome."
+    },
+    {
+      "ranges": [
+        [
+          12297,
+          12449
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's history of anorexia nervosa and the physical findings of temporal wasting, dry lips, and cool hands and feet, suggest severe malnutrition."
+    },
+    {
+      "ranges": [
+        [
+          17586,
+          17852
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's condition highlights the importance of early recognition and treatment of eating disorders, as well as the need for a comprehensive and supportive approach to management that addresses the physical and psychological aspects of these complex conditions."
+    },
+    {
+      "ranges": [
+        [
+          13277,
+          13431
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's medication regimen, including famotidine, should also be considered, although it is unlikely to be contributing to his current presentation."
+    },
+    {
+      "ranges": [
+        [
+          14538,
+          14699
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's condition necessitates a careful and multidisciplinary approach to management, considering both the medical and psychiatric aspects of his illness."
+    },
+    {
+      "ranges": [
+        [
+          11056,
+          11221
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Other potential diagnoses to consider include gastrointestinal motility disorders, which could contribute to the patient's symptoms of abdominal pain and distention."
+    },
+    {
+      "ranges": [
+        [
+          16626,
+          16892
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's history of allergies to certain medications and his current medication regimen, including famotidine, should also be considered in the differential diagnosis, although these factors do not appear to be directly contributing to his current presentation."
+    }
+  ]
+}

@@ -1,14 +1,14 @@
 {
   "case": "2019 Case 07__meta-llama-3.3-70b-instruct.md",
-  "exported_at": "2026-05-18T13:51:23.918367+00:00",
+  "exported_at": "2026-05-20T14:08:45.985461+00:00",
   "n_voters": 15,
-  "n_successful": 10,
-  "n_failed": 5,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 30,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -21,8 +21,8 @@
     },
     {
       "voter_id": 3,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 17,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -30,17 +30,8 @@
       "voter_id": 4,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a CLL-related complication, such as transformation or progression."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient's presentation and history suggest that a CLL-related complication, such as transformation or progression, is the most likely diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
@@ -86,15 +77,15 @@
     },
     {
       "voter_id": 11,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 13,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 12,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 29,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -107,8 +98,8 @@
     },
     {
       "voter_id": 14,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 26,
       "n_unresolved": 0,
       "unresolved": []
     },

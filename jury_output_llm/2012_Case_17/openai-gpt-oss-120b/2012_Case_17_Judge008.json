@@ -1,0 +1,73 @@
+{
+  "case": "2012 Case 17__openai-gpt-oss-120b.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T18:58:35.536558+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4661,
+          4980
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical picture of a previously healthy 54‑year‑old man who develops an acute, then sub‑acute, right inferior quadrantanopia associated with two adjacent, well‑circumscribed, heterogeneously enhancing lesions in the left occipital‑parietal region forces consideration of a broad spectrum of intracranial processes."
+    },
+    {
+      "ranges": [
+        [
+          5553,
+          5760
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The discussion proceeds from the most common and plausible entities to rarer but still credible alternatives, culminating in an assessment of the most likely diagnosis(s) and suggestions for further work‑up."
+    },
+    {
+      "ranges": [
+        [
+          32714,
+          32978
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "*strongest concordance** exists between the imaging phenotype of the lesions (well‑circumscribed, heterogeneously enhancing, diffusion‑restricted, extending along white‑matter tracts) and the radiographic textbook description of **tumefactive demyelinating lesions"
+    },
+    {
+      "ranges": [
+        [
+          34323,
+          34424
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient’s age, rapid symptom progression, and diffusion restriction also fit a high‑grade glioma."
+    },
+    {
+      "ranges": [
+        [
+          36289,
+          36479
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If non‑invasive studies remain inconclusive, a targeted biopsy of the larger occipital lesion would provide definitive histopathology, distinguishing neoplastic from demyelinating pathology."
+    },
+    {
+      "ranges": [
+        [
+          34704,
+          34939
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "ale*: The diffusion restriction and corpus callosum involvement are characteristic of PCNSL.  However, the heterogeneous enhancement and the presence of two adjacent lesions reduce its likelihood compared with the other top contenders."
+    }
+  ]
+}

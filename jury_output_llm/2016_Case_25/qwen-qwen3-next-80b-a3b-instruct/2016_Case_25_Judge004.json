@@ -1,0 +1,150 @@
+{
+  "case": "2016 Case 25__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T18:13:14.744285+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4229,
+          4355
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most straightforward and statistically most likely diagnosis is chronic anal fissure with associated hemorrhoidal disease."
+    },
+    {
+      "ranges": [
+        [
+          13593,
+          13679
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnostic hypothesis is lymphogranuloma venereum (LGV) proctitis."
+    },
+    {
+      "ranges": [
+        [
+          5719,
+          5855
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "One critical consideration is infectious etiologies, particularly sexually transmitted infections (STIs) involving the anorectal mucosa."
+    },
+    {
+      "ranges": [
+        [
+          9411,
+          9649
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Less common but still relevant infectious causes include *Mycobacterium tuberculosis* (anorectal tuberculosis), which can present with chronic pain, bleeding, and ulceration, particularly in immigrants from endemic regions such as Brazil."
+    },
+    {
+      "ranges": [
+        [
+          4580,
+          4715
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The presence of sentinel tags and mild internal hemorrhoids supports this diagnosis, as these are classic sequelae of chronic fissures."
+    },
+    {
+      "ranges": [
+        [
+          6930,
+          7094
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The patchy erythema and edema seen on sigmoidoscopy are consistent with LGV-induced mucosal inflammation, and the absence of systemic symptoms does not rule it out."
+    },
+    {
+      "ranges": [
+        [
+          5462,
+          5717
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that topical hydrocortisone provided only minimal relief raises the possibility that the underlying pathology is not purely mechanical or inflammatory in the typical sense, but may be driven by an alternative etiology that mimics fissure disease."
+    },
+    {
+      "ranges": [
+        [
+          11662,
+          11806
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if granulomas are present, Crohn’s is strongly supported; if crypt architectural distortion and basal plasmacytosis are seen, UC is more likely."
+    },
+    {
+      "ranges": [
+        [
+          11587,
+          11661
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Biopsy of the inflamed mucosa during sigmoidoscopy would be critical here:"
+    },
+    {
+      "ranges": [
+        [
+          11373,
+          11586
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The key distinguishing feature is that Crohn’s-related fissures are typically deep, longitudinal, and associated with fistulas or abscesses, whereas the patient’s fissures are described as superficial and midline."
+    },
+    {
+      "ranges": [
+        [
+          15166,
+          15365
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient’s clinical course underscores the importance of considering STIs in all patients with persistent anorectal symptoms, regardless of HIV status or the apparent benign appearance of lesions."
+    },
+    {
+      "ranges": [
+        [
+          3309,
+          3503
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "ear-old man—persistent rectal pain with bright red perianal bleeding, anal fissures, sentinel tags, and distal rectal mucosal inflammation—is highly suggestive of a localized anorectal pathology"
+    },
+    {
+      "ranges": [
+        [
+          13680,
+          13940
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient’s sexual history, the timing of symptom onset, the refractory nature of the fissures and inflammation, and the lack of response to standard hemorrhoid/fissure therapy all point strongly toward an infectious etiology. LGV proctitis often presents wi"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "case": "2005 Case 22__meta-llama-3.3-70b-instruct.md",
-  "exported_at": "2026-05-18T07:40:03.830677+00:00",
+  "exported_at": "2026-05-20T14:08:45.791579+00:00",
   "n_voters": 15,
-  "n_successful": 8,
-  "n_failed": 7,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
@@ -16,34 +16,20 @@
       "voter_id": 2,
       "failed": false,
       "n_resolved": 20,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient's clinical presentation and laboratory findings are consistent with a wide range of potential diagnoses, including infectious, malignant, inflammatory, and structural causes."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present in the document, however the following sentence has the same meaning: The patient's clinical presentation and laboratory findings also suggest the possibility of a systemic inflammatory response syndrome (SIRS), which can be caused by a variety of conditions, including infections, malignancies, and autoimmune disorders."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's history of multiple cancers and treatments raises the possibility of a paraneoplastic syndrome, although this would be less likely given the patient's known CLL."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 11,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -51,18 +37,13 @@
       "voter_id": 5,
       "failed": false,
       "n_resolved": 13,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's history of multiple cancers and treatments raises the possibility of a paraneoplastic syndrome, although this would be less likely given the patient's known CLL."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 31,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -70,25 +51,20 @@
       "voter_id": 7,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "The patient's history of multiple cancers and treatments raises the possibility of a rare or unusual condition, such as a CNS infection caused by a rare bacterium or fungus, or a paraneoplastic syndrome caused by a rare tumor."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 29,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 9,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 25,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -96,18 +72,13 @@
       "voter_id": 10,
       "failed": false,
       "n_resolved": 13,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient's clinical presentation and laboratory findings are consistent with a systemic infection, such as sepsis or bacteremia, caused by a variety of bacteria, including *Pseudomonas aeruginosa*."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 15,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -120,15 +91,15 @@
     },
     {
       "voter_id": 13,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 25,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 14,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 27,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -136,41 +107,8 @@
       "voter_id": 15,
       "failed": false,
       "n_resolved": 15,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, however, the patient's clinical presentation and laboratory findings suggest a complex and critically ill patient with multiple potential diagnoses."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, the patient's presentation with fever, cough, and productive sputum, along with the radiographic findings, suggest a respiratory infection, and the growth of *Pseudomonas aeruginosa* from the sputum culture supports this diagnosis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's history of multiple cancers and treatments raises the possibility of a paraneoplastic syndrome, although this would be less likely given the patient's known CLL."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but the patient's clinical presentation and laboratory findings are not typical of this condition."
-        },
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The patient's clinical presentation and laboratory findings also suggest the possibility of a Richter's transformation, which is a transformation of CLL into a more aggressive lymphoma, such as diffuse large B-cell lymphoma."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The patient's history of CLL and the presence of CLL cells in the CSF also raise the possibility of a CNS lymphoma, CNS leukemia, or CNS metastases."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The patient's clinical presentation and laboratory findings suggest a complex and critically ill patient with multiple potential diagnoses, including infectious, malignant, inflammatory, and structural causes."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "A thorough evaluation of all potential causes is necessary to determine the underlying diagnosis or diagnoses responsible for the patient's clinical deterioration."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

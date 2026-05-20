@@ -1,42 +1,42 @@
 {
   "case": "2010 Case 18__openai-gpt-oss-120b.md",
-  "exported_at": "2026-05-18T10:07:08.904858+00:00",
+  "exported_at": "2026-05-20T14:08:45.859757+00:00",
   "n_voters": 15,
-  "n_successful": 10,
-  "n_failed": 5,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 5,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 2,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 8,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 3,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 3,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 4,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 6,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 5,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 15,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -44,193 +44,71 @@
       "voter_id": 6,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but **active TB or NTM** could be present, and the clinical picture (resolution of the abscess, lack of systemic symptoms) makes this less compelling."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is not explicitly stated, but the **persistent elevation of HIV‑1 RNA** in this 7‑year‑old South African child is most plausibly explained by **acquired multi‑class antiretroviral resistance** secondary to an earlier **sub‑optimal ritonavir‑only regimen**."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of **acquired multi‑class antiretroviral resistance** is high given the **history of sub‑optimal prior ART** and **possible incomplete NRTI activity**, and the **persistent high HIV‑1 RNA** despite a regimen that theoretically contains three active agents."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "In many South African communities, **herbal remedies** (e.g., St. John’s wort, African “moringa” extracts) are used and can **induce CYP enzymes**, similar to what has been reported in other cases."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The child’s clinical picture does not strongly support active tuberculosis, but given the history of granulomatous disease, it remains a possibility that needs to be considered in the differential diagnosis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Similar cases of pediatric HIV infection with virologic failure despite ART have been reported, highlighting the importance of resistance testing and regimen optimization."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The sequence of events supports this: - The child was placed on **ritonavir alone** (a weak PI) plus zidovudine/lamivudine, which likely failed to fully suppress viral replication. - When switched to **LPV/r**, the PI component may have been **under‑dosed** (due to weight‑based miscalculation or poor absorption), leaving essentially **monotherapy** with a compromised PI."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned in this text, however, **True non‑adherence** cannot be entirely excluded. If the mother’s reports are inaccurate, the child may be receiving **intermittent dosing**, which would both select for resistance and result in low drug levels."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not mentioned in this text, however **Prior granulomatous disease** raises the specter of occult infection or misdiagnosed malignancy."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme‑linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis is not applicable here but  Genotypic Resistance Testing (plasma HIV‑1 RNA sequencing) – to identify RT mutations (M184V, TAMs) and protease mutations (e.g., V82A, L90M) is the best approach"
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, instead the persistent elevation of HIV‑1 RNA in this 7‑year‑old South African child is most plausibly explained by **acquired multi‑class antiretroviral resistance** secondary to an earlier **sub‑optimal ritonavir‑only regimen**, compounded by **sub‑therapeutic drug exposure** due to formulation, dosing, and possible pharmacogenomic factors."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not applicable here, instead While malignancy remains a serious consideration in any child with persistent lymphadenopathy and weight loss, the clinical course (resolution of the abscess, lack of systemic B‑symptoms) makes an active lymphoma **less probable** at this stage."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "The child’s clinical picture does not strongly support active tuberculosis, NTM, fungal infection, or lymphoma, but these conditions cannot be entirely excluded without further evaluation."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but the approach to ruling out active TB, NTM, fungal infection, or lymphoma is: The child’s clinical picture does not strongly support active tuberculosis, but prior granulomatous disease raises the specter of occult infection or misdiagnosed malignancy."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The sequence of events supports this: - The child was placed on **ritonavir alone** (a weak PI) plus zidovudine/lamivudine, which likely failed to fully suppress viral replication. - When switched to **LPV/r**, the PI component may have been **under‑dosed** (due to weight‑based miscalculation or poor absorption), leaving essentially **monotherapy** with a compromised PI."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but this case is about HIV, not Wegener's."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The child’s clinical picture does not strongly support active tuberculosis, but prior granulomatous disease raises the specter of occult infection or misdiagnosed malignancy."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant here, but the intuition that the child’s clinical picture does not strongly support active tuberculosis or malignancy is."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Given the child’s clinical picture, **acquired multi‑class antiretroviral resistance** is more likely than other explanations, such as active TB or NTM, which are less probable given the lack of systemic symptoms and radiographic evidence."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The child’s presentation with **persistent high HIV‑1 RNA**, **mild anemia**, and **macrocytosis** is consistent with a pattern of **antiretroviral resistance** and **sub‑optimal drug exposure**."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The child’s clinical picture does not strongly support active tuberculosis, but given the **high prevalence of TB in South Africa**, it remains an important consideration, especially if the child has been exposed to TB or has a history of prior TB infection."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

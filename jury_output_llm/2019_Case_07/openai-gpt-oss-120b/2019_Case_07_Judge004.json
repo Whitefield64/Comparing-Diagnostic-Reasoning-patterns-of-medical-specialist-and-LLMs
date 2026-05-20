@@ -1,0 +1,95 @@
+{
+  "case": "2019 Case 07__openai-gpt-oss-120b.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T18:17:27.656116+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28107,
+          28244
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "*most compelling explanation** is a **superimposed infectious process (bacterial or mycobacterial) within a CLL‑infiltrated inguinal node"
+    },
+    {
+      "ranges": [
+        [
+          31814,
+          32007
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The necrotic node likely harbors a bacterial abscess (e.g., Staphylococcus aureus) or a mycobacterial focus; the dominant CLL infiltrate accounts for the immunophenotype seen on flow cytometry."
+    },
+    {
+      "ranges": [
+        [
+          28361,
+          28539
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "CLL provides a fertile substrate for bacterial colonization, and the patient’s hypogammaglobulinemia and prior chemotherapy further impair her ability to contain such infections."
+    },
+    {
+      "ranges": [
+        [
+          34817,
+          34958
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the node fails to respond, an **excisional biopsy** should be pursued to definitively rule out Richter transformation or a composite lymph"
+    },
+    {
+      "ranges": [
+        [
+          21315,
+          21455
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "ior SCC indicates a predisposition to skin cancer; the inguinal node is a typical drainage site for lower‑extremity lesions.  \n\n**Against** "
+    },
+    {
+      "ranges": [
+        [
+          28874,
+          29075
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Richter transformation** remains a diagnostic consideration, especially given the high FDG uptake and systemic symptoms, but the lack of large transformed cells on the core specimen makes it less likel"
+    },
+    {
+      "ranges": [
+        [
+          34067,
+          34162
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "ms. Histology confirms the presence of CLL cells but does not reveal large‑cell transformation."
+    },
+    {
+      "ranges": [
+        [
+          32776,
+          32978
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Immune dysfunction in CLL** (hypogammaglobulinemia, prior fludarabine/rituximab) dramatically expands the differential for lymphadenopathy, making infectious etiologies as likely as malignant progressio"
+    }
+  ]
+}

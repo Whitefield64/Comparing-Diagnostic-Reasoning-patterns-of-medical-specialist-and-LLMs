@@ -1,0 +1,128 @@
+{
+  "case": "2012 Case 40__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T20:31:31.319487+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3391,
+          3646
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of placenta previa, recent cesarean section, and the sudden onset of hypotension, bradycardia, and respiratory distress, the differential diagnosis is broad and includes various obstetric, anesthetic, and medical complications."
+    },
+    {
+      "ranges": [
+        [
+          3208,
+          3390
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with cardiorespiratory arrest after a cesarean section is a complex and critical scenario that requires careful consideration of multiple potential causes."
+    },
+    {
+      "ranges": [
+        [
+          3740,
+          3941
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient had a significant drop in systolic blood pressure to 70-80 mmHg, which could be attributed to various factors, including hemorrhage, anesthesia-related complications, or obstructive causes."
+    },
+    {
+      "ranges": [
+        [
+          4553,
+          4705
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the onset of hypotension in this case occurred 20 minutes after delivery, which may be later than typically expected for anesthesia-related hypotension."
+    },
+    {
+      "ranges": [
+        [
+          4720,
+          4817
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the presence of chest pain and the patient's lips becoming white suggest a more complex etiology."
+    },
+    {
+      "ranges": [
+        [
+          5114,
+          5253
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's history of obesity and recent cesarean section may increase her risk for thromboembolic events, including pulmonary embolism."
+    },
+    {
+      "ranges": [
+        [
+          5254,
+          5437
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "However, the absence of any reported risk factors for deep vein thrombosis or pulmonary embolism, such as prolonged immobilization or family history, makes this diagnosis less likely."
+    },
+    {
+      "ranges": [
+        [
+          5786,
+          5920
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms, including chest pain, hypotension, and respiratory distress, could be consistent with amniotic fluid embolism."
+    },
+    {
+      "ranges": [
+        [
+          10668,
+          10885
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's presentation highlights the importance of careful monitoring and management of patients undergoing cesarean section, particularly those with a history of placenta previa or other obstetric complications."
+    },
+    {
+      "ranges": [
+        [
+          9978,
+          10156
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The absence of any reported risk factors for deep vein thrombosis or pulmonary embolism makes these diagnoses less likely, but they cannot be excluded without further evaluation."
+    },
+    {
+      "ranges": [
+        [
+          10514,
+          10667
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's outcome will depend on the prompt and effective management of her underlying condition, as well as the prevention of further complications."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "case": "2019 Case 07__openai-gpt-oss-120b.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T18:17:27.656246+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28108,
+          28244
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "most compelling explanation** is a **superimposed infectious process (bacterial or mycobacterial) within a CLL‑infiltrated inguinal node"
+    },
+    {
+      "ranges": [
+        [
+          31632,
+          31812
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "This hypothesis best reconciles the rapid nodal enlargement, tenderness, central necrosis, intense FDG uptake, and systemic B‑symptoms in a patient with profound immune dysfunction"
+    },
+    {
+      "ranges": [
+        [
+          31814,
+          32006
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The necrotic node likely harbors a bacterial abscess (e.g., Staphylococcus aureus) or a mycobacterial focus; the dominant CLL infiltrate accounts for the immunophenotype seen on flow cytometry"
+    },
+    {
+      "ranges": [
+        [
+          31001,
+          31142
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If mycobacterial infection is strongly suspected (e.g., positive IGRA, exposure history), add **rifampin + isoniazid** pending definitive tes"
+    },
+    {
+      "ranges": [
+        [
+          34067,
+          34161
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "ms. Histology confirms the presence of CLL cells but does not reveal large‑cell transformation"
+    },
+    {
+      "ranges": [
+        [
+          32620,
+          32709
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "the necrotic node and the magnitude of FDG uptake make this the least favored explanation"
+    },
+    {
+      "ranges": [
+        [
+          31543,
+          31810
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Infectious Necrotizing Lymphadenitis (Bacterial ± Mycobacterial) Superimposed on CLL** – This hypothesis best reconciles the rapid nodal enlargement, tenderness, central necrosis, intense FDG uptake, and systemic B‑symptoms in a patient with profound immune dysfuncti"
+    },
+    {
+      "ranges": [
+        [
+          32776,
+          32977
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Immune dysfunction in CLL** (hypogammaglobulinemia, prior fludarabine/rituximab) dramatically expands the differential for lymphadenopathy, making infectious etiologies as likely as malignant progressi"
+    },
+    {
+      "ranges": [
+        [
+          28426,
+          28538
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient’s hypogammaglobulinemia and prior chemotherapy further impair her ability to contain such infections"
+    },
+    {
+      "ranges": [
+        [
+          8608,
+          8786
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The problem is compounded by a long history of immune dysregulation (hypogammaglobulinemia, repeated chemotherapy, and biologic therapy) and multiple prior cutaneous malignancies"
+    }
+  ]
+}

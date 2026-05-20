@@ -1,14 +1,14 @@
 {
   "case": "2012 Case 17__meta-llama-3.3-70b-instruct.md",
-  "exported_at": "2026-05-18T11:19:11.452578+00:00",
+  "exported_at": "2026-05-20T14:08:45.893716+00:00",
   "n_voters": 15,
-  "n_successful": 9,
-  "n_failed": 6,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 29,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -16,32 +16,27 @@
       "voter_id": 2,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 21,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 4,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 12,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 5,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 40,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -68,8 +63,8 @@
     },
     {
       "voter_id": 9,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 35,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -105,18 +100,13 @@
       "voter_id": 14,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 21,
       "n_unresolved": 0,
       "unresolved": []
     }

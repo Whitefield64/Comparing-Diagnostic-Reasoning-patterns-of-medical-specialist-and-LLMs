@@ -1,0 +1,40 @@
+{
+  "case": "2010 Case 18__openai-gpt-oss-120b.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T16:49:09.360081+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          31300,
+          32183
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The key data points are:\n\n1. **Persistent high HIV‑1 RNA** despite a regimen that theoretically contains three active agents (LPV/r, AZT, 3TC).  \n2. **Reported good adherence** but limited objective adherence data.  \n3. **History of sub‑optimal prior ART** (ritonavir monotherapy) and **possible incomplete NRTI activity** (M184V, TAMs).  \n4. **Weight‑based dosing** in a child with severe growth failure (potential for under‑dosing).  \n5. **Potential pharmacokinetic pitfalls** (liquid formulation, food requirement, possible CYP3A5 ultra‑rapid metabolism).  \n6. **No overt clinical evidence of active TB, NTM, fungal infection, or lymphoma** at present, though prior granulomatous disease raises the specter of occult infection or misdiagnosed malignancy.  \n7. **Mild anemia and macrocytosis** that could be AZT‑related or nutritional, potentially affecting drug metabolism and imm"
+    },
+    {
+      "ranges": [
+        [
+          32489,
+          33350
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The sequence of events supports this:\n\n- The child was placed on **ritonavir alone** (a weak PI) plus zidovudine/lamivudine, which likely failed to fully suppress viral replication.  \n- During this period, **M184V** (lamivudine resistance) and **TAMs** (zidovudine resistance) could have accumulated, rendering the NRTI backbone ineffective.  \n- When switched to **LPV/r**, the PI component may have been **under‑dosed** (due to weight‑based miscalculation or poor absorption), leaving essentially **monotherapy** with a compromised PI.  \n- The resulting **functional monotherapy** provides a low genetic barrier, facilitating the selection of **protease resistance mutations**.  \n\nThus, the virus may now harbor **mutations in both RT and protease genes**, explaining the inability of the current regimen to achieve virologic suppression despite good reported "
+    },
+    {
+      "ranges": [
+        [
+          35958,
+          36346
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If resistance testing confirms **multi‑class resistance**, the regimen must be **overhauled** according to WHO pediatric guidelines:\n\n- **Switch to an integrase inhibitor–based regimen** (e.g., dolutegravir + lamivudine + tenofovir disoproxil fumarate) if the child’s weight permits.  Integrase inhibitors have a **high barrier to resistance** and are **less affected by CYP interactions*"
+    }
+  ]
+}

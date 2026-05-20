@@ -1,0 +1,161 @@
+{
+  "case": "2011 Case 15__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T20:28:04.907962+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3609,
+          3803
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with headache, fatigue, vaginal discharge, and subsequent development of a painful genital ulcer suggests a complex clinical picture with multiple potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          4018,
+          4240
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The administration of doxycycline, metronidazole, and ceftriaxone according to South African guidelines for STIs suggests that the treating clinicians considered infections such as chlamydia, gonorrhea, and trichomoniasis."
+    },
+    {
+      "ranges": [
+        [
+          4250,
+          4490
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the persistence of symptoms and the development of a genital ulcer complicate the diagnosis, suggesting that the initial treatment may not have been fully effective or that the patient has a co-infection or a different condition altogether."
+    },
+    {
+      "ranges": [
+        [
+          4718,
+          4870
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The description of the ulcer as painful with undermined borders and without surrounding induration is more suggestive of certain conditions over others."
+    },
+    {
+      "ranges": [
+        [
+          4871,
+          5017
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "For example, the absence of induration makes syphilis less likely, as the classic chancre of primary syphilis is typically painless and indurated."
+    },
+    {
+      "ranges": [
+        [
+          5018,
+          5159
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of a painful ulcer, on the other hand, is more consistent with HSV or chancroid, both of which can cause painful genital ulcers."
+    },
+    {
+      "ranges": [
+        [
+          11871,
+          11986
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the patient responds well to treatment for a specific STI, this will provide strong evidence for that diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11421,
+          11579
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient should also be tested for HSV, potentially through viral culture or PCR, given the suspicion of this infection based on the clinical presentation."
+    },
+    {
+      "ranges": [
+        [
+          9581,
+          9786
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's initial symptoms of headache, fatigue, sore throat, and anorexia, which preceded the development of the genital ulcer, could be indicative of a systemic infection or an early stage of an STI."
+    },
+    {
+      "ranges": [
+        [
+          13804,
+          13967
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The development of a painful genital ulcer adds complexity to the diagnosis, suggesting the need for comprehensive testing and consideration of various treatments."
+    },
+    {
+      "ranges": [
+        [
+          13968,
+          14101
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's awareness of HIV and her engagement in unprotected sex highlight the ongoing need for education and prevention efforts."
+    },
+    {
+      "ranges": [
+        [
+          14427,
+          14687
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's clinical presentation and the epidemiological context suggest that STIs, including HIV, should be considered high on the list of potential diagnoses, with a comprehensive approach to diagnosis and treatment being crucial for optimal patient care."
+    },
+    {
+      "ranges": [
+        [
+          14689,
+          14921
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Given the complexity of the patient's presentation and the potential for co-infections, a multidisciplinary approach to care, including input from specialists in infectious diseases, gynecology, and sexual health, may be beneficial."
+    },
+    {
+      "ranges": [
+        [
+          14254,
+          14426
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The initial negative HIV tests do not rule out HIV infection, especially if the tests were performed early in the course of infection, and further testing may be necessary."
+    }
+  ]
+}

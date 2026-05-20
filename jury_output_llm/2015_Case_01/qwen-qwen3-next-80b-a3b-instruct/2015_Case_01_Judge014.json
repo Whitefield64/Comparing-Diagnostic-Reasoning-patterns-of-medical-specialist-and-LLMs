@@ -1,0 +1,623 @@
+{
+  "case": "2015 Case 01__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-19T09:23:19.600953+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8446,
+          8565
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling and statistically likely diagnosis is **metastatic recurrence of luminal B-type breast carcinoma**."
+    },
+    {
+      "ranges": [
+        [
+          8566,
+          8819
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This conclusion is supported by multiple converging lines of evidence. First, the histologic and cytologic features of the IMLN aspirate are described as “similar to those of the patient’s prior breast carcinoma,” which is a highly specific observation."
+    },
+    {
+      "ranges": [
+        [
+          8820,
+          9043
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Invasive ductal carcinoma of the breast, particularly of the luminal B subtype, has a well-documented propensity for late recurrence—often beyond five years after initial diagnosis, even in the setting of endocrine therapy."
+    },
+    {
+      "ranges": [
+        [
+          9044,
+          9181
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The median time to recurrence for ER-positive breast cancer is approximately 5–7 years, with a persistent risk extending beyond 15 years."
+    },
+    {
+      "ranges": [
+        [
+          9182,
+          9474
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This patient’s recurrence occurred precisely at the 5-year mark after cessation of anastrozole, a pattern consistent with the known biology of hormone receptor–positive disease, which often remains dormant in micrometastatic niches and is reactivated upon withdrawal of endocrine suppression."
+    },
+    {
+      "ranges": [
+        [
+          9475,
+          9718
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The internal mammary chain is a recognized, though less commonly emphasized, site of nodal spread in breast cancer, particularly in centrally located or large tumors with lymphatic invasion, as was present in this patient’s original pathology."
+    },
+    {
+      "ranges": [
+        [
+          9719,
+          10075
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the internal mammary nodes were not detected on initial staging (T2N1M0) but have now appeared 5 years after treatment is not unexpected; the internal mammary chain is not routinely assessed by standard staging modalities such as CT or bone scan, and its involvement may represent progression of subclinical disease or late lymphatic seeding."
+    },
+    {
+      "ranges": [
+        [
+          10077,
+          10167
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of multiple small pulmonary nodules (4–5 mm) further supports this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10168,
+          10376
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "While these are indeterminate and may represent benign granulomas, hamartomas, or post-radiation changes, their appearance in a patient with prior breast cancer raises strong suspicion for metastatic disease."
+    },
+    {
+      "ranges": [
+        [
+          10377,
+          10613
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Breast cancer, particularly ER-positive subtypes, commonly metastasizes to the lungs, often as small, multiple, well-circumscribed nodules, sometimes with a predilection for the lower lobes—though this distribution is not pathognomonic."
+    },
+    {
+      "ranges": [
+        [
+          10614,
+          10811
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of pleural effusion, lymphangitic spread, or large masses makes a more aggressive, rapidly proliferating process less likely, which aligns with the indolent biology of luminal B cancer."
+    },
+    {
+      "ranges": [
+        [
+          10812,
+          11078
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that the bone scan is negative further supports a pattern of metastatic spread consistent with breast cancer, which typically involves bone, liver, lung, and lymph nodes in descending order of frequency, but in this case, bone involvement has been excluded."
+    },
+    {
+      "ranges": [
+        [
+          11498,
+          11567
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The second major diagnostic consideration is **metastatic melanoma**."
+    },
+    {
+      "ranges": [
+        [
+          11824,
+          11916
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Melanoma is notorious for its unpredictable, often late, and bizarre patterns of metastasis."
+    },
+    {
+      "ranges": [
+        [
+          11917,
+          12059
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "It can recur years after seemingly complete resection, even in the absence of high-risk features such as ulceration or high Breslow thickness."
+    },
+    {
+      "ranges": [
+        [
+          12060,
+          12317
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The internal mammary lymph nodes, while unusual for melanoma, are not impossible; melanoma can metastasize to any lymphatic basin, including the internal mammary chain, particularly if the primary lesion was on the ipsilateral upper extremity or chest wall."
+    },
+    {
+      "ranges": [
+        [
+          12318,
+          12486
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The cytologic description of “clusters of malignant cells with enlarged, hyperchromatic nuclei” is non-specific and could easily represent either melanoma or carcinoma."
+    },
+    {
+      "ranges": [
+        [
+          13159,
+          13232
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, several factors argue against melanoma as the primary diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          13233,
+          13383
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "First, the original melanoma was very thin (0.46 mm) with no ulceration, placing it in a very low-risk category for metastasis (<1% risk at 10 years)."
+    },
+    {
+      "ranges": [
+        [
+          13384,
+          13448
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The subsequent melanoma in situ carries no metastatic potential."
+    },
+    {
+      "ranges": [
+        [
+          13449,
+          13686
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "While multiple non-melanoma skin cancers suggest chronic UV exposure and possibly a genetic predisposition to skin neoplasia (e.g., xeroderma pigmentosum, though not suggested here), they do not imply a high risk for melanoma metastasis."
+    },
+    {
+      "ranges": [
+        [
+          13687,
+          13770
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Second, the cytologic resemblance to the prior breast carcinoma is a powerful clue."
+    },
+    {
+      "ranges": [
+        [
+          13771,
+          13879
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Melanoma and breast carcinoma, while both capable of epithelioid morphology, have distinct nuclear features."
+    },
+    {
+      "ranges": [
+        [
+          13880,
+          14072
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Breast carcinoma typically shows more uniform, round-to-oval nuclei with distinct nucleoli and less pleomorphism than the often bizarre, multinucleated, or pleomorphic nuclei seen in melanoma."
+    },
+    {
+      "ranges": [
+        [
+          14073,
+          14241
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The description of “enlarged, hyperchromatic nuclei” without mention of nuclear pleomorphism, multinucleation, or cytoplasmic pigmentation is more typical of carcinoma."
+    },
+    {
+      "ranges": [
+        [
+          14242,
+          14379
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Third, the clinical course—five years after cessation of endocrine therapy—is far more typical of breast cancer recurrence than melanoma."
+    },
+    {
+      "ranges": [
+        [
+          14380,
+          14515
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Melanoma recurrences, when they occur, are usually within the first 2–3 years after resection, with a steep decline in risk thereafter."
+    },
+    {
+      "ranges": [
+        [
+          14516,
+          14708
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "A recurrence at the 5-year mark is unusual and would raise suspicion for a different primary unless the original lesion had been misstaged or had occult high-risk features not documented here."
+    },
+    {
+      "ranges": [
+        [
+          14844,
+          14934
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A third, less likely but still important, consideration is **a second primary carcinoma**."
+    },
+    {
+      "ranges": [
+        [
+          14935,
+          15096
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "This could include a new primary breast cancer in the contralateral breast or a carcinoma arising in another organ with metastatic spread to the IMLNs and lungs."
+    },
+    {
+      "ranges": [
+        [
+          15097,
+          15330
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, bilateral breast MRI showed no abnormality in the contralateral breast, and the IMLNs are on the same side as the original tumor, making a new ipsilateral primary breast cancer highly unlikely without a new parenchymal mass."
+    },
+    {
+      "ranges": [
+        [
+          15331,
+          15569
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Moreover, the cytologic similarity to the prior breast cancer strongly argues against a new primary, as different histologic subtypes (e.g., invasive lobular, metaplastic, or mucinous carcinoma) would have different cytologic appearances."
+    },
+    {
+      "ranges": [
+        [
+          15570,
+          15899
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "A new lung primary is also improbable: the pulmonary nodules are too small and too numerous to represent a single primary lung cancer, and the histology from the IMLN is not consistent with lung adenocarcinoma or squamous cell carcinoma, which would typically show different nuclear features, keratinization, or mucin production."
+    },
+    {
+      "ranges": [
+        [
+          15900,
+          16098
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "A gastrointestinal or ovarian primary is implausible given the lack of symptoms, normal abdominal imaging (benign cysts only), and the anatomical proximity of the IMLNs to the original breast tumor."
+    },
+    {
+      "ranges": [
+        [
+          16099,
+          16382
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The internal mammary nodes drain the central and medial breast, the upper abdominal wall, and the anterior mediastinum—but they are not a common site for metastasis from gastrointestinal or gynecologic malignancies, which typically spread to peritoneal, pelvic, or para-aortic nodes."
+    },
+    {
+      "ranges": [
+        [
+          16384,
+          16616
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another rare but important consideration is **lymphoma**, particularly indolent B-cell lymphomas such as follicular lymphoma or marginal zone lymphoma, which can present with isolated lymphadenopathy and mimic carcinoma on cytology."
+    },
+    {
+      "ranges": [
+        [
+          16617,
+          16797
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Lymphoma can involve the internal mammary chain, and cytologically, lymphoma cells may appear as monotonous populations with hyperchromatic nuclei, potentially mimicking carcinoma."
+    },
+    {
+      "ranges": [
+        [
+          16798,
+          17049
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, lymphoma typically presents with multiple lymph node groups (e.g., cervical, axillary, mediastinal), and the absence of B symptoms (fever, night sweats, weight loss), normal CBC, and lack of splenomegaly or hepatomegaly make this less likely."
+    },
+    {
+      "ranges": [
+        [
+          17050,
+          17303
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Moreover, lymphoma would not typically present with pulmonary nodules unless in advanced stage, and the cytologic description of “clusters” rather than “sheets” or “diffuse infiltration” is more suggestive of epithelial carcinoma than lymphoid neoplasm."
+    },
+    {
+      "ranges": [
+        [
+          17304,
+          17378
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Immunohistochemistry would be diagnostic, but the sample was insufficient."
+    },
+    {
+      "ranges": [
+        [
+          17380,
+          17431
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "**Sarcoma** is an exceedingly unlikely possibility."
+    },
+    {
+      "ranges": [
+        [
+          17432,
+          17534
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "While sarcomas can metastasize to lung and lymph nodes, they rarely present with epithelioid cytology."
+    },
+    {
+      "ranges": [
+        [
+          17535,
+          17644
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The original tumor was a carcinoma, and sarcomas arising de novo in the breast or IMLNs are vanishingly rare."
+    },
+    {
+      "ranges": [
+        [
+          17645,
+          17738
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The cytologic features described are not consistent with spindle-cell or pleomorphic sarcoma."
+    },
+    {
+      "ranges": [
+        [
+          17740,
+          17889
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory or infectious causes of lymphadenopathy, such as tuberculosis, fungal infections, or sarcoidosis, must be considered but are improbable."
+    },
+    {
+      "ranges": [
+        [
+          17890,
+          17957
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient has no fever, weight loss, cough, or systemic symptoms."
+    },
+    {
+      "ranges": [
+        [
+          17958,
+          18135
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The pulmonary nodules are too small and too numerous to suggest granulomatous disease, which typically presents with bilateral hilar lymphadenopathy and upper lobe predominance."
+    },
+    {
+      "ranges": [
+        [
+          18136,
+          18308
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Sarcoidosis rarely involves the internal mammary chain, and tuberculosis would be unlikely in a patient with no risk factors (no travel, no exposure, no immunosuppression)."
+    },
+    {
+      "ranges": [
+        [
+          18309,
+          18428
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of elevated ACE, normal calcium, and lack of hilar lymphadenopathy on CT further argue against sarcoidosis."
+    },
+    {
+      "ranges": [
+        [
+          18430,
+          18604
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Finally, **benign causes** of internal mammary lymphadenopathy, such as reactive lymphoid hyperplasia or post-radiation fibrosis with lymphoid aggregates, must be considered."
+    },
+    {
+      "ranges": [
+        [
+          18605,
+          18691
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "However, the cytology revealed malignant cells, not benign lymphocytes or histiocytes."
+    },
+    {
+      "ranges": [
+        [
+          18692,
+          18854
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The description of “clusters of malignant cells with enlarged, hyperchromatic nuclei” is unequivocally neoplastic and not consistent with benign reactive changes."
+    },
+    {
+      "ranges": [
+        [
+          18856,
+          19232
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "In summary, the leading diagnosis is **metastatic recurrence of luminal B breast carcinoma**, supported by the timing of recurrence after endocrine therapy withdrawal, the cytologic similarity to the original tumor, the anatomical location of the IMLNs as a known drainage site, and the presence of indeterminate pulmonary nodules consistent with low-volume metastatic spread."
+    },
+    {
+      "ranges": [
+        [
+          19233,
+          19499
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The possibility of **metastatic melanoma** remains a critical differential due to the patient’s history, but is less likely given the low-risk profile of her prior melanomas, the unusual timing of recurrence, and the cytologic resemblance to her prior breast cancer."
+    },
+    {
+      "ranges": [
+        [
+          19500,
+          19580
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The insufficient tissue for immunohistochemistry is the critical diagnostic gap."
+    },
+    {
+      "ranges": [
+        [
+          19581,
+          19869
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The next step must be to obtain additional tissue—either from another IMLN or a pulmonary nodule via biopsy or resection—to perform a panel of immunohistochemical stains: ER, PR, GATA3, mammaglobin, GCDFP-15, and TTF-1 for breast origin; and S-100, HMB-45, Melan-A, and MITF for melanoma."
+    }
+  ]
+}

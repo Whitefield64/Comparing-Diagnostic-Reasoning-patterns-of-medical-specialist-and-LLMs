@@ -1,0 +1,139 @@
+{
+  "case": "2012 Case 17__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T17:21:45.993945+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          15865,
+          15989
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling diagnosis, integrating the imaging, clinical course, and exclusion of systemic disease, is glioblastoma."
+    },
+    {
+      "ranges": [
+        [
+          15990,
+          16200
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The two adjacent masses in the left occipital and posterior parietal regions, with heterogeneous enhancement, restricted diffusion, and transcallosal extension to the splenium, are highly characteristic of GBM."
+    },
+    {
+      "ranges": [
+        [
+          16822,
+          17028
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "While PCNSL remains a strong differential, the bilateral, asymmetric, and heterogeneous nature of the lesions, along with the lack of homogeneous enhancement and the patient’s age, make GBM the most likely."
+    },
+    {
+      "ranges": [
+        [
+          6040,
+          6211
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of two adjacent masses raises the possibility of multifocal GBM, which occurs in approximately 5–10% of cases and is associated with a more aggressive course."
+    },
+    {
+      "ranges": [
+        [
+          6212,
+          6336
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Heterogeneous enhancement is classic for GBM, reflecting areas of necrosis, viable tumor, and disrupted blood-brain barrier."
+    },
+    {
+      "ranges": [
+        [
+          6337,
+          6539
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Restricted diffusion within enhancing components may reflect high cellularity, necrosis with viscous debris, or microabscess formation—features consistent with the tumor’s invasive and necrotic biology."
+    },
+    {
+      "ranges": [
+        [
+          6738,
+          6850
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The absence of systemic metastases on imaging does not rule out GBM, as it is rarely metastatic outside the CNS."
+    },
+    {
+      "ranges": [
+        [
+          6851,
+          7031
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient’s age, lack of smoking or significant environmental exposures, and absence of prior malignancy are not inconsistent with GBM, which arises sporadically in older adults."
+    },
+    {
+      "ranges": [
+        [
+          11285,
+          11335
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Infectious etiologies must be carefully evaluated."
+    },
+    {
+      "ranges": [
+        [
+          14914,
+          14949
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Vascular causes must be considered."
+    },
+    {
+      "ranges": [
+        [
+          17525,
+          17714
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The clinical and radiographic features strongly favor a high-grade astrocytic tumor, and the absence of systemic disease, infectious signs, or inflammatory markers supports this conclusion."
+    },
+    {
+      "ranges": [
+        [
+          16191,
+          16385
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "c of GBM. The rapid progression from transient visual symptoms to persistent quadrantanopia suggests a malignant infiltrative process with evolving edema and mass effect. The elevated LDH and st"
+    }
+  ]
+}

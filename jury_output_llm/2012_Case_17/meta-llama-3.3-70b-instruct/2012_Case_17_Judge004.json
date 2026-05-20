@@ -1,0 +1,139 @@
+{
+  "case": "2012 Case 17__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T17:09:26.165479+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          4668,
+          4924
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with transient visual-field loss and a mass in the brain, as demonstrated by magnetic resonance imaging (MRI), suggests a complex neurologic condition with potential implications for vision, cognition, and overall brain function."
+    },
+    {
+      "ranges": [
+        [
+          4925,
+          5211
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the acute onset of symptoms and the presence of two distinct masses in the left occipital and posterior parietal regions, a thorough differential diagnosis must consider a wide range of possibilities, including malignant, infectious, inflammatory, structural, and systemic causes."
+    },
+    {
+      "ranges": [
+        [
+          5586,
+          5768
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient's relatively slow progression of symptoms and the well-circumscribed nature of the lesions might suggest a less aggressive tumor type or a different diagnosis altogether."
+    },
+    {
+      "ranges": [
+        [
+          6115,
+          6235
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The most common sources of brain metastases include lung, breast, melanoma, renal cell carcinoma, and colorectal cancer."
+    },
+    {
+      "ranges": [
+        [
+          6236,
+          6527
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the absence of systemic symptoms or findings suggestive of a primary cancer, along with normal laboratory tests and imaging of the chest, abdomen, and pelvis, makes this diagnosis less likely, though not impossible, as some primary cancers might not be detectable at an early stage."
+    },
+    {
+      "ranges": [
+        [
+          6813,
+          6992
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Infectious causes, such as brain abscesses or parasitic infections (e.g., toxoplasmosis, particularly in immunocompromised patients), could present with mass lesions in the brain."
+    },
+    {
+      "ranges": [
+        [
+          7002,
+          7122
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "the patient's immunocompetent status, lack of fever, and normal white blood cell count make these diagnoses less likely."
+    },
+    {
+      "ranges": [
+        [
+          7136,
+          7271
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the absence of exposure history to infectious agents or travel to endemic areas reduces the likelihood of certain parasitic infections."
+    },
+    {
+      "ranges": [
+        [
+          10732,
+          10848
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Meningiomas are typically slow-growing and can present with focal neurological deficits depending on their location."
+    },
+    {
+      "ranges": [
+        [
+          11113,
+          11301
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The presence of restricted diffusion within the enhancing portions of the lesions could suggest a higher grade of tumor, but this finding alone is not sufficient to conclude the diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11468,
+          11760
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's clinical presentation and the imaging characteristics of the lesions will need to be correlated with the histopathological findings to determine the best course of treatment, which could include surgery, radiation therapy, or chemotherapy, depending on the tumor type and grade."
+    },
+    {
+      "ranges": [
+        [
+          12183,
+          12411
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "A comprehensive approach to the patient's care, including neurological, oncological, and urological evaluations, will be essential in managing his condition and addressing any potential complications or associated health issues."
+    }
+  ]
+}

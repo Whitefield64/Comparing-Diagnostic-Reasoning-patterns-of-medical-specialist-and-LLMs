@@ -1,0 +1,139 @@
+{
+  "case": "2019 Case 07__openai-gpt-oss-120b.md",
+  "annotator": "Judge012",
+  "exported_at": "2026-05-18T18:18:47.181315+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28108,
+          28244
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "most compelling explanation** is a **superimposed infectious process (bacterial or mycobacterial) within a CLL‑infiltrated inguinal node"
+    },
+    {
+      "ranges": [
+        [
+          31632,
+          31812
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "This hypothesis best reconciles the rapid nodal enlargement, tenderness, central necrosis, intense FDG uptake, and systemic B‑symptoms in a patient with profound immune dysfunction"
+    },
+    {
+      "ranges": [
+        [
+          31814,
+          32006
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The necrotic node likely harbors a bacterial abscess (e.g., Staphylococcus aureus) or a mycobacterial focus; the dominant CLL infiltrate accounts for the immunophenotype seen on flow cytometry"
+    },
+    {
+      "ranges": [
+        [
+          31001,
+          31142
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If mycobacterial infection is strongly suspected (e.g., positive IGRA, exposure history), add **rifampin + isoniazid** pending definitive tes"
+    },
+    {
+      "ranges": [
+        [
+          31155,
+          31250
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "For possible histoplasmosis (positive antigen or granulomatous features), consider **itraconazo"
+    },
+    {
+      "ranges": [
+        [
+          29472,
+          29562
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Request **Gram stain, bacterial culture, and anaerobic culture** on any residual core mate"
+    },
+    {
+      "ranges": [
+        [
+          29575,
+          29681
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Perform **acid‑fast bacilli (Ziehl‑Neelsen) staining** and **mycobacterial PCR** on the biopsy to detect T"
+    },
+    {
+      "ranges": [
+        [
+          34067,
+          34161
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "ms. Histology confirms the presence of CLL cells but does not reveal large‑cell transformation"
+    },
+    {
+      "ranges": [
+        [
+          28651,
+          28869
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The absence of granulomas on core biopsy does not exclude mycobacterial infection because the sample may have been dominated by the CLL infiltrate; special stains and molecular tests are required to detect mycobacteria"
+    },
+    {
+      "ranges": [
+        [
+          32987,
+          33151
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "Necrotic lymph nodes** on imaging in an immunocompromised host should immediately raise suspicion for **bacterial abscess, mycobacterial disease, or high‑grade lymp"
+    },
+    {
+      "ranges": [
+        [
+          33638,
+          33864
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Empiric antimicrobial therapy** should be started promptly in a febrile, immunocompromised patient with necrotic nodal disease, but clinicians must maintain a low threshold for **re‑biopsy** if there is no rapid clinical impro"
+    },
+    {
+      "ranges": [
+        [
+          33445,
+          33624
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "Core needle biopsy** may miss focal transformation or granulomatous inflammation; when the clinical picture is discordant with pathology, **excisional biopsy** remains the gold st"
+    }
+  ]
+}

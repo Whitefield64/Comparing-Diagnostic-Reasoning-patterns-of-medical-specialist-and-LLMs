@@ -1,0 +1,106 @@
+{
+  "case": "2015 Case 40__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T17:47:02.404943+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          18718,
+          18935
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) hypertensive emergency with PRES, (2) pheochromocytoma, (3) neurosyphilis, (4) systemic vasculitis (particularly PACNS or NPSLE), and (5) cerebral venous sinus thrombosis."
+    },
+    {
+      "ranges": [
+        [
+          8154,
+          8360
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that her blood pressure responded dramatically to labetalol and captopril supports a diagnosis of hypertensive crisis, and PRES remains a plausible, though unconfirmed, contributor to her headache."
+    },
+    {
+      "ranges": [
+        [
+          8499,
+          8767
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Pheochromocytoma classically presents with paroxysmal hypertension, headache, palpitations, and diaphoresis, but in many cases, particularly in atypical or chronic presentations, symptoms can be insidious and mistaken for anxiety, psychosis, or essential hypertension."
+    },
+    {
+      "ranges": [
+        [
+          12346,
+          12665
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Primary angiitis of the central nervous system (PACNS) is a rare, underdiagnosed condition that typically presents with headache, cognitive dysfunction, focal deficits, and seizures, but can manifest with psychiatric symptoms such as psychosis or delusions, particularly when the frontal or temporal lobes are involved."
+    },
+    {
+      "ranges": [
+        [
+          6520,
+          6714
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The most immediate concern is the hypertensive emergency, defined by severe elevation in blood pressure (systolic >180 mm Hg and/or diastolic >120 mm Hg) with evidence of acute end-organ damage."
+    },
+    {
+      "ranges": [
+        [
+          12666,
+          12811
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The normal head CT does not rule out PACNS, as the condition often involves small vessels and may only be visible on MRI with contrast or biopsy."
+    },
+    {
+      "ranges": [
+        [
+          8767,
+          8927
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": " This patient’s history of episodic hypertension (from 180/110 to 240/130), headache, and a long-standing psychiatric illness raises concern. The absence of cla"
+    },
+    {
+      "ranges": [
+        [
+          9751,
+          10034
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The dramatic response to labetalol—a non-selective beta-blocker with alpha-blocking properties—is consistent with catecholamine excess, as beta-blockade alone can be dangerous in pheochromocytoma without prior alpha-blockade, but labetalol’s combined action may have been protective."
+    },
+    {
+      "ranges": [
+        [
+          19203,
+          19564
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "the presence of a long-standing psychotic illness with grandiose and paranoid features, combined with the acute hypertensive crisis and the lack of definitive diagnostic workup, leaves open the possibility of an underlying organic etiology—particularly pheochromocytoma or neurosyphilis—that may have been misattributed to psychiatric illness for over a decade."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "case": "2005 Case 22__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge004",
+  "exported_at": "2026-05-18T16:19:37.760642+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7100,
+          7297
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient presented with a complex clinical picture characterized by fever, cough, productive sputum, diffuse weakness, altered mental status, and a history of chronic lymphocytic leukemia (CLL)."
+    },
+    {
+      "ranges": [
+        [
+          7435,
+          7612
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of CLL, immunocompromised state, and presentation with fever and productive cough, an infectious etiology is high on the list of potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          7614,
+          7848
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's symptoms of cough, fever, and productive sputum, along with the radiographic findings of prominence of the right paratracheal stripe and right hilum and bilateral small pleural effusions, suggest a respiratory infection."
+    },
+    {
+      "ranges": [
+        [
+          7849,
+          7936
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The growth of *Pseudomonas aeruginosa* from the sputum culture supports this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8059,
+          8288
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "However, the patient's initial treatment with azithromycin and subsequent lack of improvement, followed by treatment with amoxicillin without resolution, raises the possibility of a resistant organism or a more complex infection."
+    },
+    {
+      "ranges": [
+        [
+          8455,
+          8599
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The presence of nuchal rigidity and the patient's inability to follow commands or respond to pain suggest meningeal irritation or CNS pathology."
+    },
+    {
+      "ranges": [
+        [
+          8600,
+          8720
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The cerebrospinal fluid (CSF) analysis would be crucial in diagnosing CNS infections such as meningitis or encephalitis."
+    },
+    {
+      "ranges": [
+        [
+          8730,
+          9056
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "the flow cytometry results from the CSF showing predominantly T cells with a normal immunophenotype and a small number of B cells with an immunophenotype identical to that of cells associated with CLL do not strongly support an infectious meningitis but rather suggest possible CNS involvement by the patient's underlying CLL."
+    },
+    {
+      "ranges": [
+        [
+          9058,
+          9187
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's history of CLL, a malignancy of the immune system, raises the possibility of disease progression or transformation."
+    },
+    {
+      "ranges": [
+        [
+          12276,
+          12545
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of *Pseudomonas aeruginosa* in the sputum and the patient's clinical presentation suggest a significant infectious component. However, the CNS findings and the patient's underlying CLL also suggest potential malignant or inflammatory involvement of the CNS"
+    },
+    {
+      "ranges": [
+        [
+          13299,
+          13547
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of multiple medical conditions, including atrial fibrillation, diabetes mellitus, hypertension, and prostatic adenocarcinoma, also raises the possibility of other systemic conditions contributing to the patient's presentation."
+    }
+  ]
+}

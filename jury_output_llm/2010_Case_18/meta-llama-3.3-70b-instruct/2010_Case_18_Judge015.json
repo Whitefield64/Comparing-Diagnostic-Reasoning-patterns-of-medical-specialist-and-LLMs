@@ -1,0 +1,161 @@
+{
+  "case": "2010 Case 18__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge015",
+  "exported_at": "2026-05-18T16:48:08.218488+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5764,
+          5995
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical presentation of this 7-year-old boy with human immunodeficiency virus type 1 (HIV-1) infection is complex, with multiple potential contributing factors to his elevated HIV RNA levels despite antiretroviral medications."
+    },
+    {
+      "ranges": [
+        [
+          5996,
+          6223
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "To approach this case, it is essential to consider various differential diagnoses, including malignant, infectious, inflammatory, structural, gynecologic (although less relevant in this male patient), systemic, and rare causes."
+    },
+    {
+      "ranges": [
+        [
+          6568,
+          6774
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the patient's mother reports good adherence to the antiretroviral medications and trimethoprim–sulfamethoxazole suggests that resistance or inadequate dosing might be more likely explanations."
+    },
+    {
+      "ranges": [
+        [
+          6775,
+          7033
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The change in the antiretroviral regimen to include lopinavir–ritonavir combination therapy, increased doses of zidovudine and lamivudine, and the addition of multivitamins indicates an attempt to address potential resistance or suboptimal viral suppression."
+    },
+    {
+      "ranges": [
+        [
+          7993,
+          8191
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The prophylactic use of trimethoprim–sulfamethoxazole suggests an attempt to prevent PCP, but the possibility of other opportunistic infections cannot be excluded without further diagnostic testing."
+    },
+    {
+      "ranges": [
+        [
+          8601,
+          8730
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Systemic causes, including malignancies such as lymphoma, which is more common in HIV-infected individuals, should be considered."
+    },
+    {
+      "ranges": [
+        [
+          8395,
+          8600
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's clinical presentation, including bilateral axillary lymphadenopathy and being below the fifth percentile for weight and height, suggests a chronic illness with potential systemic involvement."
+    },
+    {
+      "ranges": [
+        [
+          10920,
+          11161
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "ding diagnosis or diagnoses would likely revolve around issues related to antiretroviral therapy, such as resistance, non-adherence (despite the mother's reports), or inadequate viral suppression due to dosing issues. The development of oppo"
+    },
+    {
+      "ranges": [
+        [
+          11138,
+          11368
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The development of opportunistic infections or other systemic illnesses, including malignancies, although possible, seems less likely based on the information provided but cannot be ruled out without further diagnostic evaluation."
+    },
+    {
+      "ranges": [
+        [
+          11370,
+          11560
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of TB and the presence of a supraclavicular abscess suggest a complex clinical scenario that might involve multiple factors contributing to his elevated HIV RNA levels."
+    },
+    {
+      "ranges": [
+        [
+          11561,
+          11809
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The presence of granulomas with necrosis resembling caseation in the biopsy specimen from the supraclavicular abscess is particularly noteworthy, as it suggests a chronic inflammatory process that could be related to TB or another infectious agent."
+    },
+    {
+      "ranges": [
+        [
+          12767,
+          12882
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's antiretroviral regimen may need to be adjusted based on resistance testing and viral load monitoring."
+    },
+    {
+      "ranges": [
+        [
+          13875,
+          14168
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's immunocompromised state, as indicated by his low weight and height percentiles, and the presence of bilateral axillary lymphadenopathy, underscores the need for a thorough evaluation to identify any underlying conditions that might be contributing to his elevated HIV RNA levels."
+    },
+    {
+      "ranges": [
+        [
+          14579,
+          14723
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The potential for drug interactions between the patient's antiretroviral medications and other drugs he may be taking should also be considered."
+    }
+  ]
+}

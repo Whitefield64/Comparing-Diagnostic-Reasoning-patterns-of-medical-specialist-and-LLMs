@@ -1,0 +1,150 @@
+{
+  "case": "2005 Case 34__openai-gpt-oss-120b.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T18:47:45.932239+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8409,
+          8829
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical picture of a previously healthy 10‑year‑old who develops a rapidly progressive, confluent erythematous‑macular rash that evolves into widespread vesicles, bullae, and full‑thickness epidermal detachment involving >90 % of body surface area, with prominent mucosal involvement (oral, ocular, genital), fever, hypotension, and multiorgan dysfunction, is classic for a severe cutaneous adverse reaction (SCAR)."
+    },
+    {
+      "ranges": [
+        [
+          9108,
+          9361
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The discussion below evaluates each major diagnostic category, weighing the supporting and opposing evidence provided by the chronology, physical findings, laboratory data, and epidemiologic clues, and then narrows to the most plausible final diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9535,
+          9730
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "TEN and SJS represent a spectrum of keratinocyte apoptosis triggered by drug‑specific cytotoxic T‑cell–mediated immune responses, with release of granulysin, perforin, granzyme B, and Fas‑ligand."
+    },
+    {
+      "ranges": [
+        [
+          10042,
+          10182
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The latency from drug exposure to onset of rash in TEN is typically 5–21 days, but can be longer with carbamazepine, especially in children."
+    },
+    {
+      "ranges": [
+        [
+          10184,
+          10428
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "In this case, carbamazepine was initiated at 100 mg twice daily and increased after two weeks; the first fever‑associated rash appeared roughly 9 days after the dose escalation, fitting the classic 7–14‑day window for carbamazepine‑induced TEN."
+    },
+    {
+      "ranges": [
+        [
+          9732,
+          9836
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The result is full‑thickness epidermal necrosis, leading to detachment of the epidermis from the dermis."
+    },
+    {
+      "ranges": [
+        [
+          10430,
+          10590
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient had no prior exposure to sulfonamides (although her father had a sulfa reaction, suggesting a familial propensity for severe drug hypersensitivity)."
+    },
+    {
+      "ranges": [
+        [
+          9838,
+          9999
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Mucosal surfaces are invariably involved because the same immunologic cascade targets the stratified squamous epithelium of the oral, ocular, and genital mucosa."
+    },
+    {
+      "ranges": [
+        [
+          29012,
+          29143
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The hierarchy clearly places carbamazepine‑induced TEN at the apex, with other entities relegated to low or negligible probability."
+    },
+    {
+      "ranges": [
+        [
+          29779,
+          29944
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The subsequent infections, respiratory complications, and multiorgan failure represent sequelae of the primary TEN process rather than alternative primary diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          26160,
+          26373
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The severe epidermal loss in TEN predisposes to:\n\n* **Fluid and electrolyte derangements** – Massive trans‑epidermal fluid loss manifested as hypotension, oliguria, and the need for albumin and vasopressor support"
+    },
+    {
+      "ranges": [
+        [
+          31567,
+          31847
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A thorough differential diagnosis of a pediatric patient with a bullous, sloughing skin eruption and acute respiratory failure must prioritize drug‑induced toxic epidermal necrolysis, particularly when an aromatic anticonvulsant such as carbamazepine has been recently introduced."
+    },
+    {
+      "ranges": [
+        [
+          31978,
+          32167
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the combination of extensive epidermal loss, mucosal involvement, rapid systemic decompensation, and the temporal association with carbamazepine makes TEN the unequivocal leading diagnosis."
+    }
+  ]
+}

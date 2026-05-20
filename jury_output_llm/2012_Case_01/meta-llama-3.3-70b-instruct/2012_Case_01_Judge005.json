@@ -1,0 +1,183 @@
+{
+  "case": "2012 Case 01__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T17:03:20.923308+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          13023,
+          13143
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnoses in this case include pyoderma gangrenosum, a systemic inflammatory disease, and a malignant cause."
+    },
+    {
+      "ranges": [
+        [
+          13145,
+          13310
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's response to glucocorticoids and the presence of leukocytoclastic vasculitis on biopsy support an inflammatory or autoimmune component to the condition."
+    },
+    {
+      "ranges": [
+        [
+          13311,
+          13442
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A malignant cause, such as a paraneoplastic syndrome or a cutaneous manifestation of an underlying cancer, must also be considered."
+    },
+    {
+      "ranges": [
+        [
+          13443,
+          13535
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Rare conditions, such as Sweet syndrome or Behçet's disease, may also be possible diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          7653,
+          7835
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The administration of antibiotics, including piperacillin-tazobactam and vancomycin, and the subsequent worsening of the lesions, may indicate a resistant or unconventional pathogen."
+    },
+    {
+      "ranges": [
+        [
+          7845,
+          7950
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the negative cultures and lack of microorganisms on staining argue against a typical bacterial infection."
+    },
+    {
+      "ranges": [
+        [
+          7952,
+          8130
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's allergy to penicillin and the use of alternative antibiotics, such as ciprofloxacin and linezolid, further complicate the infectious disease differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8131,
+          8316
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of leukocytoclastic vasculitis on biopsy, characterized by inflammation of small blood vessels, suggests an autoimmune or inflammatory component to the patient's condition."
+    },
+    {
+      "ranges": [
+        [
+          8506,
+          8600
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's response to glucocorticoids, with partial improvement, supports this hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          11311,
+          11448
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's improvement with glucocorticoids and worsening with antibiotic therapy also support an inflammatory or autoimmune etiology."
+    },
+    {
+      "ranges": [
+        [
+          15917,
+          16065
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The presence of neutrophilic dermatitis on biopsy and the patient's history of hidradenitis suppurativa support a diagnosis of pyoderma gangrenosum."
+    },
+    {
+      "ranges": [
+        [
+          11911,
+          12048
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's systemic symptoms, including weight loss, intermittent diarrhea, and microhematuria, suggest a multisystem disease process."
+    },
+    {
+      "ranges": [
+        [
+          14195,
+          14324
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's condition may be related to an abnormal immune response, characterized by inflammation and autoantibody production."
+    },
+    {
+      "ranges": [
+        [
+          11620,
+          11699
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of leukocytoclastic vasculitis on biopsy supports this hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          11700,
+          11909
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The patient's history of hidradenitis suppurativa and the development of skin lesions following a perineal abscess may indicate a genetic or environmental predisposition to inflammatory or autoimmune diseases."
+    },
+    {
+      "ranges": [
+        [
+          9791,
+          9939
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of smoking and the presence of bilateral leg edema may indicate a venous or arterial insufficiency component to the condition."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "case": "2005 Case 34__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T08:32:43.047987+00:00",
+  "exported_at": "2026-05-20T14:08:45.813927+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -9,41 +9,22 @@
       "voter_id": 1,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned but the text implies a strong intuition for the diagnosis of TEN."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis are not relevant here, the probability of TEN given the symptoms and the temporal relationship to carbamazepine is very high."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 13,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present but the text: Although the specific allele is not identified, the recurrence of severe skin reactions in a first-degree relative after exposure to structurally unrelated drugs (sulfonamides and phenytoin) strongly supports a genetic susceptibility to T-cell–mediated drug hypersensitivity."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 13,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of widespread epidermal detachment, mucosal sloughing, and systemic toxicity is consistent with the diagnosis of toxic epidermal necrolysis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
@@ -56,29 +37,15 @@
       "voter_id": 5,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of widespread epidermal detachment, mucosal sloughing, and systemic toxicity is consistent with TEN."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "The family history is a critical clue, suggesting a heritable predisposition to severe cutaneous adverse reactions (SCARs), likely mediated by specific HLA alleles."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 13,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here, however the text: Although the specific allele is not identified, the recurrence of severe skin reactions in a first-degree relative after exposure to structurally unrelated drugs (sulfonamides and phenytoin) strongly supports a genetic susceptibility to T-cell–mediated drug hypersensitivity."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
@@ -91,13 +58,8 @@
       "voter_id": 8,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of widespread epidermal detachment, mucosal sloughing, and systemic toxicity is typical of TEN."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
@@ -117,49 +79,22 @@
       "voter_id": 11,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of widespread epidermal detachment, mucosal involvement, and systemic toxicity is consistent with TEN, and the family history of drug-induced skin reactions supports this diagnosis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of TEN given the clinical presentation, temporal relationship to carbamazepine, and family history is high, and the exclusion of other diagnoses based on clinical and temporal data further supports this conclusion."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of widespread epidermal detachment, mucosal sloughing, and systemic toxicity is consistent with the clinical description of TEN."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The family history of drug-induced skin reactions, combined with the clinical course, makes drug-induced TEN the overwhelming diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, instead the text implies the doctor is highly confident in the diagnosis of TEN based on the clinical presentation."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The family history of drug-induced skin reactions, combined with the clinical course, makes drug-induced TEN the overwhelming diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,

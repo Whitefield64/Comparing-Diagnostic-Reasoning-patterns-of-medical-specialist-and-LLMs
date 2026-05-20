@@ -1,0 +1,40 @@
+{
+  "case": "2021 Case 38__openai-gpt-oss-120b.md",
+  "annotator": "Judge008",
+  "exported_at": "2026-05-18T19:36:04.997122+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          29122,
+          29363
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "only condition that simultaneously accounts for the urinary porphyrin elevation, hyponatremia, neuropsychiatric symptoms, abdominal pain, and basophilic stippling** is an **acute hepatic porphyria**—most plausibly **acute intermittent porphy"
+    },
+    {
+      "ranges": [
+        [
+          6971,
+          7525
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical picture of this 76‑year‑old woman is complex, integrating chronic gastrointestinal symptoms (epigastric pain, anorexia, constipation, progressive weight loss), an acute small‑bowel obstruction, neuropsychiatric decline (memory impairment, word‑finding difficulty, disorientation, suicidal ideation), laboratory abnormalities (normocytic anemia, mild hyperbilirubinemia, hyponatremia, elevated urinary porphyrins, basophilic stippling on the peripheral smear), and a background of multiple chronic medical problems and psychosocial stressors."
+    },
+    {
+      "ranges": [
+        [
+          7527,
+          7748
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A disciplined differential must consider entities that can simultaneously involve the gastrointestinal tract, the nervous system, and the hematopoietic system, while also accounting for the imaging and operative findings."
+    }
+  ]
+}

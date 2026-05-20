@@ -1,30 +1,21 @@
 {
   "case": "2021 Case 38__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T14:46:58.003347+00:00",
+  "exported_at": "2026-05-20T14:08:46.019120+00:00",
   "n_voters": 15,
-  "n_successful": 13,
-  "n_failed": 2,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
       "failed": false,
       "n_resolved": 15,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 11,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -32,22 +23,13 @@
       "voter_id": 3,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 11,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -55,25 +37,15 @@
       "voter_id": 5,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with other diagnoses, such as autoimmune and inflammatory conditions, is that they typically cause positive ANA, anti-dsDNA, low complement, and often rash or arthritis — none of which are described."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant here, however the following sentence is: The patient’s history of no travel, no exposure, and normal immune parameters make these unlikely."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
@@ -86,109 +58,57 @@
       "voter_id": 8,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant here but the intuition that the patient’s presentation is not typical of other diseases is relevant, for example: The patient’s memory impairment, difficulty with word finding, tangential speech, inability to perform serial sevens, and inconsistent orientation are not consistent with primary neurodegenerative disease such as Alzheimer’s or frontotemporal dementia, which typically progress over years, not weeks."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant here but the same reasoning applies: Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence, this is replaced with: The temporal relationship — the onset of somatic symptoms two months after the psychological stressor — is consistent with stress triggering an underlying porphyria, as psychological stress is a known precipitant of acute attacks via increased cortisol and catecholamines, which stimulate ALA synthase."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant here but the intuition that the presentation is not typical of other diseases is relevant, for example: The patient’s history of no travel, no exposure, and normal immune parameters make these unlikely."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of porphyria can be grouped on the basis of underlying cause, such as deficiency of porphobilinogen deaminase (PBGD), also known as hydroxymethylbilane synthase."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not relevant here but the following sentence is: The diagnosis of acute intermittent porphyria is strongly supported by the triad of abdominal pain, neuropsychiatric symptoms, and hyponatremia, confirmed by markedly elevated urinary porphyrins."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of abdominal pain, neuropsychiatric symptoms, and porphyrinuria is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of abdominal pain, neuropsychiatric symptoms, and hyponatremia is typical of acute intermittent porphyria."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable here but the following sentence is: The temporal relationship — the onset of somatic symptoms two months after the psychological stressor — is consistent with stress triggering an underlying porphyria, as psychological stress is a known precipitant of acute attacks via increased cortisol and catecholamines, which stimulate ALA synthase."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

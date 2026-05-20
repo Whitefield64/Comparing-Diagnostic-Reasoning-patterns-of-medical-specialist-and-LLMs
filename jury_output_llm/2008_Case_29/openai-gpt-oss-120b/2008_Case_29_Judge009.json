@@ -1,0 +1,150 @@
+{
+  "case": "2008 Case 29__openai-gpt-oss-120b.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T16:41:23.094181+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          28506,
+          28695
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most parsimonious and comprehensive explanation is **severe restrictive‑type anorexia nervosa with secondary functional fecal impaction and refeeding‑related electrolyte disturbances**."
+    },
+    {
+      "ranges": [
+        [
+          21939,
+          22074
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "dysfunction is more plausibly secondary to malnutrition; MRI of the brain was normal; there is no history of neurodegenerative disease."
+    },
+    {
+      "ranges": [
+        [
+          16309,
+          16416
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient’s heart rate is markedly low, not high; temperature is low; thyroid function tests were normal."
+    },
+    {
+      "ranges": [
+        [
+          23163,
+          23310
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The bradycardia is extreme (as low as 29 bpm) but improves with refeeding and correction of electrolytes, suggesting a reversible, secondary cause."
+    },
+    {
+      "ranges": [
+        [
+          28696,
+          28769
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "All organ‑system findings can be integrated into this unifying diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          33977,
+          34186
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient’s presentation is a vivid illustration of how severe restrictive‑type anorexia nervosa can evolve from a chronic, insidious weight‑loss disorder into an acute, life‑threatening abdominal emergency."
+    },
+    {
+      "ranges": [
+        [
+          21505,
+          21656
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The temporal relationship between caloric restriction and the evolution of symptoms further diminishes the likelihood of a primary neoplastic etiology."
+    },
+    {
+      "ranges": [
+        [
+          34379,
+          34587
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The cardiac bradyarrhythmia, orthostatic hypotension, hypothermia, and electrolyte derangements are all **secondary, reversible phenomena** that improve with disciplined, monitored nutritional rehabilitation."
+    },
+    {
+      "ranges": [
+        [
+          34591,
+          34879
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "Alternative diagnoses—including primary gastrointestinal obstruction, endocrine disorders, infectious processes, neoplasia, and primary autonomic or cardiac disease—lack supporting clinical, laboratory, or imaging evidence and are therefore relegated to the periphery of the differential."
+    },
+    {
+      "ranges": [
+        [
+          9003,
+          9177
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient’s weight plateaued at ~45 kg by age 15, then declined again after a 2‑year period of relative stability, with a 2.3 kg loss in the two months preceding admission."
+    },
+    {
+      "ranges": [
+        [
+          18423,
+          18500
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Chronic malnutrition reduces IGF‑1, impairing linear growth and bone accrual."
+    },
+    {
+      "ranges": [
+        [
+          24780,
+          24918
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The presence of osteopenia is not an independent diagnostic entity here but serves as a corroborative marker of chronic energy deficiency."
+    },
+    {
+      "ranges": [
+        [
+          35164,
+          35382
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The comprehensive management plan must address nutritional restoration, electrolyte stabilization, cardiovascular monitoring, bone health, and intensive psychiatric care to achieve full recovery and prevent recurrence."
+    }
+  ]
+}

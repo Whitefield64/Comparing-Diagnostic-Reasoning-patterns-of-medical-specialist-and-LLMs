@@ -1,0 +1,172 @@
+{
+  "case": "2015 Case 40__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T17:47:02.406701+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          18718,
+          18935
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnostic possibilities are: (1) hypertensive emergency with PRES, (2) pheochromocytoma, (3) neurosyphilis, (4) systemic vasculitis (particularly PACNS or NPSLE), and (5) cerebral venous sinus thrombosis."
+    },
+    {
+      "ranges": [
+        [
+          18936,
+          19193
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most likely diagnosis, given the dramatic response to antihypertensives and the absence of other findings, is a hypertensive emergency with underlying chronic, uncontrolled essential hypertension exacerbated by stress, poor nutrition, and noncompliance."
+    },
+    {
+      "ranges": [
+        [
+          6128,
+          6359
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The absence of focal neurologic deficits, normal head CT without contrast, normal cardiac biomarkers, and lack of evidence for acute end-organ damage on initial labs complicates the picture but does not eliminate serious diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          7758,
+          7935
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "PRES is frequently associated with conditions that impair endothelial autoregulation, including chronic hypertension, preeclampsia, immunosuppressive therapy, and renal disease."
+    },
+    {
+      "ranges": [
+        [
+          8154,
+          8360
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that her blood pressure responded dramatically to labetalol and captopril supports a diagnosis of hypertensive crisis, and PRES remains a plausible, though unconfirmed, contributor to her headache."
+    },
+    {
+      "ranges": [
+        [
+          8362,
+          8498
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another critical consideration is pheochromocytoma, a catecholamine-secreting tumor of the adrenal medulla or extra-adrenal paraganglia."
+    },
+    {
+      "ranges": [
+        [
+          9751,
+          10034
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The dramatic response to labetalol—a non-selective beta-blocker with alpha-blocking properties—is consistent with catecholamine excess, as beta-blockade alone can be dangerous in pheochromocytoma without prior alpha-blockade, but labetalol’s combined action may have been protective."
+    },
+    {
+      "ranges": [
+        [
+          8487,
+          8767
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "araganglia. Pheochromocytoma classically presents with paroxysmal hypertension, headache, palpitations, and diaphoresis, but in many cases, particularly in atypical or chronic presentations, symptoms can be insidious and mistaken for anxiety, psychosis, or essential hypertension."
+    },
+    {
+      "ranges": [
+        [
+          10482,
+          10595
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient’s obesity, chronic hypertension, and age place her at risk for atherosclerotic renal artery stenosis."
+    },
+    {
+      "ranges": [
+        [
+          6520,
+          6714
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The most immediate concern is the hypertensive emergency, defined by severe elevation in blood pressure (systolic >180 mm Hg and/or diastolic >120 mm Hg) with evidence of acute end-organ damage."
+    },
+    {
+      "ranges": [
+        [
+          6360,
+          6518
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The resolution of headache and blood pressure with antihypertensive therapy is reassuring but does not elucidate the root cause of the hypertensive emergency."
+    },
+    {
+      "ranges": [
+        [
+          12180,
+          12351
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "ation of severe hypertension, headache, and psychosis can be the presenting manifestation of central nervous system vasculitis or systemic lupus erythematosus (SLE). Prima"
+    },
+    {
+      "ranges": [
+        [
+          19203,
+          19564
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "the presence of a long-standing psychotic illness with grandiose and paranoid features, combined with the acute hypertensive crisis and the lack of definitive diagnostic workup, leaves open the possibility of an underlying organic etiology—particularly pheochromocytoma or neurosyphilis—that may have been misattributed to psychiatric illness for over a decade."
+    },
+    {
+      "ranges": [
+        [
+          8909,
+          9075
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The absence of classic triad symptoms—palpitations, sweating, pallor—is not reassuring, as up to 30% of patients with pheochromocytoma present without the full triad."
+    },
+    {
+      "ranges": [
+        [
+          19686,
+          19831
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "This case underscores the critical importance of not attributing all symptoms in a patient with chronic psychosis to their psychiatric diagnosis."
+    }
+  ]
+}

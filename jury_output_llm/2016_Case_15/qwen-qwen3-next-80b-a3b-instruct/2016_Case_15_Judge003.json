@@ -1,0 +1,194 @@
+{
+  "case": "2016 Case 15__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T18:10:27.108719+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          5623,
+          5718
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most immediate diagnostic consideration is a primary central nervous system (CNS) neoplasm."
+    },
+    {
+      "ranges": [
+        [
+          5719,
+          5834
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Gliomas, particularly those of lower grade but with infiltrative potential, must be at the top of the differential."
+    },
+    {
+      "ranges": [
+        [
+          5835,
+          5989
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The location—medial right temporal lobe extending into the insula and basal ganglia—is classic for a diffuse astrocytoma, particularly an IDH-mutant type."
+    },
+    {
+      "ranges": [
+        [
+          7772,
+          7845
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A second major category of neoplastic etiology is a primary CNS lymphoma."
+    },
+    {
+      "ranges": [
+        [
+          9202,
+          9257
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another neoplastic consideration is a metastatic tumor."
+    },
+    {
+      "ranges": [
+        [
+          10498,
+          10568
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "A third category to consider is infectious or inflammatory etiologies."
+    },
+    {
+      "ranges": [
+        [
+          4394,
+          4602
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The olfactory hallucinations, in particular, are a classic ictal or interictal phenomenon arising from the uncus or amygdala, regions of the medial temporal lobe that are part of the primary olfactory cortex."
+    },
+    {
+      "ranges": [
+        [
+          15227,
+          15463
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that the lesion is unilateral and asymmetric, with no contralateral involvement, argues against a systemic inflammatory process such as multiple sclerosis, which typically presents with multiple, periventricular, ovoid lesions."
+    },
+    {
+      "ranges": [
+        [
+          6864,
+          7159
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of significant FLAIR hyperintensity beyond the enhancing regions is somewhat atypical for glioblastoma, which usually shows extensive peritumoral edema; however, in some cases, particularly those with more infiltrative than vasogenic edema, the FLAIR signal may be relatively modest."
+    },
+    {
+      "ranges": [
+        [
+          7160,
+          7358
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The normal magnetic resonance spectroscopy is an important negative finding: elevated choline, reduced N-acetylaspartate, and the presence of lactate or lipid peaks are common in high-grade gliomas."
+    },
+    {
+      "ranges": [
+        [
+          8826,
+          9020
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The normal spectroscopy also argues against lymphoma, as these tumors typically show a dominant choline peak with absent or markedly reduced NAA and creatine, and sometimes a lipid/lactate peak."
+    },
+    {
+      "ranges": [
+        [
+          12601,
+          12778
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of CSF pleocytosis (inferred from no mention of lumbar puncture results) and lack of response to steroids (implied by no prior trial) further reduce this likelihood."
+    },
+    {
+      "ranges": [
+        [
+          16915,
+          17251
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the pattern of leptomeningeal nodularity, the location in the basal ganglia and brainstem, the patient’s demographic profile, and the absence of typical neoplastic imaging features (e.g., extensive edema, necrosis, pronounced spectroscopic abnormalities) make neurosarcoidosis the most plausible and diagnostically urgent consideration."
+    },
+    {
+      "ranges": [
+        [
+          16660,
+          16846
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The fact that the patient was started on levetiracetam suggests a clinical suspicion of seizure disorder, which is common in both sarcoidosis and glioma, but does not differentiate them."
+    },
+    {
+      "ranges": [
+        [
+          16544,
+          16659
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The diagnosis would be supported by elevated ACE levels, lymphopenia, or a biopsy showing non-caseating granulomas."
+    },
+    {
+      "ranges": [
+        [
+          15464,
+          15589
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient’s young age also makes demyelinating disease unlikely to present with such a focal, enhancing, infiltrative mass."
+    },
+    {
+      "ranges": [
+        [
+          16025,
+          16130
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The temporal lobe mass could represent a granulomatous infiltrate with secondary gliosis and enhancement."
+    }
+  ]
+}

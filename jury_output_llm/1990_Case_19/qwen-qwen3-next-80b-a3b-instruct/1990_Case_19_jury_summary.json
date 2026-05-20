@@ -1,6 +1,6 @@
 {
   "case": "1990 Case 19__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T07:13:56.775864+00:00",
+  "exported_at": "2026-05-20T14:08:45.634258+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -86,41 +86,8 @@
       "voter_id": 12,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If an occult primary exists, this could be a case of metastatic disease, but in a 12-year-old with no prior malignancy, this is unlikely."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of liver masses can be grouped on the basis of underlying cause, such as infection, neoplasm, or inflammation."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but in this case, the clinical and radiological data converge most compellingly on hydatid disease."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, but the lack of response to metronidazole and negative serology makes this less likely."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of hydatid disease is high given the epidemiology and imaging findings, and the absence of a clearly defined capsule on MRI is somewhat atypical, but this may be due to rupture, infection, or degeneration."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with hydatid disease may have a catastrophic reaction after high-dose corticosteroid therapy is begun, and this patient’s history of swimming in freshwater and exposure to rural environments in multiple endemic countries supports this diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,

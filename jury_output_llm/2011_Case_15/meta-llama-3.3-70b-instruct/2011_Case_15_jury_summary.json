@@ -1,21 +1,16 @@
 {
   "case": "2011 Case 15__meta-llama-3.3-70b-instruct.md",
-  "exported_at": "2026-05-18T10:23:02.315961+00:00",
+  "exported_at": "2026-05-20T14:08:45.868736+00:00",
   "n_voters": 15,
-  "n_successful": 4,
-  "n_failed": 11,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
       "failed": false,
       "n_resolved": 27,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation and the evolution of her symptoms, suggest a complex clinical picture with multiple potential diagnoses."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
@@ -26,36 +21,36 @@
     },
     {
       "voter_id": 3,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 16,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 4,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 18,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 5,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 12,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 6,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 12,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 7,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 14,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -63,71 +58,34 @@
       "voter_id": 8,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 9,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has a systemic infection or an early stage of an STI, we would expect to see symptoms such as headache, fatigue, sore throat, and anorexia, which could be indicative of an acute retroviral syndrome."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Nucleic acid amplification tests (NAATs) for chlamydia, gonorrhea, and trichomoniasis, as well as serologic tests for syphilis and HIV, should be considered in the diagnostic workup."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The patient's symptoms of vaginal discharge and pelvic pain could be indicative of pelvic inflammatory disease (PID), but the presence of a genital ulcer makes PID less likely."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient's presentation with a painful genital ulcer, headache, fatigue, sore throat, and anorexia is suggestive of an STI, possibly complicated by co-infections or immunosuppression."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is an STI, given the patient's symptoms and sexual history, although it is also crucial to consider other less common causes of genital ulcers."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The patient's initial negative HIV tests do not rule out HIV infection, especially if the tests were performed early in the course of infection, and further testing may be necessary to determine the likelihood of HIV infection."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's symptoms and presentation are similar to those of other patients with STIs, and consideration of these cases can inform the diagnostic approach and treatment plan."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "The possibility of co-infections or underlying conditions, such as immunosuppression due to HIV, should be considered in the diagnostic workup, and a comprehensive approach to diagnostic testing and treatment is necessary."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient's response to treatment will be an important factor in determining the diagnosis and guiding further management, and a comprehensive approach to care, including input from specialists in infectious diseases, gynecology, and sexual health, may be beneficial."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 7,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 10,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 9,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 11,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 6,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 12,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 10,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -135,53 +93,20 @@
       "voter_id": 13,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The development of a painful genital ulcer is a critical aspect of the patient's presentation, and its description as painful with undermined borders and without surrounding induration is more suggestive of certain conditions over others."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has a sexually transmitted infection, we would expect to see a response to antibiotics, and the presence of a genital ulcer would be consistent with this diagnosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The patient's symptoms of headache, fatigue, sore throat, and anorexia could be indicative of an acute retroviral syndrome, which occurs in some individuals shortly after HIV infection, and this diagnosis should be considered before moving on to less likely explanations."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The fact that the patient was aware of HIV and its mode of transmission but still engaged in unprotected sex highlights the importance of education and prevention strategies in reducing the spread of HIV and other STIs, and this information is consistent with the patient's high-risk behavior."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of symptoms, including a painful genital ulcer, is typical of certain sexually transmitted infections, such as HSV or chancroid."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a sexually transmitted infection, given the patient's symptoms and sexual history."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although the patient's initial HIV tests were negative, the possibility of HIV infection cannot be ruled out, especially if the tests were performed early in the course of infection, and further testing may be necessary to determine the likelihood of this diagnosis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar patient who presented with a painful genital ulcer and was later diagnosed with a sexually transmitted infection, and this case is reminiscent of that one."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 12,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 15,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 5,
       "n_unresolved": 0,
       "unresolved": []
     }

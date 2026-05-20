@@ -1,0 +1,139 @@
+{
+  "case": "2011 Case 15__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-19T09:15:50.922090+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3645,
+          3826
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "ache, fatigue, vaginal discharge, and subsequent development of a painful genital ulcer suggests a complex clinical picture with multiple potential diagnoses. Initially, the symptom"
+    },
+    {
+      "ranges": [
+        [
+          4018,
+          4240
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The administration of doxycycline, metronidazole, and ceftriaxone according to South African guidelines for STIs suggests that the treating clinicians considered infections such as chlamydia, gonorrhea, and trichomoniasis."
+    },
+    {
+      "ranges": [
+        [
+          4492,
+          4586
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of a painful genital ulcer is a critical aspect of the patient's presentation."
+    },
+    {
+      "ranges": [
+        [
+          4587,
+          4717
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Genital ulcers can be caused by a range of conditions, including STIs such as syphilis, herpes simplex virus (HSV), and chancroid."
+    },
+    {
+      "ranges": [
+        [
+          4718,
+          4870
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The description of the ulcer as painful with undermined borders and without surrounding induration is more suggestive of certain conditions over others."
+    },
+    {
+      "ranges": [
+        [
+          8650,
+          8793
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The presence of a painful genital ulcer, in particular, narrows the differential diagnosis to conditions that are known to cause such symptoms."
+    },
+    {
+      "ranges": [
+        [
+          5160,
+          5256
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "HSV is a common cause of genital ulcers and is characterized by painful, multiple, small ulcers."
+    },
+    {
+      "ranges": [
+        [
+          8128,
+          8259
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's age, sexual history, and the fact that her partner reportedly refused to use condoms also increase her risk for STIs."
+    },
+    {
+      "ranges": [
+        [
+          7834,
+          7970
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The geographic location of the patient in South Africa is relevant, given the varying prevalence of different STIs in different regions."
+    },
+    {
+      "ranges": [
+        [
+          5616,
+          5852
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The patient's response to penicillin G benzathine and erythromycin, which are treatments for syphilis and potentially other bacterial infections, will be important in determining the effectiveness of the treatment for the genital ulcer."
+    },
+    {
+      "ranges": [
+        [
+          7507,
+          7640
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's response to the administered treatments will also provide valuable information in guiding the diagnosis and management."
+    },
+    {
+      "ranges": [
+        [
+          6872,
+          6993
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "the presence of a vaginal discharge and a genital ulcer makes an STI or a condition related to sexual health more likely."
+    }
+  ]
+}

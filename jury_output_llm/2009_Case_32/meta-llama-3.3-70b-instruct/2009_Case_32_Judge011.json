@@ -1,0 +1,161 @@
+{
+  "case": "2009 Case 32__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T16:43:00.994324+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8764,
+          8991
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's history of albinism, easy bruising, and nearsightedness, along with a family history of similar conditions, raises the possibility of a genetic or systemic disorder affecting multiple systems, including the lungs."
+    },
+    {
+      "ranges": [
+        [
+          8992,
+          9145
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The diagnosis of cystic fibrosis (CF) was considered due to the patient's respiratory symptoms and the mention that his mother was told he might have CF."
+    },
+    {
+      "ranges": [
+        [
+          9512,
+          9734
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the interstitial changes and bronchiectasis on imaging, along with the patient's progressive dyspnea and decreased exercise tolerance, conditions that cause pulmonary fibrosis and bronchiectasis should be considered."
+    },
+    {
+      "ranges": [
+        [
+          9735,
+          9912
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Idiopathic pulmonary fibrosis (IPF) is a condition characterized by progressive fibrosis of the lung parenchyma, leading to symptoms similar to those experienced by the patient."
+    },
+    {
+      "ranges": [
+        [
+          10018,
+          10333
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other forms of interstitial lung disease (ILD), such as those associated with connective tissue diseases (e.g., rheumatoid arthritis, systemic lupus erythematosus), could be considered, but there is no clear evidence of such diseases in this patient (e.g., no joint symptoms, no rash, normal autoimmune serologies)."
+    },
+    {
+      "ranges": [
+        [
+          10335,
+          10524
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's history of easy bruising and the findings of impaired platelet function on platelet-aggregation studies suggest a bleeding disorder or a condition affecting platelet function."
+    },
+    {
+      "ranges": [
+        [
+          10750,
+          10885
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The syndrome affects the production of melanin, leading to albinism, and affects platelet dense granules, leading to bleeding problems."
+    },
+    {
+      "ranges": [
+        [
+          11499,
+          11668
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Pulmonary hypertension can lead to right ventricular dysfunction and failure, which may contribute to the patient's symptoms of dyspnea and decreased exercise tolerance."
+    },
+    {
+      "ranges": [
+        [
+          8459,
+          8762
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the presence of diffuse bronchiectatic changes, especially in the upper lung zones, with increased lung markings bilaterally and features consistent with an interstitial process on chest radiograph and CT of the chest, suggests a pulmonary condition with both bronchiectatic and interstitial components."
+    },
+    {
+      "ranges": [
+        [
+          13796,
+          14003
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the patient's complex presentation, including albinism, easy bruising, impaired platelet function, and interstitial lung disease with bronchiectasis, Hermansky-Pudlak syndrome emerges as a leading diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          15049,
+          15255
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the combination of albinism, easy bruising, impaired platelet function, and interstitial lung disease with bronchiectasis points most strongly towards Hermansky-Pudlak syndrome as the most likely diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          12593,
+          12838
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "the patient's symptoms and findings are not typical for asthma, despite the use of bronchodilators and inhaled corticosteroids, which were likely prescribed for symptomatic relief rather than as a treatment for an underlying asthmatic condition."
+    },
+    {
+      "ranges": [
+        [
+          16497,
+          16676
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The significant desaturation with exercise and the poor exercise tolerance suggest a severe pulmonary condition that is limiting the patient's ability to perform daily activities."
+    },
+    {
+      "ranges": [
+        [
+          15824,
+          16102
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "For instance, Chédiak-Higashi syndrome, another rare genetic disorder, is characterized by albinism, bleeding tendency, and recurrent infections, but it typically presents with more pronounced immunodeficiency and is less likely given the patient's lack of recurrent infections."
+    }
+  ]
+}

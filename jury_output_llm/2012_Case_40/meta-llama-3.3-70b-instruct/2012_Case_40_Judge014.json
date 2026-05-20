@@ -1,0 +1,106 @@
+{
+  "case": "2012 Case 40__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T17:28:41.332526+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9134,
+          9411
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the differential diagnosis includes various obstetric, anesthetic, and medical complications, including hemorrhage, anesthesia-related hypotension, amniotic fluid embolism, anaphylactic reaction, uterine atony or inversion, and other medical causes of cardiorespiratory arrest."
+    },
+    {
+      "ranges": [
+        [
+          3391,
+          3646
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of placenta previa, recent cesarean section, and the sudden onset of hypotension, bradycardia, and respiratory distress, the differential diagnosis is broad and includes various obstetric, anesthetic, and medical complications."
+    },
+    {
+      "ranges": [
+        [
+          3740,
+          3941
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient had a significant drop in systolic blood pressure to 70-80 mmHg, which could be attributed to various factors, including hemorrhage, anesthesia-related complications, or obstructive causes."
+    },
+    {
+      "ranges": [
+        [
+          9749,
+          9976
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The onset of hypotension, bradycardia, and respiratory distress, with chest pain and apnea, suggests a severe cardiorespiratory compromise that may be consistent with amniotic fluid embolism or other catastrophic complications."
+    },
+    {
+      "ranges": [
+        [
+          5786,
+          5920
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's symptoms, including chest pain, hypotension, and respiratory distress, could be consistent with amniotic fluid embolism."
+    },
+    {
+      "ranges": [
+        [
+          9978,
+          10156
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The absence of any reported risk factors for deep vein thrombosis or pulmonary embolism makes these diagnoses less likely, but they cannot be excluded without further evaluation."
+    },
+    {
+      "ranges": [
+        [
+          3208,
+          3390
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's presentation with cardiorespiratory arrest after a cesarean section is a complex and critical scenario that requires careful consideration of multiple potential causes."
+    },
+    {
+      "ranges": [
+        [
+          5114,
+          5253
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's history of obesity and recent cesarean section may increase her risk for thromboembolic events, including pulmonary embolism."
+    },
+    {
+      "ranges": [
+        [
+          10668,
+          10885
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's presentation highlights the importance of careful monitoring and management of patients undergoing cesarean section, particularly those with a history of placenta previa or other obstetric complications."
+    }
+  ]
+}

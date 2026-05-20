@@ -1,14 +1,14 @@
 {
   "case": "2015 Case 01__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T12:13:18.221571+00:00",
+  "exported_at": "2026-05-20T14:08:45.929315+00:00",
   "n_voters": 15,
-  "n_successful": 3,
-  "n_failed": 12,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 20,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -21,8 +21,8 @@
     },
     {
       "voter_id": 3,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 20,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -35,15 +35,15 @@
     },
     {
       "voter_id": 5,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 24,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 6,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 12,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -51,67 +51,62 @@
       "voter_id": 7,
       "failed": false,
       "n_resolved": 13,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present but the following text is: Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence is not present but the text that follows the phrase \"The most compelling and statistically likely diagnosis is **metastatic recurrence of luminal B-type breast carcinoma**.\" is not annotated but this one is: The possibility of **metastatic melanoma** remains a critical differential due to the patient’s history, but is less likely given the low-risk profile of her prior melanomas, the unusual timing of recurrence, and the cytologic resemblance to her prior breast cancer."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 8,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 9,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 20,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 10,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 21,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 11,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 23,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 12,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 10,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 13,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 13,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 14,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 56,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 15,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 17,
       "n_unresolved": 0,
       "unresolved": []
     }

@@ -1,0 +1,392 @@
+{
+  "case": "2012 Case 40__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T20:48:50.413073+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3208,
+          3390
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with cardiorespiratory arrest after a cesarean section is a complex and critical scenario that requires careful consideration of multiple potential causes."
+    },
+    {
+      "ranges": [
+        [
+          3391,
+          3646
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of placenta previa, recent cesarean section, and the sudden onset of hypotension, bradycardia, and respiratory distress, the differential diagnosis is broad and includes various obstetric, anesthetic, and medical complications."
+    },
+    {
+      "ranges": [
+        [
+          3740,
+          3941
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient had a significant drop in systolic blood pressure to 70-80 mmHg, which could be attributed to various factors, including hemorrhage, anesthesia-related complications, or obstructive causes."
+    },
+    {
+      "ranges": [
+        [
+          3942,
+          4193
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Although the patient had active vaginal bleeding prior to the cesarean section, the hematocrit and hemoglobin levels, although lower than the reference range, do not suggest severe anemia that would typically be associated with significant blood loss."
+    },
+    {
+      "ranges": [
+        [
+          4194,
+          4350
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, it is crucial to consider the possibility of ongoing hemorrhage, either from the placenta previa site or from the cesarean section incision itself."
+    },
+    {
+      "ranges": [
+        [
+          4819,
+          4977
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of apnea and unresponsiveness, with electrical activity present on ECG but no palpable pulses, suggests a severe cardiorespiratory compromise."
+    },
+    {
+      "ranges": [
+        [
+          4978,
+          5113
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "This presentation could be consistent with a pulmonary embolism, amniotic fluid embolism, or anaphylactic reaction, among other causes."
+    },
+    {
+      "ranges": [
+        [
+          5114,
+          5253
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's history of obesity and recent cesarean section may increase her risk for thromboembolic events, including pulmonary embolism."
+    },
+    {
+      "ranges": [
+        [
+          5254,
+          5437
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the absence of any reported risk factors for deep vein thrombosis or pulmonary embolism, such as prolonged immobilization or family history, makes this diagnosis less likely."
+    },
+    {
+      "ranges": [
+        [
+          5439,
+          5602
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Amniotic fluid embolism is a rare but potentially catastrophic complication of pregnancy, often associated with cesarean delivery or other obstetric interventions."
+    },
+    {
+      "ranges": [
+        [
+          5603,
+          5785
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presentation of amniotic fluid embolism can be variable, but it typically includes sudden onset of hypotension, hypoxia, and either cardiac arrest or severe respiratory distress."
+    },
+    {
+      "ranges": [
+        [
+          5786,
+          5920
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's symptoms, including chest pain, hypotension, and respiratory distress, could be consistent with amniotic fluid embolism."
+    },
+    {
+      "ranges": [
+        [
+          5921,
+          6118
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "However, the diagnosis of amniotic fluid embolism is often made clinically, and definitive diagnosis requires histopathological confirmation of amniotic fluid in the maternal pulmonary circulation."
+    },
+    {
+      "ranges": [
+        [
+          6120,
+          6223
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Anaphylactic reactions can also present with hypotension, respiratory distress, and cardiac compromise."
+    },
+    {
+      "ranges": [
+        [
+          6224,
+          6397
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the patient's history does not suggest any known allergies, and the onset of symptoms occurred in the setting of a cesarean section, making anaphylaxis less likely."
+    },
+    {
+      "ranges": [
+        [
+          6398,
+          6574
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Other potential causes of anaphylaxis, such as latex or antibiotic allergies, could be considered, but there is no information to suggest that these were relevant in this case."
+    },
+    {
+      "ranges": [
+        [
+          6576,
+          6695
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other obstetric complications, such as uterine atony or inversion, could also contribute to the patient's presentation."
+    },
+    {
+      "ranges": [
+        [
+          6696,
+          6819
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Uterine atony is a common cause of postpartum hemorrhage, which could lead to hypotension and cardiorespiratory compromise."
+    },
+    {
+      "ranges": [
+        [
+          6820,
+          6924
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the patient's symptoms, including chest pain and apnea, are not typical of uterine atony alone."
+    },
+    {
+      "ranges": [
+        [
+          6925,
+          7068
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Uterine inversion is a rare but potentially life-threatening complication of delivery, often associated with severe hemorrhage and hypotension."
+    },
+    {
+      "ranges": [
+        [
+          7069,
+          7212
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the patient's presentation does not suggest uterine inversion, and there is no information to suggest that this complication occurred."
+    },
+    {
+      "ranges": [
+        [
+          7214,
+          7406
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "In addition to these obstetric complications, it is essential to consider other medical causes of cardiorespiratory arrest, including myocardial infarction, cardiac tamponade, or pneumothorax."
+    },
+    {
+      "ranges": [
+        [
+          7407,
+          7607
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's history of migraine headaches and obesity may increase her risk for cardiovascular disease, but there is no other information to suggest that these conditions were relevant in this case."
+    },
+    {
+      "ranges": [
+        [
+          7608,
+          7761
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Myocardial infarction, although rare in pregnancy, could present with chest pain and hypotension, and should be considered in the differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          7762,
+          7921
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "Cardiac tamponade, which can occur due to various causes, including trauma or malignancy, could also present with hypotension and cardiorespiratory compromise."
+    },
+    {
+      "ranges": [
+        [
+          7923,
+          8064
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Pneumothorax, which can occur spontaneously or as a complication of anesthesia, could also present with respiratory distress and hypotension."
+    },
+    {
+      "ranges": [
+        [
+          8065,
+          8203
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "However, the patient's presentation does not suggest pneumothorax, and there is no information to suggest that this complication occurred."
+    },
+    {
+      "ranges": [
+        [
+          8406,
+          8529
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the complexity of the patient's presentation, it is crucial to consider the potential for multiple concurrent causes."
+    },
+    {
+      "ranges": [
+        [
+          8530,
+          8712
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "For example, the patient may have experienced a hemorrhage or anesthesia-related complication that was exacerbated by an underlying medical condition, such as cardiovascular disease."
+    },
+    {
+      "ranges": [
+        [
+          10668,
+          10885
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's presentation highlights the importance of careful monitoring and management of patients undergoing cesarean section, particularly those with a history of placenta previa or other obstetric complications."
+    },
+    {
+      "ranges": [
+        [
+          10886,
+          11099
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The onset of hypotension, bradycardia, and respiratory distress should prompt immediate evaluation and intervention, including the administration of fluids, blood products, and other supportive measures as needed."
+    },
+    {
+      "ranges": [
+        [
+          10514,
+          10667
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's outcome will depend on the prompt and effective management of her underlying condition, as well as the prevention of further complications."
+    },
+    {
+      "ranges": [
+        [
+          11901,
+          12103
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "It is essential to consider the potential for multiple concurrent causes and to approach the patient's management with a multidisciplinary team, including obstetric, anesthetic, and medical specialists."
+    },
+    {
+      "ranges": [
+        [
+          12875,
+          13005
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's presentation also highlights the importance of careful communication and collaboration between healthcare providers."
+    },
+    {
+      "ranges": [
+        [
+          13214,
+          13379
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "Effective communication and collaboration between these providers will be essential to ensure the patient receives optimal care and to prevent further complications."
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "case": "2015 Case 40__meta-llama-3.3-70b-instruct.md",
-  "exported_at": "2026-05-18T12:17:13.194903+00:00",
+  "exported_at": "2026-05-20T14:08:45.934057+00:00",
   "n_voters": 15,
-  "n_successful": 14,
-  "n_failed": 1,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
@@ -105,8 +105,8 @@
     },
     {
       "voter_id": 15,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 13,
       "n_unresolved": 0,
       "unresolved": []
     }

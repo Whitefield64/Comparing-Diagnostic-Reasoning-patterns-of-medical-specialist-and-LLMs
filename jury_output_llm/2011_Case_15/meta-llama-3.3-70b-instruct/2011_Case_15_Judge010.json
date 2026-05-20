@@ -1,0 +1,106 @@
+{
+  "case": "2011 Case 15__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T16:57:02.008569+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3804,
+          4017
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Initially, the symptoms of vaginal discharge, headache, and fatigue could be indicative of a variety of conditions, including sexually transmitted infections (STIs), given the patient's history of sexual activity."
+    },
+    {
+      "ranges": [
+        [
+          4492,
+          4586
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The development of a painful genital ulcer is a critical aspect of the patient's presentation."
+    },
+    {
+      "ranges": [
+        [
+          4587,
+          4717
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Genital ulcers can be caused by a range of conditions, including STIs such as syphilis, herpes simplex virus (HSV), and chancroid."
+    },
+    {
+      "ranges": [
+        [
+          4884,
+          5017
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the absence of induration makes syphilis less likely, as the classic chancre of primary syphilis is typically painless and indurated."
+    },
+    {
+      "ranges": [
+        [
+          5018,
+          5159
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of a painful ulcer, on the other hand, is more consistent with HSV or chancroid, both of which can cause painful genital ulcers."
+    },
+    {
+      "ranges": [
+        [
+          11871,
+          11986
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If the patient responds well to treatment for a specific STI, this will provide strong evidence for that diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          11286,
+          11443
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "ucleic acid amplification tests (NAATs) for chlamydia, gonorrhea, and trichomoniasis, as well as serologic tests for syphilis and HIV. The patient should als"
+    },
+    {
+      "ranges": [
+        [
+          4718,
+          4870
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The description of the ulcer as painful with undermined borders and without surrounding induration is more suggestive of certain conditions over others."
+    },
+    {
+      "ranges": [
+        [
+          14427,
+          14687
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's clinical presentation and the epidemiological context suggest that STIs, including HIV, should be considered high on the list of potential diagnoses, with a comprehensive approach to diagnosis and treatment being crucial for optimal patient care."
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "case": "2011 Case 15__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge003",
+  "exported_at": "2026-05-18T16:53:34.076374+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3609,
+          3803
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with headache, fatigue, vaginal discharge, and subsequent development of a painful genital ulcer suggests a complex clinical picture with multiple potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          3804,
+          4017
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Initially, the symptoms of vaginal discharge, headache, and fatigue could be indicative of a variety of conditions, including sexually transmitted infections (STIs), given the patient's history of sexual activity."
+    },
+    {
+      "ranges": [
+        [
+          4250,
+          4490
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the persistence of symptoms and the development of a genital ulcer complicate the diagnosis, suggesting that the initial treatment may not have been fully effective or that the patient has a co-infection or a different condition altogether."
+    },
+    {
+      "ranges": [
+        [
+          4718,
+          4870
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The description of the ulcer as painful with undermined borders and without surrounding induration is more suggestive of certain conditions over others."
+    },
+    {
+      "ranges": [
+        [
+          4871,
+          5017
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "For example, the absence of induration makes syphilis less likely, as the classic chancre of primary syphilis is typically painless and indurated."
+    },
+    {
+      "ranges": [
+        [
+          5018,
+          5159
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of a painful ulcer, on the other hand, is more consistent with HSV or chancroid, both of which can cause painful genital ulcers."
+    },
+    {
+      "ranges": [
+        [
+          5160,
+          5440
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "HSV is a common cause of genital ulcers and is characterized by painful, multiple, small ulcers. However, the patient's ulcer is described as a single lesion, which might be less typical for HSV, although it is not uncommon for the initial outbreak to present with a single ulcer."
+    },
+    {
+      "ranges": [
+        [
+          5441,
+          5614
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Chancroid, caused by Haemophilus ducreyi, is another possibility, characterized by one or more painful ulcers with undermined borders, which fits the patient's presentation."
+    },
+    {
+      "ranges": [
+        [
+          5616,
+          5852
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's response to penicillin G benzathine and erythromycin, which are treatments for syphilis and potentially other bacterial infections, will be important in determining the effectiveness of the treatment for the genital ulcer."
+    },
+    {
+      "ranges": [
+        [
+          5853,
+          6061
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The initial negative rapid screening tests for HIV-1 are significant, given the patient's symptoms and sexual history. However, these tests are not 100% sensitive, especially in the early stages of infection."
+    },
+    {
+      "ranges": [
+        [
+          6062,
+          6247
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms of headache, fatigue, sore throat, and anorexia could be indicative of an acute retroviral syndrome, which occurs in some individuals shortly after HIV infection."
+    },
+    {
+      "ranges": [
+        [
+          6450,
+          6669
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that the patient was aware of HIV and its mode of transmission but still engaged in unprotected sex highlights the importance of education and prevention strategies in reducing the spread of HIV and other STIs."
+    },
+    {
+      "ranges": [
+        [
+          6248,
+          6448
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of a genital ulcer could also be related to HIV, either as a direct manifestation of the infection or due to immunosuppression leading to reactivation of latent infections such as HSV."
+    },
+    {
+      "ranges": [
+        [
+          8650,
+          8793
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The presence of a painful genital ulcer, in particular, narrows the differential diagnosis to conditions that are known to cause such symptoms."
+    },
+    {
+      "ranges": [
+        [
+          8794,
+          8907
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "While syphilis is a classic cause of genital ulcers, the absence of induration in this case makes it less likely."
+    },
+    {
+      "ranges": [
+        [
+          8908,
+          9037
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "HSV and chancroid are more consistent with the patient's presentation, given the painful nature of the ulcer and its description."
+    }
+  ]
+}

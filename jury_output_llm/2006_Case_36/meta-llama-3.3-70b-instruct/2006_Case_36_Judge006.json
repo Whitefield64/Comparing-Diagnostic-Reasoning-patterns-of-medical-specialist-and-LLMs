@@ -1,0 +1,370 @@
+{
+  "case": "2006 Case 36__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge006",
+  "exported_at": "2026-05-18T16:30:13.233564+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3663,
+          3851
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical presentation of this 35-year-old pregnant woman with new-onset hypertension and diabetes at 19 weeks of gestation is complex and suggests multiple potential underlying causes."
+    },
+    {
+      "ranges": [
+        [
+          3852,
+          4072
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given her recent onset of symptoms, family history of hypertension and type 2 diabetes, and the presence of polyuria, polydipsia, and increased facial puffiness, a comprehensive differential diagnosis must be considered."
+    },
+    {
+      "ranges": [
+        [
+          4231,
+          4387
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Preeclampsia is a condition characterized by the onset of hypertension and often proteinuria after 20 weeks of gestation in a previously normotensive woman."
+    },
+    {
+      "ranges": [
+        [
+          4388,
+          4560
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "However, the patient's symptoms began at 19 weeks, which is slightly earlier than typical for preeclampsia, but still within a plausible range given individual variability."
+    },
+    {
+      "ranges": [
+        [
+          4561,
+          4738
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Gestational hypertension, on the other hand, refers to hypertension that develops after 20 weeks of gestation without the presence of proteinuria or other signs of preeclampsia."
+    },
+    {
+      "ranges": [
+        [
+          4739,
+          4937
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Chronic hypertension, defined as hypertension that predates pregnancy or develops before 20 weeks of gestation, is another possibility, especially given the patient's family history of hypertension."
+    },
+    {
+      "ranges": [
+        [
+          4939,
+          5128
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The development of diabetes in this patient, particularly with a blood glucose level of 346 mg per deciliter 1 hour after a glucose challenge, indicates gestational diabetes mellitus (GDM)."
+    },
+    {
+      "ranges": [
+        [
+          5129,
+          5262
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "GDM is defined as diabetes diagnosed for the first time during pregnancy, and it typically develops in the second or third trimester."
+    },
+    {
+      "ranges": [
+        [
+          5263,
+          5420
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "However, the patient's significant hyperglycemia and the need for insulin therapy suggest a more pronounced metabolic derangement than typically seen in GDM."
+    },
+    {
+      "ranges": [
+        [
+          5422,
+          5621
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Considering the patient's clinical presentation, including hypertension, diabetes, polyuria, polydipsia, and facial puffiness, Cushing's syndrome should be considered as a potential underlying cause."
+    },
+    {
+      "ranges": [
+        [
+          5622,
+          5814
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cushing's syndrome is a rare endocrine disorder caused by excess cortisol production, which can lead to hypertension, glucose intolerance or diabetes, weight gain, and other metabolic changes."
+    },
+    {
+      "ranges": [
+        [
+          5815,
+          5954
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's ruddy complexion and mild periorbital edema could be indicative of cortisol excess, although these findings are not specific."
+    },
+    {
+      "ranges": [
+        [
+          5955,
+          6142
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The elevated 24-hour urinary cortisol measurement of 1865 μg is a critical piece of evidence supporting the diagnosis of Cushing's syndrome, as it indicates excessive cortisol production."
+    },
+    {
+      "ranges": [
+        [
+          6144,
+          6277
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Other endocrine disorders, such as pheochromocytoma or hyperaldosteronism, could also potentially explain the patient's hypertension."
+    },
+    {
+      "ranges": [
+        [
+          6278,
+          6482
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Pheochromocytoma, a catecholamine-secreting tumor, typically presents with episodic hypertension, headaches, palpitations, and diaphoresis, which are not prominent features in this patient's presentation."
+    },
+    {
+      "ranges": [
+        [
+          6483,
+          6751
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Hyperaldosteronism, characterized by excess aldosterone production leading to hypertension and hypokalemia, is another possibility, although the patient's presentation lacks specific indicators of this condition, such as significant hypokalemia or metabolic alkalosis."
+    },
+    {
+      "ranges": [
+        [
+          6753,
+          6930
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Given the patient's family history of type 2 diabetes and hypertension, it is also important to consider genetic or familial syndromes that could predispose to these conditions."
+    },
+    {
+      "ranges": [
+        [
+          6931,
+          7104
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, without more specific information on the patient's family history or genetic testing, it is difficult to speculate on the presence of a particular genetic syndrome."
+    },
+    {
+      "ranges": [
+        [
+          7105,
+          7351
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "For instance, familial hyperinsulinism or other genetic forms of diabetes could potentially contribute to the patient's metabolic presentation, but these would not directly explain the hypertension or other signs suggestive of Cushing's syndrome."
+    },
+    {
+      "ranges": [
+        [
+          7353,
+          7579
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Inflammatory or autoimmune causes of hypertension and diabetes, such as autoimmune adrenalitis or thyroiditis, are less likely given the patient's clinical presentation and lack of specific indicators of an autoimmune process."
+    },
+    {
+      "ranges": [
+        [
+          7580,
+          7814
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Autoimmune thyroiditis, for example, could lead to thyroid dysfunction, which in turn might affect glucose metabolism, but the patient's thyroid examination was normal, and there is no mention of thyroid function tests being abnormal."
+    },
+    {
+      "ranges": [
+        [
+          7816,
+          8028
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Structural causes, such as renal artery stenosis or coarctation of the aorta, could potentially explain the hypertension but would not account for the diabetes or other metabolic changes observed in this patient."
+    },
+    {
+      "ranges": [
+        [
+          8029,
+          8202
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Renal artery stenosis, for instance, is a cause of secondary hypertension due to decreased renal perfusion leading to activation of the renin-angiotensin-aldosterone system."
+    },
+    {
+      "ranges": [
+        [
+          8203,
+          8346
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, this condition would not directly cause the significant hyperglycemia or the other clinical features suggestive of Cushing's syndrome."
+    },
+    {
+      "ranges": [
+        [
+          8348,
+          8543
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Systemic diseases, such as systemic lupus erythematosus (SLE) or scleroderma, can cause hypertension and potentially affect glucose metabolism indirectly through inflammation or other mechanisms."
+    },
+    {
+      "ranges": [
+        [
+          8544,
+          8693
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, the patient's presentation lacks specific features of these diseases, such as a characteristic rash, arthralgias, or esophageal dysmotility."
+    },
+    {
+      "ranges": [
+        [
+          8694,
+          8893
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "SLE, for example, can cause a wide range of systemic symptoms, including renal disease that might lead to hypertension, but the patient's presentation does not suggest an autoimmune systemic disease."
+    },
+    {
+      "ranges": [
+        [
+          8895,
+          9099
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Rare causes, including multiple endocrine neoplasia (MEN) syndromes or other genetic disorders affecting endocrine function, should also be considered, especially given the patient's complex presentation."
+    },
+    {
+      "ranges": [
+        [
+          9100,
+          9271
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "MEN syndromes are characterized by the occurrence of tumors in multiple endocrine glands, and some forms can include Cushing's syndrome as part of their clinical spectrum."
+    },
+    {
+      "ranges": [
+        [
+          9272,
+          9376
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "However, without more specific findings or a suggestive family history, these diagnoses are less likely."
+    },
+    {
+      "ranges": [
+        [
+          5955,
+          6142
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The elevated 24-hour urinary cortisol measurement of 1865 μg is a critical piece of evidence supporting the diagnosis of Cushing's syndrome, as it indicates excessive cortisol production."
+    },
+    {
+      "ranges": [
+        [
+          9854,
+          9950
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the patient's presentation suggests a complex interplay of metabolic and endocrine disturbances."
+    },
+    {
+      "ranges": [
+        [
+          9951,
+          10191
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "While several diagnoses could potentially explain aspects of her presentation, the elevated urinary cortisol level is a strong indicator of Cushing's syndrome, which could account for her hypertension, diabetes, and other clinical features."
+    }
+  ]
+}

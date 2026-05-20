@@ -1,277 +1,49 @@
 {
   "case": "2015 Case 40__openai-gpt-oss-120b.md",
-  "exported_at": "2026-05-18T12:20:38.399106+00:00",
+  "exported_at": "2026-05-20T14:08:45.938097+00:00",
   "n_voters": 15,
-  "n_successful": 11,
-  "n_failed": 4,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
       "failed": false,
       "n_resolved": 2,
-      "n_unresolved": 10,
-      "unresolved": [
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis is not mentioned, however, the discussion culminates in a synthesis that identifies the most plausible explanations for this presentation and highlights the key next steps."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not mentioned, however, severe BP exceeds cerebral autoregulation → diffuse cerebral edema, leading to confusion, hallucinations."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If hypertensive encephalopathy or posterior reversible encephalopathy syndrome (PRES) is present, then we would expect to see headache and possibly subtle mental status changes, which is consistent with the patient’s presentation."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis is not mentioned, however, Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation is not mentioned, however, we must first rule out infectious etiologies, such as meningitis or encephalitis, before considering other diagnoses."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not mentioned, however, the patient’s headache improved as her BP fell from > 200 mm Hg to ~ 140/65 mm Hg, suggesting a causal relationship."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis is not mentioned, however, the clinical picture of a 40-year-old woman who is homeless, profoundly under-nourished, and living in chronic psychosocial stress, who presents with a severe, acute-on-chronic hypertension."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned, however, I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients is not mentioned, however, a rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is not mentioned, however, occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 11,
-      "unresolved": [
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis is not found, instead: The patient’s headache fits; visual symptoms absent but can be subtle"
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not found, instead: Severe elevation of blood pressure (usually SBP > 180 mm Hg or DBP > 120 mm Hg) together with evidence of acute target‑organ damage"
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries is not found, instead: The patient’s psychosis predates the hypertensive crisis by years; chronic features (delusions, disorganization) not typical of acute encephalopathy"
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a hypertensive emergency, we would expect to see evidence of acute target-organ damage"
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis is not found, instead: The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis is not found"
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation is not found, instead: We must first rule out secondary causes of hypertension, such as pheochromocytoma or renal artery stenosis"
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not found, instead: The patient’s headache improved as her BP fell from > 200 mm Hg to ~ 140/65 mm Hg, suggesting a causal relationship"
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis is not found, instead: The classic presentation of a 40‑year‑old woman who is homeless, profoundly under‑nourished, and living in chronic psychosocial stress, who presents with a severe, acute‑on‑chronic hypertension"
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not found, instead: The patient's psychosis and hypertension could be related to an underlying condition, such as pheochromocytoma or obstructive sleep apnea"
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients is not found, instead: The probability of hypertensive encephalopathy or PRES is high given the severe elevation of blood pressure and the presence of a severe headache"
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun is not found, instead: The patient’s presentation is similar to that of other patients with hypertensive emergencies, who often have a history of non-adherence to medication and underlying chronic conditions"
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 25,
-      "unresolved": [
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis is not mentioned, however, the discussion culminates in a synthesis that identifies the most plausible explanations for this presentation and highlights the key next steps."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not mentioned, however, the presence of a severe headache in the setting of markedly elevated BP raises the possibility of hypertensive encephalopathy or posterior reversible encephalopathy syndrome (PRES), both of which can present initially with only headache and subtle mental status changes."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun is not mentioned, however, if the patient has hypertensive encephalopathy, we would expect to see headache, nausea, vomiting, seizures, altered mental status, and papilledema."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis is not mentioned, however, the many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation is not mentioned, however, since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not mentioned, however, the patient’s headache improved as her BP fell from > 200 mm Hg to ~ 140/65 mm Hg, suggesting a causal relationship."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis is not mentioned, however, the finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned, however, I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients is not mentioned, however, a rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun is not mentioned, however, occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has hypertensive encephalopathy, we would expect to see headache, nausea, vomiting, seizures, altered mental status, and papilledema."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "Since I cannot exclude the alternative diagnoses, such as a secondary infection of a hydatid cyst, a pyogenic liver abscess, or an infected hepatic tumor, I think that the surgeon should have proceeded with all these diagnoses in mind."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has pheochromocytoma, we would expect to see paroxysmal hypertension, headaches, sweating, palpitations, and elevated catecholamine levels."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnostic criteria for pheochromocytoma include paroxysmal hypertension, headaches, sweating, palpitations, and elevated catecholamine levels."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "Since the patient has severe hypertension and a history of psychosis, we should first rule out secondary causes of hypertension, such as pheochromocytoma, before considering primary psychotic disorders."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The patient’s symptoms improved with antihypertensive therapy, suggesting a causal relationship between the hypertension and the symptoms."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s symptoms are consistent with a pattern of hypertensive encephalopathy, which typically presents with headache, nausea, vomiting, seizures, altered mental status, and papilledema."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is hypertensive encephalopathy, given the patient’s symptoms and the temporal relationship between the severe BP surge and the acute frontal headache."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of pheochromocytoma is low, given the lack of classic associated findings, such as paroxysmal hypertension, headaches, sweating, palpitations, and elevated catecholamine levels."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "There have been case reports of patients with pheochromocytoma presenting with hypertensive encephalopathy, which supports the consideration of this diagnosis in the current case."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 10,
-      "unresolved": [
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis is not mentioned, however, the patient’s presentation is suggestive of hypertensive encephalopathy or posterior reversible encephalopathy syndrome (PRES), both of which can present initially with only headache and subtle mental status changes."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not mentioned, however, the patient’s headache and psychosis could be caused by severe hypertension exceeding cerebral autoregulation, leading to diffuse cerebral edema."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If hypertensive encephalopathy or PRES is present, we would expect to see improvement in symptoms with blood pressure reduction and possibly abnormal findings on MRI with FLAIR and diffusion-weighted imaging."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis is not mentioned, however, the patient’s diagnosis can be approached using a stepwise consideration of the differential diagnoses for severe hypertension, acute headache, and chronic psychosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not mentioned, however, the patient’s presentation requires a systematic approach that considers each symptom complex, the ways they intersect, and the unique epidemiologic and physiologic context of homelessness, chronic untreated mental illness, and poor access to care."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not mentioned, however, the patient’s normal CT head and lack of overt neurologic deficits argue against a full hypertensive emergency, although the working diagnosis is severe uncontrolled hypertension with probable hypertensive encephalopathy (early stage), pending further neuro-imaging and ophthalmologic evaluation."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of severe hypertension, acute headache, and chronic psychosis matches the description of hypertensive encephalopathy or posterior reversible encephalopathy syndrome (PRES), both of which can present initially with only headache and subtle mental status changes."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary psychotic disorder—most consistent with schizophrenia—with possible contributory effects from chronic untreated hypertension, poor sleep, and nutritional deficiencies."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients is not mentioned, however, the patient’s probability of having hypertensive encephalopathy or PRES is increased given the severe hypertension and acute headache."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun is not mentioned, however, the patient’s case is reminiscent of other cases of severe hypertension and psychosis, where a comprehensive treatment plan is essential to address both the medical and psychiatric aspects of the disease."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
-      "failed": true,
+      "failed": false,
       "n_resolved": 0,
       "n_unresolved": 0,
       "unresolved": []
     },
     {
       "voter_id": 6,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 10,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -279,369 +51,47 @@
       "voter_id": 7,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 22,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If hypertensive encephalopathy is present, we would expect to see improvement in symptoms with blood pressure reduction."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "Aortic- or subclavian-wall abnormalities without obvious occlusion from clotting make it unlikely that the patient had antiphospholipid-antibody syndrome, but we must explain the laboratory findings."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        },
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "Several features of this patient’s presentation are suggestive of Crohn’s disease, which is relatively common, with an incidence of approximately 10 cases per 100,000 persons."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The most common disease involving both the large and small vessels is atherosclerosis, and for that reason, anticoagulation therapy was begun."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor"
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although this elderly, hypertensive man probably did have some atheromatous disease, the vessels involved and the laboratory evidence suggest that he had giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
       "failed": false,
       "n_resolved": 0,
-      "n_unresolved": 10,
-      "unresolved": [
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis is not present, however, the patient’s presentation is more suggestive of hypertensive encephalopathy or posterior reversible encephalopathy syndrome (PRES), both of which can present initially with only headache and subtle mental status changes."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present, however, the presence of a severe headache in the setting of markedly elevated BP raises the possibility of hypertensive encephalopathy or posterior reversible encephalopathy syndrome (PRES), both of which can present with diffuse cerebral edema, leading to confusion, hallucinations."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If hypertensive encephalopathy is present, then we would expect to see improvement in symptoms with blood pressure reduction, and the patient’s headache did improve as her BP fell from > 200 mm Hg to ~ 140/65 mm Hg, suggesting a causal relationship."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis is not relevant here, however, the patient’s severe hypertension and headache could be classified using the criteria for hypertensive emergencies, which require evidence of acute target-organ damage."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, however, in this case, we must first rule out hypertensive emergency, given the patient’s severely elevated blood pressure, and then consider other causes of headache and psychosis, such as secondary hypertension, substance-induced psychosis, or primary psychotic disorders."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not relevant here, however, the patient’s clinical presentation, including the improvement in headache with blood pressure reduction, supports the working diagnosis of hypertensive encephalopathy or PRES."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of severe hypertension, headache, and psychosis matches the description of hypertensive encephalopathy or posterior reversible encephalopathy syndrome (PRES), both of which can present with diffuse cerebral edema, leading to confusion, hallucinations."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary psychotic disorder, most consistent with schizophrenia, given the patient’s 12-year history of psychosis, and possible contributory effects from chronic untreated hypertension, poor sleep, and nutritional deficiencies."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of hypertensive emergencies involve older patients with a history of hypertension, the patient’s age and lack of prior hypertension do not rule out this diagnosis, given the presence of severely elevated blood pressure and evidence of target-organ damage, such as the severe headache."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with hypertensive encephalopathy may have a catastrophic reaction after high-dose corticosteroid therapy is begun, however, this is not directly relevant to the current case, where the patient’s symptoms improved with blood pressure reduction."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
       "failed": false,
       "n_resolved": 1,
-      "n_unresolved": 10,
-      "unresolved": [
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis is not found, instead we have: The patient’s BP spikes are dramatic; headache is a classic symptom."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not found, instead we have: Severe elevation of blood pressure (usually SBP > 180 mm Hg or DBP > 120 mm Hg) together with evidence of acute target‑organ damage."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If hypertensive encephalopathy is present, we would expect to see headache and subtle mental status changes, which are evident in this patient."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis is not found, instead we have: The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis is not found, instead we have: The patient meets the blood pressure criterion for a hypertensive emergency, but the target‑organ damage component is not clearly documented."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation is not found, instead we have: The patient has a 12‑year history of psychosis, characterized by disorganized speech and thought, grandiose and religious delusions, auditory hallucinations, and poor insight."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis is not found, instead we have: The patient’s psychosis predates the hypertensive crisis by years; chronic features (delusions, disorganization) not typical of acute encephalopathy."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis is not found, instead we have: The patient’s headache and psychosis could be consistent with a primary psychotic disorder, most consistent with schizophrenia."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not found, instead we have: The patient’s presentation is most consistent with severe uncontrolled essential hypertension with probable hypertensive encephalopathy (early stage) or PRES."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients is not found, instead we have: The degree of BP elevation and the lack of a clear pharmacologic cause warrant biochemical screening for catecholamine excess."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun is not found, instead we have: The patient’s symptoms could be consistent with a diagnosis of hypertensive encephalopathy or PRES, based on prior cases with similar presentations."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 1,
-      "n_unresolved": 10,
-      "unresolved": [
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis is not mentioned, however,  The patient’s BP spikes are dramatic; headache is a classic symptom, and pheochromocytoma remains a differential that must be excluded given the magnitude of BP spikes, especially because the patient’s hypertension is refractory and she lacks a clear medication history."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not mentioned, however,  Severe BP exceeds cerebral autoregulation → diffuse cerebral edema, leading to confusion, hallucinations"
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If hypertensive encephalopathy is the diagnosis, then we should expect to see improvement in symptoms with blood pressure reduction, which is what happened, as the patient’s headache improved as her BP fell from > 200 mm Hg to ~ 140/65 mm Hg."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis is not mentioned, however,  The patient has a 12-year history of psychosis, characterized by disorganized speech and thought, grandiose and religious delusions, auditory hallucinations, and poor insight, which meets criteria for schizophrenia."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first rule out life-threatening conditions such as hypertensive emergency, and then consider other causes of severe hypertension and psychosis, such as pheochromocytoma or substance-induced psychosis."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not mentioned, however,  The patient’s symptoms and lab results are consistent with hypertensive encephalopathy, as evidenced by the severe headache, elevated blood pressure, and improvement with antihypertensive therapy."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of symptoms, including severe hypertension, headache, and psychosis, is consistent with hypertensive encephalopathy, which is a well-known cause of these symptoms."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned, however,  The patient’s presentation is consistent with hypertensive encephalopathy, but I am concerned about the possibility of an underlying secondary cause, such as pheochromocytoma, given the severity of the hypertension."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, the patient’s symptoms and lab results suggest a high probability of hypertensive encephalopathy, given the severe hypertension and headache, and the improvement with antihypertensive therapy."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar patient with severe hypertension and psychosis, who was found to have pheochromocytoma, which suggests that this diagnosis should be considered in the current case."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 16,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysfunction → disinhibition, apathy, and psychosis"
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If hypertensive encephalopathy is present, then we would expect to see headache and subtle mental status changes, which are present in this patient."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation. Tumors of this type typically present as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess. Although I am troubled by the negative serologic test, there are certainly precedents for its occurrence."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient has hypertensive encephalopathy, then we would expect to see improvement in symptoms with BP reduction, which is what happened in this case."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The patient’s presentation is consistent with the diagnostic criteria for hypertensive encephalopathy, which includes severe hypertension, headache, and mental status changes."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first rule out other causes of secondary hypertension, such as pheochromocytoma or renal artery stenosis, before attributing the patient’s hypertension to essential hypertension."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s symptoms are consistent with the classic presentation of hypertensive encephalopathy, which includes severe hypertension, headache, and mental status changes."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the patient’s psychosis is likely a primary psychotic disorder, given the duration and characteristic symptoms, although secondary causes such as substance-induced psychosis or neurosyphilis must be ruled out."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of severe hypertension and headache in this patient increases the probability of hypertensive encephalopathy, especially given the improvement in symptoms with BP reduction."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar patient with hypertensive encephalopathy who presented with severe hypertension and headache, and improved with BP reduction and supportive care."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
       "failed": false,
       "n_resolved": 0,
-      "n_unresolved": 11,
-      "unresolved": [
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis is not mentioned in the text, however,  the patient’s presentation is suggestive of several conditions including hypertensive encephalopathy, schizophrenia, and possible secondary hypertension."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not mentioned, however, the severe, acute-on-chronic hypertension accompanied by a frontal-predominant headache, and a longstanding psychotic disorder, demands a broad differential and the patient’s symptoms suggest brain-stem dysfunction or cerebral pathology."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If hypertensive encephalopathy is the diagnosis, we would expect to see severe elevation of blood pressure together with evidence of acute target-organ damage, and the patient’s presentation of severe hypertension and headache is consistent with this diagnosis."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The diagnosis of hypertensive emergency is defined by severe elevation of blood pressure together with evidence of acute target-organ damage, and this definition guides the diagnostic workup and treatment plan."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not mentioned, however, the patient’s symptoms and lab results are consistent with hypertensive encephalopathy, and the diagnosis is validated by the patient’s response to treatment."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of symptoms including severe hypertension, headache, and psychosis matches the description of hypertensive encephalopathy, and this diagnosis is the most plausible explanation for the patient’s presentation."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is hypertensive encephalopathy, given the patient’s symptoms and lab results, although I am troubled by the lack of clear evidence of target-organ damage."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of hypertensive encephalopathy involve severe elevation of blood pressure, the patient’s presentation of severe hypertension and headache raises the probability of this diagnosis, and further testing such as MRI is needed to confirm the diagnosis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with hypertensive encephalopathy may have a catastrophic reaction if not treated promptly, and this case is reminiscent of similar cases where delayed treatment led to poor outcomes."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "Dilatation of the aorta could be due to several conditions, and the patient’s symptoms of severe hypertension and headache could be due to a rare condition such as cerebral amyloid angiopathy or episodic paroxysmal dysautonomia, although these are less likely."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation is not mentioned, however, the patient’s symptoms and lab results suggest cerebral pathology, and further imaging such as MRI is needed to confirm the diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
-      "failed": true,
+      "failed": false,
       "n_resolved": 0,
       "n_unresolved": 0,
       "unresolved": []
@@ -650,21 +100,12 @@
       "voter_id": 14,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present in this case, but the **presence of a severe headache in the setting of markedly elevated BP** raises the possibility of **hypertensive encephalopathy** or **posterior reversible encephalopathy syndrome (PRES)**."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not applicable in this case, but **hypertensive encephalopathy** and **PRES** must be considered first given the patient’s presentation."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
-      "failed": true,
+      "failed": false,
       "n_resolved": 0,
       "n_unresolved": 0,
       "unresolved": []

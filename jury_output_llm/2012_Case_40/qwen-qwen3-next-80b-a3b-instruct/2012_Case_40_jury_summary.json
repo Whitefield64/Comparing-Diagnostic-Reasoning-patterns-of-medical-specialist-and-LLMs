@@ -1,6 +1,6 @@
 {
   "case": "2012 Case 40__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T11:54:55.291086+00:00",
+  "exported_at": "2026-05-20T14:08:45.915244+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -9,37 +9,8 @@
       "voter_id": 1,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of obstetric emergencies can be grouped based on underlying cause, such as bleeding, trauma, or infection, and their respective treatments and prognoses."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly applicable here, but the principle of first considering life-threatening diagnoses, such as amniotic fluid embolism or massive pulmonary embolism, before moving to less serious ones, like postpartum hemorrhage or anesthetic complications, is crucial."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The sudden onset of hypoxemia, hypotension, chest pain, and PEA is classic for massive PE, but the presence of bradycardia rather than tachycardia, and the context of recent delivery with placenta previa, makes amniotic fluid embolism more likely."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amniotic fluid embolism, given the classic presentation and risk factors, although other diagnoses like postpartum hemorrhage and pulmonary embolism must be considered."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of amniotic fluid embolism involve the sudden onset of hypotension, hypoxemia, and coagulopathy, the probability of this diagnosis is increased by the presence of placenta previa and the temporal relationship to delivery."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with amniotic fluid embolism have been published, underscoring the complexity and variability of presentations in obstetric emergencies."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The rapid progression to PEA without prior warning is hallmark of amniotic fluid embolism, and the bradycardia is a late, terminal finding consistent with profound hypoxia and acidosis, not an initial feature, and does not rule out AFE."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
@@ -52,105 +23,36 @@
       "voter_id": 3,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 3,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of postpartum complications can be grouped on the basis of underlying cause, such as hemorrhage, embolism, cardiac disease, or infection."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of sudden hypoxia, hypotension, and coagulopathy occurring immediately postpartum in a patient with placenta previa—a known risk factor—is classic for amniotic fluid embolism."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amniotic fluid embolism, given the clinical presentation and risk factors."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most compelling and urgent consideration is amniotic fluid embolism."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient’s presentation is similar to that of other reported cases of amniotic fluid embolism, which typically occur in the peripartum period and are associated with placenta previa."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of sudden hypoxia, hypotension, and coagulopathy occurring immediately postpartum in a patient with placenta previa—a known risk factor—is classic for amniotic fluid embolism."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amniotic fluid embolism, given the clinical presentation and risk factors."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must first rule out other life-threatening conditions such as amniotic fluid embolism, massive postpartum hemorrhage, and pulmonary embolism."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amniotic fluid embolism, given the clinical presentation and risk factors."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, the involvement of the larger arteries has been reported in about 10 percent of patients, but this is not directly relevant to the current case."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, but this is not directly relevant to the current case."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The fact that the patient had a hematocrit of 30.9% preoperatively suggests significant preexisting anemia, and a further acute drop could have precipitated cardiovascular decompensation, which is consistent with the proposed diagnosis of amniotic fluid embolism."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of sudden hypoxia, hypotension, and coagulopathy occurring immediately postpartum in a patient with placenta previa is classic for amniotic fluid embolism."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amniotic fluid embolism, given the clinical presentation and risk factors."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of bradycardia rather than tachycardia makes pulmonary embolism less likely, as tachycardia is a more common initial finding in PE."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Placenta previa and placental abruption are among the most frequently associated obstetric conditions with AFE, and this patient’s presentation is consistent with prior case reports and studies."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
@@ -163,41 +65,15 @@
       "voter_id": 9,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of sudden hypoxia, hypotension, and coagulopathy occurring immediately postpartum in a patient with placenta previa is classic for amniotic fluid embolism."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but the approach to ruling out life-threatening conditions first is; thus, we must first consider amniotic fluid embolism, then other obstetric emergencies, followed by cardiovascular and other systemic catastrophes."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of sudden hypoxia, hypotension, and coagulopathy occurring immediately postpartum in a patient with placenta previa is classic for amniotic fluid embolism."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The absence of overt bleeding at the time of collapse does not exclude AFE; coagulopathy may be evolving but not yet clinically apparent on initial labs, thus the probability of AFE remains high given the clinical presentation."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amniotic fluid embolism, given the clinical context and the absence of clear evidence for other diagnoses, although this is not explicitly stated, the reasoning implies a reliance on clinical instinct."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Placenta previa and placental abruption are among the most frequently associated obstetric conditions with AFE, which has been reported in the literature and supports the consideration of AFE in this case."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
@@ -210,45 +86,22 @@
       "voter_id": 12,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of sudden onset of hypotension, hypoxemia, coagulopathy, and cardiovascular collapse during labor, delivery, or immediately postpartum is classic for amniotic fluid embolism."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of sudden hypoxia, hypotension, and coagulopathy occurring immediately postpartum in a patient with placenta previa—a known risk factor—is classic for amniotic fluid embolism."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amniotic fluid embolism, given the clinical presentation and risk factors."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of sudden hypoxia, hypotension, and coagulopathy occurring immediately postpartum in a patient with placenta previa is classic for amniotic fluid embolism."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The rapid progression to PEA without prior warning is hallmark, and the presence of bradycardia rather than tachycardia makes pulmonary embolism less likely."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,

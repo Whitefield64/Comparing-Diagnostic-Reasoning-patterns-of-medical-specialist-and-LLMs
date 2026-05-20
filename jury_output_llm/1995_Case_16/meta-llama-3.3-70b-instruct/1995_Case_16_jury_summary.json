@@ -1,6 +1,6 @@
 {
   "case": "1995 Case 16__meta-llama-3.3-70b-instruct.md",
-  "exported_at": "2026-05-18T07:15:32.543744+00:00",
+  "exported_at": "2026-05-20T14:08:45.686021+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -93,13 +93,8 @@
       "voter_id": 13,
       "failed": false,
       "n_resolved": 23,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The patient's presentation with recurrent ventricular tachycardia and dilated cardiomyopathy could be related to a genetic or familial condition, such as hypertrophic cardiomyopathy or arrhythmogenic right ventricular cardiomyopathy."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,

@@ -1,0 +1,106 @@
+{
+  "case": "2019 Case 07__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge013",
+  "exported_at": "2026-05-18T18:24:13.788862+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9409,
+          9607
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most compelling and statistically most likely diagnosis is Richter transformation (RT), the transformation of CLL into a high-grade lymphoma, most commonly diffuse large B-cell lymphoma (DLBCL)."
+    },
+    {
+      "ranges": [
+        [
+          8772,
+          9018
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the acute nature of her symptoms, the dramatic metabolic activity on PET-CT, the presence of central necrosis, and the development of systemic B symptoms over a 2-week period strongly suggest that this is not merely a progression of indolent CLL."
+    },
+    {
+      "ranges": [
+        [
+          14314,
+          14454
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "If granulomas were present, the diagnosis would be far more compelling, but their absence makes infection less likely as the primary driver."
+    },
+    {
+      "ranges": [
+        [
+          9795,
+          9996
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The clinical hallmarks of RT include rapid lymphadenopathy, B symptoms (fever, night sweats, weight loss), elevated lactate dehydrogenase (LDH), and new-onset cytopenias, all of which are present here."
+    },
+    {
+      "ranges": [
+        [
+          9208,
+          9407
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "We must carefully weigh the evidence for and against each major diagnostic category, considering the patient’s immunocompromised state, prior treatments, and the imaging and histopathologic findings."
+    },
+    {
+      "ranges": [
+        [
+          10695,
+          10835
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The necrosis and intense metabolic activity strongly argue that a large-cell component is present, even if not yet morphologically apparent."
+    },
+    {
+      "ranges": [
+        [
+          19280,
+          19628
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "the constellation of findings—rapidly enlarging, necrotic, intensely FDG-avid inguinal lymphadenopathy in a patient with long-standing CLL, new-onset systemic B symptoms, and a biopsy showing a monomorphic CLL-like infiltrate—is most consistent with Richter transformation, likely to DLBCL, with possible under-sampling of the large-cell component."
+    },
+    {
+      "ranges": [
+        [
+          9608,
+          9794
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "RT occurs in approximately 2–10% of CLL patients over their lifetime, with a median time to transformation of 5–7 years from diagnosis—though it can occur decades later, as in this case."
+    },
+    {
+      "ranges": [
+        [
+          18075,
+          18271
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient’s history of prior surgery for a pelvic mass initially thought to be ovarian but later confirmed as CLL suggests that her disease may have been present in extranodal sites for decades."
+    }
+  ]
+}

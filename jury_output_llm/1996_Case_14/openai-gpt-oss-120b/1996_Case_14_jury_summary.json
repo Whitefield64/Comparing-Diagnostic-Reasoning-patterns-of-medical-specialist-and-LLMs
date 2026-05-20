@@ -1,6 +1,6 @@
 {
   "case": "1996 Case 14__openai-gpt-oss-120b.md",
-  "exported_at": "2026-05-18T07:16:46.220439+00:00",
+  "exported_at": "2026-05-20T14:08:45.712156+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -30,25 +30,8 @@
       "voter_id": 4,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not present, however the following text is: Although the case is complex, the combination of drug-induced TEN and Gram-negative sepsis is the most plausible explanation."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of septate hyphae on sputum suggest a possible invasive pulmonary aspergillosis, especially given the immunosuppressed milieu, although the lack of confirmatory cultures or serum galactomannan renders the diagnosis uncertain."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, similarly this patient’s chronic corticosteroid use may have contributed to the development of TEN."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
@@ -89,81 +72,15 @@
       "voter_id": 10,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had Staphylococcal Scalded Skin Syndrome (SSSS), we would expect to see a lack of mucosal involvement and a positive Nikolsky sign with a superficial split, which is not consistent with the patient’s presentation."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "The patient’s clinical course was complicated by multiple documented infections (Klebsiella pneumoniae bacteremia, polymicrobial urinary infection, probable fungal colonization of the airway), which is consistent with the expected complications of toxic epidermal necrolysis (TEN)."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The SCORTEN score, which incorporates age >40 y, malignancy, >10 % BSA detachment, serum urea >10 mmol/L, glucose >14 mmol/L, and bicarbonate <20 mmol/L, predicts a mortality >50 %, consistent with the outcome."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The presence of mucosal ulceration, conjunctival injection, and histology showing full‑thickness necrosis argue strongly against Staphylococcal Scalded Skin Syndrome (SSSS) and support the diagnosis of toxic epidermal necrolysis (TEN)."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The patient’s presentation is consistent with the classic description of toxic epidermal necrolysis (TEN), including the rapid progression from morbilliform eruption to full‑thickness epidermal detachment, mucosal involvement, and confirmatory biopsy."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is **drug‑induced toxic epidermal necrolysis**, given the patient’s exposure to high‑risk medications, such as vancomycin, and the characteristic clinical and histological features."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of drug‑induced toxic epidermal necrolysis (TEN) is very high, given the temporal relationship between vancomycin exposure and the onset of the rash, as well as the presence of mucosal ulceration and histology showing full‑thickness necrosis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "This case is reminiscent of previously reported cases of toxic epidermal necrolysis (TEN) triggered by vancomycin, which often present with similar clinical and histological features, including the rapid progression from morbilliform eruption to full‑thickness epidermal detachment and mucosal involvement."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had Staphylococcal Scalded Skin Syndrome (SSSS), we would expect to see a lack of mucosal involvement and a positive Nikolsky sign with a superficial split."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The SCORTEN score, which incorporates age >40 y, malignancy, >10 % BSA detachment, serum urea >10 mmol/L, glucose >14 mmol/L, and bicarbonate <20 mmol/L, predicts a mortality >50 %."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, and we must first rule out other causes of liver dysfunction."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, and overall, drug‑induced TEN remains the most parsimonious explanation for the primary dermatologic event."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of full‑thickness epidermal necrosis, mucosal involvement, and systemic symptoms is typical of toxic epidermal necrolysis (TEN)."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The presence of septate hyphae in sputum, in the context of a severely immunocompromised patient, raises the probability of invasive pulmonary aspergillosis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, and similarly, this patient’s chronic corticosteroid use may have contributed to the severity of the disease."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,

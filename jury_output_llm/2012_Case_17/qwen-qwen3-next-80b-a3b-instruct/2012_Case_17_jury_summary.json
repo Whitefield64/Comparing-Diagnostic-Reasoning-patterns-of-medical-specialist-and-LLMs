@@ -1,33 +1,16 @@
 {
   "case": "2012 Case 17__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T11:32:01.352493+00:00",
+  "exported_at": "2026-05-20T14:08:45.902272+00:00",
   "n_voters": 15,
-  "n_successful": 13,
-  "n_failed": 2,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with other diagnoses, such as primary CNS lymphoma, is the presentation and imaging characteristics, which are less typical for these conditions."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of two adjacent, heterogeneously enhancing masses with restricted diffusion and splenial involvement is highly suggestive of glioblastoma."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of glioblastoma is increased by the presence of heterogeneous enhancement, restricted diffusion, and transcallosal extension, which are all characteristic features of this tumor."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The case presentation is reminiscent of previously reported cases of glioblastoma, which typically present with similar imaging and clinical features."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
@@ -40,30 +23,13 @@
       "voter_id": 3,
       "failed": false,
       "n_resolved": 9,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, although not explicitly mentioned here, would likely be evaluated against the clinical and radiographic findings to rule out other diagnoses and confirm glioblastoma."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of two adjacent masses with heterogeneous enhancement and restricted diffusion is highly suggestive of glioblastoma, particularly given the involvement of the splenium and the clinical presentation."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The absence of systemic metastases supports a primary CNS origin, and the elevated LDH and stress hyperglycemia are consistent with a metabolically active tumor, increasing the likelihood of glioblastoma."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The clinical and radiographic features strongly favor a high-grade astrocytic tumor, and the absence of systemic disease, infectious signs, or inflammatory markers supports this conclusion, similar to other reported cases of glioblastoma."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 12,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -71,166 +37,55 @@
       "voter_id": 5,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but the approach of ruling out other diagnoses is relevant, and the fact that the patient’s age, lack of smoking or significant environmental exposures, and absence of prior malignancy are not inconsistent with GBM, which arises sporadically in older adults."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of two adjacent masses with heterogeneous enhancement and restricted diffusion is typical of glioblastoma."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of primary CNS lymphoma, we would expect to see more homogeneous enhancement and a stronger association with immunosuppression or systemic lymphadenopathy."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not applicable here, but we must first rule out other primary CNS malignancies, such as primary CNS lymphoma."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, although not reported, and the distribution of the affected areas, along with the absence of antibodies specific to myeloperoxidase or proteinase 3, would rule out an ANCA-related vasculitis, but are not applicable in this case."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of two adjacent, heterogeneously enhancing masses with restricted diffusion and extensive perilesional white matter edema extending into the splenium of the corpus callosum is highly suggestive of glioblastoma multiforme."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable, but the clinical presentation here is highly concerning for a malignant process."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of glioblastoma involve the cerebral hemispheres, particularly in the frontal and temporal lobes, the presence of two adjacent masses in the left occipital and posterior parietal regions raises the probability of a glioblastoma in this case."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The case of a 54-year-old man with acute, transient, then persistent visual-field loss, bilateral inferior quadrantanopia, and two adjacent, heterogeneously enhancing intracranial masses is reminiscent of previously reported cases of glioblastoma multiforme."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 7,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must first rule out other primary CNS malignancies, such as anaplastic astrocytoma."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, although not yet available, will be crucial in confirming the diagnosis of GBM, and the clinical and radiographic features strongly favor a high-grade astrocytic tumor."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of two adjacent, heterogeneously enhancing masses with restricted diffusion and extensive perilesional white matter edema extending into the splenium of the corpus callosum is highly suggestive of glioblastoma."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary malignant glioma, particularly glioblastoma, given the clinical and radiographic features."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of glioblastoma involve the cerebral hemispheres, particularly in the frontal and temporal lobes, the presence of two adjacent masses in the left occipital and posterior parietal regions increases the likelihood of glioblastoma."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The clinical presentation and radiographic features of this case are reminiscent of previously reported cases of glioblastoma, which typically present with progressive neurological deficits and heterogeneous enhancement on imaging."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 5,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If the patient had a primary CNS lymphoma, we would expect to see more homogeneous enhancement and a more circumscribed lesion, which is not the case here."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but we must first rule out other primary CNS processes, such as lymphoma or inflammatory conditions."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of two adjacent masses with heterogeneous enhancement and restricted diffusion is highly suggestive of glioblastoma."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of glioblastoma is higher given the imaging characteristics, clinical course, and exclusion of systemic disease, making it the most likely diagnosis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The case presentation is similar to other reported cases of glioblastoma, with multifocal involvement, heterogeneous enhancement, and restricted diffusion, supporting the diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not applicable here, but we must first rule out other primary CNS processes, such as PCNSL, before considering GBM."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of two adjacent masses with heterogeneous enhancement and restricted diffusion is highly suggestive of glioblastoma."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of two adjacent masses with heterogeneous enhancement and restricted diffusion is highly suggestive of glioblastoma."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The absence of systemic disease on imaging does not rule out GBM, which rarely metastasizes extracranially."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 12,
-      "n_unresolved": 2,
-      "unresolved": [
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not relevant here, but the presentation of tumors of this type typically presents as abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced, is not applicable to this case."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of two adjacent, heterogeneously enhancing, well-circumscribed intracranial masses with restricted diffusion and extensive perilesional white matter edema extending into the splenium of the corpus callosum is highly suggestive of glioblastoma."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 9,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -238,61 +93,22 @@
       "voter_id": 13,
       "failed": false,
       "n_resolved": 10,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of two adjacent, heterogeneously enhancing, well-circumscribed intracranial masses with restricted diffusion and extensive perilesional white matter edema extending into the splenium of the corpus callosum is highly suggestive of glioblastoma."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysfunction in the brain-stem is not directly suggested here, but the presence of restricted diffusion, heterogeneous enhancement, and splenial involvement raises critical concerns for neoplastic, infectious, inflammatory, or vascular etiologies."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but the presentation of this patient demands a meticulously structured differential diagnosis."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features are not directly described, but the distribution of the affected areas and the absence of certain systemic symptoms support the diagnosis of a primary CNS process."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of two adjacent, heterogeneously enhancing masses with restricted diffusion and extensive perilesional white matter edema is highly suggestive of glioblastoma."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is not explicitly stated by the author, but the conclusion is that glioblastoma is the most compelling diagnosis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of glioblastoma is not explicitly quantified, but the author concludes that it is the most likely diagnosis based on the integration of imaging, clinical course, and exclusion of systemic disease."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "The case presentation is unique, but the author uses general knowledge about glioblastoma and other differential diagnoses to support the conclusion."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 15,
       "failed": false,
       "n_resolved": 11,
-      "n_unresolved": 1,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of two adjacent masses with heterogeneous enhancement and restricted diffusion is classic for glioblastoma."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

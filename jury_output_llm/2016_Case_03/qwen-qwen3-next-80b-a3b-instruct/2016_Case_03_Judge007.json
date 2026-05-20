@@ -1,0 +1,128 @@
+{
+  "case": "2016 Case 03__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge007",
+  "exported_at": "2026-05-18T19:25:58.895283+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8904,
+          9332
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnostic consideration must be **abdominal migraine**, given the episodic, paroxysmal nature of the pain, its association with autonomic features (pallor, diaphoresis, vomiting), its lack of association with defecation or meals, the absence of structural pathology on endoscopy and imaging, the response to tricyclic antidepressants (amitriptyline), and the strong family history of migraines in the maternal line."
+    },
+    {
+      "ranges": [
+        [
+          9705,
+          9913
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The fact that this patient’s pain was episodic, not constant, and associated with autonomic symptoms—especially the episodes where she became pale, diaphoretic, and collapsed—strongly supports this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          9914,
+          10042
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The partial response to amitriptyline, a medication used for migraine prophylaxis in children, further supports this hypothesis."
+    },
+    {
+      "ranges": [
+        [
+          10927,
+          11038
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "One such category is **pancreatic disorders**, particularly **chronic pancreatitis** or **pancreatic divisum**."
+    },
+    {
+      "ranges": [
+        [
+          12342,
+          12544
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another important differential is **mesenteric ischemia**, particularly **mesenteric artery stenosis or vasospasm**, which can occur in children with underlying vasculopathies or hypercoagulable states."
+    },
+    {
+      "ranges": [
+        [
+          13424,
+          13609
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "We must also consider **hereditary angioedema (HAE)**, particularly type I or II, which presents with recurrent episodes of nonpitting edema, often involving the gastrointestinal tract."
+    },
+    {
+      "ranges": [
+        [
+          14599,
+          14709
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "Another rare but critical consideration is **porphyria**, particularly **acute intermittent porphyria (AIP)**."
+    },
+    {
+      "ranges": [
+        [
+          8651,
+          8902
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the episodic nature of pain, its association with vomiting and autonomic symptoms, its resistance to standard therapies for reflux and constipation, and its progression to more severe, prolonged, and disabling episodes with postural relief and pallor."
+    },
+    {
+      "ranges": [
+        [
+          8082,
+          8584
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of fever, diarrhea, weight loss, growth failure, or systemic inflammatory markers, coupled with the normality of multiple investigations—including abdominal imaging, endoscopy with biopsies, serologic testing for celiac disease and *H. pylori*, and metabolic and hepatic panels—creates a diagnostic challenge that lies at the intersection of functional gastrointestinal disorders, neurogastroenterologic syndromes, and rare but critical organic etiologies that may mimic functional disease."
+    },
+    {
+      "ranges": [
+        [
+          10687,
+          10926
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "while abdominal migraine is the most plausible diagnosis, it is a diagnosis of exclusion, and we must rigorously consider other organic etiologies that can mimic it, particularly those that are rare but potentially life-altering if missed."
+    },
+    {
+      "ranges": [
+        [
+          10311,
+          10546
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that pain was not relieved by defecation argues against a purely constipation-related etiology, and the absence of headaches does not exclude the diagnosis—many children with abdominal migraine never develop cephalic symptoms."
+    }
+  ]
+}

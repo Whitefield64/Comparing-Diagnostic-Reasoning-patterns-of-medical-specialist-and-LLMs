@@ -1,0 +1,18 @@
+{
+  "case": "2016 Case 03__openai-gpt-oss-120b.md",
+  "annotator": "Judge009",
+  "exported_at": "2026-05-18T17:59:04.607524+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          37141,
+          37752
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnoses share three core attributes observed in this patient:\n\n1. **Episodic Pain with Autonomic Activation** – Both abdominal migraine and abdominal epilepsy produce autonomic signs (tachycardia, pallor, diaphoresis) during attacks.  \n2. **Normal Structural Evaluation** – The extensive work‑up (labs, imaging, endoscopy) failed to uncover an organic lesion, which is typical for functional and neuro‑gastroenterologic disorders.  \n3. **Family History and Age** – Migraine runs in the family; a familial predisposition to cortical hyperexcitability could underlie both migraine and abdominal epil"
+    }
+  ]
+}

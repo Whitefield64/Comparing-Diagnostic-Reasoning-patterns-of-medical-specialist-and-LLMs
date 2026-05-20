@@ -1,6 +1,6 @@
 {
   "case": "2003 Case 21__qwen-qwen3-next-80b-a3b-instruct.md",
-  "exported_at": "2026-05-18T07:19:28.406766+00:00",
+  "exported_at": "2026-05-20T14:08:45.773437+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -30,25 +30,8 @@
       "voter_id": 4,
       "failed": false,
       "n_resolved": 8,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of multifocal vasculopathy, the temporal association with ANCA positivity, and the absence of other SLE criteria make an overlap syndrome with MPA and secondary APS a compelling consideration."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary vasculitis, given the patient’s age, the multifocal nature of the strokes, and the absence of conventional risk factors."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The elevated CRP and ANCA positivity make MPA a more likely diagnosis than atherosclerosis or primary APS, given the patient’s clinical presentation and the absence of other explanatory factors."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show multifocal, irregular stenoses of the vertebral arteries, which is not typical of atherosclerosis or other vasculitides."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,

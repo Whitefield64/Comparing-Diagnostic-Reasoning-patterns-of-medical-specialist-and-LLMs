@@ -1,514 +1,91 @@
 {
   "case": "2005 Case 22__openai-gpt-oss-120b.md",
-  "exported_at": "2026-05-18T07:52:18.736454+00:00",
+  "exported_at": "2026-05-20T14:08:45.795712+00:00",
   "n_voters": 15,
-  "n_successful": 13,
-  "n_failed": 2,
+  "n_successful": 15,
+  "n_failed": 0,
   "voters": [
     {
       "voter_id": 1,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 7,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If *Pseudomonas* meningo‑encephalitis is present, we would expect to see classic CSF findings such as a neutrophilic pleocytosis, low glucose, and high protein; these data are not presented, and the CSF flow cytometry showed a predominance of T cells with a normal CD4:CD8 ratio, which would be unusual in acute bacterial meningitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but the process of first considering life-threatening diagnoses such as infections and then moving to less serious ones is exemplified in the discussion of prioritizing bacterial meningitis/abscess over other possibilities."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The clinical picture that evolved in this 81‑year‑old man with chronic lymphocytic leukemia (CLL) is that of a rapidly progressive, febrile encephalopathy with focal neurologic deficits, respiratory infection, and widespread lymphadenopathy, which is consistent with several of the considered diagnoses."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of fever, altered mental status, and focal deficits, particularly with thalamic involvement, matches that seen in various infectious and neoplastic processes, suggesting a need to consider these diagnoses based on pattern recognition."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a complex interplay of infectious and neoplastic factors, given the patient’s immunocompromised state and the presence of multiple potential pathogens and disease processes."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, the patient’s presentation and the lack of specific findings for other diseases adjust the probability of certain diagnoses, such as *Pseudomonas* meningo‑encephalitis or septic brain abscess, being more likely given the clinical context."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, and similarly, the patient’s rare combination of symptoms and findings may suggest looking into less common case reports for similar presentations."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 2,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If *Pseudomonas* meningitis is present, we would expect to see a neutrophilic pleocytosis, low glucose, and high protein in the CSF."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first rule out life-threatening infections such as *Pseudomonas* meningo‑encephalitis or septic brain abscess before considering less serious conditions."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of fever, altered mental status, and focal deficits is typical of an infectious process, particularly a bacterial or viral meningitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary infectious process, given the patient’s immunocompromised state and the presence of a focal thalamic lesion."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although the patient has been on broad-spectrum antibiotics, the lack of clinical improvement and the progression of symptoms suggest that the likelihood of a bacterial infection is still high."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar case of a patient with CLL who developed a *Pseudomonas* infection, which presented with similar symptoms and imaging findings."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 3,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If *Pseudomonas* meningo‑encephalitis is the diagnosis, we would expect to see a neutrophilic pleocytosis, low glucose, and high protein in the CSF, which is not the case here."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, but this patient’s presentation does not fit a typical proctitis pattern."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, which typically includes abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced, so we must first rule out other causes of fever and encephalopathy."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but do not fully explain the patient’s clinical presentation."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of fever, altered mental status, and focal deficits, along with the imaging findings of a thalamic lesion with diffusion restriction, is reminiscent of a bacterial or viral encephalitis, particularly in an immunocompromised host."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary infectious process, given the patient’s immunocompromised state and the presence of fever, neck rigidity, and a focal thalamic lesion."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, the patient’s presentation and imaging findings suggest a lower probability of this diagnosis, given the lack of classic symptoms such as jaw claudication or temporal headaches."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "This case reminds me of a similar patient I saw last year, who presented with a rapidly progressive encephalopathy and was found to have a bacterial brain abscess, which was successfully treated with antibiotics."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 4,
       "failed": false,
       "n_resolved": 2,
-      "n_unresolved": 9,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present, instead the patient’s sputum culture grew *P. aeruginosa*, a gram‑negative rod that can cause severe nosocomial pneumonia, especially in patients with chronic lung disease, prior antibiotic exposure, or immunoglobulin deficiency."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If *Pseudomonas* meningo‑encephalitis is the diagnosis, then the patient should have a positive CSF culture for *Pseudomonas*, which is not the case, and the CSF profile should show a neutrophilic pleocytosis, which is also not described."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, but this patient’s presentation does not fit a typical proctitis pattern."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first rule out life‑threatening conditions such as bacterial meningitis, which would require immediate antibiotic therapy, before considering less common diagnoses like fungal infections or paraneoplastic syndromes."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but do not confirm an alternative diagnosis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of fever, nuchal rigidity, and altered mental status fits classic pneumococcal meningitis, but the lack of pneumococcal growth from sputum, blood, or CSF, and the absence of a lobar infiltrate on chest radiograph, argue against this diagnosis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not applicable, but rather a complex interplay of infectious and neoplastic processes, given the patient’s immunocompromised state and multiple systemic findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, the involvement of the larger arteries has been reported in about 10 percent of patients, and this patient’s presentation could be consistent with a large-vessel vasculitis, but the lack of specific serologic or histopathologic data makes this less likely."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar patient with CLL who developed a CNS lymphoma, and this patient’s presentation shares some similarities, including the deep thalamic lesion and new systemic lymphadenopathy, but the rapid progression and presence of fever point toward a more acute process."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 5,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 19,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "The images show a lesion in the midbrain, so a nuclear third- or fourth-nerve palsy is the probable explanation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "A rate of 47 mm per hour or more is a finding that is 92 percent sensitive for giant-cell arteritis, and an elevated level of C-reactive protein (a markedly elevated level in this case, at 29.8 mg per liter) is 100 percent sensitive."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "In the absence of other findings, hemorrhoids are common and not necessarily worrisome."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I agree with them, although I would have needed the added comfort provided by a negative assay of urine for catecholamines."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The finding of a large, solitary mass within the right lobe of the liver is typical of an amebic abscess and is present in the great majority of the cases."
-        },
-        {
-          "label_name": "ABD_SELECTIVE",
-          "text": "The coincidence of sinus pain and lung nodules raises the possibility of Wegener's granulomatosis."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were X, we would expect to see Y, this diagnosis requires Z."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although this elderly, hypertensive man probably did have some atheromatous disease, the vessels involved and the laboratory evidence suggest that he had giant-cell arteritis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 6,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If *Pseudomonas* meningo‑encephalitis is present, we would expect to see a neutrophilic pleocytosis, low glucose, and high protein in the CSF, but these data are not presented."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, but this patient’s presentation is more consistent with an infectious process."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first rule out life‑threatening diagnoses such as bacterial meningitis, sepsis, or cardio‑embolic stroke before considering less serious explanations."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but do not exclude other forms of vasculitis or infection."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of fever, neck stiffness, and altered mental status is classic for meningitis, but the absence of a characteristic CSF profile and the presence of a focal thalamic lesion suggest a more complex diagnosis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary infectious process, given the patient’s immunocompromised state and the presence of a positive sputum culture, but the lack of a clear CSF profile and the atypical imaging findings make this diagnosis less certain."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The probability of *Pseudomonas* meningo‑encephalitis is increased by the presence of a positive sputum culture and the patient’s immunoglobulin deficiency, but is decreased by the lack of classic CSF findings and the relatively indolent radiologic evolution."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar patient with CLL who developed a *Pseudomonas* infection, which presented with a similar clinical picture and imaging findings, but the diagnosis was confirmed by CSF culture and molecular testing."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 7,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If *Pseudomonas* meningo‑encephalitis is present, we would expect to see a positive CSF culture, a neutrophilic pleocytosis, and low glucose, which are not fully presented here."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is not the best test for this case, as the clinical picture suggests an infectious process rather than a systemic vasculitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first rule out life-threatening infectious processes, such as bacterial meningitis or sepsis, before considering less common or less urgent diagnoses like paraneoplastic encephalitis or cerebral venous thrombosis."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features and the distribution of the affected arteries, along with the clinical presentation, rule out an ANCA-related vasculitis and support an infectious etiology."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of fever, altered mental status, and focal neurologic deficits, along with the imaging findings of a thalamic lesion, is suggestive of an infectious process, possibly a bacterial or viral meningoencephalitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary infectious process, given the acute presentation and the combination of systemic and CNS findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of bacterial meningitis involve typical pathogens like *Streptococcus pneumoniae*, the presence of *Pseudomonas* in the sputum culture raises the probability of a *Pseudomonas* meningo‑encephalitis, especially in an immunocompromised host."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "This case reminds me of previous cases of immunocompromised patients with CNS infections, where an atypical presentation and uncommon pathogens were involved, highlighting the need for a broad differential diagnosis in such patients."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 8,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If *Pseudomonas* meningo‑encephalitis is present, we would expect to see classic CSF findings, including a neutrophilic pleocytosis, low glucose, and high protein."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, but this case is primarily concerned with infectious and neoplastic etiologies."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is not directly relevant here, but prioritizing life-threatening diagnoses first, such as bacterial meningitis or sepsis, is crucial."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The clinical picture of rapid deterioration and fever is atypical for pure leukemic infiltration, which tends to be insidious, and the presence of a focal thalamic lesion raises the possibility of an infectious process."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of fever, altered mental status, and focal deficits is typical of an infectious or inflammatory process, particularly in an immunocompromised host."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary infectious process, given the acute presentation and the combination of systemic and CNS findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, the presence of a focal thalamic lesion and systemic symptoms in this patient raises the probability of an infectious etiology, such as *Pseudomonas* meningo‑encephalitis."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, but the clinical presentation here is more suggestive of an infectious process."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 9,
       "failed": false,
       "n_resolved": 4,
-      "n_unresolved": 12,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern matches the description by Wilkinson and Russell in their classic review of giant-cell arteritis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery (in what is called temporal arteritis), involvement of the larger arteries has been reported in about 10 percent of patients."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "The process seems to begin with the accumulation of interferon-secreting CD4 T cells and macrophages expressing tumor necrosis factor in the adventitia of elastic arteries."
-        },
-        {
-          "label_name": "ABD_VISUAL",
-          "text": "Since the lesions are seen on both the diffusion-weighted and fluid-attenuated inversion-recovery images, we know that the age of the lesions is greater than about 12 hours."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "Dilatation of the aorta could be due to active tuberculoisis, but an autoimmune mechanism has also been postulated."
-        },
-        {
-          "label_name": "ABD_CREATIVE",
-          "text": "I wondered whether the infant might have had hypertension caused by a functioning neuroendocrine tumor"
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 10,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If *Pseudomonas* meningo-encephalitis is present, we would expect to see classic CSF findings such as neutrophilic pleocytosis, low glucose, and high protein; however, these data are not presented."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, but this patient’s presentation does not align closely with these categories."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, which typically includes abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced, suggesting that a primary hepatic malignancy is less likely."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 rule out an ANCA-related vasculitis, but do not fully explain the patient’s clinical presentation."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of fever, nuchal rigidity, and altered mental status fits classic pneumococcal meningitis, but the lack of pneumococcal growth from sputum, blood, or CSF, and the patient’s receipt of broad-spectrum β-lactam therapy, make this diagnosis less likely."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the negative serologic test, there are certainly precedents for its occurrence, and the patient’s presentation is consistent with this diagnosis."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of giant-cell arteritis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients, and the patient’s clinical presentation, including fever, headache, and jaw claudication, is consistent with this diagnosis, but the lack of specific diagnostic testing, such as a temporal artery biopsy, makes this diagnosis less certain."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "It has been reported that patients with giant-cell arteritis may have a catastrophic reaction after high-dose corticosteroid therapy is begun, and this patient’s rapid deterioration after receiving corticosteroids is consistent with this phenomenon."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 11,
       "failed": false,
       "n_resolved": 3,
-      "n_unresolved": 8,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a case of *Pseudomonas* meningo‑encephalitis, we would expect to see a more fulminant presentation with classic CSF findings, which are not entirely present here."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "The many types of proctitis can be grouped on the basis of underlying cause, such as infection, ulceration, proctocolitis, autoimmune disease, trauma, cancer, ischemia, and amyloidosis, but this case does not involve proctitis."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first rule out life-threatening infectious causes such as bacterial meningitis, particularly *Pseudomonas* and *Listeria*, before considering less common or non-infectious etiologies."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not mentioned, but the presence of a focal thalamic lesion and diffusion restriction support a localized process."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of fever, altered mental status, and focal neurologic deficits is typical of an infectious or inflammatory process, particularly in an immunocompromised host."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary infectious process, given the patient's immunosuppressed state and the presence of a positive sputum culture."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although the probability of *Pseudomonas* meningo‑encephalitis is raised by the positive sputum culture and the patient's immunoglobulin deficiency, the lack of classic CSF findings and the relatively indolent radiologic evolution make it less likely than a bacterial or viral process."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar case of a patient with CLL who developed a rapidly progressive encephalopathy and was found to have a *Listeria* infection, which suggests that *Listeria* should be considered in the differential diagnosis."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 12,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 3,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -516,38 +93,13 @@
       "voter_id": 13,
       "failed": false,
       "n_resolved": 6,
-      "n_unresolved": 6,
-      "unresolved": [
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess, although I am troubled by the lack of specific findings."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "The isolation of *Pseudomonas* from sputum and the presence of a focal thalamic lesion raise the possibility of *Pseudomonas* meningo‑encephalitis or a septic brain abscess, although the lack of classic CSF findings and the absence of neutropenia make a primary bacterial meningitis less likely."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published, which might be relevant to this patient’s presentation."
-        },
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction, which could be caused by a variety of infectious or non-infectious processes."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "The problem with the diagnosis of a primary hepatic malignant tumor is the presentation, which typically includes abdominal masses, often with abdominal discomfort and weight loss; fever is rare, particularly the type of fever that this boy experienced."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 14,
-      "failed": true,
-      "n_resolved": 0,
+      "failed": false,
+      "n_resolved": 3,
       "n_unresolved": 0,
       "unresolved": []
     },
@@ -555,25 +107,8 @@
       "voter_id": 15,
       "failed": false,
       "n_resolved": 5,
-      "n_unresolved": 4,
-      "unresolved": [
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If this were a bacterial meningitis, we would expect to see a neutrophilic pleocytosis, low glucose, and high protein in the CSF."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of fever, nuchal rigidity, and altered mental status fits classic pneumococcal meningitis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is a primary amebic liver abscess is not mentioned in the text, however the text does mention that the patient’s rapid progression could be compatible with a fulminant paraneoplastic process."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "Occasional single case reports of aortitis or basilar occlusion in association with Wegener's granulomatosis have been published is not mentioned in the text, however the text does mention that Toxoplasma encephalitis is almost exclusively described in HIV/AIDS patients with CD4 counts <100 cells/µL."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     }
   ]
 }

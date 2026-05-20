@@ -1,0 +1,73 @@
+{
+  "case": "2016 Case 15__openai-gpt-oss-120b.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T18:09:40.256680+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          29350,
+          29631
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The balance of probabilities heavily favors a **low‑grade diffuse glioma**, most plausibly an **oligodendroglioma (WHO grade II, IDH‑mutant, 1p/19q‑codeleted)**, with the caveat that the leptomeningeal nodules may represent early tumor spread or a coincident inflammatory response."
+    },
+    {
+      "ranges": [
+        [
+          14569,
+          14818
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The most plausible primary neoplasm is a low‑grade diffuse glioma, particularly an IDH‑mutant, 1p/19q‑codeleted oligodendroglioma, given the patient’s age, relatively subtle imaging features, seizure phenotype, and the pattern of modest enhancement."
+    },
+    {
+      "ranges": [
+        [
+          14819,
+          15006
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of leptomeningeal nodules is unusual but can be explained by early leptomeningeal dissemination, which has been reported in a minority of oligodendrogliomas and astrocytomas."
+    },
+    {
+      "ranges": [
+        [
+          29692,
+          29832
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "High‑grade gliomas** would be expected to demonstrate marked perfusion elevation, elevated choline, and a more aggressive clinical trajector"
+    },
+    {
+      "ranges": [
+        [
+          29949,
+          30081
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Primary CNS lymphoma** classically shows restricted diffusion, a high lipid/lactate peak on spectroscopy, and homogeneous enhancemen"
+    },
+    {
+      "ranges": [
+        [
+          4827,
+          5041
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The discussion is organized into several headings that reflect the principal disease groups that must be considered in a patient with a solitary, partially enhancing intracranial mass and leptomeningeal nodularity."
+    }
+  ]
+}

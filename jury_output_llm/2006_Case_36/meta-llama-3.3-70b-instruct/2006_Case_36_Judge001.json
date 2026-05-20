@@ -1,0 +1,172 @@
+{
+  "case": "2006 Case 36__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-18T16:30:13.229765+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3663,
+          3851
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The clinical presentation of this 35-year-old pregnant woman with new-onset hypertension and diabetes at 19 weeks of gestation is complex and suggests multiple potential underlying causes."
+    },
+    {
+      "ranges": [
+        [
+          3852,
+          4072
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given her recent onset of symptoms, family history of hypertension and type 2 diabetes, and the presence of polyuria, polydipsia, and increased facial puffiness, a comprehensive differential diagnosis must be considered."
+    },
+    {
+      "ranges": [
+        [
+          4231,
+          4387
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Preeclampsia is a condition characterized by the onset of hypertension and often proteinuria after 20 weeks of gestation in a previously normotensive woman."
+    },
+    {
+      "ranges": [
+        [
+          4388,
+          4560
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "However, the patient's symptoms began at 19 weeks, which is slightly earlier than typical for preeclampsia, but still within a plausible range given individual variability."
+    },
+    {
+      "ranges": [
+        [
+          4083,
+          4230
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the new-onset hypertension in pregnancy suggests several possibilities, including preeclampsia, gestational hypertension, and chronic hypertension."
+    },
+    {
+      "ranges": [
+        [
+          4561,
+          4738
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "Gestational hypertension, on the other hand, refers to hypertension that develops after 20 weeks of gestation without the presence of proteinuria or other signs of preeclampsia."
+    },
+    {
+      "ranges": [
+        [
+          4739,
+          4937
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "Chronic hypertension, defined as hypertension that predates pregnancy or develops before 20 weeks of gestation, is another possibility, especially given the patient's family history of hypertension."
+    },
+    {
+      "ranges": [
+        [
+          4939,
+          5128
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The development of diabetes in this patient, particularly with a blood glucose level of 346 mg per deciliter 1 hour after a glucose challenge, indicates gestational diabetes mellitus (GDM)."
+    },
+    {
+      "ranges": [
+        [
+          5422,
+          5621
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Considering the patient's clinical presentation, including hypertension, diabetes, polyuria, polydipsia, and facial puffiness, Cushing's syndrome should be considered as a potential underlying cause."
+    },
+    {
+      "ranges": [
+        [
+          5622,
+          5814
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Cushing's syndrome is a rare endocrine disorder caused by excess cortisol production, which can lead to hypertension, glucose intolerance or diabetes, weight gain, and other metabolic changes."
+    },
+    {
+      "ranges": [
+        [
+          5815,
+          5954
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The patient's ruddy complexion and mild periorbital edema could be indicative of cortisol excess, although these findings are not specific."
+    },
+    {
+      "ranges": [
+        [
+          5955,
+          6142
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The elevated 24-hour urinary cortisol measurement of 1865 μg is a critical piece of evidence supporting the diagnosis of Cushing's syndrome, as it indicates excessive cortisol production."
+    },
+    {
+      "ranges": [
+        [
+          9951,
+          10191
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "While several diagnoses could potentially explain aspects of her presentation, the elevated urinary cortisol level is a strong indicator of Cushing's syndrome, which could account for her hypertension, diabetes, and other clinical features."
+    },
+    {
+      "ranges": [
+        [
+          10351,
+          10536
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The presence of Cushing's syndrome in pregnancy poses significant challenges for both mother and fetus, necessitating careful monitoring and multidisciplinary care to optimize outcomes."
+    },
+    {
+      "ranges": [
+        [
+          11411,
+          11614
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The diagnosis and management of Cushing's syndrome in pregnancy also underscore the importance of a multidisciplinary approach, involving obstetricians, endocrinologists, and other specialists as needed."
+    }
+  ]
+}

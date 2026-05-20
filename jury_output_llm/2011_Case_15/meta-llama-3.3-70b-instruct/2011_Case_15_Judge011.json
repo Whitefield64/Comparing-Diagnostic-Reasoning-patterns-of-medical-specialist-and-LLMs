@@ -1,0 +1,73 @@
+{
+  "case": "2011 Case 15__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T16:57:02.008719+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3795,
+          4017
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "agnoses. Initially, the symptoms of vaginal discharge, headache, and fatigue could be indicative of a variety of conditions, including sexually transmitted infections (STIs), given the patient's history of sexual activity."
+    },
+    {
+      "ranges": [
+        [
+          4488,
+          4717
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "r.\n\nThe development of a painful genital ulcer is a critical aspect of the patient's presentation. Genital ulcers can be caused by a range of conditions, including STIs such as syphilis, herpes simplex virus (HSV), and chancroid."
+    },
+    {
+      "ranges": [
+        [
+          5018,
+          5159
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of a painful ulcer, on the other hand, is more consistent with HSV or chancroid, both of which can cause painful genital ulcers."
+    },
+    {
+      "ranges": [
+        [
+          11421,
+          11574
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient should also be tested for HSV, potentially through viral culture or PCR, given the suspicion of this infection based on the clinical presenta"
+    },
+    {
+      "ranges": [
+        [
+          14425,
+          14730
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": ". The patient's clinical presentation and the epidemiological context suggest that STIs, including HIV, should be considered high on the list of potential diagnoses, with a comprehensive approach to diagnosis and treatment being crucial for optimal patient care.\n\nGiven the complexity of the patient's pre"
+    },
+    {
+      "ranges": [
+        [
+          11742,
+          11986
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "t.\n\nThe patient's response to treatment will be an important factor in determining the diagnosis and guiding further management. If the patient responds well to treatment for a specific STI, this will provide strong evidence for that diagnosis."
+    }
+  ]
+}

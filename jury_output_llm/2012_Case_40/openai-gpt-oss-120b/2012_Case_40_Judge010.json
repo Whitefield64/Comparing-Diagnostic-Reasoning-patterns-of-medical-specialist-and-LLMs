@@ -1,0 +1,62 @@
+{
+  "case": "2012 Case 40__openai-gpt-oss-120b.md",
+  "annotator": "Judge010",
+  "exported_at": "2026-05-18T17:31:53.746084+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          3201,
+          3453
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The abrupt cardiovascular collapse of a 43‑year‑old gravida at 36 weeks + 4 days, occurring **20 minutes after delivery of a healthy neonate** and during closure of the abdominal fascia, is a classic presentation of a **catastrophic peripartum event**."
+    },
+    {
+      "ranges": [
+        [
+          4512,
+          4781
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Amniotic fluid embolism, historically called “anaphylactoid syndrome of pregnancy,” is a rare but fulminant disorder in which **amniotic‑derived debris (fetal squamous cells, mucin, lanugo hair, vernix, meconium, and debris) enters the maternal pulmonary circulation**."
+    },
+    {
+      "ranges": [
+        [
+          4783,
+          5023
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The inciting event is usually a breach of the maternal–fetal interface—most commonly during **labor, operative delivery, or invasive uterine manipulation** (e.g., manual removal of the placenta, curettage, or even vigorous uterine massage)."
+    },
+    {
+      "ranges": [
+        [
+          7465,
+          7726
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "AFE ranks as the **most likely diagnosis** and will be treated as the leading hypothesis pending confirmatory investigations (e.g., presence of fetal squamous cells in pulmonary microvasculature on autopsy, elevated serum tryptase, or rapid development of DIC)."
+    },
+    {
+      "ranges": [
+        [
+          9646,
+          9857
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "he **bradycardic profile** and **immediate peri‑delivery timing** make it **less likely than AFE**.  Nevertheless, it remains a critical alternative because management (e.g., thrombolysis) differs substantially."
+    }
+  ]
+}

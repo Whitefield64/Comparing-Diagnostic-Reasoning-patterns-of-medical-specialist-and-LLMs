@@ -1,0 +1,117 @@
+{
+  "case": "2020 Case 35__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge001",
+  "exported_at": "2026-05-19T08:07:11.366021+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8952,
+          9248
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's presentation with obtundation, symmetric increased attenuation in the basal ganglia, thalami, and dentate nuclei on computed tomography (CT) of the head, and extensive signal loss in these areas on magnetic resonance imaging (MRI) of the head, raises a broad differential diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          14765,
+          14919
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history, symptoms, and findings on imaging studies, a leading diagnosis is a disorder of metal metabolism, such as aceruloplasminemia."
+    },
+    {
+      "ranges": [
+        [
+          15043,
+          15166
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of abnormal signal in the basal ganglia, thalami, and dentate nuclei on MRI is consistent with this condition."
+    },
+    {
+      "ranges": [
+        [
+          9540,
+          9720
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "nfectious causes, such as meningitis or encephalitis, must be considered, given the patient's presentation with obtundation and the findings on cerebrospinal fluid (CSF) analysis. "
+    },
+    {
+      "ranges": [
+        [
+          9729,
+          9930
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the negative results of CSF tests for herpes simplex virus types 1 and 2 DNA, syphilis, and other infectious agents, as well as the lack of growth on CSF cultures, make an infectious cause less likely."
+    },
+    {
+      "ranges": [
+        [
+          11371,
+          11584
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's symptoms of confusion, suspicious and paranoid beliefs, and difficulty with basic diabetes management, which progressed over several months, suggest a possible neurodegenerative or dementing illness."
+    },
+    {
+      "ranges": [
+        [
+          15363,
+          15572
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "While other diagnoses, such as mitochondrial disorder or diabetic encephalopathy, are possible, the patient's history, symptoms, and findings on imaging studies make aceruloplasminemia a more likely diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          13222,
+          13369
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's history of type 1 diabetes mellitus and the presence of diabetic retinopathy suggest a possible diagnosis of diabetic encephalopathy."
+    },
+    {
+      "ranges": [
+        [
+          14447,
+          14611
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's history of chronic lymphocytic leukemia and treatment with rituximab raises the possibility of a paraneoplastic syndrome, such as limbic encephalitis."
+    },
+    {
+      "ranges": [
+        [
+          12160,
+          12380
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The presence of abnormal susceptibility signal throughout the basal ganglia, thalami, dentate nuclei, and cortical surfaces of the cerebral hemispheres on susceptibility-weighted images further supports this possibility."
+    }
+  ]
+}

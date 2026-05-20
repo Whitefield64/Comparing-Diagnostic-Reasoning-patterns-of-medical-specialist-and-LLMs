@@ -1,0 +1,161 @@
+{
+  "case": "2016 Case 03__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge005",
+  "exported_at": "2026-05-18T19:25:58.895056+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          8904,
+          9332
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnostic consideration must be **abdominal migraine**, given the episodic, paroxysmal nature of the pain, its association with autonomic features (pallor, diaphoresis, vomiting), its lack of association with defecation or meals, the absence of structural pathology on endoscopy and imaging, the response to tricyclic antidepressants (amitriptyline), and the strong family history of migraines in the maternal line."
+    },
+    {
+      "ranges": [
+        [
+          9705,
+          9913
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The fact that this patient’s pain was episodic, not constant, and associated with autonomic symptoms—especially the episodes where she became pale, diaphoretic, and collapsed—strongly supports this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          10927,
+          11038
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "One such category is **pancreatic disorders**, particularly **chronic pancreatitis** or **pancreatic divisum**."
+    },
+    {
+      "ranges": [
+        [
+          11039,
+          11270
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Although serum amylase and lipase were repeatedly normal, these enzymes can be normal in chronic or intermittent pancreatic disease, especially in children, where enzyme release may be episodic and not captured during acute phases."
+    },
+    {
+      "ranges": [
+        [
+          12342,
+          12544
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another important differential is **mesenteric ischemia**, particularly **mesenteric artery stenosis or vasospasm**, which can occur in children with underlying vasculopathies or hypercoagulable states."
+    },
+    {
+      "ranges": [
+        [
+          12631,
+          12749
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "episodic, severe abdominal pain with pallor and diaphoresis can be the hallmark of transient mesenteric hypoperfusion."
+    },
+    {
+      "ranges": [
+        [
+          13424,
+          13609
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "We must also consider **hereditary angioedema (HAE)**, particularly type I or II, which presents with recurrent episodes of nonpitting edema, often involving the gastrointestinal tract."
+    },
+    {
+      "ranges": [
+        [
+          13610,
+          13790
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "Gastrointestinal attacks of HAE cause severe, crampy, colicky abdominal pain, nausea, vomiting, and sometimes diaphoresis and pallor—symptoms that closely parallel those described."
+    },
+    {
+      "ranges": [
+        [
+          14599,
+          14709
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Another rare but critical consideration is **porphyria**, particularly **acute intermittent porphyria (AIP)**."
+    },
+    {
+      "ranges": [
+        [
+          14710,
+          14950
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "AIP can present in children with recurrent episodes of severe abdominal pain, often described as colicky or crampy, associated with vomiting, autonomic instability (tachycardia, diaphoresis, pallor), and sometimes neuropsychiatric symptoms."
+    },
+    {
+      "ranges": [
+        [
+          12079,
+          12340
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The fact that the pain was episodic, not progressive, and associated with vomiting rather than steatorrhea makes this less likely than abdominal migraine, but it remains a critical consideration given the back radiation and the failure of standard GI therapies."
+    },
+    {
+      "ranges": [
+        [
+          19897,
+          20012
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The normal abdominal ultrasound and endoscopy make structural, infectious, and inflammatory causes highly unlikely."
+    },
+    {
+      "ranges": [
+        [
+          20169,
+          20496
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient’s clinical course is consistent with a neurogastroenterologic disorder, and while abdominal migraine is the most probable diagnosis, the failure of conventional therapies and the dramatic progression of symptoms warrant a thorough search for these rare organic mimics before accepting a purely functional diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          20785,
+          20978
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "Given the clinical picture, **acute intermittent porphyria** remains a compelling, if uncommon, possibility that may have been uncovered by specific biochemical testing during an acute episode."
+    }
+  ]
+}

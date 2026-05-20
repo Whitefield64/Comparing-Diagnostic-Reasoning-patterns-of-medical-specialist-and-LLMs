@@ -1,6 +1,6 @@
 {
   "case": "1991 Case 43__openai-gpt-oss-120b.md",
-  "exported_at": "2026-05-18T07:14:53.569105+00:00",
+  "exported_at": "2026-05-20T14:08:45.652793+00:00",
   "n_voters": 15,
   "n_successful": 15,
   "n_failed": 0,
@@ -86,45 +86,8 @@
       "voter_id": 12,
       "failed": false,
       "n_resolved": 1,
-      "n_unresolved": 9,
-      "unresolved": [
-        {
-          "label_name": "ABD_CAUSAL",
-          "text": "Dysarthria, nasal speech, diplopia, and vertigo all suggest brain-stem dysfunction is not present, instead the patient has fever, cough, dyspnea, and diffuse bilateral interstitial infiltrates are classic for PCP, and the initial hospitalization 8½ months earlier responded promptly to intravenous trimethoprim‑sulfamethoxazole (TMP‑SMX)."
-        },
-        {
-          "label_name": "DED_HYPOTHETICO",
-          "text": "If CMV pneumonitis is present, we would expect to see hemoptysis, diffuse nodular infiltrates, and high LDH, which are all present in this patient."
-        },
-        {
-          "label_name": "DED_ALGORITHMIC",
-          "text": "Enzyme-linked immunosorbent assay for the presence of ANCA is the best test for systemic vasculitis, but in this case, the patient lacks systemic vasculitic features, so vasculitis is low probability."
-        },
-        {
-          "label_name": "DED_HIERARCHICAL",
-          "text": "We must first rule out PCP, given the patient’s high risk for this infection, and then consider other opportunistic infections such as CMV pneumonitis."
-        },
-        {
-          "label_name": "DED_VALIDATION",
-          "text": "The histopathological features, the distribution of the affected arteries, and the absence of antibodies specific to myeloperoxidase or proteinase 3 are not relevant here, but the cumulative negative microbiology, lack of classic radiographic “ground‑glass” description, and the presence of alternative pathogens weaken the hypothesis of PCP."
-        },
-        {
-          "label_name": "IND_PATTERN",
-          "text": "The pattern of diffuse fine nodular opacities with subtle hilar prominence is typical of CMV pneumonitis, which immediately suggests this diagnosis."
-        },
-        {
-          "label_name": "IND_INTUITION",
-          "text": "I think that the most likely diagnosis in this case is CMV pneumonitis, although I am troubled by the negative serologic test and the lack of other CMV disease."
-        },
-        {
-          "label_name": "IND_BAYESIAN",
-          "text": "Although most cases of CMV pneumonitis involve the temporal artery, involvement of the larger arteries has been reported in about 10 percent of patients, and the patient’s presentation is consistent with this diagnosis, so the probability of CMV pneumonitis is high."
-        },
-        {
-          "label_name": "IND_CASEBASED",
-          "text": "I recall a similar patient with CMV pneumonitis who presented with hemoptysis, diffuse nodular infiltrates, and high LDH, which is consistent with this patient’s presentation."
-        }
-      ]
+      "n_unresolved": 0,
+      "unresolved": []
     },
     {
       "voter_id": 13,

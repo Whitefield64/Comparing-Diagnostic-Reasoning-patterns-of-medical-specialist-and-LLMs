@@ -1,0 +1,304 @@
+{
+  "case": "2005 Case 22__meta-llama-3.3-70b-instruct.md",
+  "annotator": "Judge014",
+  "exported_at": "2026-05-18T16:21:26.648580+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          7435,
+          7612
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "Given the patient's history of CLL, immunocompromised state, and presentation with fever and productive cough, an infectious etiology is high on the list of potential diagnoses."
+    },
+    {
+      "ranges": [
+        [
+          7614,
+          7848
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The patient's symptoms of cough, fever, and productive sputum, along with the radiographic findings of prominence of the right paratracheal stripe and right hilum and bilateral small pleural effusions, suggest a respiratory infection."
+    },
+    {
+      "ranges": [
+        [
+          7849,
+          7936
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The growth of *Pseudomonas aeruginosa* from the sputum culture supports this diagnosis."
+    },
+    {
+      "ranges": [
+        [
+          8068,
+          8288
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "the patient's initial treatment with azithromycin and subsequent lack of improvement, followed by treatment with amoxicillin without resolution, raises the possibility of a resistant organism or a more complex infection."
+    },
+    {
+      "ranges": [
+        [
+          8455,
+          8599
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The presence of nuchal rigidity and the patient's inability to follow commands or respond to pain suggest meningeal irritation or CNS pathology."
+    },
+    {
+      "ranges": [
+        [
+          8730,
+          9056
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "the flow cytometry results from the CSF showing predominantly T cells with a normal immunophenotype and a small number of B cells with an immunophenotype identical to that of cells associated with CLL do not strongly support an infectious meningitis but rather suggest possible CNS involvement by the patient's underlying CLL."
+    },
+    {
+      "ranges": [
+        [
+          9372,
+          9494
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The presence of CLL cells in the CSF could indicate CNS involvement by the leukemia, which is a known complication of CLL."
+    },
+    {
+      "ranges": [
+        [
+          9735,
+          10013
+        ]
+      ],
+      "label": 6,
+      "label_name": "DED_ALGORITHMIC",
+      "text": "The patient's history of multiple cutaneous squamous-cell carcinomas and melanomas, treated with surgery, and prostatic adenocarcinoma, treated with radiation therapy, suggests a possible paraneoplastic syndrome, although this would be less likely given the patient's known CLL."
+    },
+    {
+      "ranges": [
+        [
+          10301,
+          10494
+        ]
+      ],
+      "label": 7,
+      "label_name": "DED_HIERARCHICAL",
+      "text": "The patient's altered mental status and eventual coma, in conjunction with the findings on MRI of the brain showing a region of restricted diffusion in the left thalamus, suggest CNS pathology."
+    },
+    {
+      "ranges": [
+        [
+          10495,
+          10688
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The thalamic lesion could be consistent with an infectious process, such as abscess or encephalitis, a malignant process, such as metastasis or primary CNS lymphoma, or an inflammatory process."
+    },
+    {
+      "ranges": [
+        [
+          16556,
+          16738
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's clinical presentation and laboratory findings are consistent with sepsis, and the presence of *Pseudomonas aeruginosa* in the sputum suggests a possible infectious caus"
+    },
+    {
+      "ranges": [
+        [
+          22326,
+          22496
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "However, the patient's underlying CLL and the presence of CLL cells in the CSF suggest that the CNS involvement could be related to the leukemia or a secondary infection."
+    },
+    {
+      "ranges": [
+        [
+          16556,
+          16740
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's clinical presentation and laboratory findings are consistent with sepsis, and the presence of *Pseudomonas aeruginosa* in the sputum suggests a possible infectious cause."
+    },
+    {
+      "ranges": [
+        [
+          13299,
+          13547
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of multiple medical conditions, including atrial fibrillation, diabetes mellitus, hypertension, and prostatic adenocarcinoma, also raises the possibility of other systemic conditions contributing to the patient's presentation."
+    },
+    {
+      "ranges": [
+        [
+          25490,
+          25725
+        ]
+      ],
+      "label": 2,
+      "label_name": "ABD_CREATIVE",
+      "text": "The patient's clinical presentation and laboratory findings also suggest the possibility of a rare or unusual condition, such as a CNS infection caused by a rare bacterium or fungus, or a paraneoplastic syndrome caused by a rare tumor."
+    },
+    {
+      "ranges": [
+        [
+          10689,
+          10892
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": "The presence of a 5-mm-long, enhancing focus near the left hypoglossal canal, thought to be a schwannoma, is an incidental finding and unlikely to be directly related to the patient's acute presentation."
+    },
+    {
+      "ranges": [
+        [
+          17367,
+          17554
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's clinical presentation and laboratory findings are consistent with CNS vasculitis, and the presence of CLL cells in the CSF suggests a possible malignant or autoimmune cause."
+    },
+    {
+      "ranges": [
+        [
+          21715,
+          21901
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "the patient's clinical presentation and laboratory findings are not typical of a paraneoplastic syndrome, and other diagnoses, such as infectious or inflammatory causes, are more likely."
+    },
+    {
+      "ranges": [
+        [
+          19374,
+          19545
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's clinical presentation and laboratory findings are consistent with CNS lymphoma, and the presence of CLL cells in the CSF suggests a possible malignant cause."
+    },
+    {
+      "ranges": [
+        [
+          21518,
+          21705
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of multiple cancers and treatments raises the possibility of a paraneoplastic syndrome, and the presence of CLL cells in the CSF suggests a possible malignant cause."
+    },
+    {
+      "ranges": [
+        [
+          13548,
+          13753
+        ]
+      ],
+      "label": 4,
+      "label_name": "ABD_CAUSAL",
+      "text": "The patient's use of medications such as warfarin, which can increase the risk of bleeding, and the presence of an enlarged spleen, which can increase the risk of sepsis, are also important considerations."
+    },
+    {
+      "ranges": [
+        [
+          22132,
+          22325
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The patient's clinical presentation and laboratory findings are consistent with a CNS infection, and the presence of *Pseudomonas aeruginosa* in the sputum suggests a possible infectious cause."
+    },
+    {
+      "ranges": [
+        [
+          22335,
+          22496
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "the patient's underlying CLL and the presence of CLL cells in the CSF suggest that the CNS involvement could be related to the leukemia or a secondary infection."
+    },
+    {
+      "ranges": [
+        [
+          16959,
+          17170
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The patient's clinical presentation and laboratory findings are consistent with multi-organ failure, and the presence of CNS involvement and respiratory failure suggests a possible malignant or infectious cause."
+    },
+    {
+      "ranges": [
+        [
+          18826,
+          19009
+        ]
+      ],
+      "label": 10,
+      "label_name": "IND_INTUITION",
+      "text": "The patient's clinical presentation and laboratory findings are consistent with Richter's transformation, and the presence of CLL cells in the CSF suggests a possible malignant cause."
+    },
+    {
+      "ranges": [
+        [
+          20105,
+          20278
+        ]
+      ],
+      "label": 11,
+      "label_name": "IND_BAYESIAN",
+      "text": "The patient's clinical presentation and laboratory findings are consistent with CNS metastases, and the presence of CLL cells in the CSF suggests a possible malignant cause."
+    },
+    {
+      "ranges": [
+        [
+          13299,
+          13547
+        ]
+      ],
+      "label": 12,
+      "label_name": "IND_CASEBASED",
+      "text": "The patient's history of multiple medical conditions, including atrial fibrillation, diabetes mellitus, hypertension, and prostatic adenocarcinoma, also raises the possibility of other systemic conditions contributing to the patient's presentation."
+    }
+  ]
+}

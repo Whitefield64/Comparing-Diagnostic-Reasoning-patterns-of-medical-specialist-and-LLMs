@@ -1,0 +1,95 @@
+{
+  "case": "2008 Case 29__qwen-qwen3-next-80b-a3b-instruct.md",
+  "annotator": "Judge011",
+  "exported_at": "2026-05-18T16:41:45.974243+00:00",
+  "annotations": [
+    {
+      "ranges": [
+        [
+          9311,
+          9463
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "the leading diagnosis for the acute presentation is **functional ileus due to chronic fecal impaction secondary to severe, prolonged anorexia nervosa**."
+    },
+    {
+      "ranges": [
+        [
+          20692,
+          20859
+        ]
+      ],
+      "label": 1,
+      "label_name": "ABD_SELECTIVE",
+      "text": "The leading diagnosis is **restrictive anorexia nervosa with complications of refeeding syndrome, functional ileus from fecal impaction, and autonomic dysregulation**."
+    },
+    {
+      "ranges": [
+        [
+          12628,
+          12821
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "if celiac were the primary driver, one would expect more consistent malabsorption, steatorrhea, and failure to gain weight since childhood, not a period of weight stability followed by decline."
+    },
+    {
+      "ranges": [
+        [
+          9018,
+          9174
+        ]
+      ],
+      "label": 5,
+      "label_name": "DED_HYPOTHETICO",
+      "text": "The absence of air-fluid levels, free air, or vascular compromise on imaging argues strongly against acute mechanical obstruction, ischemia, or perforation."
+    },
+    {
+      "ranges": [
+        [
+          9175,
+          9293
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The resolution of symptoms with bowel evacuation and nasogastric decompression further supports a functional etiology."
+    },
+    {
+      "ranges": [
+        [
+          11118,
+          11339
+        ]
+      ],
+      "label": 8,
+      "label_name": "DED_VALIDATION",
+      "text": "The fact that his ileus resolved completely with bowel evacuation and refeeding argues against a primary myopathic or neuropathic gut disorder; in true CIPO, refeeding alone rarely resolves the underlying motility defect."
+    },
+    {
+      "ranges": [
+        [
+          20175,
+          20345
+        ]
+      ],
+      "label": 9,
+      "label_name": "IND_PATTERN",
+      "text": "The constellation of bradycardia, hypothermia, orthostatic hypotension, constipation, muscle wasting, and poor insight forms a diagnostic triad specific to this disorder."
+    },
+    {
+      "ranges": [
+        [
+          19084,
+          19268
+        ]
+      ],
+      "label": 3,
+      "label_name": "ABD_VISUAL",
+      "text": " The MRI findings of ventricular and sulcal prominence are consistent with cerebral atrophy from chronic malnutrition, a known neuroanatomical consequence of prolonged anorexia nervosa"
+    }
+  ]
+}
